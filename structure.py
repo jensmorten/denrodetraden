@@ -1,17 +1,23 @@
-import os
 import re
 import json
 import pdfplumber
 from pathlib import Path
 from tqdm import tqdm
-from openai import OpenAI
 from dotenv import load_dotenv
+from openai import OpenAI
+
+# ============================================
+# SETUP
+# ============================================
+
 load_dotenv()
-
-
 client = OpenAI()
-MODEL = "gpt-4.1-mini"  # rask og billig, meir enn god nok
 
+MODEL = "gpt-5.2"
+
+# ============================================
+# PDF
+# ============================================
 
 def extract_text_from_pdf(path):
     text = ""
@@ -23,40 +29,96 @@ def extract_text_from_pdf(path):
     return text
 
 
-def split_cases(text):
-    """
-    Splitter protokolltekst i saker basert på PS x/yy.
-    """
-    pattern = r"\n(?=PS\s\d+/\d+)"
-    parts = re.split(pattern, text)
+# ============================================
+# SPLIT SAKER
+# ============================================
 
-    cases = []
-    for p in parts:
-        p = p.strip()
-        if re.match(r"^PS\s\d+/\d+", p):
-            cases.append(p)
+def llm_split_cases(full_text):
 
-    return cases
-
-
-def structure_case_with_llm(case_text, kommune, dato):
     prompt = f"""
-Du får tekst fra en kommunal møteprotokoll.
+Del møteprotokollen i separate saker.
 
-Trekk ut og returner gyldig JSON med følgende felt:
+En sak starter med "PS X/YY".
 
-- kommune
-- dato
-- saksnummer
-- tittel
-- innstilling (hvis finnes)
-- vedtak
-- alternative_forslag (liste med objekter: forslagsstiller, tekst)
-- stemmer (hvis mulig strukturert som {{for: int, mot: int}})
-- rodt_nevnt (true/false)
-- rodt_kontekst (tekst der Rødt eller (R) nevnes, hvis finnes)
+Returner kun JSON:
+[
+  {{
+    "ps": "PS 5/25",
+    "tekst": "hele teksten for saken"
+  }}
+]
 
-Returner KUN gyldig JSON. Ingen forklaring.
+Tekst:
+{full_text}
+"""
+
+    response = client.responses.create(
+        model=MODEL,
+        input=prompt,
+        temperature=0
+    )
+
+    content = response.output_text.strip()
+    content = content.replace("```json", "").replace("```", "").strip()
+
+    return json.loads(content)
+
+
+# ============================================
+# STRUKTURER EN SAK FULLT
+# ============================================
+
+def llm_structure_case(case_text, kommune, dato):
+
+    prompt = f"""
+Du får teksten til én kommunestyresak.
+
+Trekk ut:
+
+1. tittel
+2. innstilling
+3. vedtak
+4. alternative_forslag (liste med forslagsstiller + tekst)
+5. voteringer
+
+For hver votering:
+- beskrivelse
+- alternativer (liste med navn + stemmer)
+- hvem vant (navn på alternativ med flest stemmer)
+
+Der det er mulig:
+- identifiser hvilket alternativ Rødt støttet
+- angi om Rødt var på vinner- eller taper-side
+
+Returner kun gyldig JSON i format:
+
+{{
+  "tittel": "...",
+  "innstilling": "...",
+  "vedtak": "...",
+  "alternative_forslag": [
+    {{
+      "forslagsstiller": "...",
+      "tekst": "..."
+    }}
+  ],
+  "voteringer": [
+    {{
+      "beskrivelse": "...",
+      "alternativer": [
+        {{
+          "navn": "...",
+          "stemmer": 0
+        }}
+      ],
+      "vinner": "...",
+      "rodt": {{
+        "støttet": "...",
+        "var_vinner": true/false/null
+      }}
+    }}
+  ]
+}}
 
 Kommune: {kommune}
 Dato: {dato}
@@ -72,50 +134,72 @@ Tekst:
     )
 
     content = response.output_text.strip()
+    content = content.replace("```json", "").replace("```", "").strip()
 
-    try:
-        return json.loads(content)
-    except json.JSONDecodeError:
-        print("⚠️ Klarte ikkje parse JSON, lagrar råtekst.")
-        return {"error": "invalid_json", "raw": content}
+    return json.loads(content)
 
+
+# ============================================
+# MAIN
+# ============================================
 
 def process_folder(input_folder, kommune):
+
     input_path = Path(input_folder)
-    output_path = input_path.parent.parent / "structured" / kommune
+    output_path = Path("data/structured") / kommune
     output_path.mkdir(parents=True, exist_ok=True)
 
     pdf_files = list(input_path.glob("*.pdf"))
 
     for pdf_file in tqdm(pdf_files):
-        print(f"\n📄 Behandler {pdf_file.name}")
+
+        print(f"\n📄 {pdf_file.name}")
 
         text = extract_text_from_pdf(pdf_file)
 
-        # Finn dato frå filnamn eller tekst (enkel variant)
         date_match = re.search(r"\d{2}\.\d{2}\.\d{4}", text)
         dato = date_match.group(0) if date_match else "ukjent"
 
-        cases = split_cases(text)
+        cases = llm_split_cases(text)
 
-        for case in cases:
-            try:
-                structured = structure_case_with_llm(case, kommune, dato)
-                saksnummer = structured.get("saksnummer", "ukjent").replace("/", "_")
+        for case_obj in cases:
 
-                out_file = output_path / f"{saksnummer}.json"
+            ps_number = case_obj["ps"]
+            case_text = case_obj["tekst"]
 
-                with open(out_file, "w", encoding="utf-8") as f:
-                    json.dump(structured, f, ensure_ascii=False, indent=2)
+            structured_case = llm_structure_case(
+                case_text,
+                kommune,
+                dato
+            )
 
-                print(f"  ✅ Lagret {out_file.name}")
+            # Flag: fremmet Rødt forslag?
+            rodt_fremmet = any(
+                "Rødt" in f["forslagsstiller"] or "(R" in f["forslagsstiller"]
+                for f in structured_case.get("alternative_forslag", [])
+            )
 
-            except Exception as e:
-                print(f"  ❌ Feil i sak: {e}")
+            structured_case["kommune"] = kommune
+            structured_case["dato"] = dato
+            structured_case["saksnummer_ps"] = ps_number
+            structured_case["rodt_fremmet_forslag"] = rodt_fremmet
 
+            filename = ps_number.replace("/", "_")
+            out_file = output_path / f"{filename}.json"
+
+            with open(out_file, "w", encoding="utf-8") as f:
+                json.dump(structured_case, f, ensure_ascii=False, indent=2)
+
+            print(f"  ✅ Lagret {filename}.json")
+
+
+# ============================================
+# RUN
+# ============================================
 
 if __name__ == "__main__":
-    # Endre denne til test-mappa di:
-    process_folder('\data\malvik\2025\test',
+
+    process_folder(
+        r"data\malvik\2025",  # <-- juster ved behov
         kommune="Malvik"
     )
