@@ -1,0 +1,31 @@
+{
+  "tittel": "PS 24/25 Protokoll - Valg av godkjennere",
+  "innstilling": null,
+  "vedtak": "Anders Frost og Turid Eidem Olsen godkjenner protokoll sammen med ordfører.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "Anders Frost og Turid Eidem Olsen godkjenner protokoll sammen med ordfører."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslaget fra Eugen Sørmo (Høyre) om valg av protokollgodkjennere.",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Eugen Sørmo (Høyre)",
+          "stemmer": 30
+        }
+      ],
+      "vinner": "Forslaget fra Eugen Sørmo (Høyre)",
+      "rodt": {
+        "støttet": "Forslaget fra Eugen Sørmo (Høyre)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "31.03.2025",
+  "saksnummer_ps": "PS 24/25",
+  "rodt_fremmet_forslag": false
+}

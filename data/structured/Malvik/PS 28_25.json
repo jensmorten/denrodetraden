@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 28/25 Rammeplan for kulturskolen",
+  "innstilling": "Malvik kommune vedtar å legge nasjonal rammeplan til grunn for sin kulturskoleutvikling.",
+  "vedtak": "Malvik kommune vedtar å legge nasjonal rammeplan til grunn for sin kulturskoleutvikling.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "31.03.2025",
+  "saksnummer_ps": "PS 28/25",
+  "rodt_fremmet_forslag": false
+}

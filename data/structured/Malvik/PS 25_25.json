@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 25/25 Finansrapport for 2024",
+  "innstilling": "Finansrapporten for 2024 tas til orientering.",
+  "vedtak": "Finansrapporten for 2024 tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen: «Finansrapporten for 2024 tas til orientering.»",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "31.03.2025",
+  "saksnummer_ps": "PS 25/25",
+  "rodt_fremmet_forslag": false
+}

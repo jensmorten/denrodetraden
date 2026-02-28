@@ -1,0 +1,35 @@
+{
+  "tittel": "PS 16/25 5/424, 5/426 - Vikhammer Nedre - Midlertidig forbud mot tiltak",
+  "innstilling": "Det nedlegges ikke midlertidig forbud mot tiltak på eiendommene 5/424 og 5/426 i Malvik kommune.",
+  "vedtak": "Det nedlegges ikke midlertidig forbud mot tiltak på eiendommene 5/424 og 5/426 i Malvik kommune.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt) på vegne av R, MDG, INP og SV",
+      "tekst": "Det nedlegges midlertidig forbud mot tiltak på eiendommene 5/424 og 5/426 i Malvik kommune. Tiltak tilknyttet drift, vedlikehold og utvikling av jernbanens infrastruktur unntas fra forbudet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Jens Morten Nilsen sitt alternative forslag satt opp mot kommunedirektørens innstilling.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (ikke midlertidig forbud)",
+          "stemmer": 16
+        },
+        {
+          "navn": "Alternativt forslag (mellertidig forbud med unntak for jernbaneinfrastruktur)",
+          "stemmer": 15
+        }
+      ],
+      "vinner": "Innstillingen (ikke midlertidig forbud)",
+      "rodt": {
+        "støttet": "Alternativt forslag (mellertidig forbud med unntak for jernbaneinfrastruktur)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 16/25",
+  "rodt_fremmet_forslag": true
+}

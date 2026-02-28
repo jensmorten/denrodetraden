@@ -1,0 +1,75 @@
+{
+  "tittel": "PS 32/25 Gjeninnføring av gruppestønad politiske partier",
+  "innstilling": "Ordførers forslag til vedtak\n1. Kommunestyret vedtar at gruppestønad til partigruppene gjeninnføres med virkning fra budsjettåret 2025.\n2. Kommunestyret vedtar omdisponering av midler på kr. 380 000 fra det nedlagte politiske samarbeidet i Trondheimsregionen IPR fra rammeområdet Kommunedirektøren og støtte funksjoner til rammeområdet Folkevalgte, kontrollutvalg og revisjon.\n3. Kommunestyret gir kommunedirektøren fullmakt til å gjøre de nødvendige budsjettkorreksjonene.",
+  "vedtak": "1. Kommunestyret vedtar at gruppestønad til partigruppene gjeninnføres med virkning fra budsjettåret 2025.\n2. Kommunestyret vedtar omdisponering av midler på kr. 380 000 fra det nedlagte politiske samarbeidet i Trondheimsregionen IPR fra rammeområdet Kommunedirektøren og støtte funksjoner til rammeområdet Folkevalgte, kontrollutvalg og revisjon.\n3. Kommunestyret gir kommunedirektøren fullmakt til å gjøre de nødvendige budsjettkorreksjonene.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Kommunestyret vedtar at gruppestønad til partigruppene ikke gjeninnføres før kommunens regnskap igjen viser balanse. Forskrift for folkevalgtes ansettelsesvilkår endres i tråd med vedtaket."
+    },
+    {
+      "forslagsstiller": "May Britt Kjelsaas (Senterpartiet)",
+      "tekst": "Alternativt forslag til vedtakspunkt 1: 1. Kommunestyret vedtar at gruppestønad til partigruppene gjeninnføres med virkning fra budsjettåret 2024."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over alternative forslag fra Jens Morten Nilsen (Rødt): Ikke gjeninnføre gruppestønad før regnskap viser balanse (med tilhørende endring i forskrift).",
+      "alternativer": [
+        {
+          "navn": "For forslaget fra Jens Morten Nilsen (Rødt)",
+          "stemmer": 5
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 26
+        }
+      ],
+      "vinner": "Imot forslaget",
+      "rodt": {
+        "støttet": "For forslaget fra Jens Morten Nilsen (Rødt)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over alternative forslag fra May Britt Kjelsaas (Sp): Endre vedtakspunkt 1 til virkning fra budsjettåret 2024.",
+      "alternativer": [
+        {
+          "navn": "For forslaget fra May Britt Kjelsaas (Sp)",
+          "stemmer": 2
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 29
+        }
+      ],
+      "vinner": "Imot forslaget",
+      "rodt": {
+        "støttet": "Imot forslaget",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over innstillingen (ordførers forslag til vedtak).",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 28
+        },
+        {
+          "navn": "Imot innstillingen",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "Imot innstillingen",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "31.03.2025",
+  "saksnummer_ps": "PS 32/25",
+  "rodt_fremmet_forslag": true
+}

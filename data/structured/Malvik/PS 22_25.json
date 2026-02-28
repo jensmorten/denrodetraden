@@ -1,0 +1,49 @@
+{
+  "tittel": "PS 22/25 Organisering av stemmekretser i Malvik kommune",
+  "innstilling": "1. Velgere fra tidligere stemmekrets Saksvik, skal nå tilhøre Vikhammer stemmekrets.\n2. Velgere fra tidligere stemmekrets Sneisen, skal nå tilhøre Hommelvik stemmekrets.",
+  "vedtak": "1. Velgere fra tidligere stemmekrets Saksvik, skal nå tilhøre Vikhammer stemmekrets.\n2. Velgere fra tidligere stemmekrets Sneisen, skal nå tilhøre Hommelvik stemmekrets.\nKommunestyret ber om at det legges godt til rette for de som av helsemessige årsaker o.l. har vansker med å komme seg til stemmelokalet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Robert Barø (Senterpartiet)",
+      "tekst": "Kommunestyret ber om at det legges godt til rette for de som av helsemessige årsaker o.l. har vansker med å komme seg til stemmelokalet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Robert Barø (Sp).",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 30
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 1
+        }
+      ],
+      "vinner": "For tilleggsforslaget",
+      "rodt": {
+        "støttet": "For tilleggsforslaget",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 22/25",
+  "rodt_fremmet_forslag": false
+}

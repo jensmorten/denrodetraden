@@ -1,0 +1,31 @@
+{
+  "tittel": "PS 11/25 Protokoll - Valg av godkjennere",
+  "innstilling": null,
+  "vedtak": "Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Eugen Sørmo (H) om valg av godkjennere av protokollen.",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Eugen Sørmo (H): Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører.",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Forslaget fra Eugen Sørmo (H): Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører.",
+      "rodt": {
+        "støttet": "Forslaget fra Eugen Sørmo (H): Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører.",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 11/25",
+  "rodt_fremmet_forslag": false
+}

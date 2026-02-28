@@ -1,0 +1,35 @@
+{
+  "tittel": "PS 7/25 Dagsturhytta",
+  "innstilling": "1.Malvik kommune tar imot Dagsturhytta, og Dagsturhytta plasseres på tomt ved Ertstjønna i Malvikmarka, i tråd med kriterier og befaringsrapport fra Trøndelag fylkeskommune.\n2.Kommunedirektøren gis fullmakt til å inngå grunneieravtale med Statskog.\n3.Kommunedirektøren gis fullmakt til å inngå driftsavtale for Dagsturhytta med en frivillig forening.\n4.Det settes opp sanitæranlegg ved Dagsturhytta.\n5.Det bevilges 425 000 kroner til Dagsturhytta, turvei og sanitæranlegg fra Malvik kommunes Friområdefond.",
+  "vedtak": "1. Malvik kommune tar i mot Dagsturhytta, og Dagsturhytta plasseres på tomt ved sørenden av Stavsjøen i Malvikmarka, i tråd med kriterier fra Trøndelag fylkeskommune.\n2.Kommunedirektøren gis fullmakt til å inngå avtale med grunneiere i området.\n3.Kommunedirektøren gis fullmakt til å inngå driftsavtale for Dagsturhytta med en frivillig forening.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "May Britt Kjelsaas (Senterpartiet) på vegne av SP, H, INP, V og PP",
+      "tekst": "1. Malvik kommune tar i mot Dagsturhytta, og Dagsturhytta plasseres på tomt ved sørenden av Stavsjøen i Malvikmarka, i tråd med kriterier fra Trøndelag fylkeskommune.\n2.Kommunedirektøren gis fullmakt til å inngå avtale med grunneiere i området.\n3.Kommunedirektøren gis fullmakt til å inngå driftsavtale for Dagsturhytta med en frivillig forening."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom kommunedirektørens innstilling og May Britt Kjelsaas (Sp) sitt alternative forslag om plassering ved sørenden av Stavsjøen og justerte fullmakter.",
+      "alternativer": [
+        {
+          "navn": "Innstilling",
+          "stemmer": 10
+        },
+        {
+          "navn": "May Britt Kjelsaas (Senterpartiet) alternative forslag",
+          "stemmer": 21
+        }
+      ],
+      "vinner": "May Britt Kjelsaas (Senterpartiet) alternative forslag",
+      "rodt": {
+        "støttet": "May Britt Kjelsaas (Senterpartiet) alternative forslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "27.01.2025",
+  "saksnummer_ps": "PS 7/25",
+  "rodt_fremmet_forslag": false
+}

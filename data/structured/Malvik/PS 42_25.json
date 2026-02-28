@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 42/25 Status og fremdrift politiske saker - Oppfølging politiske vedtak 2024",
+  "innstilling": "Kommunestyret tar rapport over status og fremdrift politiske sak per 31.12.2024 til orientering.",
+  "vedtak": "Kommunestyret tar rapport over status og fremdrift politiske sak per 31.12.2024 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.04.2025",
+  "saksnummer_ps": "PS 42/25",
+  "rodt_fremmet_forslag": false
+}

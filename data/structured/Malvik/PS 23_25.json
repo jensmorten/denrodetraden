@@ -1,0 +1,35 @@
+{
+  "tittel": "PS 23/25 Oppnevning av medlem og varamedlem til vannområdeutvalg for vannområdene Nea-Nidelva og Gaula",
+  "innstilling": "Følgende velges som medlem og varamedlem til representantskapet for vannområdene Nea-Nidelva og Gaula for perioden 2025-2027:\nMedlem:\nVaramedlem:",
+  "vedtak": "Saken utsettes til neste kommunestyre",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørgen Enoksen (Høyre)",
+      "tekst": "Saken utsettes til neste kommunestyre."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslag fra Jørgen Enoksen (Høyre): «Saken utsettes til neste kommunestyre.»",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For utsettelsesforslaget",
+      "rodt": {
+        "støttet": "For utsettelsesforslaget",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 23/25",
+  "rodt_fremmet_forslag": false
+}

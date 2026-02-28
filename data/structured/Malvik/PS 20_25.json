@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 20/25 Renovasjonsgebyr og slampriser 2025",
+  "innstilling": "Renovasjonsgebyr og slampriser for 2025 vedtas i samsvar med forslaget fra Innherred Renovasjon IKS.",
+  "vedtak": "Renovasjonsgebyr og slampriser for 2025 vedtas i samsvar med forslaget fra Innherred Renovasjon IKS.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen (Renovasjonsgebyr og slampriser for 2025 vedtas i samsvar med forslaget fra Innherred Renovasjon IKS).",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 20/25",
+  "rodt_fremmet_forslag": false
+}

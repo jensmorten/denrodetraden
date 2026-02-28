@@ -1,0 +1,31 @@
+{
+  "tittel": "PS 10/25 Oppnevning av samevalgstyre for perioden 2024 – 2027",
+  "innstilling": "Som samevalgstyre i Malvik kommune velges:\nSom leder velges:\nSom nestleder velges:",
+  "vedtak": "Som samevalgstyre i Malvik kommune velges formannskapet.\nSom leder av valgstyret velges Eugen G. Sørmo.\nSom nestleder velges Trond Hoseth.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørgen Enoksen (Høyre)",
+      "tekst": "Som samevalgstyre i Malvik kommune velges formannskapet.\nSom leder av valgstyret velges Eugen G. Sørmo.\nSom nestleder velges Trond Hoseth."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fremmet av Jørgen Enoksen (Høyre) om samevalgstyre (formannskapet), leder (Eugen G. Sørmo) og nestleder (Trond Hoseth).",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Jørgen Enoksen (H)",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Forslaget fra Jørgen Enoksen (H)",
+      "rodt": {
+        "støttet": "Forslaget fra Jørgen Enoksen (H)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "27.01.2025",
+  "saksnummer_ps": "PS 10/25",
+  "rodt_fremmet_forslag": false
+}

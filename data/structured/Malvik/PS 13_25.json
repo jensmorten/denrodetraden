@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 13/25 Behandling av kontrollutvalgets årsmelding 2024",
+  "innstilling": "Kommunestyret tar kontrollutvalgets årsmelding for 2024 til orientering.",
+  "vedtak": "Kommunestyret tar kontrollutvalgets årsmelding for 2024 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kontrollutvalgets innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 13/25",
+  "rodt_fremmet_forslag": false
+}

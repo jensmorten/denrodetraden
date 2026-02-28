@@ -1,0 +1,49 @@
+{
+  "tittel": "PS 3/25 Reguleringsplan for ny E6 mellom Leistad og Stjørdal grense - bruk av plan- og bygningsloven § 3-7",
+  "innstilling": "1. Kommunestyret vedtar at Nye Veier får ansvar for organisering og gjennomføring av planarbeidet for endringer i reguleringsplanen for ny E6 mellom Leistad og Stjørdal grense.\n2. Dette gjelder spesifikt for områdene Hommelvikkrysset og Sveberg.\n3. Vedtaket er fattet i henhold til plan- og bygningsloven § 3-7 første ledd, og gjelder frem til det fattes endelig vedtak i saken.",
+  "vedtak": "1. Kommunestyret vedtar at Nye Veier får ansvar for organisering og gjennomføring av planarbeidet for endringer i reguleringsplanen for ny E6 mellom Leistad og Stjørdal grense.\n2. Dette gjelder spesifikt for områdene Hommelvikkrysset og Sveberg.\n3. Vedtaket er fattet i henhold til plan- og bygningsloven § 3-7 første ledd, og gjelder frem til det fattes endelig vedtak i saken.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Robert Barø (Senterpartiet)",
+      "tekst": "Tilleggsforslag til punkt 2 i innstillingen:\n2. dette gjelder spesifikt for områdene Hommelvikkrysset, Sveberg og Leistad."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Robert Barø (Sp) om å inkludere Leistad i punkt 2",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 8
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 23
+        }
+      ],
+      "vinner": "Imot tilleggsforslaget",
+      "rodt": {
+        "støttet": "For tilleggsforslaget",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "27.01.2025",
+  "saksnummer_ps": "PS 3/25",
+  "rodt_fremmet_forslag": false
+}

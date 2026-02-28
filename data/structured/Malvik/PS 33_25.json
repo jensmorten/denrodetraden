@@ -1,0 +1,31 @@
+{
+  "tittel": "PS 33/25 Oppnevning av medlem og varamedlem til vannområdeutvalg for vannområdene Nea-Nidelva og Gaula",
+  "innstilling": null,
+  "vedtak": "Følgende velges som medlem og varamedlem til representantskapet for vannområdene Nea-Nidelva og Gaula for perioden 2025-2027:\nMedlem: Jørgen Enoksen (H)\nVaramedlem: May Britt Kjelsaas (SP)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørgen Enoksen (H)",
+      "tekst": "Følgende velges som medlem og varamedlem til representantskapet for vannområdene Nea-Nidelva og Gaula for perioden 2025-2027:\nMedlem: Jørgen Enoksen (H)\nVaramedlem: May Britt Kjelsaas (SP)"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Jørgen Enoksen (H) om valg av medlem og varamedlem til representantskapet for vannområdene Nea-Nidelva og Gaula (2025-2027).",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Jørgen Enoksen (H)",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Forslaget fra Jørgen Enoksen (H)",
+      "rodt": {
+        "støttet": "Forslaget fra Jørgen Enoksen (H)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "31.03.2025",
+  "saksnummer_ps": "PS 33/25",
+  "rodt_fremmet_forslag": false
+}

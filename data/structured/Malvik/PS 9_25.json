@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 9/25 Oppnevning av nytt medlem til brukerutvalget",
+  "innstilling": "1.Som nytt medlem til brukerutvalget i Malvik kommune velges Jon Arne Leistad.\n2.Som nytt 4.varamedlem til brukerutvalget velges Torkild Lønvik.",
+  "vedtak": "1.Som nytt medlem til brukerutvalget i Malvik kommune velges Jon Arne Leistad.\n2.Som nytt 4.varamedlem til brukerutvalget velges Torkild Lønvik.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "27.01.2025",
+  "saksnummer_ps": "PS 9/25",
+  "rodt_fremmet_forslag": false
+}

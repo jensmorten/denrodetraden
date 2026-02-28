@@ -1,0 +1,97 @@
+{
+  "tittel": "PS 17/25 54/2 54/244 og 54/283 Solbakken - Midlertidig forbud mot tiltak",
+  "innstilling": "Det nedlegges ikke midlertidig forbud mot tiltak på eiendommene 54/283, 54/2 og 54/244.",
+  "vedtak": "Det nedlegges ikke midlertidig forbud mot tiltak på eiendommene 54/283, 54/2 og 54/244.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Det nedlegges midlertidig forbud mot tiltak på eiendommene 54/2, 54/244 og 54/283.\nTiltak tilknyttet drift, vedlikehold og utvikling av jernbanens infrastruktur unntas fra forbudet."
+    },
+    {
+      "forslagsstiller": "Ketil Sivertsen (Senterpartiet)",
+      "tekst": "Hommelvik Midtre.\nDet nedlegges midlertidig forbud mot tiltak på eiendommen 54/244. I tråd med sak FO 27/24.\nKommunedirektøren bes gå i dialog med kirkelig fellesråd om alternative plasseringer av gravlund nærmere Hommelvik Kirke som ikke kommer i konflikt med dyrket mark. Det bør også ses på mulighetene for etablering av urnevegg på Hommelvik kirkegård."
+    },
+    {
+      "forslagsstiller": "Ketil Sivertsen (Senterpartiet)",
+      "tekst": "Nygården.\nDet nedlegges midlertidig forbud mot tiltak på eiendommene 54/283 og 54/2. I tråd med sak FO 27/24."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Prøvevotering: Alternativt forslag fra Jens Morten Nilsen (Rødt) om midlertidig forbud mot tiltak på 54/2, 54/244 og 54/283, med unntak for jernbaneinfrastruktur.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 17
+        }
+      ],
+      "vinner": "Mot forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Prøvevotering: Alternativt forslag fra Ketil Sivertsen (Sp) ang. Hommelvik Midtre (midlertidig forbud på 54/244 + dialog om gravlund/urnevegg).",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 17
+        }
+      ],
+      "vinner": "Mot forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Prøvevotering: Alternativt forslag fra Ketil Sivertsen (Sp) ang. Nygården (midlertidig forbud på 54/283 og 54/2).",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 17
+        }
+      ],
+      "vinner": "Mot forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Endelig votering: Kommunedirektørens innstilling (ikke nedlegge midlertidig forbud mot tiltak på 54/283, 54/2 og 54/244).",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 17
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 14
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "Mot innstillingen",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 17/25",
+  "rodt_fremmet_forslag": true
+}

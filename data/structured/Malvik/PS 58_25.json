@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 58/25 Mindre endring av kommuneplanens arealdel 2018-2030",
+  "innstilling": "Med hjemmel i plan- og bygningslovens § 11-17 annet ledd vedtas følgende mindre endring av kommuneplanens arealdel 2018-2030: Eiendom med gnr. 6, bnr.269 med størrelse 1160m² omreguleres fra friområde til boligformål.",
+  "vedtak": "Med hjemmel i plan- og bygningslovens § 11-17 annet ledd vedtas følgende mindre endring av kommuneplanens arealdel 2018-2030: Eiendom med gnr. 6, bnr.269 med størrelse 1160m² omreguleres fra friområde til boligformål.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.06.2025",
+  "saksnummer_ps": "PS 58/25",
+  "rodt_fremmet_forslag": false
+}

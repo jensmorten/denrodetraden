@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 61/25 Tilstandsrapport for grunnskolen i Malvik kommune 2024",
+  "innstilling": "Tilstandsrapport for grunnskolen i Malvik kommune 2024 tas til orientering.",
+  "vedtak": "Tilstandsrapport for grunnskolen i Malvik kommune 2024 tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen (Tilstandsrapport for grunnskolen i Malvik kommune 2024 tas til orientering).",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.06.2025",
+  "saksnummer_ps": "PS 61/25",
+  "rodt_fremmet_forslag": false
+}

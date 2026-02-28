@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 4/25 Naturmangfoldplan - kartlagt naturmangfold i Malvik kommune",
+  "innstilling": "Naturmangfoldplanen tas til orientering.\nKommunedirektøren oppdaterer naturmangfoldplanen når det gjennomføres nye kartlegginger.",
+  "vedtak": "Naturmangfoldplanen tas til orientering.\nKommunedirektøren oppdaterer naturmangfoldplanen når det gjennomføres nye kartlegginger.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering innstilling",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "27.01.2025",
+  "saksnummer_ps": "PS 4/25",
+  "rodt_fremmet_forslag": false
+}

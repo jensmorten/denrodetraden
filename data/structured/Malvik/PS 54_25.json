@@ -1,0 +1,35 @@
+{
+  "tittel": "PS 54/25 Utredning 2025 - legevaktsordning for Malvik kommune",
+  "innstilling": "• Malvik kommune inngår samarbeid med Trondheim kommune legevakt\n• Samarbeidsavtalen trer i kraft 01.01.26\n• Kommunedirektøren får fullmakt til å inngå avtalen\n• De økonomiske konsekvensene innarbeides i kommunedirektørens forslag til HØP 2026 – 2029 med budsjett for 2026",
+  "vedtak": "• Malvik kommune inngår samarbeid med Trondheim kommune legevakt\n• Samarbeidsavtalen trer i kraft 01.01.26\n• Kommunedirektøren får fullmakt til å inngå avtalen\n• De økonomiske konsekvensene innarbeides i kommunedirektørens forslag til HØP 2026 – 2029 med budsjett for 2026",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Vi vil opprettholde kommunedirektørens innstilling til HV\n• Malvik kommune inngår samarbeid med Værnesregionen legevakt\n• Samarbeidsavtalen trer i kraft 1.1.2026\n• Kommunedirektøren får fullmakt til å inngå avtalen.\n• Innsparingen innarbeides i kommunedirektørens forslag til HØP 2026 - 2029 med budsjett for 2026"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen ble satt opp mot Jens Morten Nilsens alternative forslag.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (samarbeid med Trondheim kommune legevakt)",
+          "stemmer": 26
+        },
+        {
+          "navn": "Jens Morten Nilsens alternative forslag (samarbeid med Værnesregionen legevakt)",
+          "stemmer": 5
+        }
+      ],
+      "vinner": "Innstillingen (samarbeid med Trondheim kommune legevakt)",
+      "rodt": {
+        "støttet": "Jens Morten Nilsens alternative forslag (samarbeid med Værnesregionen legevakt)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.06.2025",
+  "saksnummer_ps": "PS 54/25",
+  "rodt_fremmet_forslag": true
+}

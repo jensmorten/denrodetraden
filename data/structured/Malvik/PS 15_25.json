@@ -1,0 +1,30 @@
+{
+  "tittel": "PS 15/25 Regulering investeringsbudsjett 2025",
+  "innstilling": "1.Kommunestyret vedtar følgende endringer av investeringsbudsjettet for 2025.\nInvesteringer i varige driftsmidler endres i tråd med avvikene i tabell 1.\n2.Kommunestyret gir kommunedirektøren fullmakt til å gjennomføre de\nnødvendige budsjettkorreksjonene.",
+  "vedtak": "1.Kommunestyret vedtar følgende endringer av investeringsbudsjettet for 2025.\nInvesteringer i varige driftsmidler endres i tråd med avvikene i tabell 1.\n2.Kommunestyret gir kommunedirektøren fullmakt til å gjennomføre de\nnødvendige budsjettkorreksjonene.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 15/25",
+  "rodt_fremmet_forslag": false
+}

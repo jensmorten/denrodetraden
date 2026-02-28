@@ -1,0 +1,31 @@
+{
+  "tittel": "PS 41/25 Valg av nytt varamedlem til kontrollutvalget",
+  "innstilling": "Som nytt varamedlem til kontrollutvalget i Malvik kommune velges:",
+  "vedtak": "Som nytt varamedlem til kontrollutvalget i Malvik kommune velges Anne-Lise Fagerheim.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Thomas Ulstad (Sosialistisk Venstreparti)",
+      "tekst": "Som erstatter for Jan Arne Fagertun som vara i kontrollutvalget velges Anne-Lise Fagerheim"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Thomas Ulstad (SV) om å velge Anne-Lise Fagerheim som erstatter for Jan Arne Fagertun som vara i kontrollutvalget.",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Thomas Ulstad (SV)",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Forslaget fra Thomas Ulstad (SV)",
+      "rodt": {
+        "støttet": "Forslaget fra Thomas Ulstad (SV)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.04.2025",
+  "saksnummer_ps": "PS 41/25",
+  "rodt_fremmet_forslag": false
+}

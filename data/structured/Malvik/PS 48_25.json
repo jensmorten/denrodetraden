@@ -1,0 +1,31 @@
+{
+  "tittel": "PS 48/25 Protokoll - valg av godkjennere",
+  "innstilling": null,
+  "vedtak": "Kjersti Garnes Overvik (AP) og Anders Frost (H) godkjenner protokoll sammen med ordfører.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "Ordfører foreslår Kjersti Garnes Overvik (AP) og Anders Frost (H) til å signere protokoll sammen med møteleder."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Eugen Sørmo (Høyre) om at Kjersti Garnes Overvik (AP) og Anders Frost (H) signerer protokoll sammen med møteleder/ordfører.",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Eugen Sørmo (Høyre)",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Forslaget fra Eugen Sørmo (Høyre)",
+      "rodt": {
+        "støttet": "Forslaget fra Eugen Sørmo (Høyre)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.06.2025",
+  "saksnummer_ps": "PS 48/25",
+  "rodt_fremmet_forslag": false
+}

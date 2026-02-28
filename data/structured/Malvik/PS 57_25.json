@@ -1,0 +1,57 @@
+{
+  "tittel": "PS 57/25 Endring av planavgrensning - områdeplan for Nye Sveberg næringsområde (planid 201904)",
+  "innstilling": "Med hjemmel i plan- og bygningsloven § 12-8 tillates oppstart av reguleringsplanarbeid for Nye Sveberg næringsområde, med forslag til ny planavgrensning vist i vedlegg 1, med følgende vilkår:\n1. Det tillates ikke nedbygging av rikmyr.\n2. Det skal sikres tiltak for å redusere fjernvirkning, eksempelvis begrensninger i materialbruk, fargebruk og lysforurensning, samt bevaring av eksisterende vegetasjon og kantsoner.\n3. Visuell påvirkning mot Sveberg/Svehøgda må i særlig grad belyses.\n4. Planarbeidet skal ha et særlig fokus på faktisk arealbehov, eksempelvis fellesløsninger for trafikklogistikk, snuområder etc.\n5. Det skal sikres god utnytting av næringsarealet, det bør sikres minst like høy utnytting som minimumskravet i kommuneplanens arealdel (50% BYA).\n6. Det skal sikres begrensninger i bakkeparkering. Det bør ses på mulighet for at all parkering skjer under bakken.\nDet gis fullmakt til kommunedirektøren slik at eventuelle mindre endringer i fastsatt planprogram kan vedtas administrativt.",
+  "vedtak": "Med hjemmel i plan- og bygningsloven § 12-8 tillates oppstart av reguleringsplanarbeid for Nye Sveberg næringsområde, med forslag til ny planavgrensning vist i vedlegg 1, med følgende vilkår:\n1. Det tillates ikke nedbygging av myr og/eller nedslagsfelt for myr.\n2. Det skal sikres tiltak for å redusere fjernvirkning, eksempelvis begrensninger i materialbruk, fargebruk og lysforurensning, samt bevaring av eksisterende vegetasjon og kantsoner.\n3. Visuell påvirkning mot Sveberg/Svehøgda må i særlig grad belyses og hensyntas.\n4. Planarbeidet skal ha et særlig fokus på faktisk arealbehov, eksempelvis fellesløsninger for trafikklogistikk, snuområder etc.\n5. Det skal sikres god utnytting av næringsarealet, det bør sikres minst like høy utnytting som minimumskravet i kommuneplanens arealdel (50% BYA).\n6. Det skal sikres begrensninger i bakkeparkering. Det skal ses på mulighet for at all parkering skjer under bakken.\nDet gis fullmakt til kommunedirektøren slik at eventuelle mindre endringer i fastsatt planprogram kan vedtas administrativt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Vedtak om oppstart av reguleringsplanarbeid for Nye Sveberg næringsområde utsettes til ny KPA foreligger."
+    },
+    {
+      "forslagsstiller": "Frank Runar Gansmo (Miljøpartiet De Grønne)",
+      "tekst": "Med hjemmel i plan- og bygningsloven § 12-8 tillates oppstart av reguleringsplanarbeid for Nye Sveberg næringsområde, med forslag til ny planavgrensning vist i vedlegg 1, med følgende vilkår:\n• Det tillates ikke nedbygging av myr og/eller nedslagsfelt for myr.\n• Det skal sikres tiltak for å redusere fjernvirkning, eksempelvis begrensninger i materialbruk, fargebruk og lysforurensning, samt bevaring av eksisterende vegetasjon og kantsoner.\n• Visuell påvirkning mot Sveberg/Svehøgda må i særlig grad belyses og hensyntas.\n• Planarbeidet skal ha et særlig fokus på faktisk arealbehov, eksempelvis fellesløsninger for trafikklogistikk, snuområder etc.\n• Det skal sikres god utnytting av næringsarealet, det bør sikres minst like høy utnytting som minimumskravet i kommuneplanens arealdel (50% BYA).\n• Det skal sikres begrensninger i bakkeparkering. Det skal ses på mulighet for at all parkering skjer under bakken.\nDet gis fullmakt til kommunedirektøren slik at eventuelle mindre endringer i fastsatt planprogram kan vedtas administrativt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Jens Morten Nilsen (Rødt) sitt alternative forslag om å utsette oppstart av reguleringsplanarbeidet til ny KPA foreligger.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 7
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 24
+        }
+      ],
+      "vinner": "Imot forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Innstillingen satt opp mot forslag fra Frank Runar Gansmo (MDG).",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Gansmo",
+          "stemmer": 31
+        },
+        {
+          "navn": "Innstillingen",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Forslag fra Gansmo",
+      "rodt": {
+        "støttet": "Forslag fra Gansmo",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.06.2025",
+  "saksnummer_ps": "PS 57/25",
+  "rodt_fremmet_forslag": true
+}

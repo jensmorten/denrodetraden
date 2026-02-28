@@ -1,0 +1,53 @@
+{
+  "tittel": "PS 38/25 Reviderte satser for matombringing og matabonnement fra 1.5.2025",
+  "innstilling": " Forslag til reviderte betalingssatser for matombringing (varm mat) og matabonnement, vedtas\n Betalingssatsene gjøres gjeldende fra 1.5.2025.",
+  "vedtak": " Forslag til reviderte betalingssatser for matombringing (varm mat) og matabonnement, vedtas med følgende endring:\nStandardmiddag m/dessert Kr. 146,00\nStandardmiddag u/dessert Kr. 132,00\nSpesialkost Kr. 154,00\nFullkostabbonnement Kr. 5 940,00\n økning på kr. 7,00 per dag i stedet for kr. 5,00 per dag (30 dg. )\n Betalingssatsene gjøres gjeldende fra 1.5.2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anders Frost (Høyre) på vegne av flertallspartiene",
+      "tekst": "Jeg foreslår på vegne av flertallspartiene følgende nye satser for matombringing og matabbonement fra 01.05.2025:\nStandardmiddag m/dessert Kr. 146,00\nStandardmiddag u/dessert Kr. 132,00\nSpesialkost Kr. 154,00\nFullkostabbonnement Kr. 5 940,00\n økning på kr. 7,00 per dag i stedet for kr. 5,00 per dag (30 dg. )"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fra Anders Frost (H) om nye satser og økning på kr 7 per dag (i stedet for kr 5).",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": 17
+        },
+        {
+          "navn": "Imot endringsforslaget",
+          "stemmer": 14
+        }
+      ],
+      "vinner": "For endringsforslaget",
+      "rodt": {
+        "støttet": "Imot endringsforslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over innstillingen med vedtatte endringer (endelig vedtak).",
+      "alternativer": [
+        {
+          "navn": "For innstillingen med vedtatte endringer",
+          "stemmer": 24
+        },
+        {
+          "navn": "Imot innstillingen med vedtatte endringer",
+          "stemmer": 7
+        }
+      ],
+      "vinner": "For innstillingen med vedtatte endringer",
+      "rodt": {
+        "støttet": "Imot innstillingen med vedtatte endringer",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.04.2025",
+  "saksnummer_ps": "PS 38/25",
+  "rodt_fremmet_forslag": false
+}

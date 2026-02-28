@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 37/25 Utskrivningsklare pasienter, betalingsdøgn og ventelister 2024",
+  "innstilling": "Saken tas til orientering.",
+  "vedtak": "Saken tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.04.2025",
+  "saksnummer_ps": "PS 37/25",
+  "rodt_fremmet_forslag": false
+}

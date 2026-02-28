@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 53/25 Årsrapport 2024",
+  "innstilling": "1. Kommunestyret godkjenner Malvik kommunes årsregnskap for 2024\n2. Kommunestyret godkjenner kommunedirektørens årsberetning for 2024\n3. Kommunestyret tar kommunedirektørens årsrapport for 2024 til orientering",
+  "vedtak": "1. Kommunestyret godkjenner Malvik kommunes årsregnskap for 2024\n2. Kommunestyret godkjenner kommunedirektørens årsberetning for 2024\n3. Kommunestyret tar kommunedirektørens årsrapport for 2024 til orientering",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.06.2025",
+  "saksnummer_ps": "PS 53/25",
+  "rodt_fremmet_forslag": false
+}

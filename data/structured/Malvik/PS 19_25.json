@@ -1,0 +1,26 @@
+{
+  "tittel": "PS 19/25 Endring i priser på kirkegårdene - gravplass",
+  "innstilling": "Nye betalingssatser foreslått av Malvik kirkelig fellesråd vedtas som gjeldende satser fra 01.01.2025.",
+  "vedtak": "Nye betalingssatser foreslått av Malvik kirkelig fellesråd vedtas som gjeldende satser fra 01.01.2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 19/25",
+  "rodt_fremmet_forslag": false
+}
