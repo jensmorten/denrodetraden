@@ -1,0 +1,26 @@
+{
+  "tittel": "Årsmelding fra Ungdomsrådet 2025",
+  "innstilling": "Årsmeldingen taes til orientering.",
+  "vedtak": "Årsmeldingen taes til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens forslag til vedtak: 'Årsmeldingen taes til orientering.'",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens forslag",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Kommunedirektørens forslag",
+      "rodt": {
+        "støttet": "Kommunedirektørens forslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "10.02.2026",
+  "saksnummer_ps": "PS 1/26",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,71 @@
+{
+  "tittel": "Skisseprosjekt omsorgsboliger Sveberg og mulig tjenestekjøp",
+  "innstilling": "1. Kommunestyret vedtar at det fremlagte skisseprosjektet legges til grunn for videre gjennomføring av prosjektet. Kommunedirektøren igangsetter arbeidet med å kontrahere entreprenør for bygging av boligene og fellesbygget så raskt som mulig.\n2. Kommunestyret ber kommunedirektøren å inngå avtale, med privat eller ideell aktør, om kjøp eller samarbeid om tjenesten, inkludert leie av inntil to omsorgsboliger, for brukere med høy risiko for utagering og vold.",
+  "vedtak": "1. Kommunestyret vedtar at det fremlagte skisseprosjektet legges til grunn for videre gjennomføring av prosjektet. Kommunedirektøren igangsetter arbeidet med å kontrahere entreprenør for bygging av boligene og fellesbygget så raskt som mulig.\n2. Kommunestyret ber kommunedirektøren å inngå avtale, med privat eller ideell aktør, om kjøp eller samarbeid om tjenesten, inkludert leie av inntil to omsorgsboliger, for brukere med høy risiko for utagering og vold.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Stryk \"privat eller\" i punkt 2"
+    },
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Nytt punkt 3: “Kommunestyret ber om at det i videre prosjektering vurderes hvordan fellesarealene kan justeres for å sikre mer tilgjengelig areal for fysisk eller annen aktivitet innenfor prosjektets rammer.\""
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Endringsforslag fra Jens Morten Nilsen (Rødt): Stryk \"privat eller\" i punkt 2",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": 12
+        },
+        {
+          "navn": "Imot endringsforslaget",
+          "stemmer": 18
+        }
+      ],
+      "vinner": "Imot endringsforslaget",
+      "rodt": {
+        "støttet": "For endringsforslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Jens Morten Nilsen (Rødt): Nytt punkt 3 om vurdering av fellesarealene",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 12
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 18
+        }
+      ],
+      "vinner": "Imot tilleggsforslaget",
+      "rodt": {
+        "støttet": "For tilleggsforslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 30
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "23.02.2026",
+  "saksnummer_ps": "PS 16/26",
+  "rodt_fremmet_forslag": true
+}

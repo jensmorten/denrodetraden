@@ -1,31 +1,26 @@
 {
-  "tittel": "PS 1/25 Protokoll - Valg av godkjennere",
-  "innstilling": null,
-  "vedtak": "Anders Frost og Espen Holde godkjenner protokollen sammen med ordfører.",
-  "alternative_forslag": [
-    {
-      "forslagsstiller": "Eugen Sørmo (Høyre)",
-      "tekst": "Anders Frost og Espen Holde godkjenner protokollen sammen med ordfører."
-    }
-  ],
+  "tittel": "Endring av vedtak for permisjon fra politiske verv - Esten Bakken",
+  "innstilling": "Valgnemndas innstilling legges til grunn.",
+  "vedtak": "Esten Bakke (Ap) sin permisjonsperiode fra politiske verv endres (iht representantens søknad datert 28.11.23), til 01.01.2024 tom 31.12.2024. Representanten vil fra og med 01.01.2025 og ut perioden gjeninntre som følgende: Som 1. vara for Arbeiderpartiet i Kommunestyret. Som 4. vara for Arbeiderpartiet i Utvalg for helse, oppvekst og kultur (UHOK).",
+  "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over forslaget fra Eugen Sørmo (Høyre) om valg av protokollgodkjennere.",
+      "beskrivelse": "Votering over valgnemndas innstilling.",
       "alternativer": [
         {
-          "navn": "Forslaget fra Eugen Sørmo (Høyre)",
-          "stemmer": 31
+          "navn": "Valgnemndas innstilling",
+          "stemmer": "enstemmig"
         }
       ],
-      "vinner": "Forslaget fra Eugen Sørmo (Høyre)",
+      "vinner": "Valgnemndas innstilling",
       "rodt": {
-        "støttet": "Forslaget fra Eugen Sørmo (Høyre)",
+        "støttet": "Valgnemndas innstilling",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "27.01.2025",
+  "dato": "11.02.2025",
   "saksnummer_ps": "PS 1/25",
   "rodt_fremmet_forslag": false
 }

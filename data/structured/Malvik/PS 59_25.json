@@ -1,30 +1,26 @@
 {
-  "tittel": "PS 59/25 Innspill til kommuneplanens arealdel for Stjørdal kommune 2025-2037",
-  "innstilling": "Malvik kommune vedtar å sende inn høringsuttalelse til kommuneplanens arealdel 2025-2037 for Stjørdal kommune, som formulert i vedlegg 1.\nMalvik kommune fremmer innsigelse tilknyttet forslag om deponi ABA10.\nKommunedirektøren gis fullmakt til å innarbeide mindre justeringer i høringsuttalelsen.",
-  "vedtak": "Malvik kommune vedtar å sende inn høringsuttalelse til kommuneplanens arealdel 2025-2037 for Stjørdal kommune, som formulert i vedlegg 1.\nMalvik kommune fremmer innsigelse tilknyttet forslag om deponi ABA10.\nKommunedirektøren gis fullmakt til å innarbeide mindre justeringer i høringsuttalelsen.",
+  "tittel": "Ledelsens gjennomgang 2025 - Helse og velferd",
+  "innstilling": null,
+  "vedtak": "Utsatt til neste møte.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over innstillingen",
+      "beskrivelse": "Forslag om å utsette saken til neste møte.",
       "alternativer": [
         {
-          "navn": "Innstillingen",
-          "stemmer": 31
-        },
-        {
-          "navn": "Mot innstillingen",
-          "stemmer": 0
+          "navn": "Utsettelse",
+          "stemmer": "enstemmig"
         }
       ],
-      "vinner": "Innstillingen",
+      "vinner": "Utsettelse",
       "rodt": {
-        "støttet": "Innstillingen",
+        "støttet": "Utsettelse",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "16.06.2025",
+  "dato": "20.05.2025",
   "saksnummer_ps": "PS 59/25",
   "rodt_fremmet_forslag": false
 }

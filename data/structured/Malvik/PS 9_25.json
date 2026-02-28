@@ -1,26 +1,79 @@
 {
-  "tittel": "PS 9/25 Oppnevning av nytt medlem til brukerutvalget",
-  "innstilling": "1.Som nytt medlem til brukerutvalget i Malvik kommune velges Jon Arne Leistad.\n2.Som nytt 4.varamedlem til brukerutvalget velges Torkild Lønvik.",
-  "vedtak": "1.Som nytt medlem til brukerutvalget i Malvik kommune velges Jon Arne Leistad.\n2.Som nytt 4.varamedlem til brukerutvalget velges Torkild Lønvik.",
-  "alternative_forslag": [],
+  "tittel": "Rådmannens forslag til innspill debatthefte for tariffoppgjøret 2025",
+  "innstilling": "Rådmannens forslag til vedtak legge til grunn.",
+  "vedtak": "Kommunestyret vedtar at Melhus kommune gir innspill til Debatthefte 2025, spørsmål 5-7 iht rådmannens saksutredning, med følgende endring: Siste avsnitt i svar på spørsmål 7 strykes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørund Ofstad (Pp)",
+      "tekst": "Stryke eksisterende pkt 7: \"Melhus kommune vil forsterke arbeidet med omstilling, ulike arbeidstidsordninger, oppgavedeling og bruk av kompetanse, tiltak for å redusere fravær og andre tiltak for å bruke arbeidskraftressursene best mulig.\""
+    },
+    {
+      "forslagsstiller": "Jørn Ove Moen (AP) på vegner av AP, SP, SV og KrF",
+      "tekst": "Kommunestyret vedtar at Melhus kommune gir innspill til Debatthefte 2025, spørsmål 5-7 iht rådmannens saksutredning, med følgende endring: Siste avsnitt i svar på spørsmål 7 strykes."
+    },
+    {
+      "forslagsstiller": "Marius Krogstad Aune (H) på vegner av H",
+      "tekst": "Kommunestyret vedtar at Melhus kommune gir innspill til Debatthefte 2025, spørsmål 5-7 iht rådmannens saksutredning."
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "beskrivelse": "Endringsforslag fremmet av Jørund Ofstad (Pp)",
       "alternativer": [
         {
-          "navn": "Innstillingen",
+          "navn": "For endringsforslaget (INP, PP, R)",
+          "stemmer": 5
+        },
+        {
+          "navn": "Mot endringsforslaget",
           "stemmer": 31
         }
       ],
-      "vinner": "Innstillingen",
+      "vinner": "Mot endringsforslaget",
       "rodt": {
-        "støttet": "Innstillingen",
-        "var_vinner": true
+        "støttet": "For endringsforslaget (INP, PP, R)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Endringsforslag fremmet av Jørn Ove Moen (AP) på vegner av AP, SP, SV og KrF",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": 22
+        },
+        {
+          "navn": "Mot endringsforslaget (H, FrP, INP, PP og R)",
+          "stemmer": 14
+        }
+      ],
+      "vinner": "For endringsforslaget",
+      "rodt": {
+        "støttet": "Mot endringsforslaget (H, FrP, INP, PP og R)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Forslag til vedtak fremmet av Marius Krogstad Aune (H) på vegner av H mot endringsforslag fremmet av Jørn Ove Moen",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Marius Krogstad Aune (H)",
+          "stemmer": 9
+        },
+        {
+          "navn": "Endringsforslag fra Jørn Ove Moen",
+          "stemmer": 27
+        }
+      ],
+      "vinner": "Endringsforslag fra Jørn Ove Moen",
+      "rodt": {
+        "støttet": "Forslag fra Marius Krogstad Aune (H)",
+        "var_vinner": false
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "27.01.2025",
+  "dato": "11.02.2025",
   "saksnummer_ps": "PS 9/25",
   "rodt_fremmet_forslag": false
 }

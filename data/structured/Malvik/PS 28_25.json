@@ -1,26 +1,45 @@
 {
-  "tittel": "PS 28/25 Rammeplan for kulturskolen",
-  "innstilling": "Malvik kommune vedtar å legge nasjonal rammeplan til grunn for sin kulturskoleutvikling.",
-  "vedtak": "Malvik kommune vedtar å legge nasjonal rammeplan til grunn for sin kulturskoleutvikling.",
-  "alternative_forslag": [],
+  "tittel": "Sak fra kontrollutvalget til behandling i kommunestyret - Forvaltningsrevisjonsrapport - Hjemmetjenesten",
+  "innstilling": "Kontrollutvalgets innstilling legges til grunn.",
+  "vedtak": "1. Kommunestyret tar forvaltningsrevisjonsrapport om hjemmetjenesten til orientering.\n2. Kommunestyret ber rådmannen følge opp anbefalingene i rapporten:\na. Sørge for at all re-kartlegging blir dokumentert i journal.\nb. Sørge for at vedtak blir oppdatert i tråd med det reelle tjenestetilbudet bruker har.\nc. Fokusere aktivt på brukermedvirkning både på overordnet- og individnivå.\nd. Etablerer rutiner for pårørendesamtaler.\ne. Etablerer rutiner for registrering av primærkontakt.\nf. Utarbeide rutiner for arbeid med fokus på ernæringsarbeid.\ng. Heve kompetanse på fagområdet ernæring.\nh. Utarbeide felles kommuneinterne rutiner for arbeidet med medikamenthåndtering.\n3. Kommunestyret ber rådmannen gi kontrollutvalget skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 15.05.2025.\n4. Forvaltningsrapporten oversendes til utvalg for helse, oppvekst og kultur for behandling.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Einar Gimse-Syrstad (AP)",
+      "tekst": "Nytt punkt 4: Forvaltningsrapporten oversendes til utvalg for helse, oppvekst og kultur for behandling."
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over innstillingen",
+      "beskrivelse": "Votering over kontrollutvalgets innstilling.",
       "alternativer": [
         {
-          "navn": "Innstillingen",
-          "stemmer": 31
+          "navn": "Kontrollutvalgets innstilling",
+          "stemmer": "enstemmig"
         }
       ],
-      "vinner": "Innstillingen",
+      "vinner": "Kontrollutvalgets innstilling",
       "rodt": {
-        "støttet": "Innstillingen",
+        "støttet": "Kontrollutvalgets innstilling",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Einar Gimse-Syrstad (AP).",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Einar Gimse-Syrstad (AP)",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Tilleggsforslag fra Einar Gimse-Syrstad (AP)",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Einar Gimse-Syrstad (AP)",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "31.03.2025",
+  "dato": "25.03.2025",
   "saksnummer_ps": "PS 28/25",
   "rodt_fremmet_forslag": false
 }

@@ -1,0 +1,26 @@
+{
+  "tittel": "Spillemidler 2026 - prioritering av søknader",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Rådmannens innstilling enstemmig vedtatt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 142/25",
+  "rodt_fremmet_forslag": false
+}

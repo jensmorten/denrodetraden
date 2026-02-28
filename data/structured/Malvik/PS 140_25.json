@@ -1,0 +1,26 @@
+{
+  "tittel": "Fritak fra politiske verv - Ingeborg Gaustad Pettersen",
+  "innstilling": "Valgnemndas innstilling legges til grunn.",
+  "vedtak": "Ingeborg Gustad Pettersen (H) innvilges fritak fra sitt politiske verv i Kommunestyret fra vedtaksdato og ut kommunestyreperioden. Vedtaket fattes jf Kommuneloven §7-9 og § 7-10. Som ny siste vara for Høyre i Kommunestyret inntrer Håvard Larsen.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgnemndas innstilling om fritak for Ingeborg Gustad Pettersen og innsettelse av ny vara.",
+      "alternativer": [
+        {
+          "navn": "Valgnemndas innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgnemndas innstilling",
+      "rodt": {
+        "støttet": "Valgnemndas innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 140/25",
+  "rodt_fremmet_forslag": false
+}

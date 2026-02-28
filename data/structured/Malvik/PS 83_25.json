@@ -1,0 +1,26 @@
+{
+  "tittel": "Tilstandsrapport Grunnskole 2024",
+  "innstilling": null,
+  "vedtak": "Utsatt til neste møte.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Forslag om å utsette saken.",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Utsettelse",
+      "rodt": {
+        "støttet": "Utsettelse",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 83/25",
+  "rodt_fremmet_forslag": false
+}

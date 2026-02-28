@@ -1,57 +1,30 @@
 {
-  "tittel": "PS 35/25 Fritt brukervalg i Malvik kommune - oppfølging av kommunestyrets vedtak i sak 14/2025",
-  "innstilling": "Det innføres fritt brukervalg på praktisk bistand/ hjemmehjelp i Malvik\nInnføringen gjennomføres i tråd med departementets grunnleggende\nprinsipper, og for å sikre god medvirkning i prosessen.\nDet tas sikte på å utlyse tilbudskonkurranse i løpet av høsten 2025 med\nkontraktsoppstart 1.1.2026\nØkonomiske konsekvenser innarbeides i forslag til handlings- og\nøkonomiplan 2026 - 2029\nDet gjøres en vurdering for innføring av fritt brukervalg for helsetjenester i\nhjemmet/ hjemmesykepleie etter at kommunen har gjort seg noen\nerfaringer med ordningen\nBehovet og mulighetene for å opprette en stilling som prosjektleder for\ninnføring av fritt brukervalg, avklares som en del av prosessen. Dette\nvurderes senest i forbindelse med 1. tertialrapport\nHelse og velferdsutvalget holdes løpende orientert om prosessen og\nfremdriften i arbeidet",
-  "vedtak": " Det innføres fritt brukervalg på praktisk bistand/ hjemmehjelp og på helsetjenester i hjemmet/hjemmesykepleie i Malvik\n Innføringen gjennomføres i tråd med departementets grunnleggende prinsipper, og for å sikre god medvirkning i prosessen.\n Det skal utlyses tilbudskonkurranse i løpet av høsten 2025 med kontraktsoppstart senest 1.4.2026\n Økonomiske konsekvenser innarbeides i forslag til handlings- og økonomiplan 2026 - 2029\n Behovet og mulighetene for å opprette en stilling som prosjektleder for innføring av fritt brukervalg, avklares som en del av prosessen. Dette vurderes senest i forbindelse med 1. tertialrapport\n Helse og velferdsutvalget holdes løpende orientert om prosessen og fremdriften i arbeidet",
-  "alternative_forslag": [
-    {
-      "forslagsstiller": "Anders Frost (Høyre) på vegne av flertalspartiene",
-      "tekst": "Foreslår følgende endringer til innstillingen:\n Kulepunkt 1 endres til: Det innføres fritt brukervalg på praktisk bistand/ hjemmehjelp og på helsetjenester i hjemmet / hjemmesykepleie i Malvik.\n Kulepunkt 3 i innstillingen: «det tas sikte på» byttes ut med «det skal» og fristen endres til «senest 01.04.2026» slik at teksten i punktet blir «Det skal utlyses tilbudskonkurranse i løpet av høsten 2025 med kontraktsoppstart senest 01.04.2026»\n Kulepunkt 5 i innstillingen strykes."
-    },
-    {
-      "forslagsstiller": "Jens Morten Nilsen (Rødt) (på vegne av AP og R)",
-      "tekst": "Det innføres ikke fritt brukervalg i Malvik kommune da dette vil gi mindre effektive og mer oppsplittede tjenester og vil øke kommunens administrative oppgaver og utgifter. Saksframlegget viser ingen innsparing. Det er av stor betydning for Malvik å beholde viktig kompetanse og kapasitet i kommunen i årene som kommer. Fritt brukervalg vil på sikt bidra til en utarming av det kommunale tilbudet. Kommunestyret er opptatt av gode tjenester til innbyggerne og ryddige forhold for de ansatte. Dette oppnås best gjennom å ha styringen på tjenestene selv. Dette er spesielt viktig i tider hvor omstilling er nødvendig."
-    }
-  ],
+  "tittel": "Anmodning om bosetting av flyktninger for 2025",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Melhus kommune bosetter 55 flyktninger i 2025, inkludert selvbosetting. Familiegjenforente kommer i tillegg. Hvis behovet i Norge endrer seg, må kommunen ta en ny vurdering. Kommunen bosetter ikke enslige mindreårige flyktninger.",
+  "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over endringsforslag fra Anders Frost (H) (endringer i innstillingen: utvide til også å gjelde hjemmesykepleie, endre «tas sikte på» til «skal» og frist til senest 01.04.2026, samt stryke opprinnelig kulepunkt 5).",
+      "beskrivelse": "Votering over rådmannens innstilling om bosetting av 55 flyktninger i 2025.",
       "alternativer": [
         {
-          "navn": "For endringsforslaget (Frost)",
-          "stemmer": 17
+          "navn": "Rådmannens innstilling",
+          "stemmer": "flertall"
         },
         {
-          "navn": "Imot endringsforslaget (Frost)",
-          "stemmer": 13
+          "navn": "Mot (Hege Anette Olstad og Ketil Nilsen, FrP)",
+          "stemmer": 2
         }
       ],
-      "vinner": "For endringsforslaget (Frost)",
+      "vinner": "Rådmannens innstilling",
       "rodt": {
-        "støttet": "Imot endringsforslaget (Frost)",
-        "var_vinner": false
-      }
-    },
-    {
-      "beskrivelse": "Votering mellom (1) innstilling med vedtatte endringer (Frost) og (2) alternativt forslag fra Jens Morten Nilsen (R) på vegne av AP og R (ikke innføre fritt brukervalg).",
-      "alternativer": [
-        {
-          "navn": "Forslag 1: Innstilling med Frost sitt endringsforslag",
-          "stemmer": 17
-        },
-        {
-          "navn": "Forslag 2: Jens Morten Nilsen (R) alternativt forslag (på vegne av AP og R)",
-          "stemmer": 13
-        }
-      ],
-      "vinner": "Forslag 1: Innstilling med Frost sitt endringsforslag",
-      "rodt": {
-        "støttet": "Forslag 2: Jens Morten Nilsen (R) alternativt forslag (på vegne av AP og R)",
-        "var_vinner": false
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "28.04.2025",
+  "dato": "25.03.2025",
   "saksnummer_ps": "PS 35/25",
-  "rodt_fremmet_forslag": true
+  "rodt_fremmet_forslag": false
 }

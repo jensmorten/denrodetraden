@@ -1,0 +1,53 @@
+{
+  "tittel": "Vurdering og prioritering av innspill til Miljøpakkens handlingsprogram 2026-29",
+  "innstilling": "Formannskapets vedtak legges til grunn.",
+  "vedtak": "a) Melhus kommune vedtar rådmannens anbefaling av tiltak som skal meldes inn til Miljøpakkens handlingsprogram 2026–2029. b) Melhus kommune vedtar at nye forslag om tiltak utredes i forbindelse med Miljøpakkens handlingsprogram for 2027-2029.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjetil Blokkum (H)",
+      "tekst": "Kommunestyret øker styringsrammen til gang- og sykkelvei lang fv. 708 Vollmarka fra 5 mill. NOK til 20,5 mil NOK. Økningen finansieres ved en reduksjon styringsrammen til Knutepunktet. Kommunestyret ønsker at det innhentes opsjonspriser på strekningen på nordsiden av fv. 708 frem til Lefstadveien."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens anbefaling av tiltak som skal meldes inn til Miljøpakkens handlingsprogram 2026–2029.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens anbefaling",
+          "stemmer": "flertall"
+        },
+        {
+          "navn": "Mot (FrP)",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Rådmannens anbefaling",
+      "rodt": {
+        "støttet": "Rådmannens anbefaling",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Kjetil Blokkum (H) sammen med rådmannens innstilling.",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Kjetil Blokkum (H) + rådmannens innstilling",
+          "stemmer": "flertall"
+        },
+        {
+          "navn": "Mot (FrP)",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Forslag fra Kjetil Blokkum (H) + rådmannens innstilling",
+      "rodt": {
+        "støttet": "Forslag fra Kjetil Blokkum (H) + rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 75/25",
+  "rodt_fremmet_forslag": false
+}

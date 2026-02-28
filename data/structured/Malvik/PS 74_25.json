@@ -1,0 +1,53 @@
+{
+  "tittel": "Jordvernstrategi for Melhus kommune - sluttbehandling",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Kommunestyret vedtar jordvernstrategien 2025 – 2040, «Alle skal ha mat» for Melhus kommune som et kunnskapsdokument om matjorda vår, landbruket vårt og vår matsikkerhet. Kommunestyret ber om at det legges ved et oversiktskart over vedtatte omdisponeringer av dyrkajord i Melhus kommune pr. 17. juni 2025. Side 44 - Endres til: Melhus fører en framtidsrettet arealpolitikk, som fremmer matsikkerhet og som ivaretar dyrka og dyrkbar jord som grunnlag for matproduksjon i et langsiktig perspektiv. Punkt 3.3 – Fjernes. Punkt 3.12 – Fjernes. Nytt punkt – Melhus kommune skal utarbeide og vedlikeholde en oversikt over aktuelle mottaksarealer for jordflytting. Side 48: Punkt 7.5: Et tillegg til første setning: Stimulere til drenering av dyrkajord, til vårpløying i stedet for høstpløying, til bruk av fangvekster og andre tiltak som hindrer jorderosjon og bygger jordfruktbarhet. Jord i god hevd er en forutsetning for sikker og god matproduksjon.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hjalmar Hugdal (KrF)",
+      "tekst": "Endringsforslag til rådmannens innstilling (detaljer ikke spesifisert i utdraget)."
+    },
+    {
+      "forslagsstiller": "Kjetil Blokkum (H)",
+      "tekst": "Endringsforslag til rådmannens innstilling (detaljer ikke spesifisert i utdraget)."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over flere endringsforslag (fremmet av Hjalmar Hugdal (KrF) og Kjetil Blokkum (H)).",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag",
+          "stemmer": "vedtatt"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "ikke vedtatt"
+        }
+      ],
+      "vinner": "Endringsforslag",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 74/25",
+  "rodt_fremmet_forslag": false
+}

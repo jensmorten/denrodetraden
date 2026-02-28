@@ -1,31 +1,26 @@
 {
-  "tittel": "PS 33/25 Oppnevning av medlem og varamedlem til vannområdeutvalg for vannområdene Nea-Nidelva og Gaula",
-  "innstilling": null,
-  "vedtak": "Følgende velges som medlem og varamedlem til representantskapet for vannområdene Nea-Nidelva og Gaula for perioden 2025-2027:\nMedlem: Jørgen Enoksen (H)\nVaramedlem: May Britt Kjelsaas (SP)",
-  "alternative_forslag": [
-    {
-      "forslagsstiller": "Jørgen Enoksen (H)",
-      "tekst": "Følgende velges som medlem og varamedlem til representantskapet for vannområdene Nea-Nidelva og Gaula for perioden 2025-2027:\nMedlem: Jørgen Enoksen (H)\nVaramedlem: May Britt Kjelsaas (SP)"
-    }
-  ],
+  "tittel": "Revidert skolerute 2025/2026",
+  "innstilling": "Rådmannens forslag til vedtak legges til grunn.",
+  "vedtak": "Forskrift om revidert skolerute Melhus kommune skoleåret 2025-26 vedtas og gjøres gjeldende fra 01.08.2025",
+  "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over forslag fra Jørgen Enoksen (H) om valg av medlem og varamedlem til representantskapet for vannområdene Nea-Nidelva og Gaula (2025-2027).",
+      "beskrivelse": "Votering over rådmannens forslag til vedtak.",
       "alternativer": [
         {
-          "navn": "Forslaget fra Jørgen Enoksen (H)",
-          "stemmer": 31
+          "navn": "Rådmannens forslag",
+          "stemmer": "enstemmig"
         }
       ],
-      "vinner": "Forslaget fra Jørgen Enoksen (H)",
+      "vinner": "Rådmannens forslag",
       "rodt": {
-        "støttet": "Forslaget fra Jørgen Enoksen (H)",
+        "støttet": "Rådmannens forslag",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "31.03.2025",
+  "dato": "25.03.2025",
   "saksnummer_ps": "PS 33/25",
   "rodt_fremmet_forslag": false
 }

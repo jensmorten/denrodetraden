@@ -1,0 +1,26 @@
+{
+  "tittel": "Kommunal vigselsrett",
+  "innstilling": null,
+  "vedtak": "Utsatt til neste møte.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Forslag om å utsette saken.",
+      "alternativer": [
+        {
+          "navn": "Utsette saken",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Utsette saken",
+      "rodt": {
+        "støttet": "Utsette saken",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 81/25",
+  "rodt_fremmet_forslag": false
+}

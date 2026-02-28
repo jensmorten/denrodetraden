@@ -1,0 +1,26 @@
+{
+  "tittel": "Fritak fra politiske verv - Atle Grytbach - Korrigering av vedtak",
+  "innstilling": "Valgnemndas innstilling legges til grunn.",
+  "vedtak": "Atle Grytbach (PP) innvilges fritak fra sitt politiske verv i kommunestyret fra vedtaksdato og ut perioden. I perioden fra vedtaksdato og ut perioden er følgende gjeldende: Pensjonistpartiets varaliste rykker naturlig opp i den nummerorden varamedlemmene er valgt i henholdt til valgstyrets møtebok og tidligere behandlede politiske fritak fra verv.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgnemndas innstilling om fritak for Atle Grytbach.",
+      "alternativer": [
+        {
+          "navn": "Valgnemndas innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgnemndas innstilling",
+      "rodt": {
+        "støttet": "Valgnemndas innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 87/25",
+  "rodt_fremmet_forslag": false
+}

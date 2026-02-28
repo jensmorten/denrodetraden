@@ -1,0 +1,26 @@
+{
+  "tittel": "Behandling av administrasjonsutvalgets innstilling til kommunedirektør i Melhus kommune",
+  "innstilling": "Administrasjonsutvalgets innstilling legges til grunn.",
+  "vedtak": "Kommunestyret vedtar administrasjonsutvalgets innstilling av Lars Dyrdahl som kommunedirektør i Melhus kommune.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over administrasjonsutvalgets innstilling til kommunedirektør.",
+      "alternativer": [
+        {
+          "navn": "Administrasjonsutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Administrasjonsutvalgets innstilling",
+      "rodt": {
+        "støttet": "Administrasjonsutvalgets innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "26.08.2025",
+  "saksnummer_ps": "PS 95/25",
+  "rodt_fremmet_forslag": false
+}

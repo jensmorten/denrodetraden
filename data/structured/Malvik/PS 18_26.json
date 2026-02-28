@@ -1,0 +1,26 @@
+{
+  "tittel": "Søknad om tilskudd fra næringsfond",
+  "innstilling": "1. Søknaden fra Paulsen fiskeri AS innvilges med 150 000 kroner.\n2. Tilskuddet finansieres gjennom bruk av øremerket andel til næringsutvikling fra kommunens disposisjonsfond.\n3. Kommunestyret gir kommunedirektøren fullmakt til å gjennomføre de nødvendige budsjettkorreksjonene.",
+  "vedtak": "1. Søknaden fra Paulsen fiskeri AS innvilges med 150 000 kroner.\n2. Tilskuddet finansieres gjennom bruk av øremerket andel til næringsutvikling fra kommunens disposisjonsfond.\n3. Kommunestyret gir kommunedirektøren fullmakt til å gjennomføre de nødvendige budsjettkorreksjonene.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra Formannskapet",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 30
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "23.02.2026",
+  "saksnummer_ps": "PS 18/26",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,53 @@
+{
+  "tittel": "Oppgavefellesskap Helseplattformen",
+  "innstilling": "Formannskapets vedtak legges til grunn.",
+  "vedtak": "• Melhus kommune vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres.\n• Melhus kommune utnevner ordfører som kommunens faste representant i oppgavefellesskapets representantskap, med varaordfører som varamedlem.\n• Melhus kommune godkjenner finansieringsmodellen som innebærer en årlig kostnadsfordeling basert på innbyggertall pr 1.1.2024. For Melhus kommune innebærer dette en årlig kostnad i 2025 på 354 143 NOK, som synliggjøres i behandlingen av tertial 1/25.\n• Melhus kommune ber om at organiseringen som oppgavefellesskap, og utbytte av samhandlingsmetoden, evalueres etter to år.\n• Kommunen kan tre ut av avtalen med ett års varsel.\n• Tilslutning forutsetter at alle eierkommuner slutter seg til avtalen.\n• Melhus kommune forutsetter at representantskapet jobber for effektiv drift så kostnadsnivået for den enkelte kommune blir holdt på et minimum.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hege Anette Olstad (FrP) på vegne av FrP",
+      "tekst": "Før kommunen eventuelt tar stilling til deltakelse, må det legges fram en avsluttende statusrapport for innføringen av Helseplattformen i tråd med vårt økonomireglement som redegjør for kostnader, effekt og avvik."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Utsettelsesforslag fra FrP om å legge fram en avsluttende statusrapport før kommunen tar stilling til deltakelse.",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslaget (FrP)",
+          "stemmer": 18
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 19
+        }
+      ],
+      "vinner": "Mot utsettelsesforslaget",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    },
+    {
+      "beskrivelse": "Votering over hovedforslaget (formannskapets vedtak).",
+      "alternativer": [
+        {
+          "navn": "For hovedforslaget",
+          "stemmer": 19
+        },
+        {
+          "navn": "Mot hovedforslaget",
+          "stemmer": 18
+        }
+      ],
+      "vinner": "For hovedforslaget",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 78/25",
+  "rodt_fremmet_forslag": false
+}

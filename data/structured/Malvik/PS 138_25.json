@@ -1,0 +1,53 @@
+{
+  "tittel": "Finansiering av renovering av Melhus kirke samt etablering av navnet minnelund på Hølonda og Flå gravplasser",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "1. Melhus kommune bevilger 2 millioner kroner til renovering av Melhus kirke, i tråd med kommunens ansvar etter kirkeloven § 15.\nBegrunnelse: Renoveringen er nødvendig for å bevare kirkens kulturhistoriske verdi og hindre videre skader. Kommunen har et lovpålagt ansvar for vedlikehold av kirker.\n2. Melhus kommune bevilger 500 000 kroner til etablering av navnet minnelund på Hølonda og Flå gravplasser, med fordeling 50/50 på de to gravplassene.\nBegrunnelse: Tiltaket er etterspurt av innbyggerne og sikrer et verdig og fremtidsrettet gravplassalternativ i tråd med nasjonale føringer.\n3. Beløpene innarbeides i investeringsbudsjettet for 2026 og finansieres gjennom låneopptak.\nBegrunnelse: For å sikre gjennomføring må finansieringen avklares og innarbeides i kommunens handlings- og økonomiplan for perioden 2026-2029.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjetil Blokkum (H)",
+      "tekst": "Pkt 3. 500 000,- innarbeides i investeringsbudsjettet for 2026 og finansieres gjennom låneopptak, og 2 000 000,- innarbeides i investeringsbudsjettet for 2027 og finansieres gjennom låneopptak"
+    },
+    {
+      "forslagsstiller": "Merete Moum (ML)",
+      "tekst": "Teknisk endring: referanse til kirkeloven § 15 endres til Lov om tros- og livssynssamfunn (trossamfunnsloven) § 14."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Endringsforslag fra Kjetil Blokkum (H) om å fordele finansieringen over to år.",
+      "alternativer": [
+        {
+          "navn": "Blokkums forslag",
+          "stemmer": 16
+        },
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over rådmannens innstilling.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 138/25",
+  "rodt_fremmet_forslag": false
+}

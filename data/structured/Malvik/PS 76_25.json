@@ -1,0 +1,26 @@
+{
+  "tittel": "Krav om reforhandling av vertskommuneavtalen om drift av interkommunal legevakt",
+  "innstilling": "Melhus kommune viderefører avtale om legevakt med Trondheim kommune som vertskommune. Kommunene forplikter seg til å følge de økonomiske og administrative forutsetningene som kommer frem av avtaleteksten inkludert kostnadsfordeling. Rådmannen gis fullmakt til å undertegne avtalen.",
+  "vedtak": "Melhus kommune viderefører avtale om legevakt med Trondheim kommune som vertskommune. Kommunene forplikter seg til å følge de økonomiske og administrative forutsetningene som kommer frem av avtaleteksten inkludert kostnadsfordeling. Rådmannen gis fullmakt til å undertegne avtalen.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 76/25",
+  "rodt_fremmet_forslag": false
+}

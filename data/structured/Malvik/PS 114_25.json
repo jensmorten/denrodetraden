@@ -1,0 +1,26 @@
+{
+  "tittel": "Revidering av vedtekter for Melhus Ungdomsråd",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Kommunestyret vedtar reviderte vedtekter for Melhus Ungdomsråd, der antall representanter utvides fra 1 representanter fra Øya ungdomsskole til 2 representanter vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling om reviderte vedtekter for Melhus Ungdomsråd.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.10.2025",
+  "saksnummer_ps": "PS 114/25",
+  "rodt_fremmet_forslag": false
+}

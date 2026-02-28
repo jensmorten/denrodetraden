@@ -1,0 +1,161 @@
+{
+  "tittel": "Kommuneøkonomi - Omstillingstiltak Melhus kommune 2025 - 2028",
+  "innstilling": "Formannskapets vedtak legges til grunn.",
+  "vedtak": "Formannskapet tar rådmannen fremlagte forslag til driftstiltak for å styrke kommuneøkonomien i Melhus kommune for perioden 2025-2028 til orientering. Forslagene fremgår av vedlegg 1-4.\nRådmannen bes i tilknytning til videre behandling av omstillingsprogrammet synliggjøre hvilke reelle endringer i årsverk tiltak innebærer, med reduksjon i årsverk enten direkte knyttet til enkelttiltak eller knyttet til hva sum av enkelttiltak vil gi.\nDet ønskes en snarlig utredning av teknisk drift. Hvilke tjenester bør vi drifte selv? Hvilke tjenester kan settes ut på anbud? Hvilke tjenester kan vi løse i samarbeid med andre kommuner? Vi ønsker også en kost nyttevurdering av dimensjonering av maskinparken; hva bør vi eie selv, og hva kan vi leie.\nKommunestyret ber rådmannen snarest fremlegge oversikt over hvilke tiltak, som ikke trenger politisk behandling, som så langt er gjennomført eller planlagt i de forskjellige enhetene i kommunen. Oversikten må vise forventede varige, og engangsmessige, innsparinger. Oppdatert oversikt skal følge videre behandling av omstillingsprogrammet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marius Krogstad Aune (H)",
+      "tekst": "1. Rådmannen bes i tilknytning til videre behandling av omstillingsprogrammet synliggjøre hvilke endringer som er og vil bli gjort innenfor administrasjon/organisasjon som ikke krever politiske vedtak, som endringer på rådhuset og annet som er innenfor rådmannens handlingsrom.\n2. Rådmannen bes i tilknytning til videre behandling av omstillingsprogrammet synliggjøre hvilke reelle endringer i årsverk tiltak innebærer, med reduksjon i årsverk enten direkte knyttet til enkelttiltak eller knyttet til hva sum av enkelttiltak vil gi.\n3. Rådmannen bes om å sikre at tidligere varslet revidering av omstillingsprogrammet umiddelbart etter økonomirapporteringen i forbindelse med første tertial skjer og legges frem til politisk behandling.\n4. Rådmannen bes lage ny organisering innenfor alle sektorer, der formålet er å redusere antall enhetsledere, mellomledere, merkantile funksjoner samt rådgiverstillinger.\n5. Rådmannen bes identifisere tiltak som totalt sett vil redusere lønnsutgiftene i Melhus kommune med minst 7,5 prosent. Dette sees i sammenheng med kommunestyrets vedtak av 25. mars 2025 i PS 27/25 punkt 2.5.\n6. Rådmannen bes se på alle områder innenfor kommunal drift/sektorer som kan konkurranseutsettes der man får en besparelse på utgifter og/eller likviditet."
+    },
+    {
+      "forslagsstiller": "Jørn Ove Moen (AP) på vegner av AP, SV, KrF og SV",
+      "tekst": "Nytt punkt: Kommunestyret ber rådmannen snarest fremlegge oversikt over hvilke tiltak, som ikke trenger politisk behandling, som så langt er gjennomført eller planlagt i de forskjellige enhetene i kommunen. Oversikten må vise forventede varige, og engangsmessige, innsparinger."
+    },
+    {
+      "forslagsstiller": "Lillian Ofstad (PP) på vegne av PP",
+      "tekst": "Det ønskes en snarlig utredning av teknisk drift. Hvilke tjenester bør vi drifte selv? Hvilke tjenester kan settes ut på anbud? Hvilke tjenester kan vi løse i samarbeid med andre kommuner? Vi ønsker også en kost nyttevurdering av dimensjonering av maskinparken; hva bør vi eie selv, og hva kan vi leie."
+    },
+    {
+      "forslagsstiller": "Jørn Ove Moen (AP) på vegne av AP, SP, SV, KrF og H",
+      "tekst": "Kommunestyret ber rådmannen snarest fremlegge oversikt over hvilke tiltak, som ikke trenger politisk behandling, som så langt er gjennomført eller planlagt i de forskjellige enhetene i kommunen. Oversikten må vise forventede varige, og engangsmessige, innsparinger. Oppdatert oversikt skal følge videre behandling av omstillingsprogrammet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Formannskapets vedtak",
+      "alternativer": [
+        {
+          "navn": "Formannskapets vedtak",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Formannskapets vedtak",
+      "rodt": {
+        "støttet": "Formannskapets vedtak",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Marius Krogstad Aune (H) punkt 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "vinner": "Mot",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Marius Krogstad Aune (H) punkt 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "flertall"
+        },
+        {
+          "navn": "Mot (PP)",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Marius Krogstad Aune (H) punkt 4",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "vinner": "Mot",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Marius Krogstad Aune (H) punkt 5",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "vinner": "Mot",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Marius Krogstad Aune (H) punkt 6",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "vinner": "Mot",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Lillian Ofstad (PP)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Omforent forslag fra AP, SP, SV, KrF og H",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 47/25",
+  "rodt_fremmet_forslag": false
+}

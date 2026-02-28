@@ -1,35 +1,49 @@
 {
-  "tittel": "PS 23/25 Oppnevning av medlem og varamedlem til vannområdeutvalg for vannområdene Nea-Nidelva og Gaula",
-  "innstilling": "Følgende velges som medlem og varamedlem til representantskapet for vannområdene Nea-Nidelva og Gaula for perioden 2025-2027:\nMedlem:\nVaramedlem:",
-  "vedtak": "Saken utsettes til neste kommunestyre",
+  "tittel": "Ny ungdomsklubb ved Lundamo ungdomsskole - tilleggsbevilgning",
+  "innstilling": "I kraft av Melhus kommunes meget anstrengte økonomisk situasjon utsettes prosjektet med realisering av nye lokaler til fritidsklubb og klasserom ved Lundamo ungdomsskole inntil videre.\nKommunestyret godkjenner ikke prosjektet med bakgrunn i at kommunen ikke har økonomisk løfteevne til å inngå nødvendige kontrakter.",
+  "vedtak": "I kraft av Melhus kommunes meget anstrengte økonomisk situasjon utsettes prosjektet med realisering av nye lokaler til fritidsklubb og klasserom ved Lundamo ungdomsskole inntil videre.\nKommunestyret godkjenner ikke prosjektet med bakgrunn i at kommunen ikke har økonomisk løfteevne til å inngå nødvendige kontrakter.\nKommunestyret ber Rådmannen snarlig, og senest innen juni 2025, komme tilbake med en sak som viser hvordan vi kan realisere et forsvarlig fritidsklubbtilbud i Lundamo ungdomsskolekrets.",
   "alternative_forslag": [
     {
-      "forslagsstiller": "Jørgen Enoksen (Høyre)",
-      "tekst": "Saken utsettes til neste kommunestyre."
+      "forslagsstiller": "Fritz Arne Haugen, Sp på vegne av Ap, Sp, Krf, Sv",
+      "tekst": "Kommunestyret ber Rådmannen snarlig, og senest innen juni 2025, komme tilbake med en sak som viser hvordan vi kan realisere et forsvarlig fritidsklubbtilbud i Lundamo ungdomsskolekrets."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over utsettelsesforslag fra Jørgen Enoksen (Høyre): «Saken utsettes til neste kommunestyre.»",
+      "beskrivelse": "Votering over rådmannens forslag til vedtak",
       "alternativer": [
         {
-          "navn": "For utsettelsesforslaget",
-          "stemmer": 31
-        },
-        {
-          "navn": "Mot utsettelsesforslaget",
-          "stemmer": 0
+          "navn": "Rådmannens forslag til vedtak",
+          "stemmer": 36
         }
       ],
-      "vinner": "For utsettelsesforslaget",
+      "vinner": "Rådmannens forslag til vedtak",
       "rodt": {
-        "støttet": "For utsettelsesforslaget",
+        "støttet": "Rådmannens forslag til vedtak",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslaget fra Fritz Arne Haugen (Ap, Sp, Krf, Sv)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslaget fra Fritz Arne Haugen",
+          "stemmer": 21
+        },
+        {
+          "navn": "Mot tilleggsforslaget (Frp, H, ML og PP)",
+          "stemmer": 15
+        }
+      ],
+      "vinner": "Tilleggsforslaget fra Fritz Arne Haugen",
+      "rodt": {
+        "støttet": "Tilleggsforslaget fra Fritz Arne Haugen",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "24.02.2025",
+  "dato": "25.02.2025",
   "saksnummer_ps": "PS 23/25",
   "rodt_fremmet_forslag": false
 }

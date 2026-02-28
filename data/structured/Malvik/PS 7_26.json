@@ -1,0 +1,26 @@
+{
+  "tittel": "Innstilling til Melhus kommunes innspill til debatthefte 2026 - Tid for taktskifte",
+  "innstilling": "Melhus kommune slutter seg til Administrasjonsutvalgets svar og vurderinger angående spørsmålene som stilles av KS i debattheftet 2026- Tid for taktskifte.",
+  "vedtak": "Melhus kommune slutter seg til Administrasjonsutvalgets svar og vurderinger angående spørsmålene som stilles av KS i debattheftet 2026- Tid for taktskifte.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Administrasjonsutvalgets forslag til vedtak.",
+      "alternativer": [
+        {
+          "navn": "Administrasjonsutvalgets forslag",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Administrasjonsutvalgets forslag",
+      "rodt": {
+        "støttet": "Administrasjonsutvalgets forslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "10.02.2026",
+  "saksnummer_ps": "PS 7/26",
+  "rodt_fremmet_forslag": false
+}

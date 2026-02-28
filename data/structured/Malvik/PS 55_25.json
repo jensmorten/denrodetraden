@@ -1,26 +1,35 @@
 {
-  "tittel": "PS 55/25 Ny andregangsbehandling av detaljregulering for Svebergmarka omsorgsboliger og boliger - planID 202303",
-  "innstilling": "Med hjemmel i plan- og bygningsloven § 12-12 vedtas reguleringsplan for Svebergmarka omsorgsboliger og boliger med planID 202303. Planen vedtas på følgende vilkår:\n• «Døgnbemannet» fjernes fra §4.2.1\n• Plan for vannforsyning, brannvann og spillvann for nedre del av planområdet (Felt B1, B2, B3) oppdateres med tanke på tilkoblingspunkt og spillvann.\nKommunedirektøren innarbeider endringer før vedtaket kunngjøres. Oppdaterte plandokumenter skal leveres kommunen før vedtaket kunngjøres.",
-  "vedtak": "Med hjemmel i plan- og bygningsloven § 12-12 vedtas reguleringsplan for Svebergmarka omsorgsboliger og boliger med planID 202303. Planen vedtas på følgende vilkår:\n• «Døgnbemannet» fjernes fra §4.2.1\n• Plan for vannforsyning, brannvann og spillvann for nedre del av planområdet (Felt B1, B2, B3) oppdateres med tanke på tilkoblingspunkt og spillvann.\nKommunedirektøren innarbeider endringer før vedtaket kunngjøres. Oppdaterte plandokumenter skal leveres kommunen før vedtaket kunngjøres.",
-  "alternative_forslag": [],
+  "tittel": "Næringsplan Melhus kommune 2024-2030",
+  "innstilling": null,
+  "vedtak": "- Kommunestyrer vedtar næringsplan for 2024-2030 utarbeidet av politisk arbeidsgruppe, og legger den til grunn for kommunens videre næringsarbeid\n- Tiltakene i planens tiltaksdel innarbeides i kommunens økonomi og handlingsplan, og status i forhold til måloppnåelse synliggjøres i kommunens årsmeldinger. Tiltak som medfører økonomiske konsekvenser legges inn i ØHP som uprioriterte tiltak.\n- Planens tiltaksdel rulleres innen et år etter at nytt kommunestyre er satt i 2027",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Merethe Moum (ML)",
+      "tekst": "Nytt punkt 4: Tiltak som medfører økonomiske konsekvenser legges inn i ØHP som uprioriterte tiltak."
+    },
+    {
+      "forslagsstiller": "Einar Gimse-Syrstad (Ap)",
+      "tekst": "Omforent forslag: Første punkt endres til - Kommunestyrer vedtar næringsplan for 2024-2030 utarbeidet av politisk arbeidsgruppe, og legger den til grunn for kommunens videre næringsarbeid - Tiltakene i planens tiltaksdel innarbeides i kommunens økonomi og handlingsplan, og status i forhold til måloppnåelse synliggjøres i kommunens årsmeldinger. Tiltak som medfører økonomiske konsekvenser legges inn i ØHP som uprioriterte tiltak. - Planens tiltaksdel rulleres innen et år etter at nytt kommunestyre er satt i 2027"
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "beskrivelse": "Votering over omforent forslag til vedtak",
       "alternativer": [
         {
-          "navn": "Innstillingen",
-          "stemmer": 31
+          "navn": "Omforent forslag (inkludert forslag fra ML og Ap)",
+          "stemmer": "enstemmig"
         }
       ],
-      "vinner": "Innstillingen",
+      "vinner": "Omforent forslag (inkludert forslag fra ML og Ap)",
       "rodt": {
-        "støttet": "Innstillingen",
+        "støttet": "Omforent forslag (inkludert forslag fra ML og Ap)",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "16.06.2025",
+  "dato": "20.05.2025",
   "saksnummer_ps": "PS 55/25",
   "rodt_fremmet_forslag": false
 }

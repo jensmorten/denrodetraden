@@ -1,0 +1,49 @@
+{
+  "tittel": "Sluttbehandling - Detaljreguleringsplan for Rønningen Panorama",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Melhus kommune vedtar med hjemmel i plan- og bygningsloven § 12-12 Detaljreguleringsplan for Rønningen Panorama (planid 2023005), som vist i vedlagte planbestemmelser, plankart og planbeskrivelse med vedlegg.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sofie Torgersen (R) på vegne av R og INP",
+      "tekst": "Kommunestyret utsetter sluttbehandlingen av detaljreguleringsplan for Rønningen Panorama (PS 129/25) inntil nødvendige tiltak for trafikksikkerhet, skole- og barnehagekapasitet og teknisk infrastruktur i området er under utbedring, eller foreligger som vedtatt plan. Utsettelsen begrunnes med: • behov for bedre trafikksikkerhet langs Løvsetvegen og rundt Høyeggen skole, • dokumenterte kapasitetsutfordringer i skole og barnehage på Gimse/Løvset, • samt behov for avklaring av vann- og avløpsløsninger før ytterligere utbygging. Kommunestyret ber administrasjonen komme tilbake med en oppdatert redegjørelse for framdriften i disse tiltakene før planen tas opp til ny behandling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Utsettelsesforslag fremmet av Torgersen (R) på vegne av R og INP",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag (R og INP)",
+          "stemmer": 2
+        },
+        {
+          "navn": "Mot utsettelsesforslag",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Mot utsettelsesforslag",
+      "rodt": {
+        "støttet": "Utsettelsesforslag (R og INP)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Rådmannens innstilling",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "11.11.2025",
+  "saksnummer_ps": "PS 129/25",
+  "rodt_fremmet_forslag": true
+}

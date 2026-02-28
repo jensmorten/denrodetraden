@@ -1,0 +1,30 @@
+{
+  "tittel": "Høring Mobilitetsanbudene i Trøndelag - MST29",
+  "innstilling": "Formannskapets vedtak legges til grunn.",
+  "vedtak": "Melhus kommune er svært betenkelig til at Melhus ikke inngår i bykontraktene fra høsten 2029, spesielt med tanke på fremtidig finansiering av kollektivtilbudet.\n- Det må sikres at dagens kollektivtilbud ikke forringes og at det gis mulighet for videreutvikling i tråd med nullvekstmålet og innbyggernes behov.\n- Dagens tilbud vurderes som et minimumsnivå og det vil ikke være tilstrekkelig i møte med den forventede utviklingen i kommunen i henhold til kommuneplanens samfunnsdel med utvikling i alle 7 tettsteder. Ved eksempelvis en utbygging av Gimsøya og Hermanstad, tilknytning til sentrum på Hovin og utnyttelse av pendlerparkering på Hofstad, så vil behovet for utvidede kollektivløsninger øke.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets vedtak",
+      "alternativer": [
+        {
+          "navn": "Formannskapets vedtak",
+          "stemmer": null
+        },
+        {
+          "navn": "FrP (mot formannskapets vedtak)",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Formannskapets vedtak",
+      "rodt": {
+        "støttet": "Formannskapets vedtak",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.10.2025",
+  "saksnummer_ps": "PS 119/25",
+  "rodt_fremmet_forslag": false
+}

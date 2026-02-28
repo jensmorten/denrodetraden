@@ -1,0 +1,53 @@
+{
+  "tittel": "Endring av vedtekter for kommunale barnehager i Melhus fra 01.03.26",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Kommunestyret vedtar forslaget til nye vedtekter.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørn Ove Moen (AP) på vegne av AP og KrF",
+      "tekst": "Kommunestyret vedtar forslaget til nye vedtekter med følgende endringer (uthevet):\n§ 12 Ferie\n12.1 Sommerferie: Barn i barnehage skal som hovedregel ha fire uker ferie hvert år. Minimum tre uker skal være sammenhengende i løpet av sommeren. Foreldre/foresatte leverer melding om barnets sommerferie til styrer senest 10. april.\nKommunale barnehager stenger tre sammenhengende uker i juli. Alle barnehager har stengt i ukene 28, 29 og 30.\nEn barnehage i nedre Melhus og en barnehage i Melhus sør holder åpent i uke 28. Barn med barnehageplass i hele kommunen kan gjennom forhåndspåmelding benytte disse barnehagene denne uken.\nFerien avvikles før 1. august det året barnet begynner på skolen.\nJul- og påskeferie: Alle kommunale barnehager i Melhus stenger i mellomjula (24.desember til og med 1.januar), samt mandag, tirsdag og onsdag i påsken. Disse kan regnes som en uke ferie til sammen.\nOrdningen med to åpne barnehager i uke 28 evalueres høsten 2026. Evalueringen legges frem for utvalg for helse, oppvekst og kultur."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fremmet av Moen (AP) på vegne av AP og KrF",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag fra Moen (AP) m.fl.",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot endringsforslaget",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Mot endringsforslaget",
+      "rodt": {
+        "støttet": "Endringsforslag fra Moen (AP) m.fl.",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over rådmannens innstilling",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": null
+        },
+        {
+          "navn": "Mot rådmannens innstilling (R)",
+          "stemmer": 1
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Mot rådmannens innstilling (R)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 143/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,79 @@
+{
+  "tittel": "Tilstandsrapport Grunnskole 2024",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Kommunestyret tar rapporten til orientering\nTilstandsrapporten for grunnskolen er et viktig verktøy.\nFor å styrke denne funksjonen, mener kommunestyret at rapporten bør videreutvikles slik at den i større grad dokumenterer:\n• Hvordan arbeidet i skolene konkret bidrar til måloppnåelse i eksempelvis oppvekststrategiens innsatsområder, den strategiske planen for tverrfaglig samarbeid, eller andre relevante planverk\n• Vurderinger av framtidig kapasitet, rekrutteringsbehov og organisering i lys av endringer i elevtall\nKommunestyret ber om at dette legges til grunn i arbeidet med fremtidige tilstandsrapporter.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørgen Brun-Pedersen (AP)",
+      "tekst": "Kommunestyret tar rapporten til orientering\nTilstandsrapporten for grunnskolen er et viktig verktøy.\nFor å styrke denne funksjonen, mener kommunestyret at rapporten bør videreutvikles slik at den i større grad dokumenterer:\n• Hvordan arbeidet i skolene konkret bidrar til måloppnåelse i eksempelvis oppvekststrategiens innsatsområder, den strategiske planen for tverrfaglig samarbeid, eller andre relevante planverk\n• Vurderinger av framtidig kapasitet, rekrutteringsbehov og organisering i lys av endringer i elevtall\nKommunestyret ber om at dette legges til grunn i arbeidet med fremtidige tilstandsrapporter."
+    },
+    {
+      "forslagsstiller": "Merethe Moum (ML) på vegne av ML og FrP",
+      "tekst": "Kommunestyret tar til orientering at kommunen viser gode resultater på flere områder i grunnopplæringen. Kommunestyret understreker viktigheten av å videreføre og styrke de tiltak, metoder og praksiser som bidrar til gode resultater.\nSamtidig konstaterer kommunestyret at kommunen står overfor utfordringer knyttet til lave faglige prestasjoner blant enkelte elevgrupper. For å møte dette, ber kommunestyret administrasjonen om (Nytt kulepunkt) Å igangsette et prosjekt med mål om å videreutvikle og bevare de områdene hvor Melhusskolen allerede presterer godt, samtidig som det settes inn målrettede tiltak for å løfte de faglige resultatene der utfordringene er størst. Prosjektet ledes av kommunalsjef for oppvekst i tett samarbeid med rektorene ved de ulike skolene. Det skal sikres bred involvering fra ansatte, foreldre og elever for å skape eierskap og felles retning. Det rapporteres jevnlig til Utvalg for helse og oppvekst, med oversendelse av referat til kommunestyret."
+    },
+    {
+      "forslagsstiller": "Hege Annette Olstad (FrP) på vegne av ML og FrP",
+      "tekst": "Kommunestyret tar rapporten til orientering\nTilstandsrapporten viser at Melhus har for høye mobbetall, og at situasjonen særlig er alvorlig på 7. og 8. trinn. For å styrke oppfølgingen av dette området, ber kommunestyret om at mobbing følges særskilt opp med målrettede tiltak, og at utvalg for helse, oppvekst og kultur får jevnlig rapportering om hvordan tiltakene følges opp og hvilke resultater som oppnås. Kommunestyret ber videre om at kommende tilstandsrapporter gir en tydeligere framstilling av hvordan arbeidet mot mobbing følges opp over tid, hvilke tiltak som settes inn og hvilke resultater som oppnås."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Tilleggsforslag fremmet av Jørgen Brun Pedersen (AP) mot rådmannens innstilling.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Jørgen Brun Pedersen (AP) til rådmannens innstilling",
+          "stemmer": "flertall"
+        },
+        {
+          "navn": "Mot (FrP)",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Tilleggsforslag fra Jørgen Brun Pedersen (AP) til rådmannens innstilling",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Jørgen Brun Pedersen (AP) til rådmannens innstilling",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Endringsforslag fremmet av Merethe Moum (ML) på vegne av ML og FrP.",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag fra Merethe Moum (ML) på vegne av ML og FrP",
+          "stemmer": 5
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "vinner": "Mot",
+      "rodt": {
+        "støttet": "Mot",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Endringsforslag fra Hege Annette Olstad (FrP) på vegne av ML og FrP.",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag fra Hege Annette Olstad (FrP) på vegne av ML og FrP",
+          "stemmer": 6
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "vinner": "Mot",
+      "rodt": {
+        "støttet": "Mot",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 104/25",
+  "rodt_fremmet_forslag": false
+}

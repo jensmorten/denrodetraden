@@ -1,0 +1,49 @@
+{
+  "tittel": "Høring - planprogram revidering av kommuneplanens arealdel, samt varsel om oppstart av planarbeid",
+  "innstilling": "Formannskapets vedtak legges til grunn.",
+  "vedtak": "I samsvar med plan- og bygningslovens §11-13 vedtar Melhus kommune å legge «Planprogram for revidering av arealdelen» til kommuneplanen ut på høring. Det varsles samtidig om oppstart av planarbeidet. [Se full tekst for detaljer om endringer og tillegg.]",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Geir Tore Midttømme (SP)",
+      "tekst": "[Tekst om utviklingsmuligheter i tettsteder.]"
+    },
+    {
+      "forslagsstiller": "Stig Ler (AP)",
+      "tekst": "Kommunestyret ber rådmannen legge frem et forslag til ny arealdel for høring innen juni 2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Formannskapets innstilling",
+      "rodt": {
+        "støttet": "Formannskapets innstilling",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslagene fra SP og AP.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra SP og AP",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Tilleggsforslag fra SP og AP",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra SP og AP",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 73/25",
+  "rodt_fremmet_forslag": false
+}

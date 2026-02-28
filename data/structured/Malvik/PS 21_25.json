@@ -1,5 +1,5 @@
 {
-  "tittel": "PS 21/25 Rammeplan for kulturskolen",
+  "tittel": "Rammeplan for kulturskolen",
   "innstilling": "Malvik kommune vedtar å legge nasjonal rammeplan til grunn for sin kulturskoleutvikling.",
   "vedtak": "Saken utsettes til neste møte.",
   "alternative_forslag": [
@@ -10,11 +10,15 @@
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over utsettelsesforslag fremmet av Trond Hoseth (Arbeiderpartiet): «Saken utsettes til neste møte.»",
+      "beskrivelse": "Votering over utsettelsesforslaget fra Trond Hoseth (AP): Saken utsettes til neste møte.",
       "alternativer": [
         {
           "navn": "For utsettelsesforslaget",
           "stemmer": 31
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 0
         }
       ],
       "vinner": "For utsettelsesforslaget",

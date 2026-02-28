@@ -1,0 +1,26 @@
+{
+  "tittel": "Eierstrategi for Horg bygdatun",
+  "innstilling": "Formannskapets vedtak legges til grunn.",
+  "vedtak": "Eierstrategi for Horg Bygdatun vedtas med tillegg. Tillegg i punkt 3.4: I tillegg skal bygningen Svestuggu leies ut til lukkede arrangementer i perioden mai til oktober når museumsdriften tillater det, og det skal legges til rette for utekonserter på egne områder av museet.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets vedtak med tillegg.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets vedtak med tillegg",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Formannskapets vedtak med tillegg",
+      "rodt": {
+        "støttet": "Formannskapets vedtak med tillegg",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 102/25",
+  "rodt_fremmet_forslag": false
+}

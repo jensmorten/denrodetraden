@@ -1,0 +1,26 @@
+{
+  "tittel": "Fritak fra politiske verv - Fritz Arne Haugen - Sp - videreføring 6 mnd",
+  "innstilling": "Valgnemndas innstilling legges til grunn.",
+  "vedtak": "Fritz Arne Haugen (SP) innvilges 50 % permisjon fra stillingen som varaordfører fra 01.01.2026 - 30.06.2026.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgnemndas innstilling om å innvilge Fritz Arne Haugen 50 % permisjon fra stillingen som varaordfører fra 01.01.2026 - 30.06.2026.",
+      "alternativer": [
+        {
+          "navn": "Valgnemndas innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgnemndas innstilling",
+      "rodt": {
+        "støttet": "Valgnemndas innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 139/25",
+  "rodt_fremmet_forslag": false
+}

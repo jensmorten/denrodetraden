@@ -1,26 +1,15 @@
 {
-  "tittel": "PS 39/25 Administrativt vertskommunesamarbeid - felles dokumentasjonssenter Værnesregionen",
-  "innstilling": "1. Vedlagte forslag til vertskommuneavtale om Værnesregionen Dokumentasjonssenter vedtas.\n2. Avtalen trer i kraft med virkning fra 1.1.2026",
-  "vedtak": "1. Vedlagte forslag til vertskommuneavtale om Værnesregionen Dokumentasjonssenter vedtas.\n2. Avtalen trer i kraft med virkning fra 1.1.2026",
+  "tittel": "Interpellasjon - Kommunestyret 25.03.2025 - Sikre at omstillingsprosessen og kuttene blir rettferdig fordelt - Karin Jordan Rutlin - INP",
+  "innstilling": null,
+  "vedtak": "Interpellasjon trukket av interpellanten.",
   "alternative_forslag": [],
-  "voteringer": [
-    {
-      "beskrivelse": "Votering over innstillingen fra formannskapet",
-      "alternativer": [
-        {
-          "navn": "Innstillingen",
-          "stemmer": 31
-        }
-      ],
-      "vinner": "Innstillingen",
-      "rodt": {
-        "støttet": "Innstillingen",
-        "var_vinner": true
-      }
-    }
-  ],
+  "voteringer": [],
+  "rodt": {
+    "støttet": null,
+    "var_vinner": null
+  },
   "kommune": "Malvik",
-  "dato": "28.04.2025",
+  "dato": "25.03.2025",
   "saksnummer_ps": "PS 39/25",
   "rodt_fremmet_forslag": false
 }

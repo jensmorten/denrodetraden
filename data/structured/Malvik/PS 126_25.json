@@ -1,0 +1,49 @@
+{
+  "tittel": "Revisjon dokumentasjon Gauldal brann og redning inkludert ROS-analyse og økonomiske konsekvenser for 2026-2029",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "1. Kommunestyret tar forslag til revidert brannordning for kommunene Melhus og Midtre Gauldal til orientering. Den bygger på følgende vedlagte dokumenter: a. Dokumentasjon av brann- og redningsvesenet i Midtre Gauldal og Melhus 2025 b. BrannROS 2025 c. Forebyggendeanalyse 2025 d. Beredskapsanalyse 2025 2. Brannordningen skal i 2026 fungere slik det ble forutsatt ved utarbeidelse av «GBR IKS Budsjett 2026 og økonomiplan 2027 - 2029 vedtatt representantskap august 2025». 3. Kommunestyret ber om årlig rapportering fra GBR IKS om status for gjennomføring og eventuelle avvik. 4. Kommunestyret ber administrasjonen a. forut for budsjettprosessen i 2027 om å ta initiativ sammen med Midtre Gauldal kommune til å utforske mulighetene for ulike typer effektiviserings- og strukturtiltak. Tillegg: Dette skal også omfatte en vurdering av utvidelse av samarbeid til flere kommuner, i form av utvidet interkommunalt samarbeid eller annen egnet samarbeidsform. b. følge opp funn knyttet til pkt 4.a sammen med beskrevne nødvendige tiltak og investeringer i tråd med dokumentasjonen og økonomiplanen vedlagt revidert brannordning. c. legge fram sak om revidert brannordning når den er gjennomgått som nevnt i pkt 4.a. og 4.b. og legge den fram for kommunestyret.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marius Krogstad Aune (H)",
+      "tekst": "Tilleggsforslag til punkt 4a: «Dette skal også omfatte en vurdering av utvidelse av samarbeid til flere kommuner, i form av utvidet interkommunalt samarbeid eller annen egnet samarbeidsform.»"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Formannskapets innstilling",
+      "rodt": {
+        "støttet": "Formannskapets innstilling",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Aune (H) om vurdering av utvidet samarbeid.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Aune (H)",
+          "stemmer": "flertall (mot 4 stemmer fra R og FrP)"
+        },
+        {
+          "navn": "Mot (R og FrP)",
+          "stemmer": 4
+        }
+      ],
+      "vinner": "Tilleggsforslag fra Aune (H)",
+      "rodt": {
+        "støttet": "Mot (R og FrP)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "11.11.2025",
+  "saksnummer_ps": "PS 126/25",
+  "rodt_fremmet_forslag": false
+}

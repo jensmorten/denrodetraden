@@ -1,26 +1,35 @@
 {
-  "tittel": "PS 37/25 Utskrivningsklare pasienter, betalingsdøgn og ventelister 2024",
-  "innstilling": "Saken tas til orientering.",
-  "vedtak": "Saken tas til orientering.",
-  "alternative_forslag": [],
+  "tittel": "Verbalforslag-opprettelse av internasjonalt råd",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "Kommunestyret tar saken til orientering. På grunn av den økonomiske situasjonen i kommunen, prioriteres ikke opprettelse av internasjonalt råd nå. De foreslåtte retningslinjene for rådet legges til grunn dersom saken aktualiseres på et senere tidspunkt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marius Krogstad Aune (H)",
+      "tekst": "Fremmer rådmannens opprinnelige forslag til vedtak: Melhus kommunestyre tar saken til orientering. Det opprettes ikke et internasjonalt råd på grunn av den økonomiske situasjon."
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over innstillingen",
+      "beskrivelse": "Formannskapets innstilling mot rådmannens forslag til vedtak fremmet av Marius Krogstad Aune.",
       "alternativer": [
         {
-          "navn": "For innstillingen",
-          "stemmer": 31
+          "navn": "Formannskapets innstilling",
+          "stemmer": 23
+        },
+        {
+          "navn": "Rådmannens forslag (fremmet av Marius Krogstad Aune)",
+          "stemmer": 12
         }
       ],
-      "vinner": "For innstillingen",
+      "vinner": "Formannskapets innstilling",
       "rodt": {
-        "støttet": "For innstillingen",
+        "støttet": "Formannskapets innstilling",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "28.04.2025",
+  "dato": "25.03.2025",
   "saksnummer_ps": "PS 37/25",
   "rodt_fremmet_forslag": false
 }

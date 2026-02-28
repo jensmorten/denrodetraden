@@ -1,0 +1,26 @@
+{
+  "tittel": "Fritak fra politiske verv - Jørgen Brun-Pedersen",
+  "innstilling": "Valgnemndas vedtak legges til grunn.",
+  "vedtak": "Jørgen Brun-Pedersen (AP) innvilges fritak fra sine verv for perioden 01.10.25 – 01.04.26. For vervet i Kommunestyre må representanten avslå innkallinger for å sikre at første tilgjengelige vara mottar innkalling. Som ny fast representant i utvalg for helse, oppvekst og kultur (UHOK) for Arbeiderpartiet inntrer Jørn Ove Moen. Som ny midlertidig 7. vara: Hans Kristian Lilleberg. Som ny fast representant i samarbeidsutvalg Gimse ungdomsskole inntrer Bente Iren Gåsbakk. Som ny vara representant i samarbeidsutvalg Buan barnehage inntrer Bente Iren Gåsbakk.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra valgnemnda.",
+      "alternativer": [
+        {
+          "navn": "Valgnemndas vedtak",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgnemndas vedtak",
+      "rodt": {
+        "støttet": "Valgnemndas vedtak",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.10.2025",
+  "saksnummer_ps": "PS 113/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,35 @@
+{
+  "tittel": "Forvaltningsrevisjon – Økonomistyring",
+  "innstilling": null,
+  "vedtak": "Saken utsettes til januar 2026.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Fritz Arne Haugen (SP) på vegne av SP, AP, KrF og SV",
+      "tekst": "Saken utsettes til januar 2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslag",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag (SP, AP, KrF, SV, PP, FrP, INP, R og Marius K. Aune (H))",
+          "stemmer": 27
+        },
+        {
+          "navn": "Motforslag (H og ML)",
+          "stemmer": 9
+        }
+      ],
+      "vinner": "Utsettelsesforslag (SP, AP, KrF, SV, PP, FrP, INP, R og Marius K. Aune (H))",
+      "rodt": {
+        "støttet": "Utsettelsesforslag (SP, AP, KrF, SV, PP, FrP, INP, R og Marius K. Aune (H))",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 44/25",
+  "rodt_fremmet_forslag": false
+}

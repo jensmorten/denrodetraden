@@ -1,31 +1,57 @@
 {
-  "tittel": "PS 11/25 Protokoll - Valg av godkjennere",
-  "innstilling": null,
-  "vedtak": "Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører.",
+  "tittel": "Knutepunktet - 2. gangs behandling, planprogram",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "I medhold av plan – og bygningslovens §4-1 vedtar Melhus kommune å fastsette planprogram for Knutepunktet – detaljregulering av Melhus Skysstasjon (PlanID 2022004). Melhus kommune vedtar å beholde tomtene A og B på Knutepunktet med tanke på muligheter for offentlige tjenester. Det bør særlig sees på helhetlig trafikkavvikling i det videre planarbeid. Kommunen utreder øvrige funksjoner som fremstilt i saksfremlegg, planprogram og vedlegg, i videre planarbeid. Planområdet utvides til å omfatte Fv6612 (tidl. Fv740) Hølondvegen fra rundkjøring i Melhusvegen til kryss med Melhustunet.",
   "alternative_forslag": [
     {
-      "forslagsstiller": "Eugen Sørmo (Høyre)",
-      "tekst": "Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører."
+      "forslagsstiller": "Marius Krogstad Aune (H) på vegner av H, ML og FrP",
+      "tekst": "I medhold av plan – og bygningslovens §4-1 vedtar Melhus kommune å fastsette planprogram for Knutepunktet – detaljregulering av Melhus Skysstasjon (PlanID 2022004). Melhus kommune vedtar å ikke regulere for rådhus/kulturhus på Knutepunktet. Kommunen utreder øvrige funksjoner som fremstilt i saksfremlegg, planprogram og vedlegg, i videre planarbeid."
+    },
+    {
+      "forslagsstiller": "Marius Krogstad Aune (H)",
+      "tekst": "Planområdet utvides til å omfatte Fv6612 (tidl. Fv740) Hølondvegen fra rundkjøring i Melhusvegen til kryss med Melhustunet."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over forslag fra Eugen Sørmo (H) om valg av godkjennere av protokollen.",
+      "beskrivelse": "Forslag til vedtak fremmet av Marius Krogstad Aune opp mot formannskapets innstilling.",
       "alternativer": [
         {
-          "navn": "Forslaget fra Eugen Sørmo (H): Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører.",
-          "stemmer": 31
+          "navn": "Formannskapets innstilling",
+          "stemmer": 23
+        },
+        {
+          "navn": "Forslag fra Marius Krogstad Aune (H) på vegner av H, ML og FrP",
+          "stemmer": 13
         }
       ],
-      "vinner": "Forslaget fra Eugen Sørmo (H): Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører.",
+      "vinner": "Formannskapets innstilling",
       "rodt": {
-        "støttet": "Forslaget fra Eugen Sørmo (H): Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører.",
+        "støttet": "Formannskapets innstilling",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fremmet av Marius Krogstad Aune (H): Utvidelse av planområdet.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Marius Krogstad Aune (H)",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot (ML)",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Tilleggsforslag fra Marius Krogstad Aune (H)",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Marius Krogstad Aune (H)",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "24.02.2025",
+  "dato": "11.02.2025",
   "saksnummer_ps": "PS 11/25",
   "rodt_fremmet_forslag": false
 }

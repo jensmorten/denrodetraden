@@ -1,0 +1,101 @@
+{
+  "tittel": "Lokal forskrift - Rekreasjonsløyper for snøscooterkjøring - Melhus kommune",
+  "innstilling": "Formannskapets vedtak legges til grunn.",
+  "vedtak": "Melhus kommune vedtar Forskrift om rekreasjonsløyper for snøscooterkjøring som vedlagt, med følgende løypetraseer: H1-H3 og H5-H12. Løypetrase H4 vedtas ikke.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Fritz Arne Haugen (SP)",
+      "tekst": "Melhus kommune vedtar Forskrift om rekreasjonsløyper for snøscooterkjøring som vedlagt , med følgende løypetraseer: H1-H3 og H5-H12. Løypetrase H4 vedtas ikke."
+    },
+    {
+      "forslagsstiller": "Miriam Sortland Kuldvere (SV)",
+      "tekst": "Melhus kommune vedtar ikke \"Forskrift om rekreasjonsløyper for snøskuterkjøring.\""
+    },
+    {
+      "forslagsstiller": "Kjetil Blokkum (H) på vegner av H, ML og FrP",
+      "tekst": "Melhus kommune vedtar «Forskrift om rekreasjonsløyper for snøscooterkjøring» som vedlagt, med følgende løypetraseer: H1- H12."
+    },
+    {
+      "forslagsstiller": "Erling Gøran Mellingsæter (FrP)",
+      "tekst": "Forslag til vedtak er ny § 4 a: § 4. Åpning og stenging av løypenettet a) Løypenettet åpnes tidligst 1. november og stenges senest 20. mai. Snøscooterkjøring er bare tillatt på snødekt mark. Dette betyr at en snøscooterløype ikke kan åpnes før den i sin helhet er snødekt, og at den må stenges dersom hele eller deler av den er blitt bar."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativt forslag til vedtak fremmet av Kjetil Blokkum (H) på vegner av H, ML og FrP.",
+      "alternativer": [
+        {
+          "navn": "Kjetil Blokkum (H) sitt forslag",
+          "stemmer": 13
+        },
+        {
+          "navn": "Ikke støtte forslaget",
+          "stemmer": 24
+        }
+      ],
+      "vinner": "Ikke støtte forslaget",
+      "rodt": {
+        "støttet": "Ikke støtte forslaget",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Formannskapets vedtak mot øvrige forslag.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets vedtak",
+          "stemmer": 4
+        },
+        {
+          "navn": "Ikke støtte formannskapets vedtak",
+          "stemmer": 33
+        }
+      ],
+      "vinner": "Ikke støtte formannskapets vedtak",
+      "rodt": {
+        "støttet": "Ikke støtte formannskapets vedtak",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Alternativt forslag til vedtak fremmet av Fritz Arne Haugen (SP) mot alternativt forslag til vedtak fremmet av Miriam Sortland Kuldvere (SV).",
+      "alternativer": [
+        {
+          "navn": "Fritz Arne Haugen (SP) sitt forslag",
+          "stemmer": 24
+        },
+        {
+          "navn": "Miriam Sortland Kuldvere (SV) sitt forslag",
+          "stemmer": 13
+        }
+      ],
+      "vinner": "Fritz Arne Haugen (SP) sitt forslag",
+      "rodt": {
+        "støttet": "Miriam Sortland Kuldvere (SV) sitt forslag",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Endringsforslag fremmet av Erling Gøran Mellingsæter (FrP).",
+      "alternativer": [
+        {
+          "navn": "Erling Gøran Mellingsæter (FrP) sitt forslag",
+          "stemmer": 3
+        },
+        {
+          "navn": "Ikke støtte forslaget",
+          "stemmer": 34
+        }
+      ],
+      "vinner": "Ikke støtte forslaget",
+      "rodt": {
+        "støttet": "Ikke støtte forslaget",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 99/25",
+  "rodt_fremmet_forslag": false
+}

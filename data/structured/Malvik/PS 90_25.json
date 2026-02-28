@@ -1,0 +1,75 @@
+{
+  "tittel": "Mobilitetsanbudene i Trøndelag 2029 – MST29 - utredning, innretning på tilbudet, kostnadsramme og føringer",
+  "innstilling": "1. Malvik kommune slutter seg til at Nullalternativet legges til grunn som det minimumsnivået som er nødvendig for mobilitetstilbudet fra 2029. Tiltakene som ligger i Nullalternativet, slik de er presentert av AtB, bør bearbeides videre i samspill med partene i Miljøpakken.\n2. Malvik kommune understreker viktigheten av at tiltaket i Nullalternativet knyttet til styrking av Linje 79 gjennomføres, da dette er i tråd med kommunens innspill og styrker arbeidsreisene til kommunens 4300 pendlere til Trondheim.\n3. Malvik kommune forutsetter at økt finansieringsbehov for MST 2029 (Nullalternativet) løses innenfor Miljøpakkesamarbeidets felles økonomi, og at finansieringen ikke går på bekostning av fremtidig tilbudskvalitet eller infrastrukturprosjekter i Malvik kommune.\n4. Det må sikres at overføringen av busslinjer i Malvik (Linje 70, 85, 86) til de nye regionkontraktene i 2030/2031 opprettholder et robust og attraktivt kollektivtilbud i Malvik, i tråd med Nullvekstmålets forpliktelser.",
+  "vedtak": "1. Malvik kommune slutter seg til at Plussalternativet legges til grunn som det minimumsnivået som er nødvendig for mobilitetstilbudet fra 2029. Tiltakene som ligger i Plussalternativet, slik de er presentert av AtB, bør bearbeides videre i samspill med partene i Miljøpakken.\n2. Malvik kommune understreker viktigheten av at tiltak knyttet til styrking av Linje 79 gjennomføres, da dette er i tråd med kommunens innspill og styrker arbeidsreisene til kommunens 4300 pendlere til Trondheim.\n3. Malvik kommune forutsetter at økt finansieringsbehov for MST 2029 og plussalternativet løses innenfor Miljøpakkesamarbeidets felles økonomi, og at finansieringen ikke går på bekostning av fremtidig tilbudskvalitet eller infrastrukturprosjekter i Malvik kommune.\n4. Det må sikres at overføringen av busslinjer i Malvik (Linje 70, 85, 86) til de nye regionkontraktene i 2030/2031 opprettholder et robust og attraktivt kollektivtilbud i Malvik, i tråd med Nullvekstmålets forpliktelser.\n5. Malvik Kommune henstiller til at sikkerhetspolitiske perspektiver legges til grunn ved innkjøp av busser fra land vi ikke har et sikkerhetspolitisk samarbeid med.\n6. Malvik kommune ber om at det når kontraksstrategien skal legges, vektes at bedriftene har hele faste stillinger og gode løsninger for å rekruttere ansatte.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Linn Sørine Brøns Løvli (Rødt)",
+      "tekst": "Malvik kommune ber om at det når kontraksstrategien skal legges, vektes at bedriftene har hele faste stillinger og gode løsninger for å rekruttere ansatte."
+    },
+    {
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "Malvik Kommune henstiller til at sikkerhetspolitiske perspektiver legges til grunn ved innkjøp av busser fra land vi ikke har et sikkerhetspolitisk samarbeid med."
+    },
+    {
+      "forslagsstiller": "Rakel Trondal (Sosialistisk Venstreparti)",
+      "tekst": "1. Malvik kommune slutter seg til at Plussalternativet legges til grunn som det minimumsnivået som er nødvendig for mobilitetstilbudet fra 2029. Tiltakene som ligger i Plussalternativet, slik de er presentert av AtB, bør bearbeides videre i samspill med partene i Miljøpakken.\n2. Malvik kommune understreker viktigheten av at tiltak knyttet til styrking av Linje 79 gjennomføres, da dette er i tråd med kommunens innspill og styrker arbeidsreisene til kommunens 4300 pendlere til Trondheim.\n3. Malvik kommune forutsetter at økt finansieringsbehov for MST 2029 og plussalternativet løses innenfor Miljøpakkesamarbeidets felles økonomi, og at finansieringen ikke går på bekostning av fremtidig tilbudskvalitet eller infrastrukturprosjekter i Malvik kommune.\n4. Det må sikres at overføringen av busslinjer i Malvik (Linje 70, 85, 86) til de nye regionkontraktene i 2030/2031 opprettholder et robust og attraktivt kollektivtilbud i Malvik, i tråd med Nullvekstmålets forpliktelser."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Endringsforslaget fra Trondal (SV) satt opp mot innstillingen fra formannskapet.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 3
+        },
+        {
+          "navn": "Endringsforslaget fra Trondal",
+          "stemmer": 28
+        }
+      ],
+      "vinner": "Endringsforslaget fra Trondal",
+      "rodt": {
+        "støttet": "Endringsforslaget fra Trondal",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslaget fra Sørmo (H) på vegne av H, FrP, MDG, PP og INP.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslaget fra Sørmo",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Tilleggsforslaget fra Sørmo",
+      "rodt": {
+        "støttet": "Tilleggsforslaget fra Sørmo",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslaget fra Løvli (Rødt).",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslaget fra Løvli",
+          "stemmer": 16
+        },
+        {
+          "navn": "Imot tilleggsforslaget fra Løvli",
+          "stemmer": 15
+        }
+      ],
+      "vinner": "Tilleggsforslaget fra Løvli",
+      "rodt": {
+        "støttet": "Tilleggsforslaget fra Løvli",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "03.11.2025",
+  "saksnummer_ps": "PS 90/25",
+  "rodt_fremmet_forslag": true
+}

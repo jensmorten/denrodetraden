@@ -1,0 +1,31 @@
+{
+  "tittel": "Valg av nytt varamedlem til utvalg for helse og velferd",
+  "innstilling": "Som nytt varamedlem til utvalg for helse og velferd, velges:",
+  "vedtak": "Som nytt 2.varamedlem fra Høyre til utvalg for helse og velferd velges Ingrid M. Hvidsand. Som nytt 3.varamedlem fra Høyre til utvalg for helse og velferd velges Eivind Engan.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "Som nytt 2.varamedlem fra Høyre til utvalg for helse og velferd velges Ingrid M. Hvidsand. Som nytt 3.varamedlem fra Høyre til utvalg for helse og velferd velges Eivind Engan."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av nytt 2. og 3. varamedlem fra Høyre til utvalg for helse og velferd",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Eugen Sørmo (Høyre): Ingrid M. Hvidsand som 2. varamedlem og Eivind Engan som 3. varamedlem",
+          "stemmer": 30
+        }
+      ],
+      "vinner": "Forslag fra Eugen Sørmo (Høyre): Ingrid M. Hvidsand som 2. varamedlem og Eivind Engan som 3. varamedlem",
+      "rodt": {
+        "støttet": "Forslag fra Eugen Sørmo (Høyre): Ingrid M. Hvidsand som 2. varamedlem og Eivind Engan som 3. varamedlem",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "23.02.2026",
+  "saksnummer_ps": "PS 19/26",
+  "rodt_fremmet_forslag": false
+}

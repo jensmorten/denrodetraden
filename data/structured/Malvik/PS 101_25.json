@@ -1,0 +1,26 @@
+{
+  "tittel": "Ledelsens gjennomgang 2025 - Helse og velferd",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Ledelsens gjennomgang 2025 for helse og velferdsområdet i Melhus kommune tas til orientering",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 101/25",
+  "rodt_fremmet_forslag": false
+}

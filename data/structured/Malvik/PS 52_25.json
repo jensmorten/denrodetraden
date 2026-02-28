@@ -1,30 +1,45 @@
 {
-  "tittel": "PS 52/25 1. tertialrapport 2025",
-  "innstilling": "Innstilling til kommunestyret fra formannskapet - 03.06.2025\n1.Kommunestyret tar rapporten for 1. tertial 2025 til orientering.\n2.Kommunestyret foretar følgende korrigeringer av driftsbudsjettet.\nTabell 1 Forslag til budsjettendringer, beløp i 1000 kroner.\nFlyktning\nBruk av disp. Tekniske\nSum\nfond endringer\nmidler\nKommunedirektør og\n2 190 2 190\nstøttefunksjoner\n9\nOppvekst og kultur 9 750\n750\nHelse og velferd -1 090 5 000 3 910\nSamfunnsutvikling og tekniske\n217 -1 100 -883\ntjenester\nFelles (pensjon, lønnsreserve -5\n-5 000\nmm.) 000\nSum utgifter 9 967 0 0 9 967\n3.Kommunestyret foretar følgende korrigeringer av investeringsbudsjett:\nTabell 2 Forslag til budsjettendringer, beløp i 1000 kroner.\n(Revidert budsjett/prognose/budsjettendring per prosjekt, sum -146 700)\nTabell 3 Forslag til budsjettendringer, beløp i 1000 kroner.\nVidereutlån: Malvik kirkelig fellesråd +1 600, Malvik IL +6 300, sum +7 900\nTabell 4 Forslag til budsjettendringer, beløp i 1000 kroner.\n(Anleggsmidler -146 700, utlån av egne midler 7 900, mva-kompensasjon -14 078, bruk av lån -124 722, sum -138 800)\n4.Kommunestyret vedtar å ta opp lån for inntil 260 millioner kroner, en reduksjon på 125 millioner kroner sammenlignet med vedtatt budsjett. (Tabell § 5.5.a i investeringskapitlet)\n5.Tilskudd til Malvik Idrettslags klubbhus økes til kr. 10,4 millioner, rådmannen gis fullmakt til å gjøre de nødvendige budsjettkorrigeringer.\n6.Kommunestyret gir kommunedirektøren fullmakt til å gjennomføre de nødvendige budsjettkorreksjonene.",
-  "vedtak": "Vedtak i Kommunestyret - 16.06.2025\n1.Kommunestyret tar rapporten for 1. tertial 2025 til orientering.\n2.Kommunestyret foretar følgende korrigeringer av driftsbudsjettet.\nTabell 1 Forslag til budsjettendringer, beløp i 1000 kroner.\nBruk av Tekniske Flyktning Sum\ndisp. endringer\nmidler\nfond\nKommunedirektør 2 190 2 190\nog\nstøttefunksjoner\nOppvekst og 9 750 9 750\nkultur\nHelse og velferd -1 090 5 000 3 910\nSamfunnsutvikling 217 -1 100 -883\nog tekniske\ntjenester\nFelles (pensjon, -5 000 -5 000\nlønnsreserve\nmm.)\nSum utgifter 9 967 0 0 9 967\n3.Kommunestyret foretar følgende korrigeringer av investeringsbudsjett:\nTabell 2 Forslag til budsjettendringer, beløp i 1000 kroner.\n(Prosjektvis revidert budsjett/prognose/budsjettendring, sum -146 700)\nTabell 3 Forslag til budsjettendringer, beløp i 1000 kroner.\nVidereutlån: Malvik kirkelig fellesråd +1 600, Malvik IL +6 300, sum +7 900\nTabell 4 Forslag til budsjettendringer, beløp i 1000 kroner.\n(Anleggsmidler -146 700, utlån av egne midler 7 900, mva-kompensasjon -14 078, bruk av lån -124 722, sum -138 800)\n4.Kommunestyret vedtar å ta opp lån for inntil 260 millioner kroner, en reduksjon på 125 millioner kroner sammenlignet med vedtatt budsjett. (Tabell § 5.5.a i investeringskapitlet)\n5.Tilskudd til Malvik Idrettslags klubbhus økes til kr. 10,4 millioner, rådmannen gis fullmakt til å gjøre de nødvendige budsjettkorrigeringer.\n6.Kommunestyret gir kommunedirektøren fullmakt til å gjennomføre de nødvendige budsjettkorreksjonene.",
-  "alternative_forslag": [],
+  "tittel": "Fritak fra politiske verv - Gunnar Andreas Johansen",
+  "innstilling": "Valgnemndas vedtak legges til grunn.",
+  "vedtak": "Gunnar Andreas Johansen (PP) innvilges fritak fra sitt politiske verv som fast medlem i kommunestyret og utvalg for teknikk og miljø fra vedtaksdato og ut perioden. Som ny fast representant for Pensjonistpartiet i kommunestyret inntrer Johan Richard Fjelly Brevik. Som nytt fast medlem i utvalg for teknikk og miljø inntrer Kristin Marken. Som nytt varamedlem i formannskapet inntrer Johan Richard Fjelly Brevik.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marius Krogstad Aune (H) på vegne av PP, H, ML og FrP",
+      "tekst": "Som nytt fast medlem i utvalg for teknikk og miljø inntrer Kristin Marken."
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over formannskapets innstilling (PS 52/25 1. tertialrapport 2025)",
+      "beskrivelse": "Votering over endringsforslag om at Kristin Marken inntrer som nytt fast medlem i utvalg for teknikk og miljø.",
       "alternativer": [
         {
-          "navn": "Innstillingen",
-          "stemmer": 31
-        },
-        {
-          "navn": "Mot innstillingen",
-          "stemmer": 0
+          "navn": "Endringsforslag (Kristin Marken inntrer)",
+          "stemmer": "enstemmig"
         }
       ],
-      "vinner": "Innstillingen",
+      "vinner": "Endringsforslag (Kristin Marken inntrer)",
       "rodt": {
-        "støttet": "Innstillingen",
+        "støttet": "Endringsforslag (Kristin Marken inntrer)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over valgnemndas innstilling med endringsforslag.",
+      "alternativer": [
+        {
+          "navn": "Valgnemndas innstilling med endringsforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgnemndas innstilling med endringsforslag",
+      "rodt": {
+        "støttet": "Valgnemndas innstilling med endringsforslag",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "16.06.2025",
+  "dato": "20.05.2025",
   "saksnummer_ps": "PS 52/25",
   "rodt_fremmet_forslag": false
 }

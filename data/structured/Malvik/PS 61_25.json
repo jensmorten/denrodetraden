@@ -1,26 +1,26 @@
 {
-  "tittel": "PS 61/25 Tilstandsrapport for grunnskolen i Malvik kommune 2024",
-  "innstilling": "Tilstandsrapport for grunnskolen i Malvik kommune 2024 tas til orientering.",
-  "vedtak": "Tilstandsrapport for grunnskolen i Malvik kommune 2024 tas til orientering.",
+  "tittel": "Ekspropriasjon for erverv av grunn til ny vannpumpestasjon Rønningstrøa, gnr/bnr 98/1",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "1. Melhus kommune gir Rådmannen fullmakt til å søke Statsforvalteren i Trøndelag om tillatelse til å ekspropriere et areal på ca. 45 kvm fra eiendommen gbnr. 98/1, for bygging av Rønningstrøa vannpumpestasjon.\n2. Melhus kommune gir Rådmannen fullmakt til å søke om samtykke til å forhåndstiltre arealet som skal eksproprieres, jf. oreigningsloven § 25, samt å be om at en eventuell klage på vedtak om ekspropriasjon ikke skal gis oppsettende virkning, jf. oreigningsloven § 5 annet ledd.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over innstillingen (Tilstandsrapport for grunnskolen i Malvik kommune 2024 tas til orientering).",
+      "beskrivelse": "Votering over formannskapets innstilling.",
       "alternativer": [
         {
-          "navn": "Innstillingen",
-          "stemmer": 31
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
         }
       ],
-      "vinner": "Innstillingen",
+      "vinner": "Formannskapets innstilling",
       "rodt": {
-        "støttet": "Innstillingen",
+        "støttet": "Formannskapets innstilling",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "16.06.2025",
+  "dato": "20.05.2025",
   "saksnummer_ps": "PS 61/25",
   "rodt_fremmet_forslag": false
 }

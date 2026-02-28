@@ -1,31 +1,49 @@
 {
-  "tittel": "PS 10/25 Oppnevning av samevalgstyre for perioden 2024 – 2027",
-  "innstilling": "Som samevalgstyre i Malvik kommune velges:\nSom leder velges:\nSom nestleder velges:",
-  "vedtak": "Som samevalgstyre i Malvik kommune velges formannskapet.\nSom leder av valgstyret velges Eugen G. Sørmo.\nSom nestleder velges Trond Hoseth.",
+  "tittel": "2.gangsbehandling - Områdeplan for Brekkåsen",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "Med hjemmel i plan- og bygningslovens § 12-10 vedtas forslag til områdeplan for Brekkåsen (med tilhørende plankart, bestemmelser, planbeskrivelse, konsekvensutredning, parkeringsnorm og vedlegg), med unntak av «B9 Olastubakken». «B9 Olastubakken» sendes på begrenset høring i 3 uker med partene dette angår etter plan- og bygningsloven § 12-10 vil være nødvendig.\nPlanen vil erstatte eksisterende reguleringsplaner (ferdig utbygde områder) innenfor planområdet. Planene oppheves etter plan- og bygningsloven § 12-14. Dette vil kreve en egen planprosess, jf. § pbl. § 12-14 første ledd som gjøres i etterkant av inneværende planprosess.\nFølgende eksisterende reguleringsplaner (ferdig utbygde områder) innenfor planområdet erstattes helt:\nEndring pk.2 Parkeringsnorm.\nFrittliggende boligbebyggelse oppjusteres til 2 pr enhet\nLavblokkbebyggelse oppjusteres til 1.5 pr enhet.",
   "alternative_forslag": [
     {
-      "forslagsstiller": "Jørgen Enoksen (Høyre)",
-      "tekst": "Som samevalgstyre i Malvik kommune velges formannskapet.\nSom leder av valgstyret velges Eugen G. Sørmo.\nSom nestleder velges Trond Hoseth."
+      "forslagsstiller": "Vidar Krogh-Albertsen (H) på vegne av H, ML, Pp og Frp",
+      "tekst": "Området \"B9 Olastubakken\" opprettholdes til boligformål i tråd med gjeldende KPA."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over forslag fremmet av Jørgen Enoksen (Høyre) om samevalgstyre (formannskapet), leder (Eugen G. Sørmo) og nestleder (Trond Hoseth).",
+      "beskrivelse": "Endringsforslag fra Vidar Krogh-Albertsen (H) om å opprettholde \"B9 Olastubakken\" til boligformål i tråd med gjeldende KPA.",
       "alternativer": [
         {
-          "navn": "Forslaget fra Jørgen Enoksen (H)",
-          "stemmer": 31
+          "navn": "Forslaget fra Vidar Krogh-Albertsen",
+          "stemmer": 15
+        },
+        {
+          "navn": "Mot (ikke opprettholde B9 Olastubakken som boligformål)",
+          "stemmer": 21
         }
       ],
-      "vinner": "Forslaget fra Jørgen Enoksen (H)",
+      "vinner": "Mot (ikke opprettholde B9 Olastubakken som boligformål)",
       "rodt": {
-        "støttet": "Forslaget fra Jørgen Enoksen (H)",
+        "støttet": "Mot (ikke opprettholde B9 Olastubakken som boligformål)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling (områdeplan for Brekkåsen med unntak av B9 Olastubakken sendes på begrenset høring) vedtas.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Formannskapets innstilling",
+      "rodt": {
+        "støttet": "Formannskapets innstilling",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "27.01.2025",
+  "dato": "11.02.2025",
   "saksnummer_ps": "PS 10/25",
   "rodt_fremmet_forslag": false
 }

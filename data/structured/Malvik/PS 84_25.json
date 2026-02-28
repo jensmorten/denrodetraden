@@ -1,0 +1,26 @@
+{
+  "tittel": "Tilstandsrapport for barnevernstjenesten i Melhus og Skaun 2024",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Melhus kommunestyre tar tilstandsrapport for barneverntjenesten i Melhus og Skaun 2024 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 84/25",
+  "rodt_fremmet_forslag": false
+}

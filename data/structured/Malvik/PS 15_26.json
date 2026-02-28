@@ -1,0 +1,97 @@
+{
+  "tittel": "Prosjekt 5834 Helse- og omsorgsbygg frem mot 2050 - konkretisering av heldøgns behov for eldre frem mot 2035",
+  "innstilling": "1. Den fremlagte mulighetsstudien for Hommelvik helsetun tas til orientering. Kommunedirektøren jobber videre med utgangspunkt i fremlagte skisser for å etablere en forsterket skjermet enhet, ny korttids- og rehabiliteringsavdeling, nødvendige fellesarealer og arealer for ansatte på området. Kommunedirektøren bes komme tilbake med en sak som beskriver videre gjennomføring og kostnadsestimat.\n2. Kommunedirektøren utarbeider konkurransegrunnlag med tanke på å utlyse anbud og inngå avtale med ideelle og/eller private aktører for å løse behovet for avlastning og dagtilbud for eldre, inkludert yngre med demens.\n3. Basert på skisserte behov frem mot 2035, bes kommunedirektøren se på muligheten til å etablere nye omsorgsboliger for eldre i samarbeid med private aktører. Dette som erstatning for omsorgsboligene på Hommelvik helsetun.\n4. Det skal på sikt etableres et nytt sykehjem i ytre del av Malvik. Den planlagte mulighetsstudien på Vikhammer helsetun må derfor blant annet vurdere muligheten for nytt sykehjem på området. Kommunedirektøren bes også vurdere muligheten for samarbeid med private/ ideelle for å dekke dette behovet. Kommunedirektøren kommer tilbake med en sak på anbefalt lokalisering av nytt sykehjem.\n5. Rådhus 3 tomten vurderes ikke solgt før prosjektet helse- og omsorgsbygg frem mot 2050 har ferdigstilt sitt arbeid.",
+  "vedtak": "1. Den fremlagte mulighetsstudien for Hommelvik helsetun tas til orientering. Kommunedirektøren jobber videre med utgangspunkt i fremlagte skisser for å etablere en forsterket skjermet enhet, ny korttids- og rehabiliteringsavdeling, nødvendige fellesarealer og arealer for ansatte på området. Kommunedirektøren bes komme tilbake med en sak som beskriver videre gjennomføring og kostnadsestimat.\n2. Kommunedirektøren utarbeider konkurransegrunnlag med tanke på å utlyse anbud og inngå avtale med ideelle og/eller private aktører for å løse behovet for avlastning og dagtilbud for eldre, inkludert yngre med demens.\n3. Basert på skisserte behov frem mot 2035, bes kommunedirektøren se på muligheten til å etablere nye omsorgsboliger for eldre i samarbeid med private aktører. Dette som erstatning for omsorgsboligene på Hommelvik helsetun.\n4. Det skal på sikt etableres et nytt sykehjem i ytre del av Malvik. Den planlagte mulighetsstudien på Vikhammer helsetun må derfor blant annet vurdere muligheten for nytt sykehjem på området. Kommunedirektøren bes også vurdere muligheten for samarbeid med private/ ideelle for å dekke dette behovet. Kommunedirektøren kommer tilbake med en sak på anbefalt lokalisering av nytt sykehjem.\n5. Rådhus 3 tomten vurderes ikke solgt før prosjektet helse- og omsorgsbygg frem mot 2050 har ferdigstilt sitt arbeid.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Stryke “og /eller private” i punkt 2."
+    },
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Erstatte \"private\" med \"ideelle\" i punkt 3."
+    },
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Stryke \"private /\" i punkt 4."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Endringsforslag til punkt 2 fra Jens Morten Nilsen (Rødt): Stryke “og /eller private” i punkt 2.",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": 14
+        },
+        {
+          "navn": "Imot endringsforslaget",
+          "stemmer": 16
+        }
+      ],
+      "vinner": "Imot endringsforslaget",
+      "rodt": {
+        "støttet": "For endringsforslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Endringsforslag til punkt 3 fra Jens Morten Nilsen (Rødt): Erstatte \"private\" med \"ideelle\" i punkt 3.",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": 3
+        },
+        {
+          "navn": "Imot endringsforslaget",
+          "stemmer": 27
+        }
+      ],
+      "vinner": "Imot endringsforslaget",
+      "rodt": {
+        "støttet": "For endringsforslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Endringsforslag til punkt 4 fra Jens Morten Nilsen (Rødt): Stryke \"private /\" i punkt 4.",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": 14
+        },
+        {
+          "navn": "Imot endringsforslaget",
+          "stemmer": 16
+        }
+      ],
+      "vinner": "Imot endringsforslaget",
+      "rodt": {
+        "støttet": "For endringsforslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 28
+        },
+        {
+          "navn": "Imot innstillingen",
+          "stemmer": 2
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "Imot innstillingen",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "23.02.2026",
+  "saksnummer_ps": "PS 15/26",
+  "rodt_fremmet_forslag": true
+}

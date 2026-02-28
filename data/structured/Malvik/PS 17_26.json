@@ -1,0 +1,53 @@
+{
+  "tittel": "Politisk organisering og forskrift om folkevalgtes arbeidsvilkår, Malvik kommune",
+  "innstilling": "Det etableres en arbeidsgruppe bestående av folkevalgte med oppdrag å utrede forslag til ny politisk organisering og godtgjøringsordninger. Arbeidsgruppen skal vurdere kommunestyrets størrelse, inkludert mulig reduksjon av antall representanter, formannskapets sammensetning, utvalgslederroller, utvalgsstruktur og nivå på godtgjøringer, herunder om rollen som opposisjonsleder skal etableres. Arbeidsgruppen skal legge frem sin innstilling til kommunestyret før høsten 2026. Mens endringer i antall kommunestyrerepresentanter og medlemmer i formannskapet først kan tre i kraft fra neste valgperiode, kan endringer i godtgjøringer, ny organisering av utvalgene og opprettelse av opposisjonsleder iverksettes i inneværende valgperiode. Arbeidsgruppen skal derfor også vurdere om endringer skal iverksettes fra høsten 2026. Administrasjonen skal bistå med faktagrunnlag, økonomiske beregninger og konsekvenser.",
+  "vedtak": "Det etableres en arbeidsgruppe bestående av folkevalgte med oppdrag å utrede forslag til ny politisk organisering og godtgjøringsordninger. Arbeidsgruppen skal vurdere kommunestyrets størrelse, inkludert mulig reduksjon av antall representanter, formannskapets sammensetning, utvalgslederroller, utvalgsstruktur og nivå på godtgjøringer, herunder om rollen som opposisjonsleder skal etableres. Arbeidsgruppen skal legge frem sin innstilling til kommunestyret før høsten 2026. Mens endringer i antall kommunestyrerepresentanter og medlemmer i formannskapet først kan tre i kraft fra neste valgperiode, kan endringer i godtgjøringer, ny organisering av utvalgene og opprettelse av opposisjonsleder iverksettes i inneværende valgperiode. Arbeidsgruppen skal derfor også vurdere om endringer skal iverksettes fra høsten 2026. Administrasjonen skal bistå med faktagrunnlag, økonomiske beregninger og konsekvenser.\n1. Arbeidsgruppen skal bestå av fire politiske medlemmer, hvorav to representerer flertallet og to representerer mindretallet.\n2. Ordfører og varaordfører gis møte- og talerett, men skal ikke være faste medlemmer av gruppen.\n3. Arbeidsgruppen skal underveis konferere med alle gruppelederne for å sikre bred politisk forankring.\n4. Arbeidsgruppen får administrativ støtte fra kommunaldirektørens stab, herunder sekretariatsfunksjon fra politisk sekretariat samt juridisk og økonomisk kvalitetssikring av forslagene.\n5. Arbeidsgruppen skal tilstrebe enstemmighet i sine vurderinger og fremme sin innstilling til kommunestyret innen 1 juni 2026.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "• Arbeidsgruppen skal bestå av fire politiske medlemmer, hvorav to representerer flertallet og to representerer mindretallet.\n• Ordfører og varaordfører gis møte- og talerett, men skal ikke være faste medlemmer av gruppen.\n• Arbeidsgruppen skal underveis konferere med alle gruppelederne for å sikre bred politisk forankring.\n• Arbeidsgruppen får administrativ støtte fra kommunaldirektørens stab, herunder sekretariatsfunksjon fra politisk sekretariat samt juridisk og økonomisk kvalitetssikring av forslagene.\n• Arbeidsgruppen skal tilstrebe enstemmighet i sine vurderinger og fremme sin innstilling til kommunestyret innen 1 juni 2026."
+    },
+    {
+      "forslagsstiller": "Linn Sørine Brøns Løvli (Rødt)",
+      "tekst": "Det etableres en arbeidsgruppe bestående av folkevalgte med oppdrag å evaluere den politiske organiseringa og godtgjøringsordninger i kommunen med sikte på mer effektiv og økonomisk politisk organisering. Arbeidsgruppen skal vurdere kommunestyrets størrelse, representanter, formannskapets sammensetning, utvalgslederroller, utvalgsstruktur og nivå på godtgjøringer. Arbeidsgruppen skal legge frem sin innstilling til kommunestyret før høsten 2026. Eventuelle endringer skal iverksettes fra høsten 2027. Administrasjonen skal bistå med faktagrunnlag, økonomiske beregninger og konsekvenser."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillingen og Linn Sørine Brøns Løvli (Rødt) sitt alternative forslag.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 15
+        },
+        {
+          "navn": "Linn Sørine Brøns Løvli (Rødt) sitt alternative forslag",
+          "stemmer": 15
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Linn Sørine Brøns Løvli (Rødt) sitt alternative forslag",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslaget fra Eugen Sørmo (Høyre).",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslaget fra Eugen Sørmo (Høyre)",
+          "stemmer": 30
+        }
+      ],
+      "vinner": "Tilleggsforslaget fra Eugen Sørmo (Høyre)",
+      "rodt": {
+        "støttet": "Tilleggsforslaget fra Eugen Sørmo (Høyre)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "23.02.2026",
+  "saksnummer_ps": "PS 17/26",
+  "rodt_fremmet_forslag": true
+}

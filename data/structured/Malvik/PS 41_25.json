@@ -1,31 +1,11 @@
 {
-  "tittel": "PS 41/25 Valg av nytt varamedlem til kontrollutvalget",
-  "innstilling": "Som nytt varamedlem til kontrollutvalget i Malvik kommune velges:",
-  "vedtak": "Som nytt varamedlem til kontrollutvalget i Malvik kommune velges Anne-Lise Fagerheim.",
-  "alternative_forslag": [
-    {
-      "forslagsstiller": "Thomas Ulstad (Sosialistisk Venstreparti)",
-      "tekst": "Som erstatter for Jan Arne Fagertun som vara i kontrollutvalget velges Anne-Lise Fagerheim"
-    }
-  ],
-  "voteringer": [
-    {
-      "beskrivelse": "Votering over forslag fra Thomas Ulstad (SV) om å velge Anne-Lise Fagerheim som erstatter for Jan Arne Fagertun som vara i kontrollutvalget.",
-      "alternativer": [
-        {
-          "navn": "Forslaget fra Thomas Ulstad (SV)",
-          "stemmer": 31
-        }
-      ],
-      "vinner": "Forslaget fra Thomas Ulstad (SV)",
-      "rodt": {
-        "støttet": "Forslaget fra Thomas Ulstad (SV)",
-        "var_vinner": true
-      }
-    }
-  ],
+  "tittel": "Interpellasjon - Kommunestyret 25.03.2025 - Kjøregodtgjørelse til fritidskontakter - Lillian Ofstad - PP",
+  "innstilling": null,
+  "vedtak": "Svar på interpellasjon om kjøregodtgjørelse til kommunestyremøte 25.3.25\nStøttekontakttjenesten er for barn, ungdom, voksne og eldre som trenger støtte og hjelp til å delta i kultur- og fritidsaktiviteter. Støttekontaktens viktigste oppgave er å hjelpe en annen person til å ha en aktiv og meningsfylt fritid. Støttekontakten kan for eksempel komme på besøk hjemme, bli med på kafe, idrettstilstelninger, eller andre sosiale aktiviteter. Vedtak om å få støttekontakt blir gitt av Helse og velferdskontoret. Arbeidet med å utføre tjenesten gjøres av Kultur og fritid. Per dags dato så er det Ca 100 personer som har vedtak om fritidskontakt/støttekontakt.\nMelhus kommune har fra 1. april 2025 fjernet kjøregodtgjørelsen til støttekontaktene i kommunen. Dette er ikke en lovpålagt tjeneste, men et gode/påskjønnelse som har blitt gitt til støttekontaktene. Denne utgiften kommer nå til å falle på bruker av tjenesten. Dette er på lik linje med andre innbyggere i kommunen som må dekke sine skyssutgifter til og fra fritidsaktiviteter selv.\nOverforbruk i 2024 tvinger fram endringer i støttekontakttjenesten. Kommunen er klar over at dette kan føre til større belastning for brukere av tjenesten og deres pårørende. Kommunen er også klar over at dette kan føre til lavere rekruttering av støttekontakter.",
+  "alternative_forslag": [],
+  "voteringer": [],
   "kommune": "Malvik",
-  "dato": "28.04.2025",
+  "dato": "25.03.2025",
   "saksnummer_ps": "PS 41/25",
   "rodt_fremmet_forslag": false
 }

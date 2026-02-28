@@ -1,0 +1,26 @@
+{
+  "tittel": "Stortingsvalget 2025 - Godkjenning av valgoppgjør",
+  "innstilling": "Valgstyrets vedtak legges til grunn.",
+  "vedtak": "Valgstyrets protokoll for Stortingsvalget 2025 godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av valgstyrets protokoll for Stortingsvalget 2025.",
+      "alternativer": [
+        {
+          "navn": "Valgstyrets vedtak",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgstyrets vedtak",
+      "rodt": {
+        "støttet": "Valgstyrets vedtak",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 96/25",
+  "rodt_fremmet_forslag": false
+}

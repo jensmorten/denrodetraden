@@ -1,45 +1,26 @@
 {
-  "tittel": "PS 31/25 Nytt regionråd for Trondheimsregionen - Trondheimsalliansen IPR",
-  "innstilling": "1. Malvik kommune takker ja til invitasjonen fra Trondheim kommune for deltakelse i Trondheimsalliansen interkommunale politiske råd og vedtar forslag til samarbeidsavtale.\n2. I tillegg til ordfører/varaordfører oppnevnes en politisk representant.\nSom fast representant velges:\nSom vara velges:",
-  "vedtak": "1. Malvik kommune takker ja til invitasjonen fra Trondheim kommune for deltakelse i Trondheimsalliansen interkommunale politiske råd og vedtar forslag til samarbeidsavtale.\n2. I tillegg til ordfører/varaordfører oppnevnes en politisk representant.\nSom fast representant velges: Trond Hoseth AP\nSom vara velges: Thomas Ulstad SV",
-  "alternative_forslag": [
-    {
-      "forslagsstiller": "Matz Ulstad (Arbeiderpartiet)",
-      "tekst": "Som fast representant velges: Trond Hoseth, AP\nSom vara velges: Thomas Ulstad, SV"
-    }
-  ],
+  "tittel": "Årsmelding 2024 - Kraftfond og Næringsfond",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Kommunestyret tar årsmelding for kraftfond og næringsfond 2024 til orientering. I tråd med vedtektene for kraftfondet oversendes gjenpart av årsmeldingen til Statsforvalteren i Trøndelag og Trøndelag Fylkeskommune.",
+  "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over tilleggsforslag fra Matz Ulstad (AP) om fast representant og vara.",
+      "beskrivelse": "Votering over rådmannens innstilling.",
       "alternativer": [
         {
-          "navn": "Tilleggsforslaget (Trond Hoseth AP som fast, Thomas Ulstad SV som vara)",
-          "stemmer": 31
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
         }
       ],
-      "vinner": "Tilleggsforslaget (Trond Hoseth AP som fast, Thomas Ulstad SV som vara)",
+      "vinner": "Rådmannens innstilling",
       "rodt": {
-        "støttet": "Tilleggsforslaget (Trond Hoseth AP som fast, Thomas Ulstad SV som vara)",
-        "var_vinner": true
-      }
-    },
-    {
-      "beskrivelse": "Votering over ordførers innstilling (inkl. punkt 1 og 2).",
-      "alternativer": [
-        {
-          "navn": "Ordførers innstilling",
-          "stemmer": 31
-        }
-      ],
-      "vinner": "Ordførers innstilling",
-      "rodt": {
-        "støttet": "Ordførers innstilling",
+        "støttet": "Rådmannens innstilling",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "31.03.2025",
+  "dato": "25.03.2025",
   "saksnummer_ps": "PS 31/25",
   "rodt_fremmet_forslag": false
 }

@@ -1,35 +1,26 @@
 {
-  "tittel": "PS 50/25 PRO 5381 - En helsestasjon i Malvik",
-  "innstilling": "Kommunestyret vedtar budsjettrammen 23,5 millioner kroner inklusive merverdiavgift for bygging og renovering til en felles helsestasjon i Malvik, lokalisert til dagens helsestasjon på Vikhammer. 4,3 millioner kroner av dette finansieres med momskompensasjon og lånebehovet vil dermed være 19,2 millioner kroner.\nKommunedirektøren får fullmakt til å gjennomføre de nødvendige budsjettkorreksjoner.",
-  "vedtak": "Kommunestyret vedtar budsjettrammen 23,5 millioner kroner inklusive merverdiavgift for bygging og renovering til en felles helsestasjon i Malvik, lokalisert til dagens helsestasjon på Vikhammer. 4,3 millioner kroner av dette finansieres med momskompensasjon og lånebehovet vil dermed være 19,2 millioner kroner.\nKommunedirektøren får fullmakt til å gjennomføre de nødvendige budsjettkorreksjoner.",
-  "alternative_forslag": [
-    {
-      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
-      "tekst": "Kommunestyret ber kommunedirektøren utrede kostnaden ved å opprettholde to helsestasjoner i Malvik, hvorav én i Hommelvik, slik at dette alternativet kan vurderes opp imot å fortsette prosjektet “en helsestasjon i Malvik”."
-    }
-  ],
+  "tittel": "Søknad om fritak fra politiske verv - Stine Estenstad - videreføring",
+  "innstilling": "Valgnemndas vedtak legges til grunn.",
+  "vedtak": "Stine Estenstad (H) innvilges fritak fra sine politiske verv i formannskapet 19.03.2025 og ut perioden. I perioden 19.03.2025 og ut perioden er følgende gjeldene: Som fast representant for Høyre i formannskapet inntrer Vidar Krogh Albertsen. Som ny vara inn for opposisjonen inntrer Kjell Arne Stokke.",
+  "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Innstillingen ble satt opp mot Jens Morten Nilsen (R) sitt alternative forslag.",
+      "beskrivelse": "Votering over Valgnemndas vedtak som innstilling.",
       "alternativer": [
         {
-          "navn": "Innstillingen",
-          "stemmer": 29
-        },
-        {
-          "navn": "Jens Morten Nilsen (R) sitt alternative forslag",
-          "stemmer": 2
+          "navn": "Valgnemndas vedtak",
+          "stemmer": "enstemmig"
         }
       ],
-      "vinner": "Innstillingen",
+      "vinner": "Valgnemndas vedtak",
       "rodt": {
-        "støttet": "Jens Morten Nilsen (R) sitt alternative forslag",
-        "var_vinner": false
+        "støttet": "Valgnemndas vedtak",
+        "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "16.06.2025",
+  "dato": "20.05.2025",
   "saksnummer_ps": "PS 50/25",
-  "rodt_fremmet_forslag": true
+  "rodt_fremmet_forslag": false
 }

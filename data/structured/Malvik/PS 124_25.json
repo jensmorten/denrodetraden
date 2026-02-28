@@ -1,0 +1,35 @@
+{
+  "tittel": "Suppleringsvalg til teknikk- og miljøutvalget – oppfølging av fritak og formannskapsopprykk - Karin Jordan Rutlin - INP",
+  "innstilling": null,
+  "vedtak": "Saken oversendes valgnemnda for ny behandling",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Fritz Arne Haugen (SP)",
+      "tekst": "Saken oversendes valgnemnda for ny behandling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Forslag til vedtak fremmet av Rutlien vs. alternativt forslag fremmet av Haugen",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Rutlien",
+          "stemmer": 9
+        },
+        {
+          "navn": "Alternativt forslag fra Haugen",
+          "stemmer": 27
+        }
+      ],
+      "vinner": "Alternativt forslag fra Haugen",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.10.2025",
+  "saksnummer_ps": "PS 124/25",
+  "rodt_fremmet_forslag": false
+}

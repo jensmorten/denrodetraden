@@ -1,0 +1,67 @@
+{
+  "tittel": "Endre §4 Tilbudsstruktur \"Lokal forskrift om SFO i Melhus kommune\"",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Kommunestyret vedtar å endre §4 Tilbudsstruktur i «Lokal forskrift om skolefritidsordningen (SFO) i Melhus kommune med vedtatte endringer.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Beate Bjerkenås (AP)",
+      "tekst": "Detaljerte endringer i §4, §2 og §8, se full tekst."
+    },
+    {
+      "forslagsstiller": "Uidentifisert",
+      "tekst": "Endringsforslag om at vedtektene gjøres gjeldende fra 18.08.2025"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fremmet av Beate Bjerkenås (AP)",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag fra Beate Bjerkenås (AP)",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Endringsforslag fra Beate Bjerkenås (AP)",
+      "rodt": {
+        "støttet": "Endringsforslag fra Beate Bjerkenås (AP)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over innstillingen med endringsforslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingen med endringsforslag",
+          "stemmer": 36
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "vinner": "Innstillingen med endringsforslag",
+      "rodt": {
+        "støttet": "Mot",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over at vedtektene gjøres gjeldende fra 18.08.2025",
+      "alternativer": [
+        {
+          "navn": "Vedtektene gjøres gjeldende fra 18.08.2025",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Vedtektene gjøres gjeldende fra 18.08.2025",
+      "rodt": {
+        "støttet": "Vedtektene gjøres gjeldende fra 18.08.2025",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 85/25",
+  "rodt_fremmet_forslag": false
+}

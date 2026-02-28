@@ -1,0 +1,35 @@
+{
+  "tittel": "Helhetlig vurdering av kommunens IT-systemer og lisenser",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Kommunestyret viser til vedtak om helhetlig vurdering av kommunens IT-systemer og lisenser, og konstaterer at rådmannens framlegg ikke oppfyller bestillingen slik den ble vedtatt. Den oppfyller heller ikke kommunestyrets vedtak av 25.03.2025 om at alle saker skal inneholde økonomiske konsekvenser. Kommunestyret ber rådmannen legge fram en fullstendig og helhetlig vurdering i tråd med disse vedtakene.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hege Annette Olstad (FrP)",
+      "tekst": "Kommunestyret viser til vedtak om helhetlig vurdering av kommunens IT-systemer og lisenser, og konstaterer at rådmannens framlegg ikke oppfyller bestillingen slik den ble vedtatt. Den oppfyller heller ikke kommunestyrets vedtak av 25.03.2025 om at alle saker skal inneholde økonomiske konsekvenser. Kommunestyret ber rådmannen legge fram en fullstendig og helhetlig vurdering i tråd med disse vedtakene."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom rådmannens innstilling og alternativt forslag fra Olstad (FrP).",
+      "alternativer": [
+        {
+          "navn": "Alternativt forslag fra Olstad (FrP)",
+          "stemmer": 19
+        },
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": 17
+        }
+      ],
+      "vinner": "Alternativt forslag fra Olstad (FrP)",
+      "rodt": {
+        "støttet": "Alternativt forslag fra Olstad (FrP)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.10.2025",
+  "saksnummer_ps": "PS 116/25",
+  "rodt_fremmet_forslag": false
+}

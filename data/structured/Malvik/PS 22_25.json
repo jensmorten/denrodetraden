@@ -1,5 +1,5 @@
 {
-  "tittel": "PS 22/25 Organisering av stemmekretser i Malvik kommune",
+  "tittel": "Organisering av stemmekretser i Malvik kommune",
   "innstilling": "1. Velgere fra tidligere stemmekrets Saksvik, skal nå tilhøre Vikhammer stemmekrets.\n2. Velgere fra tidligere stemmekrets Sneisen, skal nå tilhøre Hommelvik stemmekrets.",
   "vedtak": "1. Velgere fra tidligere stemmekrets Saksvik, skal nå tilhøre Vikhammer stemmekrets.\n2. Velgere fra tidligere stemmekrets Sneisen, skal nå tilhøre Hommelvik stemmekrets.\nKommunestyret ber om at det legges godt til rette for de som av helsemessige årsaker o.l. har vansker med å komme seg til stemmelokalet.",
   "alternative_forslag": [
@@ -10,7 +10,7 @@
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over tilleggsforslag fra Robert Barø (Sp).",
+      "beskrivelse": "Votering over tilleggsforslag fra Robert Barø (Sp)",
       "alternativer": [
         {
           "navn": "For tilleggsforslaget",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "beskrivelse": "Votering over kommunedirektørens innstilling.",
+      "beskrivelse": "Votering over kommunedirektørens innstilling (med vedtatt tilleggsforslag)",
       "alternativer": [
         {
           "navn": "For innstillingen",

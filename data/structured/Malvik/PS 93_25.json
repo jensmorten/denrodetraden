@@ -1,0 +1,31 @@
+{
+  "tittel": "Valg av godkjennere",
+  "innstilling": "Turid Eidem Olsen og Paul Uijting godkjenner protokollen sammen med ordfører.",
+  "vedtak": "Turid Eidem Olsen og Paul Uijting godkjenner protokollen sammen med ordfører.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "Turid Eidem Olsen og Paul Uijting godkjenner protokollen sammen med ordfører."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Forslag fra Eugen Sørmo (Høyre) om at Turid Eidem Olsen og Paul Uijting godkjenner protokollen sammen med ordfører.",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Eugen Sørmo (Høyre)",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Forslaget fra Eugen Sørmo (Høyre)",
+      "rodt": {
+        "støttet": "Forslaget fra Eugen Sørmo (Høyre)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "08.12.2025",
+  "saksnummer_ps": "PS 93/25",
+  "rodt_fremmet_forslag": false
+}

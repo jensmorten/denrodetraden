@@ -1,0 +1,26 @@
+{
+  "tittel": "Strategi- og forvaltningsplan for Horg Bygdatun 2025 - 2035",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Strategi- og forvaltningsplan for Horg Bygdatun 2025-2035 vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 147/25",
+  "rodt_fremmet_forslag": false
+}

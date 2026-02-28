@@ -1,0 +1,53 @@
+{
+  "tittel": "Digitaliseringsstrategi 2025-2030",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Kommunestyret vedtar Digitaliseringsstrategi 2025-2030. Kost/nytte fra tiltak basert på digitaliseringsstrategien rapporteres i en årlig evaluering som legges ved årsmeldinga.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hege Anette Olstad (FrP) på vegne av FrP",
+      "tekst": "Kommunestyret viser til at forslaget til Digitaliseringsstrategi 2025–2030 har vesentlige svakheter og følger heller ikke tidligere vedtak gjort av kommunestyret. Dokumentet sendes tilbake til administrasjonen for revisjon. Begrunnelse: • Manglende plan-/strategi forankring: Strategien viser ikke til eller bygger på relevante vedtak (bl.a. Plan for å forebygge digitalt utenforskap, 2024). • Fravær av styringsgrunnlag: Strategien mangler indikatorer og system for oppfølging. Dette er særlig alvorlig fordi Evalueringen av digitaliseringsstrategien 2019–2023 påpekte at kommunen verken hadde system eller rutine for å måle gevinster av digitalisering. Når dette ikke er rettet opp i ny strategi, fremstår dokumentet som en gjentakelse av tidligere feil. • Innholdsmessige selvmotsigelser: Strategien slår fast at den ikke inneholder mål knyttet til spesifikke løsninger, men sier samtidig at den må sees i sammenheng med kommunens krevende økonomiske situasjon, der digitalisering og gevinstrealisering trekkes frem som en måte å opprettholde tjenestetilbudet med færre ressurser. Når teksten i samme kapittel uttrykker motstridende budskap, fremstår dokumentet som selvmotsigende og dermed uegnet som politisk styringsverktøy."
+    },
+    {
+      "forslagsstiller": "Einar Gimse-Syrstad (AP)",
+      "tekst": "Kost/nytte fra tiltak basert på digitaliseringsstrategien rapporteres i en årlig evaluering som legges ved årsmeldinga."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Utsettelsesforslag fremmet av Olstad (FrP) på vegne av FrP.",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag (Olstad/FrP)",
+          "stemmer": 9
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Mot utsettelsesforslaget",
+      "rodt": {
+        "støttet": "Utsettelsesforslag (Olstad/FrP)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Rådmannens innstilling med formannskapets tillegg.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling med tillegg",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling med tillegg",
+      "rodt": {
+        "støttet": "Rådmannens innstilling med tillegg",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "11.11.2025",
+  "saksnummer_ps": "PS 128/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,49 @@
+{
+  "tittel": "Høring Miljøpakkens handlingsprogram 2026-2029",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "• Melhus kommune tar utkastet til handlingsplan til orientering.\n• Kommunens innspill danner grunnlaget for videre forhandlinger med relevante parter\n• Ordfører gis fullmakt til å forhandle på vegne av Melhus kommune.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Lill-Therese Moshaug Varsi (SP)",
+      "tekst": "Foreslår representant Ingun Gunnes Kregnes (SP) som setteordfører."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av setteordfører (Ingun Gunnes Kregnes, SP)",
+      "alternativer": [
+        {
+          "navn": "Forslaget om Ingun Gunnes Kregnes som setteordfører",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Forslaget om Ingun Gunnes Kregnes som setteordfører",
+      "rodt": {
+        "støttet": "Forslaget om Ingun Gunnes Kregnes som setteordfører",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over rådmannens innstilling",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "flertall (mot 3 stemmer, FrP)"
+        },
+        {
+          "navn": "Mot (FrP)",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 134/25",
+  "rodt_fremmet_forslag": false
+}

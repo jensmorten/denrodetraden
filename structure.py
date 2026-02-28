@@ -13,7 +13,7 @@ from openai import OpenAI
 load_dotenv()
 client = OpenAI()
 
-MODEL = "gpt-5.2"
+MODEL = "gpt-4.1"
 
 # ============================================
 # PDF
@@ -200,6 +200,6 @@ def process_folder(input_folder, kommune):
 if __name__ == "__main__":
 
     process_folder(
-        r"data\malvik\2025",  # <-- juster ved behov
+        r"data\melhus\2026",  # <-- juster ved behov
         kommune="Malvik"
     )

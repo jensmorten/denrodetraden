@@ -1,0 +1,26 @@
+{
+  "tittel": "Spørsmål til kommunestyret - Spørsmål om utbyggingsfond - Karin Jordan Rutlin, INP",
+  "innstilling": null,
+  "vedtak": "Saken utsettes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over om saken skal utsettes",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Utsettelse",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 149/25",
+  "rodt_fremmet_forslag": false
+}

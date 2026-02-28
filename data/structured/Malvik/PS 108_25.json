@@ -1,0 +1,26 @@
+{
+  "tittel": "Interpellasjon Vedtaksstatus - Kommunestyret 16.09.2025 - Anja Sterten - AP",
+  "innstilling": null,
+  "vedtak": "For å sikre kommunestyret et helhetlig og realistisk bilde av situasjonen, ber vi om at rådmannen legger frem:\n1. En samlet oversikt over alle bestillinger som ennå ikke er fremlagt for kommunestyret eller utvalg, både de med frist og de uten frist.\n2. En redegjørelse for status på de enkelte bestillingene.\n3. En gjennomgang av eventuelle konflikter, overlapp eller motsetninger mellom ulike bestillinger.\n4. En vurdering av hvilke bestillinger som etter rådmannens syn er mest kritiske å følge opp, gitt dagens økonomiske situasjon.\nRådmannen bes om å komme tilbake med en sak til førstkommende kommunestyremøte hvor punkt 1-4 besvares.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over interpellantens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "Interpellantens forslag til vedtak",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Interpellantens forslag til vedtak",
+      "rodt": {
+        "støttet": "Interpellantens forslag til vedtak",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 108/25",
+  "rodt_fremmet_forslag": false
+}

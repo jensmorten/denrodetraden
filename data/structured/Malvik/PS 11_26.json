@@ -1,0 +1,31 @@
+{
+  "tittel": "Valg av godkjennere",
+  "innstilling": "Jan Terje Hunnes, INP og Robert Barø, SP godkjenner protokoll sammen med ordfører.",
+  "vedtak": "Jan Terje Hunnes, INP og Robert Barø, SP godkjenner protokoll sammen med ordfører.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "Jan Terje Hunnes, INP og Robert Barø, SP godkjenner protokoll sammen med ordfører."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslaget fra Eugen Sørmo (Høyre) om at Jan Terje Hunnes, INP og Robert Barø, SP godkjenner protokoll sammen med ordfører.",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Eugen Sørmo (Høyre)",
+          "stemmer": 30
+        }
+      ],
+      "vinner": "Forslaget fra Eugen Sørmo (Høyre)",
+      "rodt": {
+        "støttet": "Forslaget fra Eugen Sørmo (Høyre)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "23.02.2026",
+  "saksnummer_ps": "PS 11/26",
+  "rodt_fremmet_forslag": false
+}

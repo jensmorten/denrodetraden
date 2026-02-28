@@ -1,0 +1,26 @@
+{
+  "tittel": "Forskrift om skolekretsgrenser for barn i grunnskolen i Melhus kommune - etter høring",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Forskrift om skolekretsgrenser for barn i grunnskolen i Melhus kommune vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Rådmannens innstilling",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.10.2025",
+  "saksnummer_ps": "PS 118/25",
+  "rodt_fremmet_forslag": false
+}

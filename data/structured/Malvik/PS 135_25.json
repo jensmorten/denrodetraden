@@ -1,0 +1,45 @@
+{
+  "tittel": "Fastsettelse av planprogram - Kommuneplanens arealdel 2025-2037",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "I medhold av plan- og bygningsloven §§ 4-1 og 11-13 vedtar Melhus kommune å fastsette planprogram for Kommuneplanens arealdel 2025-2037.\n\nVedtatt endringsforslag:\n135/2025 - Fastsettelse av planprogram - Kommuneplanens arealdel 2025-2037\n7.2 Regionale føringer og planer\nMelhus kommune ble en del av Miljøpakken i 2021 og signerte en reforhandlet avtale for Trondheimsområdet (2023-2029). De overordnede målene for byvekstavtalen er at “klimagassutslipp, kø, luftforurensning og støy skal reduseres gjennom effektiv arealbruk og ved at veksten i persontransport tas med kollektivtransport, sykling og gange 29 (“nullvekstmålet”)”. Pakken er et samarbeid mellom staten, fylket og kommunene i Trondheimsområdet. Ressursen er i hovedsak rettet mot kollektivtilbud, tiltak knyttet til gange og sykkel og knutepunktutvikling.\nSetning strykes Forpliktelsene knyttet til arealbruk i avtalen utgjør et sentralt grunnlag for denne revideringen av arealdelen.\nDet overordnede målet sier også at avtalen skal bidra til attraktiv by- og tettstedsutvikling. Dette ses i sammenheng med kommunens ønske om vekst i alle tettsteder.\nTillegg:\nGitt at både byvekstavtalen går ut i 2029 vil ikke disse hensyntas i stor grad for planprogrammet.\nDet Melhus kommune konkluderer med i sitt planarbeid skal jobbes inn i eventuelle ny byvekstavtale. Ved avtaleinngåelse av en ny IKAP 3 skal også planarbeidet i Melhus kommune hensyntas.\nPunkt 3.6.2 – Eksisterende skytebaner må være med i planutkastet og KPA.\nNedre-Melhus må defineres bedre i sin helhet i videre arbeid i KPA samt andre kommunale dokumenter.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjetil Blokkum (H) på vegne av H, ML, PP og FrP",
+      "tekst": "Endringsforslag til punkt 7.2 Regionale føringer og planer, inkludert strykning av setning om forpliktelser knyttet til arealbruk, tillegg om at byvekstavtalen ikke hensyntas i stor grad etter 2029, at Melhus sitt planarbeid skal jobbes inn i eventuell ny byvekstavtale og IKAP 3, samt at eksisterende skytebaner og bedre definisjon av Nedre-Melhus skal innarbeides."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Tilleggsforslag fra Blokkum (endringsforslag til planprogrammet)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Blokkum",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Tilleggsforslag fra Blokkum",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Blokkum",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Rådmannens innstilling (med vedtatt endringsforslag)",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling (med endringsforslag)",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling (med endringsforslag)",
+      "rodt": {
+        "støttet": "Rådmannens innstilling (med endringsforslag)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 135/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,26 @@
+{
+  "tittel": "2. gangsbehandling Furuhaugen boligfelt",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Melhus kommune vedtar med hjemmel i plan- og bygningsloven § 12-12 «Detaljregulering Furuhaugen boligfelt» plan-id 2024001, som vist i planbeskrivelse, planbestemmelser og plankart, samt øvrige vedlegg.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 64/25",
+  "rodt_fremmet_forslag": false
+}

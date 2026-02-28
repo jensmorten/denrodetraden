@@ -1,0 +1,26 @@
+{
+  "tittel": "Sluttbehandling - Detaljregulering for rassikringstiltak Dovrebanen, Karivollen - PlanID 2023006",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "Melhus kommune vedtar med hjemmel i plan- og bygningsloven § 12-12 Detaljreguleringsplan for rassikringstiltak Dovrebanen, Karivollen (planid 2023006), som vist i vedlagte planbestemmelser, plankart og planbeskrivelse med vedlegg.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Formannskapets innstilling",
+      "rodt": {
+        "støttet": "Formannskapets innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 65/25",
+  "rodt_fremmet_forslag": false
+}

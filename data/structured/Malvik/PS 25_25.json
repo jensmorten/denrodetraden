@@ -1,26 +1,26 @@
 {
-  "tittel": "PS 25/25 Finansrapport for 2024",
-  "innstilling": "Finansrapporten for 2024 tas til orientering.",
-  "vedtak": "Finansrapporten for 2024 tas til orientering.",
+  "tittel": "Avslutning av ansettelsesforhold rådmann - avtale",
+  "innstilling": "Ordførers innstiling legges til grunn.",
+  "vedtak": "Avtale om avslutning av rådmannens arbeidsforhold godkjennes.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over innstillingen: «Finansrapporten for 2024 tas til orientering.»",
+      "beskrivelse": "Votering over ordførers innstilling.",
       "alternativer": [
         {
-          "navn": "For innstillingen",
-          "stemmer": 31
+          "navn": "Ordførers innstilling",
+          "stemmer": "enstemmig"
         }
       ],
-      "vinner": "For innstillingen",
+      "vinner": "Ordførers innstilling",
       "rodt": {
-        "støttet": "For innstillingen",
+        "støttet": "Ordførers innstilling",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "31.03.2025",
+  "dato": "25.03.2025",
   "saksnummer_ps": "PS 25/25",
   "rodt_fremmet_forslag": false
 }

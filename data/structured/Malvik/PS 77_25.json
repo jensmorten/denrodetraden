@@ -1,0 +1,30 @@
+{
+  "tittel": "Program for folkehelse 2024-2026 politisk vedtak",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Melhus kommune skal delta i Program for folkehelse 2024-2026. Kommunen stiller egeninnsats til rådighet lik søknadssum til prosjektet. Prosjektet som går i perioden 2024-2026 bygger på prosjektet som ble gjennomført i forrige runde av Program for folkehelse.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling",
+      "alternativer": [
+        {
+          "navn": "For rådmannens innstilling",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot rådmannens innstilling",
+          "stemmer": 17
+        }
+      ],
+      "vinner": "For rådmannens innstilling",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 77/25",
+  "rodt_fremmet_forslag": false
+}

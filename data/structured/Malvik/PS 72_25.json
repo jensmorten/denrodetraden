@@ -1,0 +1,49 @@
+{
+  "tittel": "Sluttbehandling av områdeplan for Brekkåsen - vedtak etter begrenset høring",
+  "innstilling": "Formannskapets vedtak legges til grunn.",
+  "vedtak": "Med hjemmel i plan- og bygningsloven § 12-12 vedtas Områdeplanplan for Brekkåsen, planID 2018018, med tilhørende planbestemmelser, planbeskrivelse, plankart og vedlegg.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Vidar Krogh-Albertsen (H) på vegne av H, FrP, ML og PP",
+      "tekst": "Området “B9 Olastubakken” opprettholdes til boligformål i tråd med gjeldende KPA."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets vedtak",
+      "alternativer": [
+        {
+          "navn": "Formannskapets vedtak",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Formannskapets vedtak",
+      "rodt": {
+        "støttet": "Formannskapets vedtak",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over endringsforslag fra Vidar Krogh-Albertsen (H) om B9 Olastubakken",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag Vidar Krogh-Albertsen (H)",
+          "stemmer": 16
+        },
+        {
+          "navn": "Mot endringsforslaget (dvs. støtte formannskapets vedtak)",
+          "stemmer": 21
+        }
+      ],
+      "vinner": "Mot endringsforslaget (dvs. støtte formannskapets vedtak)",
+      "rodt": {
+        "støttet": "Mot endringsforslaget (dvs. støtte formannskapets vedtak)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 72/25",
+  "rodt_fremmet_forslag": false
+}

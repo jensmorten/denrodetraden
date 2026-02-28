@@ -1,49 +1,26 @@
 {
-  "tittel": "PS 3/25 Reguleringsplan for ny E6 mellom Leistad og Stjørdal grense - bruk av plan- og bygningsloven § 3-7",
-  "innstilling": "1. Kommunestyret vedtar at Nye Veier får ansvar for organisering og gjennomføring av planarbeidet for endringer i reguleringsplanen for ny E6 mellom Leistad og Stjørdal grense.\n2. Dette gjelder spesifikt for områdene Hommelvikkrysset og Sveberg.\n3. Vedtaket er fattet i henhold til plan- og bygningsloven § 3-7 første ledd, og gjelder frem til det fattes endelig vedtak i saken.",
-  "vedtak": "1. Kommunestyret vedtar at Nye Veier får ansvar for organisering og gjennomføring av planarbeidet for endringer i reguleringsplanen for ny E6 mellom Leistad og Stjørdal grense.\n2. Dette gjelder spesifikt for områdene Hommelvikkrysset og Sveberg.\n3. Vedtaket er fattet i henhold til plan- og bygningsloven § 3-7 første ledd, og gjelder frem til det fattes endelig vedtak i saken.",
-  "alternative_forslag": [
-    {
-      "forslagsstiller": "Robert Barø (Senterpartiet)",
-      "tekst": "Tilleggsforslag til punkt 2 i innstillingen:\n2. dette gjelder spesifikt for områdene Hommelvikkrysset, Sveberg og Leistad."
-    }
-  ],
+  "tittel": "Fritak fra politiske verv - Hanne Aarhaug",
+  "innstilling": "Valgnemndas innstilling legges til grunn.",
+  "vedtak": "Hanne Aarhaug (H) innvilges fritak fra sine politiske verv i kommunestyret og utvalg for helse, oppvekst og kultur (UHOK) (fast møtende representant etter fritak for Cato A. Sannes (H)). Fra dato for innvilget fritak og ut perioden er følgende gjeldende: Som ny fast representant i kommunestyret trer Kjell Arne Stokke inn. Som Høyres vara nr. 9 inntrer Sturla Langørgen i kommunestyret. Som Høyres vara nr. 10 inntrer Ingeborg Gaustad Pettersen som ny siste vara i kommunestyret. Som ny fast representant for Høyre i UHOK inntrer Kristin Kvaal Berg (H). Som ny siste vara til formannskapet inntrer Kjell Arne Stokke (H).",
+  "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "beskrivelse": "Votering over valgnemndas innstilling om fritak for Hanne Aarhaug og nye representanter/varaer.",
       "alternativer": [
         {
-          "navn": "Innstillingen",
-          "stemmer": 31
+          "navn": "Valgnemndas innstilling",
+          "stemmer": "enstemmig"
         }
       ],
-      "vinner": "Innstillingen",
+      "vinner": "Valgnemndas innstilling",
       "rodt": {
-        "støttet": "Innstillingen",
+        "støttet": "Valgnemndas innstilling",
         "var_vinner": true
-      }
-    },
-    {
-      "beskrivelse": "Votering over tilleggsforslag fra Robert Barø (Sp) om å inkludere Leistad i punkt 2",
-      "alternativer": [
-        {
-          "navn": "For tilleggsforslaget",
-          "stemmer": 8
-        },
-        {
-          "navn": "Imot tilleggsforslaget",
-          "stemmer": 23
-        }
-      ],
-      "vinner": "Imot tilleggsforslaget",
-      "rodt": {
-        "støttet": "For tilleggsforslaget",
-        "var_vinner": false
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "27.01.2025",
+  "dato": "11.02.2025",
   "saksnummer_ps": "PS 3/25",
   "rodt_fremmet_forslag": false
 }

@@ -1,0 +1,31 @@
+{
+  "tittel": "Svingen 5, gnr. 215, bnr. 149 - Ekspropriasjon for etablering av nytt fortau og rehabilitering av vann- og avløpsledninger",
+  "innstilling": null,
+  "vedtak": "Saken utsettes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "ordfører",
+      "tekst": "Utsettelsesforslag grunnet nye opplysninger fra administrasjonen som har betydning for saken."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Utsettelsesforslag",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Utsettelsesforslag",
+      "rodt": {
+        "støttet": "Utsettelsesforslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 145/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,49 @@
+{
+  "tittel": "Kommunal vigselsrett",
+  "innstilling": "Formannskapets vedtak legges til grunn.",
+  "vedtak": "1. Vigselsmyndighet i kommunene er gitt til ordfører og varaordfører.\n2. Kommunestyret vedtar at vigselsrett i Melhus kommune tildeles rollen som rådmann/kommunedirektør.\n3. Kommunestyret vedtar at kommunalsjef for oppvekst og kultur gis vigselsmyndighet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjetil Blokkum (H)",
+      "tekst": "Punkt 3 kommunalsjef for oppvekst og kultur."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fremmet av Kjetil Blokkum (H) om at kommunalsjef for oppvekst og kultur gis vigselsmyndighet (punkt 3).",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag fra Kjetil Blokkum (H)",
+          "stemmer": 28
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "Endringsforslag fra Kjetil Blokkum (H)",
+      "rodt": {
+        "støttet": "Endringsforslag fra Kjetil Blokkum (H)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over formannskapets vedtak med endring fremmet av Kjetil Blokkum.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets vedtak med endring",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Formannskapets vedtak med endring",
+      "rodt": {
+        "støttet": "Formannskapets vedtak med endring",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 98/25",
+  "rodt_fremmet_forslag": false
+}

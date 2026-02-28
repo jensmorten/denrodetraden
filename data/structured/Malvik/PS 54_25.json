@@ -1,35 +1,53 @@
 {
-  "tittel": "PS 54/25 Utredning 2025 - legevaktsordning for Malvik kommune",
-  "innstilling": "• Malvik kommune inngår samarbeid med Trondheim kommune legevakt\n• Samarbeidsavtalen trer i kraft 01.01.26\n• Kommunedirektøren får fullmakt til å inngå avtalen\n• De økonomiske konsekvensene innarbeides i kommunedirektørens forslag til HØP 2026 – 2029 med budsjett for 2026",
-  "vedtak": "• Malvik kommune inngår samarbeid med Trondheim kommune legevakt\n• Samarbeidsavtalen trer i kraft 01.01.26\n• Kommunedirektøren får fullmakt til å inngå avtalen\n• De økonomiske konsekvensene innarbeides i kommunedirektørens forslag til HØP 2026 – 2029 med budsjett for 2026",
+  "tittel": "Digitaliseringsstrategi 2025-2030",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "Kommunestyret vedtar Digitaliseringsstrategi 2025-2030. Kost/nytte fra tiltak basert på digitaliseringsstrategien rapporteres i en årlig evaluering som legges ved årsmeldinga.",
   "alternative_forslag": [
     {
-      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
-      "tekst": "Vi vil opprettholde kommunedirektørens innstilling til HV\n• Malvik kommune inngår samarbeid med Værnesregionen legevakt\n• Samarbeidsavtalen trer i kraft 1.1.2026\n• Kommunedirektøren får fullmakt til å inngå avtalen.\n• Innsparingen innarbeides i kommunedirektørens forslag til HØP 2026 - 2029 med budsjett for 2026"
+      "forslagsstiller": "Hege Annette Olstad (FrP) på vegne av FrP, H, ML og PP",
+      "tekst": "Behandling av digitaliseringsstrategien utsettes og sendes tilbake til rådmannen for revidering. Strategien må revideres slik at den sikrer tydelig politisk styring, ikke bare administrativ gjennomføring og rapportering i etterkant."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Innstillingen ble satt opp mot Jens Morten Nilsens alternative forslag.",
+      "beskrivelse": "Utsettelsesforslag fra FrP, H, ML og PP om å sende strategien tilbake til rådmannen for revidering.",
       "alternativer": [
         {
-          "navn": "Innstillingen (samarbeid med Trondheim kommune legevakt)",
-          "stemmer": 26
+          "navn": "Utsettelsesforslag",
+          "stemmer": 18
         },
         {
-          "navn": "Jens Morten Nilsens alternative forslag (samarbeid med Værnesregionen legevakt)",
-          "stemmer": 5
+          "navn": "Mot utsettelsesforslag",
+          "stemmer": null
         }
       ],
-      "vinner": "Innstillingen (samarbeid med Trondheim kommune legevakt)",
+      "vinner": "Mot utsettelsesforslag",
       "rodt": {
-        "støttet": "Jens Morten Nilsens alternative forslag (samarbeid med Værnesregionen legevakt)",
+        "støttet": "Utsettelsesforslag",
         "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Realitetsbehandling av formannskapets innstilling om å vedta digitaliseringsstrategien.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": null
+        },
+        {
+          "navn": "Mot innstillingen (INP, Jørund Handå Ofstad (PP) og Gunnar Andreas Johansen (PP))",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "16.06.2025",
+  "dato": "20.05.2025",
   "saksnummer_ps": "PS 54/25",
-  "rodt_fremmet_forslag": true
+  "rodt_fremmet_forslag": false
 }

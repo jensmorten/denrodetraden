@@ -1,0 +1,26 @@
+{
+  "tittel": "Boligsosial handlingsplan",
+  "innstilling": null,
+  "vedtak": "Kommunestyret tar saken til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunestyret tar saken til orientering.",
+      "alternativer": [
+        {
+          "navn": "Tar saken til orientering",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Tar saken til orientering",
+      "rodt": {
+        "støttet": "Tar saken til orientering",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.10.2025",
+  "saksnummer_ps": "PS 117/25",
+  "rodt_fremmet_forslag": false
+}

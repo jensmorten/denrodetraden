@@ -1,0 +1,26 @@
+{
+  "tittel": "Fritak fra politiske verv - Esten Bakken",
+  "innstilling": "Valgnemndas vedtak legges til grunn.",
+  "vedtak": "Esten Bakke (AP) innvilges fritak fra sine politiske verv ut inneværende kommunestyreperiode, med virkning fra vedtaksdato i kommunestyret. Som ny første vara i kommunestyret følger naturlig opprykk fra varalisten iht valgstyrets møtebok. Som ny fjerde vara i utvalg for helse, oppvekst og kultur (UHOK) for Arbeiderpartiet inntrer May Synnøve Storvold. Resten av lista rykker opp etter Arbeiderpartiets varaliste, Arild Granmo.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgnemndas vedtak om fritak for Esten Bakken.",
+      "alternativer": [
+        {
+          "navn": "Valgnemndas vedtak",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgnemndas vedtak",
+      "rodt": {
+        "støttet": "Valgnemndas vedtak",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.10.2025",
+  "saksnummer_ps": "PS 112/25",
+  "rodt_fremmet_forslag": false
+}

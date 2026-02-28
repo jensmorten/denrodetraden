@@ -1,0 +1,26 @@
+{
+  "tittel": "Boligsosial handlingsplan, endelig behandling",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Boligsosial handlingsplan for 2026-2030 vedtas. Planens strategier og oppdrag skal være førende for det videre arbeidet innen det boligsosiale feltet i Melhus kommune. Aktuelle oppfølgningspunkter innarbeides i handlings og økonomiplan og rådmannen rapporterer på framdrift som del av kommunens ordinære plan og rapporteringsrutiner.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 141/25",
+  "rodt_fremmet_forslag": false
+}

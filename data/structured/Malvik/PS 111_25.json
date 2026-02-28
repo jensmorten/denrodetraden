@@ -1,0 +1,67 @@
+{
+  "tittel": "Møteplan 2026 politisk virksomhet",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Politisk møteplan for 2026 tas til orientering. Det overlates til politisk sekretariat å gjøre endringer i planen i samråd med ordfører og rådmann/kommunedirektør. Følgende endringer vedtatt: Kommunestyret har møtestart kl 16.00. Kommunestyret starter kl 16.00 og det legges inn en enkel matpause på 30 minutter senere i møtet. Orienteringer bør begrenses til inntil 30 minutter totalt pr møte.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Merethe Moum (MLP)",
+      "tekst": "Saken tas til orientering med følgende endringer: Kommunestyret har møtestart kl 16.00. Kommunestyret starter kl 16.00 og det legges inn en enkel matpause på 30 minutter senere i møtet. Orienteringer bør begrenses til inntil 30 minutter totalt pr møte."
+    },
+    {
+      "forslagsstiller": "Jørund Ofstad (PP)",
+      "tekst": "I 2026 planlegges det for 10 møter i kommunestyret og 8 møter i hovedutvalgene. Møtene i hovedutvalgene legges i forkant av møter i kommunestyret. Ordfører gis myndighet til å legge inn datoene i møteplanen. Hvis det ikke er behov for møte, blir det sendt avlysning med 14 dagers varsel."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Tilleggsforslag fremmet av Jørund Ofstad (PP)",
+      "alternativer": [
+        {
+          "navn": "Ofstads forslag",
+          "stemmer": 4
+        },
+        {
+          "navn": "Mot (ikke støtte forslaget)",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Mot (ikke støtte forslaget)",
+      "rodt": {
+        "støttet": "Ofstads forslag",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Rådmannens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "Rådmannens forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens forslag",
+      "rodt": {
+        "støttet": "Rådmannens forslag",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fremmet av Merethe Moum (MLP)",
+      "alternativer": [
+        {
+          "navn": "Moums forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Moums forslag",
+      "rodt": {
+        "støttet": "Moums forslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.10.2025",
+  "saksnummer_ps": "PS 111/25",
+  "rodt_fremmet_forslag": false
+}

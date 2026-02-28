@@ -1,0 +1,26 @@
+{
+  "tittel": "Forslag møteplan for 2026 - Politiske utvalg",
+  "innstilling": "Forslag til møteplan for politiske utvalg for 2026 vedtas.",
+  "vedtak": "Forslag til møteplan for politiske utvalg for 2026 vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om møteplan for politiske utvalg for 2026.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "03.11.2025",
+  "saksnummer_ps": "PS 91/25",
+  "rodt_fremmet_forslag": false
+}

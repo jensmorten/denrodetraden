@@ -1,0 +1,67 @@
+{
+  "tittel": "Økonomirapportering andre tertial (T2) - 2025",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "1. Melhus kommunestyre vedtar revidert økonomisk oversikt § 5-6 for budsjettåret 2025. Netto driftsresultat foreslås disponert på som vist i tabellen nedenfor:\n2.\n3. Melhus kommunestyre vedtar ny revidert bevilgningsoversikt drift § 5-4, 1. ledd.\n4. Melhus kommunestyre vedtar ny revidert bevilgningsoversikt drift § 5-4, 2 ledd.\n5. Melhus kommunestyre vedtar ny revidert bevilgningsoversikt investeringer § 5-5, 1. ledd.\n6. Melhus kommunestyret vedtar ny revidert bevilgningsoversikt investeringer § 5-5, 2. ledd.\n7. Melhus kommunestyre vedtar å gi rådmannen fullmakt til å redusere limiten på kassekreditten fra kr. 140 000 000 til kr. 100 000 000. Dersom nytt behov for økt ramme på kassekreditten oppstår, skal dette forelegges kommunestyret for vedtak.\n8. Melhus kommunestyre tar tertialrapportens orientering om finansforvaltningen til etterretning.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjetil Blokkum (H)",
+      "tekst": "Kommunestyret foreslår at 36831 (driftssentral) og 36840 (investering maskinpark teknisk drift) avsluttes og resterende midler ikke blir brukt eller overført til neste år."
+    },
+    {
+      "forslagsstiller": "Einar Gimse-Syrstad (AP)",
+      "tekst": "Melhus kommunestyre vedtar revidert økonomisk oversikt § 5-6 for budsjettåret 2025. Netto driftsresultat foreslås disponert som vist i tabellen nedenfor:"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fremmet av Gimse-Syrstad (AP)",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag fra Gimse-Syrstad (AP)",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Endringsforslag fra Gimse-Syrstad (AP)",
+      "rodt": {
+        "støttet": "Endringsforslag fra Gimse-Syrstad (AP)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over rådmannens innstilling punkt 1 til 8 med vedtatt endringsforslag fra Gimse-Syrstad",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling punkt 1-8 med endringsforslag fra Gimse-Syrstad",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling punkt 1-8 med endringsforslag fra Gimse-Syrstad",
+      "rodt": {
+        "støttet": "Rådmannens innstilling punkt 1-8 med endringsforslag fra Gimse-Syrstad",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over endringsforslag fremmet av Blokkum (H)",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag fra Blokkum (H)",
+          "stemmer": 11
+        },
+        {
+          "navn": "Mot endringsforslag fra Blokkum (H)",
+          "stemmer": "flertall"
+        }
+      ],
+      "vinner": "Mot endringsforslag fra Blokkum (H)",
+      "rodt": {
+        "støttet": "Mot endringsforslag fra Blokkum (H)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "28.10.2025",
+  "saksnummer_ps": "PS 121/25",
+  "rodt_fremmet_forslag": false
+}

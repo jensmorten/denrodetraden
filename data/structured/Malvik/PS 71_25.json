@@ -1,0 +1,45 @@
+{
+  "tittel": "Sluttbehandling - Detaljreguleringsplan gang- og sykkelveg Bennavegen, Langdalen- Hårråbakken - PlanID 2023001",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "1. Melhus kommune vedtar med hjemmel i plan- og bygningsloven § 12-12 Detaljregulering gang- og sykkelveg Bennavegen, Langdalen- Hårråbakken (PlanID 2023001), som vist i vedlagte plankart, planbestemmelser og planbeskrivelse med tilhørende vedlegg.\n2. Det tas sikte på å oppheve deler av følgende gjeldende detaljreguleringsplaner, Lykkja boligfelt (PlanID 2018008), Hermanstad G/S veg (PlanID 2017005), Del av 73/5 og 73/6 Sagplassen, Kvål (PlanID 2005009)\n3. Detaljert plan for flytting av matjord godkjent av Melhus kommune skal foreligge før tillatelse til tiltak kan gis. Planen må inneholde en flytting til ikke-dyrkbart areal, og i forholdet 1:1 for å opprettholde det totale arealet med dyrka jord i kommunen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ingunn Gunnes Kregnes",
+      "tekst": "Foreslår Tor Ingar Verstad som settevara."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslaget om Tor Ingar Verstad som settevara.",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Ingunn Gunnes Kregnes",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "Forslaget fra Ingunn Gunnes Kregnes",
+      "rodt": {
+        "støttet": "Forslaget fra Ingunn Gunnes Kregnes",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling som vedtak.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "Formannskapets innstilling",
+      "rodt": {
+        "støttet": "Formannskapets innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 71/25",
+  "rodt_fremmet_forslag": false
+}

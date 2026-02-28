@@ -1,0 +1,30 @@
+{
+  "tittel": "Endring av vedtekter for SFO Melhus fra 01.03.26",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Kommunestyret vedtar nye vedtekter for SFO Melhus.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "flertall"
+        },
+        {
+          "navn": "Mot (R)",
+          "stemmer": 1
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Mot (R)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 144/25",
+  "rodt_fremmet_forslag": false
+}

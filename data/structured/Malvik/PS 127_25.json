@@ -1,0 +1,26 @@
+{
+  "tittel": "Fritak fra politiske verv - Rune Sunnset - forlengelse ut 2025 - suppleringsvalg",
+  "innstilling": "Valgnemndas innstilling legges til grunn.",
+  "vedtak": "Rune Sunnset Senterpartiet er innvilget fritak fra sine verv i Kommunestyre og Formannskap i perioden 01.07.2025 tom 31.12.2025. Som fast representant for Senterpartiet i Formannskapet inntrer Ingunn Gunnes Kregnes. Som ny første vara inntrer Lill Therese Varsi og som ny 6. vara inntrer Tor Ingar Verstad. Som fast representant for Senterpartiet i Utvalg for teknikk og miljø inntrer Geir Tore Midttømme. Senterpartiets vara liste rykker opp. Som ny 7.vara inntrer Vegard Sunnset.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgnemndas innstilling.",
+      "alternativer": [
+        {
+          "navn": "Valgnemndas innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgnemndas innstilling",
+      "rodt": {
+        "støttet": "Valgnemndas innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "11.11.2025",
+  "saksnummer_ps": "PS 127/25",
+  "rodt_fremmet_forslag": false
+}

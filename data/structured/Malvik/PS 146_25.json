@@ -1,0 +1,31 @@
+{
+  "tittel": "Samlet fremstilling av utvalgenes prioritering av politiske bestillinger",
+  "innstilling": null,
+  "vedtak": "Viser til vedtak i sak 133/25 HØP.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Fritz Arne Haugen (SP) på vegne av AP, SP, KrF og SV",
+      "tekst": "Viser til vedtak i sak 133/25 HØP."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Forslag fremmet av Haugen",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Haugen (AP, SP, KrF, SV)",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Forslag fra Haugen (AP, SP, KrF, SV)",
+      "rodt": {
+        "støttet": "Forslag fra Haugen (AP, SP, KrF, SV)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Malvik",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 146/25",
+  "rodt_fremmet_forslag": false
+}
