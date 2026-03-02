@@ -1,0 +1,23 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 8/2025
+rodt_fremmet: False
+---
+
+Tittel: Orientering om klage på kommunestyrets vedtak og begjæring om omgjøring | Stjørdal småbåthavn - Naustberget friluftsområde
+
+Vedtak:
+Saken sendes tilbake til kommunedirektøren for fornyet vurdering av festeavtalens rettigheter for Stjørdal Båtforening til å få behandlet sin klage.
+
+Alternative forslag:
+- Jan Inge Kaspersen (Arbeiderpartiet): Inngått festeavtale gir Stjørdal båtforening samme rettigheter som eier av området med noen unntak i festekontraktens § 6. Stjørdal båtforening skal dermed gis klageadgang etter forvaltningsloven. Kommunedirektøren bes fremlegge klagesaken til politisk behandling.
+- Eli Arnstad (Senterpartiet): Saken sendes tilbake til kommunedirektøren for fornyet vurdering av festeavtalens rettigheter for Stjørdal Båtforening til å få behandlet sin klage.
+
+Voteringer:
+- Votering over Jan Inge Kaspersen (Ap) sitt alternative forslag
+  - Kaspersen (Ap) sitt forslag: 10 stemmer
+  - Mot forslaget: 27 stemmer
+- Votering mellom innstilling og Eli Arnstad (Sp) sitt alternative forslag
+  - Eli Arnstad (Sp) sitt forslag: 37 stemmer
+  - Innstilling (ta klagen til orientering): 0 stemmer

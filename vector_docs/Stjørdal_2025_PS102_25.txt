@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 102/25
+rodt_fremmet: False
+---
+
+Tittel: Lokal forskrift om skoleregler for offentlige skoler i Stjørdal kommune
+
+Vedtak:
+Kommunestyret vedtar den lokale forskriften om skoleregler for offentlige skoler i Stjørdal kommune, med ikrafttredelse ved kunngjøring i Norsk Lovtidend.
+
+Voteringer:
+- Votering om vedtaket av den lokale forskriften om skoleregler.
+  - Enstemmig vedtak: 0 stemmer

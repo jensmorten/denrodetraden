@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 122/25
+rodt_fremmet: True
+---
+
+Tittel: Mobilitetsplan for Stjørdal
+
+Vedtak:
+Kommunestyret vedtar mobilitetsplanen for Stjørdal.
+
+Alternative forslag:
+- Rødt: Rødt foreslår at planen skal inneholde konkrete mål for reduksjon av bilbruk og økt satsing på kollektivtransport, samt en tydelig prioritering av miljøvennlige løsninger i alle tiltak.
+
+Voteringer:
+- Vedtak av mobilitetsplanen for Stjørdal.
+  - Vedtak som foreslått: 20 stemmer
+  - Alternativt forslag fra Rødt: 3 stemmer

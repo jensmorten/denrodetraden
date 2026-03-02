@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 40/25
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om skolerute 2026/2027 - Malvik kommune
+
+Vedtak:
+Forskrift om skolerute 2026/2027 vedtas som fremlagt.
+
+Voteringer:
+- Votering over innstillingen til kommunestyret om forskrift om skolerute 2026/2027
+  - For: 31 stemmer

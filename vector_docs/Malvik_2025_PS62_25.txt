@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 62/25
+rodt_fremmet: False
+---
+
+Tittel: Strategi for spesialpedagogikk og inkluderende praksis i barnehage, skole og PPT
+
+Vedtak:
+Kommunestyret tar saken til orientering, og ber om at strategien for spesialpedagogikk og inkluderende praksis i barnehage, skole og PPT tas med videre inn i det pågående arbeidet med en overordnet oppvekststrategi for Malvik kommune.
+
+Voteringer:
+- Votering om innstillingen til strategien for spesialpedagogikk og inkluderende praksis
+  - For innstillingen: 31 stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 130/25
+rodt_fremmet: False
+---
+
+Tittel: Forlengelse av aksjonæravtale for Regionalt Pilegrimssenter Stiklestad AS
+
+Vedtak:
+Aksjonæravtalen for Regionalt Pilegrimssenter Stiklestad AS forlenges med ett år, til og med 31. desember 2026. Kommunestyret ber kommunedirektøren fremme ny sak om videre forlengelse etter avklaring av framtidig struktur og eierforhold.
+
+Alternative forslag:
+- Opposisjonen: Nei til forlengelse av aksjonæravtalen uten nærmere vurdering av framtidig struktur og eierforhold.
+
+Voteringer:
+- Votering om forlengelse av aksjonæravtalen til 31. desember 2026.
+  - Enstemmig for: 33 stemmer
+  - Mot: 0 stemmer

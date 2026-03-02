@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 86/25
+rodt_fremmet: False
+---
+
+Tittel: Lovlighetskontroll av kommunestyrets vedtak i sak 50/23
+
+Vedtak:
+Kommunestyret opprettholder sitt vedtak i sak 50/23. Kravet om lovlighetskontroll av vedtaket i saken oversendes statsforvalteren for endelig avgjørelse.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling om opprettholdelse av vedtak i sak 50/23 og oversendelse av krav om lovlighetskontroll til statsforvalteren.
+  - For innstillingen: 30 stemmer

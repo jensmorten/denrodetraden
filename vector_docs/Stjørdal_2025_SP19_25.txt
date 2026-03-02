@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: SP 19/25
+rodt_fremmet: False
+---
+
+Tittel: Kirkebygg og kirkegårder i Stjørdal
+
+Vedtak:
+Informasjonen tas til etterretning. Det vurderes videre tiltak for kirkekonservasjon og restaurering.
+
+Voteringer:
+- Skal kommunen prioritere midler til restaurering av kirkene?
+  - Ja: 12 stemmer
+  - Nei: 3 stemmer
+- Skal kommunen arrangere kirkesafari til våren?
+  - Ja: 10 stemmer
+  - Nei: 5 stemmer

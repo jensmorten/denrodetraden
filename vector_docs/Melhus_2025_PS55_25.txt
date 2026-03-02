@@ -1,0 +1,21 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 55/25
+rodt_fremmet: False
+---
+
+Tittel: Næringsplan Melhus kommune 2024-2030
+
+Vedtak:
+- Kommunestyrer vedtar næringsplan for 2024-2030 utarbeidet av politisk arbeidsgruppe, og legger den til grunn for kommunens videre næringsarbeid
+- Tiltakene i planens tiltaksdel innarbeides i kommunens økonomi og handlingsplan, og status i forhold til måloppnåelse synliggjøres i kommunens årsmeldinger. Tiltak som medfører økonomiske konsekvenser legges inn i ØHP som uprioriterte tiltak.
+- Planens tiltaksdel rulleres innen et år etter at nytt kommunestyre er satt i 2027
+
+Alternative forslag:
+- Merethe Moum (ML): Nytt punkt 4: Tiltak som medfører økonomiske konsekvenser legges inn i ØHP som uprioriterte tiltak.
+- Einar Gimse-Syrstad (Ap): Omforent forslag: Første punkt endres til - Kommunestyrer vedtar næringsplan for 2024-2030 utarbeidet av politisk arbeidsgruppe, og legger den til grunn for kommunens videre næringsarbeid - Tiltakene i planens tiltaksdel innarbeides i kommunens økonomi og handlingsplan, og status i forhold til måloppnåelse synliggjøres i kommunens årsmeldinger. Tiltak som medfører økonomiske konsekvenser legges inn i ØHP som uprioriterte tiltak. - Planens tiltaksdel rulleres innen et år etter at nytt kommunestyre er satt i 2027
+
+Voteringer:
+- Votering over omforent forslag til vedtak om næringsplan 2024-2030
+  - Omforent forslag (inkludert tillegg fra ML og endringer fra Ap): enstemmig stemmer

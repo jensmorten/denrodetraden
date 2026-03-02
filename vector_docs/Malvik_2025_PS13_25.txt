@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 13/25
+rodt_fremmet: False
+---
+
+Tittel: Behandling av kontrollutvalgets årsmelding 2024
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsmelding for 2024 til orientering.
+
+Voteringer:
+- Votering over kontrollutvalgets innstilling om årsmelding 2024
+  - For innstillingen: 31 stemmer

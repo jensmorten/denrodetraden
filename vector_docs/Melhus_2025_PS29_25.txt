@@ -1,0 +1,11 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 29/25
+rodt_fremmet: False
+---
+
+Tittel: Rapport delegerte vedtak for perioden 04.11.2024 - 16.03.2025
+
+Vedtak:
+Referert i nødvendig utstrekning.

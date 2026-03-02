@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 8/25
+rodt_fremmet: False
+---
+
+Tittel: Saken om festeavtalens rettigheter for Stjørdal Båtforening
+
+Vedtak:
+Saken sendes tilbake til kommunedirektøren for fornyet vurdering av festeavtalens rettigheter for Stjørdal Båtforening til å få behandlet sin klage.
+
+Alternative forslag:
+- Eli Arnstad (Sp): Saken sendes tilbake til kommunedirektøren for fornyet vurdering av festeavtalens rettigheter for Stjørdal Båtforening til å få behandlet sin klage.
+
+Voteringer:
+- Votering om forslag 2 (sendes tilbake til kommunedirektøren)
+  - Stemmer for forslaget: 37 stemmer
+  - Stemmer imot forslaget: 0 stemmer

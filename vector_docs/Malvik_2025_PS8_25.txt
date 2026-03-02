@@ -1,0 +1,27 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 8/25
+rodt_fremmet: False
+---
+
+Tittel: Oppnevning av medlemmer Malvik ungdomsråd 2025
+
+Vedtak:
+Følgende velges som medlemmer og vara til Malvik ungdomsråd for perioden 2025:
+Medlemmer Navn År
+Malvik Videregående
+Malvik Videregående
+Vikhammer Ungdomsskole Emilia A. By 1
+Vikhammer Ungdomsskole Chris Leon Aune Elvsveen 1
+Hommelvik Ungdomsskole Catherine Joseph Chagula 1
+Hommelvik Ungdomsskole Lorenz Frederik Fischer 2
+Ungdomshus Mohammad Al-Sallal 2
+Friplass Amalie Johansen 2
+Friplass Rebekka Flor Wilhelmsen 1
+Vara 1 Julie Lassen 1
+Vara 2
+
+Voteringer:
+- Votering om kommunedirektørens innstilling til medlemmer og vara til Malvik ungdomsråd for perioden 2025
+  - For innstillingen: 31 stemmer

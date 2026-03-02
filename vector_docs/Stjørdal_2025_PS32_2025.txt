@@ -1,0 +1,17 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 32/2025
+rodt_fremmet: False
+---
+
+Tittel: Finansiering av kjøp av Veiskille AS og innarbeiding av husleie for brannstasjonen
+
+Vedtak:
+Stjørdal kommune finansierer kjøpet av eiendomsselskapet Veiskille AS 2.januar 2026 med bruk av ubrukte lånemidler på kr 30 mill. Midlene settes av til investeringsbudsjettet for 2026.
+Kommunedirektøren innarbeider husleien for brannstasjonen i kommende økonomiplan.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For innstillingen: 36 stemmer
+  - Mot innstillingen: 0 stemmer

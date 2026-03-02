@@ -1,0 +1,19 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 44/25
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjon – Økonomistyring
+
+Vedtak:
+Saken utsettes til januar 2026.
+
+Alternative forslag:
+- Fritz Arne Haugen (SP) på vegne av SP, AP, KrF og SV: Saken utsettes til januar 2026.
+
+Voteringer:
+- Utsettelsesforslag
+  - Utsettelsesforslag (AP, SP, KrF, SV, PP, FrP, INP, R og Marius K. Aune (H)): 27 stemmer
+  - Motforslag (H og ML): 9 stemmer

@@ -1,0 +1,23 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 1/25
+rodt_fremmet: True
+---
+
+Tittel: Forslag til revidert samarbeidsavtale mellom 2024/9919 Helse Nord-Trøndelag og kommunene
+
+Vedtak:
+Kommunestyret vedtar den reviderte samarbeidsavtalen mellom Helse Nord-Trøndelag og kommunene.
+
+Alternative forslag:
+- Rødt: Kommunestyret bør utsette behandlingen av den reviderte samarbeidsavtalen for ytterligere vurdering og innhenting av tilbakemeldinger.
+
+Voteringer:
+- Godkjenning av den reviderte samarbeidsavtalen
+  - For: 15 stemmer
+  - Mot: 4 stemmer
+  - Avholdende: 1 stemmer
+- Vedtak om å utsette behandlingen for ytterligere vurdering
+  - Ja: 2 stemmer
+  - Nei: 18 stemmer

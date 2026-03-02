@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 57/25
+rodt_fremmet: False
+---
+
+Tittel: Program for folkehelse 2024-2026 politisk vedtak
+
+Vedtak:
+Utsatt til neste møte.
+
+Voteringer:
+- Forslag om å utsette saken til neste møte.
+  - Utsettelse: enstemmig stemmer

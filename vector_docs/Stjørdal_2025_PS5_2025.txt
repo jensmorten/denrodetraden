@@ -1,0 +1,16 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 5/2025
+rodt_fremmet: False
+---
+
+Tittel: Lederavtale - kommunedirektør - Tor Jakob Reitan
+
+Vedtak:
+Vedlagte forslag til lederavtale med kommunedirektør Tor Jakob Reitan inngås.
+
+Voteringer:
+- Votering over innstillingen om å inngå lederavtale med kommunedirektør Tor Jakob Reitan.
+  - For innstillingen: 36 stemmer
+  - Mot innstillingen: 0 stemmer

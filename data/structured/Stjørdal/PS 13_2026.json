@@ -1,0 +1,35 @@
+{
+  "tittel": "Oppfølging av vedtak i sak 159/25 i formannskapet den 11.12.25 - sammenslåing av fjellstyrene i Stjørdal kommune",
+  "innstilling": "Kommunestyret tar til etterretning at fire av fem fjellstyrer i Stjørdal ønsker å gå sammen i et felles fjellstyre for å redusere kostnader og sikre en mer helhetlig drift.\nKommunestyret erkjenner at økonomien til fjellstyrene tilsier at det er behov for tiltak. Samtidig er det viktig at frivillighet og lokal tilhørighet til allmenningene beholdes. Kommunestyret forutsetter derfor at et nytt felles fjellstyre må ha en sammensetning der hvert av de fire opprinnelige allmenningssområde må være representert med bruksberettigede, og at disse vil ha fullmakt og mulighet til å etablere arbeidsgrupper som kan ivareta dugnadsarbeid og aktivitet i allmenningen.\nDet vil kunne være viktig å bruke Fjellovens mulighet til et utvidet styre, samt vurdere vararepresentanter, for å sikre to representanter fra de fire opprinnelige allmenningene i det nye styret.\nKommunestyret støtter forslag om at de fjellstyrene som har flertallsvedtak i sine styrer slås sammen til ett fjellstyre. Dersom det femte styret endrer mening må det være åpning for at de kan tiltre et felles fjellstyre.\nDagens fjellstyrer vil være operative frem til et nytt fjellstyre er på plass, fortrinnsvis ved ordinær oppnevning etter kommunevalget 2027.\nSaken oversendes Statskog for videre behandling.",
+  "vedtak": "Kommunestyret tar til etterretning at fire av fem fjellstyrer i Stjørdal ønsker å gå sammen i et felles fjellstyre for å redusere kostnader og sikre en mer helhetlig drift.\nKommunestyret erkjenner at økonomien til fjellstyrene tilsier at det er behov for tiltak. Samtidig er det viktig at frivillighet og lokal tilhørighet til allmenningene beholdes. Kommunestyret forutsetter derfor at et nytt felles fjellstyre må ha en sammensetning der hvert av de fire opprinnelige allmenningssområde må være representert med bruksberettigede, og at disse vil ha fullmakt og mulighet til å etablere arbeidsgrupper som kan ivareta dugnadsarbeid og aktivitet i allmenningen.\nDet vil kunne være viktig å bruke Fjellovens mulighet til et utvidet styre, samt vurdere vararepresentanter, for å sikre to representanter fra de fire opprinnelige allmenningene i det nye styret.\nKommunestyret støtter forslag om at de fjellstyrene som har flertallsvedtak i sine styrer slås sammen til ett fjellstyre. Dersom det femte styret endrer mening må det være åpning for at de kan tiltre et felles fjellstyre.\nDagens fjellstyrer vil være operative frem til et nytt fjellstyre er på plass, fortrinnsvis ved ordinær oppnevning etter kommunevalget 2027.\nSaken oversendes Statskog for videre behandling.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stian Flobergseter (Arbeiderpartiet)",
+      "tekst": "Dagens organisering av fjellstyrene i Stjørdal med 5 selvstendige styrer videreføres."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning mellom formannskapets innstilling (sammenslåing av fjellstyrene) og alternativt forslag fra Stian Flobergseter (videreføre 5 selvstendige styrer).",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling (sammenslåing)",
+          "stemmer": 25
+        },
+        {
+          "navn": "Stian Flobergseters forslag (videreføre 5 styrer)",
+          "stemmer": 10
+        }
+      ],
+      "vinner": "Formannskapets innstilling (sammenslåing)",
+      "rodt": {
+        "støttet": "Formannskapets innstilling (sammenslåing)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 13/2026",
+  "rodt_fremmet_forslag": false
+}

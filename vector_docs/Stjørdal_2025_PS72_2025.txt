@@ -1,0 +1,16 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 72/2025
+rodt_fremmet: False
+---
+
+Tittel: Supplerende vern – oppstart verneprosess for Skeistjønna
+
+Vedtak:
+Stjørdal kommune stiller seg bak Statsforvalterens forslag om oppstart av verneprosess for Skeistjønna.
+
+Voteringer:
+- Votering over innstillingen fra Utvalg Plan og Miljø om å stille seg bak Statsforvalterens forslag om oppstart av verneprosess for Skeistjønna.
+  - For innstillingen: 36 stemmer
+  - Mot innstillingen: 0 stemmer

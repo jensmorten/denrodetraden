@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 109/2025
+rodt_fremmet: False
+---
+
+Tittel: Ikke iverksatte vedtak gjeldende Utvalg kultur og levekår, Utvalg plan og miljø, Formannskap og Kommunestyret, statusrapport pr.04.09.2025
+
+Vedtak:
+Statusrapporten tas til orientering.
+
+Voteringer:
+- Votering over innstillingen fra Formannskapet: Statusrapporten tas til orientering.
+  - Innstillingen (Statusrapporten tas til orientering): 37 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2026
+saksnummer: PS 6/2026
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av møteprotokoll
+
+Vedtak:
+Møteprotokoll godkjent.
+
+Voteringer:
+- Votering over innstillingen om å godkjenne møteprotokollen.
+  - Innstillingen (Møteprotokoll godkjent): 37 stemmer

@@ -1,0 +1,18 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 23/25
+rodt_fremmet: False
+---
+
+Tittel: Oppnevning av medlem og varamedlem til vannområdeutvalg for vannområdene Nea-Nidelva og Gaula
+
+Vedtak:
+Saken utsettes til neste kommunestyre
+
+Alternative forslag:
+- Jørgen Enoksen (Høyre): Saken utsettes til neste kommunestyre.
+
+Voteringer:
+- Votering over utsettelsesforslaget fremmet av Jørgen Enoksen (Høyre)
+  - For utsettelsesforslaget: 31 stemmer

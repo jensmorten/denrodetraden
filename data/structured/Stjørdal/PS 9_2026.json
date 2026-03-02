@@ -1,0 +1,30 @@
+{
+  "tittel": "Sluttbehandling av detaljregulering for Lauvåsen næringspark, plan-ID 5008",
+  "innstilling": "Stjørdal kommune vedtar detaljreguleringsplan med konsekvensutredning for Lauvåsen næringspark med plan-ID 5008, som vist på plankart sist revidert 06.02.2026, planbestemmelser sist revidert 08.02.26 og planbeskrivelse datert 06.02.2026. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "vedtak": "Stjørdal kommune vedtar detaljreguleringsplan med konsekvensutredning for Lauvåsen næringspark med plan-ID 5008, som vist på plankart sist revidert 06.02.2026, planbestemmelser sist revidert 08.02.26 og planbeskrivelse datert 06.02.2026. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å vedta detaljreguleringsplan for Lauvåsen næringspark.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 34
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "Mot innstillingen",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 9/2026",
+  "rodt_fremmet_forslag": false
+}

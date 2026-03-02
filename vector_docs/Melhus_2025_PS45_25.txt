@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 45/25
+rodt_fremmet: False
+---
+
+Tittel: Horg Bygdatun - utleie av Svestuggu
+
+Vedtak:
+Melhus kommunestyre vedtar følgende tillegg til «Utleietakster og regler for utleie av kommunale bygg»: Utleietakster for Svestuggu på Horg bygdatun. Utenbygds leietakere betaler et påslag på 50 % i tillegg til leieprisen.
+
+Voteringer:
+- Votering over rådmannens innstilling.
+  - Rådmannens innstilling: enstemmig stemmer

@@ -1,0 +1,18 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 67/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av godkjennere
+
+Vedtak:
+Turid Eidem Olsen (Arbeiderpartiet) og Paul Uijting (Høyre) godkjenner protokoll i tillegg til ordfører for høstsesjonen 2025.
+
+Alternative forslag:
+- Eugen Sørmo (Høyre): Turid Eidem Olsen (Arbeiderpartiet) og Paul Uijting (Høyre) godkjenner protokoll i tillegg til ordfører for høstsesjonen 2025.
+
+Voteringer:
+- Votering over forslag om godkjenning av protokoll ved Turid Eidem Olsen og Paul Uijting som godkjennere i tillegg til ordfører for høstsesjonen 2025.
+  - For forslaget: 31 stemmer

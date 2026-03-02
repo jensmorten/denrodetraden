@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 76/2025
+rodt_fremmet: False
+---
+
+Tittel: Høring - Planprogram og hovedutfordringer for regional plan for vannforvaltning 2028-2033
+
+Vedtak:
+Stjørdal kommune avgir høringsuttalelse i samsvar med vedlagte høringsnotat til planprogram for regional vannforvaltningsplan for Trøndelag vannregion med hovedutfordringsdokument.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet.
+  - Innstillingen: 36 stemmer

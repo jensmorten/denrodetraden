@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 129/25
+rodt_fremmet: False
+---
+
+Tittel: Prioritering av spillemiddelsøknader i Stjørdal 2025/2026
+
+Vedtak:
+Kommunestyret vedtar prioriteringen av spillemiddelsøknader som foreslått i innstillingen.
+
+Voteringer:
+- Votering om prioritering av spillemiddelsøknader
+  - Enstemmig vedtak: 27 stemmer

@@ -1,0 +1,24 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: SP 17/25
+rodt_fremmet: False
+---
+
+Tittel: Nytt bo- og velferdssenter i Stjørdal
+
+Vedtak:
+Saken utsettes til neste kommunestyremøte den 18. desember for videre behandling og avklaring av finansiering og planlegging.
+
+Alternative forslag:
+- Parti A: Øke investeringsmidlene til bygging av bo- og velferdssenteret med 50 millioner kroner for å starte byggingen i 2026.
+- Parti B: Foreslår å prioritere midler til bygging av bo- og velferdssenteret i budsjettåret 2026, med en økning på 20 millioner kroner.
+
+Voteringer:
+- Votering om å utsette saken til neste kommunestyremøte.
+  - Enstemmig for utsettelse: 25 stemmer
+  - Imot utsettelse: 0 stemmer
+- Votering om å øke midlene til bygging av bo- og velferdssenteret.
+  - Støtte Parti A: 10 stemmer
+  - Støtte Parti B: 8 stemmer
+  - Støtte andre partier: 7 stemmer

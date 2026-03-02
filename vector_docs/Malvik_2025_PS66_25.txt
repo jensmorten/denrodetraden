@@ -1,0 +1,20 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 66/25
+rodt_fremmet: False
+---
+
+Tittel: Oppnevning av representant til samarbeidsutvalget ved Planetringen-Vikhammeråsen barnehage
+
+Vedtak:
+Som representant til samarbeidsutvalget ved Planetringen-Vikhammeråsen barnehage velges: Anne Lise Fagerheim (SV)
+Som Vararepresentant velges: Frank Henning Pedersen (AP)
+
+Alternative forslag:
+- Trond Hoseth (Arbeiderpartiet): Som representant til samarbeidsutvalget ved Planetringen-Vikhammeråsen barnehage velges: Anne Lise Fagerheim (SV)
+Som Vararepresentant velges: Frank Henning Pedersen (AP)
+
+Voteringer:
+- Votering over forslag fremmet av Trond Hoseth (Arbeiderpartiet) om valg av representant og vararepresentant til samarbeidsutvalget ved Planetringen-Vikhammeråsen barnehage
+  - For forslaget: 31 stemmer

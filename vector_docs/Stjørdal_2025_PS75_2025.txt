@@ -1,0 +1,17 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 75/2025
+rodt_fremmet: False
+---
+
+Tittel: Forslag til endring av plan 5028 detaljregulering for Kjøpmannsgata 5 etter Klage på vedtak
+
+Vedtak:
+1. Stjørdal kommune finner grunn til å ta klagen fra Avinor til følge.
+2. Bestemmelse 3.6 og 4.1.3 fra høringsutgaven av bestemmelsene tas inn igjen i bestemmelsene. Dokumentet Reguleringsbestemmelser datert 05.05.2025, der endringene er utført, vedtas.
+3. Vedtaket fattes med hjemmel i Plan- og bygningslovens § 12-14.
+
+Voteringer:
+- Votering over innstillingen fra Utvalg Plan og Miljø
+  - Innstillingen: 36 stemmer

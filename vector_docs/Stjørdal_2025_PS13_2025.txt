@@ -1,0 +1,17 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 13/2025
+rodt_fremmet: False
+---
+
+Tittel: Prosjektrapport DMS 2.0 - fremtidig drift og bemanning
+
+Vedtak:
+1. Kommunestyret vedtar å gi kommunedirektøren fullmakt til å inngå en samarbeidsavtale med Helse Nord-Trøndelag basert på det vedlagte avtaleutkastet.
+2. Kommunestyret vedtar prosjektets forslag til fordeling av sengeplasser i DMS som følger: 5 palliative senger, 2 øyeblikkelig hjelp-senger, og 12 korttidssenger.
+3. Kommunestyret vedtar ny finansieringsordning for DMS og ber kommunedirektøren om å integrere dette i budsjettet for 2026.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - Innstillingen: 37 stemmer

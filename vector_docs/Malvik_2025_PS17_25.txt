@@ -1,0 +1,30 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 17/25
+rodt_fremmet: True
+---
+
+Tittel: 54/2 54/244 og 54/283 Solbakken - Midlertidig forbud mot tiltak
+
+Vedtak:
+Det nedlegges ikke midlertidig forbud mot tiltak på eiendommene 54/283, 54/2 og 54/244.
+
+Alternative forslag:
+- Jens Morten Nilsen (Rødt): Det nedlegges midlertidig forbud mot tiltak på eiendommene 54/2, 54/244 og 54/283. Tiltak tilknyttet drift, vedlikehold og utvikling av jernbanens infrastruktur unntas fra forbudet.
+- Ketil Sivertsen (Senterpartiet): Hommelvik Midtre. Det nedlegges midlertidig forbud mot tiltak på eiendommen 54/244. I tråd med sak FO 27/24. Kommunedirektøren bes gå i dialog med kirkelig fellesråd om alternative plasseringer av gravlund nærmere Hommelvik Kirke som ikke kommer i konflikt med dyrket mark. Det bør også ses på mulighetene for etablering av urnevegg på Hommelvik kirkegård.
+- Ketil Sivertsen (Senterpartiet): Nygården. Det nedlegges midlertidig forbud mot tiltak på eiendommene 54/283 og 54/2. I tråd med sak FO 27/24.
+
+Voteringer:
+- Prøvevotering på alternativt forslag fra Jens Morten Nilsen (Rødt)
+  - For forslaget: 14 stemmer
+  - Imot forslaget: 17 stemmer
+- Prøvevotering på alternativt forslag fra Ketil Sivertsen (Senterpartiet) ang. Hommelvik Midtre
+  - For forslaget: 14 stemmer
+  - Imot forslaget: 17 stemmer
+- Prøvevotering på alternativt forslag fra Ketil Sivertsen (Senterpartiet) ang. Nygården
+  - For forslaget: 14 stemmer
+  - Imot forslaget: 17 stemmer
+- Endelig votering på kommunedirektørens innstilling
+  - For innstillingen: 17 stemmer
+  - Imot innstillingen: 14 stemmer

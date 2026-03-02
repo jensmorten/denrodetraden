@@ -1,0 +1,16 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 61/25
+rodt_fremmet: False
+---
+
+Tittel: Kommunestyrets behandling av sak 61/25 i møte den 22.05.2025
+
+Vedtak:
+Årsregnskap og årsrapport 2024 vedtas.
+
+Voteringer:
+- Stemmegivning om innstillingen til årsregnskap og årsrapport 2024
+  - Vedta innstillingen: 37 stemmer
+  - Forkaste innstillingen: 0 stemmer

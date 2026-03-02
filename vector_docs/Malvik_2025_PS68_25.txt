@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 68/25
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport for barneverntjenesten i Malvik kommune 2024
+
+Vedtak:
+Kommunestyret tar tilstandsrapport for barneverntjenesten i Malvik kommune 2024 til orientering.
+
+Voteringer:
+- Votering over innstillingen om å ta tilstandsrapporten til orientering
+  - For Innstillingen: 31 stemmer

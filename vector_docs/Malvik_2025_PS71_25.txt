@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 71/25
+rodt_fremmet: False
+---
+
+Tittel: Andregangsbehandling av endring av områderegulering for Hommelvik sentrum - flytting av Homla APS
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 12-12 vedtas endring av områdereguleringsplan for Hommelvik sentrum, som vist i vedlagt plankart og bestemmelser datert 02.07.2025. Plankart og bestemmelser skal ferdigstilles før vedtaket kunngjøres.
+
+Voteringer:
+- Votering over innstillingen til endring av områderegulering for Hommelvik sentrum
+  - For innstillingen: 31 stemmer

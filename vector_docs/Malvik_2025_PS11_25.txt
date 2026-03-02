@@ -1,0 +1,18 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 11/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av godkjennere
+
+Vedtak:
+Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører.
+
+Alternative forslag:
+- Eugen Sørmo (Høyre): Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører.
+
+Voteringer:
+- Votering over forslaget fra Eugen Sørmo (Høyre) om at Espen Holde og Anders Frost godkjenner protokollen sammen med ordfører.
+  - For forslaget: 31 stemmer

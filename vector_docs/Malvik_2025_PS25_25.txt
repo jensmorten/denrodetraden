@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 25/25
+rodt_fremmet: False
+---
+
+Tittel: Finansrapport for 2024
+
+Vedtak:
+Finansrapporten for 2024 tas til orientering.
+
+Voteringer:
+- Votering over innstillingen om å ta finansrapporten for 2024 til orientering
+  - For innstillingen: 31 stemmer

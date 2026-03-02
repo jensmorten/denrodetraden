@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 118/25
+rodt_fremmet: False
+---
+
+Tittel: Tilsetting av ny kommunedirektør i Stjørdal kommune
+
+Vedtak:
+Stjørdal kommune vedtar å tilsette Bente Næverdal som ny kommunedirektør, forutsatt at kandidaten aksepterer tilbudet.
+
+Alternative forslag:
+- Ukjent: Ingen alternative forslag er nevnt i saken.
+
+Voteringer:
+- Vedtak om tilsetting av Bente Næverdal som kommunedirektør.
+  - Innstilt kandidat takker ja: 0 stemmer
+  - Kandidaten takker nei: 0 stemmer

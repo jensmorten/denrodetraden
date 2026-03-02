@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 72/25
+rodt_fremmet: False
+---
+
+Tittel: Andregangsbehandling av detaljregulering for fortau langs Fagottvegen nedre del
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 12-12 vedtas reguleringsplan for fortau langs Fagottvegen nedre del, planID 202402.
+
+Voteringer:
+- Votering for innstillingen om reguleringsplan for fortau langs Fagottvegen nedre del
+  - For innstillingen: 31 stemmer

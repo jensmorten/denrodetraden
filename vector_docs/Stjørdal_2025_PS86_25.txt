@@ -1,0 +1,11 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 86/25
+rodt_fremmet: False
+---
+
+Tittel: Møteprotokoll godkjent
+
+Vedtak:
+Protokollen fra møtet den 19. juni 2025 godkjennes uten endringer.

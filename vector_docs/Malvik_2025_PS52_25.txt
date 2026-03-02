@@ -1,0 +1,17 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 52/25
+rodt_fremmet: False
+---
+
+Tittel: 1. tertialrapport 2025
+
+Vedtak:
+1.Kommunestyret tar rapporten for 1. tertial 2025 til orientering.
+2.Kommunestyret foretar følgende korrigeringer av driftsbudsjettet.
+... (vedtakstekst gjentas)
+
+Voteringer:
+- Votering for innstillingen til 1. tertialrapport 2025
+  - For innstillingen: 31 stemmer

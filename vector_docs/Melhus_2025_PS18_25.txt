@@ -1,0 +1,18 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 18/25
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon - Skolegrensene i Nedre Melhus
+
+Vedtak:
+Utsatt til neste møte.
+
+Alternative forslag:
+- Vidar Krogh-Albertsen (H): Det gjennomføres en evaluering av dagens skolegrensesystem i nedre Melhus for å avdekke eventuelle skjevheter og kapasitetsutfordringer. Dette med bakgrunn i å få mer effektiv utnyttelse av skolene og drift av disse. En prosess for innspill fra foresatte, lærere og elever om hvordan dagens skolegrenser fungerer i praksis.
+
+Voteringer:
+- Votering over om saken skal utsettes til neste møte.
+  - Utsatt til neste møte: None stemmer

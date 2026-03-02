@@ -1,0 +1,18 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 12/25
+rodt_fremmet: False
+---
+
+Tittel: Rapport fra forvaltningsrevisjon - Klimaarbeid i Malvik kommune
+
+Vedtak:
+1.Kommunestyret ber kommunedirektøren om:
+ å sørge for at arbeidet med klima ivaretas
+ å sørge for at det utarbeides en klimaplan for Malvik kommune innen utgangen av 2025.
+2.Kommunedirektøren bes rapportere til kontrollutvalget om iverksettingen av tiltakene i kontrollutvalgets første møte i 2026.
+
+Voteringer:
+- Votering over innstillingen til rapporten om klimaarbeid i Malvik kommune
+  - For innstillingen: 31 stemmer

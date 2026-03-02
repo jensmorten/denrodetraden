@@ -1,0 +1,18 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 7/25
+rodt_fremmet: False
+---
+
+Tittel: Næringsplan Melhus kommune 2024-2030
+
+Vedtak:
+Saken utsettes for behandling til neste kommunestyremøte.
+
+Alternative forslag:
+- Jorid Jagtøyen (ML): Saken utsettes for behandling til neste kommunestyremøte.
+
+Voteringer:
+- Votering over utsettelsesforslag fremmet av Jorid Jagtøyen (ML)
+  - Utsettelsesforslag: enstemmig stemmer

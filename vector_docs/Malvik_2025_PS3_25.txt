@@ -1,0 +1,24 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 3/25
+rodt_fremmet: False
+---
+
+Tittel: Reguleringsplan for ny E6 mellom Leistad og Stjørdal grense - bruk av plan- og bygningsloven § 3-7
+
+Vedtak:
+1. Kommunestyret vedtar at Nye Veier får ansvar for organisering og gjennomføring av planarbeidet for endringer i reguleringsplanen for ny E6 mellom Leistad og Stjørdal grense.
+2. Dette gjelder spesifikt for områdene Hommelvikkrysset og Sveberg.
+3. Vedtaket er fattet i henhold til plan- og bygningsloven § 3-7 første ledd, og gjelder frem til det fattes endelig vedtak i saken.
+
+Alternative forslag:
+- Robert Barø (Senterpartiet): Tilleggsforslag til punkt 2 i innstillingen:
+2. dette gjelder spesifikt for områdene Hommelvikkrysset, Sveberg og Leistad.
+
+Voteringer:
+- Votering om innstillingen
+  - For innstillingen: 31 stemmer
+- Votering om tilleggsforslaget fra Robert Barø (Senterpartiet)
+  - For tilleggsforslaget: 8 stemmer
+  - Imot tilleggsforslaget: 23 stemmer

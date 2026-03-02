@@ -1,0 +1,37 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 128/2025
+rodt_fremmet: True
+---
+
+Tittel: Et mer fleksibelt barnehageopptak
+
+Vedtak:
+Dagens opptaksmodell med et hovedopptak og supplerende opptak til ledige barnehageplasser i kommunale og private barnehager gjennom året beholdes uendret. Tildeling av plass forutsettes ledig kapasitet i aktuelle barnehage.
+
+Alternative forslag:
+- Siv Sætran (Senterpartiet): Dagens opptaksmodell med et hovedopptak og supplerende opptak til ledige barnehageplasser i kommunale og private barnehager gjennom året beholdes uendret. Tildeling av plass forutsettes ledig kapasitet i aktuelle barnehage.
+- Jan Inge Kaspersen (Arbeiderpartiet): Kommunedirektøren bes forberede en sak om et prøveprosjekt for løpende opptak med rett til plass ved fylte 1 år. Avgrensninger i prosjektet vurderes i saken.
+- Johannes Fagervold (Rødt): Alternativ 1, løpende opptak, vedtas. Kommunedirektøren bes straks iverksette tiltak for omstilling, slik at denne opptaksmodellen kan være gjeldende fra august 2026.
+- Johannes Fagervold (Rødt): Kommunedirektøren bes utarbeide et alternativ for 2 hovedopptak i året og legge frem dette for kommunestyret.
+Disse to opptak stilles på hver sin halvddel av året, motsatt av hverandre. Det ene fungerer som i dag og innfrir de rettigheter som i dag følger av Barnehageloven §16. Det andre favner de barna som faller på motsatt side av året og som i dag ikke har rett på barnehageplass før påfølgende Hovedopptak.
+Supplerende opptak fungerer slik som før.
+Dette med hensyn på å ideelt sett halvere både den maksimale og den gjennomsnittlige ventetiden mellom endt foreldrepermisjon og barnehageopptak.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For innstillingen: 1 stemmer
+  - Mot innstillingen: 36 stemmer
+- Votering over Siv Sætrans alternative forslag
+  - For forslaget: 25 stemmer
+  - Mot forslaget: 12 stemmer
+- Votering over Jan Inge Kaspersens alternative forslag
+  - For forslaget: 12 stemmer
+  - Mot forslaget: 25 stemmer
+- Votering over Johannes Fagervolds (Rødt) alternative forslag om løpende opptak
+  - For forslaget: 3 stemmer
+  - Mot forslaget: 34 stemmer
+- Votering over Johannes Fagervolds (Rødt) tilleggsforslag om to hovedopptak
+  - For forslaget: 13 stemmer
+  - Mot forslaget: 24 stemmer

@@ -1,0 +1,24 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 31/25
+rodt_fremmet: False
+---
+
+Tittel: Nytt regionråd for Trondheimsregionen - Trondheimsalliansen IPR
+
+Vedtak:
+1. Malvik kommune takker ja til invitasjonen fra Trondheim kommune for deltakelse i Trondheimsalliansen interkommunale politiske råd og vedtar forslag til samarbeidsavtale.
+2. I tillegg til ordfører/varaordfører oppnevnes en politisk representant.
+Som fast representant velges: Trond Hoseth AP
+Som vara velges: Thomas Ulstad SV
+
+Alternative forslag:
+- Matz Ulstad (Arbeiderpartiet): Som fast representant velges: Trond Hoseth, AP
+Som vara velges: Thomas Ulstad, SV
+
+Voteringer:
+- Votering over tilleggsforslaget fra Matz Ulstad (AP) om valg av fast representant og vara.
+  - For tilleggsforslaget: 31 stemmer
+- Votering over innstillingen om deltakelse i Trondheimsalliansen og oppnevning av politisk representant.
+  - For innstillingen: 31 stemmer

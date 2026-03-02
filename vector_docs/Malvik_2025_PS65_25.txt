@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 65/25
+rodt_fremmet: False
+---
+
+Tittel: Aksjonæravtale Regionalt pilegrimssenter Stiklestad AS 2026-2031
+
+Vedtak:
+Kommunestyret vedtar aksjonæravtale for Regionalt pilegrimssenter Stiklestad AS for perioden 2026-2031.
+
+Voteringer:
+- Votering om kommunedirektørens innstilling til aksjonæravtale for Regionalt pilegrimssenter Stiklestad AS for perioden 2026-2031.
+  - For innstillingen: 31 stemmer

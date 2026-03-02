@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 16/25
+rodt_fremmet: False
+---
+
+Tittel: Tertialrapport nr. 2 - 2025 - Kommunale byggeprosjekter
+
+Vedtak:
+Kommunestyret godkjenner rapporten og bevilger nødvendige midler til videreføring av byggeprosjektene.
+
+Alternative forslag:
+- Opposisjonen: Kommunestyret bør utsette godkjenningen til en full gjennomgang av kostnader og risikoer er gjort.
+
+Voteringer:
+- Godkjenning av tertialrapport nr. 2 for 2025
+  - Godkjenning: 20 stemmer
+  - Utsettelse: 5 stemmer

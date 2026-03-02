@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2026
+saksnummer: PS 20/2026
+rodt_fremmet: False
+---
+
+Tittel: Søknad om selvskyldnerkausjon
+
+Vedtak:
+Stjørdal kommune stiller selvskyldnergaranti MNOK 7,5 til Stjørdal skytterlag (orgnr: 985 001 316) og MNOK 7,5 Hegra skytterlag (orgnr: 987 932 910). Begge garantiene løper til 31.desember 2059 og reduseres i tråd med nedbetalingen av lånet. Det forutsettes at innkomne spillemidler samt mva-kompensasjon går til direkte nedbetaling av lånet og dermed reduserer kommunens garantiansvar. I tillegg 10 % av enhver tid gjeldende hovedstol til dekning av eventuelle påløpte renter og omkostninger. Det vil ikke få gyldighetsvirkninger overfor långiver dersom eventuelle utbetalte spillemidler og merverdiavgiftskompensasjon ikke er brukt til nedbetaling av lån. Saken oversendes Statsforvalter i Trøndelag for endelig godkjenning.
+
+Alternative forslag:
+- Morten Harper (Sosialistisk venstreparti): Stjørdal kommune stiller simpel kausjon MNOK 7,5 til Stjørdal skytterlag (orgnr: 985 001 316) og MNOK 7,5 Hegra skytterlag (orgnr: 987 932 910). Begge garantiene løper til 31. desember 2059 og reduseres i tråd med nedbetalingen av lånet. Det forutsettes at innkomne spillemidler samt mva-kompensasjon går til direkte nedbetaling av lånet og dermed reduserer kommunens garantiansvar. I tillegg 10 % av enhver tid gjeldende hovedstol til dekning av eventuelle påløpte renter og omkostninger. Det vil ikke få gyldighetsvirkninger overfor långiver dersom eventuelle utbetalte spillemidler og merverdiavgiftskompensasjon ikke er brukt til nedbetaling av lån. Saken oversendes Statsforvalter i Trøndelag for endelig godkjenning.
+
+Voteringer:
+- Avstemning mellom innstilling (selvskyldnerkausjon) og alternativt forslag (simpel kausjon)
+  - Innstilling (selvskyldnerkausjon): 30 stemmer
+  - Alternativt forslag (simpel kausjon, Morten Harper/SV): 7 stemmer

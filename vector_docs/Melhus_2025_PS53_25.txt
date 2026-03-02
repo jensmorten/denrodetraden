@@ -1,0 +1,30 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 53/25
+rodt_fremmet: False
+---
+
+Tittel: Ansettelsesutvalg rekruttering av kommunedirektør
+
+Vedtak:
+Kommunestyret vedtar følgende medlemmer i ansettelsesutvalget ifm rekruttering av kommunedirektør:
+• Ordfører Einar Gimse-Syrstad
+• Leder UHOK Lill-Therese Moshaug Varsi
+• Leder for mindretallet Marius Krogstad Aune
+• Representant fra administrasjonen personalsjef Joacim A Kristiansen
+• Representant for de ansatte (tillitsvalgt)
+
+Alternative forslag:
+- Anja Sterten (AP) på vegner av AP, SV, KrF og SP: Kommunestyret erstatter Varaordfører Fritz Arne Haugen med komiteleder HOKU, Lill-Therese Varsi, i ansettelsesutvalget. Dette for å bedre kjønnsbalansen i utvalget.
+- Lillian Lervik Ofstad (PP) på vegner av PP: Hege Anette Olstad foreslås i tillegg for å styrke kvinneandelen i utvalget.
+
+Voteringer:
+- Votering over endringsforslag fra Lillian Lervik Ofstad (PP) om å tilføye Hege Anette Olstad.
+  - For endringsforslaget: 10 stemmer
+  - Mot endringsforslaget: None stemmer
+- Votering over endringsforslag fra Anja Sterten (AP) om å erstatte varaordfører med Lill-Therese Varsi.
+  - For endringsforslaget: None stemmer
+  - Mot endringsforslaget (ML): 3 stemmer
+- Votering over ordførers innstilling med vedtatt endringsforslag.
+  - For innstillingen med endringsforslag: enstemmig stemmer

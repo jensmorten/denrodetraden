@@ -1,0 +1,18 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 41/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av nytt varamedlem til kontrollutvalget
+
+Vedtak:
+Som nytt varamedlem velges Anne-Lise Fagerheim.
+
+Alternative forslag:
+- Thomas Ulstad (SV): Anne-Lise Fagerheim som erstatter for Jan Arne Fagertun.
+
+Voteringer:
+- Votering over forslag om Anne-Lise Fagerheim som nytt varamedlem til kontrollutvalget.
+  - For Anne-Lise Fagerheim: 31 stemmer

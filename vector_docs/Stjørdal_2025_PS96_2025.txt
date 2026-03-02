@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 96/2025
+rodt_fremmet: False
+---
+
+Tittel: Regional delplan for folkebibliotek og grunnskolebibliotek i Trøndelag 2026-2030 - Høring
+
+Vedtak:
+Stjørdal kommune tar høringsutkast for regional delplan for folkebibliotek og skolebibliotek til etterretning, og støtter opp om at planens innhold gir føringer til eget kommunalt planverk for folkebibliotek og skolebibliotek.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet.
+  - Innstillingen: 36 stemmer

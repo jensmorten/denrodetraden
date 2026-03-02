@@ -1,0 +1,16 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 120/25
+rodt_fremmet: False
+---
+
+Tittel: Saken sendes Utvalg kultur og levekår for behandling før behandling i kommunestyret.
+
+Vedtak:
+Saken sendes til utvalg kultur og levekår for videre behandling.
+
+Voteringer:
+- Votering om å sende saken til utvalg kultur og levekår.
+  - Enstemmig for: 25 stemmer
+  - Enstemmig imot: 0 stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 142/2025
+rodt_fremmet: False
+---
+
+Tittel: Status anbefalte tiltak i helhetlig Risiko- og sårbarhetsanalyse (ROS) pr desember 2025
+
+Vedtak:
+1. Status tas til orientering.
+2. Kommunestyret ber kommunedirektøren spesielt å følge opp:
+a. Sikre at ROS-analysens anbefalte tiltak blir gjennomført, og melde tilbake status til kommunestyret årlig.
+b. Sikre behovet for reservekraft slik at kritiske kommunale tjenester kan opprettholdes under langvarig strømbortfall.
+c. Opprettholde en viss andel diesel/bensin-biler slik at man opprettholde kritiske kommunale tjenester under langvarig strømbortfall.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - Innstillingen: 37 stemmer

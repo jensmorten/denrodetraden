@@ -1,0 +1,26 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 125/2025
+rodt_fremmet: False
+---
+
+Tittel: Kartlegginger av behov og fremtidig innhold for aktivitetstilbud ved Fides IKS
+
+Vedtak:
+Kommunestyret tar saken til orientering, og legger til grunn at kommunedirektøren, i samarbeid med FIDES, vurderer og benytter mulighetene for utforming av fremtidige aktivitetstilbud, innenfor de til enhver tid gjeldende økonomiske rammer.
+
+Alternative forslag:
+- Jan Inge Kaspersen (Arbeiderpartiet): Kommunedirektøren bes fortsatt utarbeide en helhetlig plan for fremtidig innhold og mål for aktivitetstilbudet ved Fides IKS, inkludert scenarioer for ulike økonomiske rammer og behovsutvikling.
+- Eli Arnstad (Senterpartiet): Kommunestyret tar saken til orientering, og legger til grunn at kommunedirektøren, i samarbeid med FIDES, vurderer og benytter mulighetene for utforming av fremtidige aktivitetstilbud, innenfor de til enhver tid gjeldende økonomiske rammer.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - Formannskapets innstilling: 1 stemmer
+  - Mot formannskapets innstilling: 35 stemmer
+- Votering over Jan Inge Kaspersen (Ap) sitt alternative forslag
+  - Kaspersen (Ap) sitt forslag: 11 stemmer
+  - Mot Kaspersen (Ap) sitt forslag: 25 stemmer
+- Votering over Eli Arnstad (Sp) sitt alternative forslag
+  - Arnstad (Sp) sitt forslag: 29 stemmer
+  - Mot Arnstad (Sp) sitt forslag: 7 stemmer

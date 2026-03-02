@@ -1,0 +1,8 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 23/25
+rodt_fremmet: False
+---
+
+Tittel: Saken ble utsatt i Utvalg kultur og levekår, saken ble trukket.

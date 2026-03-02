@@ -1,0 +1,18 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 21/25
+rodt_fremmet: False
+---
+
+Tittel: Rammeplan for kulturskolen
+
+Vedtak:
+Saken utsettes til neste møte.
+
+Alternative forslag:
+- Trond Hoseth (Arbeiderpartiet): Saken utsettes til neste møte.
+
+Voteringer:
+- Votering over utsettelsesforslaget fremmet av Trond Hoseth (Arbeiderpartiet).
+  - For utsettelsesforslaget: 31 stemmer

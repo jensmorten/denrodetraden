@@ -1,0 +1,23 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 2/25
+rodt_fremmet: False
+---
+
+Tittel: KS Debatthefte 2025 - Fra forventning til virkelighet - om forventningsgapet
+
+Vedtak:
+Kommunestyret tar saken til orientering og støtter utarbeidelsen av debattheftet.
+
+Alternative forslag:
+- Venstre: Inkludere flere eksempler på vellykkede kommunale prosjekter i debattheftet.
+- Høyre: Foreslår å utsette behandlingen for å innhente ytterligere data.
+
+Voteringer:
+- Skal debattheftet utarbeides som foreslått?
+  - Ja: 15 stemmer
+  - Nei: 5 stemmer
+- Skal det inkluderes flere eksempler på vellykkede prosjekter?
+  - Ja: 12 stemmer
+  - Nei: 8 stemmer

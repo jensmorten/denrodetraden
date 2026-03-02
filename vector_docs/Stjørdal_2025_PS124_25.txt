@@ -1,0 +1,11 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 124/25
+rodt_fremmet: False
+---
+
+Tittel: Stjørdal kommune gir ikke sin tilslutning til at det igangsettes planendring av områdereguleringsplan for Hell Arena, vedtatt 30.11.2023.
+
+Vedtak:
+Kommunestyret vedtar å ikke igangsette planendring av områdereguleringsplan for Hell Arena.

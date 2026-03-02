@@ -1,0 +1,27 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 9/25
+rodt_fremmet: False
+---
+
+Tittel: Rådmannens forslag til innspill debatthefte for tariffoppgjøret 2025
+
+Vedtak:
+Kommunestyret vedtar at Melhus kommune gir innspill til Debatthefte 2025, spørsmål 5-7 iht rådmannens saksutredning, med følgende endring: Siste avsnitt i svar på spørsmål 7 strykes.
+
+Alternative forslag:
+- Jørund Ofstad (Pp): Stryke eksisterende pkt 7: "Melhus kommune vil forsterke arbeidet med omstilling, ulike arbeidstidsordninger, oppgavedeling og bruk av kompetanse, tiltak for å redusere fravær og andre tiltak for å bruke arbeidskraftressursene best mulig."
+- Jørn Ove Moen (AP) på vegner av AP, SP, SV og KrF: Kommunestyret vedtar at Melhus kommune gir innspill til Debatthefte 2025, spørsmål 5-7 iht rådmannens saksutredning, med følgende endring: Siste avsnitt i svar på spørsmål 7 strykes.
+- Marius Krogstad Aune (H) på vegner av H: Kommunestyret vedtar at Melhus kommune gir innspill til Debatthefte 2025, spørsmål 5-7 iht rådmannens saksutredning.
+
+Voteringer:
+- Endringsforslag fremmet av Jørund Ofstad (Pp) om å stryke eksisterende pkt 7.
+  - For endringsforslaget (INP, PP, R): 5 stemmer
+  - Mot endringsforslaget: 31 stemmer
+- Endringsforslag fremmet av Jørn Ove Moen (AP) om å stryke siste avsnitt i svar på spørsmål 7.
+  - For endringsforslaget (AP, SP, SV, KrF, m.fl.): 22 stemmer
+  - Mot endringsforslaget (H, FrP, INP, PP og R): 14 stemmer
+- Forslag til vedtak fremmet av Marius Krogstad Aune (H) mot endringsforslag fremmet av Jørn Ove Moen.
+  - Forslag fra Marius Krogstad Aune (H og FrP): 9 stemmer
+  - Endringsforslag fra Jørn Ove Moen: 27 stemmer

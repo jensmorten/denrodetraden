@@ -1,0 +1,20 @@
+METADATA:
+kommune: Stjørdal
+year: 2026
+saksnummer: PS 21/2026
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av møteprotokoll
+
+Vedtak:
+Innbyggerspørsmål fra Lars Moa i åpen spørretime som omhandlet Ole Vig-prisen, samt svar fra ordfører tillegges protokollen. Møteprotokoll godkjent.
+
+Alternative forslag:
+- Jan Inge Kaspersen (Arbeiderpartiet): Innbyggerspørsmål fra Lars Moa i åpen spørretime som omhandlet Ole Vig-prisen, samt svar fra ordfører tillegges protokollen.
+
+Voteringer:
+- Votering over innstillingen om å godkjenne møteprotokollen.
+  - Innstillingen (Møteprotokoll godkjent): 37 stemmer
+- Votering over tilleggsforslag fra Jan Inge Kaspersen om å tillegge innbyggerspørsmål og svar til protokollen.
+  - Tilleggsforslag fra Jan Inge Kaspersen: 37 stemmer

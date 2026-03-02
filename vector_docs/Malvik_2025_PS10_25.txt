@@ -1,0 +1,22 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 10/25
+rodt_fremmet: False
+---
+
+Tittel: Oppnevning av samevalgstyre for perioden 2024 – 2027
+
+Vedtak:
+Som samevalgstyre i Malvik kommune velges formannskapet.
+Som leder av valgstyret velges Eugen G. Sørmo.
+Som nestleder velges Trond Hoseth.
+
+Alternative forslag:
+- Jørgen Enoksen (Høyre): Som samevalgstyre i Malvik kommune velges formannskapet.
+Som leder av valgstyret velges Eugen G. Sørmo.
+Som nestleder velges Trond Hoseth.
+
+Voteringer:
+- Votering over forslaget fremmet av Jørgen Enoksen (Høyre) om samevalgstyret og ledelse
+  - For forslaget: 31 stemmer

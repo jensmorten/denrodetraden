@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 5/25
+rodt_fremmet: False
+---
+
+Tittel: Kontrollutvalgets års- og møteplan 2026
+
+Vedtak:
+Kommunestyret tar Kontrollutvalgets års- og møteplan 2026 til orientering.
+
+Voteringer:
+- Stemmer for innstillingen
+  - For: 36 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 26/25
+rodt_fremmet: False
+---
+
+Tittel: Konstituering av rådmann
+
+Vedtak:
+Morten Bostad konstitueres som rådmann fra dags dato og fram til ny kommunedirektør ansatt.
+
+Voteringer:
+- Votering over ordførers innstilling om å konstituere Morten Bostad som rådmann.
+  - Ordførers innstilling: enstemmig stemmer

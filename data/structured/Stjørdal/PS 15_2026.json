@@ -1,0 +1,49 @@
+{
+  "tittel": "Ikke iverksatte vedtak gjeldende Utvalg kultur og levekår, Utvalg plan og miljø, Formannskap og Kommunestyret, statusrapport pr. 18. desember 2025",
+  "innstilling": "Statusrapport tas til orientering.",
+  "vedtak": "Statusrapport tas til orientering.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Kommunestyret ber om at det i fremtidige rapporteringer også fremgår hvilke saker som anses som ferdigstilt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra Formannskapet: Statusrapport tas til orientering.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Jan Inge Kaspersen (Arbeiderpartiet): Kommunestyret ber om at det i fremtidige rapporteringer også fremgår hvilke saker som anses som ferdigstilt.",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 17
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 20
+        }
+      ],
+      "vinner": "Imot tilleggsforslaget",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 15/2026",
+  "rodt_fremmet_forslag": false
+}

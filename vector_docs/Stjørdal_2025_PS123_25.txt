@@ -1,0 +1,17 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 123/25
+rodt_fremmet: False
+---
+
+Tittel: Kommunestyret vedtar den lokale Fritidserklæringen for Stjørdal kommune.
+
+Vedtak:
+Kommunestyret vedtar den lokale Fritidserklæringen for Stjørdal kommune.
+
+Voteringer:
+- Stemme om å vedta den lokale Fritidserklæringen for Stjørdal kommune.
+  - For: 25 stemmer
+  - Mot: 3 stemmer
+  - Avholdende: 2 stemmer

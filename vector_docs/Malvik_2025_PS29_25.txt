@@ -1,0 +1,17 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 29/25
+rodt_fremmet: False
+---
+
+Tittel: Søknader om tilskudd fra næringsfond
+
+Vedtak:
+1.Søknaden fra Eco Living AS avslås.
+2.Søknaden fra Nye Jacobsen og Svart om husleiegaranti innvilges.
+3.Garantien finansieres gjennom at garantibeløpet reserveres i den delen av disposisjonsfondet som er øremerket næringsutviklingsformål.
+
+Voteringer:
+- Votering over innstillingen til kommunestyret fra formannskapet om søknader om tilskudd fra næringsfond
+  - For innstillingen: 31 stemmer

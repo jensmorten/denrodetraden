@@ -1,0 +1,23 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 64/25
+rodt_fremmet: False
+---
+
+Tittel: Utredning av brannsamarbeid
+
+Vedtak:
+1.Kommunestyret ber kommunedirektøren om å igangsette en utredning av alle økonomiske og praktiske konsekvenser ved en eventuell overgang fra Trøndelag brann- og redningstjeneste til Værnesregionen brann- og redningstjeneste.
+2.En innstilling fra kommunedirektøren, basert på konklusjonene i nevnte utredning, fremlegges for kommunestyret i løpet av høsten 2025.
+3.Som del av utredningen tar Malvik kommune kontakt med Trondheim for reforhandling av avtalen med TBRT. Spesielt med fokus på endring av fordelingsnøkkel mellom kommunene i samarbeidet. For eksempel muligheten at Trondheim tar større andel av kostnader på beredskap som er særlig relevant for Trondheim (brannfarlige bydeler, spesial funksjoner som båter, dykkere etc).
+
+Alternative forslag:
+- Eugen Sørmo (Høyre): Som del av utredningen tar Malvik kommune kontakt med Trondheim for reforhandling av avtalen med TBRT. Spesielt med fokus på endring av fordelingsnøkkel mellom kommunene i samarbeidet. For eksempel muligheten at Trondheim tar større andel av kostnader på beredskap som er særlig relevant for Trondheim (brannfarlige bydeler, spesial funksjoner som båter, dykkere etc).
+
+Voteringer:
+- Votering om tilleggsforslaget fra Eugen Sørmo (Høyre)
+  - For: 30 stemmer
+  - Imot: 1 stemmer
+- Votering om innstillingen til kommunestyret
+  - For: 31 stemmer

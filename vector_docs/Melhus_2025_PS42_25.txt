@@ -1,0 +1,11 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 42/25
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon - Kommunestyret 25.03.2025 - Folkevalgtes arbeidsvilkår - Kjetil Blokkum - H
+
+Vedtak:
+Interpellasjon trukket av interpellanten.

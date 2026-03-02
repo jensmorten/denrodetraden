@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 59/25
+rodt_fremmet: False
+---
+
+Tittel: Ledelsens gjennomgang 2025 - Helse og velferd
+
+Vedtak:
+Utsatt til neste møte.
+
+Voteringer:
+- Forslag om å utsette saken til neste møte.
+  - Utsettelse: enstemmig stemmer

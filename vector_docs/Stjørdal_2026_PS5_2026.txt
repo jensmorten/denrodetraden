@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2026
+saksnummer: PS 5/2026
+rodt_fremmet: False
+---
+
+Tittel: Endelig budsjett 2026 og økonomiplan 2026-2029
+
+Vedtak:
+Endelige budsjettrammer 2026 og økonomiplan 2026-2029 etter vedtak 18.12.2025 tas til orientering med de oppdatert budsjettskjema som fremkommer i denne saken.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet om endelige budsjettrammer 2026 og økonomiplan 2026-2029.
+  - Innstillingen: 37 stemmer

@@ -1,0 +1,22 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 6/25
+rodt_fremmet: False
+---
+
+Tittel: Endelig budsjett 2025 og økonomiplan 2025-2028
+
+Vedtak:
+Kommunestyret vedtar endelig budsjett for 2025 og økonomiplan for perioden 2025-2028 slik det er foreslått.
+
+Alternative forslag:
+- Opposisjonen: Foreslår ytterligere prioriteringer for økte midler til skole og helse, samt en mer restriktiv budsjettpolitikk.
+
+Voteringer:
+- Votering om budsjettvedtaket
+  - For: 20 stemmer
+  - Mot: 10 stemmer
+- Votering om alternative forslag
+  - Opposisjonen: 10 stemmer
+  - Senterpartiet: 15 stemmer

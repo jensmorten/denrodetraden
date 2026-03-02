@@ -1,0 +1,25 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 37/25
+rodt_fremmet: False
+---
+
+Tittel: Involvering av innbyggerinitiativ i BaneNor-prosessen
+
+Vedtak:
+Kommunestyret tar innbyggerforslaget opp til behandling.
+Kommunestyret anerkjenner det store engasjementet som ligger bak innbyggerinitiativet.
+Kommunestyret ber kommunedirektøren gå i dialog med BaneNor og vil oppfordre om at det i prosessen fram mot beslutning legges til rette for at folkemeningen kan komme til uttrykk.
+
+Alternative forslag:
+- Eli Arnstad (Sp): Kommunestyret anerkjenner det store engasjementet som ligger bak innbyggerinitiativet.
+Kommunestyret ber kommunedirektøren gå i dialog med BaneNor og vil oppfordre om at det i prosessen fram mot beslutning legges til rette for at folkemeningen kan komme til uttrykk.
+
+Voteringer:
+- Stemme om innstillingen: Kommunestyret tar innbyggerforslaget opp til behandling.
+  - For: 36 stemmer
+  - Imot: 1 stemmer
+- Stemme om Eli Arnstads tilleggsforslag.
+  - For: 37 stemmer
+  - Imot: 0 stemmer

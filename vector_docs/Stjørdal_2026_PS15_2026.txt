@@ -1,0 +1,21 @@
+METADATA:
+kommune: Stjørdal
+year: 2026
+saksnummer: PS 15/2026
+rodt_fremmet: False
+---
+
+Tittel: Ikke iverksatte vedtak gjeldende Utvalg kultur og levekår, Utvalg plan og miljø, Formannskap og Kommunestyret, statusrapport pr. 18. desember 2025
+
+Vedtak:
+Statusrapport tas til orientering.
+
+Alternative forslag:
+- Jan Inge Kaspersen (Arbeiderpartiet): Kommunestyret ber om at det i fremtidige rapporteringer også fremgår hvilke saker som anses som ferdigstilt.
+
+Voteringer:
+- Votering over innstillingen fra Formannskapet: Statusrapport tas til orientering.
+  - For innstillingen: 37 stemmer
+- Votering over tilleggsforslag fra Jan Inge Kaspersen (Arbeiderpartiet): Kommunestyret ber om at det i fremtidige rapporteringer også fremgår hvilke saker som anses som ferdigstilt.
+  - For tilleggsforslaget: 17 stemmer
+  - Imot tilleggsforslaget: 20 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 2/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv - Arnstein Esphaug Moen
+
+Vedtak:
+Arnstein Esphaug Moen (AP) innvilges fritak fra sine politiske verv i kommunestyret, utvalg for teknikk og miljø og brukerutvalg for kollektivreisende i perioden 01.01.2025 – 30.04.2025. Vedtaket fattes jf Kommunelovens §7-9. Som fast representant for Arbeiderpartiet i kommunestyret inntrer Esten Bakke. Som ny første vara representant i utvalg for teknikk og miljø inntrer Hans Kristian Lilleberg. Som ny fast representant i brukerutvalg for kollektivreisende inntrer Ingunn Nervik Isaksen.
+
+Voteringer:
+- Votering over valgnemndas innstilling om fritak for Arnstein Esphaug Moen og oppnevning av nye representanter.
+  - Valgnemndas innstilling: enstemmig stemmer

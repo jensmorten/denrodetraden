@@ -1,0 +1,18 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 108/2025
+rodt_fremmet: False
+---
+
+Tittel: Politisk møteplan 2026
+
+Vedtak:
+1. Politisk møteplan for 2026 vedtas som framlagt
+2. Ledere av politiske utvalg gis fullmakt til å avlyse og kalle inn til ekstra møter.
+Varsling av endringene skal skje etter vanlige rutiner.
+Møtet 23. september i Utvalg Plan og Miljø flyttes til 16. september.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet om politisk møteplan 2026.
+  - Innstillingen: 37 stemmer

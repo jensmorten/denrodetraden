@@ -1,0 +1,29 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 27/2025
+rodt_fremmet: False
+---
+
+Tittel: Strategi for det grønne skiftet og energiplan i Trøndelag – prioritering av nærenergi
+
+Vedtak:
+Vi vil gi honnør for et dokument som er lettlest, informativt og tydelig på både målsettinger og utfordringer. Det er mye bra i strategien i forhold til hvordan en skal angripe det grønne skiftet, samt ikke minst de næringsmessige og infrastrukturmessige fordelene av dette, men vi velger likevel å påpeke en del vi mener strategien ikke tar innover seg eller ikke vektlegger nok.
+- Trøndelag kan gå mot et snarlig energiunderskudd. Spådommene er litt ulike, men sannsynlig inntreffer dette allerede før 2030, sannsynligvis i løpet av 2027 eller 2028. Vi mener strategien ikke belyser de utfordringene dette gir, dette både for elektrifisering, eksisterende næringsliv, samt ikke minst utvikling av nytt næringsliv. Strategien slår fast at det vil bli utviklet lite ny fornybar energi frem til dette tidspunktet, og dette vil også nær sagt gjøre det umulig å oppfylle de andre målsettingene i strategien.
+- Vi savner en mulighetsvisjon om hvor mye ny energi som må til, samt hva som må til i forhold til distribusjonsnett, for å videreutvikle Trøndelag. I forhold til nett og tilknytning er det bra at strategien tar opp tilknytning til nett og hvilke kriterier som skal ligge til grunn for dette. Samtidig savnes en tydeliggjøring av momentet med at «kortreist» energi blir viktig, dette både på grunn av rimeligere infrastruktur, samt mindre tap i nett, og at en geografisk sammenheng mellom energiproduksjon og næringsutvikling må settes høyt på dagsorden for å nå målene i strategien på så kort tid som mulig.
+- Trøndelags betydning sikkerhetspolitisk og beredskapsmessig må vektlegges i forbindelse med bygging og styrking av kritisk infrastruktur.
+- Lave og stabile strømpriser er viktig. Derfor må det sikres mer kontroll over norsk energipolitikk.
+Stjørdal kommune oppfordrer Trøndelag fylkeskommune til å prioritere nærenergi som en hovedstrategi i energiplanen.
+Nærenergi er basert på lokale ressurser som bioenergi, solenergi og geotermisk varme. Det gir økt lokal verdiskaping, flere arbeidsplasser og mer energieffektive løsninger når energi produseres lokalt og brukes lokalt.
+En satsing på nærenergi i Trøndelag er også viktig for økt samfunnsberedskap. Ved å utvikle desentraliserte energiløsninger basert på lokale ressurser, reduseres avhengigheten av det sentrale strømnettet og sårbarheten for strømbrudd, forsyningssvikt og prisøkninger i det nasjonale energimarkedet.
+En helhetlig nærenergisatsing vil styrke Trøndelag som en selvforsynt og bærekraftig region, samtidig som den nasjonale energiforsyningen avlastes. Stjørdal kommune støtter derfor en tydelig strategisk satsing på lokal energiproduksjon og energieffektivisering i fylkets energiplan.
+
+Alternative forslag:
+- Morten Harper (SV): En viktig del av en energistrategi er mulighetene for å regulere forbruket. Stjørdal kommune mener strategien må omfatte hvordan fylkeskommunen kan arbeide for en mer demokratisk styring av krafta. Sentralt i dette står prioriteringen i tildeling av kraft til landbasert industri og næringer. Tiltak som gir mest arbeidsplasser, verdiskapning, minst mulig tap av natur og bidrar mest til å kutte klimagassutslipp skal prioriteres foran andre etableringer.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - Innstillingen: 36 stemmer
+- Votering over tilleggsforslag fra Morten Harper (SV)
+  - Tilleggsforslag fra Morten Harper (SV): 12 stemmer
+  - Mot tilleggsforslaget: 24 stemmer

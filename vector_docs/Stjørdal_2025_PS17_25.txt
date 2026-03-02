@@ -1,0 +1,16 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 17/25
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av møteprotokoll
+
+Vedtak:
+Møteprotokollen fra 30.10.2025 godkjennes.
+
+Voteringer:
+- Godkjenning av møteprotokoll fra 30.10.2025
+  - Godkjenne protokollen: 25 stemmer
+  - Avvise protokollen: 3 stemmer

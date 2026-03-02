@@ -1,0 +1,18 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 17/25
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon - Musikkbasert miljøbehandling
+
+Vedtak:
+Utsatt til neste møte.
+
+Alternative forslag:
+- Rasmus Stafne Kjøsen (SV): Kommunestyret ber rådmannen utrede muligheten for å søke tilskudd fra statsforvalteren til kompetanseheving i musikkbasert miljøbehandling (MMB) for ansatte i helse- og omsorgssektoren, oppvekstsektoren, samt andre relevante tjenester. Målet er å styrke tverrsektorielt samarbeid og utvikle metodisk bruk av MMB som verktøy for helsefremmende aktivitet og trivsel for innbyggere og ansatte i Melhus kommune. Dette inkluderer muligheten for å tilby kurs for ansatte og frivillige som jobber i helse og omsorg, barnehager, skoler og andre relevante arenaer. Søknad bør inkludere vurderinger av behov, omfang og hvilke deler av organisasjonen som kan delta.
+
+Voteringer:
+- Votering over om saken skal utsettes til neste møte.
+  - Utsatt til neste møte: None stemmer

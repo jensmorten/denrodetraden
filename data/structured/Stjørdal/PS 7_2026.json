@@ -1,0 +1,49 @@
+{
+  "tittel": "Sektorplan for Helse",
+  "innstilling": "Sektorplan for Helse tas til orientering.\nMestringsevne (side 4), Innbyggere, nytt kulepunkt:\n• Opplever å få helsehjelp som gir en trygg og god hverdag.",
+  "vedtak": "Sektorplan for Helse tas til orientering.\nMestringsevne (side 4), Innbyggere, nytt kulepunkt:\n• Opplever å få helsehjelp som gir en trygg og god hverdag.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kristin Almhjell Jenssen (Arbeiderpartiet)",
+      "tekst": "Kommunestyret ber om at det utarbeides en handlingsplan for sektor helse basert på velferd 2040 som viser tiltak og hvem som har ansvar."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Kristin Almhjell Jenssen (Ap) om handlingsplan.",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 10
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 27
+        }
+      ],
+      "vinner": "Imot tilleggsforslaget",
+      "rodt": {
+        "støttet": "Imot tilleggsforslaget",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 7/2026",
+  "rodt_fremmet_forslag": false
+}

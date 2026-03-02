@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 147/2025
+rodt_fremmet: False
+---
+
+Tittel: Budsjett 2026 og økonomiplan 2026
+
+Vedtak:
+Forslag på vegne av SP-H-FRP-V-KRF (med verbalforslagene 1-24) ble vedtatt. Formannskapets innstilling med de vedtatte endringer ble vedtatt.
+
+Alternative forslag:
+- SP-H-FRP-V-KRF: Verbalforslag 1-24, se full tekst for detaljer.
+
+Voteringer:
+- Hovedvotering om budsjett 2026 og økonomiplan 2026, inkludert SP-H-FRP-V-KRFs forslag og formannskapets innstilling med endringer.
+  - SP-H-FRP-V-KRFs forslag (inkludert verbalforslag 1-24 og formannskapets innstilling med endringer): None stemmer
+  - Andre forslag (ikke spesifisert i utdraget): None stemmer

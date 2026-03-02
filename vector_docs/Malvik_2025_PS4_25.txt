@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 4/25
+rodt_fremmet: False
+---
+
+Tittel: Naturmangfoldplan - kartlagt naturmangfold i Malvik kommune
+
+Vedtak:
+Naturmangfoldplanen tas til orientering. Kommunedirektøren oppdaterer naturmangfoldplanen når det gjennomføres nye kartlegginger.
+
+Voteringer:
+- Votering innstilling
+  - For: 31 stemmer

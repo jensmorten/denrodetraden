@@ -1,0 +1,17 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 68/2025
+rodt_fremmet: False
+---
+
+Tittel: Handlingsplan Vold i nære relasjoner
+
+Vedtak:
+1. Kommunestyret vedtar den framlagte handlingsplanen Vold i nære relasjoner 2025
+2. Kommunestyret vedtar tiltaksplanen for 2025
+
+Voteringer:
+- Votering over innstillingen fra formannskapet om å vedta handlingsplanen og tiltaksplanen for 2025.
+  - For innstillingen: 36 stemmer
+  - Mot innstillingen: 0 stemmer

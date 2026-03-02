@@ -1,0 +1,16 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 35/25
+rodt_fremmet: False
+---
+
+Tittel: Anmodning om bosetting av flyktninger for 2025
+
+Vedtak:
+Melhus kommune bosetter 55 flyktninger i 2025, inkludert selvbosetting. Familiegjenforente kommer i tillegg. Hvis behovet i Norge endrer seg, må kommunen ta en ny vurdering. Kommunen bosetter ikke enslige mindreårige flyktninger.
+
+Voteringer:
+- Votering over rådmannens innstilling
+  - Rådmannens innstilling: flertall stemmer
+  - Mot (Hege Anette Olstad og Ketil Nilsen, FrP): 2 stemmer

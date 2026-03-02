@@ -1,0 +1,39 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 91/2025
+rodt_fremmet: False
+---
+
+Tittel: Hovedplan VA til politisk behandling, inkludert høydebasseng på Skatval og vannforsyning Skatval øst og nord
+
+Vedtak:
+Revidert Hovedplan VA vedtas, med tiltaks- og investeringsplaner som grunnlag for kommunens årlige budsjettplaner for VA-infrastruktur. Planen innebærer strategier for å.sikre at ressurser til nødvendig drift, vedlikehold og investeringer i kommunal VA infrastruktur over hele kommunen prioriteres langsiktig etter behov, kostnad og nytte.
+Hovedplanens plan for investeringstiltak forutsetter at faglig anbefalt og rimeligst tomtealternativ for høydebasseng på Skatval velges, nemlig Skatvalshaugen nært Skatval Sentrum. Ny vannpumpestasjon for økt vanntrykk etableres i tilknytning til bassenget.
+Vannforsyning til bebyggelsen i grenda øst for dagens E6 på Skatval, Forbordsgrenda og Tiller-området, tilkobles en fremtidig ny vannledning langs Forbordslivegen som skal knytte sammen to eksisterende endeledninger for kommunalt vann. Denne vannledningen er allerede inkludert i Hovedplan VA`s tiltaksliste som tiltak V23. Tidsplanen for tiltak V23 i Hovedplanens tiltaksliste er beholdt uendret.
+En vedlagt enkel hydraulisk analyse tyder på at det er teknisk mulig å forsyne området ved Langstein Havn med kommunalt vann. Det foreligger derimot ikke opplysninger som tilsier at videre utredninger eller anlegg av en slik utvidelse av det kommunale forsyningsområdet kan finansieres med selvkostmidler i form av vann- og avløpsgebyrer. Tiltaket er forberedt, men ikke inkludert i tiltaksplanen for Hovedplan VA.
+Simulering av funksjonen til avløpsnettet i en nylig ferdigstilt spillvannsmodell bekrefter at det er kapasitetsproblemer i avløpsnettet i enkelte områder som fører avløp til Sentrum Avløpsrenseanlegg. Hovedplanens utredninger og kapasitetsforbedrende tiltak i disse områdene bør prioriteres før nye og store utbyggingsprosjekter settes i gang.
+Med bakgrunn i stor usikkerhet rundt kostnader for reservevannsløsning ber Kommunestyret Kommunedirektøren presentere innhold og konklusjon av skisseprosjekt vedrørende løsning for Ausetvatnet umiddelbart etter at denne foreligger til Utvalg Plan og miljø, Formannskap og Kommunestyret som grunnlag for en endelig beslutning rundt reservevann.
+Kommunestyret ber Kommunedirektøren presentere en oppdatert økonomisk kalkyle for høydebasseng på Skatval. Dette gjelder 2 alternativer, Klempen og Tiller.
+I disse kalkylene skal begge alternativene presenteres med høydebasseng og rørledninger, både til eksisterende rørnett og med de påkoblingspunkter nødvendig for mulige nye abonnenter i området Forbord, Tiller og Langstein.
+Avløpsnett skal ikke være en del av denne kalkylen.
+Dette presenteres i Utvalg plan og miljø, Formannskapet og Kommunestyret for endelig vedtak.
+
+Alternative forslag:
+- Morten Harper (SV): Samarbeid med Frosta vannverk om reservevannforsyning utredes videre.
+- Geir Falck Anderssen (H): Kommunestyret ber Kommunedirektøren presentere en oppdatert økonomisk kalkyle for høydebasseng på Skatval. Dette gjelder 2 alternativer, Klempen og Tiller. I disse kalkylene skal begge alternativene presenteres med høydebasseng og rørledninger, både til eksisterende rørnett og med de påkoblingspunkter nødvendig for mulige nye abonnenter i området Forbord, Tiller og Langstein. Avløpsnett skal ikke være en del av denne kalkylen. Dette presenteres i UPM, FS og KS for endelig vedtak.
+- Jan Inge Kaspersen (Ap): Med bakgrunn i stor usikkerhet og en voldsom økning i de kommunale avgiftene tas sekundær vannkilde/ reservevann Ausetvatnet ut av planen.
+
+Voteringer:
+- Votering over innstillingen (hovedforslaget fra formannskapet)
+  - Innstillingen: 34 stemmer
+  - Mot innstillingen: 3 stemmer
+- Votering over tilleggsforslag fra Morten Harper (SV) om utredning av samarbeid med Frosta vannverk
+  - Tilleggsforslag fra Morten Harper (SV): 12 stemmer
+  - Mot tilleggsforslaget: 25 stemmer
+- Votering over tilleggsforslag fra Geir Falck Anderssen (H) om oppdatert økonomisk kalkyle for høydebasseng
+  - Tilleggsforslag fra Geir Falck Anderssen (H): 22 stemmer
+  - Mot tilleggsforslaget: 15 stemmer
+- Votering over forslag fra Jan Inge Kaspersen (Ap) om å ta reservevann Ausetvatnet ut av planen
+  - Forslag fra Jan Inge Kaspersen (Ap): 13 stemmer
+  - Mot forslaget: 24 stemmer

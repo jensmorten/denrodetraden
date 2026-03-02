@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 42/25
+rodt_fremmet: False
+---
+
+Tittel: Status og fremdrift politiske saker - Oppfølging politiske vedtak 2024
+
+Vedtak:
+Rapporten tas til orientering.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - For: 31 stemmer

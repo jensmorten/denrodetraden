@@ -1,0 +1,17 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 53/25
+rodt_fremmet: False
+---
+
+Tittel: Årsrapport 2024
+
+Vedtak:
+1. Kommunestyret godkjenner Malvik kommunes årsregnskap for 2024
+2. Kommunestyret godkjenner kommunedirektørens årsberetning for 2024
+3. Kommunestyret tar kommunedirektørens årsrapport for 2024 til orientering
+
+Voteringer:
+- Votering om innstillingen til årsrapport 2024
+  - For innstillingen: 31 stemmer

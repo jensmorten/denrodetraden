@@ -1,0 +1,31 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 28/25
+rodt_fremmet: False
+---
+
+Tittel: Sak fra kontrollutvalget til behandling i kommunestyret - Forvaltningsrevisjonsrapport - Hjemmetjenesten
+
+Vedtak:
+1. Kommunestyret tar forvaltningsrevisjonsrapport om hjemmetjenesten til orientering.
+2. Kommunestyret ber rådmannen følge opp anbefalingene i rapporten:
+a. Sørge for at all re-kartlegging blir dokumentert i journal.
+b. Sørge for at vedtak blir oppdatert i tråd med det reelle tjenestetilbudet bruker har.
+c. Fokusere aktivt på brukermedvirkning både på overordnet- og individnivå.
+d. Etablerer rutiner for pårørendesamtaler.
+e. Etablerer rutiner for registrering av primærkontakt.
+f. Utarbeide rutiner for arbeid med fokus på ernæringsarbeid.
+g. Heve kompetanse på fagområdet ernæring.
+h. Utarbeide felles kommuneinterne rutiner for arbeidet med medikamenthåndtering.
+3. Kommunestyret ber rådmannen gi kontrollutvalget skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 15.05.2025.
+4. Forvaltningsrapporten oversendes til utvalg for helse, oppvekst og kultur for behandling.
+
+Alternative forslag:
+- Einar Gimse-Syrstad (AP): Nytt punkt 4: Forvaltningsrapporten oversendes til utvalg for helse, oppvekst og kultur for behandling.
+
+Voteringer:
+- Votering over kontrollutvalgets innstilling.
+  - Kontrollutvalgets innstilling: enstemmig stemmer
+- Votering over tilleggsforslag fra Einar Gimse-Syrstad (AP).
+  - Tilleggsforslag fra Einar Gimse-Syrstad (AP): enstemmig stemmer

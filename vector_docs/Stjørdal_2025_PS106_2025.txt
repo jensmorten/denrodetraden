@@ -1,0 +1,16 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 106/2025
+rodt_fremmet: False
+---
+
+Tittel: 5041 - Hjelseth vannbehandlingsanlegg - Reguleringsendring
+
+Vedtak:
+I samsvar med plan – og bygningslovens §12-12 vedtar Stjørdal kommune ved kommunestyret detaljregulering for 5041 Hjelseth vannbehandlingsanlegg, som vist på plankart med tilhørende planbestemmelser og planbeskrivelse, datert 25.04.2025.
+
+Voteringer:
+- Votering over innstillingen om å vedta detaljregulering for 5041 Hjelseth vannbehandlingsanlegg.
+  - For innstillingen: 37 stemmer
+  - Mot innstillingen: 0 stemmer

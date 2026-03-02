@@ -1,0 +1,22 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 14/25
+rodt_fremmet: False
+---
+
+Tittel: Tertialrapport nr. 2 - 2025. Tekniske VVA investeringsprosjekter.
+
+Vedtak:
+Kommunestyret godkjenner tertialrapport nr. 2 for 2025 og de foreslåtte VVA-investeringene.
+
+Alternative forslag:
+- Opposisjonen: Foreslår at det settes av ekstra midler til prioriterte VVA-prosjekter basert på behov og tilbakemeldinger fra innbyggerne.
+
+Voteringer:
+- Godkjenning av tertialrapport nr. 2 for 2025.
+  - Godkjenning: 20 stemmer
+  - Avslag: 5 stemmer
+- Innstilling om VVA-investeringer.
+  - Godkjenning av foreslåtte investeringer: 22 stemmer
+  - Endring i investeringene: 3 stemmer

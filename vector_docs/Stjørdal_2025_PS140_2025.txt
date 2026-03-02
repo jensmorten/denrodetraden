@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 140/2025
+rodt_fremmet: False
+---
+
+Tittel: Revisjon av standard abonnementsvilkår for vann og avløp med lokale bestemmelser, Stjørdal kommune
+
+Vedtak:
+Saken utsettes
+
+Alternative forslag:
+- Jan Inge Kaspersen (Arbeiderpartiet): Saken utsettes.
+
+Voteringer:
+- Votering over forslaget om å utsette saken
+  - Utsettelse (Jan Inge Kaspersen, Ap): 28 stemmer
+  - Mot utsettelse: 9 stemmer

@@ -1,0 +1,26 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 35/25
+rodt_fremmet: True
+---
+
+Tittel: Fritt brukervalg i Malvik kommune - oppfølging av kommunestyrets vedtak i sak 14/2025
+
+Vedtak:
+- Det innføres fritt brukervalg på praktisk bistand/ hjemmehjelp og på helsetjenester i hjemmet/hjemmesykepleie i Malvik
+- Innføringen gjennomføres i tråd med departementets grunnleggende prinsipper, og for å sikre god medvirkning i prosessen.
+- Det skal utlyses tilbudskonkurranse i løpet av høsten 2025 med kontraktsoppstart senest 1.4.2026
+- Økonomiske konsekvenser innarbeides i forslag til handlings- og økonomiplan 2026 - 2029
+- Behovet og mulighetene for å opprette en stilling som prosjektleder for innføring av fritt brukervalg, avklares som en del av prosessen. Dette vurderes senest i forbindelse med 1. tertialrapport
+- Helse og velferdsutvalget holdes løpende orientert om prosessen og fremdriften i arbeidet
+
+Alternative forslag:
+- Anders Frost (Høyre) på vegne av flertallspartiene: Endringsforslag med endringer i kulepunkter 1, 3 og strykning av kulepunkt 5.
+- Jens Morten Nilsen (Rødt): Alternativt forslag om å ikke innføre fritt brukervalg.
+
+Voteringer:
+- Votering over endringsforslag fra Anders Frost (Høyre) på vegne av flertallspartiene og alternativt forslag fra Jens Morten Nilsen (Rødt).
+  - Endringsforslaget: 17 stemmer
+  - Alternativt forslag (ikke innføre fritt brukervalg): 13 stemmer
+  - Ikke til stede: 1 stemmer

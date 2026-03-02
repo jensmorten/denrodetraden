@@ -1,0 +1,30 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 70/2025
+rodt_fremmet: False
+---
+
+Tittel: Tjenesteprofil for helse- og omsorgstjenester for eldre i Stjørdal kommune
+
+Vedtak:
+Kommunestyret vedtar Tjenesteprofil for helse- og omsorgstjenester for eldre i Stjørdal kommune, slik den er vedlagt i saken.
+Bosentra skal fortsatt være et omsorgstilbud mellom omsorg i hjemmet og institusjonsplass. Dette innebærer at bosentra blir et tilbud for personer med relativt lavt omsorgsbehov som gir en større trygghet enn omsorg i hjemmet, men også et omsorgstilbud i påvente av en institusjonsplass. For å drifte tjenesten effektivt skal kommunen ha en målsetning om at alle rom skal være oppfylt av brukere.
+16 omsorgsleiligheter ved Lånke Bosenter skal regnes inn i dekningsgrunnlaget.
+Det samme bør vurderes for Stjørdal aktivitetssenter.
+
+Alternative forslag:
+- Jan Inge Kaspersen (Arbeiderpartiet): Saken sendes tilbake til Kommunedirektøren for videre arbeid.
+- Jan Inge Kaspersen (Arbeiderpartiet): Bosentra skal fortsatt være et omsorgstilbud mellom omsorg i hjemmet og institusjonsplass. Dette innebærer at bosentra blir et tilbud for personer med relativt lavt omsorgsbehov som gir en større trygghet enn omsorg i hjemmet, men også et omsorgstilbud i påvente av en institusjonsplass. For å drifte tjenesten effektivt skal kommunen ha en målsetning om at alle rom skal være oppfylt av brukere.
+- Anna Wesche Kvål (Senterpartiet): 16 omsorgsleiligheter ved Lånke Bosenter skal regnes inn i dekningsgrunnlaget. Det samme bør vurderes for Stjørdal aktivitetssenter.
+
+Voteringer:
+- Hovedforslag (innstilling) mot forslag om å sende saken tilbake til Kommunedirektøren
+  - Innstilling (vedta tjenesteprofilen): 24 stemmer
+  - Sende saken tilbake til Kommunedirektøren: 12 stemmer
+- Tilleggsforslag om bosentra som omsorgstilbud mellom hjem og institusjon
+  - Tilleggsforslag om bosentra (Kaspersen, Ap): 36 stemmer
+  - Mot: 0 stemmer
+- Tilleggsforslag om å regne inn 16 omsorgsleiligheter ved Lånke Bosenter i dekningsgrunnlaget
+  - Tilleggsforslag om Lånke Bosenter (Kvål, Sp): 36 stemmer
+  - Mot: 0 stemmer

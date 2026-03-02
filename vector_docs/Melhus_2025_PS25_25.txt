@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 25/25
+rodt_fremmet: False
+---
+
+Tittel: Avslutning av ansettelsesforhold rådmann - avtale
+
+Vedtak:
+Avtale om avslutning av rådmannens arbeidsforhold godkjennes.
+
+Voteringer:
+- Votering over ordførers innstilling om å godkjenne avtale om avslutning av rådmannens arbeidsforhold.
+  - Ordførers innstilling: enstemmig stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 12/25
+rodt_fremmet: False
+---
+
+Tittel: Høring av endring i plan- og bygningsloven - forbud mot nedbygging av myr
+
+Vedtak:
+Kommunestyret støtter forslaget om å innføre forbud mot nedbygging av myr i plan- og bygningsloven.
+
+Alternative forslag:
+- Venstre: Kommunestyret bør i stedet vurdere en mer nyansert tilnærming som inkluderer unntak for visse områder.
+
+Voteringer:
+- Skal kommunestyret støtte forslaget om å innføre forbud mot nedbygging av myr?
+  - Støtter: 15 stemmer
+  - Mot: 4 stemmer

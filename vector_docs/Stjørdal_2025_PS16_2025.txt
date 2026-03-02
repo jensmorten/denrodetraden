@@ -1,0 +1,16 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 16/2025
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling av detaljreguleringsplan 5016 Dullumslia
+
+Vedtak:
+Stjørdal kommune vedtar detaljreguleringsplan for Dullumslia med planID 5016, som vist på kart datert 06.11.2024, bestemmelser og beskrivelse datert 30.01.2025. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Votering over innstillingen om å vedta detaljreguleringsplan for Dullumslia.
+  - For innstillingen: 35 stemmer
+  - Mot innstillingen: 2 stemmer

@@ -1,0 +1,16 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 32/25
+rodt_fremmet: False
+---
+
+Tittel: Deltakelse i Trondheimsalliansen IPR
+
+Vedtak:
+Melhus kommune deltar i Trondheimsalliansen IPR, og vedtar fremlagte forslag til samarbeidsavtale. Ordfører trer inn i representantskapet, jfr. pkt.4 i samarbeidsavtalen, med varaordfører som vararepresentant. I tillegg til ordfører oppnevnes representant Marius Krogstad Aune som representant for Melhus kommune, som observatør med talerett. Som vara oppnevnes representant Jorid Jagtøyen. Kostnadene dekkes innenfor vedtatt budsjett avsatt til interkommunalt politisk råd for Trondheimsregionen.
+
+Voteringer:
+- Votering over formannskapets innstilling.
+  - Formannskapets innstilling: 20 stemmer
+  - Mot (FrP, INP, Kristin Kvaal (H) og Kjetil Blokkum (H)): 6 stemmer

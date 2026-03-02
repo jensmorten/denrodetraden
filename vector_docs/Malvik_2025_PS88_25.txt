@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 88/25
+rodt_fremmet: False
+---
+
+Tittel: Fastsettelse av planprogram - kommuneplanens arealdel 2025-2037
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 11-13 fastsettes planprogram for kommuneplanens arealdel 2025-2037.
+
+Voteringer:
+- Votering over innstilling om fastsettelse av planprogram for kommuneplanens arealdel 2025-2037
+  - For innstillingen: 31 stemmer

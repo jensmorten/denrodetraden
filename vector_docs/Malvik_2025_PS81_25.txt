@@ -1,0 +1,20 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 81/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av varaordfører for perioden til og med oktober 2027
+
+Vedtak:
+Som varaordfører i Malvik kommune for perioden til og med oktober 2027 velges Irén Aina Bastholm, MDG.
+
+Alternative forslag:
+- Thomas Ulstad (Sosialistisk Venstreparti): Som ny varaordfører velges Trond Hoseth, ap.
+- Rikard Spets (Fremskrittspartiet): Som varaordfører i Malvik kommune for perioden til og med oktober 2027 velges Irén Aina Bastholm, MDG.
+
+Voteringer:
+- Valg av varaordfører mellom forslag 1 (Trond Hoseth, ap) og forslag 2 (Irén Aina Bastholm, MDG).
+  - Forslag 1: Trond Hoseth, ap: 15 stemmer
+  - Forslag 2: Irén Aina Bastholm, MDG: 16 stemmer

@@ -1,0 +1,18 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 3/25
+rodt_fremmet: False
+---
+
+Tittel: KS Debatthefte 2025 - Fra forventning til virkelighet- om mellomoppgjøret 2025 og strategisk utvikling av avtaleverket
+
+Vedtak:
+...
+
+Alternative forslag:
+- ...: ...
+
+Voteringer:
+- ...
+  - ...: 0 stemmer

@@ -1,0 +1,37 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 78/25
+rodt_fremmet: True
+---
+
+Tittel: Høringsuttalelse - forslag til ny forskrift om tilskudd til private barnehager (finansieringsforskriften)
+
+Vedtak:
+Kommunestyret slutter seg til kommunedirektørens vurderinger av forslaget til ny forskrift om tilskudd til private barnehager, og ber kommunedirektøren oversende svar formulert under spørsmålene 1-51 som Malvik kommunes høringsuttalelse i saken, med følgende presiseringer:
+1. Ressursene skal komme barna til gode (med referanse til spørsmål 31–36): Kommunestyret mener det er viktig at offentlige tilskudd i størst mulig grad går til bemanning, lønn, pensjon og pedagogisk kvalitet i barnehagene. Tilskuddsordningene bør utformes slik at uttak av overskudd og høy profitt fra kommersielle aktører begrenses.
+2. Likeverdige lønns- og pensjonsvilkår (med referanse til spørsmål 22–30, 45): Kommunestyret ønsker at ansatte i ideelle, kommersielle og kommunale barnehager har likeverdige lønns- og pensjonsvilkår, og ser positivt på ordninger som bidrar til dette. For å sikre at tilskuddene faktisk går til ansatte og ikke til økt overskudd, bør det stilles tydelige krav til bruk av midlene i kommersielle barnehager.
+3. Forenkling og reell ressursbruk (med referanse til spørsmål 43–51): Kommunestyret er opptatt av at ressurser i størst mulig grad brukes i barnehagene og ikke på unødvendig rapportering. En finansieringsmodell bør være enkel og forutsigbar, og ikke påføre kommunene unødvendig administrativt merarbeid.
+Malvik kommune ønsker å understreke at de private barnehagene spiller en avgjørende rolle for barnehagetilbudet i kommunen, og at den reelle økonomiske situasjonen for de private barnehagene er anstrengt. Gjennom forslaget til ny finansieringsforskrift til private barnehager så får ikke de private barnehagene dekket dokumenterte pensjonskostnader slik barnehageforliket fra mai 2025 tilsier. Tvert imot vil denne føre til systematisk underfinansiering av de private barnehagene.
+For Malviks private barnehager vil dette bety at de ser på fremtiden med en stor grad av usikkerhet, etter at de trodde de hadde fått sikkerhet for å dekke pensjonskostnadene gjennom forliket som ble gjort før sommeren på Stortinget.
+Malvik kommune ber om at Kunnskapsdepartementet trekker tilbake forslaget til ny finansieringsforskrift, og utarbeider en ny hvor man ikke legger opp til underfinansiering av de private barnehagenes dokumenterte pensjonskostnader.
+
+Alternative forslag:
+- Jens Morten Nilsen (Rødt): Kommunestyret vil legge til følgende presiseringer:
+1. Ressursene skal komme barna til gode (med referanse til spørsmål 31–36): Kommunestyret mener det er viktig at offentlige tilskudd i størst mulig grad går til bemanning, lønn, pensjon og pedagogisk kvalitet i barnehagene. Tilskuddsordningene bør utformes slik at uttak av overskudd og høy profitt fra kommersielle aktører begrenses.
+2. Likeverdige lønns- og pensjonsvilkår (med referanse til spørsmål 22–30, 45): Kommunestyret ønsker at ansatte i ideelle, kommersielle og kommunale barnehager har likeverdige lønns- og pensjonsvilkår, og ser positivt på ordninger som bidrar til dette. For å sikre at tilskuddene faktisk går til ansatte og ikke til økt overskudd, bør det stilles tydelige krav til bruk av midlene i kommersielle barnehager.
+3. Forenkling og reell ressursbruk (med referanse til spørsmål 43–51): Kommunestyret er opptatt av at ressurser i størst mulig grad brukes i barnehagene og ikke på unødvendig rapportering. En finansieringsmodell bør være enkel og forutsigbar, og ikke påføre kommunene unødvendig administrativt merarbeid.
+- Rikard Spets (Fremskrittspartiet): Tilleggsforslag på vegne av H, FrP, PP, MDG og INP:
+Malvik kommune ønsker å understreke at de private barnehagene spiller en avgjørende rolle for barnehagetilbudet i kommunen, og at den reelle økonomiske situasjonen for de private barnehagene er anstrengt. Gjennom forslaget til ny finansieringsforskrift til private barnehager så får ikke de private barnehagene dekket dokumenterte pensjonskostnader slik barnehageforliket fra mai 2025 tilsier. Tvert imot vil denne føre til systematisk underfinansiering av de private barnehagene.
+For Malviks private barnehager vil dette bety at de ser på fremtiden med en stor grad av usikkerhet, etter at de trodde de hadde fått sikkerhet for å dekke pensjonskostnadene gjennom forliket som ble gjort før sommeren på Stortinget.
+Malvik kommune ber om at Kunnskapsdepartementet trekker tilbake forslaget til ny finansieringsforskrift, og utarbeider en ny hvor man ikke legger opp til underfinansiering av de private barnehagenes dokumenterte pensjonskostnader.
+
+Voteringer:
+- Votering om tilleggsforslaget fra Nilsen (Rødt)
+  - For: 18 stemmer
+  - Imot: 13 stemmer
+- Votering om tilleggsforslaget fra Spets (FrP) på vegne av FrP, H, MDG, PP og INP
+  - For: 16 stemmer
+  - Imot: 15 stemmer
+- Votering om innstillingen
+  - For: 31 stemmer

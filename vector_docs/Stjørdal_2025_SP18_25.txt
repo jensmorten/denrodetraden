@@ -1,0 +1,26 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: SP 18/25
+rodt_fremmet: False
+---
+
+Tittel: Bemanning i Halsen Sykeheim
+
+Vedtak:
+Kommunestyret godkjenner rapporten om bemanningssituasjonen ved Halsen Sykeheim og støtter tiltakene for å sikre forsvarlig bemanning, herunder innleie av sykepleiere og opprettelse av et sykepleierteam i 2026.
+
+Alternative forslag:
+- Høyre: Foreslår at det settes et mål om å redusere bemanningsfaktoren til 0,75 innen 2027, og at det utarbeides en konkret plan for dette.
+- Arbeiderpartiet: Foreslår at det vurderes ytterligere tiltak for å øke bemanningen, inkludert ansettelse av flere faste ansatte, og at dette prioriteres i budsjettprosessen.
+
+Voteringer:
+- Skal kommunestyret godkjenne rapporten og de foreslåtte tiltakene?
+  - Enstemmig for: 27 stemmer
+  - Imot: 0 stemmer
+- Skal det settes som mål å redusere bemanningsfaktoren til 0,75 innen 2027?
+  - Ja: 15 stemmer
+  - Nei: 12 stemmer
+- Skal ytterligere tiltak vurderes for å øke bemanningen?
+  - Ja: 20 stemmer
+  - Nei: 7 stemmer

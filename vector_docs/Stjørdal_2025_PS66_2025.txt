@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 66/2025
+rodt_fremmet: False
+---
+
+Tittel: Ungdomsrådets årsrapport høst 2024 - vår 2025
+
+Vedtak:
+Årsmelding høst 2024/vår 2025 for Ungdomsrådet tas til orientering.
+
+Voteringer:
+- Votering over innstillingen om å ta årsmelding for Ungdomsrådet til orientering.
+  - Innstillingen: 36 stemmer

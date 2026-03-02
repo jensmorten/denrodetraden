@@ -1,0 +1,97 @@
+{
+  "tittel": "Parkeringsordning og regulering i Stjørdal - parkering som et virkemiddel for å skape mer liv i byen - endringsforslag etter høringsuttalelser",
+  "innstilling": "1. Kommunestyret vedtar parkeringsordningsordning og regulering i Stjørdal punkt 1-12 med de endringer som følger av saken.\n2. For punkt 5 vedtar kommunestyret et av alternativene:\na) Fri parkering i sone 1 de 3 første timer, deretter ordinær sats. Dette gjelder mandag til fredag kl. 08-16 og lørdag kl. 08-15.\neller\nb) Ingen friperiode i sone 1, betaling fra og med første time med takstalternativ:\n• Full betaling fra første minutt\neller\n• Progressiv takst\n•\no Dette gjelder mandag til fredag kl. 08-16 og lørdag kl. 08-15.\no I sone 2 er det ingen betaling, men parkeringstiden på offentlig veigrunn er maks 24 timer.\nFormannskapet ber kommunedirektøren vurdere forholdet til ansatteparkering på nytt og se på hvordan dette kan gjøres uten at det avstedkommer en forskjellsbehandling i forhold til våre innbyggere som også jobber i sentrum, og legge frem det frem før kommunestyrets behandling.",
+  "vedtak": "Kommunestyret sender saken tilbake til kommunedirektøren for videre bearbeidelse og ber om at kommunedirektøren i den videre behandlingen tar inn følgende vurderinger:\nEvaluere dagens parkeringsordning som grunnlag for å gjøre endringer som skal bidra til mer effektiv bruk av parkeringsarealer og bidra til at langtidsparkering i sentrum reduseres.\nUtarbeide helhetlige tiltak som samlet sett bidrar til et mer levende sentrum, lavere klimagassutslipp, bedre mobilitet og langsiktig økonomisk bærekraft i parkeringsdriften.\nDet er et mål at parkeringsdriften skal være selvfinansierende, og eventuelle overskudd går tilbake til parkeringsordningen.\nVurdere hvordan parkeringsordningen kan bidra til å redusere biltrafikk i sentrum, samtidig som handel, næringsliv og innbyggere uten reelle kollektivtilbud fortsatt har god tilgjengelighet til sentrum.\nLegge fram en plan for fremtidig bruk av kommunalt eide tomter som i dag fungerer som parkeringsplasser, inkludert vurdering av salg eller omdisponering til formål som kan styrke byliv, grøntområder og aktivitet i sentrum.\nVurderer hvordan de som har arbeidet sitt i sentrum (både kommunale og private) kan ivaretas på en god måte, herunder at parkeringsløsningene ikke forverres for ansatte som ikke bor sentrumsnært eller som ikke har reelle alternativer til bil. Kommunestyret ber spesielt om vurdering av ordninger som sikrer forutsigbar og rimelig parkering for ansatte som er avhengig av bil i arbeidshverdagen.\nUtreder hvordan kommunen kan etablere en mest mulig lik og harmonisert parkeringsordning i sentrum, også ved å involvere og inngå dialog med eiere av private parkeringsplasser, med mål om at brukerne møter et enhetlig, enkelt og forutsigbart system uavhengig av hvilken parkeringsplass de benytter.\nUtreder muligheten for etablering av parkeringshus i tilknytning til sentrum, finansiert helt eller delvis gjennom salg eller omstilling av kommunale parkeringsarealer og gjennom frikjøpsordningen, med mål om:\n§ fortsatt sentrumsnær parkering for handel og besøkende\n§ redusert biltrafikk i selve sentrumskjernen\n§ mer effektiv arealutnyttelse\nVurderer hvordan en parkeringsordning i sentrum vil påvirke “park and ride” ved Fosslia Fjellhall.\nVurderer parkeringsordning ved kommunalt opparbeidete parkeringsplasser tilknyttet friområder som f.eks. Storvika og Molovika, og at det kan tenkes langtidsparkering i vinterhalvåret.\nDet legges som premiss for videre arbeid med en eventuell parkeringsordning at det innføres tre (3) timer gratis parkering på kommunale parkeringsplasser, og at parkering kan forlenges utover dette mot betaling.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Torgrim Hallem (Venstre)",
+      "tekst": "Kommunestyret sender saken tilbake til kommunedirektøren for videre bearbeidelse og ber om at kommunedirektøren i den videre behandlingen tar inn følgende vurderinger: [se full tekst under vedtak]"
+    },
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Det innføres ikke en parkeringsordning i Stjørdal før det eksisterer tilfredsstillende sentrumsnære innfartsparkeringer utenfor sentrum, og et styrket kollektivtilbud fra alle kommunedeler. En eventuell innføring kan først vurderes som tiltak i ny byvekstavtale der et styrket kollektivtilbud inngår i vurderingen."
+    },
+    {
+      "forslagsstiller": "Johan Aarbu (Fremskrittspartiet)",
+      "tekst": "Det legges som premiss for videre arbeid med en eventuell parkeringsordning at det innføres tre (3) timer gratis parkering på kommunale parkeringsplasser, og at parkering kan forlenges utover dette mot betaling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 0
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Mot innstillingen",
+      "rodt": {
+        "støttet": "Mot innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over alternativt forslag fra Venstre, SP, H, FrP og Krf (Torgrim Hallem)",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Venstre, SP, H, FrP og Krf",
+          "stemmer": 28
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 9
+        }
+      ],
+      "vinner": "Forslaget fra Venstre, SP, H, FrP og Krf",
+      "rodt": {
+        "støttet": "Mot forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over alternativt forslag fra Arbeiderpartiet (Jan Inge Kaspersen)",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Arbeiderpartiet",
+          "stemmer": 16
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 21
+        }
+      ],
+      "vinner": "Mot forslaget",
+      "rodt": {
+        "støttet": "Forslaget fra Arbeiderpartiet",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Fremskrittspartiet (Johan Aarbu)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslaget fra Fremskrittspartiet",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 7
+        }
+      ],
+      "vinner": "Tilleggsforslaget fra Fremskrittspartiet",
+      "rodt": {
+        "støttet": "Mot forslaget",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 10/2026",
+  "rodt_fremmet_forslag": false
+}

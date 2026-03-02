@@ -1,0 +1,18 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 24/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av godkjennere
+
+Vedtak:
+Anders Frost og Turid Eidem Olsen godkjenner protokoll sammen med ordfører.
+
+Alternative forslag:
+- Eugen Sørmo (Høyre): Anders Frost og Turid Eidem Olsen godkjenner protokoll sammen med ordfører.
+
+Voteringer:
+- Votering over forslag om godkjenning av protokoll med Anders Frost og Turid Eidem Olsen sammen med ordfører.
+  - For forslaget: 30 stemmer

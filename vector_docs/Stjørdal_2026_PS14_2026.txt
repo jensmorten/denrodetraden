@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2026
+saksnummer: PS 14/2026
+rodt_fremmet: False
+---
+
+Tittel: Opphevelse av forskrift om båndtvang for hund, Stjørdal kommune, Nord-Trøndelag
+
+Vedtak:
+Forskrift 22. mai 2007 nr. 559 om båndtvang for hund, Stjørdal kommune, Nord-Trøndelag oppheves, slik det er foreslått i vedlegget.
+
+Voteringer:
+- Votering over innstillingen om å oppheve forskrift om båndtvang for hund.
+  - For innstillingen (opphevelse): 37 stemmer

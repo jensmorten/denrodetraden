@@ -1,0 +1,29 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 32/25
+rodt_fremmet: True
+---
+
+Tittel: Gjeninnføring av gruppestønad politiske partier
+
+Vedtak:
+1. Kommunestyret vedtar at gruppestønad til partigruppene gjeninnføres med virkning fra budsjettåret 2025.
+2. Kommunestyret vedtar omdisponering av midler på kr. 380 000 fra det nedlagte politiske samarbeidet i Trondheimsregionen IPR fra rammeområdet Kommunedirektøren og støtte funksjoner til rammeområdet Folkevalgte, kontrollutvalg og revisjon.
+3. Kommunestyret gir kommunedirektøren fullmakt til å gjøre de nødvendige budsjettkorreksjonene.
+
+Alternative forslag:
+- Jens Morten Nilsen (Rødt): Kommunestyret vedtar at gruppestønad til partigruppene ikke gjeninnføres før kommunens regnskap igjen viser balanse. Forskrift for folkevalgtes ansettelsesvilkår endres i tråd med vedtaket.
+- May Britt Kjelsaas (Senterpartiet): Melder inn alternativt forslag til vedtakspunkt 1:
+1. Kommunestyret vedtar at gruppestønad til partigruppene gjeninnføres med virkning fra budsjettåret 2024.
+
+Voteringer:
+- Votering på forslaget fra Jens Morten Nilsen (Rødt) om å ikke gjeninnføre gruppestønad før kommunens regnskap viser balanse.
+  - For: 5 stemmer
+  - Imot: 26 stemmer
+- Votering på forslaget fra May Britt Kjelsaas (Senterpartiet) om å gjeninnføre gruppestønad fra budsjettåret 2024.
+  - For: 2 stemmer
+  - Imot: 29 stemmer
+- Votering på innstillingen om gjeninnføring av gruppestønad fra budsjettåret 2025.
+  - For: 28 stemmer
+  - Imot: 3 stemmer

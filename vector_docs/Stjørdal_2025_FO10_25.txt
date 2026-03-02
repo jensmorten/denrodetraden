@@ -1,0 +1,20 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: FO 10/25
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon til ordfører i Kommunestyret 30. 2025/8285 - Hva vil ordfører gjøre for å sikre BPA-tjenester til de innbyggerne i Stjørdal som har krav på dette?
+
+Vedtak:
+Kommunestyret vedtar innstillingen og ber administrasjonen utarbeide en sak med konkrete tiltak for å forbedre BPA-tilbudet i kommunen.
+
+Alternative forslag:
+- Opposisjonen: Kommunestyret skal bevilge ekstra midler for å styrke BPA-tilbudet umiddelbart.
+
+Voteringer:
+- Vedtak om å ta interpellasjonen til etterretning og be administrasjonen komme tilbake med sak.
+  - Enstemmig: 35 stemmer
+- Vedtak om å bevilge ekstra midler for å styrke BPA-tilbudet umiddelbart.
+  - Enstemmig: 35 stemmer

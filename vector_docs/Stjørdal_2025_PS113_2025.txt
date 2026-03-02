@@ -1,0 +1,25 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 113/2025
+rodt_fremmet: False
+---
+
+Tittel: Eierskapsmelding 2025
+
+Vedtak:
+Kommunestyret vedtar forslag til eierskapsmelding 2025.
+
+Alternative forslag:
+- Morten Harper (Sosialistisk venstreparti): Kommunedirektøren forbereder avvikling av kommunens eierskap i Smart Mobility Norway, og legger frem en sak til politisk behandling om dette.
+- Morten Harper (Sosialistisk venstreparti): I eierskapet av NTE skal Stjørdal kommune arbeide for å øke utbyttet til eierne. Prinsippene for lønn i NTE må endres for å stanse en utvikling med svært høy lederlønn.
+
+Voteringer:
+- Votering over innstillingen om å vedta forslag til eierskapsmelding 2025.
+  - For innstillingen: 37 stemmer
+- Votering over tilleggsforslag om avvikling av kommunens eierskap i Smart Mobility Norway.
+  - For tilleggsforslaget: 14 stemmer
+  - Imot tilleggsforslaget: 23 stemmer
+- Votering over tilleggsforslag om NTE-utbytte og lederlønn.
+  - For tilleggsforslaget: 3 stemmer
+  - Imot tilleggsforslaget: 34 stemmer

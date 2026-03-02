@@ -1,0 +1,18 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 30/25
+rodt_fremmet: False
+---
+
+Tittel: Administrativt vertskommunesamarbeid - personvernombud
+
+Vedtak:
+1) Malvik kommune inngår administrativt vertskommunesamarbeid etter kommuneloven § 20-2 for personvernombud og blir en del av Værnesregionen personvernombud
+2) Kommunestyret vedtar vertskommuneavtalen med tittel "Vertskommuneavtale om Værnesregionen Personvernombud"
+3) Kommunestyret instruerer kommunedirektøren om å delegere myndigheten for å utføre oppgaver i tråd med avtalen til kommunedirektøren i Stjørdal, jf. kommuneloven § 20-2, andre avsnitt.
+4) Kommunestyret gir kommunedirektøren fullmakt til å signere vertskommuneavtalen.
+
+Voteringer:
+- Votering over innstillingen til kommunestyret om administrativt vertskommunesamarbeid for personvernombud
+  - For innstillingen: 31 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 28/25
+rodt_fremmet: False
+---
+
+Tittel: Rammeplan for kulturskolen
+
+Vedtak:
+Malvik kommune vedtar å legge nasjonal rammeplan til grunn for sin kulturskoleutvikling.
+
+Voteringer:
+- Votering over innstillingen om å legge nasjonal rammeplan til grunn for kulturskoleutvikling
+  - For innstillingen: 31 stemmer

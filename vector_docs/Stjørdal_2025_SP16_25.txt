@@ -1,0 +1,11 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: SP 16/25
+rodt_fremmet: False
+---
+
+Tittel: Kommunestyrets orientering om aktivitetstilbud
+
+Vedtak:
+Kommunestyret tar saken til orientering.

@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 69/25
+rodt_fremmet: False
+---
+
+Tittel: Andregangsbehandling av detaljregulering for gang- og sykkelveg Smiskaret-Sveberg
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 12-12 vedtas reguleringsplan for gang- og sykkelveg Smiskaret-Sveberg med planID 202403.
+
+Voteringer:
+- Votering over innstillingen til reguleringsplan for gang- og sykkelveg Smiskaret-Sveberg
+  - For innstillingen: 31 stemmer

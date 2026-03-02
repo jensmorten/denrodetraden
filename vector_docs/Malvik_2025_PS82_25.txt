@@ -1,0 +1,28 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 82/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av representanter til eksterne utvalg
+
+Vedtak:
+1.Som vara til representantskapet i Trøndelag brann- og redningstjeneste IKS velges Irén Aina Bastholm.
+2.Som vara til representantskapet i Midt-Norge 110-sentral IKS velges Irén Aina Bastholm.
+3.Som vara til representantskapet i Innherred Renovasjon IKS velges Irén Aina Bastholm.
+4.Som representant til KS fylkesmøte velges Irén Aina Bastholm.
+5.Som representant i partnerskapet Atlantbanens styringsgruppe velges Eugen Gravningen Sørmo.
+6.Som vararepresentant til interkommunalt politisk råd for Værnesregionen velges Irén Aina Bastholm.
+
+Alternative forslag:
+- Rikard Spets (Fremskrittspartiet): 1.Som vara til representantskapet i Trøndelag brann- og redningstjeneste IKS velges Irén Aina Bastholm.
+2.Som vara til representantskapet i Midt-Norge 110-sentral IKS velges Irén Aina Bastholm.
+3.Som vara til representantskapet i Innherred Renovasjon IKS velges Irén Aina Bastholm.
+4.Som representant til KS fylkesmøte velges Irén Aina Bastholm.
+5.Som representant i partnerskapet Atlantbanens styringsgruppe velges Eugen Gravningen Sørmo.
+6.Som vararepresentant til interkommunalt politisk råd for Værnesregionen velges Irén Aina Bastholm.
+
+Voteringer:
+- Votering over forslaget fremmet av Rikard Spets (Fremskrittspartiet) om valg av representanter til eksterne utvalg
+  - For forslaget: 31 stemmer

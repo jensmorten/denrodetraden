@@ -1,0 +1,18 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 11/25
+rodt_fremmet: False
+---
+
+Tittel: Prinsipper om bruk og leie av offentlige rom til arrangement
+
+Vedtak:
+Kommunestyret vedtar prinsippene om bruk og leie av offentlige rom til arrangement som presentert.
+
+Alternative forslag:
+- Venstre: Foreslår at det skal stilles krav om miljøvennlig utstyr og avfallshåndtering ved alle arrangement på offentlige rom.
+
+Voteringer:
+- Vedtak om prinsippene for bruk og leie av offentlige rom til arrangement
+  - Enstemmig vedtak: 35 stemmer

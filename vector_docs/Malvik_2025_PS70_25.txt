@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 70/25
+rodt_fremmet: False
+---
+
+Tittel: Andregangsbehandling av detaljregulering for fortau og forbedret veilinje Saksvikkorsen
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 12-12 vedtas reguleringsplan for fortau og forbedret veilinje Saksvikkorsen, planID 202305.
+
+Voteringer:
+- Votering over innstillingen til reguleringsplan for fortau og forbedret veilinje Saksvikkorsen
+  - For innstillingen: 31 stemmer

@@ -1,0 +1,16 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 126/25
+rodt_fremmet: False
+---
+
+Tittel: Sektorplan for sektor forebygging og mestring tas til orientering
+
+Vedtak:
+Sektorplan for sektor forebygging og mestring tas til orientering.
+
+Voteringer:
+- Godkjenning av sektorplan for forebygging og mestring
+  - Enstemmig godkjenning: 37 stemmer
+  - Avslag: 0 stemmer

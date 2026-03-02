@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 20/25
+rodt_fremmet: False
+---
+
+Tittel: Renovasjonsgebyr og slampriser 2025
+
+Vedtak:
+Renovasjonsgebyr og slampriser for 2025 vedtas i samsvar med forslaget fra Innherred Renovasjon IKS.
+
+Voteringer:
+- Votering over innstillingen om renovasjonsgebyr og slampriser for 2025
+  - For innstillingen: 31 stemmer

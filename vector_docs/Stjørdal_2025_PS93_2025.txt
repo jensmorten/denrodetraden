@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 93/2025
+rodt_fremmet: False
+---
+
+Tittel: Planendring for Husbyåsen B12 - planspørsmål
+
+Vedtak:
+Stjørdal kommune gir sin tilslutning til at det igangsettes planendring av detaljregulering for Husbyåsen B12 (Plan ID 1-210-F) på vilkår som framgår av konklusjonsavsnittet i denne saken.
+
+Voteringer:
+- Votering over innstillingen fra Utvalg Plan og Miljø om å igangsette planendring for Husbyåsen B12.
+  - Innstillingen: 37 stemmer

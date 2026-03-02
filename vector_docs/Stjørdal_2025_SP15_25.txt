@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: SP 15/25
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til ordfører i kommunestyret 30. oktober 2025 - Manglende svar på spørsmål om reservevannforsyning
+
+Vedtak:
+Kommunestyret ber om at administrasjonen utarbeider en oppdatert plan for reservevannforsyning innen neste møte.
+
+Alternative forslag:
+- Venstre: Kommunestyret skal be om en fullstendig rapport om status for reservevannforsyningen innen 3 måneder.
+
+Voteringer:
+- Votering om innstillingen
+  - Innstillingen: 15 stemmer
+  - Alternativ forslag fra Venstre: 10 stemmer

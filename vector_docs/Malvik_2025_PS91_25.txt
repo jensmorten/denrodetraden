@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 91/25
+rodt_fremmet: False
+---
+
+Tittel: Forslag møteplan for 2026 - Politiske utvalg
+
+Vedtak:
+Forslag til møteplan for politiske utvalg for 2026 vedtas.
+
+Voteringer:
+- Votering over innstillingen til møteplan for politiske utvalg for 2026
+  - For innstillingen: 31 stemmer

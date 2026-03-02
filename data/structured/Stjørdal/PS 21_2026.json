@@ -1,0 +1,45 @@
+{
+  "tittel": "Godkjenning av møteprotokoll",
+  "innstilling": "Møteprotokoll godkjent.",
+  "vedtak": "Innbyggerspørsmål fra Lars Moa i åpen spørretime som omhandlet Ole Vig-prisen, samt svar fra ordfører tillegges protokollen. Møteprotokoll godkjent.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Innbyggerspørsmål fra Lars Moa i åpen spørretime som omhandlet Ole Vig-prisen, samt svar fra ordfører tillegges protokollen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å godkjenne møteprotokollen.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (Møteprotokoll godkjent)",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen (Møteprotokoll godkjent)",
+      "rodt": {
+        "støttet": "Innstillingen (Møteprotokoll godkjent)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Jan Inge Kaspersen om å tillegge innbyggerspørsmål og svar til protokollen.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Jan Inge Kaspersen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Tilleggsforslag fra Jan Inge Kaspersen",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Jan Inge Kaspersen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 21/2026",
+  "rodt_fremmet_forslag": false
+}

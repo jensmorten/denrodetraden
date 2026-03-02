@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 46/25
+rodt_fremmet: False
+---
+
+Tittel: Avtale om overtakelse mellom Melhus kommune og Sameiet Jagtøyen & Rathe Vasslag
+
+Vedtak:
+Melhus kommune vedtar å inngå avtale med Sameiet Jagtøyen & Rathe Vasslag om overtakelse av deler av Vasslagets ledningsnett som endelig oppgjør og avslutning på erstatningssak. Avtalen underskrives av ordfører. Det delegeres til Rådmannen å gjennomføre overtakelsen. Vedtaket er hjemlet i «Avtale om overtakelse mellom Melhus kommune og Sameiet Jagtøyen & Rathe Vasslag» og «Retningslinjer når privat vannverk ønsker kommunal overtakelse», vedtatt av kommunestyret 16.04.2013.
+
+Voteringer:
+- Votering over rådmannens innstilling.
+  - Rådmannens innstilling: enstemmig stemmer

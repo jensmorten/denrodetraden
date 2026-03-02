@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 30/25
+rodt_fremmet: False
+---
+
+Tittel: Møtefullmektiger Forliksrådet 1.1.2025 - 31.12.2028
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Votering over innstillingen: Saken tas til orientering.
+  - Saken tas til orientering.: None stemmer

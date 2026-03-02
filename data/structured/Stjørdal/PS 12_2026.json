@@ -1,0 +1,49 @@
+{
+  "tittel": "Høringsinnspill til byutredningen for Trondheimsområdet 2025",
+  "innstilling": "Kommunestyret tar byutredningen for Trondheimsområdet til orientering. Til kommende reforhandling av byvekstavtalen for Trondheims-området er følgende viktig for Stjørdal kommune:\n1. For Stjørdal er det viktig å opprettholde holdeplassene som er langs Trønderbanen i Stjørdal kommune i dag: Hell, Værnes, Stjørdal og Skatval. Slik tilrettelegger man på best måte for at innbyggere bosatt ut over sentrum i Stjørdal kan velge tog framfor bil. Særlig viktig er dette da det i utredningen pekes på risiko for betydelig vekst i personbiltrafikken i Stjørdal.\n2. Videre er det viktig for Stjørdal at det satses på kollektivtilbudet også ut over togtilbudet. Det er store avstander i kommunen som gjør bilbruk vanskelig å erstatte fullt ut. Et godt utbygd kollektivtilbud kombinert med god tilgang til mikromobilitet er derfor viktig å at se på for å kunne redusere bilbruk ut over sentrum.\n3. Videre utredning av alternativer til videreføring av bomstasjon på Ranheim for å håndtere økt trafikk på E6 øst når prosjektbommen på E6 Øst fjernes fra 2050. Kommunestyret ber også om at man vurderer andre former for veiprising.\n4. Kommunestyret forutsetter at man opprettholder dagens billettsone A for kollektivtrafikken.\n5. Kommunestyret mener at videre arbeid med byvekstavtalen bør ta utgangspunkt i virkemiddelpakke 3 eller 4, som gir et bedre samsvar mellom måloppnåelse og realistisk gjennomføringsevne for kommuner med både by- og distriktsstruktur.\n6. Kommunestyret mener det er nødvendig å styrke lokale bussruter som bringer reisende til kommunens togstasjoner, slik at innbyggerne får et sømløst tilbud videre med tog til Trondheim og deretter metro eller andre busslinjer i byområdet.\n7. Kommunestyret mener at oppfølgingen av nullvekstmålet må tilpasses kommuner med store avstander og spredt bosetting, slik at tiltakene blir praktisk gjennomførbare og gir ønsket effekt.",
+  "vedtak": "Kommunestyret tar byutredningen for Trondheimsområdet til orientering. Til kommende reforhandling av byvekstavtalen for Trondheims-området er følgende viktig for Stjørdal kommune:\n1. For Stjørdal er det viktig å opprettholde holdeplassene som er langs Trønderbanen i Stjørdal kommune i dag: Hell, Værnes, Stjørdal og Skatval. Slik tilrettelegger man på best måte for at innbyggere bosatt ut over sentrum i Stjørdal kan velge tog framfor bil. Særlig viktig er dette da det i utredningen pekes på risiko for betydelig vekst i personbiltrafikken i Stjørdal.\n2. Videre er det viktig for Stjørdal at det satses på kollektivtilbudet også ut over togtilbudet. Det er store avstander i kommunen som gjør bilbruk vanskelig å erstatte fullt ut. Et godt utbygd kollektivtilbud kombinert med god tilgang til mikromobilitet er derfor viktig å at se på for å kunne redusere bilbruk ut over sentrum.\n3. Videre utredning av alternativer til videreføring av bomstasjon på Ranheim for å håndtere økt trafikk på E6 øst når prosjektbommen på E6 Øst fjernes fra 2050. Kommunestyret ber også om at man vurderer andre former for veiprising.\n4. Kommunestyret forutsetter at man opprettholder dagens billettsone A for kollektivtrafikken.\n5. Kommunestyret mener at videre arbeid med byvekstavtalen bør ta utgangspunkt i virkemiddelpakke 3 eller 4, som gir et bedre samsvar mellom måloppnåelse og realistisk gjennomføringsevne for kommuner med både by- og distriktsstruktur.\n6. Kommunestyret mener det er nødvendig å styrke lokale bussruter som bringer reisende til kommunens togstasjoner, slik at innbyggerne får et sømløst tilbud videre med tog til Trondheim og deretter metro eller andre busslinjer i byområdet.\n7. Kommunestyret mener at oppfølgingen av nullvekstmålet må tilpasses kommuner med store avstander og spredt bosetting, slik at tiltakene blir praktisk gjennomførbare og gir ønsket effekt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "Nytt andre avsnitt legges til: Kommunestyret tar til etterretning viktigheten av konsentrert arealbruk for å begrense transportbehovet og oppnå nullvekstmålet, og dette skal vektlegges i kommunens arealplanlegging."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Morten Harper (SV)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Morten Harper (SV)",
+          "stemmer": 7
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 30
+        }
+      ],
+      "vinner": "Imot tilleggsforslaget",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Morten Harper (SV)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 12/2026",
+  "rodt_fremmet_forslag": false
+}

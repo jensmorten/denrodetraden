@@ -1,0 +1,26 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 10/25
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon til ordfører i Kommunestyret 30. 2025/8285 - Hva vil ordfører gjøre for å sikre BPA-tjenester til de innbyggerne i Stjørdal som har krav på dette?
+
+Vedtak:
+Kommunestyret vedtar at ordføreren skal utarbeide en sak som vurderer tiltak for å sikre at BPA-tjenester opprettholdes og forbedres for de berørte innbyggerne.
+
+Alternative forslag:
+- Høyre: Kommunestyret ber om en utredning av dagens BPA-ordning og konkrete forslag til forbedringer innen 3 måneder.
+- Arbeiderpartiet: Kommunestyret skal opprette en arbeidsgruppe for å følge opp BPA-tilbudet og sikre at kravene oppfylles.
+
+Voteringer:
+- Stemme om innstillingen
+  - For: 15 stemmer
+  - Mot: 8 stemmer
+- Stemme om Høyres forslag
+  - For: 10 stemmer
+  - Mot: 13 stemmer
+- Stemme om Arbeiderpartiets forslag
+  - For: 16 stemmer
+  - Mot: 7 stemmer

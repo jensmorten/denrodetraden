@@ -1,0 +1,21 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 24/25
+rodt_fremmet: False
+---
+
+Tittel: Opptak av kassakreditt
+
+Vedtak:
+Kommunestyret vedtar at det tas opp inntil 140 millioner i kassakreditt for å midlertidig håndtere løpende utgifter. Rådmannen rapporterer løpende på bruken til formannskap og kommunestyret. Det forutsettes at kassakreditten innfris raskest mulig.
+
+Alternative forslag:
+- Einar Gimse-Syrstad, Ap: Kommunestyret vedtar at det tas opp inntil 140 millioner i kassakreditt for å midlertidig håndtere løpende utgifter. Rådmannen rapporterer løpende på bruken til formannskap og kommunestyret.
+- Hege Annette Olstad, Frp: Det forutsettes at kassakreditten innfris raskest mulig.
+
+Voteringer:
+- Votering over hovedforslaget fra Einar Gimse-Syrstad (Ap)
+  - Forslaget fra Einar Gimse-Syrstad (Ap): enstemmig stemmer
+- Votering over tilleggsforslaget fra Hege Annette Olstad (Frp)
+  - Tilleggsforslaget fra Hege Annette Olstad (Frp): enstemmig stemmer

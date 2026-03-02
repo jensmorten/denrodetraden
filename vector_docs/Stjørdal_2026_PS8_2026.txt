@@ -1,0 +1,21 @@
+METADATA:
+kommune: Stjørdal
+year: 2026
+saksnummer: PS 8/2026
+rodt_fremmet: False
+---
+
+Tittel: Revisjon av standard abonnementsvilkår for vann og avløp med lokale bestemmelser, Stjørdal kommune
+
+Vedtak:
+Standard abonnementsvilkår for vann og avløp (KS sin versjon 2017) med lokale bestemmelser vedtas som gjeldende i Stjørdal kommune fra vedtaksdato.
+
+Alternative forslag:
+- Jan Inge Kaspersen (Arbeiderpartiet): Kommunestyret ber kommunedirektøren fremlegge en sak med prinsipper for grensesnitt mellom kommunale og private vannledninger. Det skal blant annet vurderes om kommunen som hovedregel skal eie vannledningen frem til tomtegrense.
+
+Voteringer:
+- Votering over innstillingen om å vedta standard abonnementsvilkår for vann og avløp (KS sin versjon 2017) med lokale bestemmelser.
+  - For innstillingen: 37 stemmer
+- Votering over forslag fra Jan Inge Kaspersen (Ap) om prinsipper for grensesnitt mellom kommunale og private vannledninger.
+  - For forslaget: 12 stemmer
+  - Imot forslaget: 25 stemmer

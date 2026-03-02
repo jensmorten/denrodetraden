@@ -1,0 +1,11 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 39/25
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon - Sikre at omstillingsprosessen og kuttene blir rettferdig fordelt
+
+Vedtak:
+Interpellasjon trukket av interpellanten.

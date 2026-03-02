@@ -1,0 +1,44 @@
+{
+  "tittel": "Tertialrapport nr. 3 - 2025. Større tekniske VVA investeringsprosjekter.",
+  "innstilling": "Kommunestyret tar statusrapporten for «større» tekniske VVA investeringsprosjekter for 3. tertial 2025 til orientering.\nKommunestyret vedtok 4. september 2025 at Tillertoppen skal være med i vurderingen før endelig fastsettelse av beliggenhet for vanntank på Skatval. Det skulle legges frem en sak for politisk behandling hvor alle tall skulle legges frem. Utvalget ber om at den omtalte vurderingen blir gjennomført og kostnader for begge alternativer fremlagt. Under vurderingen av lokasjon Klempen, må kostnad for vann leveranse til Tillertoppen som igjen kan tilby vann til et fremtidig næringsareal på Langstein være inkludert. Alternativ Klempen taes ut i videre behandling inntil vedtak fra 4. september er lagt frem til politisk behandling.",
+  "vedtak": "Kommunestyret tar statusrapporten for «større» tekniske VVA investeringsprosjekter for 3. tertial 2025 til orientering.\nKommunestyret vedtok 4. september 2025 at Tillertoppen skal være med i vurderingen før endelig fastsettelse av beliggenhet for vanntank på Skatval. Det skulle legges frem en sak for politisk behandling hvor alle tall skulle legges frem. Utvalget ber om at den omtalte vurderingen blir gjennomført og kostnader for begge alternativer fremlagt. Under vurderingen av lokasjon Klempen, må kostnad for vann leveranse til Tillertoppen som igjen kan tilby vann til et fremtidig næringsareal på Langstein være inkludert. Alternativ Klempen taes ut i videre behandling inntil vedtak fra 4. september er lagt frem til politisk behandling.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling om å ta statusrapporten til orientering.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over innstilling om vurdering av Tillertoppen og utsettelse av Klempen-alternativet.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 24
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 13
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 17/2026",
+  "rodt_fremmet_forslag": false
+}

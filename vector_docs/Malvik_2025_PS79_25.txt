@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 79/25
+rodt_fremmet: False
+---
+
+Tittel: Nøkkeltall 2024 for Malvik kommune
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Votering over innstillingen om at saken tas til orientering
+  - For innstillingen: 31 stemmer

@@ -1,0 +1,16 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 39/25
+rodt_fremmet: False
+---
+
+Tittel: Administrativt vertskommunesamarbeid - felles dokumentasjonssenter Værnesregionen
+
+Vedtak:
+1. Vedlagte forslag til vertskommuneavtale vedtas.
+2. Avtalen trer i kraft fra 1.1.2026
+
+Voteringer:
+- Votering over innstillingen til vertskommuneavtale om Værnesregionen Dokumentasjonssenter
+  - For: 31 stemmer

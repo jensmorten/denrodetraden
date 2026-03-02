@@ -1,0 +1,22 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 15/25
+rodt_fremmet: False
+---
+
+Tittel: 2. tertial 2025. Økonomirapportering inkl finansforvaltning
+
+Vedtak:
+Kommunestyret godkjenner 2. tertial 2025 økonomirapport og gir administrasjonen fullmakt til å følge opp økonomien i henhold til rapporten.
+
+Alternative forslag:
+- Opposisjonen: Kommunestyret ber om en grundigere gjennomgang av budsjettavvikene før endelig godkjenning.
+
+Voteringer:
+- Godkjenning av 2. tertial 2025 økonomirapport
+  - Godkjenning: 25 stemmer
+  - Avvisning: 10 stemmer
+- Fullmakt til administrasjonen til å følge opp økonomien
+  - Fullmakt gis: 26 stemmer
+  - Fullmakt avslås: 9 stemmer

@@ -1,0 +1,22 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 4/25
+rodt_fremmet: False
+---
+
+Tittel: 5024 - Viksjøen hytteområder - 2.gangs behandling
+
+Vedtak:
+Kommunestyret vedtar reguleringsplanen for Viksjøen hytteområder med de endringer som er foreslått i 2. gangs behandling.
+
+Alternative forslag:
+- Opposisjonen: Foreslår å utsette behandlingen for ytterligere utredning av miljøkonsekvenser.
+
+Voteringer:
+- Godkjenning av reguleringsplanen for Viksjøen hytteområder
+  - For: 15 stemmer
+  - Mot: 8 stemmer
+- Foreslått utsettelse for ytterligere utredning
+  - Ja: 8 stemmer
+  - Nei: 15 stemmer

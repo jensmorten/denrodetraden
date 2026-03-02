@@ -1,0 +1,16 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 59/2025
+rodt_fremmet: False
+---
+
+Tittel: Rammeplan for kulturskolen - Kulturskole for alle
+
+Vedtak:
+Stjørdal kommune vedtar å legge nasjonal rammeplan Kulturskole for alle til grunn for videre drift og utvikling av Stjørdal kulturskole.
+Kulturskolen bes revidere sine retningslinjer i henhold til ny rammeplan.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet om å legge nasjonal rammeplan Kulturskole for alle til grunn for videre drift og utvikling av Stjørdal kulturskole, samt revidering av retningslinjer.
+  - Innstillingen: 37 stemmer

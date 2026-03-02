@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 37/25
+rodt_fremmet: False
+---
+
+Tittel: Utskrivningsklare pasienter, betalingsdøgn og ventelister 2024
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Vedtak av innstilling om at saken tas til orientering
+  - For: 31 stemmer

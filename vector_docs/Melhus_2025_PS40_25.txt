@@ -1,0 +1,11 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 40/25
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon - Kommunestyret 25.03.2025 - Lønn politikere Melhus kommune - Lillian Ofstad - PP
+
+Vedtak:
+Interpellasjon trukket av interpellanten.

@@ -1,0 +1,16 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 15/25
+rodt_fremmet: False
+---
+
+Tittel: Regulering investeringsbudsjett 2025
+
+Vedtak:
+1.Kommunestyret vedtar følgende endringer av investeringsbudsjettet for 2025. Investeringer i varige driftsmidler endres i tråd med avvikene i tabell 1.
+2.Kommunestyret gir kommunedirektøren fullmakt til å gjennomføre de nødvendige budsjettkorreksjonene.
+
+Voteringer:
+- Votering over innstillingen til regulering av investeringsbudsjettet 2025
+  - For innstillingen: 31 stemmer

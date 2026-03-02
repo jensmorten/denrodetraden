@@ -1,0 +1,43 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 47/25
+rodt_fremmet: False
+---
+
+Tittel: Kommuneøkonomi - Omstillingstiltak Melhus kommune 2025 - 2028
+
+Vedtak:
+Formannskapet tar rådmannen fremlagte forslag til driftstiltak for å styrke kommuneøkonomien i Melhus kommune for perioden 2025-2028 til orientering. Forslagene fremgår av vedlegg 1-4.
+Rådmannen bes i tilknytning til videre behandling av omstillingsprogrammet synliggjøre hvilke reelle endringer i årsverk tiltak innebærer, med reduksjon i årsverk enten direkte knyttet til enkelttiltak eller knyttet til hva sum av enkelttiltak vil gi.
+Det ønskes en snarlig utredning av teknisk drift. Hvilke tjenester bør vi drifte selv? Hvilke tjenester kan settes ut på anbud? Hvilke tjenester kan vi løse i samarbeid med andre kommuner? Vi ønsker også en kost nyttevurdering av dimensjonering av maskinparken; hva bør vi eie selv, og hva kan vi leie.
+Kommunestyret ber rådmannen snarest fremlegge oversikt over hvilke tiltak, som ikke trenger politisk behandling, som så langt er gjennomført eller planlagt i de forskjellige enhetene i kommunen. Oversikten må vise forventede varige, og engangsmessige, innsparinger. Oppdatert oversikt skal følge videre behandling av omstillingsprogrammet.
+
+Alternative forslag:
+- Marius Krogstad Aune (H): Tilleggsforslag fra Marius Krogstad Aune (H) på vegner av H: ...
+- Jørn Ove Moen (AP): Tilleggsforslag fra Jørn Ove Moen (AP) på vegner av AP, SV, KrF og SV: ...
+- Lillian Ofstad (PP): Tilleggsforslag fra Lillian Ofstad (PP) på vegne av PP: ...
+- Jørn Ove Moen (AP): Omforent forslag fra AP, SP, SV, KrF og H fremmet av Jørn Ove Moen (AP): ...
+
+Voteringer:
+- Formannskapets vedtak
+  - Vedta formannskapets vedtak: enstemmig stemmer
+- Tilleggsforslag fra Marius Krogstad Aune i punkt 2
+  - For: 13 stemmer
+  - Mot: flertall stemmer
+- Tilleggsforslag fra Marius Krogstad Aune i punkt 3
+  - For: flertall stemmer
+  - Mot (PP): 3 stemmer
+- Tilleggsforslag fra Marius Krogstad Aune i punkt 4
+  - For: 15 stemmer
+  - Mot: flertall stemmer
+- Tilleggsforslag fra Marius Krogstad Aune i punkt 5
+  - For: 14 stemmer
+  - Mot: flertall stemmer
+- Tilleggsforslag fra Marius Krogstad Aune i punkt 6
+  - For: 13 stemmer
+  - Mot: flertall stemmer
+- Tilleggsforslag fra Lillian Ofstad
+  - For: enstemmig stemmer
+- Omforent forslag fra AP, SP, SV, KrF og H
+  - For: enstemmig stemmer

@@ -1,0 +1,17 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 73/25
+rodt_fremmet: False
+---
+
+Tittel: Økt behov for startlån
+
+Vedtak:
+1.Kommunestyret vedtar å øke rammen til videreutlån med 30 millioner kroner, fra 65 millioner kroner til 95 millioner kroner.
+2.Bevilgningen finansieres med å øke bruk av lån til videreutlån med 30 millioner kroner, finansiert ved bruk av fondsmidler knyttet til startlån fra 2024.
+3.Kommunestyret gir kommunedirektøren fullmakt til å gjennomføre de nødvendige budsjettkorreksjonene.
+
+Voteringer:
+- Votering over innstillingen om økning av rammen til videreutlån med 30 millioner kroner.
+  - For innstillingen: 31 stemmer

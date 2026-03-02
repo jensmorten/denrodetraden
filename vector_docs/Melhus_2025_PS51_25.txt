@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 51/25
+rodt_fremmet: False
+---
+
+Tittel: Fritak fra politiske verv - Atle Grytbach
+
+Vedtak:
+Atle Grytbach (PP) innvilges fritak fra sitt politiske verv i kommunestyret. Fra dato for innvilget fritak og ut perioden er følgende gjeldende: Som ny vararepresentant i kommunestyret trer Kjell Arne Stokke inn.
+
+Voteringer:
+- Valgnemndas vedtak legges til grunn.
+  - Valgnemndas vedtak: enstemmig stemmer

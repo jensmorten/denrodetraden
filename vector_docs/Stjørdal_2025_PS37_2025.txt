@@ -1,0 +1,24 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 37/2025
+rodt_fremmet: False
+---
+
+Tittel: Innbyggerforslag - Stjørdal stasjon
+
+Vedtak:
+Kommunestyret tar innbyggerforslaget opp til behandling.
+Kommunestyret anerkjenner det store engasjementet som ligger bak innbyggerinitiativet.
+Kommunestyret ber kommunedirektøren gå i dialog med BaneNor og vil oppfordre om at det i prosessen fram mot beslutning legges til rette for at folkemeningen kan komme til uttrykk.
+
+Alternative forslag:
+- Eli Arnstad (Senterpartiet): Kommunestyret anerkjenner det store engasjementet som ligger bak innbyggerinitiativet.
+Kommunestyret ber kommunedirektøren gå i dialog med BaneNor og vil oppfordre om at det i prosessen fram mot beslutning legges til rette for at folkemeningen kan komme til uttrykk.
+
+Voteringer:
+- Votering over innstillingen: Kommunestyret tar innbyggerforslaget opp til behandling.
+  - For innstillingen: 36 stemmer
+  - Mot innstillingen: 1 stemmer
+- Votering over tilleggsforslag fra Eli Arnstad (Sp)
+  - For tilleggsforslaget: 37 stemmer

@@ -1,0 +1,11 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 19/25
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til ordfører - Kommunestyret 11.02.2025 - Ny samarbeidsavtale Helseplattformen - Vidar Krogh-Albertsen - H
+
+Vedtak:
+Utsatt til neste møte.

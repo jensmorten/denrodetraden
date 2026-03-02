@@ -1,0 +1,18 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 48/25
+rodt_fremmet: False
+---
+
+Tittel: Protokoll - valg av godkjennere
+
+Vedtak:
+Kjersti Garnes Overvik (AP) og Anders Frost (H) godkjenner protokoll sammen med ordfører.
+
+Alternative forslag:
+- Eugen Sørmo (Høyre): Ordfører foreslår Kjersti Garnes Overvik (AP) og Anders Frost (H) til å signere protokoll sammen med møteleder.
+
+Voteringer:
+- Votering over forslag om godkjennere av protokoll: Kjersti Garnes Overvik (AP) og Anders Frost (H).
+  - For forslaget: 31 stemmer

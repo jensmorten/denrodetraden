@@ -1,0 +1,28 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 46/2025
+rodt_fremmet: False
+---
+
+Tittel: Lokalisering anlegg Innherred Renovasjon
+
+Vedtak:
+Nytt anlegg for Innherred Renovasjon-Sør legges til Gevingåsen, som samlet anlegg.
+Kommunestyret understreker viktigheten av å ivareta natur- og friluftsområdet på Gevingåsen og atkomsten til dette.
+
+Alternative forslag:
+- Gunnar Uglem (Venstre): Saken utsettes til kommunestyremøtet i mai for å få en kunnskap om:
+1. Hvordan håndteres trafikk og trafikkavvikling på FV950 også om Malvik skal tilhøre anlegget
+2. Er det løsninger som gjør at Innherred Renovasjon an være mer arealeffektiv?
+
+Voteringer:
+- Votering over Gunnar Uglem (V) sitt alternative forslag om utsettelse.
+  - Utsettelsesforslag (Uglem): 16 stemmer
+  - Mot utsettelse: 20 stemmer
+- Votering over innstilling: Nytt anlegg for Innherred Renovasjon-Sør legges til Gevingsåsen, som samlet anlegg.
+  - Innstilling (Gevingsåsen, samlet anlegg): 32 stemmer
+  - Mot innstilling: 4 stemmer
+- Votering over innstilling: Kommunestyret understreker viktigheten av å ivareta natur- og friluftsområdet på Gevingåsen og atkomsten til dette.
+  - Innstilling (ivareta natur- og friluftsområdet): 25 stemmer
+  - Mot innstilling: 11 stemmer

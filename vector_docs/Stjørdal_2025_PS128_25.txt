@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 128/25
+rodt_fremmet: False
+---
+
+Tittel: Beholdning av dagens opptaksmodell for barnehageplasser
+
+Vedtak:
+Dagens opptaksmodell beholdes uendret.
+
+Voteringer:
+- Votering om å beholde dagens opptaksmodell
+  - Enstemmig forslagsstiller: 35 stemmer

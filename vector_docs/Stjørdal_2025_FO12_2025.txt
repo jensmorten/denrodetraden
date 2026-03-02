@@ -1,0 +1,15 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: FO 12/2025
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon til ordfører i kommunestyret 18.12.2025 - Rådhuset
+
+Vedtak:
+Saken utsettes til kommunestyremøtet 29. januar 2026.
+
+Voteringer:
+- Votering om utsettelse av saken til kommunestyremøtet 29. januar 2026.
+  - Utsettelse til 29. januar 2026: None stemmer

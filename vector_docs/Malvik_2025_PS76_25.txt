@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 76/25
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling av endring av reguleringsplan for ny E6 mellom Leistad-Stjørdal grense ved Sveberg - planid 201803
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 12-12 vedtas endring av reguleringsplan for ny E6 mellom Leistad og Stjørdal grense ved Sveberg – planid 201803.
+
+Voteringer:
+- Avstemming over innstillingen fra utvalg for areal- og samfunnsplanlegging med endring om å ta ut siste avsnitt i innstillingen.
+  - For innstillingen: 31 stemmer

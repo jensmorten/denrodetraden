@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 31/25
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding 2024 - Kraftfond og Næringsfond
+
+Vedtak:
+Kommunestyret tar årsmelding for kraftfond og næringsfond 2024 til orientering. I tråd med vedtektene for kraftfondet oversendes gjenpart av årsmeldingen til Statsforvalteren i Trøndelag og Trøndelag Fylkeskommune.
+
+Voteringer:
+- Votering over rådmannens innstilling.
+  - Rådmannens innstilling: enstemmig stemmer

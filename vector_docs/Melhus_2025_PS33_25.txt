@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 33/25
+rodt_fremmet: False
+---
+
+Tittel: Revidert skolerute 2025/2026
+
+Vedtak:
+Forskrift om revidert skolerute Melhus kommune skoleåret 2025-26 vedtas og gjøres gjeldende fra 01.08.2025
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak.
+  - Rådmannens forslag: enstemmig stemmer

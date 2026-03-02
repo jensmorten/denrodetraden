@@ -1,0 +1,15 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 61/25
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport for grunnskolen i Malvik kommune 2024
+
+Vedtak:
+Tilstandsrapport for grunnskolen i Malvik kommune 2024 tas til orientering.
+
+Voteringer:
+- Votering om innstillingen til tilstandsrapporten for grunnskolen i Malvik kommune 2024
+  - For innstillingen: 31 stemmer

@@ -1,0 +1,22 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 80/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv - Rikard Spets
+
+Vedtak:
+Rikard Spets innvilges fritak fra følgende politiske verv i Malvik kommune:
+ Varaordfører
+ Vara til representantskapet i Trøndelag brann- og redningstjeneste IKS
+ Vara til representantskapet i Midt-Norge 110-sentral IKS
+ Vara til representantskapet i Innherred Renovasjon IKS
+ Medlem KS fylkesmøte
+ Interkommunalt politisk råd for Værnesregionen
+ Representant i partnerskapet Atlantbanens styringsgruppe
+
+Voteringer:
+- Votering over innstillingen om fritak for Rikard Spets fra politiske verv
+  - For innstillingen: 31 stemmer

@@ -1,0 +1,16 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 73/2025
+rodt_fremmet: False
+---
+
+Tittel: Lokal forskrift om tildeling av kommunale boliger i Stjørdal kommune
+
+Vedtak:
+Forslaget til forskrift sendes på høring i 8 uker
+
+Voteringer:
+- Votering over innstillingen om å sende forslaget til forskrift på høring i 8 uker
+  - For innstillingen: 36 stemmer
+  - Mot innstillingen: 0 stemmer

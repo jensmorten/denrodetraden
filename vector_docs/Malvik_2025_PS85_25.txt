@@ -1,0 +1,26 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 85/25
+rodt_fremmet: False
+---
+
+Tittel: Økonomireglement
+
+Vedtak:
+Kommunestyret vedtar forslag til økonomireglement for Malvik kommune gjeldende fra 4. november 2025, jamfør vedlegg 1, med følgende endringer:
+"Kjøp og salg av bebygd og ubebygd eiendommer for inntil 20 millioner kroner per eiendom inklusive ombyggingskostnader. Salg og erverv under 20 millioner kroner legges frem for formannskapet hvis det ansees å ha prinsipiell betydning". Endres til: "Kjøp og salg av bebygd og ubebygd eiendommer for inntil 10 millioner kroner per eiendom inklusive ombyggingskostnader. Salg og erverv under 10 millioner kroner legges frem for formannskapet hvis det ansees å ha prinsipiell betydning."
+"Enkeltprosjekt med en kostnadsramme fra og med 30 millioner kroner skal legges fram for kommunestyret som egen sak. Prosjekter med en lavere kostnadsramme skal også legges frem for kommunestyret dersom de er av strategisk eller prinsipiell betydning." Endres til: "Enkeltprosjekt med en kostnadsramme fra og med 20 millioner kroner skal legges fram for kommunestyret som egen sak. Prosjekter med en lavere kostnadsramme skal også legges frem for kommunestyret dersom de er av strategisk eller prinsipiell betydning."
+
+Alternative forslag:
+- Irén Aina Bastholm (Miljøpartiet De Grønne) på vegne av MDG, H, FrP, PP og INP: "Kjøp og salg av bebygd og ubebygd eiendommer for inntil 20 millioner kroner per eiendom inklusive ombyggingskostnader. Salg og erverv under 20 millioner kroner legges frem for formannskapet hvis det ansees å ha prinsipiell betydning". Endres til: "Kjøp og salg av bebygd og ubebygd eiendommer for inntil 10 millioner kroner per eiendom inklusive ombyggingskostnader. Salg og erverv under 10 millioner kroner legges frem for formannskapet hvis det ansees å ha prinsipiell betydning."
+"Enkeltprosjekt med en kostnadsramme fra og med 30 millioner kroner skal legges fram for kommunestyret som egen sak. Prosjekter med en lavere kostnadsramme skal også legges frem for kommunestyret dersom de er av strategisk eller prinsipiell betydning." Endres til: "Enkeltprosjekt med en kostnadsramme fra og med 20 millioner kroner skal legges fram for kommunestyret som egen sak. Prosjekter med en lavere kostnadsramme skal også legges frem for kommunestyret dersom de er av strategisk eller prinsipiell betydning."
+- Irén Aina Bastholm (Miljøpartiet De Grønne): Legges til i avsnittet om kostnadsramme P85: Hvis sluttkostnad for et prosjekt kommer til å overstige beregnet sluttkostnad med minst 30 millioner skal det legges frem til politisk behandling.
+
+Voteringer:
+- Votering over endringsforslaget fra Irén Aina Bastholm (MDG) på vegne av MDG, H, FrP, PP og INP
+  - For: 28 stemmer
+  - Imot: 3 stemmer
+- Votering over innstillingen til kommunestyret
+  - For: 31 stemmer
+  - Imot: 0 stemmer

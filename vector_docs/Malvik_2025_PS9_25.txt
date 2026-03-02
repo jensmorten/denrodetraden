@@ -1,0 +1,16 @@
+METADATA:
+kommune: Malvik
+year: 2025
+saksnummer: PS 9/25
+rodt_fremmet: False
+---
+
+Tittel: Oppnevning av nytt medlem til brukerutvalget
+
+Vedtak:
+1.Som nytt medlem til brukerutvalget i Malvik kommune velges Jon Arne Leistad.
+2.Som nytt 4.varamedlem til brukerutvalget velges Torkild Lønvik.
+
+Voteringer:
+- Votering om kommunedirektørens innstilling til nytt medlem og 4.varamedlem til brukerutvalget
+  - For innstillingen: 31 stemmer

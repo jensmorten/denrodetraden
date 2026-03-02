@@ -1,0 +1,22 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 56/25
+rodt_fremmet: False
+---
+
+Tittel: Dagsturhytte i Melhus ny behandling
+
+Vedtak:
+Kommunestyret vedtar å utsette dagsturhytta til utenfor rammeavtalen med fylkeskommunen på 2 år. Kommunestyret behandler opsjon i avtalen ved budsjettbehandling 2027. Kommunestyret ønsker ikke at det blir brukt ressurser på denne saken frem til budsjettbehandlingen i 2027, med bakgrunn i den økonomiske situasjonen i kommunen. Melhus kommunen har forpliktelser gjennom CRPD-konvensjonen, og ber rådmannen gjøre tilgangen/tilkomsten fram til hytta tilgjengelig for rullestolbrukere, og beskrive kostnadene for tiltaket.
+
+Alternative forslag:
+- Kjetil Blokkum (H) på vegner av H, FrP, ML og PP: Melhus kommune kan ikke prioritere de utgiftene som en dagsturhytte tross alt koster, og trekker seg fra prosjektet.
+- Rasmus Stafne Kjøsen (SV) på vegne av SV: Kommunestyret vedtar å utsette dagsturhytta til utenfor rammeavtalen med fylkeskommunen på 2 år. Kommunestyret behandler opsjon i avtalen ved budsjettbehandling 2027. Kommunestyret ønsker ikke at det blir brukt ressurser på denne saken frem til budsjettbehandlingen i 2027, med bakgrunn i den økonomiske situasjonen i kommunen. Melhus kommunen har forpliktelser gjennom CRPD-konvensjonen, og ber rådmannen gjøre tilgangen/tilkomsten fram til hytta tilgjengelig for rullestolbrukere, og beskrive kostnadene for tiltaket.
+
+Voteringer:
+- Votering over formannskapets innstilling i første punkt
+  - Formannskapets innstilling: 0 stemmer
+- Votering mellom forslag fra Kjetil Blokkum og alternativt forslag fra Rasmus Stafne Kjøsen
+  - Forslag fra Kjetil Blokkum (H): 17 stemmer
+  - Alternativt forslag fra Rasmus Stafne Kjøsen (SV): 20 stemmer

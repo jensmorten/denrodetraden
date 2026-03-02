@@ -1,0 +1,19 @@
+METADATA:
+kommune: Stjørdal
+year: 2025
+saksnummer: PS 13/25
+rodt_fremmet: False
+---
+
+Tittel: Eierskapsmelding 2025
+
+Vedtak:
+Kommunestyret godkjenner eierskapsmeldingen 2025.
+
+Alternative forslag:
+- Opposisjonen: Kommunestyret bør utarbeide en mer detaljert handlingsplan for eierskap og investeringer.
+
+Voteringer:
+- Godkjenning av eierskapsmeldingen 2025
+  - Enstemmig godkjenning: 27 stemmer
+  - Avslag: 3 stemmer

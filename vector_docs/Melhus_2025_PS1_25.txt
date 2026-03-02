@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 1/25
+rodt_fremmet: False
+---
+
+Tittel: Endring av vedtak for permisjon fra politiske verv - Esten Bakken
+
+Vedtak:
+Esten Bakke (Ap) sin permisjonsperiode fra politiske verv endres (iht representantens søknad datert 28.11.23), til 01.01.2024 tom 31.12.2024. Representanten vil fra og med 01.01.2025 og ut perioden gjeninntre som følgende: Som 1. vara for Arbeiderpartiet i Kommunestyret. Som 4. vara for Arbeiderpartiet i Utvalg for helse, oppvekst og kultur (UHOK).
+
+Voteringer:
+- Votering over valgnemndas innstilling.
+  - Valgnemndas innstilling: enstemmig stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: Melhus
+year: 2025
+saksnummer: PS 3/25
+rodt_fremmet: False
+---
+
+Tittel: Fritak fra politiske verv - Hanne Aarhaug
+
+Vedtak:
+Hanne Aarhaug (H) innvilges fritak fra sine politiske verv i kommunestyret og utvalg for helse, oppvekst og kultur (UHOK) (fast møtende representant etter fritak for Cato A. Sannes (H)). Fra dato for innvilget fritak og ut perioden er følgende gjeldende: Som ny fast representant i kommunestyret trer Kjell Arne Stokke inn. Som Høyres vara nr. 9 inntrer Sturla Langørgen i kommunestyret. Som Høyres vara nr. 10 inntrer Ingeborg Gaustad Pettersen som ny siste vara i kommunestyret. Som ny fast representant for Høyre i UHOK inntrer Kristin Kvaal Berg (H). Som ny siste vara til formannskapet inntrer Kjell Arne Stokke (H).
+
+Voteringer:
+- Votering over valgnemndas innstilling om fritak for Hanne Aarhaug og nye representanter/varaer.
+  - Valgnemndas innstilling: enstemmig stemmer
