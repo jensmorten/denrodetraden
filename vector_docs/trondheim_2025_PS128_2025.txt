@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 128/2025
+rodt_fremmet: False
+---
+
+Tittel: Årsrapport 2024 for Trondheim kommunale pensjonskasse
+
+Vedtak:
+Bystyret tar årsrapporten for 2024 fra Trondheim kommunale pensjonskasse til orientering.
+
+Voteringer:
+- Votering over innstillingen om å ta årsrapporten til orientering.
+  - Innstillingen: enstemmig stemmer

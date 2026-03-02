@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 175/2025
+rodt_fremmet: False
+---
+
+Tittel: Høyere aksjeandel i Trondheim kommunes kraftfond (TKK)
+
+Vedtak:
+Saken ble utsatt i bystyrets møte 28. august 2025.
+
+Voteringer:
+- Votering om utsettelse av saken.
+  - Utsette saken: flertall stemmer
+  - Ikke utsette saken: mindretall stemmer

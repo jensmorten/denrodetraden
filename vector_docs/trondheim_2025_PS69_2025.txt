@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 69/2025
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding for mangfoldsrådet 2024
+
+Vedtak:
+Saken ble utsatt i bystyrets møte 27. mars 2025.
+
+Voteringer:
+- Votering om å utsette saken
+  - Utsette saken: flertall stemmer
+  - Ikke utsette saken: mindretall stemmer

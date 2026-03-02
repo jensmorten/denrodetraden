@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 184/2025
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg til utvalgene
+
+Vedtak:
+Kontrollutvalget (AP/SV/R/uavh): 1. Gjermund Gorset (AP) 2. Erling Eide Hustvedt (AP) 3. Jenny Nordaune (SV) 4. Solveig Sandsør (PP) (Nestleder) 5. Michael Momyr (H) 6. Magne Mæhre (V) (ekstern) 7. Bente Årbogen Andersen (AP) (ekstern). Vara for kontrollutvalget (AP/SV/R/uavh): For 1-2: Anne Sophie Hunstad (AP), Randi Spets (AP), Per-Arild Lyng (AP). For 3: Nisrin El Morabit (SV), Arve Sletten (R), Toril Indegård (SV) (SH+FrP). For 4: Rolf Erik Falk Larsen (PP), Elisabeth Solberg (PP). For 5: Christian Wiig (H), Torill Strand (H), Terje Ekle (H). For 6 (eksterne): Anita Utseth, Ole Arvid Brønmo, Ole Andreas Aftret. For 7 (eksterne): Emilie Græsli, Aina Holst, Oddny Estenstad.
+
+Voteringer:
+- Votering over innstillingen om nyvalg til utvalgene.
+  - Innstillingen: Enstemmig stemmer

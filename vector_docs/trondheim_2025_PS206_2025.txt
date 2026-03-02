@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 206/2025
+rodt_fremmet: False
+---
+
+Tittel: Lovlighetskontroll av bystyrets sak FO 34/25
+
+Vedtak:
+Bystyret opprettholder sitt vedtak av 28.08.2025 i sak: 34/25 | Medlemsforslag - Kommunens investeringer ut av Israels krigføring og ulovlig okkupasjon. Saken sendes til Statsforvalteren i Trøndelag for lovlighetskontroll.
+
+Alternative forslag:
+- Mats Ulseth (H): Bystyret opphever sitt vedtak av 28.08.25 i sak 34/25.
+
+Voteringer:
+- Alternativ votering mellom innstillingen og Ulseths forslag om å oppheve vedtaket.
+  - Innstillingen (opprettholde vedtaket): 43 stemmer
+  - Ulseths forslag (oppheve vedtaket): 24 stemmer

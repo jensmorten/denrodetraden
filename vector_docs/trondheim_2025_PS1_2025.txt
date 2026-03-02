@@ -1,0 +1,48 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 1/2025
+rodt_fremmet: False
+---
+
+Tittel: Felles strategi for utvikling av Midtbyen 2024-2030
+
+Vedtak:
+Bystyret vedtar “Felles strategi for utvikling av Midtbyen 2024-2030” datert 04.10.24.
+Bystyret ber om at partene utarbeider en handlingsplan for oppfølging av strategien, som viser realistiske tiltak og at det årlig rapporteres på disse.
+Stryking avsnitt 3 under bærekraftsmål nr 11, delmål 2.
+Strykning av "eksisterende" i avsnitt 3 under bærekraftsmål nr 11, delmål 2.
+Reduserte parkeringsmuligheter på gateplan skal kompenseres med økt bruk og utvikling av parkeringshus i Midtbyen og sentrumsnære områder.
+Handlingsplanen skal vedtas av bystyret.
+Bystyret ber om at universell utforming av Midtbyen tas inn i arbeidet med handlingsplanene.
+Bystyret ber om at samarbeid med og involvering av studentfrivilligheten må inkluderes i arbeidet med handlingsplanene.
+Bystyret ber byrådet om å ha dialog med kirkene i Midtbyen og bispedømmet for å få til gode synergieffekter av kirkenes ulike kulturuttrykk, aktiviteter og ressurser i arbeidet med handlingsplanene frem mot Nasjonaljubileet.
+Bystyret ber om at denne strategien oppdateres årlig med et klart og aktivt språk for å tydelig kommunisere våre mål og tiltak.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Følgende strykes fra avsnitt 3 under bærekraftsmål nr 11, delmål 2: Reduserte parkeringsmuligheter på gateplan skal kompenseres med økt bruk og utvikling av eksisterende parkeringshus i Midtbyen og sentrumsnære områder.
+- Jenny Nordaune (SV): Bystyret ber om at universell utforming av midtbyen tas inn i arbeidet med handlingsplanene.
+- Jenny Nordaune (SV): Bystyret ber om at samarbeid med og involvering av studentfrivilligheten må inkluderes i arbeidet med handlingsplanene.
+- Majen Helen Sævik (KrF) på vegne av KrF, SP, PP, MDG, H, V: Bystyret ber byrådet om å ha dialog med kirkene i Midtbyen og bispedømmet for å få til gode synergieffekter av kirkenes ulike kulturuttrykk, aktiviteter og ressurser i arbeidet med handlingsplanene frem mot Nasjonaljubileet.
+- Elin Marie Andreassen (FrP): Handlingsplanen skal vedtas av bystyret.
+
+Voteringer:
+- Innstillingen unntatt avsnitt 3 (som omhandler bærekraftsmål nr. 11)
+  - For: 64 stemmer
+  - Mot: 3 stemmer
+- FrPs forslag til innstillingens avsnitt om bærekraftsmål nr. 11
+  - For: 4 stemmer
+  - Mot: 63 stemmer
+- Innstillingens avsnitt om bærekraftsmål
+  - For: 53 stemmer
+  - Mot: 14 stemmer
+- Nordaunes forslag om "universell utforming"
+  - For: enstemmig stemmer
+- Nordaunes forslag om "Studentkultur"
+  - For: enstemmig stemmer
+- Sæviks forslag om "Kirkene som ressurs i Midtbyen"
+  - For: 63 stemmer
+  - Mot: 4 stemmer
+- Andreassens tilleggsforslag "Tillegg til punkt 2: Bystyret vedtar handlingsplanen"
+  - For: 64 stemmer
+  - Mot: 3 stemmer

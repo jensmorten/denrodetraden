@@ -1,0 +1,53 @@
+{
+  "tittel": "Etterlevelseskontroll - Dokumentstyring i Kvaliteket",
+  "innstilling": [
+    "Bystyret er kritisk til at kommunens bruk av Kvaliteket ikke er tilfredsstillende, og at Kvaliteket oppleves som lite intuitivt, uoversiktlig, rotete og uoppdatert. Bystyret mener det er uheldig at det ikke er gitt systematisk opplæring i bruk av Kvaliteket de siste årene.",
+    "Bystyret mener det er utilfredsstillende at mange rutiner og prosedyrer har passert revisjonsfristen, og ikke er blitt godkjent eller endret siden 2018, og at det på grunn av tekniske begrensninger ikke er mulig å tilpasse systemet til ny organisasjonsstruktur etter innføringen av parlamentarisme.",
+    "Bystyret mener det er særdeles bekymringsverdig at kvalitekets utforming gjør det vanskelig, og tidkrevende å melde avvik. Bystyret ber derfor byrådet komme tilbake med en sak som vurderer anskaffelse av et nytt avvikssystem. Det forutsettes at en ny eventuell ny anskaffelse utføres i samarbeid med hovedtillitsvalgte og verneombud. Det forutsettes at administrasjonsutvalget involveres i prosessen.",
+    "Bystyret ber byråden melde tilbake til kontrollutvalget om hvordan etterlevelseskontrollen er fulgt opp innen 31.12.2025.",
+    "Bystyret tar forøvrig rapporten til orientering."
+  ],
+  "vedtak": [
+    "Bystyret er kritisk til at kommunens bruk av Kvaliteket ikke er tilfredsstillende, og at Kvaliteket oppleves som lite intuitivt, uoversiktlig, rotete og uoppdatert. Bystyret mener det er uheldig at det ikke er gitt systematisk opplæring i bruk av Kvaliteket de siste årene.",
+    "Bystyret mener det er utilfredsstillende at mange rutiner og prosedyrer har passert revisjonsfristen, og ikke er blitt godkjent eller endret siden 2018, og at det på grunn av tekniske begrensninger ikke er mulig å tilpasse systemet til ny organisasjonsstruktur etter innføringen av parlamentarisme.",
+    "Bystyret mener det er særdeles bekymringsverdig at kvalitekets utforming gjør det vanskelig, og tidkrevende å melde avvik. Bystyret ber derfor byrådet komme tilbake med en sak som vurderer anskaffelse av et nytt avvikssystem. Det forutsettes at en ny eventuell ny anskaffelse utføres i samarbeid med hovedtillitsvalgte og verneombud. Det forutsettes at administrasjonsutvalget involveres i prosessen.",
+    "Bystyret ber byråden melde tilbake til kontrollutvalget om hvordan etterlevelseskontrollen er fulgt opp innen 31.12.2025.",
+    "Bystyret tar forøvrig rapporten til orientering."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mats Ramo (H) på vegne av H, R",
+      "tekst": "Nytt punkt 3, punkt 3 blir 4 og 4 blir 5. Bystyret mener det er særdeles bekymringsverdig at kvalitekets utforming gjør det vanskelig, og tidkrevende å melde avvik. Bystyret ber derfor byrådet komme tilbake med en sak som vurderer anskaffelse av et nytt avvikssystem. Det forutsettes at en ny eventuell ny anskaffelse utføres i samarbeid med hovedtillitsvalgte og verneombud. Det forutsettes at administrasjonsutvalget involveres i prosessen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "rødt_støttet": "Innstillingen",
+      "rødt_var_på_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Ramo (H) på vegne av H, R.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Ramo",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Tilleggsforslag fra Ramo",
+      "rødt_støttet": "Tilleggsforslag fra Ramo",
+      "rødt_var_på_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "28.08.2025",
+  "saksnummer_ps": "PS 171/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,21 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 9/2025
+rodt_fremmet: True
+---
+
+Tittel: Opprettelse av æresborgerutvalg og tilhørende reglement
+
+Vedtak:
+Bystyret vedtar å opprette et æresborgerutvalg jf. kommuneloven § 5-1, d) og § 5-7.
+Bystyret vedtar vedlagte reglement for æresborgerutvalget. Minst ett medlem skal være fra opposisjonen.
+Æresborgerutvalg og tilhørende reglement trer i kraft fra 21. november 2024.
+
+Alternative forslag:
+- Roald Arentz (R): ['Bystyret vedtar å opprette et hedersprisutvalg etter modell fra den gamle hederspriskomitéen, jf. kommuneloven § 5-1, d) og § 5-7.', 'Byrådet kommer tilbake til bystyret med forslag til reglement for hedersprisutvalget. Minst ett medlem skal være fra opposisjonen.']
+
+Voteringer:
+- Alternativ votering mellom innstillingen og Rødts alternative forslag
+  - Innstillingen: 37 stemmer
+  - Rødts alternative forslag: 30 stemmer

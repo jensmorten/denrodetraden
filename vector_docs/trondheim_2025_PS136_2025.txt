@@ -1,0 +1,73 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 136/2025
+rodt_fremmet: False
+---
+
+Tittel: 1. økonomirapport 2025
+
+Vedtak:
+Bystyret vedtok byrådets forslag, slik det er gjengitt lenger ned, med følgende 9 tillegg/endringer:
+1. Styrking boa: Øke driftsbudsjettet til boa med 15 millioner, i tråd med vedtak i sak PS 135/25. Økningen i inneværende år dekkes av disposisjonsfondet.
+2. Styrking av helse- og velferdssentrene: Øke driftsbudsjettet til sykehjem og omsorgsboliger med 15 millioner, i tråd med vedtak i sak PS 135/25. Økningen i inneværende år dekkes av disposisjonsfondet.
+3. Sentral bemanningsplanlegging: Byrådet skal legge frem en evaluering av sentral bemanningsplanlegging i samarbeid med enhetsledere og ansatte.
+4. Redusere sentral administrasjon: Byrådet skal legge frem en sak om hvordan administrative funksjoner kan reduseres med 4-10 %, og redegjøre for konsekvenser.
+5. Byrådet må sikre at midler blir brukt i tråd med vedtak: Byrådet skal sikre at midler til bemanning faktisk når ut uavkortet til enhetene.
+6. Sikre videre drift ved Kystad HVS: Øke tilskuddet med et engangsbeløp på 1,43 millioner til Kystad HVS, finansiert av disposisjonsfondet.
+7. Oppfølging av budsjettvedtak om bydelsbasseng øst og ishall/flater: Byrådet skal gå i dialog med private aktører om realisering av bydelsbasseng øst og ny ishall/flere isflater, og sørge for tilstrekkelig informasjon til bystyret.
+8. Avdelingsledere innenfor helse- og velferdsområdet: Avdelingsledere skal bruke 20 % av sin stilling på avdelingen, også kveld og helg. Byrådet skal følge opp dette.
+9. Helse- og avlastningstjenesten: Bevilge 4 millioner til helse- og avlastningstjenesten og avlastningstjenester for barn og unge i 2025, finansiert av disposisjonsfondet. Byrådet skal revidere kontrakter, rekruttere flere avlastningshjem og utvikle gode tiltak i kommunal regi.
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV) pva SV, R: Bystyret vedtar innstillingens punkt 1 om endringer av driftsbudsjettet for 2025 med følgende tillegg: BOA økes med 61,4 millioner kroner. BFT økes med 10 millioner kroner til helse- og avlastningstjenesten. Økningene finansieres med: økt inntekt fra eiendomsskatt tilsvarende 40 millioner kroner (skattesatsen økes 1 promillepoeng fra 1. juli 2025), 38 millioner kroner i ekstra statlige overføringer gjennom revidert nasjonalbudsjett, 3,4 millioner kroner fra disposisjonsfondet.
+- Håkon Einarsve (Ap): Bystyret bevilger 38 millioner ekstra til økt grunnbemanning i pleien på byens helse og velferdssenter. Midlene hentes fra den ekstra bevilgningen Trondheim kommune får gjennom revidert nasjonalbudsjett.
+- Håkon Einarsve (Ap): Bystyret vedtar at byrådet skal legge frem en opptrappingsplan for antall ansatte i eldreomsorgen, før fremleggelsen av budsjettet for 2026. Opptrappingsplanen skal vise hvordan man kan få en reell økning i antall ansatte over veksten i demografi i løpet av inneværende valgperiode.
+- Håkon Einarsve (Ap): For å kompensere for manglende budsjettmidler grunnet feilberegning av årsverkssatsene, bevilger bystyret 15 millioner kroner ekstra til blant annet aktivitet og bemanning i BOA. Pengene hentes fra disposisjonsfondet.
+- Silje Naper Salomonsen (SV) pva SV, Ap, R: Bystyret bevilger 6 millioner kroner fra disposisjonsfondet i solidaritetsmidler til humanitære organisasjoner. Driftsbudsjett for medisinske tjenester tilføres 5 millioner kroner fra disposisjonsfondet for å dekke tre doser med vaksine mot smittsom hjernehinnebetennelse for innbyggere født i 2007, høsten 2025. Driftsbudsjett for kunst og kultur tilføres 0,5 millioner kroner fra disposisjonsfondet til AKKS for gratisplasser og møteplassen Snakks.
+- Berit Tiller (H) pva H, FrP, KrF, MDG, PP, Sp, V: Tilleggsforslag 1-9: (Se vedtakspunktene 1-9, identisk med de som ble vedtatt)
+
+Voteringer:
+- Salomonsens alternative forslag pkt 1 (SV, R): Økt BOA og BFT, finansiert med økt eiendomsskatt, statlige overføringer og disposisjonsfond.
+  - Salomonsens alternative forslag: 13 stemmer
+  - Flertallets forslag: 54 stemmer
+- Einarsves alternative forslag pkt 1: 15 mill ekstra til aktivitet og bemanning i BOA.
+  - Einarsves alternative forslag: 30 stemmer
+  - Flertallets forslag: 37 stemmer
+- Innstillinga pkt 1 (driftsbudsjettendringer 2025)
+  - Innstillinga pkt 1: 37 stemmer
+  - Mot: 30 stemmer
+- Innstillinga pkt 2-9 (investeringsbudsjett og fullmakter)
+  - Enstemmig vedtatt: 67 stemmer
+- Einarsves tilleggsforslag (økt grunnbemanning)
+  - Einarsves tilleggsforslag: 30 stemmer
+  - Flertallets forslag: 37 stemmer
+- Einarsves tilleggsforslag (opptrappingsplan eldreomsorg)
+  - Einarsves tilleggsforslag: 30 stemmer
+  - Flertallets forslag: 37 stemmer
+- Tillers tilleggsforslag pkt 1 (styrking boa)
+  - Enstemmig vedtatt: 67 stemmer
+- Tillers tilleggsforslag pkt 2 (styrking helse- og velferdssentrene)
+  - Enstemmig vedtatt: 67 stemmer
+- Tillers tilleggsforslag pkt 3 (sentral bemanningsplanlegging)
+  - Tillers tilleggsforslag pkt 3: 58 stemmer
+  - Mot: 9 stemmer
+- Tillers tilleggsforslag pkt 4 (redusere sentral administrasjon)
+  - Tillers tilleggsforslag pkt 4: 57 stemmer
+  - Mot: 10 stemmer
+- Tillers tilleggsforslag pkt 5 (midler til bemanning brukes i tråd med vedtak)
+  - Enstemmig vedtatt: 67 stemmer
+- Tillers tilleggsforslag pkt 6 (Kystad HVS)
+  - Tillers tilleggsforslag pkt 6: 54 stemmer
+  - Mot: 13 stemmer
+- Tillers tilleggsforslag pkt 7 (bydelsbasseng øst og ishall/flater)
+  - Tillers tilleggsforslag pkt 7: 37 stemmer
+  - Mot: 30 stemmer
+- Tillers tilleggsforslag pkt 8 (avdelingsledere helse- og velferdsområdet)
+  - Tillers tilleggsforslag pkt 8: 54 stemmer
+  - Mot: 13 stemmer
+- Tillers tilleggsforslag pkt 9 (helse- og avlastningstjenesten)
+  - Enstemmig vedtatt: 67 stemmer
+- Salomonsens tilleggsforslag (humanitær bistand)
+  - Salomonsens tilleggsforslag: 30 stemmer
+  - Flertallets forslag: 37 stemmer

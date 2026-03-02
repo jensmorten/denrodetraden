@@ -1,0 +1,24 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 204/2025
+rodt_fremmet: False
+---
+
+Tittel: Innbyggerforslag - Etablering av sykkelpark (pumptrack) for barn og unge på Heimdal
+
+Vedtak:
+Bystyret ber byrådet innarbeide tiltaket i prioriteringslista for bruk av nærmiljømidler. Oppvekst- og kulturutvalget orienteres om prioriteringslisten. Bystyret ber byrådet gå i dialog med innbyggerne og FAU i nærområdet om etablering av sykkelpark for barn og unge på Heimdal, og vurdere mulighetene for et prøveprosjekt.
+
+Alternative forslag:
+- EfiaMarie Damba (SV) på vegne av SV, Ap: Bystyret forventer en utredning av kostnader og lokasjon innen slutten av første halvdel av 2026.
+- Efia Marie Damba (SV) på vegne av SV, Ap: Bystyret ber byrådet gå i dialog med innbyggerne og FAU i nærområdet om etablering av sykkelpark for barn og unge på Heimdal, og vurdere mulighetene for et prøveprosjekt.
+
+Voteringer:
+- Votering over innstillingen.
+  - Innstillingen: enstemmig stemmer
+- Votering over Dambas tilleggsforslag 'Utredning av kostnader og lokasjon'.
+  - For forslaget: 33 stemmer
+  - Mot forslaget: 34 stemmer
+- Votering over Dambas tilleggsforslag 'Dialog med innbyggerne og FAU i nærområdet'.
+  - For forslaget: enstemmig stemmer

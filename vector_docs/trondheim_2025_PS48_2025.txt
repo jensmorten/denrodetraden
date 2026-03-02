@@ -1,0 +1,34 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 48/2025
+rodt_fremmet: True
+---
+
+Tittel: Det interne arbeidsmarkedet
+
+Vedtak:
+Det interne arbeidsmarkedet (DIA) avvikles fra og med 1.4.2025.
+Byrådet skal sikre at enheter i Trondheim kommune som står ovenfor en driftsinnskrenkning eller et rasjonaliseringstiltak mottar nødvendig faglig bistand gjennom hele prosessen. Dette for å sikre at det foregår på en ryddig og lovmessig måte.
+Vi imøteser en eventuell uttalelse fra administrasjonsutvalget frem mot bystyrebehandling.
+Bystyret ber byrådet sørge for at alle enheter jevnlig vurderer om de kan tilby en passende stilling til ansatte som har blitt overtallige i kommunen for å redusere tiden de står uten fast tjenesteplassering.
+
+Alternative forslag:
+- Mona Berger (SV): Bystyret utsetter saken.
+- Roald Arentz (R): Det interne arbeidsmarkedet beholdes, og utvikles i tråd med kommunens behov.
+- Jørn Arve Flått (Ap): Saken sendes over til Helse- og velferdsutvalget som har innstillingsmyndighet i saker som berører arbeidsgiverpolitikk.
+- Majen Helen Sævik (KrF) på vegne av KrF, MDG, H: Bystyret ber byrådet sørge for at alle enheter jevnlig vurderer om de kan tilby en passende stilling til ansatte som har blitt overtallige i kommunen for å redusere tiden de står uten fast tjenesteplassering.
+
+Voteringer:
+- Utsettelsesforslag fra Mona Berger (SV)
+  - Utsettelsesforslag: 30 stemmer
+  - Mot utsettelse: 37 stemmer
+- Alternativt forslag fra Jørn Arve Flått (Ap) "Korrekt behandlingslinje"
+  - Korrekt behandlingslinje: 31 stemmer
+  - Mot korrekt behandlingslinje: 36 stemmer
+- Alternativ votering mellom innstillingen og Arentz forslag (R)
+  - Innstillingen: 37 stemmer
+  - Arentz forslag: 30 stemmer
+- Tilleggsforslag fra Sævik (KrF) på vegne av KrF, MDG, H
+  - Tilleggsforslag: 37 stemmer
+  - Mot tilleggsforslag: 30 stemmer

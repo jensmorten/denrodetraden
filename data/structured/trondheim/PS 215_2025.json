@@ -1,0 +1,28 @@
+{
+  "tittel": "Valg av midlertidig varaordfører",
+  "innstilling": "Bystyret oppnevner Gro Eide som midlertidig varaordfører i perioden 05.01.2026 til 27.03.2026",
+  "vedtak": "Bystyret oppnevner Gro Eide som midlertidig varaordfører i perioden 05.01.2026 til 27.03.2026",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å oppnevne Gro Eide som midlertidig varaordfører.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (Gro Eide)",
+          "stemmer": 38
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Innstillingen (Gro Eide)",
+      "hvilket_alternativ_Rødt_støttet": "Mot innstillingen",
+      "Rødt_var_på_vinner_eller_taper_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.10.2025",
+  "saksnummer_ps": "PS 215/2025",
+  "rodt_fremmet_forslag": false
+}

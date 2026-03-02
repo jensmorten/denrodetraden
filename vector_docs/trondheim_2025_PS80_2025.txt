@@ -1,0 +1,67 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 80/2025
+rodt_fremmet: True
+---
+
+Tittel: Fordeling av verbalforslag fra budsjettbehandlinga for 2025
+
+Vedtak:
+{'nummer': 1, 'tekst': 'Bystyret avviser forslaget.'}
+{'nummer': 2, 'tekst': 'Bystyret avviser forslaget.'}
+{'nummer': 3, 'tekst': 'Bystyret avviser forslaget.'}
+{'nummer': 4, 'tekst': 'Bystyret avviser forslaget.'}
+{'nummer': 5, 'tekst': 'Bystyret avviser forslaget.'}
+{'nummer': 6, 'tekst': 'Bystyret avviser forslaget.'}
+{'nummer': 7, 'tekst': 'Bystyret avviser forslaget.'}
+{'nummer': 8, 'tekst': 'Bystyret ber byrådet i sak om ressursfordelingsmodell til skole vurdere om tildelingsmodellen for midler til spesialpedagogikk i skolen er treffsikker med tanke på behovet de ulike skolene og bydelene har. Saken må belyse andre alternativer for å fordele levekårsmidlene og om vi har riktig innretning på tildeling til individuell tilrettelegging.'}
+{'nummer': 9, 'tekst': 'Bystyret avviser forslaget.'}
+{'nummer': 10, 'tekst': 'Bystyret avviser forslaget.'}
+{'nummer': 11, 'tekst': 'Bystyret avviser forslaget.'}
+
+Alternative forslag:
+- Roald Arentz (R), på vegne av R, SV: Alternativ til forslag 3: Livssynsåpne seremonirom: En stadig større del av befolkningen ønsker å benytte livssynsåpne seremonirom ved bisettelser, men vi har ikke tilstrekkelig kapasitet til dette i dag. I påvente av at det etableres flere slike seremonirom i offentlig regi, ber bystyret byrådet om å etablere en leieavtale for at privat eide seremonirom kan benyttes uten den ekstra kostnaden dette medfører for den enkelte.
+- Roald Arentz (R), på vegne av R, SV: Alternativ til forslag 4: Kommunen som gravplassmyndighet: Bystyret ber byrådet legge fram en sak som beskriver hvordan kommunen kan ta over Kirkelig fellesråds rolle som gravplassmyndighet.
+- Roald Arentz (R), på vegne av R, SV: Alternativ til forslag 5: Periodemål også for private barnehager: Periodemålene for oppvekst og utdanning stiller krav til de kommunale barnehagene og forplikter barnehagene til å følge opp Trondheimsløftet. Vi forventer at det stilles samme krav til de private barnehagene i kommunen, slik at vi kan sikre et helhetlig løft i oppveksttjenestene i kommunen. Bystyret ber byrådet sikre at de samme forpliktelsene i periodemål 1 og 2 for oppvekst og utdanning stilles til de private barnehagene i kommunen.
+- Roald Arentz (R), på vegne av R, SV: Alternativt forslag 6: Forsøksprosjekt med leksefri og leksehjelp: Hjemmelekser skaper forskjeller mellom elever med ressurssterke foreldre som har tid til å følge opp, og de elevene med foreldre som av ulike årsaker ikke kan hjelpe til med hjemmelekser. Bystyret ønsker derfor at mest mulig av skolearbeidet skal skje på skolen, hvor alle elever uansett forholdene på hjemmebane får støtte. I 2019 satte kommunen i gang et prøveprosjekt med leksefri og leksehjelp på fire utvalgte skoler, etter initiativ fra nåværende oppvekstbyråd. Bystyret ber byrådet gjenoppta prosjektet og dokumentere effekten av det.
+- Roald Arentz (R), på vegne av R, SV: Alternativt forslag 7: Utredning av mat i barnehagene: Mat er en viktig del av omsorgstilbudet i barnehagene våre. Det er ulike mattilbud, ulike fasiliteter for å lage mat og ulik kompetanse i barnehagene. Bystyret ber om en sak som omhandler mat i barnehagene. Saken må synliggjøre hvordan ordningene fungerer i dag for både ansatte og barna, og hvordan man kan forbedre eller utvide ordningene. Kostnadsberegninger må følge de ulike mulighetene for forbedringer eller utvidelser.
+- Kirsti Tømmervold (Ap): Alternativ forslag 10: Utvide kapasiteten ved de byomfattende tilbudene i Trondheimsskolen: Økt pågang av funksjonshemmede elever med omfattende hjelpebehov i Trondheimskolen viser at de byomfattende tilbudene ikke har kapasitet til å ivareta alle behov. Denne utviklingen har skoleeier sett over år. Et resultat av denne manglende kapasiteten er at elevenes nærskole kan bli satt i en faglig, økonomisk og ofte bygningsteknisk utfordring. Bystyret ber byrådet utrede om kapasiteten ved de byomfattende tilbudene bør utvides for å imøtekomme nåværende og framtidige behov. Ved for eksempel Dalgård skole og ressurssenter kan det allerede fra høsten 2025 opprettes ytterligere en gruppe med inntil 10 elever. Skolen har den kompetanse og erfaring dette krever.
+- Kirsti Tømmervold (Ap): Alternativt forslag 11: Inkluderingsmidler fra regjeringen: Regjeringen har bevilget 100 millioner kroner til barn og unge i idretten for å øke deltakelsen og redusere kostnadene. Midlene skal spesielt støtte områder med lav inntekt. Midlene fra regjeringen er et tiltak for å redusere kostnader i idretten for familier med lavinntekt, og pengene bidrar sterkt til at idrettslag klarer å opprettholde et tilbud for denne sårbare målgruppen. Byrådet bes komme tilbake til oppvekst- og kulturutvalget med en plan for hvordan pengene fordeles mellom idrettslagene i Trondheim, og hvilke planer byrådet har for å inkludere flere i idretten i løpet av 2025.
+- Silje Naper Salomonsen (SV), på vegne av SV, R: Nr 1 Scenesnakk / Konsertbyen Trondheim: Scenesnakk har bidratt til å løfte fram de helårs konsertscenene vi har i Trondheim og synliggjøre bredden i konserttilbudet gjennom Konsertbyen Trondheim. Det er godt dokumentert at dette ikke bare gir rike konsertopplevelser, men også ringvirkninger til annet næringsliv i Trondheim, samt at det løfter frem nye artister. Bystyret ber byrådet fremme en sak som viser hvordan det kan sikres støtte til Scenesnakk også etter 2025, gjerne i samarbeid med næringslivet.
+- Silje Naper Salomonsen (SV), på vegne av SV, R: Nr 2 Frostadveien som lokalt bydelskulturhus: Frostadveien 2 er under etablering som et kulturhus med en rik variasjon av aktiviteter. Bystyret er opptatt av at det også må sikres at bygget fungerer som et bydelskulturhus hvor lokale aktører har tilgang på lokaler, som for eksempel arbeidsplasser. Bystyret ber byrådet i samarbeid med lokale aktører sikre at dette kommer på plass.
+- Silje Naper Salomonsen (SV), på vegne av SV, R: Nr 9 Kommunal botiltak som omsorgstiltak innen barnevern: I Institusjonsutvalgets NOU 2023:24 foreslås det å opprette kommunale botiltak som omsorgstiltak innen barnevernet. I Trondheim kommunens høringssvar ba man om at dette forslaget ble nærmere utredet, og at det må komme tydelig frem hvordan kommunale botiltak skal differensieres i forhold til statlige institusjoner og helsetjenester, både når det gjelder faglig innretning og økonomi. Bystyret ber byrådet gjennom KS samarbeidet eller andre relevante samarbeidsforum ta initiativ til denne utredningen.
+
+Voteringer:
+- Verbalforslag 1: Scenesnakk/konsertbyen. Alternativ votering mellom innstillingen og Salomonsens forslag.
+  - Innstillingen: 35 stemmer
+  - Salomonsens forslag: 32 stemmer
+- Verbalforslag 2: Frostaveien som lokalt bydelskulturhus. Alternativ votering mellom innstillingen og Salomonsens forslag.
+  - Innstillingen: 36 stemmer
+  - Salomonsens forslag: 31 stemmer
+- Verbalforslag 3: Livssynsåpne seremonirom. Alternativ votering mellom innstillingen og Arentz forslag.
+  - Innstillingen: 36 stemmer
+  - Arentz forslag: 31 stemmer
+- Verbalforslag 4: Kommunen som gravplassmyndighet. Alternativ votering mellom innstillingen og Arentz forslag.
+  - Innstillingen: 37 stemmer
+  - Arentz forslag: 30 stemmer
+- Verbalforslag 5: Periodemål også for private barnehager. Alternativ votering mellom innstillingen og Arentz forslag.
+  - Innstillingen: 37 stemmer
+  - Arentz forslag: 30 stemmer
+- Verbalforslag 6: Leksefri og leksehjelp. Alternativ votering mellom innstillingen og Arentz forslag.
+  - Innstillingen: 49 stemmer
+  - Arentz forslag: 18 stemmer
+- Verbalforslag 7: Mat i barnehagene. Alternativ votering mellom innstillingen og Arentz forslag.
+  - Innstillingen: 37 stemmer
+  - Arentz forslag: 30 stemmer
+- Verbalforslag 8: Fordelingen av midler til spesialpedagogikk. Enstemmig vedtak.
+  - Innstillingen: enstemmig stemmer
+- Verbalforslag 9: Kommunal botiltak som omsorgstiltak innen barnevern. Alternativ votering mellom Salomonsens forslag og innstillingen.
+  - Innstillingen: 37 stemmer
+  - Salomonsens forslag: 30 stemmer
+- Verbalforslag 10: Utvide kapasiteten ved de byomfattende tilbudene i Trondheimsskolen. Alternativ votering mellom Tømmervolds forslag og innstillingen.
+  - Innstillingen: 36 stemmer
+  - Tømmervolds forslag: 31 stemmer
+- Verbalforslag 11: Inkluderingsmidler fra regjeringen. Alternativ votering mellom Tømmervolds forslag og innstillingen.
+  - Innstillingen: 36 stemmer
+  - Tømmervolds forslag: 31 stemmer

@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 4/2025
+rodt_fremmet: False
+---
+
+Tittel: Samarbeidsavtale mellom Trondheim kommune og Råd for kunst og kultur i Trondheim
+
+Vedtak:
+Bystyret vedtar samarbeidsavtalen mellom Trondheim kommune og Råd for kunst og kultur i Trondheim, slik det kommer fram av vedlegg 1 i saken. Byråd for kultur, idrett og friluftsliv signerer samarbeidsavtalen på vegne av Trondheim kommune.
+
+Voteringer:
+- Votering over innstillingen om å vedta samarbeidsavtalen.
+  - Innstillingen: 63 stemmer
+  - Mot innstillingen: 4 stemmer

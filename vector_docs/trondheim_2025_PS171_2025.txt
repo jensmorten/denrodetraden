@@ -1,0 +1,24 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 171/2025
+rodt_fremmet: False
+---
+
+Tittel: Etterlevelseskontroll - Dokumentstyring i Kvaliteket
+
+Vedtak:
+Bystyret er kritisk til at kommunens bruk av Kvaliteket ikke er tilfredsstillende, og at Kvaliteket oppleves som lite intuitivt, uoversiktlig, rotete og uoppdatert. Bystyret mener det er uheldig at det ikke er gitt systematisk opplæring i bruk av Kvaliteket de siste årene.
+Bystyret mener det er utilfredsstillende at mange rutiner og prosedyrer har passert revisjonsfristen, og ikke er blitt godkjent eller endret siden 2018, og at det på grunn av tekniske begrensninger ikke er mulig å tilpasse systemet til ny organisasjonsstruktur etter innføringen av parlamentarisme.
+Bystyret mener det er særdeles bekymringsverdig at kvalitekets utforming gjør det vanskelig, og tidkrevende å melde avvik. Bystyret ber derfor byrådet komme tilbake med en sak som vurderer anskaffelse av et nytt avvikssystem. Det forutsettes at en ny eventuell ny anskaffelse utføres i samarbeid med hovedtillitsvalgte og verneombud. Det forutsettes at administrasjonsutvalget involveres i prosessen.
+Bystyret ber byråden melde tilbake til kontrollutvalget om hvordan etterlevelseskontrollen er fulgt opp innen 31.12.2025.
+Bystyret tar forøvrig rapporten til orientering.
+
+Alternative forslag:
+- Mats Ramo (H) på vegne av H, R: Nytt punkt 3, punkt 3 blir 4 og 4 blir 5. Bystyret mener det er særdeles bekymringsverdig at kvalitekets utforming gjør det vanskelig, og tidkrevende å melde avvik. Bystyret ber derfor byrådet komme tilbake med en sak som vurderer anskaffelse av et nytt avvikssystem. Det forutsettes at en ny eventuell ny anskaffelse utføres i samarbeid med hovedtillitsvalgte og verneombud. Det forutsettes at administrasjonsutvalget involveres i prosessen.
+
+Voteringer:
+- Votering over innstillingen.
+  - Innstillingen: enstemmig stemmer
+- Votering over tilleggsforslag fra Ramo (H) på vegne av H, R.
+  - Tilleggsforslag fra Ramo: enstemmig stemmer

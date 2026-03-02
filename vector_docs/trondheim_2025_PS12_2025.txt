@@ -1,0 +1,23 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 12/2025
+rodt_fremmet: True
+---
+
+Tittel: Avvikling av Miljølab
+
+Vedtak:
+1. Bystyret vedtar å avvikle dagens drift av Miljølab.
+2. For å opprettholde tilfredsstillende beredskap forutsetter bystyret at tidsbruken knyttet til analyse av vannprøver ikke endres utover dagens 24 timer som er dagens situasjon.
+
+Alternative forslag:
+- Roald Arentz (R) på vegne av R, Ap, SV: Bystyret vedtar å ikke avvikle Miljølab, men å videreføre kompetansen og beredskapen. En ny organisasjonsmodell kan vurderes - basert på dialog med ansatte og tillitsvalgte. Mulige effektiviseringstiltak kan være:
+- Å slå sammen dagens to laboratorier i felles lokaler på Høvringen renseanlegg.
+- Å konsentrere laboratorieoppdragene innen selvkostområdet og for ivaretakelse av den nasjonale beredskapen for overvåking av radioaktivt nedfall.
+- Å endre bemanningsplan i henhold til ny bestilling.
+
+Voteringer:
+- Alternativ votering mellom innstillingen og Røds forslag.
+  - Innstillingen: 37 stemmer
+  - Røds forslag: 30 stemmer

@@ -1,0 +1,53 @@
+{
+  "tittel": "Fritakssøknad - Kent Ranum (H)",
+  "innstilling": null,
+  "vedtak": "Bystyret innvilger fritak for ordfører Kent Ranum i den tidsperiode det er søkt om. I perioden innvilges det permisjon med godtgjøring.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Erling Moe (V)",
+      "tekst": "Bystyret innvilger fritak for ordfører Kent Ranum i den tidsperiode det er søkt om."
+    },
+    {
+      "forslagsstiller": "Jørn Arve Flått (AP)",
+      "tekst": "I fritaksperioden innvilges det permisjon med godtgjøring."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Venstres forslag om å innvilge fritak for ordfører Kent Ranum i den tidsperiode det er søkt om.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 52
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "For",
+      "hvilket_alternativ_Rødt_støttet": "Mot",
+      "Rødt_var_på": "taper-side"
+    },
+    {
+      "beskrivelse": "Votering over Aps tilleggsforslag om permisjon med godtgjøring i fritaksperioden.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 52
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "For",
+      "hvilket_alternativ_Rødt_støttet": "Mot",
+      "Rødt_var_på": "taper-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "28.08.2025",
+  "saksnummer_ps": "PS 186/2025",
+  "rodt_fremmet_forslag": false
+}

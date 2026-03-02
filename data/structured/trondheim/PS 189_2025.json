@@ -1,0 +1,28 @@
+{
+  "tittel": "Høyere aksjeandel i Trondheim kommunes kraftfond (TKK)",
+  "innstilling": "Finansreglementets rammer for forvaltning av Trondheim kommunes kraftfond endres slik:\na. Nøytral aksjeandel i TKK økes fra 25% til 35%\nb. Maksimal aksjeandel i TKK økes fra 30% til 40%\nc. Øvre ramme for valutarisiko i TKK økes fra 20% til 30%\nEndringen av forvaltningsrammene implementeres over tid, og på en slik måte at en oppnår spredning av risiko under iverksettelsen av vedtaket.",
+  "vedtak": "1. Finansreglementets rammer for forvaltning av Trondheim kommunes kraftfond endres slik:\na. Nøytral aksjeandel i TKK økes fra 25% til 35%\nb. Maksimal aksjeandel i TKK økes fra 30% til 40%\nc. Øvre ramme for valutarisiko i TKK økes fra 20% til 30%\n2. Endringen av forvaltningsrammene implementeres over tid, og på en slik måte at en oppnår spredning av risiko under iverksettelsen av vedtaket.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 64
+        },
+        {
+          "navn": "Rødts forslag (mot innstillingen)",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "hvilket_alternativ_Rødt_støttet": "Rødts forslag (mot innstillingen)",
+      "Rødt_var_på": "taper-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.10.2025",
+  "saksnummer_ps": "PS 189/2025",
+  "rodt_fremmet_forslag": false
+}

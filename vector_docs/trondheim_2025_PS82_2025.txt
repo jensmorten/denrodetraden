@@ -1,0 +1,30 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 82/2025
+rodt_fremmet: False
+---
+
+Tittel: Fredlybekken, øvre del, Utleirvegen - Klæbuvegen detaljregulering til sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Fredlybekken, øvre del, Utleirvegen – Klæbuveien, alternativ 1, som vist på kart i målestokk 1:1000, merket Trondheim kommune senest datert 29.4.2024 med bestemmelser senest datert 29.4.2024 og beskrevet i planbeskrivelsen, senest datert 29.4.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12. Bystyret ber om at gjennomføring sikres gjennom tinglyste avtaler der dette er mulig.
+
+Alternative forslag:
+- Svein Otto Nilsen (PP): Saken sendes tilbake til Byrådet. Med så stor usikkerhet på om Forurensingsforskrift § 16-1 (selvkost bestemmelsen) oppfylles i dette prosjektet bør ikke prosjektet vedtas uten at det er fremlagt et oversiktlig og rimelig korrekt anslag på de totale kostnadene for begge alternativer.
+- Elin Marie Andreassen (FrP): Bystyret vedtar forslag til detaljregulering av Fredlybekken, øvre del, Utleirvegen – Klæbuveien, alternativ 2, som vist på kart i målestokk 1:1000, merket Trondheim kommune senest datert 29.4.2024 med bestemmelser senest datert 29.4.2024 og beskrevet i planbeskrivelsen, senest datert 29.4.2024. Det gjøres følgende endringer i planen: - Offentlig blå/grønnstruktur reguleres ikke, og tas ut av plankart og bestemmelser. - Turveg reguleres ikke, og tas ut av plankart og bestemmelser. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+- Kirsti Tømmervold (Ap) på vegne av Ap, SP: Bystyret vedtar forslag til detaljregulering av Fredlybekken, øvre del, Utleirvegen – Klæbuveien, alternativ 2, som vist på kart i målestokk 1:1000, merket Trondheim kommune senest datert 29.4.2024 med bestemmelser senest datert 29.4.2024 og beskrevet i planbeskrivelsen, senest datert 29.4.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Nilsens forslag om tilbaksendelse
+  - Nilsens forslag: 28 stemmer
+  - Mot Nilsens forslag: 39 stemmer
+- Andreassens forslag
+  - Andreassens forslag: 10 stemmer
+  - Mot Andreassens forslag: 57 stemmer
+- Tømmervolds forslag
+  - Tømmervolds forslag: 28 stemmer
+  - Mot Tømmervolds forslag: 39 stemmer
+- Innstillingen
+  - Innstillingen: 40 stemmer
+  - Mot innstillingen: 27 stemmer

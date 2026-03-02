@@ -1,0 +1,33 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 192/2025
+rodt_fremmet: True
+---
+
+Tittel: Vassfjellet Vinterpark AS - søknad om endret kommunal garanti
+
+Vedtak:
+Bystyret vedtar å stille garanti for et lån på 11 000 000 kroner som Vassfjellet Vinterpark AS ønsker å refinansiere hos SpareBank1. Garantien erstatter allerede stilt garanti på samme beløp. Det stilles følgende betingelser for garantien:
+a. Garantiansvaret utgjør inntil 11 millioner kroner
+b. Garantien gis ved simpel kausjon
+c. Lånets løpetid og avdragsstruktur er på maksimalt 10 år
+d. Garantien nedtrappes i takt med forutsatt utvikling i hovedforholdet. Garantiansvaret opphører når lånet er innfridd
+e. Det er en forutsetning at spillemidler i sin helhet benyttes til nedbetaling av lån med kommunal garanti, senest innen utgangen av Vassfjellet Vinterpark AS’ regnskapsår det året spillemidlene er mottatt.
+f. Bystyret mener det er kritikkverdig at garantisaken ikke har vært behandlet i Finans- og organisasjonsutvalget som innstillende utvalg til bystyret. Saken ble skrevet av byrådsavdeling finans den 11.09.2025, og ble behandlet i byrådet 25.09.2025. Det var derfor god tid til å få saken innstilt fra Finans- og organisasjonsutvalget den 02.10.2025. Saken ble ikke sendt frem til behandling i utvalget, og utvalget ble ikke gjort kjent med saken før 14.10.2025. Bystyret forventer at det i fremtiden kvalitetssikres slik at dette blir en engangsforeteelse.
+Kokaas fellesforslag: Bystyret mener det er kritikkverdig at garantisaken ikke har vært behandlet i Finans- og organisasjonsutvalget som innstillende utvalg til bystyret. Saken ble skrevet av byrådsavdeling finans den 11.09.2025, og ble behandlet i byrådet 25.09.2025. Det var derfor god tid til å få saken innstilt fra Finans- og organisasjonsutvalget den 02.10.2025. Saken ble ikke sendt frem til behandling i utvalget, og utvalget ble ikke gjort kjent med saken før 14.10.2025. Bystyret forventer at det i fremtiden kvalitetssikres slik at dette blir en engangsforeteelse.
+
+Alternative forslag:
+- Roald Arentz (R): Saken behandles først etter at innstilling fra finans- og organisasjonsutvalget foreligger. Miljø-, nærings- og samferdselsutvalget oppfordres til å uttale seg om saken.
+- Morten Kokaas (PP) på vegne av PP, R, FrP, Ap, SP, KrF, V: Bystyret mener det er kritikkverdig at garantisaken ikke har vært behandlet i Finans- og organisasjonsutvalget som innstillende utvalg til bystyret. Saken ble skrevet av byrådsavdeling finans den 11.09.2025, og ble behandlet i byrådet 25.09.2025. Det var derfor god tid til å få saken innstilt fra Finans- og organisasjonsutvalget den 02.10.2025. Saken ble ikke sendt frem til behandling i utvalget, og utvalget ble ikke gjort kjent med saken før 14.10.2025. Bystyret forventer at det i fremtiden kvalitetssikres slik at dette blir en engangsforeteelse.
+
+Voteringer:
+- Votering over Arentz utsettelsesforslag
+  - Utsettelsesforslag (Arentz): 5 stemmer
+  - Mot utsettelsesforslag: 62 stemmer
+- Votering over innstillingen
+  - Innstillingen: 64 stemmer
+  - Mot innstillingen: 3 stemmer
+- Votering over Kokaas fellesforslag
+  - Kokaas fellesforslag: 48 stemmer
+  - Mot Kokaas fellesforslag: 19 stemmer

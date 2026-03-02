@@ -1,0 +1,91 @@
+{
+  "tittel": "Møteplan for bystyrets organer 2026 og 2027",
+  "innstilling": [
+    "Bystyret vedtar møteplan for 2026.",
+    "Ordfører gis fullmakt til å justere planen.",
+    "Bystyrets vedtatte tilleggsforslag om flerårige møteplaner i sak PS 181/2024 Retningslinjer for forfall oppheves.",
+    "Ordfører bes legge frem møteplan for 2027 for forretningsutvalget i løpet av første halvår 2026.",
+    "Møter i administrasjonsutvalget settes opp som fast møte torsdager i uka før utvalgsmøter.",
+    "Møteplanen endres slik at rådsmøter legges til ukene før utvalgsmøter slik at innspill fra råd kan vurderes i utvalgsbehandling av saker.",
+    "Rette opp skrivefeil: Møte i kontrollutvalget skal være torsdag 01.10.26."
+  ],
+  "vedtak": [
+    "Bystyret vedtar møteplan for 2026.",
+    "Ordfører gis fullmakt til å justere planen.",
+    "Bystyrets vedtatte tilleggsforslag om flerårige møteplaner i sak PS 181/2024 Retningslinjer for forfall oppheves.",
+    "Ordfører bes legge frem møteplan for 2027 for forretningsutvalget i løpet av første halvår 2026.",
+    "Møter i administrasjonsutvalget settes opp som fast møte torsdager i uka før utvalgsmøter.",
+    "Møteplanen endres slik at rådsmøter legges til ukene før utvalgsmøter slik at innspill fra råd kan vurderes i utvalgsbehandling av saker.",
+    "Rette opp skrivefeil: Møte i kontrollutvalget skal være torsdag 01.10.26.",
+    "Møtefrekvensen for byutviklingsutvalget bør vurderes. 3 møter i måneden pluss bystyremøte den fjerde uken kan bli en stor belastning for fritidspolitikere som også har en sivil jobb å skjøtte. Utvalget har en stor saksmengde og det bør f. eks. vurderes om saksmengden kan redusere ved å finne en annen behandlingsmåte for klagesaker.",
+    "Bystyret ber ordfører legge frem en sak med forslag om ny møteramme for bystyrets møter."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mats Ramo (H) på vegne av H, R, KrF, V",
+      "tekst": [
+        "Bystyret vedtar møteplan for 2026.",
+        "Ordfører gis fullmakt til å justere planen.",
+        "Bystyrets vedtatte tilleggsforslag om flerårige møteplaner i sak PS 181/2024 Retningslinjer for forfall oppheves.",
+        "Ordfører bes legge frem møteplan for 2027 for forretningsutvalget i løpet av første halvår 2026.",
+        "Møter i administrasjonsutvalget settes opp som fast møte torsdager i uka før utvalgsmøter.",
+        "Møteplanen endres slik at rådsmøter legges til ukene før utvalgsmøter slik at innspill fra råd kan vurderes i utvalgsbehandling av saker.",
+        "Rette opp skrivefeil: Møte i kontrollutvalget skal være torsdag 01.10.26."
+      ]
+    },
+    {
+      "forslagsstiller": "Jørn Arve Flått (Ap)",
+      "tekst": "Møtefrekvensen for byutviklingsutvalget bør vurderes. 3 møter i måneden pluss bystyremøte den fjerde uken kan bli en stor belastning for fritidspolitikere som også har en sivil jobb å skjøtte. Utvalget har en stor saksmengde og det bør f. eks. vurderes om saksmengden kan redusere ved å finne en annen behandlingsmåte for klagesaker."
+    },
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV)",
+      "tekst": "Bystyret ber ordfører legge frem en sak med forslag om ny møteramme for bystyrets møter."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Flåtts tilleggsforslag.",
+      "alternativer": [
+        {
+          "navn": "For Flåtts tilleggsforslag",
+          "stemmer": 52
+        },
+        {
+          "navn": "Mot Flåtts tilleggsforslag",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "For Flåtts tilleggsforslag",
+      "rødt_støttet": "Mot Flåtts tilleggsforslag",
+      "rødt_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over Naper Salomonsens tilleggsforslag.",
+      "alternativer": [
+        {
+          "navn": "For Naper Salomonsens tilleggsforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For Naper Salomonsens tilleggsforslag",
+      "rødt_støttet": "For Naper Salomonsens tilleggsforslag",
+      "rødt_vinner_side": true
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen og Ramos fellesforslag.",
+      "alternativer": [
+        {
+          "navn": "Ramos fellesforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Ramos fellesforslag",
+      "rødt_støttet": "Ramos fellesforslag",
+      "rødt_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.10.2025",
+  "saksnummer_ps": "PS 208/2025",
+  "rodt_fremmet_forslag": false
+}

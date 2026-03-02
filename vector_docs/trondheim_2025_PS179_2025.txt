@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 179/2025
+rodt_fremmet: False
+---
+
+Tittel: Delegering av myndighet vegloven § 56
+
+Vedtak:
+Saken ble utsatt i møtet 28. august 2025.
+
+Voteringer:
+- Votering om å utsette saken
+  - Utsette saken: None stemmer

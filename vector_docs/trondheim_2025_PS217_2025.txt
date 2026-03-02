@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 217/2025
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak og nyvalg av medlem i Trondheim eldreråd
+
+Vedtak:
+Bystyret gir Hans Hagset fritak som medlem i Trondheim eldreråd. Bystyret oppnevner Tor Kværnø som nytt medlem.
+
+Voteringer:
+- Votering over innstillingen om fritak for Hans Hagset og oppnevning av Tor Kværnø.
+  - Innstillingen: enstemmig stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 74/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Trondheim trenger en skøytehall - Svein Otto Nilsen (PP)
+
+Vedtak:
+Forslaget avvises.
+
+Alternative forslag:
+- Svein Otto Nilsen (PP): Bystyret ber byrådet legge frem en sak hvor man ser på muligheten til å få etablert en skøytehall på Leangen i samarbeid med Næringslivet og Skøytekretsen.
+
+Voteringer:
+- Alternativ votering mellom innstillingen (avvise forslaget) og Nilsens forslag (arbeide videre med skøytehall på Leangen).
+  - Innstillingen (avvise forslaget): 39 stemmer
+  - Nilsens forslag (arbeide videre med skøytehall på Leangen): 28 stemmer

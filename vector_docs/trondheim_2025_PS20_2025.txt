@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 20/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Sak ang Leinstrand vassverk - Vegard Frøseth Fenes (SP)
+
+Vedtak:
+Bystyret avviser forslaget. Saken er løst ved inngått forlik mellom kommunen og vassverket.
+
+Alternative forslag:
+- Thomas Sakshaug (MDG): Saken er løst ved forlik
+
+Voteringer:
+- Alternativ votering mellom innstillingen og MDG sitt alternative forslag.
+  - MDG alternative forslag: enstemmig stemmer
+  - Innstillingen: 0 stemmer

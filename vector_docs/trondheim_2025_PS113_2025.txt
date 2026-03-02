@@ -1,0 +1,23 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 113/2025
+rodt_fremmet: True
+---
+
+Tittel: Medlemsforslag - Brudd på opplysningsplikten - Roald Arentz (R)
+
+Vedtak:
+Bystyret avviser medlemsforslag - Brudd på opplysningsplikten.
+
+Alternative forslag:
+- Roald Arentz (R): Bystyret slår fast at byrådets opplysningsplikt ikke ble oppfylt i behandlinga av sak PS 24/25.
+- Silje Naper Salomonsen (SV): Bystyret mener at byrådet holdt tilbake vesentlig informasjon om den økonomiske situasjonen i BOA da bystyret behandlet sak PS 24/25. Dette bryter med byrådets plikt til å påse at saker som legges fram for folkevalgte organer, er forsvarlig utredet iht kommunelovens § 13-1 og § 10-2, og det bryter med reglement for byrådet og kommuneloven om å gjøre folkevalgt organ oppmerksomme hvis byrådet oppdager faktiske forhold som har sentral betydning for iverksettingen av vedtak.
+
+Voteringer:
+- Alternativ votering mellom innstillinga og Arentz forslag.
+  - Innstillinga: 37 stemmer
+  - Arentz forslag: 30 stemmer
+- Votering over Salomonsens tileggsforslag.
+  - Salomonsens tileggsforslag: 13 stemmer
+  - Motforslag (flertallet): 54 stemmer

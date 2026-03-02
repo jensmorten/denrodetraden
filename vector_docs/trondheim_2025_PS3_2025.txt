@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 3/2025
+rodt_fremmet: False
+---
+
+Tittel: Britannia hotell - gnr/bnr 401/293- forslag om fredning
+
+Vedtak:
+Bystyret støtter forslaget fra Trøndelag fylkeskommune om å frede Britannia hotell gnr. 401/bnr. 293 slik som beskrevet i fredningsomfanget. Bystyret ønsker at Lobbybarens vegg med vindusrekke mot Palmehaven vurderes inkludert i fredningen.
+
+Voteringer:
+- Votering over innstillingens første setning (fredning av Britannia hotell).
+  - For: enstemmig stemmer
+- Votering over innstillingens andre setning (vurdere å inkludere Lobbybarens vegg med vindusrekke mot Palmehaven i fredningen).
+  - For: 62 stemmer
+  - Mot: 5 stemmer

@@ -1,0 +1,26 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 34/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Etablering av Psykiatriambulanser i Trondheim - Svein Otto Nilsen (PP)
+
+Vedtak:
+Bystyret anerkjenner at mennesker i akutte psykiske kriser har behov for å møtes av fagpersoner på en skånsom måte, likevel vil det i noen tilfeller være behov for inngripende tiltak. På bakgrunn av dette ser vi behovet for å etablere et alternativ til ordinær legevakt og eventuell bistand fra politi.
+Bystyret støtter initiativet til å etablere psykiatriambulanse i Trondheimsregionen.
+Bystyret ber byrådet i samarbeid med det regionale helseforetaket og eventuelle andre kommuner i Trondheimsregionen etablere et forsøksprosjekt med psykiatriambulanse.
+Bystyret forutsetter at prøveprosjektet med psykiatriambulanser skal være et statlig finansiert prøveprosjekt.
+
+Alternative forslag:
+- Mona Berger (SV) på vegne av SV, FrP, PP, Ap, R, Uavh.: ['Bystyret anerkjenner at mennesker i akutte psykiske kriser har behov for å møtes av fagpersoner på en skånsom måte, likevel vil det i noen tilfeller være behov for inngripende tiltak. På bakgrunn av dette ser vi behovet for å etablere et alternativ til ordinær legevakt og eventuell bistand fra politi.', 'Bystyret støtter initiativet til å etablere psykiatriambulanse i Trondheimsregionen.', 'Bystyret ber byrådet i samarbeid med det regionale helseforetaket og eventuelle andre kommuner i Trondheimsregionen etablere et forsøksprosjekt med psykiatriambulanse.']
+- Aurora Meland Winger (MDG) på vegne av MDG, FrP, H, PP, SP, KrF, V: ['Bystyret forutsetter at prøveprosjektet med psykiatriambulanser skal være et statlig finansiert prøveprosjekt.']
+
+Voteringer:
+- Alternativ votering mellom innstillingen og alternativt forslag fra SV.
+  - SVs forslag: 42 stemmer
+  - Innstillingen: 25 stemmer
+- Votering over tilleggsforslaget fra Winger (MDG) om statlig finansiering.
+  - Tilleggsforslaget fra Winger: 37 stemmer
+  - Mot tilleggsforslaget: 30 stemmer

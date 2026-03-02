@@ -1,0 +1,57 @@
+{
+  "tittel": "B-veger - oversikt og vurdering av veger",
+  "innstilling": "B-veger brøytes og driftes i privat regi fra brøytesesongen 2026/2027. Bystyret vedtar at de private B-vegene i vedlagte regneark overføres til privat brøyting og drift fra brøytesesongen 2026/2027.",
+  "vedtak": "B-veger brøytes og driftes i privat regi fra brøytesesongen 2026/2027. Bystyret vedtar at de private B-vegene i vedlagte regneark overføres til privat brøyting og drift fra brøytesesongen 2026/2027.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kristin Tømmervold (Ap)",
+      "tekst": "Bystyret vedtar at de private B-vegene i vedlagte regneark klassifiseres som kommunale veger. Brøyting og drift beholdes i kommunal regi."
+    },
+    {
+      "forslagsstiller": "Svein Otto Nilsen (PP)",
+      "tekst": "Bystyret ønsker at brøyting og strøing i Jarlheimbakken på Ladehammern fortsetter av Trondheim kommune på grunn av de helt særegne forhold som gjør seg gjeldende. Jarlheimbakken er en svært trafikkert, bratt og lang bakke. Etter oppføring av nærmere 20 boligblokker med 5-11 etasjer, nederst i Lade Alle (også kalt «Øvre Nyhavna»), er det blitt en hovedfartsåre for beboerne her, med mye trafikk opp og ned i Jarlheimbakken som går rett ut i Lade Alle og til «Øvre Nyhavna». Bystyret frykter at utrykningskjøretøy og Trondheim Renholdsverk ikke kommer frem Det går/sykler/kjører masse folk i Lade Alle, og det må derfor strøs meget godt i bakken. Bakken er både bratt, lang og starter med en krapp bratt sving nederst i bakken, og det er en vanskelig oppgave for beboerne å kunne brøyte og strø selv her. Trondheim kommune har selv skiltet Jarlheimbakken som snarvei med egne kommunale skilt, og Trondheim kommune viser Jarlheimbakken som snarvei i Trondheims kommunale kart. Trondheim kommune stiller på denne måte aktivt Jarlheimbakken til disposisjon/rådighet, og bidrar til at barn og voksne i alle aldere ferdes der. Trondheim kommune kan ikke skilte og selv angi at en så bratt og trafikkfarlig bakke som snarvei for barn og voksne i alle aldre, og samtidig stoppe vintervedlikeholdet her, på sin egen vei."
+    },
+    {
+      "forslagsstiller": "Magni Fjørtoft Svarstad (R)",
+      "tekst": "Bystyret vedtar at de private B-vegene i regnearket vedlagt saken overføres til privat drift i sin helhet. Trondheim kommune kan dersom eierne ønsker det ivareta vinderdrift for eiers kostnad i kommende sesong."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Magni Fjørtoft Svarstads (R) alternativforslag om vinterdrift i privat regi med støtte for kommende sesong.",
+      "alternativer": [
+        {
+          "navn": "Fjørtoft Svarstads forslag",
+          "stemmer": 3
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 64
+        }
+      ],
+      "hvem_vant": "Mot",
+      "hvilket_alternativ_rødt_støttet": "Fjørtoft Svarstads forslag",
+      "rødt_var_på_vinner_side": false
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen og Tømmervolds (Ap) forslag om å klassifisere B-veger som kommunale.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 48
+        },
+        {
+          "navn": "Tømmervolds forslag",
+          "stemmer": 19
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "hvilket_alternativ_rødt_støttet": "Innstillingen",
+      "rødt_var_på_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.10.2025",
+  "saksnummer_ps": "PS 188/2025",
+  "rodt_fremmet_forslag": true
+}

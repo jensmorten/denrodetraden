@@ -1,0 +1,31 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 44/2025
+rodt_fremmet: True
+---
+
+Tittel: Peder Myhres veg 2 - detaljregulering - Sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Peder Myhres veg 2, Ranheim senterområde, som vist på kart i målestokk 1:1000, merket Selberg Arkitekter AS, senest datert 02.12.2024, med bestemmelser senest datert 02.12.2024 og beskrevet i planbeskrivelsen, senest datert 02.12.2024. Endre 5. ledd i punkt 4.1.8 til: “Det skal etableres minimum 3 sykkelplasser per 100 m2 BRA for formålene forretning og tjenesteyting." Legg til nytt punkt i 4.1.8.: “Der normen gir krav om minst 10 sykkelparkeringsplasser skal det for virksomheter være garderobe med dusjfasiliteter for ansatte.” Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Alternative forslag:
+- Roald Arentz (R): Forslaget avvises: Bystyret av avviser avslag til detaljregulering av Peder Myhres veg 2, Ranheim senterområde, som vist på kart i målestokk 1:1000, merket Selberg arkitekter. Plankart under grunnen og plankart over grunnen er senest datert 24.6.2022 med bestemmelser senest datert 1.7.2022 og beskrevet i planbeskrivelsen, senest datert 1.7.2022. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+- Even Næss Bergseng (SV): Senke parkeringsgraden for biler: Endre 1. ledd i punkt 4.1.8 "Krav til parkering" til: “Det skal etableres 0,1 til 0,5 p-plasser for bil per boenhet eller 70m2 BRA innenfor B/F/T og det skal etableres 0,1 til 0,7 p-plasser for bil per boenhet eller 70m2 BRA innenfor felt B1-B4.”
+- Even Næss Bergseng (SV): Endring av parkeringsgrad for forretning og tjenesteyting: Endre 2. ledd i punkt 4.1.8 til: “For forretning og tjenesteyting skal det etableres maksimalt 1,0 p-plasser for bil per 100 m2 BRA.”
+- Svein Otto Nilsen (PP): Nytt Helse og velferdssenter ved byselssenteret i Peder Myhres veg: Ranheim trenger nytt Helse og Velferdssenter i det planlagte bydelssenteret i Peder Myhres veg. Ranheim trenger et fremtidig helse- og velferdssenter som fremstår som moderne funksjonelt, og brukervennlig. Det er et faktum at dagens sykehjem har alt for få plasser og Ranheim trenger nytt helse og velferdssenter. Dette er et senterområde som det nå bør vurderes om man kan legge et nytt helse og velferdssenter. Det nye senter gir et nytt Ranheim helse og velferdssenteret et fint utgangspunkt for turer med eller uten rullestol. Det er kort gåavstand til blant annet matvarebutikk, postkontor og butikksenter med frisør, blomsterutsalg, gaveartikler og flere trivelige restauranter.
+
+Voteringer:
+- Alternativ votering mellom Innstillingen og Arentz forslag
+  - Innstillingen: 63 stemmer
+  - Arentz forslag: 3 stemmer
+- Votering over Næss Bergsengs forslag 'Senke parkeringsgraden for biler'
+  - Næss Bergsengs forslag: 12 stemmer
+  - Motforslag (rest): 55 stemmer
+- Votering over Næss Bergsengs forslag 'Endring av parkeringsgrad for forretning og tjenesteyting'
+  - Næss Bergsengs forslag: 13 stemmer
+  - Motforslag (rest): 55 stemmer
+- Votering over Nilsens forslag 'Nytt Helse og velferdssenter ved byselssenteret i Peder Myhres veg'
+  - Nilsens forslag: 4 stemmer
+  - Motforslag (rest): 63 stemmer

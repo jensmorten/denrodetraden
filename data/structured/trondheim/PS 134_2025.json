@@ -1,0 +1,46 @@
+{
+  "tittel": "Mistillitsforslag mot byråd Christianne Bauck-Larssen - framsatt i bystyrets møte 22.05.2025",
+  "innstilling": null,
+  "vedtak": "Bergers mistillitsforslag fikk 12 stemmer (9SV, 3R), men falt med flertallets 55 stemmer (19H, 17Ap, 5MDG, 4FrP, 4V, 3PP, Sp, KrF, U)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mona Berger (SV), på vegne av SV og R",
+      "tekst": "Bystyret har ikke lenger tillit til byråd for sosiale tjenester, Christianne Bauck-Larssen (H)."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over mistillitsforslag mot byråd Christianne Bauck-Larssen",
+      "alternativer": [
+        {
+          "navn": "For mistillitsforslaget",
+          "stemmer": [
+            "9SV",
+            "3R"
+          ]
+        },
+        {
+          "navn": "Mot mistillitsforslaget",
+          "stemmer": [
+            "19H",
+            "17Ap",
+            "5MDG",
+            "4FrP",
+            "4V",
+            "3PP",
+            "Sp",
+            "KrF",
+            "U"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot mistillitsforslaget",
+      "hvilket_alternativ_Rødt_støttet": "For mistillitsforslaget",
+      "Rødt_var_på": "taper-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 134/2025",
+  "rodt_fremmet_forslag": false
+}

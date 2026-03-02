@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: FO 16/2025
+rodt_fremmet: False
+---
+
+Tittel: Muntlige spørsmål bystyret 30.04.2025
+
+Vedtak:
+Muntlige spørsmål ble stilt og besvart i bystyrets møte 30.04.2025.

@@ -1,0 +1,24 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 172/2025
+rodt_fremmet: True
+---
+
+Tittel: Travbanevegen 4A, 4B og 6B og del av gnr/bnr 4/13 m.fl til sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering r20230011, «Detaljregulering av Travbanevegen 4A og 4B, 6 og 6B og del av gnr/bnr 4/13 m.fl.», som vist på kart i målestokk 1:1000 merket Lund Hagem Arkitekter datert 11.4.2025, bestemmelser datert 18.12.2024, og planbeskrivelse datert 11.04.2025. Følgende legges til reguleringsbestemmelse § 4.1.10 om boligssammensetning: Alle boenheter skal i hovedsak være på minst 30 m². Unntak skal begrunnes. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Alternative forslag:
+- Roald Arentz (R): Følgende legges til reguleringsbestemmelse § 4.1.10 om boligssammensetning: Alle boenheter skal være på minst 45 m².
+
+Voteringer:
+- Innstillingens del 1 og 3
+  - For: enstemmig stemmer
+- Rødts alternative forslag til del 2 (Alle boenheter skal være på minst 45 m²)
+  - For: 12 stemmer
+  - Mot: 55 stemmer
+- Innstillingens del 2 (Alle boenheter skal i hovedsak være på minst 30 m². Unntak skal begrunnes.)
+  - For: 63 stemmer
+  - Mot: 4 stemmer

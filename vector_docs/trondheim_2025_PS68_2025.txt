@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 68/2025
+rodt_fremmet: True
+---
+
+Tittel: Medlemsforslag - Gratis vaksine mot hjernehinnebetennelse
+
+Vedtak:
+Saken ble utsatt i bystyrets møte 27. mars 2025.
+
+Alternative forslag:
+- Sigurd Jan Ingvaldsen (AP), Mona Berger (SV), Mia Småvik Rørdal (R): Gratis vaksine mot hjernehinnebetennelse
+
+Voteringer:
+- Votering om å utsette saken
+  - Utsette saken: None stemmer
+  - Ikke utsette saken: None stemmer

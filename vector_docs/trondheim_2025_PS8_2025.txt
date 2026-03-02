@@ -1,0 +1,34 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 8/2025
+rodt_fremmet: False
+---
+
+Tittel: B-veger - avvikle offentlig drift og overføre driften til grunneierne
+
+Vedtak:
+Bystyret vedtar prinsippet om at private veger som i dag driftes og vedlikeholdes kommunalt, skal overføres til privat drift i sin helhet. Iverksetting trer i kraft etter endt vintervedlikehold 2024-2025.
+Bystyret ber om at det tas en ordentlig gjennomgang av de aktuelle vegene, for å vurdere om enkelte strekninger burde vært klassifisert som og/eller regulert til offentlig veg, blant annet for å sikre tilstrekkelig vintervedlikehold av busstraséer og sammenhengende skoleveg. Bystyret ber om at det legges frem en ny sak for beslutning i bystyret, der endelig liste over veger omfattet fremgår, med de vurderinger som følger av gjennomgangen.
+
+Alternative forslag:
+- Jørn Arve Flått (Ap): Saken sendes tilbake og bystyret ber om at berørte parter høres før det fremmes en ny sak til bystyret.
+- Jørn Arve Flått (Ap): Berørte parter høres før det fremmes en ny sak til bystyret.
+- Svein Otto Nilsen (PP): Jarlheimbakken tas ut av listen og fortsetter med kommunal drift. Bystyret ønsker at brøyting og strøing i Jarlheimbakken på Ladehammeren fortsetter av Trondheim kommune på grunn av de helt særegne forhold som gjør seg gjeldende. Jarlheimbakken er en svært trafikkert, bratt og lang bakke. Etter oppføring av nærmere 20 boligblokker med 5-11 etasjer, nederst i Lade Alle (også kalt «Øvre Nyhavna»), er det blitt en hovedfartsåre for beboerne her, med mye trafikk opp og ned i Jarlheimbakken som går rett ut i Lade Alle og til «Øvre Nyhavna». Bystyret frykter at utrykkningskjøretøy og Trondheim Renholdsverk ikke kommer frem. Det går/sykler/kjører masse folk i Lade Alle, og det må derfor strøs meget godt i bakken. Bakken er både bratt, lang og starter med en krapp bratt sving nederst i bakken, og det er en vanskelig oppgave for beboerne å kunne brøyte og strø selv her.
+- Elin Marie Andreassen (FrP) på vegne av FrP, PP, V, SP, MDG, H, SV: Bystyret vedtar prinsippet om at private veger som i dag driftes og vedlikeholdes kommunalt, skal overføres til privat drift i sin helhet. Iverksetting trer i kraft etter endt vintervedlikehold 2024-2025.
+- Elin Marie Andreassen (FrP) på vegne av FrP, MDG, PP, SP, V, KrF, H, SV: Bystyret ber om at det tas en ordentlig gjennomgang av de aktuelle vegene, for å vurdere om enkelte strekninger burde vært klassifisert som og/eller regulert til offentlig veg, blant annet for å sikre tilstrekkelig vintervedlikehold av busstraséer og sammenhengende skoleveg. Bystyret ber om at det legges frem en ny sak for beslutning i bystyret, der endelig liste over veger omfattet fremgår, med de vurderinger som følger av gjennomgangen.
+
+Voteringer:
+- Aps forslag om å sende saken tilbake
+  - Aps forslag om å sende saken tilbake: 19 stemmer
+  - Motforslag (ikke sende tilbake): 48 stemmer
+- Alternativ votering mellom innstillingen og FrPs forslag
+  - FrPs forslag: enstemmig stemmer
+  - Innstillingen: 0 stemmer
+- Andreassens alternative forslag 'Gjennomgang av aktuelle veger'
+  - Andreassens forslag: 64 stemmer
+  - Motforslag (3 R): 3 stemmer
+- Flåtts tilleggsforslag om at berørte parter skal høres
+  - Flåtts tilleggsforslag: 32 stemmer
+  - Motforslag: 35 stemmer
+- Nilsens tilleggsforslag 'Jarlheimbakken tas ut'

@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 134/2025
+rodt_fremmet: False
+---
+
+Tittel: Mistillitsforslag mot byråd Christianne Bauck-Larssen - framsatt i bystyrets møte 22.05.2025
+
+Vedtak:
+Bergers mistillitsforslag fikk 12 stemmer (9SV, 3R), men falt med flertallets 55 stemmer (19H, 17Ap, 5MDG, 4FrP, 4V, 3PP, Sp, KrF, U)
+
+Alternative forslag:
+- Mona Berger (SV), på vegne av SV og R: Bystyret har ikke lenger tillit til byråd for sosiale tjenester, Christianne Bauck-Larssen (H).
+
+Voteringer:
+- Votering over mistillitsforslag mot byråd Christianne Bauck-Larssen
+  - For mistillitsforslaget: ['9SV', '3R'] stemmer
+  - Mot mistillitsforslaget: ['19H', '17Ap', '5MDG', '4FrP', '4V', '3PP', 'Sp', 'KrF', 'U'] stemmer

@@ -1,0 +1,20 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 37/2025
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg til utvalgene
+
+Vedtak:
+
+
+Alternative forslag:
+- Jørn Arve Flått (Ap): Erling Eide (Ap) går ut av sitt verv som varamedlem i Trondheim Management AS som følge av sitt verv i kontrollutvalget. Håkon Einarsve (Ap) velges inn som nytt varamedlem i Trondheim Management AS.
+
+Voteringer:
+- Votering over innstillingen til nyvalg til utvalgene.
+  - Innstillingen: enstemmig stemmer
+- Votering over Flåtts tilleggsforslag 'Avglemt utvalg'.
+  - Flåtts tilleggsforslag: enstemmig stemmer

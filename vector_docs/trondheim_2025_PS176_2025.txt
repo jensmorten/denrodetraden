@@ -1,0 +1,26 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 176/2025
+rodt_fremmet: True
+---
+
+Tittel: Endring i aksjonæravtalen for Nyhavna Utvikling AS
+
+Vedtak:
+Bystyret godkjenner at punkt 3.3.2 i aksjonæravtalen mellom Trondheim kommune og Trondheim Havn IKS for Nyhavna Utvikling AS endres som følger:
+1. Trondheim kommunes opsjon på å overdra TMS Øst 2 vederlagsfritt fra Trondheim Havn IKS til Nyhavna Utvikling AS oppheves.
+2. Trondheim kommunes opsjon på å erverve Dora 2 til markedspris oppheves.
+3. Bystyret vedtar at opphevelsen av opsjonene forutsetter at den til enhver tid gjeldende eierstrategien for Nyhavna Utvikling AS, samt vedtatte miljø-, kvalitets-, nærings-, og kunst- og kulturprogram for Nyhavna legges til grunn for styring av selskapene TMS Øst AS og Dora 2 AS. Dette skal innarbeides i selskapenes vedtekter.
+
+Alternative forslag:
+- Roald Arentz (R): Opsjonen beholdes: Aksjonæravtalen endres ikke. Bystyret mener byrådets forslag reduserer kommunens mulighet til å drive aktiv byutvikling til det beste for næringsliv og innbyggere.
+- Roald Arentz (R): Konsekvenser av å innfri opsjonene: Bystyret ber byrådet legge fram en sak som gjør rede for kostnader og konsekvenser av å innfri disse opsjonene i inneværende bystyreperiode, sammenligna med på et senere tidspunkt.
+
+Voteringer:
+- Alternativ votering mellom innstillingen og Rødts forslag 'Opsjonen beholdes'.
+  - Innstillingen: 55 stemmer
+  - Rødts forslag 'Opsjonen beholdes': 12 stemmer
+- Votering over Rødts tilleggsforslag 'Konsekvenser av å innfri opsjonen'.
+  - Rødts tilleggsforslag 'Konsekvenser av å innfri opsjonen': 12 stemmer
+  - Motforslag (avslag): 55 stemmer

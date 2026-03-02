@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 95/2025
+rodt_fremmet: False
+---
+
+Tittel: Samarbeidsavtale mellom Trondheim kommune og St. Olavs hospital HF - helsefellesskapet i søndre Trøndelag
+
+Vedtak:
+Bystyret inngår på vegne av Trondheim kommune Samarbeidsavtale - St. Olavs hospital HF og kommunene - helsefellesskapet i søndre Trøndelag, med tilhørende retningslinje Samarbeid om innleggelse og utskrivelse av pasienter med behov for kommunale tjenester.
+
+Voteringer:
+- Votering over innstillingen.
+  - Innstillingen: enstemmig stemmer

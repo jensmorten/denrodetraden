@@ -1,0 +1,33 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 77/2025
+rodt_fremmet: False
+---
+
+Tittel: Helhetlig Risiko- og sårbarhetsanalyse 2024
+
+Vedtak:
+Bystyret slutter seg til Helhetlig risiko- og sårbarhetsanalyse 2024 (HROS 2024)
+Bystyret ber byrådet utarbeide beredskapsanalyse basert på HROS 2024.
+Bystyret ber byrådet oppdatere overordnet beredskapsplanen i henhold til HROS 2024
+Bystyret er bekymret for effekten økte klimagassutslipp, økte temperaturer og mer ekstremvær vil ha for sikkerheten i Trondheim og ber byrådet øke innsatsen for å få ned utslippene. Bystyret mener at dersom flest mulig innbyggere har god egenberedskap, vil det lette krisehåndteringen for kommunen i flere av de gitte scenariene. Bystyret peker dermed på viktigheten av god informasjon om egenberedskapen til innbyggerne og viktigheten av at det skal være mulig for alle å sikre egenberedskapen til seg og sin familie. For eksempel er det viktig at det bygges boliger hvor det er plass til vann, mat og forsyninger for en uke som DSB sitt råd sier. Bystyret ber byrådet følge opp og legge til rette for god egenberedskap. Det finnes innbyggere som verken har plass, eller råd til å etablere det beredskapslageret som anbefales. Bystyret ber derfor byrådet inkludere hvordan kommunen skal bidra til å sikre god beredskap til innbyggere som ikke kan sørge for dette selv. Det er særlig viktig at kommunen sørger for de innbyggerne som har helsemessige og sosiale utfordringer, bor i kommunale boliger, mottar tjenester fra kommunen eller lignende.
+Bystyret ber byrådet lage plan for hvordan hjemmetjenesten, trygghetspatruljen, sykepleier på hjul, ambulant team og øvrige enheter som leverer hjemmebaserte helse- og omsorgstjenester skal kunne levere sine tjenester, og ivareta sine tjenestemottakere, ved strømutfall. Planen må beskrive back-upløsninger og alternativer til den elektriske bilparken, som skal kunne anvendes for at hjemmetjenesten skal kunne levere sine tjenester mest mulig uhindret av strømutfall. Planen må gjøres kjent for aktuelle enheter.
+Bystyret ber byrådet sørge for at kommunens beredskapsplaner i størst mulig grad er uavhengig av infrastruktur og utstyr fra leverandører fra land som Norge ikke har et sikkerhetspolitisk samarbeid med. Dette skal særlig gjelde for land som av PST knyttes til økt påvirkningsaktivitet og etterretningstrussel.
+
+Alternative forslag:
+- Maria Alseth (FrP): Bystyret ber byrådet lage plan for hvordan hjemmetjenesten, trygghetspatruljen, sykepleier på hjul, ambulant team og øvrige enheter som leverer hjemmebaserte helse- og omsorgstjenester skal kunne levere sine tjenester, og ivareta sine tjenestemottakere, ved strømutfall. Planen må beskrive back-upløsninger og alternativer til den elektriske bilparken, som skal kunne anvendes for at hjemmetjenesten skal kunne levere sine tjenester mest mulig uhindret av strømutfall. Planen må gjøres kjent for aktuelle enheter.
+- Elin Marie Andreassen (FrP): Bystyret viser til tiltak 9 under kapittel 6 Oppfølging av risiko- og sårbarhetsanalysen, der det foreslås en tverrsektoriell utredning som blant annet skal vise konsekvenser av langvarig strømutfall, og hvilken betydning elektrifiseringen har for kommunens beredskap. Bystyret ber byrådet om å stanse innkjøp/innfasing av elektriske kjøretøy i Trondheim kommunes utstyrspark, inntil en slik utredning er ferdig.
+- Elin Marie Andreassen (FrP): Bystyret ber byrådet sørge for at kommunens beredskapsplaner i størst mulig grad er uavhengig av infrastruktur og utstyr fra leverandører fra land som Norge ikke har et sikkerhetspolitisk samarbeid med. Dette skal særlig gjelde for land som av PST knyttes til økt påvirkningsaktivitet og etterretningstrussel.
+
+Voteringer:
+- Votering over innstillingen
+  - Innstillingen: enstemmig stemmer
+- Votering over Alseths tilleggsforslag 'Trygghet for tjenestemottakere ved strømutfall'
+  - Alseths tilleggsforslag: enstemmig stemmer
+- Votering over Andreassens tilleggsforslag 'Stanse innkjøp/innfasing av elektriske kjøretøy'
+  - Andreassens tilleggsforslag: 6 stemmer
+  - Motforslag (avslag): 61 stemmer
+- Votering over Andreassens tilleggsforslag 'Beredskap uavhengig av land som Norge ikke har sikkerhetspolitisk samarbeid med'
+  - Andreassens tilleggsforslag: 38 stemmer
+  - Motforslag (avslag): 29 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 21/2025
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak og nyvalg - 17. mai utvalget
+
+Vedtak:
+Bystyret gir Asieh Amini fritak fra vervet som innvandrerrepresentant i 17. mai utvalget. Bystyret oppnevner Yogeswaran Sivapragasam som innvandrerrepresentant til 17. mai utvalget.
+
+Voteringer:
+- Votering over innstillingen om fritak og nyvalg i 17. mai utvalget.
+  - Innstillingen: enstemmig stemmer

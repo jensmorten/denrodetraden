@@ -1,0 +1,33 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 2/2025
+rodt_fremmet: True
+---
+
+Tittel: Verftsbrua - valg av alternativ for videre prosjektering
+
+Vedtak:
+Bystyret vedtar å gå videre med alternativ 1: Utvidelse av Verftsbrua. Tiltaket forutsettes finansiert av Miljøpakken. Bystyret forutsetter at det videre arbeidet med prosjektet ses i sammenheng med det pågående arbeidet på Roseborgbassenget og på Brattørbrua, for å få til gode og trygge forbindelser og attraktive byrom.
+Bystyret ber byrådet sikre at oppgradering av belysningen på brua, med gode visuelle kvaliteter, ivaretas.
+Bruas visuelle uttrykk med blomster skal beholdes i den nye løsningen.
+
+Alternative forslag:
+- Kirsti Tømmervold (Ap): Bystyret vedtar og ikke gå videre med utredning, regulering og finansiering av ny gang- og sykkelkryssing over Nidelva på Nedre Elvehavn. Det må vurderes oppmaling på eksisterende bru slik at gående og syklende får et tilfredsstillende tilbud. Bystyret mener at andre viktige prosjekter med bedre måloppnåelse skal prioriteres i Miljøpakken.
+- Vegard Frøseth Fenes (SP): Bystyret ber byrådet sikre at oppgradering av belysningen på brua, med gode visuelle kvaliteter, ivaretas.
+- Jenny Nordaune (SV): Bystyret peker på behovet for å utrede sykkelvei i Innherredsveien mellom Bakke bru og Solsiden og få vurdert behov for sykkelforbindelse over elva fra Transittkaia og Pir 2.
+- Kristin Engan Gylland (R): Bruas visuelle uttrykk med blomster skal beholdes i den nye løsningen.
+
+Voteringer:
+- Alternativ votering mellom innstillingen og alternativt forslag fra Ap
+  - Innstillingen: 43 stemmer
+  - Alternativt forslag fra Ap: 24 stemmer
+- Votering over SPs tilleggsforslag om belysning
+  - SPs forslag om belysning: 60 stemmer
+  - Mot: 7 stemmer
+- Votering over SVs tilleggsforslag om sykkelvei
+  - SVs tilleggsforslag: 17 stemmer
+  - Mot: 50 stemmer
+- Votering over Rødts tilleggsforslag om visuell utforming
+  - Rødts tilleggsforslag: 63 stemmer
+  - Mot: 4 stemmer

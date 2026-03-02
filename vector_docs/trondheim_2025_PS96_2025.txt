@@ -1,0 +1,29 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 96/2025
+rodt_fremmet: False
+---
+
+Tittel: Karisvingen 2 og 4, detaljregulering - sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Karisvingen som vist på kart i målestokk 1:1000, merket Byberg arkitekter AS senest datert 19.11.2024 med bestemmelser senest datert 03.10.2024 og beskrevet i planbeskrivelsen, senest datert 02.10.2024. Bestemmelse § 5.1; alternativ siste avsnitt: Innenfor hensynssone bevaring av kulturmiljø skal alle tiltak som berører bygningens eksteriør utføres i samarbeid med byantikvaren. Det skal fortrinnsvis plantes stedegne trær i trerekka mot Fagerheim alle, og bunndekkende busker. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Alternative forslag:
+- Even Næss Bergseng (SV) på vegne av SV, R, Uavh.: Bystyret avviser forslag til detaljregulering av Karisvingen 2-4 som vist på kart i målestokk 1:1000, merket Byberg arkitekter AS senest datert 19.11.2024 med bestemmelser senest datert 03.10.2024 og beskrevet i planbeskrivelsen, senest datert 02.10.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+- Silje Naper Salomonsen (SV) på vegne av SV, R, Uavh.: Det skal velges stedegne arter i trerekka mot Fagerheim alle og for bunndekkende busker.
+
+Voteringer:
+- Avvisningsforslag fra Even Næss Bergseng (SV) på vegne av SV, R, Uavh.
+  - Avvisningsforslag: 15 stemmer
+  - Mot: 52 stemmer
+- Innstillingens første, andre og fjerde avsnitt
+  - For: 54 stemmer
+  - Mot: 13 stemmer
+- Naper Salomonsens alternativ til tredje avsnitt
+  - Alternativ til tredje avsnitt: 31 stemmer
+  - Mot: 36 stemmer
+- Innstillingens tredje avsnitt
+  - For: 50 stemmer
+  - Mot: 17 stemmer

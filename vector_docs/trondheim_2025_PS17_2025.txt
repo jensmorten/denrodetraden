@@ -1,0 +1,27 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 17/2025
+rodt_fremmet: True
+---
+
+Tittel: E6 Tonstad - Kroppanbrua, detaljregulering til sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av E6 Tonstad- Kroppanbrua som vist på kart (tre stykk) i målestokk 1:1000 (A1), merket Statens vegvesen senest datert 01.10.2024 med bestemmelser senest datert 01.10.2024 og beskrevet i planbeskrivelsen, senest datert 23.10.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV) på vegne av SV, R: Bystyret vedtar forslag til detaljregulering av E6 Tonstad- Kroppanbrua som vist på kart (tre stykk) i målestokk 1:1000 (A1), merket Statens vegvesen senest datert 01.10.2024 med bestemmelser senest datert 01.10.2024 og beskrevet i planbeskrivelsen, senest datert 23.10.2024, med følgende endringer: - Nytt felt i nordgående retning i Okstadbakkan som gir totalt 3 felt mot sentrum med total lengde ca 1,4 km, tas ut. - Nye avkjøringsramper og bruer som følge av nytt nordgående kollektivfelt tas ut. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+- Magni Fjørtoft Svarstad (R): Feltet må prosjekteres med fundamentering for bygging av fremtidig bybanetrase.
+- Jenny Nordaune på vegne av SV, R: Bystyret vedtar at et av de eksisterende feltene omgjøres til kollektivfelt.
+
+Voteringer:
+- Alternativ votering mellom innstillingen og alternativ forslag fra SV
+  - Innstillingen: 55 stemmer
+  - Alternativ forslag fra SV: 12 stemmer
+- Votering over Fjørtoft Svarstads tilleggsforslag (Fundamentering for fremtidig bybanetrase)
+  - For tilleggsforslaget: 13 stemmer
+  - Mot tilleggsforslaget: 54 stemmer
+- Votering over Nordaunes tilleggsforslag (Gjøre om et av feltene til kollektivfelt)
+  - For tilleggsforslaget: 12 stemmer
+  - Mot tilleggsforslaget: 55 stemmer

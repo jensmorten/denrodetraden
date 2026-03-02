@@ -1,0 +1,33 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 208/2025
+rodt_fremmet: False
+---
+
+Tittel: Møteplan for bystyrets organer 2026 og 2027
+
+Vedtak:
+Bystyret vedtar møteplan for 2026.
+Ordfører gis fullmakt til å justere planen.
+Bystyrets vedtatte tilleggsforslag om flerårige møteplaner i sak PS 181/2024 Retningslinjer for forfall oppheves.
+Ordfører bes legge frem møteplan for 2027 for forretningsutvalget i løpet av første halvår 2026.
+Møter i administrasjonsutvalget settes opp som fast møte torsdager i uka før utvalgsmøter.
+Møteplanen endres slik at rådsmøter legges til ukene før utvalgsmøter slik at innspill fra råd kan vurderes i utvalgsbehandling av saker.
+Rette opp skrivefeil: Møte i kontrollutvalget skal være torsdag 01.10.26.
+Møtefrekvensen for byutviklingsutvalget bør vurderes. 3 møter i måneden pluss bystyremøte den fjerde uken kan bli en stor belastning for fritidspolitikere som også har en sivil jobb å skjøtte. Utvalget har en stor saksmengde og det bør f. eks. vurderes om saksmengden kan redusere ved å finne en annen behandlingsmåte for klagesaker.
+Bystyret ber ordfører legge frem en sak med forslag om ny møteramme for bystyrets møter.
+
+Alternative forslag:
+- Mats Ramo (H) på vegne av H, R, KrF, V: ['Bystyret vedtar møteplan for 2026.', 'Ordfører gis fullmakt til å justere planen.', 'Bystyrets vedtatte tilleggsforslag om flerårige møteplaner i sak PS 181/2024 Retningslinjer for forfall oppheves.', 'Ordfører bes legge frem møteplan for 2027 for forretningsutvalget i løpet av første halvår 2026.', 'Møter i administrasjonsutvalget settes opp som fast møte torsdager i uka før utvalgsmøter.', 'Møteplanen endres slik at rådsmøter legges til ukene før utvalgsmøter slik at innspill fra råd kan vurderes i utvalgsbehandling av saker.', 'Rette opp skrivefeil: Møte i kontrollutvalget skal være torsdag 01.10.26.']
+- Jørn Arve Flått (Ap): Møtefrekvensen for byutviklingsutvalget bør vurderes. 3 møter i måneden pluss bystyremøte den fjerde uken kan bli en stor belastning for fritidspolitikere som også har en sivil jobb å skjøtte. Utvalget har en stor saksmengde og det bør f. eks. vurderes om saksmengden kan redusere ved å finne en annen behandlingsmåte for klagesaker.
+- Silje Naper Salomonsen (SV): Bystyret ber ordfører legge frem en sak med forslag om ny møteramme for bystyrets møter.
+
+Voteringer:
+- Votering over Flåtts tilleggsforslag.
+  - For Flåtts tilleggsforslag: 52 stemmer
+  - Mot Flåtts tilleggsforslag: 15 stemmer
+- Votering over Naper Salomonsens tilleggsforslag.
+  - For Naper Salomonsens tilleggsforslag: enstemmig stemmer
+- Alternativ votering mellom innstillingen og Ramos fellesforslag.
+  - Ramos fellesforslag: enstemmig stemmer

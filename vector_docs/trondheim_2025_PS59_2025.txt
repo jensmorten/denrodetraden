@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 59/2025
+rodt_fremmet: False
+---
+
+Tittel: Innbyggerforslag - krav om å akseptere ledsagerbevis på kommunal grunn i Trondheim
+
+Vedtak:
+Saken ble utsatt i bystyrets møte 27. mars 2025.
+
+Voteringer:
+- Votering om å utsette saken
+  - Utsette saken: None stemmer

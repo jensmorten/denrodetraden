@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 180/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Sambruk og samlokalisering av kommunens tjenester - Thomas Sakshaug (MDG)
+
+Vedtak:
+Medlemsforslaget oversendes byrådet for utredning og videre behandling i sammenheng med plan om eiendomsstrategi som skal bli vedtatt senere denne perioden.
+
+Voteringer:
+- Votering over innstillingen om å oversende medlemsforslaget til byrådet for utredning og videre behandling.
+  - Innstillingen: enstemmig stemmer

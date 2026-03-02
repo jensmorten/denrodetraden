@@ -1,0 +1,23 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 28/2025
+rodt_fremmet: False
+---
+
+Tittel: Trondheim kommunes forpliktelser for provisorier i Granåsen - Ski-VM 2025
+
+Vedtak:
+1. Bystyret vedtar å øke budsjettet til provisorier i Granåsen i forbindelse med Ski-VM 2025 med 20 millioner kroner. Økningen finansieres av kommunens disposisjonsfond.
+2. Bystyret ber byrådet om å arbeide med å få en mest mulig korrekt fordeling av de endelige provisoriekostnadene mellom Trondheim kommune og Ski-VM Trondheim 2025 AS.
+3. Bystyre ber byrådet finne en løsning som sørger for at flest mulig barn og unge i Trondheimsskolen får delta på "Drømmedagen" under Ski-VM.
+
+Alternative forslag:
+- Jomar Andre Aftret (FrP): ['1. Bystyret øker ikke budsjettet til provisorier i Granåsen i forbindelse med Ski-VM 2025.', '2. Bystyret ber byrådet om å arbeide sammen med Ski-VM Trondheim 2025 AS, om å begrense de totale utgiftene og få en mest mulig korrekt fordeling av de endelige kostnadene mellom Trondheim kommune og Ski-VM Trondheim 2025 AS.']
+
+Voteringer:
+- Alternativ votering mellom innstillingens punkt 1 og 2 og Aftrets alternative forslag.
+  - Innstillingens punkt 1 og 2: 59 stemmer
+  - Aftrets alternative forslag: 8 stemmer
+- Votering over innstillingens punkt 3.
+  - Innstillingens punkt 3: enstemmig stemmer

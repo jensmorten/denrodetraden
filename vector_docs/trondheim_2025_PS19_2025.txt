@@ -1,0 +1,26 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 19/2025
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering av Jakobslivegen 7 og Tunvegen 5 og 5A - sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Jakobslivegen 7 og Tunvegen 5 og 5A som vist på kart i målestokk 1:1000, merket Øystein Thommesen AS, regulering på grunnen - plankart 1 av 2 senest datert 02.09.2024 og regulering under grunnen - plankart 2 av 2 senest datert 02.09.2024 med bestemmelser senest datert 04.09.2024 og beskrevet i planbeskrivelsen, senest datert 15.05.2024. Rekkefølgekrav § 7.6, Brundalsforbindelsen, strykes fra bestemmelsene. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Alternative forslag:
+- Even Næss Bergseng (SV) på vegne av SV, Uavh: Bystyret avviser forslag til detaljregulering av Jakobslivegen 7 og Tunvegen 5 og 5A som vist på kart i målestokk 1:1000, merket Øystein Thommesen AS, regulering på grunnen - plankart 1 av 2 senest datert 02.09.2024 og regulering under grunnen - plankart 2 av 2 senest datert 02.09.2024 med bestemmelser senest datert 04.09.2024 og beskrevet i planbeskrivelsen, senest datert 15.05.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+- Thomas Sakshaug (MDG): Rekkefølgekrav § 7.6, Brundalsforbindelsen opprettholdes.
+
+Voteringer:
+- Avvisningsforslag fra Even Næss Bergseng (SV) vs innstillingen
+  - Næss Bergsengs forslag (avvisning): 10 stemmer
+  - Innstillingen: 56 stemmer
+- Innstillingen unntatt rekkefølgekrav vs alternativ (SV/MDG)
+  - Innstillingen unntatt rekkefølgekrav: 54 stemmer
+  - Alternativ (SV/MDG): 12 stemmer
+- Innstillingens rekkefølgekrav vs alternativt forslag fra MDG (opprettholde rekkefølgekrav §7-6)
+  - Innstillingens rekkefølgekrav (stryke §7-6): 53 stemmer
+  - MDGs forslag (opprettholde §7-6): 14 stemmer

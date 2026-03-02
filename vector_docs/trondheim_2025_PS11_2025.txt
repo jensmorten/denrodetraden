@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 11/2025
+rodt_fremmet: True
+---
+
+Tittel: Medlemsforslag - Innkjøpsstopp for Tesla så lenge arbeidskonflikt pågår - Roald Arentz (R)
+
+Vedtak:
+Bystyret avviser medlemsforslag innkjøpsstopp for Tesla.
+
+Alternative forslag:
+- Roald Arentz (R) på vegne av R, SV: Trondheim kommune ønsker å legget til rette for et godt partssamarbeid, og et bærekraftig arbeidsliv. Retten til å organisere seg er grunnleggende for å "styrke og videreutvikle partssamarbeidet", som det heter i Trondheimsløftet, som også anskaffelsesstrategien hviler på. Dette innebærer at kommunen også kan stille krav til underleverandører. Bystyret ber byrådet be om at biladministrasjonsselskapet Ayvens tilbyr et alternativ til Tesla så lenge arbeidskonflikten i Sverige er uløst, og at Tesla ikke skal inngå i bilporteføljen dersom tariffavtale ikke er på plass når ny leasingavtale skal inngås.
+
+Voteringer:
+- Alternativ votering mellom innstillingen (avvise medlemsforslag) og Rødts alternative forslag (krav til underleverandører m.m.)
+  - Innstillingen (avvise medlemsforslag): 36 stemmer
+  - Rødts alternative forslag: 31 stemmer

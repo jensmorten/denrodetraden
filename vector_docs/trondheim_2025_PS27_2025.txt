@@ -1,0 +1,21 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 27/2025
+rodt_fremmet: False
+---
+
+Tittel: Trondheim kommunes finansreglement, endringer
+
+Vedtak:
+Kommunens finansreglement endres i tråd med byrådets forslag.
+
+Alternative forslag:
+- Jomar Andre Aftret (FrP): Følgende strykes fra reglementet 4.2 Trondheim kommunes kraftfond: God avkastning på lang sikt anses å avhenge av en bærekraftig utvikling i økonomisk, miljømessig og samfunnsmessig forstand, samt av velfungerende, legitime og effektive markeder. Forvaltningen skal baseres på et langsiktig mål om nullutslipp av klimagasser fra selskapene i investeringsporteføljen. Og erstattes av: Forvaltningen skal ha som formål å sikre en langsiktig avkastning som kan bidra til å gi kommunens innbyggere et godt tjenestetilbud.
+
+Voteringer:
+- Votering over innstillingen (byrådets forslag til endringer i finansreglementet)
+  - Innstillingen: enstemmig stemmer
+- Votering over Aftrets tilleggsforslag om endring av reglementets formulering om langsiktig avkastning
+  - Aftrets tilleggsforslag: 7 stemmer
+  - Mot (beholde opprinnelig tekst/byrådets forslag): 60 stemmer

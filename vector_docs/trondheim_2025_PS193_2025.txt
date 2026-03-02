@@ -1,0 +1,48 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 193/2025
+rodt_fremmet: True
+---
+
+Tittel: Andre økonomirapport 2025
+
+Vedtak:
+Bystyret vedtar følgende endringer av investeringsbudsjettet for 2025 (tall i millioner kroner) tabellen justeres følgelig:
+k) bevilge 1 million til nytt høyttaleranlegg og andre nødvendige tiltak i Leangen Ishall
+l) bevilge 200 000 til rydding og istandsetting av uteområdet i Lokes vei
+Alle ovennevnte forslag finansieres fra disposisjonsfondet
+Bystyret bevilger 10 000 000 kroner fra disposisjonsfondet som fordeles likt til enheter i kommunen etter antall ansatte. Disse midlene er øremerket trivselstiltak for ansatte. Dette skal kostnadsføres på eget prosjektnummer, og midler som er ubenyttet før 1.4.26 betales tilbake.
+Bystyret ber byrådet gå i dialog med Trøndelag Fylkeskommune og Det Mosaiske Trossamfunn for å se på muligheten for å bevilge et engangstilskudd til oppstart av ordningen Jødiske veivisere som har fått støtte fra staten. Dette må innarbeides innenfor eksisterende budsjettrammer.
+Bystyret bevilger 5 millioner kroner fra disposisjonsfondet til bo- og aktivitetstilbudet. Midlene er øremerket til enhetene som så langt i 2025 har et merforbruk.
+Bystyret bevilger 200 000 kr fra disposisjonsfondet som en engangsstøtte til Kolstad fotball. Bevilgingen øremerkes til å opprettholde driften av utlånssentralen.
+
+Alternative forslag:
+- Mats Ramo (H) på vegne av H, FrP, KrF, MDG, SP, V, PP: Bystyret vedtar følgende endringer av investeringsbudsjettet for 2025 (tall i millioner kroner) tabellen justeres følgelig:
+k) bevilge 1 million til nytt høyttaleranlegg og andre nødvendige tiltak i Leangen Ishall
+l) bevilge 200 000 til rydding og istandsetting av uteområdet i Lokes vei
+Alle ovennevnte forslag finansieres fra disposisjonsfondet
+Nytt punkt 6
+Bystyret bevilger 10 000 000 kroner fra disposisjonsfondet som fordeles likt til enheter i kommunen etter antall ansatte. Disse midlene er øremerket trivselstiltak for ansatte. Dette skal kostnadsføres på eget prosjektnummer, og midler som er ubenyttet før 1.4.26 betales tilbake.
+Nytt punkt 7
+Bystyret ber byrådet gå i dialog med Trøndelag Fylkeskommune og Det Mosaiske Trossamfunn for å se på muligheten for å bevilge et engangstilskudd til oppstart av ordningen Jødiske veivisere som har fått støtte fra staten. Dette må innarbeides innenfor eksisterende budsjettrammer.
+- Håkon Einarsve (Ap) fra Ap, R, SV, Uavh. Letnes Ødegaard: Bystyret bevilger 5 millioner kroner fra disposisjonsfondet til bo- og aktivitetstilbudet. Midlene er øremerket til enhetene som så langt i 2025 har et merforbruk.
+- Roald Arentz (R): Byrådets konkluderer med at de er fornøyd med si egen økonomistyring, men dette samsvarer dårlig med virkeligheten ute på enhetene. Omstillingsarbeidet som det refereres til er i praksis ei systematisk underbemanning av tjenestene. Det mangler fortsatt flere titalls millioner til å oppnå lovpålagte krav til grunnbemanninga i skolen. Bemanninga i barnehage og SFO er ikke tilstrekkelig til å gi ressurskrevende barn et adekvat tilbud, og vikarbruken er fortsatt for stor. BoA-området har vært underfinansiert over tid, og har nå opplevd ytterligere kutt som har kosta folk jobben, samtidig som byrådet har bevilga uante summer til et mislykka privatiseringsprosjekt.
+Bystyret mener dette viser at kommunen drives på sparebluss uten at det er tvingende nødvendig, og at dette kommer til å koste oss dyrt på lengre sikt. Overskuddet i kraftfondet og kommunens gode regnskapsresultat skaper et handlingsrom som bystyret mener kan brukes til å sikre en ordentlig grunnbemanning i tjenestene. Kommunens tjenester kan ikke styres og måles ut ifra et regneark alene, men også etter indikatorer fra kvalitetsmeldingene og tilbakemeldinger fra organisasjonen. Gode tjenester og godt arbeidsmiljø forutsetter kontakt med de ansatte på enhetene, og ei økonomistyring som sikrer tilstrekkelig bemanning.
+- Håkon Einarsve (Ap): Bystyret bevilger 200 000 kr fra disposisjonsfondet som en engangsstøtte til Kolstad fotball. Bevilgingen øremerkes til å opprettholde driften av utlånssentralen.
+
+Voteringer:
+- Votering over innstillingen
+  - Innstillingen: enstemmig stemmer
+- Votering over Ramos fellesforslag unntatt pkt 6
+  - Ramos fellesforslag unntatt pkt 6: enstemmig stemmer
+- Votering over Ramos fellesforslag pkt 6 (trivselstiltak for ansatte)
+  - For: 55 stemmer
+  - Mot: 12 stemmer
+- Votering over Einarsves tilleggsforslag 'Ekstra bevilgning til bo- og aktivitetstilbudet'
+  - For: enstemmig stemmer
+- Votering over Roald Arentz tilleggsforslag (uttalelse om andre økonomirapport)
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Votering over Einarsves tilleggsforslag 'Opprettholdelse av Kolstad fotballs utlånssentral'
+  - For: enstemmig stemmer

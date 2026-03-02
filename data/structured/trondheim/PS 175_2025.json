@@ -1,0 +1,28 @@
+{
+  "tittel": "Høyere aksjeandel i Trondheim kommunes kraftfond (TKK)",
+  "innstilling": null,
+  "vedtak": "Saken ble utsatt i bystyrets møte 28. august 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelse av saken.",
+      "alternativer": [
+        {
+          "navn": "Utsette saken",
+          "stemmer": "flertall"
+        },
+        {
+          "navn": "Ikke utsette saken",
+          "stemmer": "mindretall"
+        }
+      ],
+      "hvem_vant": "Utsette saken",
+      "hvilket_alternativ_Rødt_støttet": null,
+      "Rødt_var_på_vinner_eller_taper_side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "28.08.2025",
+  "saksnummer_ps": "PS 175/2025",
+  "rodt_fremmet_forslag": false
+}

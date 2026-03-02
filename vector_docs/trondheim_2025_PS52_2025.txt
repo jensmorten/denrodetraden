@@ -1,0 +1,20 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 52/2025
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om skolekretsgrenser i Trondheim kommune
+
+Vedtak:
+1. Bystyret vedtar forskrift om skolekretsgrenser
+2. Følgende endring på § 4.2 Klagebehandling: “Alle enkeltvedtak om skoleplass og avslag på søknader om skoleplass ved annen skole, kan påklages etter forvaltningslovens bestemmelser om klage på enkeltvedtak. Klagefristen er tre uker etter mottatt vedtak. Skolen ved rektor behandler alle eventuelle klager på vedtak eller avslag på søknader om skoleplass. Dersom skolen opprettholder opprinnelig vedtak, vil saken oversendes via byrådet til klageutvalget for behandling. Dersom klageutvalget opprettholder skolens vedtak, oversendes saken til Statsforvalteren i Trøndelag som fatter endelig vedtak."
+
+Voteringer:
+- Votering over innstillingens punkt 1: Bystyret vedtar forskrift om skolekretsgrenser.
+  - For: 65 stemmer
+  - Mot: 2 stemmer
+- Votering over innstillingens punkt 2: Endring på § 4.2 Klagebehandling.
+  - For: 35 stemmer
+  - Mot: 32 stemmer

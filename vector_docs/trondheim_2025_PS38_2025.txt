@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 38/2025
+rodt_fremmet: False
+---
+
+Tittel: Valg av settemedlemmer- og midlertidige nestledere
+
+Vedtak:
+Innstillingen ble enstemmig vedtatt.
+
+Voteringer:
+- Votering over innstillingen om valg av settemedlemmer og midlertidige nestledere.
+  - Innstillingen: Enstemmig stemmer

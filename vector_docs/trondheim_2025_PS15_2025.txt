@@ -1,0 +1,23 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 15/2025
+rodt_fremmet: False
+---
+
+Tittel: Romoslia fotball - søknad om kommunal lånegaranti for rehabilitering av kunstgressdekke
+
+Vedtak:
+Bystyret vedtar å stille en lånegaranti for et lån på kroner 4.554.333 tilknyttet finansiering av nytt banedekke for Romolslia Sportsklubb. Det stilles følgende betingelser for garantien:
+1. Garantiansvaret utgjør samlet inntil kroner 5.009.766 kroner, hovedstol med et 10% tillegg for renter og omkostninger
+2. Garantien gis ved simpel kausjon.
+3. Lånets løpetid er på maksimalt 10 år.
+4. Det er en forutsetning at kommunale tilskudd, spillemidler og kompensasjon for merverdiavgift i sin helhet benyttes til nedbetaling av lånet.
+5. Garantien nedtrappes i takt med forutsatt utvikling i hovedforholdet, som serielån.
+6. Garantiansvaret opphører i sin helhet 2 år etter det tidspunktet lånet er forutsatt å være nedbetalt.
+7. Det påhviler mottaker av garantien et ansvar med å sikre at garantien ikke er i strid med kommuneloven. Garantien er ugyldig hvis mottakeren forsto eller burde forstått at den er i strid med kommunelovens § 14- 19 første ledd første punktum.
+8. Bystyret forutsetter at idrettslaget legger et kunstgress uten løst gummi- eller plastholdig granulat, i tråd med de planene som er presentert.
+
+Voteringer:
+- Votering over innstillingen om å stille kommunal lånegaranti for Romolslia Sportsklubb med angitte betingelser.
+  - Innstillingen: enstemmig stemmer

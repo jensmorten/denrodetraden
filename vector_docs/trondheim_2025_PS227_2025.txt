@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 227/2025
+rodt_fremmet: False
+---
+
+Tittel: Sterkere virkemiddel for å motvirke spekulativt forfall
+
+Vedtak:
+Denne saken ble utsatt i bystyrets møte 23.10.2025.

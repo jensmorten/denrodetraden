@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 10/2025
+rodt_fremmet: False
+---
+
+Tittel: Valg av medlemmer i Trondheim kommunes æresborgerutvalg
+
+Vedtak:
+Bystyret oppnevner følgende til Trondheim kommunens æresborgerutvalg: Ordfører, Byrådsleder, Emil Raaen (AP), Silje Naper Salomonsen (SV), Majen Helen Sævik (KrF)
+
+Voteringer:
+- Votering over innstillingen om valg av medlemmer til æresborgerutvalget.
+  - Innstillingen: enstemmig stemmer

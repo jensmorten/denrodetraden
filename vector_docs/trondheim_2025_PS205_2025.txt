@@ -1,0 +1,26 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 205/2025
+rodt_fremmet: False
+---
+
+Tittel: Innbyggerforslag - Moksneslia må tilbakeføres til grøntstruktur i KPA
+
+Vedtak:
+Bystyret avviser derfor forslaget.
+
+Alternative forslag:
+- Svein Otto Nilsen (PP): Utsettelse pga. befaring og kontroll av vedtakets gyldighet: Saken utsettes, da det planlegges en større befaring om kort tid. Bystyret ber samtidig byrådet frem til saken kommer opp i bystyret se på om vedtaket om regulering til utbygging (byggesone 3) 26.09.2024 i Moksneslia ble fattet på feil og mangelfullt grunnlag slik innbyggerinitiativet påpeker. Det påpekes i innbyggerinitiativet at det ikke var planprogram/konsekvensutredning etter pbl §§4-1/4-2, mangelfull kartlegging av Moksneslia som del av økologisk korridor (nml §§8–9) og brudd på utredningsplikten (fvl §17) og utilstrekkelig medvirkning.
+- Elin Marie Andreassen (FrP): Bystyret avviser forslaget: Område 127 Moksneslia er første gang omtalt i arealinnspill vedlagt saken som vedlegg 2 av 2, da bygningsrådet fastsatte planprogram for kommuneplanens arealdel 2022-2034, den 8. mars 2022. Da bygningsrådet hadde saken til førstegangsbehandling før utsendning til offentlig ettersyn og høring, den 18. oktober 2022, er område 127 Moksneslia konkret nevnt i vedtaket gjengitt i protokollen fra bygningsrådets behandling. Område 127 Moksneslia foreslås her hørt som boligformål. Til sluttbehandling av saken, første gang satt på saklisten i bygningsrådet 16. mai 2023, fulgte konsekvensutredning av innsendte forslag til endringer i byggeformål som vedlegg 9. Her er Moksneslia konsekvensutredet på lik linje med andre innsendte forslag. Dette vedlegget har fulgt saken frem til endelig sluttbehandling i bystyret. I innstillingen fra byutviklings- og samferdselskomiteen til bystyret, datert 3. juni 2024, fremgår område 127 Moksneslia som utbyggingsområde for bolig. Til sist ble område 127 Moksneslia vedtatt avsatt til byggeformål med byggesone 3, i bystyrets vedtak av 26. september 2024. I samme vedtak fremgår det også at område 127 Moksneslia skal gjennomgå en tilleggshøring, med tanke på å avsette området til byggesone 2. Historikken knyttet til politisk behandling av kommuneplanens arealdel 2022-2034 viser at arealformålet for område 127 Moksneslia har vært gjennom en grundig vurdering i forbindelse med behandling av Kommuneplanens arealdel 2022-2034 (område 127) i inneværende valgperiode. I henhold til kommunelovens § 12-1, kan det ikke fremmes innbyggerforslag med samme innhold som en sak som er behandlet av kommunestyret i løpet av valgperioden. Bystyret avviser derfor forslaget.
+
+Voteringer:
+- Votering over Nilsens utsettelsesforslag
+  - Utsettelsesforslag (Nilsen): 4 stemmer
+  - Mot utsettelsesforslaget: 63 stemmer
+- Votering over innstillingen
+  - Innstillingen: 1 stemmer
+  - Mot innstillingen: 66 stemmer
+- Votering over Andreassens avvisningsforslag
+  - Andreassens avvisningsforslag: 63 stemmer
+  - Mot Andreassens avvisningsforslag: 4 stemmer

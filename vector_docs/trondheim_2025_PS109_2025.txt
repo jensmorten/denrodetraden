@@ -1,0 +1,27 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 109/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Solidaritet i en urolig tid - Mona Berger, Silje Salomonsen (SV), Roald Arentz, Mia Småvik Rørdal (R), Jørn Arve Flått
+
+Vedtak:
+Bystyret ber byrådet om å oppfordre nasjonale myndigheter til å gi ekstra bidrag til hjelpeorganisasjoner som har blitt rammet av dramatiske bistandskutt fra USA.
+
+Alternative forslag:
+- Morten Kokaas (PP) pva PP, KF, MDG, Sp, V, H: Bystyret ber byrådet om å oppfordre nasjonale myndigheter til å gi ekstra bidrag til hjelpeorganisasjoner som har blitt rammet av dramatiske bistandskutt fra USA.
+- Mona Berger (SV) pva SV, Ap, R: 1. Bystyret vedtar å gi en donasjon på 6 millioner kroner, fordelt likt mellom Flyktningehjelpen, Norsk folkehjelp og Redd barna, øremerket prosjekter som har blitt rammet av de dramatiske bistandskuttene fra USA. Donasjonen skal finansieres av disposisjonsfondet.
+2. Bystyret oppfordrer andre kommunestyrer og regjeringen til å øke den humanitære bistanden til aktuelle hjelpeorganisasjoner.
+
+Voteringer:
+- Votering over innstillinga
+  - Innstillinga: 7 stemmer
+  - Mot (flertallet): 60 stemmer
+- Votering over Bergers forslag
+  - Bergers forslag: 30 stemmer
+  - Mot (flertallet): 37 stemmer
+- Votering over Kokaas forslag
+  - Kokaas forslag: 63 stemmer
+  - Mot (4FrP): 4 stemmer

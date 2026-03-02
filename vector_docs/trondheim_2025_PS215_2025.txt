@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 215/2025
+rodt_fremmet: False
+---
+
+Tittel: Valg av midlertidig varaordfører
+
+Vedtak:
+Bystyret oppnevner Gro Eide som midlertidig varaordfører i perioden 05.01.2026 til 27.03.2026
+
+Voteringer:
+- Votering over innstillingen om å oppnevne Gro Eide som midlertidig varaordfører.
+  - Innstillingen (Gro Eide): 38 stemmer
+  - Mot innstillingen: 29 stemmer

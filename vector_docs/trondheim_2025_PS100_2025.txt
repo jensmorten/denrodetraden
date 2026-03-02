@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 100/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Brudd på opplysningsplikten - Roald Arentz (R)
+
+Vedtak:
+Sak ble utsatt i møtet 30. april 2025.
+
+Voteringer:
+- Votering om å utsette saken
+  - Utsette saken: None stemmer

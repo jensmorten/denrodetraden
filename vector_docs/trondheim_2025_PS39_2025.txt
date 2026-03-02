@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 39/2025
+rodt_fremmet: False
+---
+
+Tittel: Lovlighetskontroll bystyrets vedtak i sak 13/25 - fritt brukervalg i hjemmetjenesten
+
+Vedtak:
+Bystyret opprettholder sitt vedtak av 30.01.2025 i sak 13/25 “Fritt brukervalg i hjemmetjenesten.” Saken sendes til Statsforvalteren i Trøndelag for lovlighetskontroll.
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV) på vegne av SV, Uavh. R, Ap: Bystyret opphever sitt vedtak av 30.01.2025 i sak 13/25 “Fritt brukervalg i hjemmetjenesten.”
+
+Voteringer:
+- Alternativ votering mellom innstillingen og alternativ forslag fra SV.
+  - Innstillingen (opprettholde vedtaket): 37 stemmer
+  - Alternativt forslag fra SV (oppheve vedtaket): 30 stemmer

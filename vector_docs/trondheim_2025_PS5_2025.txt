@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 5/2025
+rodt_fremmet: False
+---
+
+Tittel: Revidering av samarbeidsavtale mellom Idrettsrådet i Trondheim og Trondheim kommune 2024-2028
+
+Vedtak:
+Bystyret vedtar Revidert samarbeidsavtalen mellom Idrettsrådet i Trondheim og Trondheim kommune 2024-2028, slik det kommer fram av vedlegg 1 i saken.
+
+Voteringer:
+- Votering over innstillingen om å vedta revidert samarbeidsavtale mellom Idrettsrådet i Trondheim og Trondheim kommune 2024-2028.
+  - Innstillingen: enstemmig stemmer

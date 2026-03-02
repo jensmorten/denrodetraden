@@ -1,0 +1,28 @@
+{
+  "tittel": "Kvalitetsmelding for BFT 2024",
+  "innstilling": null,
+  "vedtak": "Denne saken ble utsatt i bystyrets møte 23.10.2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelse av saken.",
+      "alternativer": [
+        {
+          "navn": "Utsette saken",
+          "stemmer": null
+        },
+        {
+          "navn": "Ikke utsette saken",
+          "stemmer": null
+        }
+      ],
+      "hvem vant": "Utsette saken",
+      "hvilket alternativ Rødt støttet": null,
+      "om Rødt var på vinner- eller taper-side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.10.2025",
+  "saksnummer_ps": "PS 200/2025",
+  "rodt_fremmet_forslag": false
+}

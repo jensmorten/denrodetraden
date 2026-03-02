@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 121/2025
+rodt_fremmet: False
+---
+
+Tittel: Leirbruvegen 1 - detaljregulering til sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Leirbruvegen 1 som vist på kart i målestokk 1:1000, merket Voll arkitekter senest datert 11.06.2024 med bestemmelser senest datert 03.03.2025 og beskrevet i planbeskrivelsen, senest datert 03.03.2025. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Votering over innstillingen om å vedta detaljregulering for Leirbruvegen 1.
+  - Innstillingen: enstemmig stemmer

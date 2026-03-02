@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 102/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Parkering i Nilsbyen må bestå - Jostein E Gjermstad (FrP) og Arild Svendsli (FrP)
+
+Vedtak:
+Sak ble utsatt i møtet 30. april 2025.

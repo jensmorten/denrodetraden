@@ -1,0 +1,24 @@
+{
+  "tittel": "Søknad om fritak og nyvalg av medlem i Trondheim eldreråd",
+  "innstilling": "Bystyret gir Hans Hagset fritak som medlem i Trondheim eldreråd. Bystyret oppnevner Tor Kværnø som nytt medlem.",
+  "vedtak": "Bystyret gir Hans Hagset fritak som medlem i Trondheim eldreråd. Bystyret oppnevner Tor Kværnø som nytt medlem.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om fritak for Hans Hagset og oppnevning av Tor Kværnø.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "hvilket_alternativ_Rødt_støttet": "Innstillingen",
+      "Rødt_var_på_vinner_eller_taper_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.10.2025",
+  "saksnummer_ps": "PS 217/2025",
+  "rodt_fremmet_forslag": false
+}

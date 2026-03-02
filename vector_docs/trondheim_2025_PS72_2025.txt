@@ -1,0 +1,30 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 72/2025
+rodt_fremmet: False
+---
+
+Tittel: Opprettelse av Trondheimsalliansen IPR og tilhørende samarbeidsavtale
+
+Vedtak:
+Trondheim kommune etablerer et interkommunalt politisk råd i henhold til kommunelovens kapittel 18 sammen med kommunene Stjørdal, Malvik, Melhus, Skaun, Orkland, Midtre Gauldal og Indre Fosen.
+Navnet på det interkommunale politiske rådet skal være Trondheimsalliansen IPR.
+Forslag til samarbeidsavtale, datert 21.02.2025, vedtas som grunnlag for samarbeidet.
+Som Trondheim kommunes medlem av Trondheimsalliansen IPR velges ordfører.
+Som varamedlem for Trondheim kommunes ordfører oppnevnes Erling Moe (V).
+Som observatør fra Trondheim kommune oppnevnes Jørn Arve Flått (Ap).
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV): Utsettes og ber utvalg om uttalelser: Bystyret sender saken til uttalelse i utvalgene for næring og finans.
+- Even Næss Bergseng (SV): Alternativt punkt 4, 5 og 6: 4. som Trondheim kommunes medlem av Trondheimsalliansen IPR velges byrådsleder. 5. Som varamedlem for byrådsleder oppnevnes byrådets nestleder. 6. Som observatør fra Trondheim kommune oppnevnes leder for opposisjonen (gruppeleder i største opposisjonsparti).
+
+Voteringer:
+- Votering over Salomonsens utsettelsesforslag
+  - Utsettelsesforslag: 30 stemmer
+  - Mot utsettelsesforslag: 37 stemmer
+- Votering over innstillingens punkt 1, 2 og 3
+  - Innstillingens punkt 1, 2 og 3: enstemmig stemmer
+- Alternativ votering mellom innstillingen og Salomonsens alternative forslag (punkt 4, 5 og 6)
+  - Innstillingen: 37 stemmer
+  - Salomonsens alternative forslag: 30 stemmer

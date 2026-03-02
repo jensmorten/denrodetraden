@@ -1,0 +1,47 @@
+{
+  "tittel": "Etterlevelseskontroll IT - roller og tilganger",
+  "innstilling": null,
+  "vedtak": [
+    "Bystyret er kritisk til at Trondheim kommune ikke har hatt tilfredsstillende kontroll med roller og tilganger for systemene Flyvo og eByggesak, og at prinsippet om \"minst mulig privilegium\" ikke er etterlevd i flere systemer.",
+    "Bystyret mener det ikke er tilfredsstillende at kommunen fortsatt mangler overordnede skriftlige retningslinjer for hvordan tjenesteforvaltere skal administrere roller og tilganger i IT-systemene. Kommunen har ennå ikke implementert retningslinjer som beskriver hvordan tjenesteforvalter skal ivareta ansvaret for personopplysninger (GDPR) for sine IT-systemer, noe som ble tatt opp av revisjonen i etterlevelseskontrollen i 2023.",
+    "Bystyret ber byråden gi en tilbakemelding til kontrollutvalget om hvordan etterlevelseskontrollen er fulgt opp innen 31.12.2025.",
+    "Bystyret tar for øvrig rapporten til orientering.",
+    "Meldesystemet Vigilo må evalueres. Bystyret ber byrådet foreta en brukerundersøkelse for å kartlegge hvordan systemet fungerer, med mål om å etablere en bedre kommunikasjonskanal mellom barnehage/skole og hjem."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roald Arentz (R)",
+      "tekst": "Meldesystemet Vigilo må evalueres. Bystyret ber byrådet foreta en brukerundersøkelse for å kartlegge hvordan systemet fungerer, med mål om å etablere en bedre kommunikasjonskanal mellom barnehage/skole og hjem."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "alternativ_rødt_støttet": "Innstillingen",
+      "rødt_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Roald Arentz (R) om evaluering av Vigilo.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Arentz",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Tilleggsforslag fra Arentz",
+      "alternativ_rødt_støttet": "Tilleggsforslag fra Arentz",
+      "rødt_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "28.08.2025",
+  "saksnummer_ps": "PS 170/2025",
+  "rodt_fremmet_forslag": true
+}

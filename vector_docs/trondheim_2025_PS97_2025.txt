@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 97/2025
+rodt_fremmet: False
+---
+
+Tittel: Korrigering - Oppnevning til styre i Stavne Arbeid Trondheim KF og Stavne Inkludering Trondheim KF
+
+Vedtak:
+Bystyret oppnevner 7 medlemmer og 3 varamedlemmer til felles styre for Stavne Arbeid Trondheim KF og Stavne Inkludering Trondheim KF for perioden 2025-2026. Vararepresentant nr 4. Majen Helen Sævik går ut fra listen med vararepresentanter
+
+Voteringer:
+- Votering over innstillingen
+  - Innstillingen: enstemmig stemmer

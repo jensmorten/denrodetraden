@@ -1,0 +1,24 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 170/2025
+rodt_fremmet: True
+---
+
+Tittel: Etterlevelseskontroll IT - roller og tilganger
+
+Vedtak:
+Bystyret er kritisk til at Trondheim kommune ikke har hatt tilfredsstillende kontroll med roller og tilganger for systemene Flyvo og eByggesak, og at prinsippet om "minst mulig privilegium" ikke er etterlevd i flere systemer.
+Bystyret mener det ikke er tilfredsstillende at kommunen fortsatt mangler overordnede skriftlige retningslinjer for hvordan tjenesteforvaltere skal administrere roller og tilganger i IT-systemene. Kommunen har ennå ikke implementert retningslinjer som beskriver hvordan tjenesteforvalter skal ivareta ansvaret for personopplysninger (GDPR) for sine IT-systemer, noe som ble tatt opp av revisjonen i etterlevelseskontrollen i 2023.
+Bystyret ber byråden gi en tilbakemelding til kontrollutvalget om hvordan etterlevelseskontrollen er fulgt opp innen 31.12.2025.
+Bystyret tar for øvrig rapporten til orientering.
+Meldesystemet Vigilo må evalueres. Bystyret ber byrådet foreta en brukerundersøkelse for å kartlegge hvordan systemet fungerer, med mål om å etablere en bedre kommunikasjonskanal mellom barnehage/skole og hjem.
+
+Alternative forslag:
+- Roald Arentz (R): Meldesystemet Vigilo må evalueres. Bystyret ber byrådet foreta en brukerundersøkelse for å kartlegge hvordan systemet fungerer, med mål om å etablere en bedre kommunikasjonskanal mellom barnehage/skole og hjem.
+
+Voteringer:
+- Votering over innstillingen.
+  - Innstillingen: enstemmig stemmer
+- Votering over tilleggsforslag fra Roald Arentz (R) om evaluering av Vigilo.
+  - Tilleggsforslag fra Arentz: enstemmig stemmer

@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 223/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Tiltak mot hyblifisering - Mona Berger (SV) og Even Næss Bergseng (SV)
+
+Vedtak:
+Denne saken ble utsatt i bystyrets møte 23.10.2025.

@@ -1,0 +1,52 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 76/2025
+rodt_fremmet: False
+---
+
+Tittel: Kvalitetsmelding skole 2024
+
+Vedtak:
+1. Bystyret tar kvalitetsmelding skole 2024, som beskrevet i opplæringslovens § 17-12, til orientering.
+2. Bystyret ber byrådet fortsette arbeidet med felles satsingsområder for skolene i Trondheim kommune; læringsorientert ledelse, inkluderende læringsmiljø og lesing, blant annet for å redusere forskjellene mellom enhetene.
+3. Bystyret ber byrådet jobbe for å prioritere økt elevmedvirkning, styrke bruk av vurdering for læring og målrettet forebygging av mobbing, og ber om at det rapporteres på dette i neste års kvalitetsmelding.
+4. Bystyret ber byrådet utvikle gode strukturer for rapportering for Trondheim voksenopplæringssenter (TROVO) sammen med TROVO og aktuelle organisasjoner, og rapportere på disse i neste års kvalitetsmelding.
+5. Bystyret ber byrådet videreføre arbeidet som har til hensikt å redusere elevfraværet i skolene i Trondheim.
+6. Bystyret anerkjenner den krevende bemanningssituasjonen i skolen og ber byrådet utarbeide en plan for opptrapping av grunnbemanningen i sektoren. Planen fremlegges i forbindelse med budsjettbehandlingen for 2026.
+7. Bystyret ber byrådet videreføre arbeidet med å forbedre det fysiske læringsmiljøet i Trondheimsskolen.
+8. Bystyret ber om at forskjellene mellom bydelene synliggjøres i fremtidige kvalitetsmeldinger. Bystyret ber byrådet spesielt følge skolesituasjonen i Heimdal bydel, og iverksette nødvendige tiltak som fremmer læring og trivsel.
+9. Bystyret ber byrådet inkludere en oversikt over antall tilfeller av alvorlig hærverk og skadeverk i skoler i den årlige kvalitetsmeldingen, samt eventuelle tiltak for å forebygge slike hendelser.
+10. Bystyret ber byrådet inkludere en oversikt over antall tilfeller av vold- og trusselhendelser i skolen i den årlige kvalitetsmeldingen, samt eventuelle tiltak for å forebygge slike hendelser. Kvalitetsmeldingen bør også gi mulighet til å differensiere mellom alvorlighetsgraden av innrapporterte vold- og trusselhendelser i skolen.
+11. Bystyret ber byrådet iverksette tiltak for å gjøre undervisningen mer praktisk og variert, slik at den bedre tilpasses elevenes ulike behov.
+12. Bystyret ber byrådet kartlegge årsakene til forskjeller i grunnskolepoeng mellom jenter og gutter. Bystyret ber byrådet iverksette tiltak for å jevne ut forskjeller i grunnskolepoeng mellom jenter og gutter.
+
+Alternative forslag:
+- Maria Alseth (FrP): Alternativ til punkt 10: Bystyret ber byrådet inkludere en oversikt over antall tilfeller av vold- og trusselhendelser i skolen i den årlige kvalitetsmeldingen, samt eventuelle tiltak for å forebygge slike hendelser. Kvalitetsmeldingen bør også gi mulighet til å differensiere mellom alvorlighetsgraden av innrapporterte vold- og trusselhendelser i skolen.
+- Ottar Michelsen (SV): Alternativ til punkt 6: Bystyret mener det er kritikkverdig at bemanningsnormen brytes ved flere skoler og ber byrådet snarest mulig komme tilbake med en plan for å øke bemanningen. Bystyret forventer at lærernormen innfris fra skoleåret 2025/26.
+- Leon Bafondoko (Ap) på vegne av Ap, SV: Tilleggsforslag 'Mer praktisk og variert undervisning': Bystyret ber byrådet iverksette tiltak for å gjøre undervisningen mer praktisk og variert, slik at den bedre tilpasses elevenes ulike behov.
+- Leon Bafondoko (Ap): Tilleggsforslag 'Digitale verktøy og skjerm i skolen': Bystyret ber byrådet om å inkludere mer detaljert informasjon om bruken av digitale verktøy og skjermbasert undervisning i den årlige kvalitetsmeldingen. Dette skal omfatte hvordan slike verktøy brukes pedagogisk, samt eventuelle utfordringer og fordeler.
+- Leon Bafondoko (Ap) på vegne av Ap, SV: Tilleggsforslag 'Laget rundt eleven': Bystyret ber byrådet kartlegge andelen ansatte med faste heltids- og deltidsstillinger, inkludert assistenter, fagarbeidere, barne- og ungdomsarbeidere, vernepleiere, miljøterapeuter og annet personale i elevrettet arbeid.
+- Leon Bafondoko (Ap): Tilleggsforslag 'Forskjeller i grunnskolepoeng mellom jenter og gutter': Bystyret ber byrådet kartlegge årsakene til forskjeller i grunnskolepoeng mellom jenter og gutter. Bystyret ber byrådet iverksette tiltak for å jevne ut forskjeller i grunnskolepoeng mellom jenter og gutter.
+
+Voteringer:
+- Innstillingen unntatt pkt 6 og 10
+  - Innstillingen unntatt pkt 6 og 10: enstemmig stemmer
+- Alternativ votering mellom Michelsens alternativ pkt 6 og innstillingens pkt 6
+  - Innstillingens pkt 6: 36 stemmer
+  - Michelsens alternativ pkt 6: 31 stemmer
+- Alternativ votering mellom Alseths alternativ til pkt 10 og innstillingens pkt 10
+  - Alseths alternativ til pkt 10: 51 stemmer
+  - Innstillingens pkt 10: 16 stemmer
+- Bafondokos tilleggsforslag 'Mer praktisk og variert undervisning'
+  - For: 36 stemmer
+  - Mot: 31 stemmer
+- Bafondokos tilleggsforslag 'Digitale verktøy og skjerm i skolen'
+  - For: 29 stemmer
+  - Mot: 38 stemmer
+- Bafondokos tilleggsforslag 'Laget rundt eleven'
+  - For: 31 stemmer
+  - Mot: 36 stemmer
+- Bafondokos tilleggsforslag 'Forskjeller i grunnskolepoeng mellom jenter og gutter'
+  - For: 36 stemmer
+  - Mot: 31 stemmer

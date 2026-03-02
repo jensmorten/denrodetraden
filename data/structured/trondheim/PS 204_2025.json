@@ -1,0 +1,61 @@
+{
+  "tittel": "Innbyggerforslag - Etablering av sykkelpark (pumptrack) for barn og unge på Heimdal",
+  "innstilling": "Bystyret ber byrådet innarbeide tiltaket i prioriteringslista for bruk av nærmiljømidler. Oppvekst- og kulturutvalget orienteres om prioriteringslisten. Bystyret ber byrådet gå i dialog med innbyggerne og FAU i nærområdet om etablering av sykkelpark for barn og unge på Heimdal, og vurdere mulighetene for et prøveprosjekt.",
+  "vedtak": "Bystyret ber byrådet innarbeide tiltaket i prioriteringslista for bruk av nærmiljømidler. Oppvekst- og kulturutvalget orienteres om prioriteringslisten. Bystyret ber byrådet gå i dialog med innbyggerne og FAU i nærområdet om etablering av sykkelpark for barn og unge på Heimdal, og vurdere mulighetene for et prøveprosjekt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "EfiaMarie Damba (SV) på vegne av SV, Ap",
+      "tekst": "Bystyret forventer en utredning av kostnader og lokasjon innen slutten av første halvdel av 2026."
+    },
+    {
+      "forslagsstiller": "Efia Marie Damba (SV) på vegne av SV, Ap",
+      "tekst": "Bystyret ber byrådet gå i dialog med innbyggerne og FAU i nærområdet om etablering av sykkelpark for barn og unge på Heimdal, og vurdere mulighetene for et prøveprosjekt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "hvilket_alternativ_Rødt_støttet": "Innstillingen",
+      "Rødt_var_på": "vinner-side"
+    },
+    {
+      "beskrivelse": "Votering over Dambas tilleggsforslag 'Utredning av kostnader og lokasjon'.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Mot forslaget",
+      "hvilket_alternativ_Rødt_støttet": "For forslaget (2 R for, 1 R mot)",
+      "Rødt_var_på": "både vinner- og taper-side"
+    },
+    {
+      "beskrivelse": "Votering over Dambas tilleggsforslag 'Dialog med innbyggerne og FAU i nærområdet'.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "hvilket_alternativ_Rødt_støttet": "For forslaget",
+      "Rødt_var_på": "vinner-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.10.2025",
+  "saksnummer_ps": "PS 204/2025",
+  "rodt_fremmet_forslag": false
+}

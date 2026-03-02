@@ -1,0 +1,25 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 46/2025
+rodt_fremmet: False
+---
+
+Tittel: Tredje økonomirapport 2024
+
+Vedtak:
+Bystyret vedtar følgende endringer av investeringsbudsjettet for 2025 fordelt på investeringsområder (tall i millioner kroner):
+Bystyret vedtar følgende endringer av investeringsbudsjettet for 2025 (tall i millioner kroner):
+Bystyret vedtar endringer av brutto investeringsramme per prosjekt som fremstilt i vedlegg 1.
+Bystyret vedtar endring av kostnadsrammen for følgende prosjekter:
+a. Øke kostnadsrammen for Stavne aktivitetssenter, investeringsområde for helse- og omsorg, med 4 millioner kroner fra 149,2 millioner kroner til 153,2 millioner kroner. Økt kostnadsramme finansieres via omdisponering innenfor investeringsområde helse og omsorg fra prosjektet Produksjonskjøkkenet, som har et mindreforbruk på 6,8 millioner kroner.
+b. Redusere kostnadsrammen til prosjektet Buranbanen aktivitetspark, investeringsområde for byrom, parker og grøntareal, med 2,2 millioner kroner fra 14,5 millioner kroner til 12,3 millioner kroner. Ubenyttede 2,2 millioner kroner føres tilbake til opprinnelig budsjettpost, parker, byrom og lekeplasser, investeringsområde for byrom, parker og grøntareal.
+c. Øke kostnadsrammen til prosjektet Investering e-skatt nye Trondheim kommune, investeringsområde for It, med 2,9 millioner kroner, fra 4,5 millioner kroner til 7,4 millioner kroner. Økt kostnadsramme finansieres av økt låneopptak og momskompensasjon.
+d. Øke kostnadsrammen til prosjektet E-lås til bruk i hjemmetjenesten, investeringsområde IT investeringer, med 1,8 millioner kroner i 2024 fra 21,1 millioner kroner til 22,9 millioner kroner. Økt kostnadsramme finansieres av økt låneopptak og momskompensasjon.
+Bystyret vedtar å rebevilge 3,9 millioner kroner fra 2024 til 2025 for Bærekraftige helse- og velferdstjenester (BKP) fra disposisjonsfondet.
+Bystyret vedtar å ta opp lån (inklusive startlån) for inntil 2761 millioner kroner i 2025, en reduksjon på 211 millioner kroner sammenlignet med vedtatt budsjett, se vedlegg 2.
+Bystyret gir byrådet fullmakt til å fordele vedtatte budsjettendringer på investeringsområder og arter.
+
+Voteringer:
+- Votering over innstillingen i sin helhet.
+  - Innstillingen: enstemmig stemmer

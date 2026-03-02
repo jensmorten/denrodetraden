@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 174/2025
+rodt_fremmet: False
+---
+
+Tittel: B-veger - oversikt og vurdering av veger
+
+Vedtak:
+Saken ble utsatt i møtet 28. august 2025.
+
+Voteringer:
+- Votering over utsettelse av saken.
+  - Utsette saken: None stemmer
+  - Ikke utsette saken: None stemmer

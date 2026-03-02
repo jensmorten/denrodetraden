@@ -1,0 +1,26 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 108/2025
+rodt_fremmet: False
+---
+
+Tittel: Overvik B6 sør - detaljregulering - sluttbehandling
+
+Vedtak:
+Bystyret vedtar å sende saken tilbake til byrådet for ny sluttbehandling med ovennevnte premiss.
+
+Alternative forslag:
+- Even Næss Bergseng (SV): Bystyret viser til Stortingets skjerpede føringer for jordvernet fra 2023 og avviser forslag til detaljregulering av Overvik B6 sør, som vist på kart i målestokk 1:1000, merket Norgeshus AS senest datert 25.10.2024 med bestemmelser senest datert 09.12.2024 og beskrevet i planbeskrivelsen, senest datert 10.12.2024.
+- Elin Marie Andreassen (FrP) pva FrP, Ap: Bystyret vedtar forslag til detaljregulering av Overvik B6 sør, som vist på kart i målestokk 1:1000, merket Norgeshus AS senest datert 25.10.2024 med bestemmelser senest datert 09.12.2024 og beskrevet i planbeskrivelsen, senest datert 10.12.2024. Det forutsettes at siktlinjen mellom Ranheim kirke og Overvik Hovedgård som vist i illustrasjon på s. 10 i Planbeskrivelsen (Illustrasjonsplan), overholdes og at det ikke plasseres boligbebyggelse innenfor den illustrerte siktlinjen. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Votering over Bergsengs (SV) forslag om å avvise detaljreguleringen.
+  - Bergsengs forslag: 12 stemmer
+  - Mot Bergsengs forslag: 54 stemmer
+- Votering over Andreassens (FrP/Ap) forslag om å vedta detaljreguleringen med siktlinje-forutsetning.
+  - Andreassens forslag: 21 stemmer
+  - Mot Andreassens forslag: 45 stemmer
+- Votering over innstillinga om å sende saken tilbake til byrådet med premiss.
+  - Innstillinga: 33 stemmer
+  - Mot innstillinga: 33 stemmer

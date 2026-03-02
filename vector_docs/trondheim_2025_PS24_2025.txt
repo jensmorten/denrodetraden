@@ -1,0 +1,38 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 24/2025
+rodt_fremmet: True
+---
+
+Tittel: Konkurranseutsetting av tjenester i BoA
+
+Vedtak:
+Innstillingens punkt 1 og 2 ble vedtatt.
+Alternativt forslag fra Tiller til punkt 3 ble enstemmig vedtatt.
+
+Alternative forslag:
+- Sigurd Jan Ingvaldsen (Ap) på vegne av AP, SV, R, Uavh.: Bystyret avviser forslaget om å konkurranseutsette deler av Bo- og aktivitetstilbudet og vil beholde BoA som et tilbud drevet av kommunen.
+- Berit Triller (H) på vegne av H, FrP, PP, MDG, V, KrF: Byrådet skal levere ny sak til bystyret om innstilling av leverandør før tildeling av kontrakt. Saken skal inneholde beskrivelse av følger for ansatte og tjenestemottakere av tildeling av kontrakt.
+- Roald Arentz (R): Trondheim kommune ønsker ordnede lønns og arbeidsvilkår i private bedrifter som leverer tjenester til kommunen. Det skal kreves at leverandøren har inngått tariffavtale med sine ansatte, med mål om at alle minst skal ha like gode lønns- og arbeidsvilkår som de som jobber i Trondheim kommune.
+- Mona Berger (SV) på vegne av SV, Ap, R, Uavh.: Bystyret ber om at byråden før virksomhetsoverdragelse av ansatte i BoA, legger frem en sak for bystyret med kartlagte konsekvensene for AFP- og pensjonsvilkår for berørte ansatte iht KS særavtale SGS 2020 om pensjonsordninger. Dette gjelder blant annet fremtidig reguleringspremie for berørte ansattes oppsatte rettigheter for arbeidsgiver, samt eventuelle individuelle tap av pensjonsrettigheter som følge av utmelding av tjeneste-pensjonsordningen og eventuelle tap av rett til AFP helt eller delvis.
+- Mona Berger (SV) på vegne av SV, Ap, R, Uavh.: Trondheim kommune skal bidra til ordna arbeidsforhold hos private tjenesteytere vi inngår avtaler med. Det skal legges til rette for og oppfordres til inngåelse av tariffavtaler, med mål om at alle minst skal ha like gode lønns- og arbeidsvilkår som de som jobber i Trondheim kommune.
+
+Voteringer:
+- Votering over Ingvaldsens alternative forslag 'Konkurranseutsetting av tjenester i BOA'
+  - Ingvaldsens alternative forslag: 31 stemmer
+  - Motforslag (innstillingens linje): 36 stemmer
+- Votering over innstillingens punkt 1 og 2
+  - For innstillingens punkt 1 og 2: 36 stemmer
+  - Mot innstillingens punkt 1 og 2: 31 stemmer
+- Alternativ votering mellom innstillingens punkt 3 og alternativt forslag fra Tiller
+  - Tillers forslag: enstemmig stemmer
+- Votering over Arentz tilleggsforslag 'Lønns og arbeidsvilkår'
+  - Arentz tilleggsforslag: 30 stemmer
+  - Motforslag: 37 stemmer
+- Votering over Bergers tilleggsforslag 'Konsekvenser for pensjonsvilkår'
+  - Bergers tilleggsforslag: 30 stemmer
+  - Motforslag: 37 stemmer
+- Votering over Bergers tilleggsforslag 'Lønns og arbeidsvilkår'
+  - Bergers tilleggsforslag: 31 stemmer
+  - Motforslag: 36 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 92/2025
+rodt_fremmet: False
+---
+
+Tittel: Valg av settemedlemmer
+
+Vedtak:
+Bystyret oppnevner følgende settemedlem i Fylkesmøtet i KS: For medlem nr. 9 Emil Raaen (Ap) velges Håkon Einarsve (Ap).
+
+Voteringer:
+- Votering over innstillingen om valg av settemedlem.
+  - Innstillingen: enstemmig stemmer

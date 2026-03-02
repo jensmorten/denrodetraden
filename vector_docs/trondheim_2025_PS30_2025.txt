@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 30/2025
+rodt_fremmet: False
+---
+
+Tittel: Peder Myhres veg 2 - detaljregulering - Sluttbehandling
+
+Vedtak:
+Saken ble vedtatt utsatt under konstitueringen av møtet.
+
+Voteringer:
+- Votering om utsettelse av saken under konstitueringen av møtet.
+  - Utsette saken: None stemmer
+  - Ikke utsette saken: None stemmer

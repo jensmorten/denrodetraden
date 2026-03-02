@@ -1,0 +1,36 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 45/2025
+rodt_fremmet: False
+---
+
+Tittel: Kommuneplanens arealdel 2022-2034 - revidert forslag etter mekling
+
+Vedtak:
+Bystyret vedtar forslag til ny kommuneplanens arealdel 2022-2034 som vist på kart i målestokk 1:40 000, senest datert 5.2.2025, og med bestemmelser senest datert 25.2.2025 og beskrevet i planbeskrivelsen, senest datert 5.2.2025. Unntatt fra dette er område 50 Bratsbergvegen 139, der bystyrets vedtak av 26.9.2024 opprettholdes, og sendes til kommunal- og distriktsdepartementet for avgjørelse.
+Arealdelen vedtas med rettsvirkning ved Bystyrets vedtak, jf. plan- og bygningsloven § 11-6. Dette med unntak av de klart avgrensede deler av planen som det er knyttet innsigelser til, jf. plan- og bygningsloven § 11-16. Disse tas opp til mekling og eventuell videre behandling hos Kommunal- og distriktsdepartementet, jf. plan- og bygningsloven § 5-6. Vedtaket fattes i henhold til plan- og bygningsloven § 11-15.
+§ 24.4.1, fjerde avsnitt (tredje retningslinje) endres fra: På Tiller i felter merket NF kan det vurderes tillatt forretning for plasskrevende varegrupper gjennom reguleringsplan. Til: På Tiller og Tunga i felter merket NF kan det vurderes tillatt forretning for plasskrevende varegrupper gjennom reguleringsplan. I forlengelse av dette endres § 18 Rett virksomhet på rett sted, fjerde kulepunkt, tredje setning fra: Forretning for plasskrevende varer kan vurderes tillatt gjennom reguleringsplan innenfor arealer avsatt til næringsbebyggelse merket NF på Tiller. Til: Forretning for plasskrevende varer kan vurderes tillatt gjennom reguleringsplan innenfor arealer avsatt til næringsbebyggelse merket NF på Tiller og Tunga. Plankartet merkes med NF på arealene på Tunga som er satt av til næringsvirksomhet med avgrensning som i KU 953a.
+
+Alternative forslag:
+- Roar Aas: Utsett saken: 'Ingen skjønner konsekvenser av notat 45/25, saken utsettes'.
+- Even Næss Bergseng (SV) på vegne av SV, R, Uavh.: Tilleggspunkt 3: Rotvoll til LNFR. Bystyret viser til Stortingets skjerpede føringer for jordvern fra 2023. 912 Øvre Rotvoll (trekanten) og 911 Øvre Rotvoll sør reguleres til formålet LNFR.
+- Berit Tiller (H) på vegne av H, KrF, MDG, PP, V, SP: Retningslinjene § 24.4.1, plasskrevende varegrupper og § 18 Rett virksomhet på rett sted: § 24.4.1, fjerde avsnitt (tredje retningslinje) endres fra: På Tiller i felter merket NF kan det vurderes tillatt forretning for plasskrevende varegrupper gjennom reguleringsplan. Til: På Tiller og Tunga i felter merket NF kan det vurderes tillatt forretning for plasskrevende varegrupper gjennom reguleringsplan. I forlengelse av dette endres § 18 Rett virksomhet på rett sted, fjerde kulepunkt, tredje setning fra: Forretning for plasskrevende varer kan vurderes tillatt gjennom reguleringsplan innenfor arealer avsatt til næringsbebyggelse merket NF på Tiller. Til: Forretning for plasskrevende varer kan vurderes tillatt gjennom reguleringsplan innenfor arealer avsatt til næringsbebyggelse merket NF på Tiller og Tunga. Plankartet merkes med NF på arealene på Tunga som er satt av til næringsvirksomhet med avgrensning som i KU 953a.
+- Roar Aas (Ap): Sikre næringsareal: Jesmokilden (Leinstrand Vassverk) betjener få hus og disse er også koblet til Trondheim kommune sin vannforsyning. Det er derfor mulig å finne gode løsninger på håndtering av Jesmokilden noe som vil avklares ifm reguleringsplanen. Det er svært viktig at man nå får avklart og klargjort næringsarealene på Torgård raskt. Bystyret ber derfor om at man opprettholder arealet som næringsområde i plankartet og samtidig går i lokal mekling for å finne en løsning som ivaretar vannbehovet for de berørte og som samtidig klargjør næringsarealene. Bystyret mener det ikke er behov for å sende denne saken til departementet for avklaring tilsvarende som for Jonsvannet.
+
+Voteringer:
+- Aas utsettelsesforslag
+  - For utsettelse: 22 stemmer
+  - Mot utsettelse: 44 stemmer
+- Innstillingen
+  - For innstillingen: 64 stemmer
+  - Mot innstillingen: 4 stemmer
+- Næss Bergsengs forslag 'Tilleggspunkt 3: Rotvoll til LNFR'
+  - For forslaget: 13 stemmer
+  - Mot forslaget: 54 stemmer
+- Tillers fellesforslag 'Retningslinjene § 24.4.1, plasskrevende varegrupper og § 18 Rett virksomhet på rett sted'
+  - For forslaget: 54 stemmer
+  - Mot forslaget: 13 stemmer
+- Aas forslag 'Sikre næringsareal'
+  - For forslaget: 23 stemmer
+  - Mot forslaget: 44 stemmer
