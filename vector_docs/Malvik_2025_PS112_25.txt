@@ -1,0 +1,15 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 112/25
+rodt_fremmet: False
+---
+
+Tittel: Program for folkehelsearbeid - prosjektet "Hele familien går i barnehagen!"
+
+Vedtak:
+Malvik kommune deltar i den nasjonale satsningen Program for folkehelsearbeid i kommunene, gjennom det lokale prosjektet «Hele familien går i barnehagen!»
+
+Voteringer:
+- Votering over innstillingen fra formannskapet om deltakelse i Program for folkehelsearbeid gjennom prosjektet «Hele familien går i barnehagen!»
+  - Innstillingen: 31 stemmer

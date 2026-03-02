@@ -47,6 +47,29 @@ def extract_text_from_pdf(path):
 # SPLIT SAKER
 # ============================================
 
+def safe_json_load(text):
+    """
+    Forsøker å parse JSON.
+    Hvis det feiler pga ekstra tekst, prøver å isolere første JSON-array.
+    """
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+
+        # Finn første '[' og siste ']'
+        start = text.find("[")
+        end = text.rfind("]")
+
+        if start != -1 and end != -1:
+            candidate = text[start:end+1]
+            try:
+                return json.loads(candidate)
+            except Exception:
+                pass
+
+        raise  # Hvis det fortsatt feiler
+
+
 def llm_split_cases(full_text):
 
     prompt = f"""
@@ -54,7 +77,11 @@ Del møteprotokollen i separate saker.
 
 En sak starter med "PS X/YY" eller PS X/YYYY.
 
-Returner kun gyldig JSON:
+Returner kun JSON.
+Ingen forklarende tekst.
+Kun gyldig JSON-array.
+
+Format:
 [
   {{
     "ps": "PS 5/25",
@@ -75,8 +102,13 @@ Tekst:
     content = response.output_text.strip()
     content = content.replace("```json", "").replace("```", "").strip()
 
-    return json.loads(content)
-
+    try:
+        return safe_json_load(content)
+    except Exception as e:
+        print("\n⚠️ Klarte ikke parse JSON fra llm_split_cases")
+        print("Første 1000 tegn av respons:")
+        print(content[:1000])
+        raise e
 
 # ============================================
 # STRUKTURER EN SAK

@@ -1,0 +1,31 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 100/25
+rodt_fremmet: True
+---
+
+Tittel: Forslag til betalingssatser for Oppvekst og Kultur 2026
+
+Vedtak:
+Framlagte forslag til betalingssatser for tjenester innen oppvekst og kultur vedtas.
+Betalingssatsene gjøres gjeldende fra 01.01.2026.
+Det innføres en ordning med friplasser i kulturskolen med samme kriterier som for redusert betaling i SFO. Det bevilges 50.000 kr til formålet.
+
+Alternative forslag:
+- Jens Morten Nilsen (Rødt): 2025-satsen for foreldrebetaling av SFO beholdes. Kostnaden for kommunen er estimert til ca. 700 000 kroner. Inndekning er gitt i Rødt alternative budsjett.
+- Jens Morten Nilsen (Rødt): Betalingssatser for kulturskolen beholdes på 2025-nivå. Kostnad for kommunen er estimert til kr 62 125. Inndekning er gitt i Rødts alternative budsjett.
+- Irén Aina Bastholm (Miljøpartiet De Grønne) på vegne av MDG, H, FRP, INP og PP: Det innføres en ordning med friplasser i kulturskolen med samme kriterier som for redusert betaling i SFO. Det bevilges 50.000 kr til formålet.
+
+Voteringer:
+- Forslag fra Nilsen (Rødt) om å beholde 2025-satsen for foreldrebetaling av SFO.
+  - For: 2 stemmer
+  - Imot: 29 stemmer
+- Forslag fra Nilsen (Rødt) om å beholde betalingssatser for kulturskolen på 2025-nivå.
+  - For: 2 stemmer
+  - Imot: 29 stemmer
+- Forslag fra Bastholm (MDG) på vegne av H, MDG, FrP, INP og PP om friplasser i kulturskolen.
+  - For: 21 stemmer
+  - Imot: 10 stemmer
+- Innstillingen med vedtatte tillegg.
+  - For: 31 stemmer

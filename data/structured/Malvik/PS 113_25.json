@@ -1,0 +1,32 @@
+{
+  "tittel": "Søknader om tilskudd fra næringsfond",
+  "innstilling": [
+    "Søknaden fra Carina Eriksen og Care Interiørdesign og Boligstyling om tilskudd på 100 000 kroner avslås.",
+    "Søknaden fra Helle Irina Amdahl Nyhus og Hellesvilleverden Nyhus om tilskudd på 50 000 kroner avslås.",
+    "Søknaden fra Casper Kristoffersen og Useful om tilskudd på 50 000 kroner avslås."
+  ],
+  "vedtak": [
+    "Søknaden fra Carina Eriksen og Care Interiørdesign og Boligstyling om tilskudd på 100 000 kroner avslås.",
+    "Søknaden fra Helle Irina Amdahl Nyhus og Hellesvilleverden Nyhus om tilskudd på 50 000 kroner avslås.",
+    "Søknaden fra Casper Kristoffersen og Useful om tilskudd på 50 000 kroner avslås."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om å avslå alle tre søknader om tilskudd fra næringsfond.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "hvilket_alternativ_Rødt_støttet": "For innstillingen",
+      "Rødt_var_på": "vinner-side"
+    }
+  ],
+  "kommune": "malvik",
+  "dato": "08.12.2025",
+  "saksnummer_ps": "PS 113/25",
+  "rodt_fremmet_forslag": false
+}

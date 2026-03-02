@@ -1,0 +1,20 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 104/25
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling av endring av reguleringsplan for ny E6 mellom Leistad og Stjørdal grense ved Hommelvikkrysset
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 12-12 vedtas endring av reguleringsplan for ny E6 mellom Leistad og Stjørdal grense ved Hommelvikkrysset – planid 201803. Parkeringsplass i Høybydalen tas ut av planen.
+
+Alternative forslag:
+- Trond Hoseth (Arbeiderpartiet): Parkeringsplass i Høybydalen tas ut av planen.
+
+Voteringer:
+- Forslag fra Trond Hoseth (AP) om at parkeringsplass i Høybydalen tas ut av planen.
+  - For forslaget: ['Kjersti Garnes Overvik (AP)', 'Kristine Fosmo Holden (AP)', 'Liv Aksnes (AP)', 'Matz Ulstad (AP)', 'Randi Rasmussen (AP)', 'Terje Talsnes (AP)', 'Trond Hoseth (AP)', 'Kåre Sagmyr (Frp)', 'Rakel Bjarte Larsson (Frp)', 'Terje Hansen (Frp)', 'Anders Frost (H)', 'Arve Ørsjødal (H)', 'Astrid Johanne Eggen (H)', 'Eugen Sørmo (H)', 'Håvard Renanger (H)', 'Jørgen Enoksen (H)', 'Paul Uijting (H)', 'Tone Østgaard (H)', 'Jan Terje Hunnes (INP)', 'Frank Runar Gansmo (MDG)', 'Irén Aina Bastholm (MDG)', 'Bjørn Olav Westgård (PP)', 'Randi Eikevik (PP)', 'Jens Morten Nilsen (R)', 'Linn Sørine Brøns Løvli (R)', 'May Britt Kjelsaas (Sp)', 'Robert Barø (Sp)', 'Håkon Kvåle Gissinger (SV)', 'Rakel Trondal (SV)', 'Thomas Ulstad (SV)', 'Torgeir Anda (V)'] stemmer
+- Votering over innstillingen om å vedta endring av reguleringsplan for ny E6 mellom Leistad og Stjørdal grense ved Hommelvikkrysset – planid 201803.
+  - For innstillingen: ['Kjersti Garnes Overvik (AP)', 'Kristine Fosmo Holden (AP)', 'Liv Aksnes (AP)', 'Matz Ulstad (AP)', 'Randi Rasmussen (AP)', 'Terje Talsnes (AP)', 'Trond Hoseth (AP)', 'Kåre Sagmyr (Frp)', 'Rakel Bjarte Larsson (Frp)', 'Terje Hansen (Frp)', 'Anders Frost (H)', 'Arve Ørsjødal (H)', 'Astrid Johanne Eggen (H)', 'Eugen Sørmo (H)', 'Håvard Renanger (H)', 'Jørgen Enoksen (H)', 'Paul Uijting (H)', 'Tone Østgaard (H)', 'Jan Terje Hunnes (INP)', 'Frank Runar Gansmo (MDG)', 'Irén Aina Bastholm (MDG)', 'Bjørn Olav Westgård (PP)', 'Randi Eikevik (PP)', 'Jens Morten Nilsen (R)', 'Linn Sørine Brøns Løvli (R)', 'May Britt Kjelsaas (Sp)', 'Robert Barø (Sp)', 'Håkon Kvåle Gissinger (SV)', 'Rakel Trondal (SV)', 'Thomas Ulstad (SV)', 'Torgeir Anda (V)'] stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 96/25
+rodt_fremmet: False
+---
+
+Tittel: Pro 4317 Leistad vannpumpestasjon - vedtak om bygging og finansiering
+
+Vedtak:
+Kommunestyret vedtar budsjettramme for bygging av ny Leistad vannpumpestasjon på 70 millioner kroner eksklusiv merverdiavgift. Kommunedirektøren får fullmakt til å foreta nødvendige budsjettjusteringer og låneopptak.
+
+Voteringer:
+- Votering over innstillingen om bygging og finansiering av Leistad vannpumpestasjon.
+  - For innstillingen: ['Kjersti Garnes Overvik (AP)', 'Kristine Fosmo Holden (AP)', 'Matz Ulstad (AP)', 'Randi Rasmussen (AP)', 'Terje Talsnes (AP)', 'Trond Hoseth (AP)', 'Turid Eidem Olsen (AP)', 'Kåre Sagmyr (Frp)', 'Rakel Bjarte Larsson (Frp)', 'Rikard Spets (Frp)', 'Anders Frost (H)', 'Arve Ørsjødal (H)', 'Astrid Johanne Eggen (H)', 'Eugen Sørmo (H)', 'Håvard Renanger (H)', 'Jørgen Enoksen (H)', 'Paul Uijting (H)', 'Tone Østgaard (H)', 'Jan Terje Hunnes (INP)', 'Frank Runar Gansmo (MDG)', 'Irén Aina Bastholm (MDG)', 'Jan Inge Hov (PP)', 'Randi Eikevik (PP)', 'Jens Morten Nilsen (R)', 'Linn Sørine Brøns Løvli (R)', 'May Britt Kjelsaas (Sp)', 'Robert Barø (Sp)', 'Håkon Kvåle Gissinger (SV)', 'Rakel Trondal (SV)', 'Thomas Ulstad (SV)', 'Torgeir Anda (V)'] stemmer

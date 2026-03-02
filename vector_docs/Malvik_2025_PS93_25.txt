@@ -1,0 +1,18 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 93/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av godkjennere
+
+Vedtak:
+Turid Eidem Olsen og Paul Uijting godkjenner protokollen sammen med ordfører.
+
+Alternative forslag:
+- Eugen Sørmo (Høyre): Turid Eidem Olsen og Paul Uijting godkjenner protokollen sammen med ordfører.
+
+Voteringer:
+- Votering over forslaget fra Eugen Sørmo (Høyre) om at Turid Eidem Olsen og Paul Uijting godkjenner protokollen sammen med ordfører.
+  - Forslaget fra Eugen Sørmo (Høyre): 31 stemmer

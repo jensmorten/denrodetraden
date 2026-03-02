@@ -1,0 +1,15 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 105/25
+rodt_fremmet: False
+---
+
+Tittel: Anmodning om planoppstart for Sjølystvegen 12
+
+Vedtak:
+Med hjemmel i plan- og bygningslovens § 12-8 tillates oppstart av reguleringsplanarbeid for Sjølystvegen 12 (gnr/bnr 1/547).
+
+Voteringer:
+- Votering over innstillingen om å tillate oppstart av reguleringsplanarbeid for Sjølystvegen 12.
+  - For innstillingen: 31 stemmer

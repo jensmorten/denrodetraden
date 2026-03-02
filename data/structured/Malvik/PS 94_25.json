@@ -1,0 +1,52 @@
+{
+  "tittel": "Lovlighetskontroll av habilitetsvurdering - kommunestyrets vedtak 56/25",
+  "innstilling": "Kommunestyret opprettholder sin habilitetsvurdering tilknyttet representanten Eggen i tilknytning til vedtak 56/25. Kravet om lovlighetskontroll av habilitetsvurderingen i saken oversendes statsforvalteren for endelig avgjørelse.",
+  "vedtak": "Kommunestyret opprettholder sin habilitetsvurdering tilknyttet representanten Eggen i tilknytning til vedtak 56/25. Kravet om lovlighetskontroll av habilitetsvurderingen i saken oversendes statsforvalteren for endelig avgjørelse.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Habilitetsvurdering av Astrid Johanne Eggen (H)",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "hvilket_alternativ_rodt_stottet": "Inhabil",
+      "rodt_var_pa": "vinner"
+    },
+    {
+      "beskrivelse": "Habilitetsvurdering av Håvard Renanger (H)",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 9
+        },
+        {
+          "navn": "Habil",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Habil",
+      "hvilket_alternativ_rodt_stottet": "Habil",
+      "rodt_var_pa": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "hvilket_alternativ_rodt_stottet": "For innstillingen",
+      "rodt_var_pa": "vinner"
+    }
+  ],
+  "kommune": "malvik",
+  "dato": "08.12.2025",
+  "saksnummer_ps": "PS 94/25",
+  "rodt_fremmet_forslag": false
+}

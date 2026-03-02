@@ -1,0 +1,17 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 113/25
+rodt_fremmet: False
+---
+
+Tittel: Søknader om tilskudd fra næringsfond
+
+Vedtak:
+Søknaden fra Carina Eriksen og Care Interiørdesign og Boligstyling om tilskudd på 100 000 kroner avslås.
+Søknaden fra Helle Irina Amdahl Nyhus og Hellesvilleverden Nyhus om tilskudd på 50 000 kroner avslås.
+Søknaden fra Casper Kristoffersen og Useful om tilskudd på 50 000 kroner avslås.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet om å avslå alle tre søknader om tilskudd fra næringsfond.
+  - For innstillingen: 31 stemmer

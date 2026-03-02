@@ -1,0 +1,25 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 99/25
+rodt_fremmet: False
+---
+
+Tittel: Forslag til betalingsregulativ for tjenester innen helse og velferd gjeldende fra 1.1.2026
+
+Vedtak:
+Forslag til betalingsregulativ for tjenester innen helse og velferd vedtas
+Betalingsregulativet gjøres gjeldende fra 1.1.2026
+Kommunedirektøren kommer tilbake med egen politisk sak om nye satser for trygghetsalarm dersom nytt anbud medfører endret kostnadsnivå.
+Det innføres ikke egenandel på trygghetsalarmer for brukere med inntekt under 2G. Tabellen under punkt 6 med oversikt over satser endres tilsvarende, der betalingssatsen endres til kr. 0,00 for de med inntekt under 2G.
+
+Alternative forslag:
+- Anders Frost (på vegne av H, PP, FrP, MDG, INP, V, AP, SP, SV, R): Det innføres ikke egenandel på trygghetsalarmer for brukere med inntekt under 2G. Tabellen under punkt 6 med oversikt over satser endres tilsvarende, der betalingssatsen endres til kr. 0,00 for de med inntekt under 2G.
+
+Voteringer:
+- Votering over endringsforslag fra Anders Frost (på vegne av H, PP, FrP, MDG, INP, V, AP, SP, SV, R) om å ikke innføre egenandel på trygghetsalarmer for brukere med inntekt under 2G.
+  - For endringsforslaget: 31 stemmer
+  - Mot endringsforslaget: 0 stemmer
+- Votering over innstillingen slik den forelå etter vedtatt endringsforslag.
+  - For innstillingen: 31 stemmer
+  - Mot innstillingen: 0 stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 115/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av nytt varamedlem til formannskapet
+
+Vedtak:
+Som nytt 1. varamedlem til formannskapet velges Turid Eidem Olsen.
+Som nytt 3. varamedlem til formannskapet velges Kjersti Garnes Overvik.
+
+Alternative forslag:
+- Trond Hoseth (Arbeiderpartiet): Som nytt 1. varamedlem til formannskapet velges Turid Eidem Olsen, Som nytt 3. varamedlem til formannskapet velges Kjersti Garnes Overvik.
+
+Voteringer:
+- Valg av nytt 1. og 3. varamedlem til formannskapet etter forslaget fra Trond Hoseth (AP).
+  - Forslaget fra Trond Hoseth (AP): 31 stemmer

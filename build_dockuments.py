@@ -3,6 +3,13 @@ from pathlib import Path
 
 BASE_PATH = Path("data/structured")
 
+def ensure_string(value):
+    if isinstance(value, list):
+        return "\n".join(str(v) for v in value)
+    if isinstance(value, str):
+        return value
+    return ""
+
 def build_document(data):
 
     kommune = data.get("kommune")
@@ -25,7 +32,8 @@ def build_document(data):
     parts.append(f"Tittel: {data.get('tittel')}")
 
     if data.get("vedtak"):
-        parts.append("\nVedtak:\n" + data["vedtak"])
+        #parts.append("\nVedtak:\n" + data["vedtak"])
+        parts.append("\nVedtak:\n" + ensure_string(data.get("vedtak")))
 
     if data.get("alternative_forslag"):
         parts.append("\nAlternative forslag:")

@@ -1,0 +1,17 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 109/25
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om gebyr ved saksbehandling av handel med fyrverkeri i Malvik kommune
+
+Vedtak:
+“Forskrift om gebyr ved saksbehandling av handel med fyrverkeri, Malvik kommune, Trøndelag”, vedtas slik den fremgår av vedlegg 1.
+Gebyrsatsen for 2026 settes til 6 000 kroner inkludert moms.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling.
+  - For innstillingen: 31 stemmer
+  - Mot innstillingen: 0 stemmer

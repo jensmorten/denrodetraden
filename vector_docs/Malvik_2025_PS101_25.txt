@@ -1,0 +1,16 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 101/25
+rodt_fremmet: False
+---
+
+Tittel: Økonomiplan for kontrollutvalget 2026 - 2029 - med budsjett for 2026
+
+Vedtak:
+Kommunestyret vedtar økonomiplan for kontrollarbeidet for 2026-2029 og budsjett for 2026 med en ramme på 2 117 595 kroner.
+
+Voteringer:
+- Votering over innstillingen om å vedta økonomiplan for kontrollarbeidet for 2026-2029 og budsjett for 2026 med en ramme på 2 117 595 kroner.
+  - For innstillingen: 31 stemmer
+  - Mot innstillingen: 0 stemmer

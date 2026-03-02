@@ -1,0 +1,35 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 98/25
+rodt_fremmet: True
+---
+
+Tittel: Forslag til betalingssatser for kommunale bygg 2026
+
+Vedtak:
+Framlagte forslag til betalingssatser for kommunale bygg vedtas, med følgende endring:
+• Ordningen med gratis halleie for barn og ungdom videreføres
+• Frivilligheten får 25% reduksjon i prisen på leie av kommunale bygg.
+Betalingssatsene gjøres gjeldende fra 01.01.2026.
+Følgende tillegg ble også vedtatt:
+Hva vil vi med kulturen? Leieprisene har de siste årene økt kraftig. Tilbakemeldinger viser at mange frivillige sliter med å få endene til å møtes når de gjennomfører arrangement. Andre uttaler at de reduserer både hyppigheten av arrangement og antallet forestillinger fordi det blir for dyrt med leie. Økte leiepriser medfører både høyere billettpriser ved arrangement og høyere deltagerkostnader. Samtidig gir utleien til frivillige en beskjeden inntekt for kommunen. Primært ønsker kommunestyret at frivillige skal kunne benytte lokalene gratis, men med kommunens økonomi er veien dit noe lengre. Vi ønsker derfor at det fremmes en sak der det forslås nye løsninger på lokalleie for de frivillige som kan lette på kostnadene både for øving og arrangement. De aktuelle rådene må involveres i utformingen av denne saken, og den må legges fram til første tertialrapport 2026.
+
+Alternative forslag:
+- Linn Sørine Brøns Løvli (Rødt): 2025-satser for leie av kommunale bygg beholdes. Estimert kostnad (eller tapt inntekt for kommunen) er estimert til kr 27 930. Inndekning er gitt i Rødts alternative budsjett.
+- Håkon Kvåle Gissinger (Sosialistisk Venstreparti): For å unngå å skape usikkerhet i vedtaket, foreslår SV følgende tilleggspunkt. «Ordningen med gratis halleie for barn og ungdom videreføres»
+- Irén Aina Bastholm (Miljøpartiet De Grønne) på vegne av H, FrP, PP, MDG, INP, AP, SV, SP, R, V: Vi ønsker å skape bedre forutsetninger for at frivilligheten kan være en sterk og positiv kraft i lokalsamfunnet. For å bidra til dette ønsker vi å redusere utgiftene frivilligheten har til leie av kommunale lokaler. Endring: Frivilligheten får 25% reduksjon i prisen på leie av kommunale bygg.
+- Trond Hoseth (Arbeiderpartiet) på vegne av AP, V, SV, SP, H, PP, INP, MDG, FRP, R: Leiepriser kommunale bygg. Hva vil vi med kulturen? Leieprisene har de siste årene økt kraftig. Tilbakemeldinger viser at mange frivillige sliter med å få endene til å møtes når de gjennomfører arrangement. Andre uttaler at de reduserer både hyppigheten av arrangement og antallet forestillinger fordi det blir for dyrt med leie. Økte leiepriser medfører både høyere billettpriser ved arrangement og høyere deltagerkostnader. Samtidig gir utleien til frivillige en beskjeden inntekt for kommunen. Primært ønsker kommunestyret at frivillige skal kunne benytte lokalene gratis, men med kommunens økonomi er veien dit noe lengre. Vi ønsker derfor at det fremmes en sak der det forslås nye løsninger på lokalleie for de frivillige som kan lette på kostnadene både for øving og arrangement. De aktuelle rådene må involveres i utformingen av denne saken, og den må legges fram til første tertialrapport 2026.
+
+Voteringer:
+- Endringsforslag fra Løvli (Rødt): 2025-satser for leie av kommunale bygg beholdes.
+  - For: 2 stemmer
+  - Imot: 29 stemmer
+- Tilleggsforslag fra Gissinger (SV): Ordningen med gratis halleie for barn og ungdom videreføres.
+  - For: 31 stemmer
+- Forslag fra Bastholm (MDG) på vegne av alle partiene: Frivilligheten får 25% reduksjon i prisen på leie av kommunale bygg.
+  - For: 31 stemmer
+- Forslag fra Hoseth (AP) på vegne av alle partiene: Utredning av nye løsninger for lokalleie for frivillige.
+  - For: 31 stemmer
+- Innstillingen med de vedtatte tillegg.
+  - For: 31 stemmer

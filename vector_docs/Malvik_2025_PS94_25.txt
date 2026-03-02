@@ -1,0 +1,20 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 94/25
+rodt_fremmet: False
+---
+
+Tittel: Lovlighetskontroll av habilitetsvurdering - kommunestyrets vedtak 56/25
+
+Vedtak:
+Kommunestyret opprettholder sin habilitetsvurdering tilknyttet representanten Eggen i tilknytning til vedtak 56/25. Kravet om lovlighetskontroll av habilitetsvurderingen i saken oversendes statsforvalteren for endelig avgjørelse.
+
+Voteringer:
+- Habilitetsvurdering av Astrid Johanne Eggen (H)
+  - Inhabil: 29 stemmer
+- Habilitetsvurdering av Håvard Renanger (H)
+  - Inhabil: 9 stemmer
+  - Habil: 20 stemmer
+- Votering over kommunedirektørens innstilling
+  - For innstillingen: 30 stemmer

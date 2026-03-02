@@ -1,0 +1,15 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 107/25
+rodt_fremmet: False
+---
+
+Tittel: Klimanorm for Malvik kommune
+
+Vedtak:
+Klimanormen for Malvik kommune tas til orientering. Kommunedirektøren oppdaterer klimanormen ved behov, for å sikre at den fungerer etter hensikten.
+
+Voteringer:
+- Votering over innstillingen fra utvalg for areal og samfunnsplanlegging.
+  - Innstillingen: 31 stemmer

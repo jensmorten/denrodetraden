@@ -1,0 +1,16 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 97/25
+rodt_fremmet: False
+---
+
+Tittel: Forslag til gebyrregulativ 2026 - tekniske tjenester
+
+Vedtak:
+Forslaget til gebyrregulativ 2026 for tekniske tjenester vedtas.
+Gebyrregulativet gjøres gjeldende fra 1. januar 2026.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet om å vedta gebyrregulativet for 2026 for tekniske tjenester.
+  - For innstillingen: 31 stemmer

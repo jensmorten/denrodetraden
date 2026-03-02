@@ -1,0 +1,92 @@
+{
+  "tittel": "Forslag til betalingssatser for Oppvekst og Kultur 2026",
+  "innstilling": [
+    "Framlagte forslag til betalingssatser for tjenester innen oppvekst og kultur vedtas.",
+    "Betalingssatsene gjøres gjeldende fra 01.01.2026."
+  ],
+  "vedtak": [
+    "Framlagte forslag til betalingssatser for tjenester innen oppvekst og kultur vedtas.",
+    "Betalingssatsene gjøres gjeldende fra 01.01.2026.",
+    "Det innføres en ordning med friplasser i kulturskolen med samme kriterier som for redusert betaling i SFO. Det bevilges 50.000 kr til formålet."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "2025-satsen for foreldrebetaling av SFO beholdes. Kostnaden for kommunen er estimert til ca. 700 000 kroner. Inndekning er gitt i Rødt alternative budsjett."
+    },
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Betalingssatser for kulturskolen beholdes på 2025-nivå. Kostnad for kommunen er estimert til kr 62 125. Inndekning er gitt i Rødts alternative budsjett."
+    },
+    {
+      "forslagsstiller": "Irén Aina Bastholm (Miljøpartiet De Grønne) på vegne av MDG, H, FRP, INP og PP",
+      "tekst": "Det innføres en ordning med friplasser i kulturskolen med samme kriterier som for redusert betaling i SFO. Det bevilges 50.000 kr til formålet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Forslag fra Nilsen (Rødt) om å beholde 2025-satsen for foreldrebetaling av SFO.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 2
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Imot",
+      "rødt_støttet": "For",
+      "rødt_var_på_vinner_side": false
+    },
+    {
+      "beskrivelse": "Forslag fra Nilsen (Rødt) om å beholde betalingssatser for kulturskolen på 2025-nivå.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 2
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Imot",
+      "rødt_støttet": "For",
+      "rødt_var_på_vinner_side": false
+    },
+    {
+      "beskrivelse": "Forslag fra Bastholm (MDG) på vegne av H, MDG, FrP, INP og PP om friplasser i kulturskolen.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 21
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "For",
+      "rødt_var_på_vinner_side": true
+    },
+    {
+      "beskrivelse": "Innstillingen med vedtatte tillegg.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "For",
+      "rødt_var_på_vinner_side": true
+    }
+  ],
+  "kommune": "malvik",
+  "dato": "08.12.2025",
+  "saksnummer_ps": "PS 100/25",
+  "rodt_fremmet_forslag": true
+}

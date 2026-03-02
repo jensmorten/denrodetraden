@@ -1,0 +1,16 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 114/25
+rodt_fremmet: False
+---
+
+Tittel: Plan for friluftslivets ferdselsårer i Malvik kommune
+
+Vedtak:
+Plan for friluftslivets ferdselsårer vedtas som fremlagt.
+Plan for friluftslivets ferdselsårer skal brukes som kunnskapsgrunnlag i kommunens saksbehandling, og ved rulleringen av kommuneplanens arealdel, samt bidra til å styrke friluftslivets plass i lokal planlegging.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet.
+  - Innstillingen: 31 stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: malvik
+year: 2025
+saksnummer: PS 95/25
+rodt_fremmet: False
+---
+
+Tittel: Behandling av rapport - forvaltningsrevisjon av naturmangfold
+
+Vedtak:
+1) Kommunestyret tar rapporten til orientering og ber kommunedirektøren om å
+a) Utarbeide skriftlige rutiner som ivaretar naturmangfold i all saksbehandling og at rutiner legges inn i kvalitetssystemet.
+b) Utarbeide en rutine og praksis for at vilkår satt i vedtak følges opp.
+c) Sørge for at det i reguleringssaker redegjøres for hvordan de miljørettslige prinsippene (naturmangfoldloven §§ 8-12) er vurdert og vektlagt.
+2) Kommunestyret ber kommunedirektøren gi kontrollutvalget skriftlig tilbakemelding om hvordan punktene a-c er fulgt opp innen 27.mars 2026.
+
+Voteringer:
+- Votering over innstillingen fra kontrollutvalget.
+  - Innstillingen: 31 stemmer

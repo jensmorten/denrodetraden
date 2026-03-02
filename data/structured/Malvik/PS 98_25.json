@@ -1,0 +1,103 @@
+{
+  "tittel": "Forslag til betalingssatser for kommunale bygg 2026",
+  "innstilling": [
+    "Framlagte forslag til betalingssatser for kommunale bygg vedtas.",
+    "Betalingssatsene gjøres gjeldende fra 01.01.2026."
+  ],
+  "vedtak": [
+    "Framlagte forslag til betalingssatser for kommunale bygg vedtas, med følgende endring:",
+    "• Ordningen med gratis halleie for barn og ungdom videreføres",
+    "• Frivilligheten får 25% reduksjon i prisen på leie av kommunale bygg.",
+    "Betalingssatsene gjøres gjeldende fra 01.01.2026.",
+    "Følgende tillegg ble også vedtatt:",
+    "Hva vil vi med kulturen? Leieprisene har de siste årene økt kraftig. Tilbakemeldinger viser at mange frivillige sliter med å få endene til å møtes når de gjennomfører arrangement. Andre uttaler at de reduserer både hyppigheten av arrangement og antallet forestillinger fordi det blir for dyrt med leie. Økte leiepriser medfører både høyere billettpriser ved arrangement og høyere deltagerkostnader. Samtidig gir utleien til frivillige en beskjeden inntekt for kommunen. Primært ønsker kommunestyret at frivillige skal kunne benytte lokalene gratis, men med kommunens økonomi er veien dit noe lengre. Vi ønsker derfor at det fremmes en sak der det forslås nye løsninger på lokalleie for de frivillige som kan lette på kostnadene både for øving og arrangement. De aktuelle rådene må involveres i utformingen av denne saken, og den må legges fram til første tertialrapport 2026."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Linn Sørine Brøns Løvli (Rødt)",
+      "tekst": "2025-satser for leie av kommunale bygg beholdes. Estimert kostnad (eller tapt inntekt for kommunen) er estimert til kr 27 930. Inndekning er gitt i Rødts alternative budsjett."
+    },
+    {
+      "forslagsstiller": "Håkon Kvåle Gissinger (Sosialistisk Venstreparti)",
+      "tekst": "For å unngå å skape usikkerhet i vedtaket, foreslår SV følgende tilleggspunkt. «Ordningen med gratis halleie for barn og ungdom videreføres»"
+    },
+    {
+      "forslagsstiller": "Irén Aina Bastholm (Miljøpartiet De Grønne) på vegne av H, FrP, PP, MDG, INP, AP, SV, SP, R, V",
+      "tekst": "Vi ønsker å skape bedre forutsetninger for at frivilligheten kan være en sterk og positiv kraft i lokalsamfunnet. For å bidra til dette ønsker vi å redusere utgiftene frivilligheten har til leie av kommunale lokaler. Endring: Frivilligheten får 25% reduksjon i prisen på leie av kommunale bygg."
+    },
+    {
+      "forslagsstiller": "Trond Hoseth (Arbeiderpartiet) på vegne av AP, V, SV, SP, H, PP, INP, MDG, FRP, R",
+      "tekst": "Leiepriser kommunale bygg. Hva vil vi med kulturen? Leieprisene har de siste årene økt kraftig. Tilbakemeldinger viser at mange frivillige sliter med å få endene til å møtes når de gjennomfører arrangement. Andre uttaler at de reduserer både hyppigheten av arrangement og antallet forestillinger fordi det blir for dyrt med leie. Økte leiepriser medfører både høyere billettpriser ved arrangement og høyere deltagerkostnader. Samtidig gir utleien til frivillige en beskjeden inntekt for kommunen. Primært ønsker kommunestyret at frivillige skal kunne benytte lokalene gratis, men med kommunens økonomi er veien dit noe lengre. Vi ønsker derfor at det fremmes en sak der det forslås nye løsninger på lokalleie for de frivillige som kan lette på kostnadene både for øving og arrangement. De aktuelle rådene må involveres i utformingen av denne saken, og den må legges fram til første tertialrapport 2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Endringsforslag fra Løvli (Rødt): 2025-satser for leie av kommunale bygg beholdes.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 2
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Imot",
+      "rødt_støttet": "For",
+      "rødt_var_på_vinner_side": false
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Gissinger (SV): Ordningen med gratis halleie for barn og ungdom videreføres.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "For",
+      "rødt_var_på_vinner_side": true
+    },
+    {
+      "beskrivelse": "Forslag fra Bastholm (MDG) på vegne av alle partiene: Frivilligheten får 25% reduksjon i prisen på leie av kommunale bygg.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "For",
+      "rødt_var_på_vinner_side": true
+    },
+    {
+      "beskrivelse": "Forslag fra Hoseth (AP) på vegne av alle partiene: Utredning av nye løsninger for lokalleie for frivillige.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "For",
+      "rødt_var_på_vinner_side": true
+    },
+    {
+      "beskrivelse": "Innstillingen med de vedtatte tillegg.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "For",
+      "rødt_var_på_vinner_side": true
+    }
+  ],
+  "kommune": "malvik",
+  "dato": "08.12.2025",
+  "saksnummer_ps": "PS 98/25",
+  "rodt_fremmet_forslag": true
+}

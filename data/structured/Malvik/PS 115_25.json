@@ -1,0 +1,32 @@
+{
+  "tittel": "Valg av nytt varamedlem til formannskapet",
+  "innstilling": "Som nytt varamedlem til formannskapet velges:",
+  "vedtak": [
+    "Som nytt 1. varamedlem til formannskapet velges Turid Eidem Olsen.",
+    "Som nytt 3. varamedlem til formannskapet velges Kjersti Garnes Overvik."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Trond Hoseth (Arbeiderpartiet)",
+      "tekst": "Som nytt 1. varamedlem til formannskapet velges Turid Eidem Olsen, Som nytt 3. varamedlem til formannskapet velges Kjersti Garnes Overvik."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av nytt 1. og 3. varamedlem til formannskapet etter forslaget fra Trond Hoseth (AP).",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Trond Hoseth (AP)",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "Forslaget fra Trond Hoseth (AP)",
+      "hvilket_alternativ_rødt_støttet": "Forslaget fra Trond Hoseth (AP)",
+      "rødt_var_på_vinner_eller_taper_side": "vinner"
+    }
+  ],
+  "kommune": "malvik",
+  "dato": "08.12.2025",
+  "saksnummer_ps": "PS 115/25",
+  "rodt_fremmet_forslag": false
+}
