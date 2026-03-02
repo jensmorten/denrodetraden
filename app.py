@@ -17,9 +17,9 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 st.set_page_config(page_title="Den Røde Tråden", layout="wide")
 
 st.title("🔴 Den Røde Tråden")
-st.markdown("Dette er en app som hjelper Rødts kommunestyrerepresentater finne lignende saker i andre kommuner")  
+st.markdown("Dette er en app som hjelper Rødts kommunestyrerepresentater finne lignende saker i andre kommuner.")  
 st.markdown("Last opp enkelt sak eller sakliste og finn lignde saker i andre kommuner.")
-st.markdown("Per idag inneholder behandlede saker fra 1. januar 2025 ")
+st.markdown("Appen søker i en database med saker som per idag inneholder behandlede saker fra 1. januar 2025 ")
 
 # ============================================
 # INPUT

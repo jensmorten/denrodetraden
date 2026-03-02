@@ -15,6 +15,20 @@ client = OpenAI()
 
 MODEL = "gpt-4.1"
 
+RAW_BASE = Path("data/raw")
+OUTPUT_BASE = Path("data/structured")
+TRACK_FILE = Path("processed_pdfs.json")
+
+# ============================================
+# LOAD TRACKING
+# ============================================
+
+if TRACK_FILE.exists():
+    with open(TRACK_FILE, "r", encoding="utf-8") as f:
+        processed_pdfs = set(json.load(f))
+else:
+    processed_pdfs = set()
+
 # ============================================
 # PDF
 # ============================================
@@ -40,7 +54,7 @@ Del møteprotokollen i separate saker.
 
 En sak starter med "PS X/YY" eller PS X/YYYY.
 
-Returner kun JSON:
+Returner kun gyldig JSON:
 [
   {{
     "ps": "PS 5/25",
@@ -65,7 +79,7 @@ Tekst:
 
 
 # ============================================
-# STRUKTURER EN SAK FULLT
+# STRUKTURER EN SAK
 # ============================================
 
 def llm_structure_case(case_text, kommune, dato):
@@ -74,7 +88,6 @@ def llm_structure_case(case_text, kommune, dato):
 Du får teksten til én kommunestyresak.
 
 Trekk ut:
-
 1. tittel
 2. innstilling
 3. vedtak
@@ -83,42 +96,12 @@ Trekk ut:
 
 For hver votering:
 - beskrivelse
-- alternativer (liste med navn + stemmer)
-- hvem vant (navn på alternativ med flest stemmer)
+- alternativer (navn + stemmer)
+- hvem vant
+- hvilket alternativ Rødt støttet
+- om Rødt var på vinner- eller taper-side
 
-Der det er mulig:
-- identifiser hvilket alternativ Rødt støttet
-- angi om Rødt var på vinner- eller taper-side
-
-Returner kun gyldig JSON i format:
-
-{{
-  "tittel": "...",
-  "innstilling": "...",
-  "vedtak": "...",
-  "alternative_forslag": [
-    {{
-      "forslagsstiller": "...",
-      "tekst": "..."
-    }}
-  ],
-  "voteringer": [
-    {{
-      "beskrivelse": "...",
-      "alternativer": [
-        {{
-          "navn": "...",
-          "stemmer": 0
-        }}
-      ],
-      "vinner": "...",
-      "rodt": {{
-        "støttet": "...",
-        "var_vinner": true/false/null
-      }}
-    }}
-  ]
-}}
+Returner kun gyldig JSON.
 
 Kommune: {kommune}
 Dato: {dato}
@@ -140,57 +123,97 @@ Tekst:
 
 
 # ============================================
-# MAIN
+# MAIN PIPELINE
 # ============================================
 
-def process_folder(input_folder, kommune):
+def process_all():
 
-    input_path = Path(input_folder)
-    output_path = Path("data/structured") / kommune
-    output_path.mkdir(parents=True, exist_ok=True)
+    for kommune_dir in RAW_BASE.iterdir():
 
-    pdf_files = list(input_path.glob("*.pdf"))
+        if not kommune_dir.is_dir():
+            continue
 
-    for pdf_file in tqdm(pdf_files):
+        kommune = kommune_dir.name
+        print(f"\n🏛 Kommune: {kommune}")
 
-        print(f"\n📄 {pdf_file.name}")
+        output_path = OUTPUT_BASE / kommune
+        output_path.mkdir(parents=True, exist_ok=True)
 
-        text = extract_text_from_pdf(pdf_file)
+        for year_dir in kommune_dir.iterdir():
 
-        date_match = re.search(r"\d{2}\.\d{2}\.\d{4}", text)
-        dato = date_match.group(0) if date_match else "ukjent"
+            if not year_dir.is_dir():
+                continue
 
-        cases = llm_split_cases(text)
+            for pdf_file in tqdm(year_dir.glob("*.pdf")):
 
-        for case_obj in cases:
+                # Bruk relativ POSIX-sti
+                rel_path = pdf_file.relative_to(RAW_BASE).as_posix()
 
-            ps_number = case_obj["ps"]
-            case_text = case_obj["tekst"]
+                if rel_path in processed_pdfs:
+                    print(f"⏭ Hopper over {rel_path}")
+                    continue
 
-            structured_case = llm_structure_case(
-                case_text,
-                kommune,
-                dato
-            )
+                print(f"\n📄 Behandler {rel_path}")
 
-            # Flag: fremmet Rødt forslag?
-            rodt_fremmet = any(
-                "Rødt" in f["forslagsstiller"] or "(R" in f["forslagsstiller"]
-                for f in structured_case.get("alternative_forslag", [])
-            )
+                # =====================================
+                # PDF → TEXT
+                # =====================================
 
-            structured_case["kommune"] = kommune
-            structured_case["dato"] = dato
-            structured_case["saksnummer_ps"] = ps_number
-            structured_case["rodt_fremmet_forslag"] = rodt_fremmet
+                text = extract_text_from_pdf(pdf_file)
 
-            filename = ps_number.replace("/", "_")
-            out_file = output_path / f"{filename}.json"
+                date_match = re.search(r"\d{2}\.\d{2}\.\d{4}", text)
+                dato = date_match.group(0) if date_match else "ukjent"
 
-            with open(out_file, "w", encoding="utf-8") as f:
-                json.dump(structured_case, f, ensure_ascii=False, indent=2)
+                # =====================================
+                # SPLIT I SAKER (LLM)
+                # =====================================
 
-            print(f"  ✅ Lagret {filename}.json")
+                cases = llm_split_cases(text)
+
+                # =====================================
+                # STRUKTURER HVER SAK (LLM)
+                # =====================================
+
+                for case_obj in cases:
+
+                    ps_number = case_obj["ps"]
+                    case_text = case_obj["tekst"]
+
+                    structured_case = llm_structure_case(
+                        case_text,
+                        kommune,
+                        dato
+                    )
+
+                    # Flag: fremmet Rødt forslag?
+                    rodt_fremmet = any(
+                        "Rødt" in f["forslagsstiller"] or "(R" in f["forslagsstiller"]
+                        for f in structured_case.get("alternative_forslag", [])
+                    )
+
+                    structured_case["kommune"] = kommune
+                    structured_case["dato"] = dato
+                    structured_case["saksnummer_ps"] = ps_number
+                    structured_case["rodt_fremmet_forslag"] = rodt_fremmet
+
+                    filename = ps_number.replace("/", "_")
+                    out_file = output_path / f"{filename}.json"
+
+                    with open(out_file, "w", encoding="utf-8") as f:
+                        json.dump(structured_case, f, ensure_ascii=False, indent=2)
+
+                    print(f"  ✅ Lagret {kommune}/{filename}.json")
+
+                # =====================================
+                # LEGG TIL I TRACKING
+                # =====================================
+
+                processed_pdfs.add(rel_path)
+
+                with open(TRACK_FILE, "w", encoding="utf-8") as f:
+                    json.dump(sorted(list(processed_pdfs)), f, indent=2, ensure_ascii=False)
+
+                print(f"✔ Ferdig med {rel_path}")
 
 
 # ============================================
@@ -198,8 +221,4 @@ def process_folder(input_folder, kommune):
 # ============================================
 
 if __name__ == "__main__":
-
-    process_folder(
-        r"data\raw\stjørdal\2026",  # <-- juster ved behov
-        kommune="Stjørdal"
-    )
+    process_all()
