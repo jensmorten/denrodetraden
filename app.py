@@ -1,6 +1,5 @@
 import streamlit as st
 from openai import OpenAI
-from dotenv import load_dotenv
 import pdfplumber
 import tempfile
 
@@ -8,11 +7,12 @@ import tempfile
 # SETUP
 # ============================================
 
-load_dotenv()
-client = OpenAI()
+MODEL = "gpt-4.1-mini"
 
-VECTOR_STORE_ID = "vs_69a55846403c8191bfbf4d9a3568b1aa"
-MODEL = "gpt-4.1"
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+VECTOR_STORE_ID = st.secrets["VECTOR_STORE_ID"]
+
+client = OpenAI(api_key=OPENAI_API_KEY)
 
 st.set_page_config(page_title="Den Røde Tråden", layout="wide")
 
