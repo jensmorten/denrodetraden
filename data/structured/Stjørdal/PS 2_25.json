@@ -1,0 +1,57 @@
+{
+  "tittel": "KS Debatthefte 2025 - Fra forventning til virkelighet - om forventningsgapet",
+  "innstilling": "Innstilling til debatthefte om forventningsgapet mellom forventninger og virkelighet i kommunesektoren.",
+  "vedtak": "Kommunestyret tar saken til orientering og støtter utarbeidelsen av debattheftet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Venstre",
+      "tekst": "Inkludere flere eksempler på vellykkede kommunale prosjekter i debattheftet."
+    },
+    {
+      "forslagsstiller": "Høyre",
+      "tekst": "Foreslår å utsette behandlingen for å innhente ytterligere data."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Skal debattheftet utarbeides som foreslått?",
+      "alternativer": [
+        {
+          "navn": "Ja",
+          "stemmer": 15
+        },
+        {
+          "navn": "Nei",
+          "stemmer": 5
+        }
+      ],
+      "vinner": "Ja",
+      "rodt": {
+        "støttet": "Ja",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Skal det inkluderes flere eksempler på vellykkede prosjekter?",
+      "alternativer": [
+        {
+          "navn": "Ja",
+          "stemmer": 12
+        },
+        {
+          "navn": "Nei",
+          "stemmer": 8
+        }
+      ],
+      "vinner": "Ja",
+      "rodt": {
+        "støttet": "Ja",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 2/25",
+  "rodt_fremmet_forslag": false
+}

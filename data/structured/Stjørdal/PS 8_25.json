@@ -1,0 +1,35 @@
+{
+  "tittel": "Saken om festeavtalens rettigheter for Stjørdal Båtforening",
+  "innstilling": "Kommunestyret tar henvendelsen om klage fra Båtforeningen til orientering.",
+  "vedtak": "Saken sendes tilbake til kommunedirektøren for fornyet vurdering av festeavtalens rettigheter for Stjørdal Båtforening til å få behandlet sin klage.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eli Arnstad (Sp)",
+      "tekst": "Saken sendes tilbake til kommunedirektøren for fornyet vurdering av festeavtalens rettigheter for Stjørdal Båtforening til å få behandlet sin klage."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om forslag 2 (sendes tilbake til kommunedirektøren)",
+      "alternativer": [
+        {
+          "navn": "Stemmer for forslaget",
+          "stemmer": 37
+        },
+        {
+          "navn": "Stemmer imot forslaget",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "Stemmer for forslaget",
+      "rodt": {
+        "støttet": "ja",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.02.2025",
+  "saksnummer_ps": "PS 8/25",
+  "rodt_fremmet_forslag": false
+}

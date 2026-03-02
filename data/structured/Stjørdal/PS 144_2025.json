@@ -1,0 +1,49 @@
+{
+  "tittel": "Forslag til Handlingsprogram Miljøpakken 2026-2029",
+  "innstilling": "1. Stjørdal kommune slutter seg til forslag til Handlingsprogram Miljøpakken 2026-2029.\n2. Ordfører får fullmakt til å fremforhandle et omforent handlingsprogram for Miljøpakken i forbindelse med behandling i kontaktutvalget.\n3. Følgende innarbeides som føringer for handlingsprogram 2027-2030: i. Fullfinansiering av takstsamarbeidet for tog i sone A",
+  "vedtak": "1. Stjørdal kommune slutter seg til forslag til Handlingsprogram Miljøpakken 2026-2029.\n2. Ordfører får fullmakt til å fremforhandle et omforent handlingsprogram for Miljøpakken i forbindelse med behandling i kontaktutvalget.\n3. Følgende innarbeides som føringer for handlingsprogram 2027-2030: i. Fullfinansiering av takstsamarbeidet for tog i sone A\nTillegg til innstillingens pkt 3:\nii. Finansiering av økt tilskuddsbehov til drift kollektiv for å muliggjøre en økning i kollektivtilbudet i randkommunene fra 2029.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Tillegg til innstillingens pkt 3: ii. Finansiering av økt tilskuddsbehov til drift kollektiv for å muliggjøre en økning i kollektivtilbudet i randkommunene fra 2029."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Jan Inge Kaspersen (Ap)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag",
+          "stemmer": 32
+        },
+        {
+          "navn": "Imot tilleggsforslag",
+          "stemmer": 5
+        }
+      ],
+      "vinner": "Tilleggsforslag",
+      "rodt": {
+        "støttet": "Tilleggsforslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 144/2025",
+  "rodt_fremmet_forslag": false
+}

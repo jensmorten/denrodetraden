@@ -1,0 +1,31 @@
+{
+  "tittel": "Prinsipper om bruk og leie av offentlige rom til arrangement",
+  "innstilling": "Kommunestyret tar saken til orientering og legger til grunn de foreslåtte prinsippene for bruk og leie av offentlige rom til arrangement.",
+  "vedtak": "Kommunestyret vedtar prinsippene om bruk og leie av offentlige rom til arrangement som presentert.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Venstre",
+      "tekst": "Foreslår at det skal stilles krav om miljøvennlig utstyr og avfallshåndtering ved alle arrangement på offentlige rom."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om prinsippene for bruk og leie av offentlige rom til arrangement",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": 35
+        }
+      ],
+      "vinner": "Enstemmig vedtak",
+      "rodt": {
+        "støttet": "Ja",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 11/25",
+  "rodt_fremmet_forslag": false
+}

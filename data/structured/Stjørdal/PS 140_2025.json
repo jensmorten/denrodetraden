@@ -1,0 +1,35 @@
+{
+  "tittel": "Revisjon av standard abonnementsvilkår for vann og avløp med lokale bestemmelser, Stjørdal kommune",
+  "innstilling": null,
+  "vedtak": "Saken utsettes",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Saken utsettes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslaget om å utsette saken",
+      "alternativer": [
+        {
+          "navn": "Utsettelse (Jan Inge Kaspersen, Ap)",
+          "stemmer": 28
+        },
+        {
+          "navn": "Mot utsettelse",
+          "stemmer": 9
+        }
+      ],
+      "vinner": "Utsettelse (Jan Inge Kaspersen, Ap)",
+      "rodt": {
+        "støttet": "Utsettelse (Jan Inge Kaspersen, Ap)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 140/2025",
+  "rodt_fremmet_forslag": false
+}

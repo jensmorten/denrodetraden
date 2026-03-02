@@ -1,0 +1,57 @@
+{
+  "tittel": "Ny brannordning Værnesregionen brann- og redningstjeneste",
+  "innstilling": "Stjørdal kommune vedtar forslag til brannordning for VRBRT i henhold til alternativ B. Opptrappingsplan beskrevet i Økonomisk konsekvens - brannordning VRBRT følges.",
+  "vedtak": "1. Kommunestyret tar sikkerheten til våre innbyggere på det største alvor.\n2. Kommunestyret konstaterer at det foreslåtte alternativ B er en god ordning som fyller behovene i en ny brannordning og kommunestyret vedtar brannordning for Værnesregionen Brann og Redning i henhold til alternativ B\n3. De økonomiske konsekvenser legges inn i budsjett 2026 og økonomiplan 2026-2029\n4. Kommunedirektøren kommer tilbake til kommunestyret med en vurdering av C-alternativ om og hvis Stjørdal når de kriterier som er satt for dette.\n5. Det forutsettes at det løpende arbeides for at midler og ressurser brukes mest mulig effektivt, også ved samarbeid med andre.\n6. Kommunestyret ber kommunedirektøren følge opp arbeidet med brannordningen tett.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Stjørdal kommune vedtar forslag til brannordning for VRBRT i henhold til alternativ C. Opptrappingsplan beskrevet i Økonomisk konsekvens - brannordning VRBRT følges."
+    },
+    {
+      "forslagsstiller": "Eli Arnstad (Senterpartiet)",
+      "tekst": "1. Kommunestyret tar sikkerheten til våre innbyggere på det største alvor.\n2. Kommunestyret konstaterer at det foreslåtte alternativ B er en god ordning som fyller behovene i en ny brannordning og kommunestyret vedtar brannordning for Værnesregionen Brann og Redning i henhold til alternativ B\n3. De økonomiske konsekvenser legges inn i budsjett 2026 og økonomiplan 2026-2029\n4. Kommunedirektøren kommer tilbake til kommunestyret med en vurdering av C-alternativ om og hvis Stjørdal når de kriterier som er satt for dette.\n5. Det forutsettes at det løpende arbeides for at midler og ressurser brukes mest mulig effektivt, også ved samarbeid med andre.\n6. Kommunestyret ber kommunedirektøren følge opp arbeidet med brannordningen tett."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet (alternativ B)",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (alternativ B)",
+          "stemmer": 0
+        },
+        {
+          "navn": "Imot innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Imot innstillingen",
+      "rodt": {
+        "støttet": "Imot innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering mellom forslag fra Jan Inge Kaspersen (alternativ C) og Eli Arnstad (alternativ B med tillegg)",
+      "alternativer": [
+        {
+          "navn": "Forslag 1 (Jan Inge Kaspersen, alternativ C)",
+          "stemmer": 13
+        },
+        {
+          "navn": "Forslag 2 (Eli Arnstad, alternativ B med tillegg)",
+          "stemmer": 24
+        }
+      ],
+      "vinner": "Forslag 2 (Eli Arnstad, alternativ B med tillegg)",
+      "rodt": {
+        "støttet": "Forslag 1 (Jan Inge Kaspersen, alternativ C)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 110/2025",
+  "rodt_fremmet_forslag": false
+}

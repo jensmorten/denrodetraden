@@ -1,0 +1,35 @@
+{
+  "tittel": "Eierskapsmelding 2025",
+  "innstilling": "Kommunestyret tar eierskapsmeldingen til etterretning og legger den til grunn for videre arbeid.",
+  "vedtak": "Kommunestyret godkjenner eierskapsmeldingen 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Opposisjonen",
+      "tekst": "Kommunestyret bør utarbeide en mer detaljert handlingsplan for eierskap og investeringer."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av eierskapsmeldingen 2025",
+      "alternativer": [
+        {
+          "navn": "Enstemmig godkjenning",
+          "stemmer": 27
+        },
+        {
+          "navn": "Avslag",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Enstemmig godkjenning",
+      "rodt": {
+        "støttet": "ja",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 13/25",
+  "rodt_fremmet_forslag": false
+}

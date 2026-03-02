@@ -1,0 +1,26 @@
+{
+  "tittel": "Økonomirapportering pr. februar 2025",
+  "innstilling": "Økonomirapportering pr. februar 2025 tas til orientering.",
+  "vedtak": "Økonomirapportering pr. februar 2025 tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om å ta økonomirapporteringen pr. februar 2025 til orientering.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (tas til orientering)",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen (tas til orientering)",
+      "rodt": {
+        "støttet": "Innstillingen (tas til orientering)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 52/2025",
+  "rodt_fremmet_forslag": false
+}

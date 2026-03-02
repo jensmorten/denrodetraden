@@ -1,0 +1,57 @@
+{
+  "tittel": "En bærekraftig og fremtidsrettet hjemmetjeneste - Orientering om arbeidsprosess og plan",
+  "innstilling": "Kommunestyret tar saken til orientering.",
+  "vedtak": "1. Kommunestyret tar saken til orientering og presiserer at det ikke tar stilling til det konkrete faglige innholdet i saken. Administrasjonen har ansvar for det faglige innholdet, mens kommunestyret legger føringer for rammene.\n2. Kommunestyret understreker at Stjørdal kommunes arbeidsgiverpolitikk skal følges, herunder prinsippene om nærværsledelse, medarbeideroppfølging, HMS-arbeid og tydelig ledelse. Dette innebærer at lederspenn må være forsvarlig, slik at leder kan være til stede og følge opp ansatte i tråd med arbeidsgiverpolitikken.\n3. Kommunestyret er opptatt av kvaliteten i omsorgstjenestene, og forventer at valg av organisering skal styrke kvaliteten og legge til rette for et økende antall brukere i årene som kommer.\n4. Kommunestyret presiserer at organiseringen av hjemmetjenestene skal bidra til færre kjørte kilometer, både av hensyn til kvalitet og tilgjengelighet for brukerne og for å styrke kommunens miljø- og klimaarbeid gjennom redusert transport og mer effektiv ressursbruk.\n5. Kommunestyret understreker at pause- og arbeidsfasiliteter for ansatte skal være forsvarlige, og i tråd med arbeidsgiverpolitikkens krav til et helsefremmende og trygt arbeidsmiljø.\n6. Kommunestyret presiserer at bosentra fortsatt skal være et tydelig tilbud i omsorgstrappa, med heldøgns omsorg, plassert mellom eget hjem og institusjon, og inngå som en sentral del av kommunens samlede omsorgstilbud.\n7. Kommunestyret vil peke på at lokalisering i den gamle brannstasjon vil være uheldig, da dette er en eiendom som sannsynlig vil bli solgt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "1. Kommunestyret tar saken til orientering og presiserer at det ikke tar stilling til det konkrete faglige innholdet i saken. Administrasjonen har ansvar for det faglige innholdet, mens kommunestyret legger føringer for rammene.\n2. Kommunestyret understreker at Stjørdal kommunes arbeidsgiverpolitikk skal følges, herunder prinsippene om nærværsledelse, medarbeideroppfølging, HMS-arbeid og tydelig ledelse. Dette innebærer at lederspenn må være forsvarlig, slik at leder kan være til stede og følge opp ansatte i tråd med arbeidsgiverpolitikken.\n3. Kommunestyret er opptatt av kvaliteten i omsorgstjenestene, og forventer at valg av organisering skal styrke kvaliteten og legge til rette for et økende antall brukere i årene som kommer.\n4. Kommunestyret presiserer at organiseringen av hjemmetjenestene skal bidra til færre kjørte kilometer, både av hensyn til kvalitet og tilgjengelighet for brukerne og for å styrke kommunens miljø- og klimaarbeid gjennom redusert transport og mer effektiv ressursbruk.\n5. Kommunestyret understreker at pause- og arbeidsfasiliteter for ansatte skal være forsvarlige, og i tråd med arbeidsgiverpolitikkens krav til et helsefremmende og trygt arbeidsmiljø.\n6. Kommunestyret presiserer at bosentra fortsatt skal være et tydelig tilbud i omsorgstrappa, med heldøgns omsorg, plassert mellom eget hjem og institusjon, og inngå som en sentral del av kommunens samlede omsorgstilbud.\n7. Kommunestyret mener at bruk av nåværende brannstasjon som lokasjon for ambulerende hjemmesykepleie kan stå i konflikt med at tomta vurderes solgt for å finansiere nytt bo- og velferdssenter. Kommunestyret presiserer derfor at denne målkonflikten må avklares politisk før brannstasjonen kan vurderes videre som alternativ lokasjon."
+    },
+    {
+      "forslagsstiller": "Annette T. Jensen (Kristelig folkeparti)",
+      "tekst": "Kommunestyret vil peke på at lokalisering i den gamle brannstasjon vil være uheldig, da dette er en eiendom som sannsynlig vil bli solgt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom formannskapets innstilling (ta saken til orientering) og Jan Inge Kaspersens (Ap) alternative forslag (utvidet orientering og presiseringer, inkl. punkt om brannstasjon).",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 0
+        },
+        {
+          "navn": "Jan Inge Kaspersen (Ap) sitt forslag",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Jan Inge Kaspersen (Ap) sitt forslag",
+      "rodt": {
+        "støttet": "Jan Inge Kaspersen (Ap) sitt forslag",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering mellom Annette T. Jensens (KrF) tilleggsforslag om brannstasjon og Jan Inge Kaspersen (Ap) sitt punkt 7 om brannstasjon.",
+      "alternativer": [
+        {
+          "navn": "Annette T. Jensen (KrF) sitt forslag",
+          "stemmer": 23
+        },
+        {
+          "navn": "Jan Inge Kaspersen (Ap) sitt punkt 7",
+          "stemmer": 14
+        }
+      ],
+      "vinner": "Annette T. Jensen (KrF) sitt forslag",
+      "rodt": {
+        "støttet": "Jan Inge Kaspersen (Ap) sitt punkt 7",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "29.01.2026",
+  "saksnummer_ps": "PS 1/2026",
+  "rodt_fremmet_forslag": false
+}

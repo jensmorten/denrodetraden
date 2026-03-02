@@ -1,0 +1,30 @@
+{
+  "tittel": "Lokal forskrift om tildeling av kommunale boliger i Stjørdal kommune",
+  "innstilling": "Kommunestyret vedtar lokal forskrift om tildeling av kommunale boliger i Stjørdal kommune, jf. kommuneloven § 5-3 (2). Forskriften trer i kraft den dagen den kunngjøres i Norsk Lovtidend (Lovdata), jf. forvaltningsloven §§ 38 og 39.",
+  "vedtak": "Kommunestyret vedtar lokal forskrift om tildeling av kommunale boliger i Stjørdal kommune, jf. kommuneloven § 5-3 (2). Forskriften trer i kraft den dagen den kunngjøres i Norsk Lovtidend (Lovdata), jf. forvaltningsloven §§ 38 og 39.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om å vedta lokal forskrift om tildeling av kommunale boliger.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 37
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "02.10.2025",
+  "saksnummer_ps": "PS 104/2025",
+  "rodt_fremmet_forslag": false
+}

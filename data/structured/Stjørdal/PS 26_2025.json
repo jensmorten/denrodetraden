@@ -1,0 +1,49 @@
+{
+  "tittel": "Klimaplan 2024 - 2036 / Klima- og energiplan 2024 – 2036",
+  "innstilling": "1. Klimaplan 2024 - 2036 endrer tittel til klima- og energiplan 2024 – 2036.\n2. Klima- og energiplan 2024-2036 vedtas slik den er lagt fram.",
+  "vedtak": "1. Klimaplan 2024 - 2036 endrer tittel til klima- og energiplan 2024 – 2036.\n2. Klima- og energiplan 2024-2036 vedtas slik den er lagt fram.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "a) Side 19, kulepunktet «Fysisk risiko er risiko knyttet til effekter og konsekvenser av klimaendringer. Risikofaktorer som mer ekstremvær, for eksempel flom, havnivåstigning og ulike typer ras, kan medføre store direkte og indirekte kostnader for kommunen og det lokale næringslivet.»\nTilføyes følgende: «Ødeleggelse av myr skal ikke forekomme og det skal vises større forsiktighet i nedbygging og endringer i skog og annen natur som direkte eller indirekte kan øke faren for flom, ras og ulike typer ekstremvær.»\nb) Side 35, kulepunktet «Unngå å bygge på karbonrike arealer så langt dette er mulig.»\nEndres til: «Ikke bygge på karbonrike arealer.»"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om å endre tittel og vedta klima- og energiplan 2024-2036 slik den er lagt fram.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Morten Harper (SV) om vern av myr og ikke å bygge på karbonrike arealer.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Morten Harper (SV)",
+          "stemmer": 6
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 30
+        }
+      ],
+      "vinner": "Mot tilleggsforslaget",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Morten Harper (SV)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 26/2025",
+  "rodt_fremmet_forslag": false
+}

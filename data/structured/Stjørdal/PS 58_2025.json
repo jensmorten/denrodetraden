@@ -1,0 +1,71 @@
+{
+  "tittel": "Skoleplanen 2025 - 2028 - Tilpasset opplæring - en bedre skole for alle",
+  "innstilling": "1. Kommunestyret vedtar Skoleplanen 2025 – 2029 – Tilpasset opplæring – en bedre skole for alle.\n2. Kommunestyret ber kommunedirektøren om å følge opp planen i kommende budsjett- og økonomiplaner og i enhetenes virksomhetsplaner/årsplaner.\n3. Kommunestyret ber kommunedirektøren om å følge opp planen hos alle aktørene som jobber for barn og unges oppvekst.\n4. Skolestruktur ligger fast i inneværende periode og utredning av denne skal ikke skje.",
+  "vedtak": "1. Kommunestyret vedtar Skoleplanen 2025 – 2029 – Tilpasset opplæring – en bedre skole for alle\n2. Kommunestyret ber kommunedirektøren om å følge opp planen i kommende budsjett- og økonomiplaner og i enhetenes virksomhetsplaner/årsplaner\n3. Kommunestyret ber kommunedirektøren om å følge opp planen hos alle aktørene som jobber for barn og unges oppvekst.\n4. Videre styrking av den ordinære undervisningen skal prioriteres ved å dreie ressursfordelingen i en retning mer lik den sammenlignbare kommuner praktiserer.\n5. Skolestruktur ligger fast i inneværende periode og utredning av denne skal ikke skje.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rune Larsen (Høyre)",
+      "tekst": "Videre styrking av den ordinære undervisningen skal prioriteres ved å dreie ressursfordelingen i en retning mer lik den sammenlignbare kommuner praktiserer."
+    },
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "Kommunestyret ber kommunedirektøren vurdere andre alternativer enn iPad 1 til 1 på småskolen (1.–4. trinn), for eksempel klassesett, for bedre utnyttelse av ressursene og å frigjøre midler til fysiske lærebøker og tilrettelagt undervisning."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet (Skoleplanen 2025–2029 med punktene 1–4)",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Rune Larsen (Høyre) om ressursfordeling",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag Rune Larsen (H)",
+          "stemmer": 24
+        },
+        {
+          "navn": "Mot tilleggsforslag Rune Larsen (H)",
+          "stemmer": 13
+        }
+      ],
+      "vinner": "Tilleggsforslag Rune Larsen (H)",
+      "rodt": {
+        "støttet": "Mot tilleggsforslag Rune Larsen (H)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Morten Harper (SV) om vurdering av alternativer til iPad 1:1 på småskolen",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag Morten Harper (SV)",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot tilleggsforslag Morten Harper (SV)",
+          "stemmer": 23
+        }
+      ],
+      "vinner": "Mot tilleggsforslag Morten Harper (SV)",
+      "rodt": {
+        "støttet": "Tilleggsforslag Morten Harper (SV)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 58/2025",
+  "rodt_fremmet_forslag": false
+}

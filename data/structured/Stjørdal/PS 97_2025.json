@@ -1,0 +1,26 @@
+{
+  "tittel": "Tensio sitt områdestudie Innherred sør og Værnesregionen",
+  "innstilling": "Stjørdal kommune tar områdestudie Innherred sør og Værnesregionen til orientering.",
+  "vedtak": "Stjørdal kommune tar områdestudie Innherred sør og Værnesregionen til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om å ta områdestudie Innherred sør og Værnesregionen til orientering.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "04.09.2025",
+  "saksnummer_ps": "PS 97/2025",
+  "rodt_fremmet_forslag": false
+}

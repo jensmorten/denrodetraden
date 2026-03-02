@@ -1,0 +1,53 @@
+{
+  "tittel": "2. tertial 2025. Økonomirapportering inkl finansforvaltning",
+  "innstilling": "Kommunestyret tar rapporten til etterretning og gir administrasjonen fullmakt til å fortsette arbeidet med å følge opp økonomien i henhold til rapporten.",
+  "vedtak": "Kommunestyret godkjenner 2. tertial 2025 økonomirapport og gir administrasjonen fullmakt til å følge opp økonomien i henhold til rapporten.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Opposisjonen",
+      "tekst": "Kommunestyret ber om en grundigere gjennomgang av budsjettavvikene før endelig godkjenning."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av 2. tertial 2025 økonomirapport",
+      "alternativer": [
+        {
+          "navn": "Godkjenning",
+          "stemmer": 25
+        },
+        {
+          "navn": "Avvisning",
+          "stemmer": 10
+        }
+      ],
+      "vinner": "Godkjenning",
+      "rodt": {
+        "støttet": "Godkjenning",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Fullmakt til administrasjonen til å følge opp økonomien",
+      "alternativer": [
+        {
+          "navn": "Fullmakt gis",
+          "stemmer": 26
+        },
+        {
+          "navn": "Fullmakt avslås",
+          "stemmer": 9
+        }
+      ],
+      "vinner": "Fullmakt gis",
+      "rodt": {
+        "støttet": "Fullmakt gis",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 15/25",
+  "rodt_fremmet_forslag": false
+}

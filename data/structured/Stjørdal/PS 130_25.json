@@ -1,0 +1,35 @@
+{
+  "tittel": "Forlengelse av aksjonæravtale for Regionalt Pilegrimssenter Stiklestad AS",
+  "innstilling": "Forelegge kommunestyret forslag om forlengelse av aksjonæravtalen med ett år, til og med 31. desember 2026.",
+  "vedtak": "Aksjonæravtalen for Regionalt Pilegrimssenter Stiklestad AS forlenges med ett år, til og med 31. desember 2026. Kommunestyret ber kommunedirektøren fremme ny sak om videre forlengelse etter avklaring av framtidig struktur og eierforhold.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Opposisjonen",
+      "tekst": "Nei til forlengelse av aksjonæravtalen uten nærmere vurdering av framtidig struktur og eierforhold."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om forlengelse av aksjonæravtalen til 31. desember 2026.",
+      "alternativer": [
+        {
+          "navn": "Enstemmig for",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "Enstemmig for",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 130/25",
+  "rodt_fremmet_forslag": false
+}

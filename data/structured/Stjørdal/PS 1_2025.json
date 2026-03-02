@@ -1,0 +1,30 @@
+{
+  "tittel": "Forslag til revidert samarbeidsavtale mellom Helse Nord-Trøndelag og kommunene",
+  "innstilling": "Kommunestyret vedtar forslag til samarbeidsavtale mellom HNT og kommunene som inngår i Helsefellesskapet i nordre Trøndelag.",
+  "vedtak": "Kommunestyret vedtar forslag til samarbeidsavtale mellom HNT og kommunene som inngår i Helsefellesskapet i nordre Trøndelag.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å vedta samarbeidsavtalen mellom HNT og kommunene.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 36
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 1/2025",
+  "rodt_fremmet_forslag": false
+}

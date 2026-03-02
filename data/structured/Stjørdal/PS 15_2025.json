@@ -1,0 +1,35 @@
+{
+  "tittel": "Plan for dekning av inntektstapet på 10 millioner kroner",
+  "innstilling": "Kommunestyret vedtar den foreslåtte planen for å dekke inntektstapet på 10 millioner kroner. Kommunestyret forutsetter at det arbeides aktivt for å kunne selge plasser i tråd med den intensjonen som lå i avtalen med St. Olav. Det forutsettes videre at det ved inngåelse av administrative avtaler gjøres risikovurderinger knyttet til konsekvenser for egen drift ved en oppsigelse.",
+  "vedtak": "Kommunestyret vedtar den foreslåtte planen for å dekke inntektstapet på 10 millioner kroner. Kommunestyret forutsetter at det arbeides aktivt for å kunne selge plasser i tråd med den intensjonen som lå i avtalen med St. Olav. Det forutsettes videre at det ved inngåelse av administrative avtaler gjøres risikovurderinger knyttet til konsekvenser for egen drift ved en oppsigelse.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Den fremlagte risikoanalysen viser betydelig økonomisk risiko ved den foreslåtte planen, blant annet med tilbakebetaling til husbanken. Det er videre pekt på en risiko for arbeidsmiljøet med sykemeldinger blant de ansatte som følger. Dette vil dermed kunne være i strid med Arbeidsmiljølovens § 4.1(1) om et fullt forsvarlig arbeidsmiljø. Saken er heller ikke drøftet med de tillitsvalgte etter Hovedavtalens del B 3.1(c). Saken avvises dermed og sendes tilbake til kommunedirektøren."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom formannskapets innstilling (forslag 1) og alternativt forslag fra Jan Inge Kaspersen (forslag 2)",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling (forslag 1)",
+          "stemmer": 22
+        },
+        {
+          "navn": "Alternativt forslag fra Jan Inge Kaspersen (forslag 2)",
+          "stemmer": 15
+        }
+      ],
+      "vinner": "Formannskapets innstilling (forslag 1)",
+      "rodt": {
+        "støttet": "Alternativt forslag fra Jan Inge Kaspersen (forslag 2)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.02.2025",
+  "saksnummer_ps": "PS 15/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,35 @@
+{
+  "tittel": "Mandat mulighetsutredning felles organisering av brann- og redningstjenesten",
+  "innstilling": "Kommunestyret ber kommunedirektøren om å gjennomføre fase 1 i vedlagte mandat: Med utgangspunkt i de aktuelle samarbeidskommunene/brannvesen utarbeides en overordnet beskrivelse av felles brann- og redningstjeneste for hele området som kan synliggjøre potensielle effektiviseringsmuligheter sammenlignet med dagens ordning.",
+  "vedtak": "Stjørdal kommune ser stor verdi i samarbeid med andre kommuner.\nGitt at Stjørdal kommune nettopp har vedtatt ny brannordning og er i ferd med å ta i bruk ny brannstasjon, kommer en slik henvendelse på et litt ugunstig tidspunkt, da det vil være behov for å høste erfaringer med den vedtatte brannordningen før man går videre med nye formelle samarbeid. Videre er en utredning av brannsamarbeid Trøndelag godt underveis og det vil kunne komme en egen sak om dette høsten 2026. Stjørdal kommune vil avvente denne før man igangsetter videre utredninger, og ber kommunedirektøren legge til rette for en informasjon om dette til kommunestyret.\nStjørdal kommune vil derfor ikke gå inn for å gjennomføre fase 1 i vedlagte mandat på nåværende tidspunkt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eli Arnstad (Senterpartiet)",
+      "tekst": "Stjørdal kommune ser stor verdi i samarbeid med andre kommuner.\nGitt at Stjørdal kommune nettopp har vedtatt ny brannordning og er i ferd med å ta i bruk ny brannstasjon, kommer en slik henvendelse på et litt ugunstig tidspunkt, da det vil være behov for å høste erfaringer med den vedtatte brannordningen før man går videre med nye formelle samarbeid. Videre er en utredning av brannsamarbeid Trøndelag godt underveis og det vil kunne komme en egen sak om dette høsten 2026. Stjørdal kommune vil avvente denne før man igangsetter videre utredninger, og ber kommunedirektøren legge til rette for en informasjon om dette til kommunestyret.\nStjørdal kommune vil derfor ikke gå inn for å gjennomføre fase 1 i vedlagte mandat på nåværende tidspunkt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom formannskapets innstilling og Eli Arnstads alternative forslag om å ikke gjennomføre fase 1 i vedlagte mandat.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 0
+        },
+        {
+          "navn": "Eli Arnstads forslag",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Eli Arnstads forslag",
+      "rodt": {
+        "støttet": "Eli Arnstads forslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 139/2025",
+  "rodt_fremmet_forslag": false
+}

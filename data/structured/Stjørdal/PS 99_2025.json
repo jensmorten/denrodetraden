@@ -1,0 +1,30 @@
+{
+  "tittel": "Økt ramme startlånsmidler til vanskeligstilte",
+  "innstilling": "Kommunestyret vedtar å øke rammen for startlånsmidler i 2025 fra kr 80 mill. til kr 120 mill.",
+  "vedtak": "Kommunestyret vedtar å øke rammen for startlånsmidler i 2025 fra kr 80 mill. til kr 120 mill.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å øke rammen for startlånsmidler i 2025 fra kr 80 mill. til kr 120 mill.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 36
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "04.09.2025",
+  "saksnummer_ps": "PS 99/2025",
+  "rodt_fremmet_forslag": false
+}

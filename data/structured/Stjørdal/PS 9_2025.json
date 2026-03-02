@@ -1,0 +1,49 @@
+{
+  "tittel": "Etiske retningslinjer for ansatte og folkevalgte i Stjørdal kommune",
+  "innstilling": "Kommunestyret vedtar Stjørdal kommunes etiske retningslinjer.",
+  "vedtak": "Kommunestyret vedtar Stjørdal kommunes etiske retningslinjer. Etiske retningslinjer revideres en gang pr. år. Endingene vedtas i Formannskapet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Inger Johanne Overvik Uthus (Arbeiderpartiet)",
+      "tekst": "Etiske retningslinjer revideres en gang pr. år. Endingene vedtas i formannskapet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen: Kommunestyret vedtar Stjørdal kommunes etiske retningslinjer.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Inger Johanne Overvik Uthus (Ap): Etiske retningslinjer revideres en gang pr. år. Endingene vedtas i formannskapet.",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 33
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "For tilleggsforslaget",
+      "rodt": {
+        "støttet": "For tilleggsforslaget",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.02.2025",
+  "saksnummer_ps": "PS 9/2025",
+  "rodt_fremmet_forslag": false
+}

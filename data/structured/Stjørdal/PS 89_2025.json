@@ -1,0 +1,30 @@
+{
+  "tittel": "Lokal forskrift om skoleregler for offentlige skoler i Stjørdal kommuner - sluttbehandling etter høring",
+  "innstilling": "Lokal forskrift om skoleregler for offentlige skoler i Stjørdal kommune vedtas. Den lokale forskriften kunngjøres i Norsk Lovtidend.",
+  "vedtak": "Lokal forskrift om skoleregler for offentlige skoler i Stjørdal kommune vedtas. Den lokale forskriften kunngjøres i Norsk Lovtidend.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra Utvalg Kultur og Levekår om å vedta lokal forskrift om skoleregler for offentlige skoler i Stjørdal kommune.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 37
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "04.09.2025",
+  "saksnummer_ps": "PS 89/2025",
+  "rodt_fremmet_forslag": false
+}

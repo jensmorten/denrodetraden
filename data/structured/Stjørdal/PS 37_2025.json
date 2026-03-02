@@ -1,0 +1,49 @@
+{
+  "tittel": "Innbyggerforslag - Stjørdal stasjon",
+  "innstilling": "Kommunestyret tar innbyggerforslaget opp til behandling.",
+  "vedtak": "Kommunestyret tar innbyggerforslaget opp til behandling.\nKommunestyret anerkjenner det store engasjementet som ligger bak innbyggerinitiativet.\nKommunestyret ber kommunedirektøren gå i dialog med BaneNor og vil oppfordre om at det i prosessen fram mot beslutning legges til rette for at folkemeningen kan komme til uttrykk.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eli Arnstad (Senterpartiet)",
+      "tekst": "Kommunestyret anerkjenner det store engasjementet som ligger bak innbyggerinitiativet.\nKommunestyret ber kommunedirektøren gå i dialog med BaneNor og vil oppfordre om at det i prosessen fram mot beslutning legges til rette for at folkemeningen kan komme til uttrykk."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen: Kommunestyret tar innbyggerforslaget opp til behandling.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 36
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 1
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Eli Arnstad (Sp)",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "For tilleggsforslaget",
+      "rodt": {
+        "støttet": "For tilleggsforslaget",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 37/2025",
+  "rodt_fremmet_forslag": false
+}

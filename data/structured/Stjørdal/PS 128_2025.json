@@ -1,0 +1,119 @@
+{
+  "tittel": "Et mer fleksibelt barnehageopptak",
+  "innstilling": "Dagens opptaksmodell med et hovedopptak og supplerende opptak til ledige barnehageplasser gjennom året beholdes uendret.",
+  "vedtak": "Dagens opptaksmodell med et hovedopptak og supplerende opptak til ledige barnehageplasser i kommunale og private barnehager gjennom året beholdes uendret. Tildeling av plass forutsettes ledig kapasitet i aktuelle barnehage.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Siv Sætran (Senterpartiet)",
+      "tekst": "Dagens opptaksmodell med et hovedopptak og supplerende opptak til ledige barnehageplasser i kommunale og private barnehager gjennom året beholdes uendret. Tildeling av plass forutsettes ledig kapasitet i aktuelle barnehage."
+    },
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Kommunedirektøren bes forberede en sak om et prøveprosjekt for løpende opptak med rett til plass ved fylte 1 år. Avgrensninger i prosjektet vurderes i saken."
+    },
+    {
+      "forslagsstiller": "Johannes Fagervold (Rødt)",
+      "tekst": "Alternativ 1, løpende opptak, vedtas. Kommunedirektøren bes straks iverksette tiltak for omstilling, slik at denne opptaksmodellen kan være gjeldende fra august 2026."
+    },
+    {
+      "forslagsstiller": "Johannes Fagervold (Rødt)",
+      "tekst": "Kommunedirektøren bes utarbeide et alternativ for 2 hovedopptak i året og legge frem dette for kommunestyret.\nDisse to opptak stilles på hver sin halvddel av året, motsatt av hverandre. Det ene fungerer som i dag og innfrir de rettigheter som i dag følger av Barnehageloven §16. Det andre favner de barna som faller på motsatt side av året og som i dag ikke har rett på barnehageplass før påfølgende Hovedopptak.\nSupplerende opptak fungerer slik som før.\nDette med hensyn på å ideelt sett halvere både den maksimale og den gjennomsnittlige ventetiden mellom endt foreldrepermisjon og barnehageopptak."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 1
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Mot innstillingen",
+      "rodt": {
+        "støttet": "Mot innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over Siv Sætrans alternative forslag",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 25
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 12
+        }
+      ],
+      "vinner": "For forslaget",
+      "rodt": {
+        "støttet": "Mot forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over Jan Inge Kaspersens alternative forslag",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 12
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 25
+        }
+      ],
+      "vinner": "Mot forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over Johannes Fagervolds (Rødt) alternative forslag om løpende opptak",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 3
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 34
+        }
+      ],
+      "vinner": "Mot forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over Johannes Fagervolds (Rødt) tilleggsforslag om to hovedopptak",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 24
+        }
+      ],
+      "vinner": "Mot forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 128/2025",
+  "rodt_fremmet_forslag": true
+}

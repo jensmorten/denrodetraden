@@ -1,0 +1,45 @@
+{
+  "tittel": "Samarbeidsavtale og valg av medlemmer til Trondheimsalliansen IPR",
+  "innstilling": "Kommunestyret vedtar samarbeidsavtalen for Trondheimsalliansen IPR.",
+  "vedtak": "Kommunestyret vedtar samarbeidsavtalen for Trondheimsalliansen IPR.\nSom medlemmer i Trondheimsalliansen velges:\n• Ordfører Eli Arnstad (SP) med varaordfører Renate Trøan Bjørshol (H) som vara.\n• Ann Inger Leirtrø (AP) med Jan Inge Kaspersen (AP) som vara.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eli Arnstad (Senterpartiet)",
+      "tekst": "Som medlemmer i Trondheimsalliansen velges:\n• Ordfører Eli Arnstad (SP) med varaordfører Renate Trøan Bjørshol (H) som vara.\n• Ann Inger Leirtrø (AP) med Jan Inge Kaspersen (AP) som vara."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å vedta samarbeidsavtalen for Trondheimsalliansen IPR.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over Eli Arnstads forslag til valg av medlemmer til Trondheimsalliansen.",
+      "alternativer": [
+        {
+          "navn": "Eli Arnstads forslag",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Eli Arnstads forslag",
+      "rodt": {
+        "støttet": "Eli Arnstads forslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 33/2025",
+  "rodt_fremmet_forslag": false
+}

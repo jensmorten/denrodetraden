@@ -1,0 +1,45 @@
+{
+  "tittel": "Ungdomsråd høst 2025 - vår 2026",
+  "innstilling": "Følgende personer velges som faste representanter og vararepresentanter i Stjørdal ungdomsråd for perioden august 2025 – juni 2026.\nFaste representanter fra skole/ enhet og navn:\nHegra ungdomsskole - Ingrid Louise Bjørngaard Furuknap og Ask Falck Moen\nHalsen ungdomsskole - Elisabeth Reinsberg og Martin Vik\nStokkan ungdomsskole - Ingvild Hellan Braaten og Emma Alstad- Sørensen\nFagerhaug kristne grunnskole - Trude Eline Øyvindsdottir Aare\nFagerhaug internasjonale skole - Sanne Tørum Amdam\nOle Vig videregående skole - Iver Magnus Hammer og Nora Høybakken\nAglo videregående skole - Navn kommer til høsten\nCarbon fritidsklubb - Reidar Vik Bidtnes\nFriplass - Aryam Ageel\nVara\nFrida Welde Stokkan ungdomsskole",
+  "vedtak": "Følgende personer velges som faste representanter og vararepresentanter i Stjørdal ungdomsråd for perioden august 2025 – juni 2026.\nFaste representanter fra skole/ enhet og navn:\nHegra ungdomsskole - Ingrid Louise Bjørngaard Furuknap og Ask Falck Moen\nHalsen ungdomsskole - Elisabeth Reinsberg og Martin Vik\nStokkan ungdomsskole - Ingvild Hellan Braaten og Emma Alstad- Sørensen\nFagerhaug kristne grunnskole - Trude Eline Øyvindsdottir Aare\nFagerhaug internasjonale skole - Sanne Tørum Amdam\nOle Vig videregående skole - Iver Magnus Hammer og Nora Høybakken\nAglo videregående skole - Navn kommer til høsten\nCarbon fritidsklubb - Reidar Vik Bidtnes\nFriplass - Aryam Ageel\nVara\nFrida Welde - Stokkan ungdomsskole\nOle Vig vgs - Mathias Engan",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Otelie Almli (Senterpartiet)",
+      "tekst": "Som 2. vara i Ungdomsrådet velges Mathias Engan (Ole Vig)"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om valg av faste representanter og vararepresentanter i Stjørdal ungdomsråd for perioden august 2025 – juni 2026.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Otelie Almli (Sp) om å velge Mathias Engan (Ole Vig) som 2. vara i Ungdomsrådet.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Otelie Almli (Sp)",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Tilleggsforslag fra Otelie Almli (Sp)",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Otelie Almli (Sp)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 65/2025",
+  "rodt_fremmet_forslag": false
+}

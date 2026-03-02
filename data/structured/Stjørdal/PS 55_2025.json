@@ -1,0 +1,26 @@
+{
+  "tittel": "Søknad om permisjon som folkevalgt - Nils Nordbotn",
+  "innstilling": "Kommunedirektøren viser til lovens bestemmelser og vurderer at vilkårene er til stede for å innvilge Nils Nordbotn permisjon fra sitt verv som folkevalgt fra 2. juni og ut året 2025.",
+  "vedtak": "Kommunedirektøren viser til lovens bestemmelser og vurderer at vilkårene er til stede for å innvilge Nils Nordbotn permisjon fra sitt verv som folkevalgt fra 2. juni og ut året 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling om å innvilge permisjon for Nils Nordbotn.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (innvilge permisjon)",
+          "stemmer": 35
+        }
+      ],
+      "vinner": "Innstillingen (innvilge permisjon)",
+      "rodt": {
+        "støttet": "Innstillingen (innvilge permisjon)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 55/2025",
+  "rodt_fremmet_forslag": false
+}

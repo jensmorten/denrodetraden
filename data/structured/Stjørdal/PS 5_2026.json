@@ -1,0 +1,26 @@
+{
+  "tittel": "Endelig budsjett 2026 og økonomiplan 2026-2029",
+  "innstilling": "Endelige budsjettrammer 2026 og økonomiplan 2026-2029 etter vedtak 18.12.2025 tas til orientering med de oppdatert budsjettskjema som fremkommer i denne saken.",
+  "vedtak": "Endelige budsjettrammer 2026 og økonomiplan 2026-2029 etter vedtak 18.12.2025 tas til orientering med de oppdatert budsjettskjema som fremkommer i denne saken.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om endelige budsjettrammer 2026 og økonomiplan 2026-2029.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "29.01.2026",
+  "saksnummer_ps": "PS 5/2026",
+  "rodt_fremmet_forslag": false
+}

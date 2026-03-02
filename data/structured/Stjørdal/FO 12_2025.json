@@ -1,0 +1,26 @@
+{
+  "tittel": "Interpellasjon til ordfører i kommunestyret 18.12.2025 - Rådhuset",
+  "innstilling": null,
+  "vedtak": "Saken utsettes til kommunestyremøtet 29. januar 2026.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelse av saken til kommunestyremøtet 29. januar 2026.",
+      "alternativer": [
+        {
+          "navn": "Utsettelse til 29. januar 2026",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Utsettelse til 29. januar 2026",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "FO 12/2025",
+  "rodt_fremmet_forslag": false
+}

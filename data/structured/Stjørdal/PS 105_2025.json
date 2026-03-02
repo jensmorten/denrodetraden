@@ -1,0 +1,101 @@
+{
+  "tittel": "Parkeringsordning og regulering i Stjørdal - parkering som et virkemiddel for å skape mer liv i byen - forslag til høringssak",
+  "innstilling": "Kommunestyret fatter følgende prinsippvedtak om parkeringsordning i Stjørdal kommune:\n1. Kommunestyret viser til forslag til parkeringsordning som beskrevet i punktene 1 til 12 i saken.\n2. Kommunestyret vedtar å legge forslag til prinsippvedtak ut på høring i 6 uker.\nSærlige grupper vil få høringssaken tilsendt:\n- Fagforeninger\n- Næringsforeningen i Værnesregionen\n- Trøndelag fylkeskommune\n- Norges Handikapforbund\n- Statens vegvesen\n- Statsforvalteren\n- Politiet\n- Tillitsvalgte Stjørdal kommune\n3. Kommunedirektøren bes samle og vurdere innspill og fremme sak om parkeringsordning og regulering i Stjørdal når dette er gjort.",
+  "vedtak": "Kommunestyret fatter følgende prinsippvedtak om parkeringsordning i Stjørdal kommune:\n1. Kommunestyret viser til forslag til parkeringsordning som beskrevet i punktene 1 til 12 i saken.\n2. Kommunestyret vedtar å legge forslag til prinsippvedtak ut på høring i 6 uker.\nSærlige grupper vil få høringssaken tilsendt:\n- Fagforeninger\n- Næringsforeningen i Værnesregionen\n- Trøndelag fylkeskommune\n- Norges Handikapforbund\n- Statens vegvesen\n- Statsforvalteren\n- Politiet\n- Tillitsvalgte Stjørdal kommune\n3. Kommunedirektøren bes samle og vurdere innspill og fremme sak om parkeringsordning og regulering i Stjørdal når dette er gjort.\nDet presiseres i tillegg følgende:\nDet skal fortsatt være 3 timer gratis parkering i sentrum som i dag. Parkeringstiden kan etter dette utvides mot betaling.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Det presiseres i tillegg følgende: a) Det skal fortsatt være 3 timer gratis parkering i sentrum som i dag. Parkeringstiden kan etter dette utvides mot betaling."
+    },
+    {
+      "forslagsstiller": "Gunnar Uglem (Venstre)",
+      "tekst": "I saksframlegget «forslag til parkeringsordning» punkt 4 strykes setningen bak komma i kulepunktet - deretter ordinær sats."
+    },
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Analyser fra miljøpakken tyder på at for sterke parkeringsrestriksjoner kan gi negative konsekvenser for varehandel og tjenesteyting, og kan bidra til å svekke mulighetene for sentrumsutvikling. Dette pekes på blant annet i Norce-rapporten \"Parkering som virkemiddel for å nå nullvekstmålet\". Særlig lavinntektsgrupper vil rammes av krav til parkeringsavgift, noe som bryter med målsetningen i byvekstavtalen om at by og tettstedsområder skal bli mer tilgjengelig for alle. Få innbyggere i Stjørdal har et kollektivtilbud som gjøre reiser til og fra sentrum et reelt alternativ til bilen, og det er dermed behov for flere pendlerparkeringer for å få flere over til kollektivløsninger for pendling i Trondheimsregionen. Kommunedirektøren bes derfor om å særlig involvere de mange næringsdrivende i sentrum og la og organisasjoner i høringen."
+    },
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Det skal legges til rette for pendlerparkering ved Fosslia fjellhall og stasjonsområdet/grustaket som er gratis inntil 23 timer for å understøtte nullvekstmålet i byvekstavtalen. Parkeringstiden kan etter dette utvides mot betaling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen (prinsippvedtak om parkeringsordning, utlegging til høring, mv.)",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 36
+        },
+        {
+          "navn": "Imot innstillingen",
+          "stemmer": 1
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering mellom tilleggsforslag fra Jan Inge Kaspersen (3 timer gratis parkering) og endringsforslag fra Gunnar Uglem (strykning i punkt 4)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag Jan Inge Kaspersen (3 timer gratis parkering)",
+          "stemmer": 35
+        },
+        {
+          "navn": "Endringsforslag Gunnar Uglem (strykning i punkt 4)",
+          "stemmer": 2
+        }
+      ],
+      "vinner": "Tilleggsforslag Jan Inge Kaspersen (3 timer gratis parkering)",
+      "rodt": {
+        "støttet": "Tilleggsforslag Jan Inge Kaspersen (3 timer gratis parkering)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Jan Inge Kaspersen (analyser fra miljøpakken, involvering av næringsdrivende, mv.)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag Jan Inge Kaspersen (miljøpakken, næringsdrivende, mv.)",
+          "stemmer": 10
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 27
+        }
+      ],
+      "vinner": "Imot tilleggsforslaget",
+      "rodt": {
+        "støttet": "Tilleggsforslag Jan Inge Kaspersen (miljøpakken, næringsdrivende, mv.)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Jan Inge Kaspersen (pendlerparkering gratis inntil 23 timer)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag Jan Inge Kaspersen (pendlerparkering gratis inntil 23 timer)",
+          "stemmer": 12
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 25
+        }
+      ],
+      "vinner": "Imot tilleggsforslaget",
+      "rodt": {
+        "støttet": "Tilleggsforslag Jan Inge Kaspersen (pendlerparkering gratis inntil 23 timer)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "02.10.2025",
+  "saksnummer_ps": "PS 105/2025",
+  "rodt_fremmet_forslag": false
+}

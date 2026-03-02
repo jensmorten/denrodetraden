@@ -1,0 +1,35 @@
+{
+  "tittel": "Mobilitetsplan for Stjørdal",
+  "innstilling": "Kommunestyret vedtar mobilitetsplanen for Stjørdal, som skal legge grunnlaget for kommunens arbeid med å fremme miljøvennlig mobilitet i årene framover. Planen skal bidra til å nå nullvekstmålet og mobilitetspyramiden, og vektlegger tiltak for å gjøre det enklere og tryggere å velge sykkel, gange og kollektivtransport.",
+  "vedtak": "Kommunestyret vedtar mobilitetsplanen for Stjørdal.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rødt",
+      "tekst": "Rødt foreslår at planen skal inneholde konkrete mål for reduksjon av bilbruk og økt satsing på kollektivtransport, samt en tydelig prioritering av miljøvennlige løsninger i alle tiltak."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av mobilitetsplanen for Stjørdal.",
+      "alternativer": [
+        {
+          "navn": "Vedtak som foreslått",
+          "stemmer": 20
+        },
+        {
+          "navn": "Alternativt forslag fra Rødt",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Vedtak som foreslått",
+      "rodt": {
+        "støttet": "Nei",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 122/25",
+  "rodt_fremmet_forslag": true
+}

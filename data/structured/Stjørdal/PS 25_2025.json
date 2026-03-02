@@ -1,0 +1,26 @@
+{
+  "tittel": "Revidert delegeringsreglement",
+  "innstilling": "Vedlagt forslag til revidert delegeringsreglement vedtatt med følgende endringer:\n• Punkt 6.6 tas bort.\n• I punkt 6.2.1 §12-14 stryk ordet «kan»",
+  "vedtak": "Vedlagt forslag til revidert delegeringsreglement vedtatt med følgende endringer:\n• Punkt 6.6 tas bort.\n• I punkt 6.2.1 §12-14 stryk ordet «kan»",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om revidert delegeringsreglement med endringer.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 25/2025",
+  "rodt_fremmet_forslag": false
+}

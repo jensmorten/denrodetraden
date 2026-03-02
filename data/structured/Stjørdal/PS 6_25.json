@@ -1,0 +1,53 @@
+{
+  "tittel": "Endelig budsjett 2025 og økonomiplan 2025-2028",
+  "innstilling": "Kommunestyret vedtar endelig budsjett for 2025 og økonomiplan for perioden 2025-2028 i henhold til innstillingen.",
+  "vedtak": "Kommunestyret vedtar endelig budsjett for 2025 og økonomiplan for perioden 2025-2028 slik det er foreslått.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Opposisjonen",
+      "tekst": "Foreslår ytterligere prioriteringer for økte midler til skole og helse, samt en mer restriktiv budsjettpolitikk."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om budsjettvedtaket",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 10
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering om alternative forslag",
+      "alternativer": [
+        {
+          "navn": "Opposisjonen",
+          "stemmer": 10
+        },
+        {
+          "navn": "Senterpartiet",
+          "stemmer": 15
+        }
+      ],
+      "vinner": "Senterpartiet",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 6/25",
+  "rodt_fremmet_forslag": false
+}

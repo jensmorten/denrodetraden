@@ -1,0 +1,26 @@
+{
+  "tittel": "Sluttbehandling av detaljregulering for Kjøpmannsgata 5, plan-ID 5028",
+  "innstilling": "Stjørdal kommune vedtar detaljregulering for Kjøpmannsgata 5, plan-ID 5028, som vist på kart datert 01.12.2023, bestemmelser datert 14.08.2024 og beskrivelse datert 05.02.2025. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "vedtak": "Stjørdal kommune vedtar detaljregulering for Kjøpmannsgata 5, plan-ID 5028, som vist på kart datert 01.12.2023, bestemmelser datert 14.08.2024 og beskrivelse datert 05.02.2025. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å vedta detaljregulering for Kjøpmannsgata 5, plan-ID 5028.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.02.2025",
+  "saksnummer_ps": "PS 14/2025",
+  "rodt_fremmet_forslag": false
+}

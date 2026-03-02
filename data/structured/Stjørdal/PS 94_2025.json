@@ -1,0 +1,53 @@
+{
+  "tittel": "Sluttbehandling av detaljreguleringsplan 5040 Sjøsiden, gnr 83/95 m.fl.",
+  "innstilling": "Stjørdal kommune vedtar detaljreguleringsplan for Sjøsiden med planID 5040, som vist på plankart og bestemmelser sist revidert 11.06.2025 og planbeskrivelse sist revidert 01.07.2025. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "vedtak": "Stjørdal kommune vedtar detaljreguleringsplan for Sjøsiden med planID 5040, som vist på plankart og bestemmelser sist revidert 11.06.2025 og planbeskrivelse sist revidert 01.07.2025. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eli Arnstad (Senterpartiet)",
+      "tekst": "Saken utsettes og det bes om en ekstern analyse av de nærings-, handels- og tjenestemessige betydningene for sentrum av å åpne for såvidt mange sentrumsfunksjoner på Tangenområdet. Det legges til grunn at de utbyggingsmuligheter foreliggende reguleringsplan åpner for over tid vil bli utnyttet. Det tas for resten av Tangenområdet utgangspunkt i utkast til arealdisponering i utkastet til KPA. Analysen skal besvare hva dette samlet sett vil kunne bety vurdert opp mot samfunnsdelen mål om å bygge en livskraftig by i sentrum."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Forslag fra Eli Arnstad (Sp) om utsettelse og ekstern analyse.",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Eli Arnstad (Sp)",
+          "stemmer": 17
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 20
+        }
+      ],
+      "vinner": "Mot forslaget",
+      "rodt": {
+        "støttet": "Forslaget fra Eli Arnstad (Sp)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over innstillingen om å vedta detaljreguleringsplanen.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (vedta detaljreguleringsplanen)",
+          "stemmer": 29
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 8
+        }
+      ],
+      "vinner": "Innstillingen (vedta detaljreguleringsplanen)",
+      "rodt": {
+        "støttet": "Mot innstillingen",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "04.09.2025",
+  "saksnummer_ps": "PS 94/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,30 @@
+{
+  "tittel": "Boligsosial handlingsplan 2026-2029",
+  "innstilling": "Kommunestyret vedtar forslag til Boligsosial handlingsplan 2026-2029.",
+  "vedtak": "Kommunestyret vedtar forslag til Boligsosial handlingsplan 2026-2029.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å vedta forslag til Boligsosial handlingsplan 2026-2029.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 37
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 141/2025",
+  "rodt_fremmet_forslag": false
+}

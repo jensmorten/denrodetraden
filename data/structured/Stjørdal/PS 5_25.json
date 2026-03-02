@@ -1,0 +1,26 @@
+{
+  "tittel": "Kontrollutvalgets års- og møteplan 2026",
+  "innstilling": "Kommunestyret tar Kontrollutvalgets års- og møteplan 2026 til orientering.",
+  "vedtak": "Kommunestyret tar Kontrollutvalgets års- og møteplan 2026 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Stemmer for innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "ja",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 5/25",
+  "rodt_fremmet_forslag": false
+}

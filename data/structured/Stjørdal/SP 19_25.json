@@ -1,0 +1,48 @@
+{
+  "tittel": "Kirkebygg og kirkegårder i Stjørdal",
+  "innstilling": "Ordføreren opplyser om status for kirkebygg og kirkegårder, og vurderinger rundt kirkekonservasjon og restaurering.",
+  "vedtak": "Informasjonen tas til etterretning. Det vurderes videre tiltak for kirkekonservasjon og restaurering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Skal kommunen prioritere midler til restaurering av kirkene?",
+      "alternativer": [
+        {
+          "navn": "Ja",
+          "stemmer": 12
+        },
+        {
+          "navn": "Nei",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Ja",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Skal kommunen arrangere kirkesafari til våren?",
+      "alternativer": [
+        {
+          "navn": "Ja",
+          "stemmer": 10
+        },
+        {
+          "navn": "Nei",
+          "stemmer": 5
+        }
+      ],
+      "vinner": "Ja",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "SP 19/25",
+  "rodt_fremmet_forslag": false
+}

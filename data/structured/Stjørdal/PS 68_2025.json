@@ -1,0 +1,30 @@
+{
+  "tittel": "Handlingsplan Vold i nære relasjoner",
+  "innstilling": "1. Kommunestyret vedtar den framlagte handlingsplanen Vold i nære relasjoner 2025\n2. Kommunestyret vedtar tiltaksplanen for 2025",
+  "vedtak": "1. Kommunestyret vedtar den framlagte handlingsplanen Vold i nære relasjoner 2025\n2. Kommunestyret vedtar tiltaksplanen for 2025",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om å vedta handlingsplanen og tiltaksplanen for 2025.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 36
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 68/2025",
+  "rodt_fremmet_forslag": false
+}

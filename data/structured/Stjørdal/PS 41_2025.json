@@ -1,0 +1,45 @@
+{
+  "tittel": "Samarbeidsavtale mellom St. Olavs hospital HF og kommunene - Helsefellesskapet i søndre Trøndelag",
+  "innstilling": "Kommunestyret inngår fremlagte Samarbeidsavtale – St. Olavs hospital HF og kommunene – helsefellesskapet i søndre Trøndelag, med tilhørende retningslinje; «Samarbeid om innleggelse og utskrivelse av pasienter med behov for kommunale tjenester».",
+  "vedtak": "Kommunestyret inngår fremlagte Samarbeidsavtale – St. Olavs hospital HF og kommunene – helsefellesskapet i søndre Trøndelag, med tilhørende retningslinje; «Samarbeid om innleggelse og utskrivelse av pasienter med behov for kommunale tjenester». I samarbeidsavtalens kapittel 5.1 Grunnleggende prinsipper for samhandlingen er det i siste setning unnlatt å differensiere mellom kommuner som har journalsystemet Helseplattormen og kommuner som ikke har det. Formuleringen der er slik: «Kommunene og sykehusene skal bidra i fellesskap til at Helseplattformen utvikles og implementeres på en formålstjenlig måte, med særlig vekt på gevinstrealisering for samhandling og brukeren». Samhandlingsavtalen vedtas under forutsetning av at denne formuleringen taes ut iom at det er mange kommuner som ikke har eller skal ha Helseplattformen som løsning. Følgende formulering legges inn i avtalen: «Partene må bidra til at samhandlingsfunksjonalitet i nye løsninger blir så bra som mulig. Dette gjelder både elektroniske pasientjournaler, pasientadministrative systemer eller andre digitale løsninger/moduler som vil være hensiktsmessige i samhandlingen mellom kommuner, fastleger og sykehus»",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Renate Trøan Bjørshol (Høyre)",
+      "tekst": "I samarbeidsavtalens kapittel 5.1 Grunnleggende prinsipper for samhandlingen er det i siste setning unnlatt å differensiere mellom kommuner som har journalsystemet Helseplattormen og kommuner som ikke har det. Formuleringen der er slik: «Kommunene og sykehusene skal bidra i fellesskap til at Helseplattformen utvikles og implementeres på en formålstjenlig måte, med særlig vekt på gevinstrealisering for samhandling og brukeren». Samhandlingsavtalen vedtas under forutsetning av at denne formuleringen taes ut iom at det er mange kommuner som ikke har eller skal ha Helseplattformen som løsning. Følgende formulering legges inn i avtalen: «Partene må bidra til at samhandlingsfunksjonalitet i nye løsninger blir så bra som mulig. Dette gjelder både elektroniske pasientjournaler, pasientadministrative systemer eller andre digitale løsninger/moduler som vil være hensiktsmessige i samhandlingen mellom kommuner, fastleger og sykehus»"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å inngå samarbeidsavtalen med tilhørende retningslinje.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Renate Trøan Bjørshol (Høyre) om endring av formulering i kapittel 5.1.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Renate Trøan Bjørshol (Høyre)",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Tilleggsforslag fra Renate Trøan Bjørshol (Høyre)",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Renate Trøan Bjørshol (Høyre)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 41/2025",
+  "rodt_fremmet_forslag": false
+}

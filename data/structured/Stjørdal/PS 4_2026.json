@@ -1,0 +1,45 @@
+{
+  "tittel": "Oversikt over folkehelsen og påvirkningsfaktorer i Stjørdal, 2026",
+  "innstilling": "1. Kommunestyret tar «Oversikt over folkehelsen og påvirkningsfaktorer i Stjørdal, 2026» til orientering.\n2. Kommunestyret vedtar følgende strategier for folkehelsen:\na) Strategi 1: Forebygge frafall fra skole, fritidsaktiviteter og arbeidsliv, gjennom å minke sosiale ulikheter og styrke inkludering\nb) Strategi 2: Styrke psykisk helse i befolkningen",
+  "vedtak": "1. Kommunestyret tar «Oversikt over folkehelsen og påvirkningsfaktorer i Stjørdal, 2026» til orientering.\n2. Kommunestyret vedtar følgende strategier for folkehelsen:\na) Strategi 1: Forebygge frafall fra skole, fritidsaktiviteter og arbeidsliv, gjennom å minke sosiale ulikheter og styrke inkludering\nb) Strategi 2: Styrke psykisk helse i befolkningen\nStjørdal kommune setter ned ei gruppe som skal se på hvordan å engasjere, motivere og informere våre seniorer. Gjerne da et årlig arrangement etter systemet «Kullingane» i Sandnes har.\nDette vil ha som mål å gi relevant informasjon fra kommune og organisasjoner som har et tilbud til denne gruppa, og vil da også kunne fungere som en base for nettverksbygging og hindre utenforskap i voksen alder.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Geirr Tjash Hagen (Pensjonistpartiet)",
+      "tekst": "Stjørdal kommune setter ned ei gruppe som skal se på hvordan å engasjere, motivere og informere våre seniorer. Gjerne da et årlig arrangement etter systemet «Kullingane» i Sandnes har.\nDette vil ha som mål å gi relevant informasjon fra kommune og organisasjoner som har et tilbud til denne gruppa, og vil da også kunne fungere som en base for nettverksbygging og hindre utenforskap i voksen alder."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Geirr Tjash Hagen (Pensjonistpartiet)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Geirr Tjash Hagen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Tilleggsforslag fra Geirr Tjash Hagen",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Geirr Tjash Hagen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "29.01.2026",
+  "saksnummer_ps": "PS 4/2026",
+  "rodt_fremmet_forslag": false
+}

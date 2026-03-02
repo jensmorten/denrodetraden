@@ -1,0 +1,30 @@
+{
+  "tittel": "Lokal forskrift om tildeling av kommunale boliger i Stjørdal kommune",
+  "innstilling": "Forslaget til forskrift sendes på høring i 8 uker",
+  "vedtak": "Forslaget til forskrift sendes på høring i 8 uker",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å sende forslaget til forskrift på høring i 8 uker",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 36
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 73/2025",
+  "rodt_fremmet_forslag": false
+}

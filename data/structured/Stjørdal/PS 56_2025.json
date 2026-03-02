@@ -1,0 +1,49 @@
+{
+  "tittel": "Velferd 2040 - Overordnet strategiplan 2025-2040",
+  "innstilling": "Saken tas til orientering.",
+  "vedtak": "Saken tas til orientering.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Gudrun Lidal (SV)",
+      "tekst": "1. Overskriften \"Bolig og Kvalifisering\" endres til Inkluderende samfunn for å ivareta planens overordnede perspektiv.\n2. Teksten i denne delen av dokumentet må språkvaskes så det tydelig fremgår at intensjonen er at alle Stjørdals innbyggere skal omfattes av dette.\n3. Nytt punkt under Kapasitetsstyring- Velferdsområdet skal: Ha planer for og fokus på forbyggende praksis i alle sine tjenesteområder for å redusere økte behov i tjenestene."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen: Saken tas til orientering.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Gudrun Lidal (SV)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Gudrun Lidal (SV)",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 24
+        }
+      ],
+      "vinner": "Mot tilleggsforslaget",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Gudrun Lidal (SV)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 56/2025",
+  "rodt_fremmet_forslag": false
+}

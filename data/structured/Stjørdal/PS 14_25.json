@@ -1,0 +1,53 @@
+{
+  "tittel": "Tertialrapport nr. 2 - 2025. Tekniske VVA investeringsprosjekter.",
+  "innstilling": "Kommunestyret tar tertialrapport nr. 2 for 2025 til orientering og godkjenner de foreslåtte tiltakene innenfor rammen av budsjettet.",
+  "vedtak": "Kommunestyret godkjenner tertialrapport nr. 2 for 2025 og de foreslåtte VVA-investeringene.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Opposisjonen",
+      "tekst": "Foreslår at det settes av ekstra midler til prioriterte VVA-prosjekter basert på behov og tilbakemeldinger fra innbyggerne."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av tertialrapport nr. 2 for 2025.",
+      "alternativer": [
+        {
+          "navn": "Godkjenning",
+          "stemmer": 20
+        },
+        {
+          "navn": "Avslag",
+          "stemmer": 5
+        }
+      ],
+      "vinner": "Godkjenning",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Innstilling om VVA-investeringer.",
+      "alternativer": [
+        {
+          "navn": "Godkjenning av foreslåtte investeringer",
+          "stemmer": 22
+        },
+        {
+          "navn": "Endring i investeringene",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Godkjenning av foreslåtte investeringer",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 14/25",
+  "rodt_fremmet_forslag": false
+}

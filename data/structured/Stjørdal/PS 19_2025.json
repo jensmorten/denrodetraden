@@ -1,0 +1,53 @@
+{
+  "tittel": "Lokal forskrift om skolefritidsordningen og sommertilbud ved de offentlige grunnskolene i Stjørdal kommune",
+  "innstilling": "Lokal forskrift om skolefritidsordningen og sommertilbud ved de offentlige grunnskolene i Stjørdal kommune vedtas. Den lokale forskriften kunngjøres i Norsk Lovtidend. Forskriften har virkning fra det tidspunktet den vedtas.\n§ 10 Sommertilbud\nTredje setning endres til \"Sommertilbudet gis ved Skatval skole, Lånke skole, Halsen barneskole, Fosslia skole og Hegra barneskole under forutsetning av at det minst 20 barn som er påmeldt tilbudet.\"",
+  "vedtak": "Lokal forskrift om skolefritidsordningen og sommertilbud ved de offentlige grunnskolene i Stjørdal kommune vedtas. Den lokale forskriften kunngjøres i Norsk Lovtidend. Forskriften har virkning fra det tidspunktet den vedtas.\n§ 10 Sommertilbud\nTredje setning endres til \"Sommertilbudet gis ved Skatval skole, Lånke skole, Halsen barneskole, Fosslia skole og Hegra barneskole under forutsetning av at det minst 20 barn som er påmeldt tilbudet.\"",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Gudrun Lidal (SV)",
+      "tekst": "§ 6.1.4 Gratis kjernetid og § 8 Daglig oppholdstid og årlig åpningstid, skal ikke ha begrensninger for bruk av gratis kjernetid i åpningstida."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fra Gudrun Lidal (SV) om at gratis kjernetid ikke skal ha begrensninger i åpningstida.",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag fra Gudrun Lidal (SV)",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot endringsforslaget",
+          "stemmer": 23
+        }
+      ],
+      "vinner": "Mot endringsforslaget",
+      "rodt": {
+        "støttet": "Endringsforslag fra Gudrun Lidal (SV)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over innstillingen fra Utvalg Kultur og Levekår om lokal forskrift og sommertilbud.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 35
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 2
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.02.2025",
+  "saksnummer_ps": "PS 19/2025",
+  "rodt_fremmet_forslag": false
+}

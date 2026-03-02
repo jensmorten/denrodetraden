@@ -1,0 +1,85 @@
+{
+  "tittel": "Kvalitetsmelding for grunnskolen 2024 - 2025",
+  "innstilling": "Kvalitetsmeldingen for grunnskolen 2024 – 2025 tas til orientering.",
+  "vedtak": "Kvalitetsmeldingen for grunnskolen 2024 – 2025 tas til orientering.\nKvalitetsmelding legges fram årlig, og skal som omtalt i meldingen - gi en vurdering av om innsatsområdene i Skoleplanen har ønsket virkning.\nKommunestyret ber kommunedirektøren om å utarbeide en konkretisering av tiltak og orientere Utvalg kultur og levekår om hva som er planlagt fremover for styrke arbeidet mot mobbing.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roar Brekken (Senterpartiet)",
+      "tekst": "Kvalitetsmeldingen for grunnskolen 2024 – 2025 tas til orientering.\nKvalitetsmelding legges fram årlig , og skal som omtalt i meldingen - gi en vurdering av om innsatsområdene i Skoleplanen har ønsket virkning."
+    },
+    {
+      "forslagsstiller": "Elisabeth Suzen (Arbeiderpartiet)",
+      "tekst": "Kommunestyret ber kommunedirektøren om å utarbeide en konkretisering av tiltak og orientere Utvalg kultur og levekår om hva som er planlagt fremover for styrke arbeidet mot mobbing."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Formannskapets innstilling: Kvalitetsmeldingen for grunnskolen 2024 – 2025 tas til orientering.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling: Kvalitetsmelding for grunnskole fremmes årlig, etter skoleårets slutt, og før de årlige budsjettbehandlingene.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 4
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 33
+        }
+      ],
+      "vinner": "Imot forslaget",
+      "rodt": {
+        "støttet": "Imot forslaget",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Roar Brekken (Sp) sitt alternative forslag: Kvalitetsmeldingen for grunnskolen 2024 – 2025 tas til orientering. Kvalitetsmelding legges fram årlig , og skal som omtalt i meldingen - gi en vurdering av om innsatsområdene i Skoleplanen har ønsket virkning.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 26
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 11
+        }
+      ],
+      "vinner": "For forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Elisabeth Suzen (Ap) sitt tilleggsforslag: Kommunestyret ber kommunedirektøren om å utarbeide en konkretisering av tiltak og orientere Utvalg kultur og levekår om hva som er planlagt fremover for styrke arbeidet mot mobbing.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "For forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 57/2025",
+  "rodt_fremmet_forslag": false
+}

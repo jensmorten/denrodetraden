@@ -1,0 +1,57 @@
+{
+  "tittel": "Forslag til revidert samarbeidsavtale mellom 2024/9919 Helse Nord-Trøndelag og kommunene",
+  "innstilling": "Kommunestyret anbefaler å godkjenne den reviderte samarbeidsavtalen mellom Helse Nord-Trøndelag og kommunene, med de endringer som er foreslått.",
+  "vedtak": "Kommunestyret vedtar den reviderte samarbeidsavtalen mellom Helse Nord-Trøndelag og kommunene.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rødt",
+      "tekst": "Kommunestyret bør utsette behandlingen av den reviderte samarbeidsavtalen for ytterligere vurdering og innhenting av tilbakemeldinger."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av den reviderte samarbeidsavtalen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 4
+        },
+        {
+          "navn": "Avholdende",
+          "stemmer": 1
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "Ja",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Vedtak om å utsette behandlingen for ytterligere vurdering",
+      "alternativer": [
+        {
+          "navn": "Ja",
+          "stemmer": 2
+        },
+        {
+          "navn": "Nei",
+          "stemmer": 18
+        }
+      ],
+      "vinner": "Nei",
+      "rodt": {
+        "støttet": "Nei",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 1/25",
+  "rodt_fremmet_forslag": true
+}

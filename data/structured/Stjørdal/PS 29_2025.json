@@ -1,0 +1,89 @@
+{
+  "tittel": "Nytt Bo- og Velferdssenter i Stjørdal kommune – valg av lokalisering og videre prosess",
+  "innstilling": "Kommunestyret tar konklusjonene i rapport fra gjennomført konseptvalgutredning til etterretning, og konkluderer som følger:\n1. Nytt Bo- og Velferdssenter i Stjørdal kommune legges til sentrum, ved siden av Stjørdal Helsehus, slik det er beskrevet i rapportens alternativ 2B.\n2. Kommunedirektøren bes om umiddelbart å starte på forberedelsene til neste utviklingsfase, der følgende oppgaver blir prioritert:\n- Finne løsninger for beboere og tjenester i bygningene som blir berørt av prosjektet.\n- Starte på nødvendige reguleringsprosesser.\n- Etablere konkurranseunderlag for neste fase; prosjektgjennomføring i samspill.\n3. Kommunedirektøren bes om å legge frem forslag til en prosjektøkonomiplan der både prosjektkostnader og finansiering er vurdert. Planen legges frem i forbindelse med budsjett- og økonomiplan 2026-2029.",
+  "vedtak": "Kommunestyret tar konklusjonene i rapport fra gjennomført konseptvalgutredning til etterretning, og konkluderer som følger:\n1. Nytt Bo- og Velferdssenter i Stjørdal kommune legges til sentrum, ved siden av Stjørdal Helsehus, slik det er beskrevet i rapportens alternativ 2B.\n2. Kommunedirektøren bes om umiddelbart å starte på forberedelsene til neste utviklingsfase, der følgende oppgaver blir prioritert:\n- Finne løsninger for beboere og tjenester i bygningene som blir berørt av prosjektet.\n- Starte på nødvendige reguleringsprosesser.\n- Etablere konkurranseunderlag for neste fase; prosjektgjennomføring i samspill.\n3. Kommunedirektøren bes om å legge frem forslag til en prosjektøkonomiplan der både prosjektkostnader og finansiering er vurdert. Planen legges frem i forbindelse med budsjett- og økonomiplan 2026-2029.\n4. Bemanningen i det nye bo- og velferdssenteret skal planlegges i henhold til forutsetningene som vedtas i Velferd 2040.\n5. Kommunedirektøren bes vurdere muligheten for å realisere et varmebasseng i Stjørdal enten i kommunal eller privat regi.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roar Brekken (Senterpartiet)",
+      "tekst": "4. Bemanningen i det nye bo- og velferdssenteret skal planlegges i henhold til forutsetningene som vedtas i Velferd 2040."
+    },
+    {
+      "forslagsstiller": "Renate Trøan Bjørshol (Høyre)",
+      "tekst": "5. Kommunedirektøren bes vurdere muligheten for å realisere et varmebasseng i Stjørdal enten i kommunal eller privat regi."
+    },
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "Muligheten for å inkludere varmebasseng i Bo- og velferdssenteret tas med i den videre prosjekteringen. Kommunedirektøren bes fremme egen sak for kommunestyret for nærmere avklaring av varmebassenget."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Hovedinnstilling (punkt 1-3) – valg av lokalisering og videre prosess",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Punkt 4 – Bemanning: Innstilling vs. forslag fra Roar Brekken (Sp)",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Roar Brekken (Sp)",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Forslag fra Roar Brekken (Sp)",
+      "rodt": {
+        "støttet": "Forslag fra Roar Brekken (Sp)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Punkt 5 – Varmebasseng: Innstilling vs. forslag fra Renate Trøan Bjørshol (H)",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 10
+        },
+        {
+          "navn": "Forslag fra Renate Trøan Bjørshol (H)",
+          "stemmer": 26
+        }
+      ],
+      "vinner": "Forslag fra Renate Trøan Bjørshol (H)",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Morten Harper (SV) om varmebasseng",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Morten Harper (SV)",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 23
+        }
+      ],
+      "vinner": "Mot tilleggsforslaget",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Morten Harper (SV)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 29/2025",
+  "rodt_fremmet_forslag": false
+}

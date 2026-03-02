@@ -1,0 +1,30 @@
+{
+  "tittel": "Saken sendes Utvalg kultur og levekår for behandling før behandling i kommunestyret.",
+  "innstilling": "Saken sendes til utvalg for videre vurdering før endelig behandling i kommunestyret.",
+  "vedtak": "Saken sendes til utvalg kultur og levekår for videre behandling.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om å sende saken til utvalg kultur og levekår.",
+      "alternativer": [
+        {
+          "navn": "Enstemmig for",
+          "stemmer": 25
+        },
+        {
+          "navn": "Enstemmig imot",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "Enstemmig for",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 120/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,53 @@
+{
+  "tittel": "Involvering av innbyggerinitiativ i BaneNor-prosessen",
+  "innstilling": "Kommunestyret tar innbyggerforslaget opp til behandling.",
+  "vedtak": "Kommunestyret tar innbyggerforslaget opp til behandling.\nKommunestyret anerkjenner det store engasjementet som ligger bak innbyggerinitiativet.\nKommunestyret ber kommunedirektøren gå i dialog med BaneNor og vil oppfordre om at det i prosessen fram mot beslutning legges til rette for at folkemeningen kan komme til uttrykk.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eli Arnstad (Sp)",
+      "tekst": "Kommunestyret anerkjenner det store engasjementet som ligger bak innbyggerinitiativet.\nKommunestyret ber kommunedirektøren gå i dialog med BaneNor og vil oppfordre om at det i prosessen fram mot beslutning legges til rette for at folkemeningen kan komme til uttrykk."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Stemme om innstillingen: Kommunestyret tar innbyggerforslaget opp til behandling.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 36
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 1
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Stemme om Eli Arnstads tilleggsforslag.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "Eli Arnstads forslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 37/25",
+  "rodt_fremmet_forslag": false
+}

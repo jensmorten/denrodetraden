@@ -1,0 +1,35 @@
+{
+  "tittel": "Grønnstruktur i Stjørdal – kunnskapsgrunnlag, muligheter og anbefalinger",
+  "innstilling": "Informasjon i rapporten «Grønnstruktur i Stjørdal – kunnskapsgrunnlag, muligheter og anbefalinger» bør vurderes ved planlegging og ved gjennomføring av tiltak der dette er relevant. Rapporten er ikke juridisk bindende.",
+  "vedtak": "Informasjon i rapporten «Grønnstruktur i Stjørdal – kunnskapsgrunnlag, muligheter og anbefalinger» bør vurderes ved planlegging og ved gjennomføring av tiltak der dette er relevant. Rapporten er ikke juridisk bindende.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "Informasjon i rapporten «Grønnstruktur i Stjørdal – kunnskapsgrunnlag, muligheter og anbefalinger» skal vurderes ved planlegging og ved gjennomføring av tiltak der dette er relevant. Rapporten er ikke juridisk bindende."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning mellom formannskapets innstilling (forslag 1: 'bør vurderes') og SVs alternative forslag (forslag 2: 'skal vurderes')",
+      "alternativer": [
+        {
+          "navn": "Forslag 1 (bør vurderes)",
+          "stemmer": 22
+        },
+        {
+          "navn": "Forslag 2 (skal vurderes)",
+          "stemmer": 14
+        }
+      ],
+      "vinner": "Forslag 1 (bør vurderes)",
+      "rodt": {
+        "støttet": "Forslag 2 (skal vurderes)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 28/2025",
+  "rodt_fremmet_forslag": false
+}

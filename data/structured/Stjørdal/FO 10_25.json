@@ -1,0 +1,45 @@
+{
+  "tittel": "Interpellasjon til ordfører i Kommunestyret 30. 2025/8285 - Hva vil ordfører gjøre for å sikre BPA-tjenester til de innbyggerne i Stjørdal som har krav på dette?",
+  "innstilling": "Kommunestyret tar interpellasjonen til etterretning og ber administrasjonen komme tilbake med en sak om tiltak for å sikre BPA-tjenester til innbyggerne i Stjørdal som har krav på dette.",
+  "vedtak": "Kommunestyret vedtar innstillingen og ber administrasjonen utarbeide en sak med konkrete tiltak for å forbedre BPA-tilbudet i kommunen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Opposisjonen",
+      "tekst": "Kommunestyret skal bevilge ekstra midler for å styrke BPA-tilbudet umiddelbart."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om å ta interpellasjonen til etterretning og be administrasjonen komme tilbake med sak.",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": 35
+        }
+      ],
+      "vinner": "Enstemmig",
+      "rodt": {
+        "støttet": "Ja",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Vedtak om å bevilge ekstra midler for å styrke BPA-tilbudet umiddelbart.",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": 35
+        }
+      ],
+      "vinner": "Enstemmig",
+      "rodt": {
+        "støttet": "Nei",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "FO 10/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,79 @@
+{
+  "tittel": "Tjenesteprofil for helse- og omsorgstjenester for eldre i Stjørdal kommune",
+  "innstilling": "Kommunestyret vedtar Tjenesteprofil for helse- og omsorgstjenester for eldre i Stjørdal kommune, slik den er vedlagt i saken.",
+  "vedtak": "Kommunestyret vedtar Tjenesteprofil for helse- og omsorgstjenester for eldre i Stjørdal kommune, slik den er vedlagt i saken.\nBosentra skal fortsatt være et omsorgstilbud mellom omsorg i hjemmet og institusjonsplass. Dette innebærer at bosentra blir et tilbud for personer med relativt lavt omsorgsbehov som gir en større trygghet enn omsorg i hjemmet, men også et omsorgstilbud i påvente av en institusjonsplass. For å drifte tjenesten effektivt skal kommunen ha en målsetning om at alle rom skal være oppfylt av brukere.\n16 omsorgsleiligheter ved Lånke Bosenter skal regnes inn i dekningsgrunnlaget.\nDet samme bør vurderes for Stjørdal aktivitetssenter.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Saken sendes tilbake til Kommunedirektøren for videre arbeid."
+    },
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Bosentra skal fortsatt være et omsorgstilbud mellom omsorg i hjemmet og institusjonsplass. Dette innebærer at bosentra blir et tilbud for personer med relativt lavt omsorgsbehov som gir en større trygghet enn omsorg i hjemmet, men også et omsorgstilbud i påvente av en institusjonsplass. For å drifte tjenesten effektivt skal kommunen ha en målsetning om at alle rom skal være oppfylt av brukere."
+    },
+    {
+      "forslagsstiller": "Anna Wesche Kvål (Senterpartiet)",
+      "tekst": "16 omsorgsleiligheter ved Lånke Bosenter skal regnes inn i dekningsgrunnlaget. Det samme bør vurderes for Stjørdal aktivitetssenter."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Hovedforslag (innstilling) mot forslag om å sende saken tilbake til Kommunedirektøren",
+      "alternativer": [
+        {
+          "navn": "Innstilling (vedta tjenesteprofilen)",
+          "stemmer": 24
+        },
+        {
+          "navn": "Sende saken tilbake til Kommunedirektøren",
+          "stemmer": 12
+        }
+      ],
+      "vinner": "Innstilling (vedta tjenesteprofilen)",
+      "rodt": {
+        "støttet": "Innstilling (vedta tjenesteprofilen)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag om bosentra som omsorgstilbud mellom hjem og institusjon",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag om bosentra (Kaspersen, Ap)",
+          "stemmer": 36
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "Tilleggsforslag om bosentra (Kaspersen, Ap)",
+      "rodt": {
+        "støttet": "Tilleggsforslag om bosentra (Kaspersen, Ap)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag om å regne inn 16 omsorgsleiligheter ved Lånke Bosenter i dekningsgrunnlaget",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag om Lånke Bosenter (Kvål, Sp)",
+          "stemmer": 36
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "Tilleggsforslag om Lånke Bosenter (Kvål, Sp)",
+      "rodt": {
+        "støttet": "Tilleggsforslag om Lånke Bosenter (Kvål, Sp)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 70/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,26 @@
+{
+  "tittel": "Vertskommuneavtale Personvernombud",
+  "innstilling": "Vedlagt vertskommuneavtale om Værnesregionen Personvernombud vedtas.",
+  "vedtak": "Vedlagt vertskommuneavtale om Værnesregionen Personvernombud vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om å vedta vertskommuneavtale om Værnesregionen Personvernombud.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (vedta avtalen)",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen (vedta avtalen)",
+      "rodt": {
+        "støttet": "Innstillingen (vedta avtalen)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 43/2025",
+  "rodt_fremmet_forslag": false
+}

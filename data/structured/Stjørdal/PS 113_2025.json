@@ -1,0 +1,71 @@
+{
+  "tittel": "Eierskapsmelding 2025",
+  "innstilling": "Kommunestyret vedtar forslag til eierskapsmelding 2025.",
+  "vedtak": "Kommunestyret vedtar forslag til eierskapsmelding 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "Kommunedirektøren forbereder avvikling av kommunens eierskap i Smart Mobility Norway, og legger frem en sak til politisk behandling om dette."
+    },
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "I eierskapet av NTE skal Stjørdal kommune arbeide for å øke utbyttet til eierne. Prinsippene for lønn i NTE må endres for å stanse en utvikling med svært høy lederlønn."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å vedta forslag til eierskapsmelding 2025.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag om avvikling av kommunens eierskap i Smart Mobility Norway.",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 14
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 23
+        }
+      ],
+      "vinner": "Imot tilleggsforslaget",
+      "rodt": {
+        "støttet": "For tilleggsforslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag om NTE-utbytte og lederlønn.",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 3
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 34
+        }
+      ],
+      "vinner": "Imot tilleggsforslaget",
+      "rodt": {
+        "støttet": "For tilleggsforslaget",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 113/2025",
+  "rodt_fremmet_forslag": false
+}

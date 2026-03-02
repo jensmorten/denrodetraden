@@ -1,0 +1,26 @@
+{
+  "tittel": "Årsregnskap og årsrapport 2024",
+  "innstilling": "Årsregnskap og årsrapport 2024 vedtas.",
+  "vedtak": "Årsregnskap og årsrapport 2024 vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om å vedta årsregnskap og årsrapport 2024.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (Årsregnskap og årsrapport 2024 vedtas)",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen (Årsregnskap og årsrapport 2024 vedtas)",
+      "rodt": {
+        "støttet": "Innstillingen (Årsregnskap og årsrapport 2024 vedtas)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 61/2025",
+  "rodt_fremmet_forslag": false
+}

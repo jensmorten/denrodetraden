@@ -1,0 +1,30 @@
+{
+  "tittel": "5050- Smart Mobility Arena - Planspørsmål knyttet til reguleringsendring",
+  "innstilling": "Stjørdal kommune gir ikke sin tilslutning til at det igangsettes planendring av områdereguleringsplan for Hell Arena, vedtatt 30.11.2023",
+  "vedtak": "Stjørdal kommune gir ikke sin tilslutning til at det igangsettes planendring av områdereguleringsplan for Hell Arena, vedtatt 30.11.2023",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å ikke gi tilslutning til planendring av områdereguleringsplan for Hell Arena.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 37
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 124/2025",
+  "rodt_fremmet_forslag": false
+}

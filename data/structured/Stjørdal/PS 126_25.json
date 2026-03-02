@@ -1,0 +1,30 @@
+{
+  "tittel": "Sektorplan for sektor forebygging og mestring tas til orientering",
+  "innstilling": "Sektorplan for sektor forebygging og mestring tas til orientering.",
+  "vedtak": "Sektorplan for sektor forebygging og mestring tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av sektorplan for forebygging og mestring",
+      "alternativer": [
+        {
+          "navn": "Enstemmig godkjenning",
+          "stemmer": 37
+        },
+        {
+          "navn": "Avslag",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "Enstemmig godkjenning",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 126/25",
+  "rodt_fremmet_forslag": false
+}

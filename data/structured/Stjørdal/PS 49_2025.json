@@ -1,0 +1,57 @@
+{
+  "tittel": "Rett bruker på riktig tjenestenivå",
+  "innstilling": "Kommunestyret anerkjenner den demografiske utfordringen Stjørdal kommune står overfor og det virkelighetsbildet som er presentert i saken. Med stadig flere eldre og færre i yrkesaktiv alder, er det viktig å bygge et robust helse- og velferdstilbud til våre innbyggere. Et viktig element av dette er å realisere det nye Bo- og Velferdssenteret. Kommunestyret understreker viktigheten av å ivareta, beholde og rekruttere fagfolk og kompetanse i helse- og omsorgssektoren. Lånke, Skatval og Hegra bosenter skal bestå som bosentre. Bosentrene skal bebos av brukere med relativt lave omsorgsbehov, slik bosentrene opprinnelig var tenkt. Brukere med omfattende behov for helsehjelp skal gis tilbud om helsehjelp ved Fosslia Omsorgssenter, Halsen sykehjem eller Helsehuset, og på det nye Bo- og Velferdssenteret når det står klart. Ved saldering av budsjett for 2025 skal sektor Hjemmetjeneste styrkes.",
+  "vedtak": "Kommunestyret anerkjenner den demografiske utfordringen Stjørdal kommune står overfor og det virkelighetsbildet som er presentert i saken. Med stadig flere eldre brukere, og stadig færre i yrkesaktiv alder, er det viktig å bygge et robust helse- og velferdstilbud til våre innbyggere. Viktige element i dette er å realisere det nye Bo- og Velferdssenteret og bevare alle bosentrene våre. Lånke, Skatval, Hegra og Stjørdal bosenter skal derfor bestå som bosentre med samme antall bosenterplasser som i dag. Bosentrene skal på sikt bebos av brukere med relativt lave omsorgsbehov, slik bosentrene opprinnelig var tenkt. Brukere med omfattende behov for helsehjelp skal gis tilbud om helsehjelp ved Fosslia Omsorgssenter, Halsen sykehjem eller Helsehuset, og på sikt det nye Bo- og Velferdssenteret, når det står klart. Kommunestyret understreker også viktigheten av å ivareta, beholde og rekruttere fagfolk og kompetanse i helse- og omsorgssektoren. Ved saldering av budsjett for 2025 skal sektor Hjemmetjeneste styrkes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rune Larsen (Høyre)",
+      "tekst": "Kommunestyret anerkjenner den demografiske utfordringen Stjørdal kommune står overfor og det virkelighetsbildet som er presentert i saken. Med stadig flere eldre brukere, og stadig færre i yrkesaktiv alder, er det viktig å bygge et robust helse- og velferdstilbud til våre innbyggere. Viktige element i dette er å realisere det nye Bo- og Velferdssenteret og bevare alle bosentrene våre. Lånke, Skatval, Hegra og Stjørdal bosenter skal derfor bestå som bosentre med samme antall bosenterplasser som i dag. Bosentrene skal på sikt bebos av brukere med relativt lave omsorgsbehov, slik bosentrene opprinnelig var tenkt. Brukere med omfattende behov for helsehjelp skal gis tilbud om helsehjelp ved Fosslia Omsorgssenter, Halsen sykehjem eller Helsehuset, og på sikt det nye Bo- og Velferdssenteret, når det står klart. Kommunestyret understreker også viktigheten av å ivareta, beholde og rekruttere fagfolk og kompetanse i helse- og omsorgssektoren. Ved saldering av budsjett for 2025 skal sektor Hjemmetjeneste styrkes."
+    },
+    {
+      "forslagsstiller": "Idar Aspmodal (Arbeiderpartiet)",
+      "tekst": "1. Stjørdal kommune tar umiddelbart i bruk 8 langtidsplasser ved Fosslia for personer med demens, innenfor budsjett til Fosslia omsorgssenter 2025.\n2. Stjørdal kommune tar i bruk ytterligere 16 langtidsplasser for personer med demens fra 1. januar 2026 som budsjetteres med midler som tilføres kommunen på grunn av demografiske endringer i befolkningen (antall +80 år).\n3. Sektor hjemmetjeneste starter umiddelbart arbeidet med en samorganisering av ambulante tjenester(hjemmesykepleie), med god involvering og med mål om å samlokalisere drift av en felles ambulant tjeneste for Lånke og Halsen sone dersom dette er formålstjenlig.\n4. Sektor hjemmetjeneste starter arbeidet med å etablere Skatval bosenter, med god involvering som et tilbud for innbyggere med hjelpebehov som kan bistås av ambulante tjenester, eventuelt i samarbeid med øvrige samfunnsaktører.\n5. Sektor hjemmetjeneste starter arbeidet med å utrede felles ambulant hjemmetjeneste for Skatval sone, Halsen sone og Lånke sone. Saken legges frem for politisk behandling før iverksettelse.\n6. Lånke, Skatval, Hegra og Stjørdal bosenter skal bestå som bosentre"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Innstillingen fra formannskapet",
+          "stemmer": 0
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Mot innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen fra formannskapet",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering mellom Rune Larsen (H) sitt forslag og Idar Aspmodal (Ap) sitt forslag",
+      "alternativer": [
+        {
+          "navn": "Rune Larsen (H) sitt forslag",
+          "stemmer": 24
+        },
+        {
+          "navn": "Idar Aspmodal (Ap) sitt forslag",
+          "stemmer": 13
+        }
+      ],
+      "vinner": "Rune Larsen (H) sitt forslag",
+      "rodt": {
+        "støttet": "Idar Aspmodal (Ap) sitt forslag",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 49/2025",
+  "rodt_fremmet_forslag": false
+}

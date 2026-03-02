@@ -1,0 +1,31 @@
+{
+  "tittel": "KS Debatthefte 2025 - Fra forventning til virkelighet- om mellomoppgjøret 2025 og strategisk utvikling av avtaleverket",
+  "innstilling": "...",
+  "vedtak": "...",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "...",
+      "tekst": "..."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "...",
+      "alternativer": [
+        {
+          "navn": "...",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "...",
+      "rodt": {
+        "støttet": "...",
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 3/25",
+  "rodt_fremmet_forslag": false
+}

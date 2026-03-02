@@ -1,0 +1,26 @@
+{
+  "tittel": "Planendring for Husbyåsen B12 - planspørsmål",
+  "innstilling": "Stjørdal kommune gir sin tilslutning til at det igangsettes planendring av detaljregulering for Husbyåsen B12 (Plan ID 1-210-F) på vilkår som framgår av konklusjonsavsnittet i denne saken.",
+  "vedtak": "Stjørdal kommune gir sin tilslutning til at det igangsettes planendring av detaljregulering for Husbyåsen B12 (Plan ID 1-210-F) på vilkår som framgår av konklusjonsavsnittet i denne saken.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra Utvalg Plan og Miljø om å igangsette planendring for Husbyåsen B12.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "04.09.2025",
+  "saksnummer_ps": "PS 93/2025",
+  "rodt_fremmet_forslag": false
+}

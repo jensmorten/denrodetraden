@@ -1,0 +1,35 @@
+{
+  "tittel": "Høring av endring i plan- og bygningsloven - forbud mot nedbygging av myr",
+  "innstilling": "Kommunestyret anbefaler å sende høringsuttalelsen til KMD med følgende kommentarer: ...",
+  "vedtak": "Kommunestyret støtter forslaget om å innføre forbud mot nedbygging av myr i plan- og bygningsloven.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Venstre",
+      "tekst": "Kommunestyret bør i stedet vurdere en mer nyansert tilnærming som inkluderer unntak for visse områder."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Skal kommunestyret støtte forslaget om å innføre forbud mot nedbygging av myr?",
+      "alternativer": [
+        {
+          "navn": "Støtter",
+          "stemmer": 15
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 4
+        }
+      ],
+      "vinner": "Støtter",
+      "rodt": {
+        "støttet": "Støtter",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 12/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,30 @@
+{
+  "tittel": "Fritidserklæringen for Stjørdal kommune",
+  "innstilling": "Kommunestyret vedtar den lokale Fritidserklæringen for Stjørdal kommune.",
+  "vedtak": "Kommunestyret vedtar den lokale Fritidserklæringen for Stjørdal kommune.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om å vedta den lokale Fritidserklæringen for Stjørdal kommune.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 37
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 123/2025",
+  "rodt_fremmet_forslag": false
+}

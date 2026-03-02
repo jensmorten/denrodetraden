@@ -1,0 +1,35 @@
+{
+  "tittel": "Spørsmål til ordfører i kommunestyret 30. oktober 2025 - Manglende svar på spørsmål om reservevannforsyning",
+  "innstilling": "Kommunestyret tar til etterretning at det ikke er mottatt tilfredsstillende svar på spørsmål om reservevannforsyning, og ber om at dette følges opp med ytterligere informasjon og tiltak.",
+  "vedtak": "Kommunestyret ber om at administrasjonen utarbeider en oppdatert plan for reservevannforsyning innen neste møte.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Venstre",
+      "tekst": "Kommunestyret skal be om en fullstendig rapport om status for reservevannforsyningen innen 3 måneder."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 15
+        },
+        {
+          "navn": "Alternativ forslag fra Venstre",
+          "stemmer": 10
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "SP 15/25",
+  "rodt_fremmet_forslag": false
+}

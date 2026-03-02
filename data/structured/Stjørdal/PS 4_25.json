@@ -1,0 +1,53 @@
+{
+  "tittel": "5024 - Viksjøen hytteområder - 2.gangs behandling",
+  "innstilling": "Kommunestyret anbefaler å godkjenne reguleringsplanen for Viksjøen hytteområder med de endringer som er foreslått i 2. gangs behandling.",
+  "vedtak": "Kommunestyret vedtar reguleringsplanen for Viksjøen hytteområder med de endringer som er foreslått i 2. gangs behandling.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Opposisjonen",
+      "tekst": "Foreslår å utsette behandlingen for ytterligere utredning av miljøkonsekvenser."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av reguleringsplanen for Viksjøen hytteområder",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 8
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Foreslått utsettelse for ytterligere utredning",
+      "alternativer": [
+        {
+          "navn": "Ja",
+          "stemmer": 8
+        },
+        {
+          "navn": "Nei",
+          "stemmer": 15
+        }
+      ],
+      "vinner": "Nei",
+      "rodt": {
+        "støttet": "Nei",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 4/25",
+  "rodt_fremmet_forslag": false
+}

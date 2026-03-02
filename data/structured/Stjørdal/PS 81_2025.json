@@ -1,0 +1,67 @@
+{
+  "tittel": "Kommunal garanti Selbuskogen Skisenter AS - innfrielse",
+  "innstilling": "1. Kommunestyret anbefales å vedta at kommunen tiltrer sitt garantiansvar for lån knyttet til Selbuskogen Skisenter AS i Selbu Sparebank AS.\n2. Innfrielsen finansieres gjennom bruk av disposisjonsfond.\n3. Stjørdal kommune vil ikke gi ytterligere ekstraordinære tilskudd til Selbuskogen skisenter.",
+  "vedtak": "1. Kommunestyret anbefales å vedta at kommunen tiltrer sitt garantiansvar for lån knyttet til Selbuskogen Skisenter AS i Selbu Sparebank AS.\n2. Innfrielsen finansieres gjennom bruk av disposisjonsfond.\n3. Stjørdal kommune er sterkt kritiske til Selbu sparebank sin dialog med Stjørdal kommune som kausjonist i denne saken. Kommunedirektøren bes følge opp en i dialog med banken for å hindre at en slik sak kan gjentas.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Renate Trøan Bjørshol (Høyre)",
+      "tekst": "Stjørdal kommune er sterkt kritiske til Selbu sparebank sin dialog med Stjørdal kommune som kausjonist i denne saken. Kommunedirektøren bes følge opp en i dialog med banken for å hindre at en slik sak kan gjentas."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingens punkt 1 og 2 (kommunen tiltrer garantiansvar og innfrielse finansieres gjennom disposisjonsfond)",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over innstillingens punkt 3 (Stjørdal kommune vil ikke gi ytterligere ekstraordinære tilskudd til Selbuskogen skisenter)",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 3
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 33
+        }
+      ],
+      "vinner": "Imot forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Renate Trøan Bjørshol (Høyre) om kritikk av Selbu Sparebank og oppfølging fra kommunedirektøren",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 28
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 8
+        }
+      ],
+      "vinner": "For forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 81/2025",
+  "rodt_fremmet_forslag": false
+}

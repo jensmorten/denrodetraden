@@ -1,0 +1,75 @@
+{
+  "tittel": "Bemanning i Halsen Sykeheim",
+  "innstilling": "Kommunestyret tar til etterretning at bemanningsplanen ved Halsen Sykeheim er utarbeidet med tanke på forsvarlighet, pasientsikkerhet og trygghet, og at bemanningsfaktoren er 0,87 når kun ansatte i pleie er medregnet. Det foreslås videre at det vurderes tiltak for å opprettholde forsvarlig bemanning, herunder innleie av sykepleiere og opprettelse av et sykepleierteam i 2026.",
+  "vedtak": "Kommunestyret godkjenner rapporten om bemanningssituasjonen ved Halsen Sykeheim og støtter tiltakene for å sikre forsvarlig bemanning, herunder innleie av sykepleiere og opprettelse av et sykepleierteam i 2026.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Høyre",
+      "tekst": "Foreslår at det settes et mål om å redusere bemanningsfaktoren til 0,75 innen 2027, og at det utarbeides en konkret plan for dette."
+    },
+    {
+      "forslagsstiller": "Arbeiderpartiet",
+      "tekst": "Foreslår at det vurderes ytterligere tiltak for å øke bemanningen, inkludert ansettelse av flere faste ansatte, og at dette prioriteres i budsjettprosessen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Skal kommunestyret godkjenne rapporten og de foreslåtte tiltakene?",
+      "alternativer": [
+        {
+          "navn": "Enstemmig for",
+          "stemmer": 27
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "Enstemmig for",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Skal det settes som mål å redusere bemanningsfaktoren til 0,75 innen 2027?",
+      "alternativer": [
+        {
+          "navn": "Ja",
+          "stemmer": 15
+        },
+        {
+          "navn": "Nei",
+          "stemmer": 12
+        }
+      ],
+      "vinner": "Ja",
+      "rodt": {
+        "støttet": "Høyre",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Skal ytterligere tiltak vurderes for å øke bemanningen?",
+      "alternativer": [
+        {
+          "navn": "Ja",
+          "stemmer": 20
+        },
+        {
+          "navn": "Nei",
+          "stemmer": 7
+        }
+      ],
+      "vinner": "Ja",
+      "rodt": {
+        "støttet": "Arbeiderpartiet",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "SP 18/25",
+  "rodt_fremmet_forslag": false
+}

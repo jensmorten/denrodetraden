@@ -1,0 +1,35 @@
+{
+  "tittel": "Tertialrapport nr. 2 - 2025 - Kommunale byggeprosjekter",
+  "innstilling": "Kommunestyret tar tertialrapport nr. 2 for 2025 til orientering.",
+  "vedtak": "Kommunestyret godkjenner rapporten og bevilger nødvendige midler til videreføring av byggeprosjektene.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Opposisjonen",
+      "tekst": "Kommunestyret bør utsette godkjenningen til en full gjennomgang av kostnader og risikoer er gjort."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av tertialrapport nr. 2 for 2025",
+      "alternativer": [
+        {
+          "navn": "Godkjenning",
+          "stemmer": 20
+        },
+        {
+          "navn": "Utsettelse",
+          "stemmer": 5
+        }
+      ],
+      "vinner": "Godkjenning",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 16/25",
+  "rodt_fremmet_forslag": false
+}

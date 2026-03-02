@@ -1,0 +1,45 @@
+{
+  "tittel": "Revidering investeringsbudsjett 2025",
+  "innstilling": "Kommunestyret vedtar Kommunedirektørens forslag til revidering av Stjørdal kommunes investeringsbudsjett for 2025 i henhold til tabell og konklusjon under saksopplysninger. Salderingen har en bruttokostnad på kr 3 313 000,-. Fratrukket mva-kompensasjon på kr 663 000,- vedtas resterende kr 2 650 000,- finansiert med rest av ubrukte lånemidler.",
+  "vedtak": "Kommunestyret vedtar Kommunedirektørens forslag til revidering av Stjørdal kommunes investeringsbudsjett for 2025 i henhold til tabell og konklusjon under saksopplysninger. Salderingen har en bruttokostnad på kr 3 313 000,-. Fratrukket mva-kompensasjon på kr 663 000,- vedtas resterende kr 2 650 000,- finansiert med rest av ubrukte lånemidler. Den foreslåtte omdisponeringen på 0,8 millioner fra kommunale veier til gatelys gjennomføres ikke. Midlene brukes som planlagt på å styrke vedlikeholdet på kommunale veier i hele kommunen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stian Flobergseter (Arbeiderpartiet)",
+      "tekst": "Den foreslåtte omdisponeringen på 0,8 millioner fra kommunale veier til gatelys gjennomføres ikke. Midlene brukes som planlagt på å styrke vedlikeholdet på kommunale veier i hele kommunen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Kommunedirektørens forslag til revidering av investeringsbudsjett 2025.",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens forslag",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Kommunedirektørens forslag",
+      "rodt": {
+        "støttet": "Kommunedirektørens forslag",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Stian Flobergseter (Ap) om å ikke gjennomføre omdisponering fra kommunale veier til gatelys.",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Stian Flobergseter (Ap)",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Forslag fra Stian Flobergseter (Ap)",
+      "rodt": {
+        "støttet": "Forslag fra Stian Flobergseter (Ap)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 82/2025",
+  "rodt_fremmet_forslag": false
+}

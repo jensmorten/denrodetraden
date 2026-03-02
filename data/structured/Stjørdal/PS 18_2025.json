@@ -1,0 +1,26 @@
+{
+  "tittel": "Tertialrapport nr. 3 - 2024 - Kommunale byggeprosjekter",
+  "innstilling": "Kommunestyret tar statusrapporten for «større» byggeprosjekter for 3. tertial 2024 til orientering.",
+  "vedtak": "Kommunestyret tar statusrapporten for «større» byggeprosjekter for 3. tertial 2024 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om å ta statusrapporten til orientering.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.02.2025",
+  "saksnummer_ps": "PS 18/2025",
+  "rodt_fremmet_forslag": false
+}

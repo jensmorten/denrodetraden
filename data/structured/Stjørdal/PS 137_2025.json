@@ -1,0 +1,26 @@
+{
+  "tittel": "Evaluering av stortings- og sametingsvalget 2025",
+  "innstilling": "1. Evaluering av stortings- og sametingsvalget 2025 tas til orientering.\n2. Stokkan valgkrets og Halsen valgkrets slås sammen til Stjørdal valgkrets. Stemmegivning på valgdagen legges til Kimen Kulturhus.",
+  "vedtak": "1. Evaluering av stortings- og sametingsvalget 2025 tas til orientering.\n2. Stokkan valgkrets og Halsen valgkrets slås sammen til Stjørdal valgkrets. Stemmegivning på valgdagen legges til Kimen Kulturhus.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 137/2025",
+  "rodt_fremmet_forslag": false
+}

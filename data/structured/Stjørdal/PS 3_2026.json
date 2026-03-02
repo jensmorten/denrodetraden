@@ -1,0 +1,111 @@
+{
+  "tittel": "KS Debatthefte 2026. Tid for taktskifte",
+  "innstilling": "Kommunestyret vedtar at innspill til KS Debatthefte – Tid for taktskifte, oversendes KS.",
+  "vedtak": "Det er flere eksempler på at staten skaper forventninger som ikke gjenspeiler seg i kommunenes inntektssystem og dermed i kommunenes muligheter til å innfri disse forventningene. Staten må derfor ta et større ansvar for å finansiere rettighetsbaserte ordninger som bl.a. BPA.\nKommunestyret vedtar at innspill til KS Debatthefte – Tid for taktskifte, oversendes KS.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Harper (SV)",
+      "tekst": "Tillegg punkt 1. Hva må vi gjøre i vår kommune de neste to årene for å øke endringstakten for bærekraftig velferd?\nBegrepet bærekraftig velferd handler om å skape et velferdssystem som er økonomisk, sosialt og miljømessig levedyktig på lang sikt, slik at dagens og fremtidige generasjoners behov blir dekket. Barn og unge trenger en god og trygg oppvekst. Gode velferdsordninger er en forutsetning for et levende demokrati, for tillit og stabile samfunn.\nKommunale velferdsordninger krever solid fagmiljø og sterke fellesskap. For å tilby gode tjenester trenger kommunene dyktige og kvalifiserte medarbeidere. Dette oppnås best ved å sikre attraktiv lønn, gode arbeidsvilkår og et godt arbeidsmiljø.\nTillegg punkt 2. Hvordan kan vi i vår kommune de neste to årene bruke og mobilisere de arbeidskraftressursene vi har best mulig for å løse samfunnsoppdraget vårt?\nGodt partssamarbeid skaper tillit og gir rom for å vurdere spørsmål knyttet til arbeidsmiljø, organisering og andre faglige spørsmål. På denne måten kan man sikre at beslutninger er legitime og riktige. Medbestemmelse er særlig viktig i en krisesituasjon med høyt arbeidspress og behov for å ta raske beslutninger. Partssamarbeidet på kommunalt nivå og på arbeidsplassene er derfor en viktig del av den lokale beredskapen."
+    },
+    {
+      "forslagsstiller": "Eli Arnstad (Sp)",
+      "tekst": "Endring andre avsnitt punkt 1:\nDet er flere eksempler på at staten skaper forventninger som ikke gjenspeiler seg i kommunenes inntektssystem og dermed i kommunenes muligheter til å innfri disse forventningene. Staten må derfor ta et større ansvar for å finansiere rettighetsbaserte ordninger som bl.a. BPA."
+    },
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Ap)",
+      "tekst": "Tillegg til svar pkt 3:\nKommunen må ha tydelige kriterier for når beredskapsrådet skal involveres, også ved reelle hendelser – ikke bare under øvelser. Beredskapsrådet skal være et utfyllende samvirkeforum, og skal ikke erstatte kommunens kriseledelse og krisestab, som settes sammen av nødvendige ressurser etter situasjonen.\nVed hendelser som langvarige strømbrudd, omfattende bortfall av elektronisk kommunikasjon (ekom) eller andre situasjoner som berører flere sektorer og aktører, skal beredskapsrådet aktiveres tidlig.\nTidlig aktivering gir bedre samvirke mellom kommune, nødetater, forsvaret, kraftforsyning, ekom-aktører, frivillige organisasjoner, helse, næringsliv og andre kritiske aktører.\nReelle hendelser bør også brukes aktivt som læringsarenaer for å teste roller, ansvar, informasjonsflyt og beslutningslinjer, slik at samhandlingen fungerer når belastningen er størst."
+    },
+    {
+      "forslagsstiller": "Gudrun Lidal (SV)",
+      "tekst": "Henvisning til BPA i innledning til punkt 1 tas ut av teksten."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Morten Harper (SV)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Morten Harper (SV)",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 24
+        }
+      ],
+      "vinner": "Mot tilleggsforslaget",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Morten Harper (SV)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over endringsforslag fra Eli Arnstad (Sp)",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag fra Eli Arnstad (Sp)",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Endringsforslag fra Eli Arnstad (Sp)",
+      "rodt": {
+        "støttet": "Endringsforslag fra Eli Arnstad (Sp)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Jan Inge Kaspersen (Ap)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Jan Inge Kaspersen (Ap)",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 23
+        }
+      ],
+      "vinner": "Mot tilleggsforslaget",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Jan Inge Kaspersen (Ap)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Gudrun Lidal (SV)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Gudrun Lidal (SV)",
+          "stemmer": 9
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 28
+        }
+      ],
+      "vinner": "Mot tilleggsforslaget",
+      "rodt": {
+        "støttet": "Tilleggsforslag fra Gudrun Lidal (SV)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "29.01.2026",
+  "saksnummer_ps": "PS 3/2026",
+  "rodt_fremmet_forslag": false
+}

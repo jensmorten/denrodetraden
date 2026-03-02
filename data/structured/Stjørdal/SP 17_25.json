@@ -1,0 +1,61 @@
+{
+  "tittel": "Nytt bo- og velferdssenter i Stjørdal",
+  "innstilling": "Kommunedirektøren foreslår å avsette 8,5 millioner kroner til planlegging av det nye bo- og velferdssenteret, samt 85 millioner kroner for å finne erstatningsboliger for Yrkesveien 6, som er foretrukket plass for det nye senteret. Det foreslås ikke midler til selve byggingen i dette budsjettforslaget.",
+  "vedtak": "Saken utsettes til neste kommunestyremøte den 18. desember for videre behandling og avklaring av finansiering og planlegging.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Parti A",
+      "tekst": "Øke investeringsmidlene til bygging av bo- og velferdssenteret med 50 millioner kroner for å starte byggingen i 2026."
+    },
+    {
+      "forslagsstiller": "Parti B",
+      "tekst": "Foreslår å prioritere midler til bygging av bo- og velferdssenteret i budsjettåret 2026, med en økning på 20 millioner kroner."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om å utsette saken til neste kommunestyremøte.",
+      "alternativer": [
+        {
+          "navn": "Enstemmig for utsettelse",
+          "stemmer": 25
+        },
+        {
+          "navn": "Imot utsettelse",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "Enstemmig for utsettelse",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering om å øke midlene til bygging av bo- og velferdssenteret.",
+      "alternativer": [
+        {
+          "navn": "Støtte Parti A",
+          "stemmer": 10
+        },
+        {
+          "navn": "Støtte Parti B",
+          "stemmer": 8
+        },
+        {
+          "navn": "Støtte andre partier",
+          "stemmer": 7
+        }
+      ],
+      "vinner": "Støtte Parti A",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "SP 17/25",
+  "rodt_fremmet_forslag": false
+}

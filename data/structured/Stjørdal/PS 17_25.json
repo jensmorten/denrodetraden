@@ -1,0 +1,30 @@
+{
+  "tittel": "Godkjenning av møteprotokoll",
+  "innstilling": "Kommunestyret skal godkjenne møteprotokollen fra møtet den 30.10.2025.",
+  "vedtak": "Møteprotokollen fra 30.10.2025 godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av møteprotokoll fra 30.10.2025",
+      "alternativer": [
+        {
+          "navn": "Godkjenne protokollen",
+          "stemmer": 25
+        },
+        {
+          "navn": "Avvise protokollen",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Godkjenne protokollen",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 17/25",
+  "rodt_fremmet_forslag": false
+}

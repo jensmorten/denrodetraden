@@ -1,0 +1,26 @@
+{
+  "tittel": "Tilsetting av kommunedirektør i Stjørdal kommune",
+  "innstilling": "Stjørdal kommune tilsetter Bente Næverdal som ny kommunedirektør. Dersom innstilte kandidat takker nei til tilbud vil saken gå tilbake til ansettelsesutvalget for videre behandling. Ved eventuell tilslutning til innstillingen vil formannskapets forhandlingsutvalg i tråd med gjeldende delegeringsreglement forhandle og inngå nærmere arbeidskontrakt med kommunedirektør.",
+  "vedtak": "Stjørdal kommune tilsetter Bente Næverdal som ny kommunedirektør. Dersom innstilte kandidat takker nei til tilbud vil saken gå tilbake til ansettelsesutvalget for videre behandling. Ved eventuell tilslutning til innstillingen vil formannskapets forhandlingsutvalg i tråd med gjeldende delegeringsreglement forhandle og inngå nærmere arbeidskontrakt med kommunedirektør.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å tilsette Bente Næverdal som ny kommunedirektør.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (tilsette Bente Næverdal)",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen (tilsette Bente Næverdal)",
+      "rodt": {
+        "støttet": "Innstillingen (tilsette Bente Næverdal)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 118/2025",
+  "rodt_fremmet_forslag": false
+}

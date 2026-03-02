@@ -1,0 +1,75 @@
+{
+  "tittel": "Kartlegginger av behov og fremtidig innhold for aktivitetstilbud ved Fides IKS",
+  "innstilling": "Kommunestyret tar saken til orientering, og legger til grunn at kommunedirektøren vurderer og benytter mulighetene for utforming av fremtidige aktivitetstilbud, innenfor de til enhver tid gjeldende økonomiske rammene.",
+  "vedtak": "Kommunestyret tar saken til orientering, og legger til grunn at kommunedirektøren, i samarbeid med FIDES, vurderer og benytter mulighetene for utforming av fremtidige aktivitetstilbud, innenfor de til enhver tid gjeldende økonomiske rammer.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Kommunedirektøren bes fortsatt utarbeide en helhetlig plan for fremtidig innhold og mål for aktivitetstilbudet ved Fides IKS, inkludert scenarioer for ulike økonomiske rammer og behovsutvikling."
+    },
+    {
+      "forslagsstiller": "Eli Arnstad (Senterpartiet)",
+      "tekst": "Kommunestyret tar saken til orientering, og legger til grunn at kommunedirektøren, i samarbeid med FIDES, vurderer og benytter mulighetene for utforming av fremtidige aktivitetstilbud, innenfor de til enhver tid gjeldende økonomiske rammer."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 1
+        },
+        {
+          "navn": "Mot formannskapets innstilling",
+          "stemmer": 35
+        }
+      ],
+      "vinner": "Mot formannskapets innstilling",
+      "rodt": {
+        "støttet": "Formannskapets innstilling",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over Jan Inge Kaspersen (Ap) sitt alternative forslag",
+      "alternativer": [
+        {
+          "navn": "Kaspersen (Ap) sitt forslag",
+          "stemmer": 11
+        },
+        {
+          "navn": "Mot Kaspersen (Ap) sitt forslag",
+          "stemmer": 25
+        }
+      ],
+      "vinner": "Mot Kaspersen (Ap) sitt forslag",
+      "rodt": {
+        "støttet": "Kaspersen (Ap) sitt forslag",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering over Eli Arnstad (Sp) sitt alternative forslag",
+      "alternativer": [
+        {
+          "navn": "Arnstad (Sp) sitt forslag",
+          "stemmer": 29
+        },
+        {
+          "navn": "Mot Arnstad (Sp) sitt forslag",
+          "stemmer": 7
+        }
+      ],
+      "vinner": "Arnstad (Sp) sitt forslag",
+      "rodt": {
+        "støttet": "Arnstad (Sp) sitt forslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 125/2025",
+  "rodt_fremmet_forslag": false
+}

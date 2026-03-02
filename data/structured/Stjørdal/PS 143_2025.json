@@ -1,0 +1,26 @@
+{
+  "tittel": "Revisjon av forskrift om olje- og/eller fettholdig avløpsvann, Stjørdal kommune",
+  "innstilling": "Forskrift om olje- og/eller fettholdig avløpsvann i Stjørdal kommune vedtas.",
+  "vedtak": "Forskrift om olje- og/eller fettholdig avløpsvann i Stjørdal kommune vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om å vedta forskrift om olje- og/eller fettholdig avløpsvann i Stjørdal kommune.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen vedtas",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen vedtas",
+      "rodt": {
+        "støttet": "Innstillingen vedtas",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 143/2025",
+  "rodt_fremmet_forslag": false
+}

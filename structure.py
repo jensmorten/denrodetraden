@@ -13,7 +13,7 @@ from openai import OpenAI
 load_dotenv()
 client = OpenAI()
 
-MODEL = "gpt-4.1-mini"
+MODEL = "gpt-4.1"
 
 # ============================================
 # PDF
@@ -38,7 +38,7 @@ def llm_split_cases(full_text):
     prompt = f"""
 Del møteprotokollen i separate saker.
 
-En sak starter med "PS X/YY".
+En sak starter med "PS X/YY" eller PS X/YYYY.
 
 Returner kun JSON:
 [
@@ -200,6 +200,6 @@ def process_folder(input_folder, kommune):
 if __name__ == "__main__":
 
     process_folder(
-        r"data\raw\malvik\2025",  # <-- juster ved behov
-        kommune="Malvik"
+        r"data\raw\stjørdal\2026",  # <-- juster ved behov
+        kommune="Stjørdal"
     )

@@ -1,0 +1,49 @@
+{
+  "tittel": "Orientering om klage på kommunestyrets vedtak og begjæring om omgjøring | 2. gangs behandling | Stjørdal småbåthavn - Naustberget friluftsområde",
+  "innstilling": "Kommunestyret tar henvendelsen om klage fra Båtforeningen til orientering.",
+  "vedtak": "Kommunestyret tar henvendelsen om klage fra Båtforeningen til orientering. Kommunestyret anser ikke at prioritering mellom allmenhetens interesser i saker av denne type er av prinsipiell interesse i henhold til delegeringsreglementet og ber kommunedirektøren behandle søknaden.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Gunnar Uglem (Venstre)",
+      "tekst": "Kommunestyret anser ikke at prioritering mellom allmenhetens interesser i saker av denne type er av prinsipiell interesse i henhold til delegeringsreglementet og ber kommunedirektøren behandle søknaden."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å ta klagen fra Båtforeningen til orientering.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering mellom forslag 1 (dialogmøte) og forslag 2 (Venstre/Uglem sitt forslag) om videre behandling av søknaden.",
+      "alternativer": [
+        {
+          "navn": "Forslag 1 (dialogmøte)",
+          "stemmer": 1
+        },
+        {
+          "navn": "Forslag 2 (Venstre/Uglem sitt forslag)",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Forslag 2 (Venstre/Uglem sitt forslag)",
+      "rodt": {
+        "støttet": "Forslag 1 (dialogmøte)",
+        "var_vinner": false
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 47/2025",
+  "rodt_fremmet_forslag": false
+}

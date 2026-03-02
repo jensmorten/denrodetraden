@@ -1,0 +1,26 @@
+{
+  "tittel": "Status anbefalte tiltak i helhetlig Risiko- og sårbarhetsanalyse (ROS) pr desember 2025",
+  "innstilling": "1. Status tas til orientering.\n2. Kommunestyret ber kommunedirektøren spesielt å følge opp:\na. Sikre at ROS-analysens anbefalte tiltak blir gjennomført, og melde tilbake status til kommunestyret årlig.\nb. Sikre behovet for reservekraft slik at kritiske kommunale tjenester kan opprettholdes under langvarig strømbortfall.\nc. Opprettholde en viss andel diesel/bensin-biler slik at man opprettholde kritiske kommunale tjenester under langvarig strømbortfall.",
+  "vedtak": "1. Status tas til orientering.\n2. Kommunestyret ber kommunedirektøren spesielt å følge opp:\na. Sikre at ROS-analysens anbefalte tiltak blir gjennomført, og melde tilbake status til kommunestyret årlig.\nb. Sikre behovet for reservekraft slik at kritiske kommunale tjenester kan opprettholdes under langvarig strømbortfall.\nc. Opprettholde en viss andel diesel/bensin-biler slik at man opprettholde kritiske kommunale tjenester under langvarig strømbortfall.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 142/2025",
+  "rodt_fremmet_forslag": false
+}

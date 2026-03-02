@@ -1,0 +1,93 @@
+{
+  "tittel": "Revidering av forskrift om båndtvang for hund i Stjørdal kommune",
+  "innstilling": "Med hjemmel i lov 04. juli 2003 nr74 om forsvarlig hundehold (hundeloven) § 6, vedtas Forskrift om båndtvang for hund i Stjørdal kommune, som vedlagt.",
+  "vedtak": "Med hjemmel i lov 4 juli 2003 nr 74 om forsvarlig hundehold (hundeloven) § 6, sist endret 16 juni 2023 vedtas Forskrift om båndtvang for hund i Stjørdal kommune, som vedlagt.\nVed behov for ekstraordinær båndtvang utover 14 dager i kalenderåret skal dette vedtas politisk.\nNy § 7.Fjerning av ekskrementer\nHundeholder plikter straks å fjerne ekskrementer som hund etterlater seg i følgende områder;\na. på kirkegårder, på grav- og urnelunder\nb. på skoler og barnehager\nc. på anlegg for lek, sport og idrett\nd. på inngjerdet område på innmark der husdyr oppholder seg\ne. på følgende områder som er tilrettelagt for allmenhetens bruk og rekreasjon:\n· Storvika friluftsområde\n· Håmmårsbukta friluftsområde\n· Holmberget friluluftsområde\n· Monsberga friluftsområde\n· Kimenparken\n· Blinkparken\n· Golfbanen\nsamt på og rundt gang og sykkelveier, fortau og friområder i boligområder\nSaken sendes tilbake til kommunedirektøren for ytterligere bearbeiding. Nye områder og avgrensninger vurderes",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Johan Aarbu (Fremskrittspartiet)",
+      "tekst": "Med hjemmel i lov 4 juli 2003 nr 74 om forsvarlig hundehold (hundeloven) § 6, sist endret 16 juni 2023 vedtas Forskrift om båndtvang for hund i Stjørdal kommune, som vedlagt."
+    },
+    {
+      "forslagsstiller": "Johan Aarbu (Fremskrittspartiet)",
+      "tekst": "Ved behov for ekstraordinær båndtvang utover 14 dager i kalenderåret skal dette vedtas politisk."
+    },
+    {
+      "forslagsstiller": "Geir Falck Anderssen (Høyre)",
+      "tekst": "Ny § 7.Fjerning av ekskrementer\nHundeholder plikter straks å fjerne ekskrementer som hund etterlater seg i følgende områder;\na. på kirkegårder, på grav- og urnelunder\nb. på skoler og barnehager\nc. på anlegg for lek, sport og idrett\nd. på inngjerdet område på innmark der husdyr oppholder seg\ne. på følgende områder som er tilrettelagt for allmenhetens bruk og rekreasjon:\n· Storvika friluftsområde\n· Håmmårsbukta friluftsområde\n· Holmberget friluftsområde\n· Monsberga friluftsområde\n· Kimenparken\n· Blinkparken\n· Golfbanen\nsamt på og rundt gang og sykkelveier, fortau og friområder i boligområder"
+    },
+    {
+      "forslagsstiller": "Stian Flobergseter (Arbeiderpartiet)",
+      "tekst": "Saken sendes tilbake til kommunedirektøren for ytterligere bearbeiding. Nye områder og avgrensninger vurderes"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Hovedforslag (innstilling) mot alternativt forslag fra Johan Aarbu (Frp)",
+      "alternativer": [
+        {
+          "navn": "Innstilling (Formannskapet)",
+          "stemmer": 2
+        },
+        {
+          "navn": "Alternativt forslag Johan Aarbu (Frp)",
+          "stemmer": 35
+        }
+      ],
+      "vinner": "Alternativt forslag Johan Aarbu (Frp)",
+      "rodt": {
+        "støttet": "Innstilling (Formannskapet)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Johan Aarbu (Frp): Ekstraordinær båndtvang utover 14 dager skal vedtas politisk",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag Johan Aarbu (Frp)",
+          "stemmer": 25
+        },
+        {
+          "navn": "Imot tilleggsforslag",
+          "stemmer": 12
+        }
+      ],
+      "vinner": "Tilleggsforslag Johan Aarbu (Frp)",
+      "rodt": {
+        "støttet": "Tilleggsforslag Johan Aarbu (Frp)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Endringsforslag fra Geir Falck Anderssen (H): Ny § 7 Fjerning av ekskrementer",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag Geir Falck Anderssen (H)",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Endringsforslag Geir Falck Anderssen (H)",
+      "rodt": {
+        "støttet": "Endringsforslag Geir Falck Anderssen (H)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Forslag fra Stian Flobergseter (Ap): Saken sendes tilbake til kommunedirektøren for ytterligere bearbeiding",
+      "alternativer": [
+        {
+          "navn": "Forslag Stian Flobergseter (Ap)",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Forslag Stian Flobergseter (Ap)",
+      "rodt": {
+        "støttet": "Forslag Stian Flobergseter (Ap)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 60/2025",
+  "rodt_fremmet_forslag": false
+}

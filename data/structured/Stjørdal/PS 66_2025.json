@@ -1,0 +1,26 @@
+{
+  "tittel": "Ungdomsrådets årsrapport høst 2024 - vår 2025",
+  "innstilling": "Årsmelding høst 2024/vår 2025 for Ungdomsrådet tas til orientering.",
+  "vedtak": "Årsmelding høst 2024/vår 2025 for Ungdomsrådet tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å ta årsmelding for Ungdomsrådet til orientering.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Innstillingen",
+      "rodt": {
+        "støttet": "Innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 66/2025",
+  "rodt_fremmet_forslag": false
+}

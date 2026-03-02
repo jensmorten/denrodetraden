@@ -1,0 +1,57 @@
+{
+  "tittel": "Orientering om klage på kommunestyrets vedtak og begjæring om omgjøring | Stjørdal småbåthavn - Naustberget friluftsområde",
+  "innstilling": "Kommunestyret tar henvendelsen om klage fra Båtforeningen til orientering.",
+  "vedtak": "Saken sendes tilbake til kommunedirektøren for fornyet vurdering av festeavtalens rettigheter for Stjørdal Båtforening til å få behandlet sin klage.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Inngått festeavtale gir Stjørdal båtforening samme rettigheter som eier av området med noen unntak i festekontraktens § 6. Stjørdal båtforening skal dermed gis klageadgang etter forvaltningsloven. Kommunedirektøren bes fremlegge klagesaken til politisk behandling."
+    },
+    {
+      "forslagsstiller": "Eli Arnstad (Senterpartiet)",
+      "tekst": "Saken sendes tilbake til kommunedirektøren for fornyet vurdering av festeavtalens rettigheter for Stjørdal Båtforening til å få behandlet sin klage."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Jan Inge Kaspersen (Ap) sitt alternative forslag",
+      "alternativer": [
+        {
+          "navn": "Kaspersen (Ap) sitt forslag",
+          "stemmer": 10
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 27
+        }
+      ],
+      "vinner": "Mot forslaget",
+      "rodt": {
+        "støttet": "Mot forslaget",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering mellom innstilling og Eli Arnstad (Sp) sitt alternative forslag",
+      "alternativer": [
+        {
+          "navn": "Eli Arnstad (Sp) sitt forslag",
+          "stemmer": 37
+        },
+        {
+          "navn": "Innstilling (ta klagen til orientering)",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "Eli Arnstad (Sp) sitt forslag",
+      "rodt": {
+        "støttet": "Eli Arnstad (Sp) sitt forslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.02.2025",
+  "saksnummer_ps": "PS 8/2025",
+  "rodt_fremmet_forslag": false
+}

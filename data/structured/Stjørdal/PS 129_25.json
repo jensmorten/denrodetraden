@@ -1,0 +1,26 @@
+{
+  "tittel": "Prioritering av spillemiddelsøknader i Stjørdal 2025/2026",
+  "innstilling": "Kommunestyret foreslår en prioritering av spillemiddelsøknader for søknadsåret 2025/2026 basert på kriteriene angitt i saksframlegget.",
+  "vedtak": "Kommunestyret vedtar prioriteringen av spillemiddelsøknader som foreslått i innstillingen.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om prioritering av spillemiddelsøknader",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": 27
+        }
+      ],
+      "vinner": "Enstemmig vedtak",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 129/25",
+  "rodt_fremmet_forslag": false
+}

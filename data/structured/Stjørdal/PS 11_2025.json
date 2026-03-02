@@ -1,0 +1,26 @@
+{
+  "tittel": "Evaluering og forbedringspunkter i Stjørdal kommunes tjenester innen plan og byggesak",
+  "innstilling": "Kommunestyret tar evalueringen til orientering og slutter seg til oppfølgingen som er planlagt.",
+  "vedtak": "Kommunestyret tar evalueringen til orientering og slutter seg til oppfølgingen som er planlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra Utvalg Plan og Miljø",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Stjørdal",
+  "dato": "27.02.2025",
+  "saksnummer_ps": "PS 11/2025",
+  "rodt_fremmet_forslag": false
+}
