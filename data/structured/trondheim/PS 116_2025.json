@@ -1,0 +1,28 @@
+{
+  "tittel": "Medlemsforslag - Kommunalt frikort - Svein Otto Nilsen (PP)",
+  "innstilling": null,
+  "vedtak": "Saken ble utsatt til neste møte pga oppbrukt møtetid",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om å utsette saken til neste møte",
+      "alternativer": [
+        {
+          "navn": "Utsette saken",
+          "stemmer": null
+        },
+        {
+          "navn": "Ikke utsette saken",
+          "stemmer": null
+        }
+      ],
+      "hvem vant": "Utsette saken",
+      "hvilket alternativ Rødt støttet": null,
+      "om Rødt var på vinner- eller taper-side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 116/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,69 @@
+{
+  "tittel": "Medlemsforslag - Solidaritet i en urolig tid - Mona Berger, Silje Salomonsen (SV), Roald Arentz, Mia Småvik Rørdal (R), Jørn Arve Flått",
+  "innstilling": "Bystyret ber byrådet om å oppfordre nasjonale myndigheter til å gi ekstra bidrag til hjelpeorganisasjoner som har blitt rammet av dramatiske bistandskutt fra USA.",
+  "vedtak": "Bystyret ber byrådet om å oppfordre nasjonale myndigheter til å gi ekstra bidrag til hjelpeorganisasjoner som har blitt rammet av dramatiske bistandskutt fra USA.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Kokaas (PP) pva PP, KF, MDG, Sp, V, H",
+      "tekst": "Bystyret ber byrådet om å oppfordre nasjonale myndigheter til å gi ekstra bidrag til hjelpeorganisasjoner som har blitt rammet av dramatiske bistandskutt fra USA."
+    },
+    {
+      "forslagsstiller": "Mona Berger (SV) pva SV, Ap, R",
+      "tekst": "1. Bystyret vedtar å gi en donasjon på 6 millioner kroner, fordelt likt mellom Flyktningehjelpen, Norsk folkehjelp og Redd barna, øremerket prosjekter som har blitt rammet av de dramatiske bistandskuttene fra USA. Donasjonen skal finansieres av disposisjonsfondet.\n2. Bystyret oppfordrer andre kommunestyrer og regjeringen til å øke den humanitære bistanden til aktuelle hjelpeorganisasjoner."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillinga",
+      "alternativer": [
+        {
+          "navn": "Innstillinga",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot (flertallet)",
+          "stemmer": 60
+        }
+      ],
+      "hvem_vant": "Mot (flertallet)",
+      "rødt_støttet": "Mot (flertallet)",
+      "rødt_var_på_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Bergers forslag",
+      "alternativer": [
+        {
+          "navn": "Bergers forslag",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot (flertallet)",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Mot (flertallet)",
+      "rødt_støttet": "Bergers forslag",
+      "rødt_var_på_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over Kokaas forslag",
+      "alternativer": [
+        {
+          "navn": "Kokaas forslag",
+          "stemmer": 63
+        },
+        {
+          "navn": "Mot (4FrP)",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "Kokaas forslag",
+      "rødt_støttet": "Kokaas forslag",
+      "rødt_var_på_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 109/2025",
+  "rodt_fremmet_forslag": false
+}

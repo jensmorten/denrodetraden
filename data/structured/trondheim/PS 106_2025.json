@@ -1,0 +1,53 @@
+{
+  "tittel": "Ledsagerbevis på arenaer der Trondheim kommune har eierinteresser, leier ut grunn eller yter tilskudd til arrangør",
+  "innstilling": [
+    "1. Bystyret forventer at kommunalt hel- og deleide selskap som har publikumsrettede arrangement, aksepterer bruk av ledsagerbevis uten å begrense antall ledsagerbilletter.",
+    "2. Bystyret ber om at temaet tas opp i etablerte kanaler for eierstyring og -dialog for de selskapene der dette er aktuelt.",
+    "3. Bystyret ber byrådet sikre at forventning om aksept av ledsagerbevis formidles til arrangører som leier grunn av eller mottar tilskudd fra Trondheim kommune."
+  ],
+  "vedtak": [
+    "1. Bystyret forventer at kommunalt hel- og deleide selskap som har publikumsrettede arrangement, aksepterer bruk av ledsagerbevis uten å begrense antall ledsagerbilletter.",
+    "2. Bystyret ber om at temaet tas opp i etablerte kanaler for eierstyring og -dialog for de selskapene der dette er aktuelt.",
+    "3. Bystyret ber byrådet sikre at forventning om aksept av ledsagerbevis formidles til arrangører som leier grunn av eller mottar tilskudd fra Trondheim kommune."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sigurd Jan Ingvaldsen (Ap)",
+      "tekst": "3. Bystyret ber byrådet sikre at arrangører som mottar tilskudd eller leier/låner grunn eller lokaler fra Trondheim kommune, aksepterer ledsagerbevis. Særskilte unntak må begrunnes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingens punkt 1 og 2",
+      "alternativer": [
+        {
+          "navn": "Innstillingens punkt 1 og 2",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingens punkt 1 og 2",
+      "hvilket_alternativ_Rødt_støttet": "Innstillingens punkt 1 og 2",
+      "Rødt_var_på_vinner_eller_taper_side": "vinner"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingens punkt 3 og Ingvaldsens forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingens punkt 3",
+          "stemmer": 36
+        },
+        {
+          "navn": "Ingvaldsens forslag",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Innstillingens punkt 3",
+      "hvilket_alternativ_Rødt_støttet": "Ingvaldsens forslag",
+      "Rødt_var_på_vinner_eller_taper_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 106/2025",
+  "rodt_fremmet_forslag": false
+}

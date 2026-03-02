@@ -1,0 +1,85 @@
+{
+  "tittel": "Ny arkitekturstrategi for Trondheim",
+  "innstilling": "Bystyret vedtar forslag til revidert arkitekturstrategi for Trondheim – En by som er enda bedre for flere.",
+  "vedtak": [
+    "Bystyret vedtar forslag til revidert arkitekturstrategi for Trondheim – En by som er enda bedre for flere.",
+    "Når reguleringsplaner legges fram til politisk behandling, skal det synliggjøres i saksframlegget hvordan reguleringsplanen svarer på arkitekturstrategien.",
+    "Rådet for byarkitektur sine møter skal inn i den offentlige møtekalenderen på linje med de andre medvirkningsrådene i Trondheim kommune.",
+    "Rådets uttalelser skal komme tydeligere frem i saksfremlegg, og uttalelsene i sin helhet skal følge saker som vedlegg frem til politisk behandling.",
+    "Bystyret ber byrådet i samråd med byarkitekten og Rådet for byarkitektur om å gjøre andre eventuelle tiltak som kan styrke rådets relevans og synlighet overfor offentligheten som vurderes som hensiktsmessig, og informere byutviklingsutvalget om disse."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV) pva SV, R, V, MDG",
+      "tekst": [
+        "Rådet for byarkitektur sine møter skal inn i den offentlige møtekalenderen på linje med de andre medvirkningsrådene i Trondheim kommune.",
+        "Rådets uttalelser skal komme tydeligere frem i saksfremlegg, og uttalelsene i sin helhet skal følge saker som vedlegg frem til politisk behandling.",
+        "Bystyret ber byrådet i samråd med byarkitekten og Rådet for byarkitektur om å gjøre andre eventuelle tiltak som kan styrke rådets relevans og synlighet overfor offentligheten som vurderes som hensiktsmessig, og informere byutviklingsutvalget om disse."
+      ]
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillinga (forslag til revidert arkitekturstrategi for Trondheim)",
+      "alternativer": [
+        {
+          "navn": "Innstillinga",
+          "stemmer": [
+            "20H",
+            "17Ap",
+            "9SV",
+            "4MdG",
+            "4V",
+            "3R",
+            "3PP",
+            "Sp",
+            "KrF"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": [
+            "4FrP",
+            "U"
+          ]
+        }
+      ],
+      "hvem_vant": "Innstillinga",
+      "rødt_støttet": "Innstillinga",
+      "rødt_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Bergsengs tilleggsforslag (SV, R, V, MDG)",
+      "alternativer": [
+        {
+          "navn": "Bergsengs tilleggsforslag",
+          "stemmer": [
+            "20H",
+            "17Ap",
+            "9SV",
+            "4MdG",
+            "4V",
+            "3R",
+            "3PP",
+            "Sp",
+            "KrF",
+            "U"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": [
+            "4FrP"
+          ]
+        }
+      ],
+      "hvem_vant": "Bergsengs tilleggsforslag",
+      "rødt_støttet": "Bergsengs tilleggsforslag",
+      "rødt_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 105/2025",
+  "rodt_fremmet_forslag": false
+}

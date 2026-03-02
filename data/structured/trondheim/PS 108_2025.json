@@ -1,0 +1,69 @@
+{
+  "tittel": "Overvik B6 sør - detaljregulering - sluttbehandling",
+  "innstilling": "Bystyret vedtar å sende saken tilbake til byrådet for ny sluttbehandling med følgende premiss: Overvik gård er det viktigste kulturminnet og landemerket i området. Det er vesentlig for områdets karakter at bebyggelsen får lov til å være fremtredende i landskapet og ikke bygges igjen fullstendig av boliger. Det historiske kulturmiljøet og de antikvariske verdiene må ivaretas. Derfor må antall hus mot nordøst, nærmest gårdsbygningen reduseres. Krav til tetthet i feltet er ivaretatt, sett opp mot andre felt i områdeplanen, som planen åpner for.",
+  "vedtak": "Bystyret vedtar å sende saken tilbake til byrådet for ny sluttbehandling med ovennevnte premiss.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV)",
+      "tekst": "Bystyret viser til Stortingets skjerpede føringer for jordvernet fra 2023 og avviser forslag til detaljregulering av Overvik B6 sør, som vist på kart i målestokk 1:1000, merket Norgeshus AS senest datert 25.10.2024 med bestemmelser senest datert 09.12.2024 og beskrevet i planbeskrivelsen, senest datert 10.12.2024."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP) pva FrP, Ap",
+      "tekst": "Bystyret vedtar forslag til detaljregulering av Overvik B6 sør, som vist på kart i målestokk 1:1000, merket Norgeshus AS senest datert 25.10.2024 med bestemmelser senest datert 09.12.2024 og beskrevet i planbeskrivelsen, senest datert 10.12.2024. Det forutsettes at siktlinjen mellom Ranheim kirke og Overvik Hovedgård som vist i illustrasjon på s. 10 i Planbeskrivelsen (Illustrasjonsplan), overholdes og at det ikke plasseres boligbebyggelse innenfor den illustrerte siktlinjen. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Bergsengs (SV) forslag om å avvise detaljreguleringen.",
+      "alternativer": [
+        {
+          "navn": "Bergsengs forslag",
+          "stemmer": 12
+        },
+        {
+          "navn": "Mot Bergsengs forslag",
+          "stemmer": 54
+        }
+      ],
+      "hvem_vant": "Mot Bergsengs forslag",
+      "rødt_støttet": "Bergsengs forslag",
+      "rødt_vant": false
+    },
+    {
+      "beskrivelse": "Votering over Andreassens (FrP/Ap) forslag om å vedta detaljreguleringen med siktlinje-forutsetning.",
+      "alternativer": [
+        {
+          "navn": "Andreassens forslag",
+          "stemmer": 21
+        },
+        {
+          "navn": "Mot Andreassens forslag",
+          "stemmer": 45
+        }
+      ],
+      "hvem_vant": "Mot Andreassens forslag",
+      "rødt_støttet": "Mot Andreassens forslag",
+      "rødt_vant": true
+    },
+    {
+      "beskrivelse": "Votering over innstillinga om å sende saken tilbake til byrådet med premiss.",
+      "alternativer": [
+        {
+          "navn": "Innstillinga",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot innstillinga",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "Innstillinga (ved ordførers dobbeltstemme)",
+      "rødt_støttet": "Mot innstillinga",
+      "rødt_vant": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 108/2025",
+  "rodt_fremmet_forslag": false
+}

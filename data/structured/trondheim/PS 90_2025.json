@@ -1,0 +1,28 @@
+{
+  "tittel": "Årsmelding for mangfoldsrådet 2024",
+  "innstilling": null,
+  "vedtak": "Sak ble utsatt i møtet 30. april 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om å utsette saken",
+      "alternativer": [
+        {
+          "navn": "Utsette saken",
+          "stemmer": null
+        },
+        {
+          "navn": "Ikke utsette saken",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Utsette saken",
+      "hvilket_alternativ_Rødt_støttet": null,
+      "Rødt_var_på_vinner_eller_taper_side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.04.2025",
+  "saksnummer_ps": "PS 90/2025",
+  "rodt_fremmet_forslag": false
+}

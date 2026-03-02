@@ -1,0 +1,24 @@
+{
+  "tittel": "Temaplan God hjelp til familier",
+  "innstilling": null,
+  "vedtak": "Saken ble utsatt til neste møte pga oppbrukt møtetid.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Utsettelse av saken til neste møte på grunn av oppbrukt møtetid.",
+      "alternativer": [
+        {
+          "navn": "Utsette saken",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Utsette saken",
+      "hvilket_alternativ_Rødt_støttet": null,
+      "Rødt_var_på_vinner_eller_taper_side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 123/2025",
+  "rodt_fremmet_forslag": false
+}

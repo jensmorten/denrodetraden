@@ -1,0 +1,53 @@
+{
+  "tittel": "Mistillitsforslag mot byråd Kjetil Reinskou - framsatt i bystyrets møte 30.04.2025",
+  "innstilling": null,
+  "vedtak": null,
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roald Arentz (R)",
+      "tekst": "Bystyret har ikke lenger tillit til finansbyråd Kjetil Reinskou, og krever at han fratrer, jf kommunelovens §10-7."
+    },
+    {
+      "forslagsstiller": "Jørn Arve Flått (Ap)",
+      "tekst": "Bystyret mener det er kritikkverdig at det har skjedd feil knyttet til beregning av årsverkssatser innen BoA samt helse og omsorg, som videre har rammet ansatte og tjenestemottakere i Trondheim kommune. Bystyret opplever at byrådets kommunikasjon i saken har bidratt til uro for ansatte og brukere av tjenestetilbudet, og at orienteringene i utvalgene ikke har vært tilstrekkelige. Områdene dette gjelder har mange utsatte tjenestemottakere, som i varierende grad er i stand til å fremme, eller kjenne til, sine rettigheter. Derfor er det viktig å styrke kvalitetssikringen av tall som legges til grunn for planlegging av turnuser, samt å sikre at økte bevilgninger brukes som forespeilet av bystyret. Bystyret forventer å bli holdt løpende orientert om utviklingen innenfor området, og hvordan byrådet arbeider for å minimere konsekvensene av feilen som har skjedd. Byrådet må kjenne sin orienteringsplikt. Bystyret mener det er positivt at det jobbes for å opprettholde flest mulig av de planlagte årsverkene, men er ikke tilfreds med at bystyrets prioriteringer gjennom behandling av HØP må settes til side, for å håndtere konsekvensene av regnefeilen. I de tilfeller hvor det må gjennomføres endringer i turnus er det viktig at dette gjøres i tett dialog med de tillitsvalgte. Bystyret er bekymret for utviklingen i bo- og aktivitetstilbudet. Forvaltningsrevisjonen i 2022 avdekket at tjenesten ikke drives med forsvarlig kvalitet. Vitnesbyrd i finans- og organisasjonsutvalgets høring underbygger at tjenesten ikke har hatt tilstrekkelig utvikling i tråd med bystyrets intensjoner. Bystyret ber byrådet intensivere utviklingsarbeidet på området. Bystyret ønsker å understreke den grunnleggende betydningen av et tett og velfungerende partsamarbeid med de tillitsvalgte. Bystyret uttrykker samtidig bekymring for at dette samarbeidet ikke har blitt tilstrekkelig ivaretatt etter innføringen av parlamentarisme som styringsform. De tillitsvalgte sine påstander i høringen underbygger dette. Bystyret ber byrådet sikre at partsamarbeidet ivaretas i tråd med kommunens gjeldende arbeidsgiverpolitikk. Bystyret forventer at byrådet tydeliggjør hvordan de vil lære av denne saken, både når det gjelder kvalitetssikring, kommunikasjon med bystyret og involvering av ansatte og tillitsvalgte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Arentz (R) sitt mistillitsforslag mot finansbyråd Kjetil Reinskou.",
+      "alternativer": [
+        {
+          "navn": "Arentz forslag",
+          "stemmer": 13
+        },
+        {
+          "navn": "Motforslag (flertallet)",
+          "stemmer": 54
+        }
+      ],
+      "hvem_vant": "Motforslag (flertallet)",
+      "hvilket_alternativ_rødt_støttet": "Arentz forslag",
+      "rødt_var_på": "taper-side"
+    },
+    {
+      "beskrivelse": "Votering over Flått (Ap) sitt forslag om kritikk og oppfølging av byrådet.",
+      "alternativer": [
+        {
+          "navn": "Flåtts forslag",
+          "stemmer": 30
+        },
+        {
+          "navn": "Motforslag (flertallet)",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Motforslag (flertallet)",
+      "hvilket_alternativ_rødt_støttet": "Flåtts forslag",
+      "rødt_var_på": "taper-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 104/2025",
+  "rodt_fremmet_forslag": true
+}

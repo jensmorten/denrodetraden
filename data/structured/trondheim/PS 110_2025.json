@@ -1,0 +1,45 @@
+{
+  "tittel": "Medlemsforslag - Gratis vaksine mot hjernehinnebetennelse - Sigurd Jan Ingvaldsen (AP), Mona Berger (SV), Mia Småvik Rørdal (R)",
+  "innstilling": "Bystyret ber byrådet ta initiativ overfor nasjonale myndigheter til at de prioriterer å ta vaksiner mot hjernehinnebetennelse (meningokokkvaksine) inn i nasjonalt vaksinasjonsprogram, slik Folkehelseinstituttet anbefaler.",
+  "vedtak": "Bystyret ber byrådet ta initiativ overfor nasjonale myndigheter til at de prioriterer å ta vaksiner mot hjernehinnebetennelse (meningokokkvaksine) inn i nasjonalt vaksinasjonsprogram, slik Folkehelseinstituttet anbefaler.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sigurd Jan Ingvaldsen (Ap) på vegne av Ap, SV, R",
+      "tekst": "1. Bystyret ber byrådet om å tilby gratis meningokokkvaksine mot bakterietypene A, C, W, Y og B for ungdom født i 2007, 2008 og 2009. Kostnaden dekkes via disposisjonsfondet.\n2. Bystyret ber byrådet sikre at denne vaksineringen er gratis også for kommende årskull"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillinga (nasjonalt vaksinasjonsprogram)",
+      "alternativer": [
+        {
+          "navn": "Innstillinga",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillinga",
+      "hvilket_alternativ_Rødt_støttet": "Innstillinga",
+      "Rødt_var_på": "vinner-side"
+    },
+    {
+      "beskrivelse": "Votering over Ingvaldsens tilleggsforslag (gratis vaksine lokalt for årskull 2007-2009 og kommende årskull)",
+      "alternativer": [
+        {
+          "navn": "Ingvaldsens tilleggsforslag",
+          "stemmer": 30
+        },
+        {
+          "navn": "Motforslag (flertallet)",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Motforslag (flertallet)",
+      "hvilket_alternativ_Rødt_støttet": "Ingvaldsens tilleggsforslag",
+      "Rødt_var_på": "taper-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 110/2025",
+  "rodt_fremmet_forslag": false
+}

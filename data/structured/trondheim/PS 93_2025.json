@@ -1,0 +1,33 @@
+{
+  "tittel": "Investeringsprosessen i et parlamentarisk system",
+  "innstilling": null,
+  "vedtak": "Sak ble utsatt i møtet 30. april 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Silje Naper Salpomonsen (SV)",
+      "tekst": "Bystyret sender saken tilbake til finans- og organisasjonsutvalget som innstiller etter at andre utvalg har fått saken til uttalelse."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Utsettelsesforslag fra Silje Naper Salpomonsen (SV): Bystyret sender saken tilbake til finans- og organisasjonsutvalget som innstiller etter at andre utvalg har fått saken til uttalelse.",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": null
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "For utsettelsesforslaget",
+      "hvilket_alternativ_Rødt_støttet": null,
+      "Rødt_var_på_vinner_eller_taper_side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.04.2025",
+  "saksnummer_ps": "PS 93/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,53 @@
+{
+  "tittel": "Medlemsforslag - Brudd på opplysningsplikten - Roald Arentz (R)",
+  "innstilling": "Bystyret avviser medlemsforslag - Brudd på opplysningsplikten.",
+  "vedtak": "Bystyret avviser medlemsforslag - Brudd på opplysningsplikten.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roald Arentz (R)",
+      "tekst": "Bystyret slår fast at byrådets opplysningsplikt ikke ble oppfylt i behandlinga av sak PS 24/25."
+    },
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV)",
+      "tekst": "Bystyret mener at byrådet holdt tilbake vesentlig informasjon om den økonomiske situasjonen i BOA da bystyret behandlet sak PS 24/25. Dette bryter med byrådets plikt til å påse at saker som legges fram for folkevalgte organer, er forsvarlig utredet iht kommunelovens § 13-1 og § 10-2, og det bryter med reglement for byrådet og kommuneloven om å gjøre folkevalgt organ oppmerksomme hvis byrådet oppdager faktiske forhold som har sentral betydning for iverksettingen av vedtak."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom innstillinga og Arentz forslag.",
+      "alternativer": [
+        {
+          "navn": "Innstillinga",
+          "stemmer": 37
+        },
+        {
+          "navn": "Arentz forslag",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Innstillinga",
+      "hvilket_alternativ_Rødt_støttet": "Arentz forslag",
+      "Rødt_var_på_vinner_eller_taper_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over Salomonsens tileggsforslag.",
+      "alternativer": [
+        {
+          "navn": "Salomonsens tileggsforslag",
+          "stemmer": 13
+        },
+        {
+          "navn": "Motforslag (flertallet)",
+          "stemmer": 54
+        }
+      ],
+      "hvem_vant": "Motforslag (flertallet)",
+      "hvilket_alternativ_Rødt_støttet": "Salomonsens tileggsforslag",
+      "Rødt_var_på_vinner_eller_taper_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 113/2025",
+  "rodt_fremmet_forslag": true
+}

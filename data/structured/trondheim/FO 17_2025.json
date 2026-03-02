@@ -1,0 +1,33 @@
+{
+  "tittel": "Medlemsforslag - En helhetlig ruspolitisk reform starter lokalt - Jonas Ali Werket Ghanizadeh (MDG)",
+  "innstilling": "Medlemsforslaget sendes helse- og velferdsutvalget for videre behandling og innstilling",
+  "vedtak": "Medlemsforslaget sendes helse- og velferdsutvalget for videre behandling og innstilling",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mona Berger (SV)",
+      "tekst": "Forslaget avvises da det ligger utenom formålet ved forsøksloven"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen og Bergers forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 56
+        },
+        {
+          "navn": "Bergers forslag",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "hvilket_alternativ_Rødt_støttet": "Innstillingen: 2 stemmer, Bergers forslag: 1 stemme",
+      "Rødt_var_på_vinner_eller_taper_side": "Både vinner- og taperside (2 stemte for innstillingen, 1 for Bergers forslag)"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.04.2025",
+  "saksnummer_ps": "FO 17/2025",
+  "rodt_fremmet_forslag": false
+}
