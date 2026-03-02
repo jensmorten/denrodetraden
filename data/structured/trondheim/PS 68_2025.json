@@ -1,0 +1,33 @@
+{
+  "tittel": "Medlemsforslag - Gratis vaksine mot hjernehinnebetennelse",
+  "innstilling": null,
+  "vedtak": "Saken ble utsatt i bystyrets møte 27. mars 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sigurd Jan Ingvaldsen (AP), Mona Berger (SV), Mia Småvik Rørdal (R)",
+      "tekst": "Gratis vaksine mot hjernehinnebetennelse"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om å utsette saken",
+      "alternativer": [
+        {
+          "navn": "Utsette saken",
+          "stemmer": null
+        },
+        {
+          "navn": "Ikke utsette saken",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Utsette saken",
+      "hvilket_alternativ_Rødt_støttet": null,
+      "Rødt_var_på_vinner_eller_taper_side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 68/2025",
+  "rodt_fremmet_forslag": true
+}

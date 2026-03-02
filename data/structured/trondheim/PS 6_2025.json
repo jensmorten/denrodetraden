@@ -1,0 +1,33 @@
+{
+  "tittel": "Innbyggerforslag - Søbstadvegen - en fare for sårbare trafikanter",
+  "innstilling": "Bystyret viser til innsendt innbyggerforslag og deler bekymringen til beboerne knyttet til Søbstadvegen. Bystyret ber om at det repareres skader og hull på fortau langs Søbstadvegen så snart som mulig, slik at ordinært vintervedlikehold kan utføres.",
+  "vedtak": "Alt etter “... ordinært vintervedlikehold kan utføres” strykes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Alt etter “... ordinært vintervedlikehold kan utføres” strykes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen og Andreassens alternative forslag.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 33
+        },
+        {
+          "navn": "Andreassens alternative forslag",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Andreassens alternative forslag",
+      "hvilket_alternativ_Rødt_støttet": "Innstillingen",
+      "Rødt_var_på": "taper-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 6/2025",
+  "rodt_fremmet_forslag": false
+}

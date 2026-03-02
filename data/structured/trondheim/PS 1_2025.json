@@ -1,0 +1,148 @@
+{
+  "tittel": "Felles strategi for utvikling av Midtbyen 2024-2030",
+  "innstilling": "Bystyret vedtar “Felles strategi for utvikling av Midtbyen 2024-2030” datert 04.10.24. Bystyret ber om at partene utarbeider en handlingsplan for oppfølging av strategien, som viser realistiske tiltak og at det årlig rapporteres på disse.",
+  "vedtak": [
+    "Bystyret vedtar “Felles strategi for utvikling av Midtbyen 2024-2030” datert 04.10.24.",
+    "Bystyret ber om at partene utarbeider en handlingsplan for oppfølging av strategien, som viser realistiske tiltak og at det årlig rapporteres på disse.",
+    "Stryking avsnitt 3 under bærekraftsmål nr 11, delmål 2.",
+    "Strykning av \"eksisterende\" i avsnitt 3 under bærekraftsmål nr 11, delmål 2.",
+    "Reduserte parkeringsmuligheter på gateplan skal kompenseres med økt bruk og utvikling av parkeringshus i Midtbyen og sentrumsnære områder.",
+    "Handlingsplanen skal vedtas av bystyret.",
+    "Bystyret ber om at universell utforming av Midtbyen tas inn i arbeidet med handlingsplanene.",
+    "Bystyret ber om at samarbeid med og involvering av studentfrivilligheten må inkluderes i arbeidet med handlingsplanene.",
+    "Bystyret ber byrådet om å ha dialog med kirkene i Midtbyen og bispedømmet for å få til gode synergieffekter av kirkenes ulike kulturuttrykk, aktiviteter og ressurser i arbeidet med handlingsplanene frem mot Nasjonaljubileet.",
+    "Bystyret ber om at denne strategien oppdateres årlig med et klart og aktivt språk for å tydelig kommunisere våre mål og tiltak."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Følgende strykes fra avsnitt 3 under bærekraftsmål nr 11, delmål 2: Reduserte parkeringsmuligheter på gateplan skal kompenseres med økt bruk og utvikling av eksisterende parkeringshus i Midtbyen og sentrumsnære områder."
+    },
+    {
+      "forslagsstiller": "Jenny Nordaune (SV)",
+      "tekst": "Bystyret ber om at universell utforming av midtbyen tas inn i arbeidet med handlingsplanene."
+    },
+    {
+      "forslagsstiller": "Jenny Nordaune (SV)",
+      "tekst": "Bystyret ber om at samarbeid med og involvering av studentfrivilligheten må inkluderes i arbeidet med handlingsplanene."
+    },
+    {
+      "forslagsstiller": "Majen Helen Sævik (KrF) på vegne av KrF, SP, PP, MDG, H, V",
+      "tekst": "Bystyret ber byrådet om å ha dialog med kirkene i Midtbyen og bispedømmet for å få til gode synergieffekter av kirkenes ulike kulturuttrykk, aktiviteter og ressurser i arbeidet med handlingsplanene frem mot Nasjonaljubileet."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Handlingsplanen skal vedtas av bystyret."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen unntatt avsnitt 3 (som omhandler bærekraftsmål nr. 11)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 64
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "Mot",
+      "rødt_vinner_side": false
+    },
+    {
+      "beskrivelse": "FrPs forslag til innstillingens avsnitt om bærekraftsmål nr. 11",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 4
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 63
+        }
+      ],
+      "hvem_vant": "Mot",
+      "rødt_støttet": "Mot",
+      "rødt_vinner_side": true
+    },
+    {
+      "beskrivelse": "Innstillingens avsnitt om bærekraftsmål",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 53
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "For",
+      "rødt_vinner_side": true
+    },
+    {
+      "beskrivelse": "Nordaunes forslag om \"universell utforming\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "For",
+      "rødt_vinner_side": true
+    },
+    {
+      "beskrivelse": "Nordaunes forslag om \"Studentkultur\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "For",
+      "rødt_vinner_side": true
+    },
+    {
+      "beskrivelse": "Sæviks forslag om \"Kirkene som ressurs i Midtbyen\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 63
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "Mot",
+      "rødt_vinner_side": false
+    },
+    {
+      "beskrivelse": "Andreassens tilleggsforslag \"Tillegg til punkt 2: Bystyret vedtar handlingsplanen\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 64
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "rødt_støttet": "For",
+      "rødt_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 1/2025",
+  "rodt_fremmet_forslag": false
+}

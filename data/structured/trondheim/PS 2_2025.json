@@ -1,0 +1,97 @@
+{
+  "tittel": "Verftsbrua - valg av alternativ for videre prosjektering",
+  "innstilling": "Bystyret vedtar å gå videre med alternativ 1: Utvidelse av Verftsbrua. Tiltaket forutsettes finansiert av Miljøpakken. Bystyret forutsetter at det videre arbeidet med prosjektet ses i sammenheng med det pågående arbeidet på Roseborgbassenget og på Brattørbrua, for å få til gode og trygge forbindelser og attraktive byrom.",
+  "vedtak": [
+    "Bystyret vedtar å gå videre med alternativ 1: Utvidelse av Verftsbrua. Tiltaket forutsettes finansiert av Miljøpakken. Bystyret forutsetter at det videre arbeidet med prosjektet ses i sammenheng med det pågående arbeidet på Roseborgbassenget og på Brattørbrua, for å få til gode og trygge forbindelser og attraktive byrom.",
+    "Bystyret ber byrådet sikre at oppgradering av belysningen på brua, med gode visuelle kvaliteter, ivaretas.",
+    "Bruas visuelle uttrykk med blomster skal beholdes i den nye løsningen."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kirsti Tømmervold (Ap)",
+      "tekst": "Bystyret vedtar og ikke gå videre med utredning, regulering og finansiering av ny gang- og sykkelkryssing over Nidelva på Nedre Elvehavn. Det må vurderes oppmaling på eksisterende bru slik at gående og syklende får et tilfredsstillende tilbud. Bystyret mener at andre viktige prosjekter med bedre måloppnåelse skal prioriteres i Miljøpakken."
+    },
+    {
+      "forslagsstiller": "Vegard Frøseth Fenes (SP)",
+      "tekst": "Bystyret ber byrådet sikre at oppgradering av belysningen på brua, med gode visuelle kvaliteter, ivaretas."
+    },
+    {
+      "forslagsstiller": "Jenny Nordaune (SV)",
+      "tekst": "Bystyret peker på behovet for å utrede sykkelvei i Innherredsveien mellom Bakke bru og Solsiden og få vurdert behov for sykkelforbindelse over elva fra Transittkaia og Pir 2."
+    },
+    {
+      "forslagsstiller": "Kristin Engan Gylland (R)",
+      "tekst": "Bruas visuelle uttrykk med blomster skal beholdes i den nye løsningen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen og alternativt forslag fra Ap",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 43
+        },
+        {
+          "navn": "Alternativt forslag fra Ap",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "rødt_støttet": "Innstillingen",
+      "rødt_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over SPs tilleggsforslag om belysning",
+      "alternativer": [
+        {
+          "navn": "SPs forslag om belysning",
+          "stemmer": 60
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "SPs forslag om belysning",
+      "rødt_støttet": "SPs forslag om belysning",
+      "rødt_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over SVs tilleggsforslag om sykkelvei",
+      "alternativer": [
+        {
+          "navn": "SVs tilleggsforslag",
+          "stemmer": 17
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 50
+        }
+      ],
+      "hvem_vant": "Mot",
+      "rødt_støttet": "SVs tilleggsforslag",
+      "rødt_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over Rødts tilleggsforslag om visuell utforming",
+      "alternativer": [
+        {
+          "navn": "Rødts tilleggsforslag",
+          "stemmer": 63
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "Rødts tilleggsforslag",
+      "rødt_støttet": "Rødts tilleggsforslag",
+      "rødt_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 2/2025",
+  "rodt_fremmet_forslag": true
+}

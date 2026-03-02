@@ -1,0 +1,79 @@
+{
+  "tittel": "Opprettelse av Trondheimsalliansen IPR og tilhørende samarbeidsavtale",
+  "innstilling": [
+    "Trondheim kommune etablerer et interkommunalt politisk råd i henhold til kommunelovens kapittel 18 sammen med kommunene Stjørdal, Malvik, Melhus, Skaun, Orkland, Midtre Gauldal og Indre Fosen.",
+    "Navnet på det interkommunale politiske rådet skal være Trondheimsalliansen IPR.",
+    "Forslag til samarbeidsavtale, datert 21.02.2025, vedtas som grunnlag for samarbeidet.",
+    "Som Trondheim kommunes medlem av Trondheimsalliansen IPR velges ordfører.",
+    "Som varamedlem for Trondheim kommunes ordfører oppnevnes Erling Moe (V).",
+    "Som observatør fra Trondheim kommune oppnevnes Jørn Arve Flått (Ap)."
+  ],
+  "vedtak": [
+    "Trondheim kommune etablerer et interkommunalt politisk råd i henhold til kommunelovens kapittel 18 sammen med kommunene Stjørdal, Malvik, Melhus, Skaun, Orkland, Midtre Gauldal og Indre Fosen.",
+    "Navnet på det interkommunale politiske rådet skal være Trondheimsalliansen IPR.",
+    "Forslag til samarbeidsavtale, datert 21.02.2025, vedtas som grunnlag for samarbeidet.",
+    "Som Trondheim kommunes medlem av Trondheimsalliansen IPR velges ordfører.",
+    "Som varamedlem for Trondheim kommunes ordfører oppnevnes Erling Moe (V).",
+    "Som observatør fra Trondheim kommune oppnevnes Jørn Arve Flått (Ap)."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV)",
+      "tekst": "Utsettes og ber utvalg om uttalelser: Bystyret sender saken til uttalelse i utvalgene for næring og finans."
+    },
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV)",
+      "tekst": "Alternativt punkt 4, 5 og 6: 4. som Trondheim kommunes medlem av Trondheimsalliansen IPR velges byrådsleder. 5. Som varamedlem for byrådsleder oppnevnes byrådets nestleder. 6. Som observatør fra Trondheim kommune oppnevnes leder for opposisjonen (gruppeleder i største opposisjonsparti)."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Salomonsens utsettelsesforslag",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot utsettelsesforslag",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Mot utsettelsesforslag",
+      "hvilket_alternativ_rødt_støttet": "Utsettelsesforslag",
+      "rødt_var_på": "taper-side"
+    },
+    {
+      "beskrivelse": "Votering over innstillingens punkt 1, 2 og 3",
+      "alternativer": [
+        {
+          "navn": "Innstillingens punkt 1, 2 og 3",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingens punkt 1, 2 og 3",
+      "hvilket_alternativ_rødt_støttet": "Innstillingens punkt 1, 2 og 3",
+      "rødt_var_på": "vinner-side"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen og Salomonsens alternative forslag (punkt 4, 5 og 6)",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        },
+        {
+          "navn": "Salomonsens alternative forslag",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "hvilket_alternativ_rødt_støttet": "Salomonsens alternative forslag",
+      "rødt_var_på": "taper-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 72/2025",
+  "rodt_fremmet_forslag": false
+}

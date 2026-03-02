@@ -1,0 +1,45 @@
+{
+  "tittel": "Trondheim kommunes finansreglement, endringer",
+  "innstilling": "Kommunens finansreglement endres i tråd med byrådets forslag.",
+  "vedtak": "Kommunens finansreglement endres i tråd med byrådets forslag.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jomar Andre Aftret (FrP)",
+      "tekst": "Følgende strykes fra reglementet 4.2 Trondheim kommunes kraftfond: God avkastning på lang sikt anses å avhenge av en bærekraftig utvikling i økonomisk, miljømessig og samfunnsmessig forstand, samt av velfungerende, legitime og effektive markeder. Forvaltningen skal baseres på et langsiktig mål om nullutslipp av klimagasser fra selskapene i investeringsporteføljen. Og erstattes av: Forvaltningen skal ha som formål å sikre en langsiktig avkastning som kan bidra til å gi kommunens innbyggere et godt tjenestetilbud."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen (byrådets forslag til endringer i finansreglementet)",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "hvilket_alternativ_Rødt_støttet": "Innstillingen",
+      "Rødt_var_på_vinner_eller_taper_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over Aftrets tilleggsforslag om endring av reglementets formulering om langsiktig avkastning",
+      "alternativer": [
+        {
+          "navn": "Aftrets tilleggsforslag",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot (beholde opprinnelig tekst/byrådets forslag)",
+          "stemmer": 60
+        }
+      ],
+      "hvem_vant": "Mot (beholde opprinnelig tekst/byrådets forslag)",
+      "hvilket_alternativ_Rødt_støttet": "Mot (beholde opprinnelig tekst/byrådets forslag)",
+      "Rødt_var_på_vinner_eller_taper_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.02.2025",
+  "saksnummer_ps": "PS 27/2025",
+  "rodt_fremmet_forslag": false
+}

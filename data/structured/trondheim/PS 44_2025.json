@@ -1,0 +1,93 @@
+{
+  "tittel": "Peder Myhres veg 2 - detaljregulering - Sluttbehandling",
+  "innstilling": "Bystyret vedtar forslag til detaljregulering av Peder Myhres veg 2, Ranheim senterområde, som vist på kart i målestokk 1:1000, merket Selberg Arkitekter AS, senest datert 02.12.2024, med bestemmelser senest datert 02.12.2024 og beskrevet i planbeskrivelsen, senest datert 02.12.2024. Endre 5. ledd i punkt 4.1.8 til: “Det skal etableres minimum 3 sykkelplasser per 100 m2 BRA for formålene forretning og tjenesteyting.\" Legg til nytt punkt i 4.1.8.: “Der normen gir krav om minst 10 sykkelparkeringsplasser skal det for virksomheter være garderobe med dusjfasiliteter for ansatte.” Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "vedtak": "Bystyret vedtar forslag til detaljregulering av Peder Myhres veg 2, Ranheim senterområde, som vist på kart i målestokk 1:1000, merket Selberg Arkitekter AS, senest datert 02.12.2024, med bestemmelser senest datert 02.12.2024 og beskrevet i planbeskrivelsen, senest datert 02.12.2024. Endre 5. ledd i punkt 4.1.8 til: “Det skal etableres minimum 3 sykkelplasser per 100 m2 BRA for formålene forretning og tjenesteyting.\" Legg til nytt punkt i 4.1.8.: “Der normen gir krav om minst 10 sykkelparkeringsplasser skal det for virksomheter være garderobe med dusjfasiliteter for ansatte.” Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roald Arentz (R)",
+      "tekst": "Forslaget avvises: Bystyret av avviser avslag til detaljregulering av Peder Myhres veg 2, Ranheim senterområde, som vist på kart i målestokk 1:1000, merket Selberg arkitekter. Plankart under grunnen og plankart over grunnen er senest datert 24.6.2022 med bestemmelser senest datert 1.7.2022 og beskrevet i planbeskrivelsen, senest datert 1.7.2022. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12."
+    },
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV)",
+      "tekst": "Senke parkeringsgraden for biler: Endre 1. ledd i punkt 4.1.8 \"Krav til parkering\" til: “Det skal etableres 0,1 til 0,5 p-plasser for bil per boenhet eller 70m2 BRA innenfor B/F/T og det skal etableres 0,1 til 0,7 p-plasser for bil per boenhet eller 70m2 BRA innenfor felt B1-B4.”"
+    },
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV)",
+      "tekst": "Endring av parkeringsgrad for forretning og tjenesteyting: Endre 2. ledd i punkt 4.1.8 til: “For forretning og tjenesteyting skal det etableres maksimalt 1,0 p-plasser for bil per 100 m2 BRA.”"
+    },
+    {
+      "forslagsstiller": "Svein Otto Nilsen (PP)",
+      "tekst": "Nytt Helse og velferdssenter ved byselssenteret i Peder Myhres veg: Ranheim trenger nytt Helse og Velferdssenter i det planlagte bydelssenteret i Peder Myhres veg. Ranheim trenger et fremtidig helse- og velferdssenter som fremstår som moderne funksjonelt, og brukervennlig. Det er et faktum at dagens sykehjem har alt for få plasser og Ranheim trenger nytt helse og velferdssenter. Dette er et senterområde som det nå bør vurderes om man kan legge et nytt helse og velferdssenter. Det nye senter gir et nytt Ranheim helse og velferdssenteret et fint utgangspunkt for turer med eller uten rullestol. Det er kort gåavstand til blant annet matvarebutikk, postkontor og butikksenter med frisør, blomsterutsalg, gaveartikler og flere trivelige restauranter."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom Innstillingen og Arentz forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 63
+        },
+        {
+          "navn": "Arentz forslag",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "rødt_støttet": "Arentz forslag",
+      "rødt_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over Næss Bergsengs forslag 'Senke parkeringsgraden for biler'",
+      "alternativer": [
+        {
+          "navn": "Næss Bergsengs forslag",
+          "stemmer": 12
+        },
+        {
+          "navn": "Motforslag (rest)",
+          "stemmer": 55
+        }
+      ],
+      "hvem_vant": "Motforslag (rest)",
+      "rødt_støttet": "Næss Bergsengs forslag",
+      "rødt_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over Næss Bergsengs forslag 'Endring av parkeringsgrad for forretning og tjenesteyting'",
+      "alternativer": [
+        {
+          "navn": "Næss Bergsengs forslag",
+          "stemmer": 13
+        },
+        {
+          "navn": "Motforslag (rest)",
+          "stemmer": 55
+        }
+      ],
+      "hvem_vant": "Motforslag (rest)",
+      "rødt_støttet": "Næss Bergsengs forslag",
+      "rødt_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over Nilsens forslag 'Nytt Helse og velferdssenter ved byselssenteret i Peder Myhres veg'",
+      "alternativer": [
+        {
+          "navn": "Nilsens forslag",
+          "stemmer": 4
+        },
+        {
+          "navn": "Motforslag (rest)",
+          "stemmer": 63
+        }
+      ],
+      "hvem_vant": "Motforslag (rest)",
+      "rødt_støttet": "Motforslag (rest)",
+      "rødt_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 44/2025",
+  "rodt_fremmet_forslag": true
+}

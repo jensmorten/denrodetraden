@@ -1,0 +1,28 @@
+{
+  "tittel": "Fordeling av verbalforslag fra budsjettbehandlinga for 2025",
+  "innstilling": null,
+  "vedtak": "Saken ble utsatt i bystyrets møte 27. mars 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over om saken skulle utsettes.",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": null
+        },
+        {
+          "navn": "Ikke utsettelse",
+          "stemmer": null
+        }
+      ],
+      "hvem vant": "Utsettelse",
+      "hvilket alternativ Rødt støttet": null,
+      "om Rødt var på vinner- eller taper-side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 58/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,40 @@
+{
+  "tittel": "Britannia hotell - gnr/bnr 401/293- forslag om fredning",
+  "innstilling": "Bystyret støtter forslaget fra Trøndelag fylkeskommune om å frede Britannia hotell gnr. 401/bnr. 293 slik som beskrevet i fredningsomfanget. Bystyret ønsker at Lobbybarens vegg med vindusrekke mot Palmehaven vurderes inkludert i fredningen.",
+  "vedtak": "Bystyret støtter forslaget fra Trøndelag fylkeskommune om å frede Britannia hotell gnr. 401/bnr. 293 slik som beskrevet i fredningsomfanget. Bystyret ønsker at Lobbybarens vegg med vindusrekke mot Palmehaven vurderes inkludert i fredningen.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingens første setning (fredning av Britannia hotell).",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "hvilket_alternativ_Rødt_støttet": "For",
+      "Rødt_var_på": "vinner-side"
+    },
+    {
+      "beskrivelse": "Votering over innstillingens andre setning (vurdere å inkludere Lobbybarens vegg med vindusrekke mot Palmehaven i fredningen).",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 62
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "For",
+      "hvilket_alternativ_Rødt_støttet": "Mot",
+      "Rødt_var_på": "taper-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 3/2025",
+  "rodt_fremmet_forslag": false
+}

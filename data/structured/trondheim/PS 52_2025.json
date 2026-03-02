@@ -1,0 +1,50 @@
+{
+  "tittel": "Forskrift om skolekretsgrenser i Trondheim kommune",
+  "innstilling": [
+    "1. Bystyret vedtar forskrift om skolekretsgrenser",
+    "2. Følgende endring på § 4.2 Klagebehandling: “Alle enkeltvedtak om skoleplass og avslag på søknader om skoleplass ved annen skole, kan påklages etter forvaltningslovens bestemmelser om klage på enkeltvedtak. Klagefristen er tre uker etter mottatt vedtak. Skolen ved rektor behandler alle eventuelle klager på vedtak eller avslag på søknader om skoleplass. Dersom skolen opprettholder opprinnelig vedtak, vil saken oversendes via byrådet til klageutvalget for behandling. Dersom klageutvalget opprettholder skolens vedtak, oversendes saken til Statsforvalteren i Trøndelag som fatter endelig vedtak.\""
+  ],
+  "vedtak": [
+    "1. Bystyret vedtar forskrift om skolekretsgrenser",
+    "2. Følgende endring på § 4.2 Klagebehandling: “Alle enkeltvedtak om skoleplass og avslag på søknader om skoleplass ved annen skole, kan påklages etter forvaltningslovens bestemmelser om klage på enkeltvedtak. Klagefristen er tre uker etter mottatt vedtak. Skolen ved rektor behandler alle eventuelle klager på vedtak eller avslag på søknader om skoleplass. Dersom skolen opprettholder opprinnelig vedtak, vil saken oversendes via byrådet til klageutvalget for behandling. Dersom klageutvalget opprettholder skolens vedtak, oversendes saken til Statsforvalteren i Trøndelag som fatter endelig vedtak.\""
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingens punkt 1: Bystyret vedtar forskrift om skolekretsgrenser.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 65
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "hvilket_alternativ_Rødt_støttet": "For",
+      "Rødt_var_på_vinner_eller_taper_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstillingens punkt 2: Endring på § 4.2 Klagebehandling.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 32
+        }
+      ],
+      "hvem_vant": "For",
+      "hvilket_alternativ_Rødt_støttet": "For",
+      "Rødt_var_på_vinner_eller_taper_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 52/2025",
+  "rodt_fremmet_forslag": false
+}

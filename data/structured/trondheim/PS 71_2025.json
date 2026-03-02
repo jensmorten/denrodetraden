@@ -1,0 +1,28 @@
+{
+  "tittel": "Valg av settemedlemmer",
+  "innstilling": null,
+  "vedtak": "Saken ble utsatt i bystyrets møte 27. mars 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over om saken skulle utsettes.",
+      "alternativer": [
+        {
+          "navn": "Utsette saken",
+          "stemmer": null
+        },
+        {
+          "navn": "Ikke utsette saken",
+          "stemmer": null
+        }
+      ],
+      "hvem vant": "Utsette saken",
+      "hvilket alternativ Rødt støttet": null,
+      "om Rødt var på vinner- eller taper-side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 71/2025",
+  "rodt_fremmet_forslag": false
+}

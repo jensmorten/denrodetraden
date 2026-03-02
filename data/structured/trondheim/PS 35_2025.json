@@ -1,0 +1,28 @@
+{
+  "tittel": "Medlemsforslag - Trondheim trenger en skøytehall - Svein Otto Nilsen (PP)",
+  "innstilling": null,
+  "vedtak": "Saken ble utsatt i møtet 20. februar 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelse av saken.",
+      "alternativer": [
+        {
+          "navn": "Utsette saken",
+          "stemmer": null
+        },
+        {
+          "navn": "Ikke utsette saken",
+          "stemmer": null
+        }
+      ],
+      "hvem vant": "Utsette saken",
+      "hvilket alternativ Rødt støttet": null,
+      "om Rødt var på vinner- eller taper-side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.02.2025",
+  "saksnummer_ps": "PS 35/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,69 @@
+{
+  "tittel": "Medlemsforslag - Etablering av Psykiatriambulanser i Trondheim - Svein Otto Nilsen (PP)",
+  "innstilling": [
+    "Bystyret anerkjenner at mennesker i akutte psykiske kriser har behov for å møtes av fagpersoner på en skånsom måte, likevel vil det i noen tilfeller være behov for inngripende tiltak. På bakgrunn av dette ser vi behovet for å etablere et alternativ til ordinær legevakt og eventuell bistand fra politi.",
+    "Bystyret støtter initiativet til å etablere psykiatriambulanse i Trondheimsregionen.",
+    "Bystyret ber byrådet i samarbeid med det regionale helseforetaket og eventuelle andre kommuner i Trondheimsregionen etablere et forsøksprosjekt med psykiatriambulanse.",
+    "Bystyret forutsetter at forsøksprosjektet med psykiatriambulanser skal være et statlig finansiert prøveprosjekt."
+  ],
+  "vedtak": [
+    "Bystyret anerkjenner at mennesker i akutte psykiske kriser har behov for å møtes av fagpersoner på en skånsom måte, likevel vil det i noen tilfeller være behov for inngripende tiltak. På bakgrunn av dette ser vi behovet for å etablere et alternativ til ordinær legevakt og eventuell bistand fra politi.",
+    "Bystyret støtter initiativet til å etablere psykiatriambulanse i Trondheimsregionen.",
+    "Bystyret ber byrådet i samarbeid med det regionale helseforetaket og eventuelle andre kommuner i Trondheimsregionen etablere et forsøksprosjekt med psykiatriambulanse.",
+    "Bystyret forutsetter at prøveprosjektet med psykiatriambulanser skal være et statlig finansiert prøveprosjekt."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mona Berger (SV) på vegne av SV, FrP, PP, Ap, R, Uavh.",
+      "tekst": [
+        "Bystyret anerkjenner at mennesker i akutte psykiske kriser har behov for å møtes av fagpersoner på en skånsom måte, likevel vil det i noen tilfeller være behov for inngripende tiltak. På bakgrunn av dette ser vi behovet for å etablere et alternativ til ordinær legevakt og eventuell bistand fra politi.",
+        "Bystyret støtter initiativet til å etablere psykiatriambulanse i Trondheimsregionen.",
+        "Bystyret ber byrådet i samarbeid med det regionale helseforetaket og eventuelle andre kommuner i Trondheimsregionen etablere et forsøksprosjekt med psykiatriambulanse."
+      ]
+    },
+    {
+      "forslagsstiller": "Aurora Meland Winger (MDG) på vegne av MDG, FrP, H, PP, SP, KrF, V",
+      "tekst": [
+        "Bystyret forutsetter at prøveprosjektet med psykiatriambulanser skal være et statlig finansiert prøveprosjekt."
+      ]
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen og alternativt forslag fra SV.",
+      "alternativer": [
+        {
+          "navn": "SVs forslag",
+          "stemmer": 42
+        },
+        {
+          "navn": "Innstillingen",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "SVs forslag",
+      "rødt_støttet": "SVs forslag",
+      "rødt_var_på_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslaget fra Winger (MDG) om statlig finansiering.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslaget fra Winger",
+          "stemmer": 37
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Tilleggsforslaget fra Winger",
+      "rødt_støttet": "Mot tilleggsforslaget",
+      "rødt_var_på_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.02.2025",
+  "saksnummer_ps": "PS 34/2025",
+  "rodt_fremmet_forslag": false
+}

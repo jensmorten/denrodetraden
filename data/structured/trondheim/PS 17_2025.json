@@ -1,0 +1,73 @@
+{
+  "tittel": "E6 Tonstad - Kroppanbrua, detaljregulering til sluttbehandling",
+  "innstilling": "Bystyret vedtar forslag til detaljregulering av E6 Tonstad- Kroppanbrua som vist på kart (tre stykk) i målestokk 1:1000 (A1), merket Statens vegvesen senest datert 01.10.2024 med bestemmelser senest datert 01.10.2024 og beskrevet i planbeskrivelsen, senest datert 23.10.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "vedtak": "Bystyret vedtar forslag til detaljregulering av E6 Tonstad- Kroppanbrua som vist på kart (tre stykk) i målestokk 1:1000 (A1), merket Statens vegvesen senest datert 01.10.2024 med bestemmelser senest datert 01.10.2024 og beskrevet i planbeskrivelsen, senest datert 23.10.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV) på vegne av SV, R",
+      "tekst": "Bystyret vedtar forslag til detaljregulering av E6 Tonstad- Kroppanbrua som vist på kart (tre stykk) i målestokk 1:1000 (A1), merket Statens vegvesen senest datert 01.10.2024 med bestemmelser senest datert 01.10.2024 og beskrevet i planbeskrivelsen, senest datert 23.10.2024, med følgende endringer: - Nytt felt i nordgående retning i Okstadbakkan som gir totalt 3 felt mot sentrum med total lengde ca 1,4 km, tas ut. - Nye avkjøringsramper og bruer som følge av nytt nordgående kollektivfelt tas ut. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12."
+    },
+    {
+      "forslagsstiller": "Magni Fjørtoft Svarstad (R)",
+      "tekst": "Feltet må prosjekteres med fundamentering for bygging av fremtidig bybanetrase."
+    },
+    {
+      "forslagsstiller": "Jenny Nordaune på vegne av SV, R",
+      "tekst": "Bystyret vedtar at et av de eksisterende feltene omgjøres til kollektivfelt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen og alternativ forslag fra SV",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 55
+        },
+        {
+          "navn": "Alternativ forslag fra SV",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "rødt_støttet": "Alternativ forslag fra SV",
+      "rødt_vant": false
+    },
+    {
+      "beskrivelse": "Votering over Fjørtoft Svarstads tilleggsforslag (Fundamentering for fremtidig bybanetrase)",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 54
+        }
+      ],
+      "hvem_vant": "Mot tilleggsforslaget",
+      "rødt_støttet": "For tilleggsforslaget",
+      "rødt_vant": false
+    },
+    {
+      "beskrivelse": "Votering over Nordaunes tilleggsforslag (Gjøre om et av feltene til kollektivfelt)",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 12
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 55
+        }
+      ],
+      "hvem_vant": "Mot tilleggsforslaget",
+      "rødt_støttet": "For tilleggsforslaget",
+      "rødt_vant": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 17/2025",
+  "rodt_fremmet_forslag": true
+}

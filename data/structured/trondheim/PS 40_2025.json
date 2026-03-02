@@ -1,0 +1,48 @@
+{
+  "tittel": "Årsmelding for Trondheim studentråd 2024",
+  "innstilling": "Bystyret godkjenner framlagte årsmelding for Trondheim studentråds virksomhet i 2024.",
+  "vedtak": [
+    "Bystyret godkjenner framlagte årsmelding for Trondheim studentråds virksomhet i 2024.",
+    "Bystyret ber om at Trøndelag fylkeskommune oppnevner sine observatører til Trondheim Studentråd så snart det lar seg gjøre."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Radino Dizza Zulfi Mahendra (H)",
+      "tekst": "Bystyret ber om at Trøndelag fylkeskommune oppnevner sine observatører til Trondheim Studentråd så snart det lar seg gjøre."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om å godkjenne årsmeldingen.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "hvilket_alternativ_Rødt_støttet": "Innstillingen",
+      "Rødt_var_på": "vinner-side"
+    },
+    {
+      "beskrivelse": "Votering over Mahendras tilleggsforslag om fylkeskommunal oppnevning.",
+      "alternativer": [
+        {
+          "navn": "Mahendras tilleggsforslag",
+          "stemmer": 55
+        },
+        {
+          "navn": "Motforslag (ikke støtte tilleggsforslaget)",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "Mahendras tilleggsforslag",
+      "hvilket_alternativ_Rødt_støttet": "Mahendras tilleggsforslag",
+      "Rødt_var_på": "vinner-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.02.2025",
+  "saksnummer_ps": "PS 40/2025",
+  "rodt_fremmet_forslag": false
+}

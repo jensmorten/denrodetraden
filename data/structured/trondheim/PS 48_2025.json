@@ -1,0 +1,103 @@
+{
+  "tittel": "Det interne arbeidsmarkedet",
+  "innstilling": [
+    "Det interne arbeidsmarkedet (DIA) avvikles fra og med 1.4.2025.",
+    "Byrådet skal sikre at enheter i Trondheim kommune som står ovenfor en driftsinnskrenkning eller et rasjonaliseringstiltak mottar nødvendig faglig bistand gjennom hele prosessen. Dette for å sikre at det foregår på en ryddig og lovmessig måte.",
+    "Vi imøteser en eventuell uttalelse fra administrasjonsutvalget frem mot bystyrebehandling.",
+    "Bystyret ber byrådet sørge for at alle enheter jevnlig vurderer om de kan tilby en passende stilling til ansatte som har blitt overtallige i kommunen for å redusere tiden de står uten fast tjenesteplassering."
+  ],
+  "vedtak": [
+    "Det interne arbeidsmarkedet (DIA) avvikles fra og med 1.4.2025.",
+    "Byrådet skal sikre at enheter i Trondheim kommune som står ovenfor en driftsinnskrenkning eller et rasjonaliseringstiltak mottar nødvendig faglig bistand gjennom hele prosessen. Dette for å sikre at det foregår på en ryddig og lovmessig måte.",
+    "Vi imøteser en eventuell uttalelse fra administrasjonsutvalget frem mot bystyrebehandling.",
+    "Bystyret ber byrådet sørge for at alle enheter jevnlig vurderer om de kan tilby en passende stilling til ansatte som har blitt overtallige i kommunen for å redusere tiden de står uten fast tjenesteplassering."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mona Berger (SV)",
+      "tekst": "Bystyret utsetter saken."
+    },
+    {
+      "forslagsstiller": "Roald Arentz (R)",
+      "tekst": "Det interne arbeidsmarkedet beholdes, og utvikles i tråd med kommunens behov."
+    },
+    {
+      "forslagsstiller": "Jørn Arve Flått (Ap)",
+      "tekst": "Saken sendes over til Helse- og velferdsutvalget som har innstillingsmyndighet i saker som berører arbeidsgiverpolitikk."
+    },
+    {
+      "forslagsstiller": "Majen Helen Sævik (KrF) på vegne av KrF, MDG, H",
+      "tekst": "Bystyret ber byrådet sørge for at alle enheter jevnlig vurderer om de kan tilby en passende stilling til ansatte som har blitt overtallige i kommunen for å redusere tiden de står uten fast tjenesteplassering."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Utsettelsesforslag fra Mona Berger (SV)",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot utsettelse",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Mot utsettelse",
+      "rødt_støttet": "Utsettelsesforslag",
+      "rødt_var_på": "taper-side"
+    },
+    {
+      "beskrivelse": "Alternativt forslag fra Jørn Arve Flått (Ap) \"Korrekt behandlingslinje\"",
+      "alternativer": [
+        {
+          "navn": "Korrekt behandlingslinje",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot korrekt behandlingslinje",
+          "stemmer": 36
+        }
+      ],
+      "hvem_vant": "Mot korrekt behandlingslinje",
+      "rødt_støttet": "Korrekt behandlingslinje",
+      "rødt_var_på": "taper-side"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen og Arentz forslag (R)",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        },
+        {
+          "navn": "Arentz forslag",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "rødt_støttet": "Arentz forslag",
+      "rødt_var_på": "taper-side"
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Sævik (KrF) på vegne av KrF, MDG, H",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag",
+          "stemmer": 37
+        },
+        {
+          "navn": "Mot tilleggsforslag",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Tilleggsforslag",
+      "rødt_støttet": "Mot tilleggsforslag",
+      "rødt_var_på": "taper-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 48/2025",
+  "rodt_fremmet_forslag": true
+}

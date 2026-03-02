@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av medlemmer i Trondheim kommunes æresborgerutvalg",
+  "innstilling": "Bystyret oppnevner følgende til Trondheim kommunens æresborgerutvalg: Ordfører, Byrådsleder, Emil Raaen (AP), Silje Naper Salomonsen (SV), Majen Helen Sævik (KrF)",
+  "vedtak": "Bystyret oppnevner følgende til Trondheim kommunens æresborgerutvalg: Ordfører, Byrådsleder, Emil Raaen (AP), Silje Naper Salomonsen (SV), Majen Helen Sævik (KrF)",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om valg av medlemmer til æresborgerutvalget.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "hvilket_alternativ_Rødt_støttet": "Innstillingen",
+      "Rødt_var_på_vinner_eller_taper_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 10/2025",
+  "rodt_fremmet_forslag": false
+}

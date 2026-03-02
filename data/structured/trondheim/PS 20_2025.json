@@ -1,0 +1,33 @@
+{
+  "tittel": "Medlemsforslag - Sak ang Leinstrand vassverk - Vegard Frøseth Fenes (SP)",
+  "innstilling": "Bystyret avviser forslaget. Saken er løst ved inngått forlik mellom kommunen og vassverket.",
+  "vedtak": "Bystyret avviser forslaget. Saken er løst ved inngått forlik mellom kommunen og vassverket.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Thomas Sakshaug (MDG)",
+      "tekst": "Saken er løst ved forlik"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen og MDG sitt alternative forslag.",
+      "alternativer": [
+        {
+          "navn": "MDG alternative forslag",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Innstillingen",
+          "stemmer": "0"
+        }
+      ],
+      "hvem_vant": "MDG alternative forslag",
+      "hvilket_alternativ_Rødt_støttet": "MDG alternative forslag",
+      "Rødt_var_på": "vinner-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 20/2025",
+  "rodt_fremmet_forslag": false
+}

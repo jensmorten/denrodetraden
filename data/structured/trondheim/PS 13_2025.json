@@ -1,0 +1,93 @@
+{
+  "tittel": "Fritt brukervalg i hjemmetjenesten",
+  "innstilling": "Bystyret opprettholder sitt vedtak av 01.02.2024 om å innføre fritt brukervalg i hjemmetjenesten.",
+  "vedtak": "Bystyret opprettholder sitt vedtak av 01.02.2024 om å innføre fritt brukervalg i hjemmetjenesten.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sigurd Jan Invaldsen (Ap) på vegne av Ap, R, SV",
+      "tekst": "Bystyret avviser vedtaket av 01.02.24 om å innføre fritt brukervalg i hjemmetjenesten."
+    },
+    {
+      "forslagsstiller": "Roald Arentz (R)",
+      "tekst": "Trondheim kommune skal bidra til ordna arbeidsforhold hos tjenesteytere innenfor \"Fritt brukervalg\". Det skal kreves at leverandøren har inngått tariffavtale med sine ansatte, med mål om at alle minst skal ha like gode lønns- og arbeidsvilkår som de som jobber i Trondheim kommune."
+    },
+    {
+      "forslagsstiller": "Mona Berger (SV) på vegne av SV, R",
+      "tekst": "Trondheim kommune skal bidra til ordna arbeidsforhold. Det skal legges til rette for og oppfordres til inngåelse av tariffavtaler, med mål om at alle minst skal ha like gode lønns- og arbeidsvilkår som de som jobber i Trondheim kommune."
+    },
+    {
+      "forslagsstiller": "Mona Berger (SV) på vegne av SV, R",
+      "tekst": "Bystyret ber byrådet være oppmerksomme på konsekvensene av å innføre fritt brukervalg i hjemmetjenesten.\nErfaringer og tall fra andre kommuner viser at fritt brukervalg kan føre med seg store merkostnader for kommunen. Fritt brukervalg vil gi et dårligere klimaregnskap fordi flere leverandører må kjøre til tjenestemottakere som ellers ville vært på én felles rute.\nDet er også grunn til å tro at fritt brukervalg vil føre til en svekket kommunal del av hjemmetjenesten så lenge budsjettet ikke justeres opp for å ta høyde for administrasjons- og overheadkostnader. Muligheten for å på kort varsel gå tilbake til kommunen som leverandør er nødvendig for å ivareta tjenestemottakere, men vil samtidig skape en uforutsigbar situasjon for kommunens ansatte.\nBystyret ber byrådet orientere helse og velferdsutvalget om erfaringene med omleggingen av tjenestene herunder hvordan leverandørene forholder seg til kravspesifikasjonene og hvordan ordningen lever opp til forventningene om gevinstrealisering som er redegjort for i saken."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen og Aps forslag om å avvise vedtaket om fritt brukervalg.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (opprettholde vedtaket om fritt brukervalg)",
+          "stemmer": 38
+        },
+        {
+          "navn": "Aps forslag (avvise vedtaket om fritt brukervalg)",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Innstillingen (opprettholde vedtaket om fritt brukervalg)",
+      "rødt_støttet": "Aps forslag (avvise vedtaket om fritt brukervalg)",
+      "rødt_vant": false
+    },
+    {
+      "beskrivelse": "Votering over Arentz tilleggsforslag om lønns- og arbeidsvilkår (krav om tariffavtale).",
+      "alternativer": [
+        {
+          "navn": "Arentz tilleggsforslag",
+          "stemmer": 30
+        },
+        {
+          "navn": "Motforslag (ikke vedta tilleggsforslaget)",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Motforslag (ikke vedta tilleggsforslaget)",
+      "rødt_støttet": "Arentz tilleggsforslag",
+      "rødt_vant": false
+    },
+    {
+      "beskrivelse": "Votering over Bergers tilleggsforslag om lønns- og arbeidsvilkår (oppfordring til tariffavtale).",
+      "alternativer": [
+        {
+          "navn": "Bergers tilleggsforslag",
+          "stemmer": 30
+        },
+        {
+          "navn": "Motforslag (ikke vedta tilleggsforslaget)",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Motforslag (ikke vedta tilleggsforslaget)",
+      "rødt_støttet": "Bergers tilleggsforslag",
+      "rødt_vant": false
+    },
+    {
+      "beskrivelse": "Votering over Bergers forslag om at innføring vil være kostnadsdrivende, gi større klimaavtrykk og dårligere tjenester.",
+      "alternativer": [
+        {
+          "navn": "Bergers forslag",
+          "stemmer": 29
+        },
+        {
+          "navn": "Motforslag (ikke vedta forslaget)",
+          "stemmer": 38
+        }
+      ],
+      "hvem_vant": "Motforslag (ikke vedta forslaget)",
+      "rødt_støttet": "Bergers forslag",
+      "rødt_vant": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 13/2025",
+  "rodt_fremmet_forslag": true
+}

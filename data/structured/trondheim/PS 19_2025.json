@@ -1,0 +1,69 @@
+{
+  "tittel": "Detaljregulering av Jakobslivegen 7 og Tunvegen 5 og 5A - sluttbehandling",
+  "innstilling": "Bystyret vedtar forslag til detaljregulering av Jakobslivegen 7 og Tunvegen 5 og 5A som vist på kart i målestokk 1:1000, merket Øystein Thommesen AS, regulering på grunnen - plankart 1 av 2 senest datert 02.09.2024 og regulering under grunnen - plankart 2 av 2 senest datert 02.09.2024 med bestemmelser senest datert 04.09.2024 og beskrevet i planbeskrivelsen, senest datert 15.05.2024. Rekkefølgekrav § 7.6, Brundalsforbindelsen, strykes fra bestemmelsene. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "vedtak": "Bystyret vedtar forslag til detaljregulering av Jakobslivegen 7 og Tunvegen 5 og 5A som vist på kart i målestokk 1:1000, merket Øystein Thommesen AS, regulering på grunnen - plankart 1 av 2 senest datert 02.09.2024 og regulering under grunnen - plankart 2 av 2 senest datert 02.09.2024 med bestemmelser senest datert 04.09.2024 og beskrevet i planbeskrivelsen, senest datert 15.05.2024. Rekkefølgekrav § 7.6, Brundalsforbindelsen, strykes fra bestemmelsene. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV) på vegne av SV, Uavh",
+      "tekst": "Bystyret avviser forslag til detaljregulering av Jakobslivegen 7 og Tunvegen 5 og 5A som vist på kart i målestokk 1:1000, merket Øystein Thommesen AS, regulering på grunnen - plankart 1 av 2 senest datert 02.09.2024 og regulering under grunnen - plankart 2 av 2 senest datert 02.09.2024 med bestemmelser senest datert 04.09.2024 og beskrevet i planbeskrivelsen, senest datert 15.05.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12."
+    },
+    {
+      "forslagsstiller": "Thomas Sakshaug (MDG)",
+      "tekst": "Rekkefølgekrav § 7.6, Brundalsforbindelsen opprettholdes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avvisningsforslag fra Even Næss Bergseng (SV) vs innstillingen",
+      "alternativer": [
+        {
+          "navn": "Næss Bergsengs forslag (avvisning)",
+          "stemmer": 10
+        },
+        {
+          "navn": "Innstillingen",
+          "stemmer": 56
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "hvilket_alternativ_rødt_støttet": "Innstillingen",
+      "rødt_var_på": "vinner-side"
+    },
+    {
+      "beskrivelse": "Innstillingen unntatt rekkefølgekrav vs alternativ (SV/MDG)",
+      "alternativer": [
+        {
+          "navn": "Innstillingen unntatt rekkefølgekrav",
+          "stemmer": 54
+        },
+        {
+          "navn": "Alternativ (SV/MDG)",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "Innstillingen unntatt rekkefølgekrav",
+      "hvilket_alternativ_rødt_støttet": "Innstillingen unntatt rekkefølgekrav",
+      "rødt_var_på": "vinner-side"
+    },
+    {
+      "beskrivelse": "Innstillingens rekkefølgekrav vs alternativt forslag fra MDG (opprettholde rekkefølgekrav §7-6)",
+      "alternativer": [
+        {
+          "navn": "Innstillingens rekkefølgekrav (stryke §7-6)",
+          "stemmer": 53
+        },
+        {
+          "navn": "MDGs forslag (opprettholde §7-6)",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Innstillingens rekkefølgekrav (stryke §7-6)",
+      "hvilket_alternativ_rødt_støttet": "Innstillingens rekkefølgekrav (stryke §7-6)",
+      "rødt_var_på": "vinner-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 19/2025",
+  "rodt_fremmet_forslag": false
+}
