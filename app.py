@@ -18,7 +18,7 @@ st.set_page_config(page_title="Den Røde Tråden", layout="wide")
 
 st.title("🔴 Den Røde Tråden")
 st.markdown("Dette er en app som hjelper Rødts kommunestyrerepresentater finne lignende saker i andre kommuner")  
-st.markdown("Last opp enkelt sak eller sakliste og finn lignde saker i andre kommuner. Appen")
+st.markdown("Last opp enkelt sak eller sakliste og finn lignde saker i andre kommuner.")
 st.markdown("Per idag inneholder behandlede saker fra 1. januar 2025 ")
 
 # ============================================
@@ -114,20 +114,21 @@ Tekst:
 def search_similar_cases(tekst, kommune):
 
     prompt = f"""
-Du er politisk analyseassistent.
+Du er politisk analyseassistent. Oppsummer først kort saken(e) som er gitt og generelt hva Rødt kan tenkes å mene i denne saken. Vurder om det faktisk er en kommunal sak eller brukeren har lasta opp noe annet. Gi isåfall beskjed om dette. 
 
-Finn saker i ANDRE kommunar enn {kommune}
+Finn saker i andre kommunar enn {kommune}
 som er tematisk lik teksten under.
 
-For kvar treff:
+For kvar treff, oppgi:
 - Kommune
 - Saksnummer
 - Kort kva saka handla om
 - Om Rødt fremmet forslag
 - Om Rødt vant eller tapte
 
-Vurder om det faktisk er en kommunal sak eller brukeren har lasta opp noe annet. Gi isåfall beskjed om dette. 
-Du skal gi et strukturert, nøkternt og endelig svar uten å be brukeren om mer. 
+Vurder igjen om dette bør ha innvirkning på hvordan Rødt i {kommune} bør stille seg til saken og tips til debatten.  
+
+Du skal gi et kort, strukturert, nøkternt og endelig svar uten å be brukeren om mer. 
 
 Tekst:
 {tekst}
