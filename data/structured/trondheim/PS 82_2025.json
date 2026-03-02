@@ -1,0 +1,89 @@
+{
+  "tittel": "Fredlybekken, øvre del, Utleirvegen - Klæbuvegen detaljregulering til sluttbehandling",
+  "innstilling": "Bystyret vedtar forslag til detaljregulering av Fredlybekken, øvre del, Utleirvegen – Klæbuveien, alternativ 1, som vist på kart i målestokk 1:1000, merket Trondheim kommune senest datert 29.4.2024 med bestemmelser senest datert 29.4.2024 og beskrevet i planbeskrivelsen, senest datert 29.4.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12. Bystyret ber om at gjennomføring sikres gjennom tinglyste avtaler der dette er mulig.",
+  "vedtak": "Bystyret vedtar forslag til detaljregulering av Fredlybekken, øvre del, Utleirvegen – Klæbuveien, alternativ 1, som vist på kart i målestokk 1:1000, merket Trondheim kommune senest datert 29.4.2024 med bestemmelser senest datert 29.4.2024 og beskrevet i planbeskrivelsen, senest datert 29.4.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12. Bystyret ber om at gjennomføring sikres gjennom tinglyste avtaler der dette er mulig.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Svein Otto Nilsen (PP)",
+      "tekst": "Saken sendes tilbake til Byrådet. Med så stor usikkerhet på om Forurensingsforskrift § 16-1 (selvkost bestemmelsen) oppfylles i dette prosjektet bør ikke prosjektet vedtas uten at det er fremlagt et oversiktlig og rimelig korrekt anslag på de totale kostnadene for begge alternativer."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret vedtar forslag til detaljregulering av Fredlybekken, øvre del, Utleirvegen – Klæbuveien, alternativ 2, som vist på kart i målestokk 1:1000, merket Trondheim kommune senest datert 29.4.2024 med bestemmelser senest datert 29.4.2024 og beskrevet i planbeskrivelsen, senest datert 29.4.2024. Det gjøres følgende endringer i planen: - Offentlig blå/grønnstruktur reguleres ikke, og tas ut av plankart og bestemmelser. - Turveg reguleres ikke, og tas ut av plankart og bestemmelser. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12."
+    },
+    {
+      "forslagsstiller": "Kirsti Tømmervold (Ap) på vegne av Ap, SP",
+      "tekst": "Bystyret vedtar forslag til detaljregulering av Fredlybekken, øvre del, Utleirvegen – Klæbuveien, alternativ 2, som vist på kart i målestokk 1:1000, merket Trondheim kommune senest datert 29.4.2024 med bestemmelser senest datert 29.4.2024 og beskrevet i planbeskrivelsen, senest datert 29.4.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Nilsens forslag om tilbaksendelse",
+      "alternativer": [
+        {
+          "navn": "Nilsens forslag",
+          "stemmer": 28
+        },
+        {
+          "navn": "Mot Nilsens forslag",
+          "stemmer": 39
+        }
+      ],
+      "hvem_vant": "Mot Nilsens forslag",
+      "rødt_støttet": "Mot Nilsens forslag",
+      "rødt_var_på_vinner_side": true
+    },
+    {
+      "beskrivelse": "Andreassens forslag",
+      "alternativer": [
+        {
+          "navn": "Andreassens forslag",
+          "stemmer": 10
+        },
+        {
+          "navn": "Mot Andreassens forslag",
+          "stemmer": 57
+        }
+      ],
+      "hvem_vant": "Mot Andreassens forslag",
+      "rødt_støttet": "Mot Andreassens forslag",
+      "rødt_var_på_vinner_side": true
+    },
+    {
+      "beskrivelse": "Tømmervolds forslag",
+      "alternativer": [
+        {
+          "navn": "Tømmervolds forslag",
+          "stemmer": 28
+        },
+        {
+          "navn": "Mot Tømmervolds forslag",
+          "stemmer": 39
+        }
+      ],
+      "hvem_vant": "Mot Tømmervolds forslag",
+      "rødt_støttet": "Mot Tømmervolds forslag",
+      "rødt_var_på_vinner_side": true
+    },
+    {
+      "beskrivelse": "Innstillingen",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 40
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "rødt_støttet": "Innstillingen",
+      "rødt_var_på_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.04.2025",
+  "saksnummer_ps": "PS 82/2025",
+  "rodt_fremmet_forslag": false
+}

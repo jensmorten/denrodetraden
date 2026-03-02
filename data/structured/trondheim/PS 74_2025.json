@@ -1,0 +1,33 @@
+{
+  "tittel": "Medlemsforslag - Trondheim trenger en skøytehall - Svein Otto Nilsen (PP)",
+  "innstilling": "Forslaget avvises.",
+  "vedtak": "Forslaget avvises.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Svein Otto Nilsen (PP)",
+      "tekst": "Bystyret ber byrådet legge frem en sak hvor man ser på muligheten til å få etablert en skøytehall på Leangen i samarbeid med Næringslivet og Skøytekretsen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen (avvise forslaget) og Nilsens forslag (arbeide videre med skøytehall på Leangen).",
+      "alternativer": [
+        {
+          "navn": "Innstillingen (avvise forslaget)",
+          "stemmer": 39
+        },
+        {
+          "navn": "Nilsens forslag (arbeide videre med skøytehall på Leangen)",
+          "stemmer": 28
+        }
+      ],
+      "hvem_vant": "Innstillingen (avvise forslaget)",
+      "hvilket_alternativ_Rødt_støttet": "Nilsens forslag (arbeide videre med skøytehall på Leangen)",
+      "Rødt_var_på": "taper-side"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.04.2025",
+  "saksnummer_ps": "PS 74/2025",
+  "rodt_fremmet_forslag": false
+}

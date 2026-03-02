@@ -1,0 +1,37 @@
+{
+  "tittel": "Ledsagerbevis på arenaer der Trondheim kommune har eierinteresser, leier ut grunn eller yter tilskudd til arrangør",
+  "innstilling": null,
+  "vedtak": "Sak ble utsatt i møtet 30. april 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Svein Otto Nilsen (PP)",
+      "tekst": "Bystyret ber Byrådet arbeide for at det innføres retningslinjer som forplikter alle kulturarrangement som arrangeres på kommunal grunn og i lokaler som eies av kommunen eller hvor kommunen er majoritetseier, til å akseptere ledsagerbevis."
+    },
+    {
+      "forslagsstiller": "Sigurd Jan Ingvaldsen (Ap)",
+      "tekst": "Bystyret ber byrådet sikre at arrangører som mottar tilskudd eller leier/låner grunn eller lokaler fra Trondheim kommune, aksepterer ledsagerbevis. Særskilte unntak må begrunnes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelse av saken.",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": "flertall"
+        },
+        {
+          "navn": "Ikke utsettelse",
+          "stemmer": "mindretall"
+        }
+      ],
+      "hvem_vant": "Utsettelse",
+      "hvilket_alternativ_Rødt_støttet": null,
+      "Rødt_var_på_vinner_eller_taper_side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.04.2025",
+  "saksnummer_ps": "PS 79/2025",
+  "rodt_fremmet_forslag": false
+}
