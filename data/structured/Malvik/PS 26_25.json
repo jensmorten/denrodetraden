@@ -1,26 +1,26 @@
 {
-  "tittel": "Konstituering av rådmann",
-  "innstilling": "Ordførers innstilling legges til grunn.",
-  "vedtak": "Morten Bostad konstitueres som rådmann fra dags dato og fram til ny kommunedirektør ansatt.",
+  "tittel": "Pro 1112 Sandfjæra barnehage masseutskifting",
+  "innstilling": "1.Kommunestyret ber kommunedirektøren gå videre med løsningen beskrevet i Alternativ 1, fullstendig utskifting av masser under Sandfjæra barnehage og tilhørende uteareal.\n2.Kommunestyret bevilger totalt 70,9 millioner kroner til prosjektet.\n3.Investeringsbudsjettet økes med 21 millioner kroner i 2025.\n4.Kommunestyret vedtar økt bruk av lån på 17,2 millioner og økt momskompensasjon på 3,8 millioner kroner i 2025.\n5.Kommunedirektøren får fullmakt til å gjennomføre de nødvendige budsjettkorreksjoner.",
+  "vedtak": "1.Kommunestyret ber kommunedirektøren gå videre med løsningen beskrevet i Alternativ 1, fullstendig utskifting av masser under Sandfjæra barnehage og tilhørende uteareal.\n2.Kommunestyret bevilger totalt 70,9 millioner kroner til prosjektet.\n3.Investeringsbudsjettet økes med 21 millioner kroner i 2025.\n4.Kommunestyret vedtar økt bruk av lån på 17,2 millioner og økt momskompensasjon på 3,8 millioner kroner i 2025.\n5.Kommunedirektøren får fullmakt til å gjennomføre de nødvendige budsjettkorreksjoner.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over ordførers innstilling om å konstituere Morten Bostad som rådmann.",
+      "beskrivelse": "Votering over innstillingen til kommunestyret om fullstendig utskifting av masser under Sandfjæra barnehage og tilhørende bevilgninger.",
       "alternativer": [
         {
-          "navn": "Ordførers innstilling",
-          "stemmer": "enstemmig"
+          "navn": "For innstillingen",
+          "stemmer": 31
         }
       ],
-      "vinner": "Ordførers innstilling",
+      "vinner": "For innstillingen",
       "rodt": {
-        "støttet": "Ordførers innstilling",
+        "støttet": "For innstillingen",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "25.03.2025",
+  "dato": "31.03.2025",
   "saksnummer_ps": "PS 26/25",
   "rodt_fremmet_forslag": false
 }

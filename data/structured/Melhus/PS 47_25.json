@@ -1,0 +1,161 @@
+{
+  "tittel": "Kommuneøkonomi - Omstillingstiltak Melhus kommune 2025 - 2028",
+  "innstilling": "Formannskapets vedtak legges til grunn.",
+  "vedtak": "Formannskapet tar rådmannen fremlagte forslag til driftstiltak for å styrke kommuneøkonomien i Melhus kommune for perioden 2025-2028 til orientering. Forslagene fremgår av vedlegg 1-4.\nRådmannen bes i tilknytning til videre behandling av omstillingsprogrammet synliggjøre hvilke reelle endringer i årsverk tiltak innebærer, med reduksjon i årsverk enten direkte knyttet til enkelttiltak eller knyttet til hva sum av enkelttiltak vil gi.\nDet ønskes en snarlig utredning av teknisk drift. Hvilke tjenester bør vi drifte selv? Hvilke tjenester kan settes ut på anbud? Hvilke tjenester kan vi løse i samarbeid med andre kommuner? Vi ønsker også en kost nyttevurdering av dimensjonering av maskinparken; hva bør vi eie selv, og hva kan vi leie.\nKommunestyret ber rådmannen snarest fremlegge oversikt over hvilke tiltak, som ikke trenger politisk behandling, som så langt er gjennomført eller planlagt i de forskjellige enhetene i kommunen. Oversikten må vise forventede varige, og engangsmessige, innsparinger. Oppdatert oversikt skal følge videre behandling av omstillingsprogrammet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marius Krogstad Aune (H)",
+      "tekst": "Tilleggsforslag fra Marius Krogstad Aune (H) på vegner av H: ..."
+    },
+    {
+      "forslagsstiller": "Jørn Ove Moen (AP)",
+      "tekst": "Tilleggsforslag fra Jørn Ove Moen (AP) på vegner av AP, SV, KrF og SV: ..."
+    },
+    {
+      "forslagsstiller": "Lillian Ofstad (PP)",
+      "tekst": "Tilleggsforslag fra Lillian Ofstad (PP) på vegne av PP: ..."
+    },
+    {
+      "forslagsstiller": "Jørn Ove Moen (AP)",
+      "tekst": "Omforent forslag fra AP, SP, SV, KrF og H fremmet av Jørn Ove Moen (AP): ..."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Formannskapets vedtak",
+      "alternativer": [
+        {
+          "navn": "Vedta formannskapets vedtak",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Vedta formannskapets vedtak",
+      "rodt": {
+        "støttet": "Vedta formannskapets vedtak",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Marius Krogstad Aune i punkt 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "vinner": "Mot",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Marius Krogstad Aune i punkt 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "flertall"
+        },
+        {
+          "navn": "Mot (PP)",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Marius Krogstad Aune i punkt 4",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "vinner": "Mot",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Marius Krogstad Aune i punkt 5",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "vinner": "Mot",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Marius Krogstad Aune i punkt 6",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "vinner": "Mot",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Tilleggsforslag fra Lillian Ofstad",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Omforent forslag fra AP, SP, SV, KrF og H",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 47/25",
+  "rodt_fremmet_forslag": false
+}

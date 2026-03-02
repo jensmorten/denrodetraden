@@ -1,0 +1,30 @@
+{
+  "tittel": "Anmodning om bosetting av flyktninger for 2025",
+  "innstilling": "Melhus kommune bosetter 55 flyktninger i 2025, inkludert selvbosetting. Familiegjenforente kommer i tillegg. Hvis behovet i Norge endrer seg, må kommunen ta en ny vurdering. Kommunen bosetter ikke enslige mindreårige flyktninger.",
+  "vedtak": "Melhus kommune bosetter 55 flyktninger i 2025, inkludert selvbosetting. Familiegjenforente kommer i tillegg. Hvis behovet i Norge endrer seg, må kommunen ta en ny vurdering. Kommunen bosetter ikke enslige mindreårige flyktninger.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "flertall"
+        },
+        {
+          "navn": "Mot (Hege Anette Olstad og Ketil Nilsen, FrP)",
+          "stemmer": 2
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 35/25",
+  "rodt_fremmet_forslag": false
+}

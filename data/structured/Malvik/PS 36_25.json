@@ -1,31 +1,35 @@
 {
-  "tittel": "Oppgavefellesskap Helseplattformen",
-  "innstilling": "Formannskapets innstilling legges til grunn.",
-  "vedtak": "Kommunestyret sender saken om tiltredelse til oppgavefellesskapet for Helseplattformen tilbake til rådmannen. Rådmannen bes om å legge frem en ny, nøytral og fullstendig saksutredning.",
+  "tittel": "Samarbeidsavtale mellom St. Olavs hospital HF og Malvik kommune",
+  "innstilling": "Kommunestyret støtter fremlagte, reviderte samarbeidsavtale mellom St. Olavs hospital HF og Malvik kommune, med tilhørende retningslinje «Samarbeid om innleggelse og utskrivelse av pasienter med behov for kommunale tjenester». Ordfører signerer avtalen på vegne av Malvik kommune.",
+  "vedtak": "Kommunestyret støtter fremlagte, reviderte samarbeidsavtale med tillegg om å fjerne formulering som differensierer kommuner med og uten journalsystemet Helseplattformen. Ny formulering legges til om at partene må bidra til at samhandlingsfunksjonalitet i nye løsninger blir så bra som mulig. Ordfører signerer avtalen på vegne av Malvik kommune.",
   "alternative_forslag": [
     {
-      "forslagsstiller": "Hege Annette Olstad (FrP) på vegne av FrP, H og PP",
-      "tekst": "Kommunestyret sender saken om tiltredelse til oppgavefellesskapet for Helseplattformen tilbake til rådmannen. Rådmannen bes om å legge frem en ny, nøytral og fullstendig saksutredning."
+      "forslagsstiller": "Jørgen Enoksen (Høyre)",
+      "tekst": "Tilleggsforslag om endring i kapittel 5.1 i samarbeidsavtalen."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Utsettelsesforslag fra Hege Annette Olstad (FrP) på vegne av FrP, H og PP",
+      "beskrivelse": "Votering over tilleggsforslag om endring i kapittel 5.1 i samarbeidsavtalen fremmet av Jørgen Enoksen (Høyre).",
       "alternativer": [
         {
-          "navn": "Utsettelsesforslag",
-          "stemmer": "enstemmig"
+          "navn": "For tilleggsforslaget",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": null
         }
       ],
-      "vinner": "Utsettelsesforslag",
+      "vinner": "For tilleggsforslaget",
       "rodt": {
-        "støttet": "Utsettelsesforslag",
-        "var_vinner": true
+        "støttet": null,
+        "var_vinner": null
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "25.03.2025",
+  "dato": "28.04.2025",
   "saksnummer_ps": "PS 36/25",
   "rodt_fremmet_forslag": false
 }

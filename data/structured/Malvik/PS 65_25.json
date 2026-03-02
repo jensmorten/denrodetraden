@@ -1,26 +1,26 @@
 {
-  "tittel": "Sluttbehandling - Detaljregulering for rassikringstiltak Dovrebanen, Karivollen - PlanID 2023006",
-  "innstilling": "Formannskapets innstilling legges til grunn.",
-  "vedtak": "Melhus kommune vedtar med hjemmel i plan- og bygningsloven § 12-12 Detaljreguleringsplan for rassikringstiltak Dovrebanen, Karivollen (planid 2023006), som vist i vedlagte planbestemmelser, plankart og planbeskrivelse med vedlegg.",
+  "tittel": "Aksjonæravtale Regionalt pilegrimssenter Stiklestad AS 2026-2031",
+  "innstilling": "Kommunestyret vedtar aksjonæravtale for Regionalt pilegrimssenter Stiklestad AS for perioden 2026-2031.",
+  "vedtak": "Kommunestyret vedtar aksjonæravtale for Regionalt pilegrimssenter Stiklestad AS for perioden 2026-2031.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over formannskapets innstilling.",
+      "beskrivelse": "Votering om kommunedirektørens innstilling til aksjonæravtale for Regionalt pilegrimssenter Stiklestad AS for perioden 2026-2031.",
       "alternativer": [
         {
-          "navn": "Formannskapets innstilling",
-          "stemmer": "enstemmig"
+          "navn": "For innstillingen",
+          "stemmer": 31
         }
       ],
-      "vinner": "Formannskapets innstilling",
+      "vinner": "For innstillingen",
       "rodt": {
-        "støttet": "Formannskapets innstilling",
+        "støttet": "For innstillingen",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "20.05.2025",
+  "dato": "16.06.2025",
   "saksnummer_ps": "PS 65/25",
   "rodt_fremmet_forslag": false
 }

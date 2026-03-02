@@ -1,67 +1,57 @@
 {
-  "tittel": "Endre §4 Tilbudsstruktur \"Lokal forskrift om SFO i Melhus kommune\"",
-  "innstilling": "Rådmannens innstilling legges til grunn.",
-  "vedtak": "Kommunestyret vedtar å endre §4 Tilbudsstruktur i «Lokal forskrift om skolefritidsordningen (SFO) i Melhus kommune med vedtatte endringer.",
+  "tittel": "Økonomireglement",
+  "innstilling": "Kommunestyret vedtar forslag til økonomireglement for Malvik kommune gjeldende fra 4. november 2025, jamfør vedlegg 1.",
+  "vedtak": "Kommunestyret vedtar forslag til økonomireglement for Malvik kommune gjeldende fra 4. november 2025, jamfør vedlegg 1, med følgende endringer:\n\"Kjøp og salg av bebygd og ubebygd eiendommer for inntil 20 millioner kroner per eiendom inklusive ombyggingskostnader. Salg og erverv under 20 millioner kroner legges frem for formannskapet hvis det ansees å ha prinsipiell betydning\". Endres til: \"Kjøp og salg av bebygd og ubebygd eiendommer for inntil 10 millioner kroner per eiendom inklusive ombyggingskostnader. Salg og erverv under 10 millioner kroner legges frem for formannskapet hvis det ansees å ha prinsipiell betydning.\"\n\"Enkeltprosjekt med en kostnadsramme fra og med 30 millioner kroner skal legges fram for kommunestyret som egen sak. Prosjekter med en lavere kostnadsramme skal også legges frem for kommunestyret dersom de er av strategisk eller prinsipiell betydning.\" Endres til: \"Enkeltprosjekt med en kostnadsramme fra og med 20 millioner kroner skal legges fram for kommunestyret som egen sak. Prosjekter med en lavere kostnadsramme skal også legges frem for kommunestyret dersom de er av strategisk eller prinsipiell betydning.\"",
   "alternative_forslag": [
     {
-      "forslagsstiller": "Beate Bjerkenås (AP)",
-      "tekst": "Detaljerte endringer i §4, §2 og §8, se full tekst."
+      "forslagsstiller": "Irén Aina Bastholm (Miljøpartiet De Grønne) på vegne av MDG, H, FrP, PP og INP",
+      "tekst": "\"Kjøp og salg av bebygd og ubebygd eiendommer for inntil 20 millioner kroner per eiendom inklusive ombyggingskostnader. Salg og erverv under 20 millioner kroner legges frem for formannskapet hvis det ansees å ha prinsipiell betydning\". Endres til: \"Kjøp og salg av bebygd og ubebygd eiendommer for inntil 10 millioner kroner per eiendom inklusive ombyggingskostnader. Salg og erverv under 10 millioner kroner legges frem for formannskapet hvis det ansees å ha prinsipiell betydning.\"\n\"Enkeltprosjekt med en kostnadsramme fra og med 30 millioner kroner skal legges fram for kommunestyret som egen sak. Prosjekter med en lavere kostnadsramme skal også legges frem for kommunestyret dersom de er av strategisk eller prinsipiell betydning.\" Endres til: \"Enkeltprosjekt med en kostnadsramme fra og med 20 millioner kroner skal legges fram for kommunestyret som egen sak. Prosjekter med en lavere kostnadsramme skal også legges frem for kommunestyret dersom de er av strategisk eller prinsipiell betydning.\""
     },
     {
-      "forslagsstiller": "Uidentifisert",
-      "tekst": "Endringsforslag om at vedtektene gjøres gjeldende fra 18.08.2025"
+      "forslagsstiller": "Irén Aina Bastholm (Miljøpartiet De Grønne)",
+      "tekst": "Legges til i avsnittet om kostnadsramme P85: Hvis sluttkostnad for et prosjekt kommer til å overstige beregnet sluttkostnad med minst 30 millioner skal det legges frem til politisk behandling."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over endringsforslag fremmet av Beate Bjerkenås (AP)",
+      "beskrivelse": "Votering over endringsforslaget fra Irén Aina Bastholm (MDG) på vegne av MDG, H, FrP, PP og INP",
       "alternativer": [
         {
-          "navn": "Endringsforslag fra Beate Bjerkenås (AP)",
-          "stemmer": 37
+          "navn": "For",
+          "stemmer": 28
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 3
         }
       ],
-      "vinner": "Endringsforslag fra Beate Bjerkenås (AP)",
+      "vinner": "For",
       "rodt": {
-        "støttet": "Endringsforslag fra Beate Bjerkenås (AP)",
+        "støttet": "For",
         "var_vinner": true
       }
     },
     {
-      "beskrivelse": "Votering over innstillingen med endringsforslag",
+      "beskrivelse": "Votering over innstillingen til kommunestyret",
       "alternativer": [
         {
-          "navn": "Innstillingen med endringsforslag",
-          "stemmer": 36
+          "navn": "For",
+          "stemmer": 31
         },
         {
-          "navn": "Mot",
-          "stemmer": 1
+          "navn": "Imot",
+          "stemmer": 0
         }
       ],
-      "vinner": "Innstillingen med endringsforslag",
+      "vinner": "For",
       "rodt": {
-        "støttet": "Mot",
-        "var_vinner": false
-      }
-    },
-    {
-      "beskrivelse": "Votering over at vedtektene gjøres gjeldende fra 18.08.2025",
-      "alternativer": [
-        {
-          "navn": "Vedtektene gjøres gjeldende fra 18.08.2025",
-          "stemmer": 37
-        }
-      ],
-      "vinner": "Vedtektene gjøres gjeldende fra 18.08.2025",
-      "rodt": {
-        "støttet": "Vedtektene gjøres gjeldende fra 18.08.2025",
+        "støttet": "For",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "17.06.2025",
+  "dato": "03.11.2025",
   "saksnummer_ps": "PS 85/25",
   "rodt_fremmet_forslag": false
 }

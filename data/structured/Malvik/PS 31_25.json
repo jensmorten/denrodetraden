@@ -1,26 +1,45 @@
 {
-  "tittel": "Årsmelding 2024 - Kraftfond og Næringsfond",
-  "innstilling": "Rådmannens innstilling legges til grunn.",
-  "vedtak": "Kommunestyret tar årsmelding for kraftfond og næringsfond 2024 til orientering. I tråd med vedtektene for kraftfondet oversendes gjenpart av årsmeldingen til Statsforvalteren i Trøndelag og Trøndelag Fylkeskommune.",
-  "alternative_forslag": [],
+  "tittel": "Nytt regionråd for Trondheimsregionen - Trondheimsalliansen IPR",
+  "innstilling": "1. Malvik kommune takker ja til invitasjonen fra Trondheim kommune for deltakelse i Trondheimsalliansen interkommunale politiske råd og vedtar forslag til samarbeidsavtale.\n2. I tillegg til ordfører/varaordfører oppnevnes en politisk representant.\nSom fast representant velges:\nSom vara velges:",
+  "vedtak": "1. Malvik kommune takker ja til invitasjonen fra Trondheim kommune for deltakelse i Trondheimsalliansen interkommunale politiske råd og vedtar forslag til samarbeidsavtale.\n2. I tillegg til ordfører/varaordfører oppnevnes en politisk representant.\nSom fast representant velges: Trond Hoseth AP\nSom vara velges: Thomas Ulstad SV",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Matz Ulstad (Arbeiderpartiet)",
+      "tekst": "Som fast representant velges: Trond Hoseth, AP\nSom vara velges: Thomas Ulstad, SV"
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over rådmannens innstilling.",
+      "beskrivelse": "Votering over tilleggsforslaget fra Matz Ulstad (AP) om valg av fast representant og vara.",
       "alternativer": [
         {
-          "navn": "Rådmannens innstilling",
-          "stemmer": "enstemmig"
+          "navn": "For tilleggsforslaget",
+          "stemmer": 31
         }
       ],
-      "vinner": "Rådmannens innstilling",
+      "vinner": "For tilleggsforslaget",
       "rodt": {
-        "støttet": "Rådmannens innstilling",
+        "støttet": "For tilleggsforslaget",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over innstillingen om deltakelse i Trondheimsalliansen og oppnevning av politisk representant.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "25.03.2025",
+  "dato": "31.03.2025",
   "saksnummer_ps": "PS 31/25",
   "rodt_fremmet_forslag": false
 }

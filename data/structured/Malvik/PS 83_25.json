@@ -1,26 +1,31 @@
 {
-  "tittel": "Tilstandsrapport Grunnskole 2024",
-  "innstilling": null,
-  "vedtak": "Utsatt til neste møte.",
-  "alternative_forslag": [],
+  "tittel": "Valg av godkjennere",
+  "innstilling": "Paul Ujiting og Turid Eidem Olsen godkjenner protokollen sammen med ordfører.",
+  "vedtak": "Paul Ujiting og Turid Eidem Olsen godkjenner protokollen sammen med ordfører.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "Paul Ujiting og Turid Eidem Olsen godkjenner protokollen sammen med ordfører."
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Forslag om å utsette saken.",
+      "beskrivelse": "Votering over forslaget om godkjenning av protokollen med Paul Ujiting og Turid Eidem Olsen sammen med ordfører.",
       "alternativer": [
         {
-          "navn": "Utsettelse",
-          "stemmer": "enstemmig"
+          "navn": "For forslaget",
+          "stemmer": 31
         }
       ],
-      "vinner": "Utsettelse",
+      "vinner": "For forslaget",
       "rodt": {
-        "støttet": "Utsettelse",
+        "støttet": "For forslaget",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "17.06.2025",
+  "dato": "03.11.2025",
   "saksnummer_ps": "PS 83/25",
   "rodt_fremmet_forslag": false
 }

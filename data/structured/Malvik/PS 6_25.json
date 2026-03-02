@@ -1,49 +1,75 @@
 {
-  "tittel": "Revidert selskapsavtale for ReMidt",
-  "innstilling": "Rådmannens forslag til vedtak legges til grunn.",
-  "vedtak": "Revidert selskapsavtale for ReMidt IKS datert 18.11.24 vedtas. Oversendes representantene i rep.skapet.",
+  "tittel": "Vurdering av skolevei fra Muruvik til Hommelvik",
+  "innstilling": "Kommunedirektørens vurdering tas til orientering. Skolebarn på 2. og 3. trinn i Muruvik får innvilget skoleskyss på lik linje med skolebarn i 1. trinn.",
+  "vedtak": "Saken sendes tilbake til kommunedirektøren og vi ber om at uavhengige kilder får delta i vurdering av rapporten. Det må også klargjøres opp mot veiledere som setter grenser for f.eksgangtid eller forutsetninger for fotgjengeroverganger. En må også utfordre veieier og ansvarlig for avstandsmåleren hvordan en håndterer utrygge veistrekninger som mulig skolevei. Vurdering av undergang eller kulvert for kryssing av fylkesvei 950 på Hommelvik høyden, spilles inn som forslag til miljøpakke tiltak fra Malvik kommune. Kommunedirektøren bes komme tilbake til kommunestyret med en sak som vurderer mulighetene for å få belysning og vinterbrøyting på Malvikstien slik at denne kan benyttes som skolevei, men også for å øke tilgjengeligheten på stien for resten av befolkningen.",
   "alternative_forslag": [
     {
-      "forslagsstiller": "Karin Jordan Rutlin (INP)",
-      "tekst": "Økningen i lånerammen til fra 400 - 800 millioner kroner gir muligheter, men også en betydelig økonomisk forpliktelse for kommunene. Det er avgjørende at vi sikrer økonomisk kontroll og ikke risikerer høyere renovasjonsgebyrer. Vi foreslår en begrensning på hva lånene kan brukes til og kreve en strategi for ansvarlig gjeldsforvaltning. Når det gjelder utvidelsen av styret fra 7 til 9 medlemmer, må vi spørre oss om dette faktisk styrker styringen av selskapet eller bare fører til mer byråkrati. Hvis flere medlemmer gir bedre representasjon og mer demokratisk kontroll, kan det være fornuftig, men dette bør vurderes nøye. Videre må vi ikke glemme innbyggerne – de må skjermes mot urimelige kostnadsøkninger. Derfor bør det sette krav om en makspris eller en annen form for prisregulering slik at folk ikke ender opp med betydelig høyere utgifter for renovasjonstjenester. Til slutt må vi sikre at viktige avfallstyper, som plast fra jordbruket, får en garanti og tilfredsstillende løsning for behandling. Landbruket er en viktig næring i våre kommuner, og vi må unngå at bønder blir sittende igjen uten reelle alternativer for avfallshåndtering."
+      "forslagsstiller": "Anders Frost (Høyre)",
+      "tekst": "Vurdering av undergang eller kulvert for kryssing av fylkesvei 950 på Hommelvik høyden, spilles inn som forslag til miljøpakke tiltak fra Malvik kommune."
+    },
+    {
+      "forslagsstiller": "Trond Hoseth (Arbeiderpartiet) på vegne av AP og V",
+      "tekst": "Saken sendes tilbake til kommunedirektøren og vi ber om at uavhengige kilder får delta i vurdering av rapporten. Det må også klargjøres opp mot veiledere som setter grenser for f.eksgangtid eller forutsetninger for fotgjengeroverganger. En må også utfordre veieier og ansvarlig for avstandsmåleren hvordan en håndterer utrygge veistrekninger som mulig skolevei."
+    },
+    {
+      "forslagsstiller": "Rakel Trondal (Sosialistisk Venstreparti)",
+      "tekst": "Kommunedirektøren bes komme tilbake til kommunestyret med en sak som vurderer mulighetene for å få belysning og vinterbrøyting på Malvikstien slik at denne kan benyttes som skolevei, men også for å øke tilgjengeligheten på stien for resten av befolkningen."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over endringsforslag fremmet av representant Rutlien (INP)",
+      "beskrivelse": "Votering mellom kommunedirektørens innstilling og Trond Hoseths alternative forslag på vegne av AP og V.",
       "alternativer": [
         {
-          "navn": "Endringsforslag fra Rutlien (INP)",
-          "stemmer": 1
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 0
         },
         {
-          "navn": "Mot endringsforslaget",
-          "stemmer": 35
+          "navn": "Trond Hoseths alternative forslag (AP og V)",
+          "stemmer": 31
         }
       ],
-      "vinner": "Mot endringsforslaget",
+      "vinner": "Trond Hoseths alternative forslag (AP og V)",
       "rodt": {
-        "støttet": "Mot endringsforslaget",
+        "støttet": "Trond Hoseths alternative forslag (AP og V)",
         "var_vinner": true
       }
     },
     {
-      "beskrivelse": "Votering over rådmannens forslag til vedtak",
+      "beskrivelse": "Votering om tilleggsforslag fra Anders Frost (Høyre).",
       "alternativer": [
         {
-          "navn": "Rådmannens forslag til vedtak",
-          "stemmer": 36
+          "navn": "Tilleggsforslag fra Anders Frost (Høyre)",
+          "stemmer": 31
         }
       ],
-      "vinner": "Rådmannens forslag til vedtak",
+      "vinner": "Tilleggsforslag fra Anders Frost (Høyre)",
       "rodt": {
-        "støttet": "Rådmannens forslag til vedtak",
+        "støttet": "Tilleggsforslag fra Anders Frost (Høyre)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering om tilleggsforslag fra Rakel Trondal (Sosialistisk Venstreparti).",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslag fra Rakel Trondal (SV)",
+          "stemmer": 18
+        },
+        {
+          "navn": "Imot tilleggsforslag fra Rakel Trondal (SV)",
+          "stemmer": 13
+        }
+      ],
+      "vinner": "For tilleggsforslag fra Rakel Trondal (SV)",
+      "rodt": {
+        "støttet": "For tilleggsforslag fra Rakel Trondal (SV)",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "11.02.2025",
+  "dato": "27.01.2025",
   "saksnummer_ps": "PS 6/25",
   "rodt_fremmet_forslag": false
 }

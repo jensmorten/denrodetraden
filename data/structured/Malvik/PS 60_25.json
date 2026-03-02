@@ -1,26 +1,75 @@
 {
-  "tittel": "Jordvernstrategi for Melhus kommune - sluttbehandling",
-  "innstilling": null,
-  "vedtak": "Sak utsatt til neste møte.",
-  "alternative_forslag": [],
+  "tittel": "Vurdering av skolevei Muruvik - Hommelvik - ny behandling",
+  "innstilling": "Ordningen med automatisk innvilgelse av skoleskyss for elever bosatt i Muruvik avvikles fra og med skoleåret 2025/2026. Fremover vil søknader om skoleskyss fra dette området bli behandlet individuelt, på lik linje med øvrige elever i Malvik kommune.",
+  "vedtak": "Malvik kommune avvikler ikke ordningen med automatisk gratis skoleskyss for skoleåret 2025/2026 for skolebarn bosatt i Muruvik. Saken sendes tilbake med behov for en ny sak som inkluderer deltakelse fra Trygg Trafikk i utarbeidelsen av en ny faktabasert rapport. Denne rapporten må inneholde vurderinger som baserer seg på faktiske forhold. Dette inkluderer siktmålinger og en helhetlig risikovurdering på om hele skoleveien kan anses som trygg eller farlig. En ny sak må inkludere Hommelvikhøgda og andre høyrisikovurderinger - med dokumentert historikk og reelle trafikktall.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Turid Eidem Olsen (Arbeiderpartiet)",
+      "tekst": "Malvik kommune avvikler ikke ordningen med automatisk gratis skoleskyss for skoleåret 2025/2026 for skolebarn bosatt i Muruvik. Saken sendes tilbake med behov for en ny sak som inkluderer deltakelse fra Trygg Trafikk i utarbeidelsen av en ny faktabasert rapport. Denne rapporten må inneholde vurderinger som baserer seg på faktiske forhold. Dette inkluderer siktmålinger og en helhetlig risikovurdering på om hele skoleveien kan anses som trygg eller farlig. En ny sak må inkludere Hommelvikhøgda og andre høyrisikovurderinger - med dokumentert historikk og reelle trafikktall."
+    },
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Kommunestyret ber kommunedirektøren komme tilbake med forslag til ny vurderingspraksis for skoleskyss i kommunen. Elever i Muruvik skal få automatisk innvilgelse av skoleskyss samtidig med at likebehandling ivaretas for andre deler av kommunen (f.eks Selbuvegen, Vuluvegen og Hasetvegen). Saken skal belyse kostnaden for dette."
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Forslag om å utsette saken.",
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
       "alternativer": [
         {
-          "navn": "Utsette saken",
-          "stemmer": "enstemmig"
+          "navn": "For innstillingen",
+          "stemmer": 7
+        },
+        {
+          "navn": "Imot innstillingen",
+          "stemmer": 24
         }
       ],
-      "vinner": "Utsette saken",
+      "vinner": "Imot innstillingen",
       "rodt": {
-        "støttet": "Utsette saken",
+        "støttet": "Imot innstillingen",
         "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over Turid Eidem Olsens (AP) endringsforslag",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": 24
+        },
+        {
+          "navn": "Imot endringsforslaget",
+          "stemmer": 7
+        }
+      ],
+      "vinner": "For endringsforslaget",
+      "rodt": {
+        "støttet": "For endringsforslaget",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over Jens Morten Nilsens (Rødt) alternative forslag",
+      "alternativer": [
+        {
+          "navn": "For alternativt forslag",
+          "stemmer": 10
+        },
+        {
+          "navn": "Imot alternativt forslag",
+          "stemmer": 21
+        }
+      ],
+      "vinner": "Imot alternativt forslag",
+      "rodt": {
+        "støttet": "For alternativt forslag",
+        "var_vinner": false
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "20.05.2025",
+  "dato": "16.06.2025",
   "saksnummer_ps": "PS 60/25",
-  "rodt_fremmet_forslag": false
+  "rodt_fremmet_forslag": true
 }

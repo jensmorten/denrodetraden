@@ -1,0 +1,71 @@
+{
+  "tittel": "Ansettelsesutvalg rekruttering av kommunedirektør",
+  "innstilling": "Ordførers innstilling legges til grunn.",
+  "vedtak": "Kommunestyret vedtar følgende medlemmer i ansettelsesutvalget ifm rekruttering av kommunedirektør:\n• Ordfører Einar Gimse-Syrstad\n• Leder UHOK Lill-Therese Moshaug Varsi\n• Leder for mindretallet Marius Krogstad Aune\n• Representant fra administrasjonen personalsjef Joacim A Kristiansen\n• Representant for de ansatte (tillitsvalgt)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anja Sterten (AP) på vegner av AP, SV, KrF og SP",
+      "tekst": "Kommunestyret erstatter Varaordfører Fritz Arne Haugen med komiteleder HOKU, Lill-Therese Varsi, i ansettelsesutvalget. Dette for å bedre kjønnsbalansen i utvalget."
+    },
+    {
+      "forslagsstiller": "Lillian Lervik Ofstad (PP) på vegner av PP",
+      "tekst": "Hege Anette Olstad foreslås i tillegg for å styrke kvinneandelen i utvalget."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fra Lillian Lervik Ofstad (PP) om å tilføye Hege Anette Olstad.",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": 10
+        },
+        {
+          "navn": "Mot endringsforslaget",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Mot endringsforslaget",
+      "rodt": {
+        "støttet": "Mot endringsforslaget",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over endringsforslag fra Anja Sterten (AP) om å erstatte varaordfører med Lill-Therese Varsi.",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": null
+        },
+        {
+          "navn": "Mot endringsforslaget (ML)",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "For endringsforslaget",
+      "rodt": {
+        "støttet": "For endringsforslaget",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over ordførers innstilling med vedtatt endringsforslag.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen med endringsforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For innstillingen med endringsforslag",
+      "rodt": {
+        "støttet": "For innstillingen med endringsforslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 53/25",
+  "rodt_fremmet_forslag": false
+}

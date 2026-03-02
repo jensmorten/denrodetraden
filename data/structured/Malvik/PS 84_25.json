@@ -1,26 +1,45 @@
 {
-  "tittel": "Tilstandsrapport for barnevernstjenesten i Melhus og Skaun 2024",
-  "innstilling": "Rådmannens innstilling legges til grunn.",
-  "vedtak": "Melhus kommunestyre tar tilstandsrapport for barneverntjenesten i Melhus og Skaun 2024 til orientering.",
-  "alternative_forslag": [],
+  "tittel": "2. tertialrapport 2025",
+  "innstilling": "1.Kommunestyret tar rapporten for 2. tertial 2025 til orientering.\n2.Kommunestyret tar finansrapporten for 2. tertial 2025 til orientering.\n3.Kommunestyret tar oppfølging av vedtak og oppdrag for 2. tertial 2025 til orientering.\n4.Kommunestyret foretar følgende korrigeringer av driftsbudsjettet: ... (se full tekst for detaljer) ...\n5.Kommunestyret foretar følgende korrigeringer av investeringsbudsjett: ... (se full tekst for detaljer) ...\n6.Kommunestyret vedtar å ta opp lån for inntil 216 millioner kroner, en reduksjon på 44 millioner kroner sammenlignet med første tertialrapport.\n7.Kommunestyret gir kommunedirektøren fullmakt til å gjennomføre de nødvendige budsjettkorreksjonene.",
+  "vedtak": "Endringsforslaget fremmet av Eugen Sørmo (Høyre) på vegne av H, MDG, FrP, PP og INP ble vedtatt med 31 stemmer for.\nInnstillingen ble deretter vedtatt med 31 stemmer for.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eugen Sørmo (Høyre) på vegne av H, MDG, FrP, PP og INP",
+      "tekst": "1. Tekst over tabell 1 \"Forslag til budsjettendringer, beløp i 1000 kroner\" erstattes med «Forslag til budsjettendringer, beløp i mill. kroner»\n2. Tekst over tabell 2 \"Forslag til budsjettendringer, beløp i 1000 kroner» erstattes med «Forslag til budsjettendringer, beløp i mill. kroner»\n3. Videreutlån Malvik IL: «Malvik kommune har etter inngått avtale med Malvik IL lånt ut 4 450 millioner kroner til Malvik IL i 2025» endres til «Malvik kommune har etter inngått avtale med Malvik IL lånt ut 4, 45 millioner kroner til Malvik IL i 2025»"
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over rådmannens innstilling.",
+      "beskrivelse": "Votering over endringsforslaget fremmet av Eugen Sørmo (Høyre) på vegne av H, MDG, FrP, PP og INP",
       "alternativer": [
         {
-          "navn": "Rådmannens innstilling",
-          "stemmer": "enstemmig"
+          "navn": "For",
+          "stemmer": 31
         }
       ],
-      "vinner": "Rådmannens innstilling",
+      "vinner": "For",
       "rodt": {
-        "støttet": "Rådmannens innstilling",
+        "støttet": "For",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over innstillingen til kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "17.06.2025",
+  "dato": "03.11.2025",
   "saksnummer_ps": "PS 84/25",
   "rodt_fremmet_forslag": false
 }

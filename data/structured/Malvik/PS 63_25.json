@@ -1,26 +1,35 @@
 {
-  "tittel": "Ekspropriasjon for erverv av grunn til nytt fortau, gnr/bnr 215/49",
-  "innstilling": "Formannskapets innstilling legges til grunn.",
-  "vedtak": "1. Melhus kommune vedtar med hjemmel i Plan- og bygningsloven § 16-2 å ekspropriere del av gnr. 215, bnr. 49 av Charlotte Nadine Stout. Ekspropriasjonen omfatter varig ekspropriasjon av arealet er som vist i vedlegg 7, markert med grønn og rosa farge og utgjør 26 kvadratmeter jf. «Detaljregulering Lyngenvegen – fortau» Planid 2014001.\n2. Klage over vedtak om ekspropriasjon skal ikke ha utsettende virkning, jf. oreigningslova § 5\n3. Melhus kommune begjærer skjønn til fastsettelse av erstatning.",
-  "alternative_forslag": [],
+  "tittel": "Dagsturhytta",
+  "innstilling": "1.Malvik kommune tar imot Dagsturhytta, og Dagsturhytta plasseres på tomt ved Ertstjønna i Malvikmarka, i tråd med kriterier og ny befaringsrapport fra Trøndelag fylkeskommune.\n2.Kommunedirektøren gis fullmakt til å fortsette dialog for å inngå grunneieravtale med Statskog.\n3.Kommunedirektøren gis fullmakt til å inngå driftsavtale for Dagsturhytta med en frivillig forening.\n4.Det settes opp sanitæranlegg ved Dagsturhytta.\n5.Det bevilges 425 000 kroner til Dagsturhytta, turvei og sanitæranlegg fra Malvik kommunes Friområdefond.",
+  "vedtak": "1.Malvik kommune tar imot Dagsturhytta, og Dagsturhytta plasseres på tomt ved Ertstjønna i Malvikmarka, i tråd med kriterier og ny befaringsrapport fra Trøndelag fylkeskommune.\n2.Kommunedirektøren gis fullmakt til å fortsette dialog for å inngå grunneieravtale med Statskog.\n3.Kommunedirektøren gis fullmakt til å inngå driftsavtale for Dagsturhytta med en frivillig forening.\n4.Det settes opp sanitæranlegg ved Dagsturhytta.\n5.Det bevilges 425 000 kroner til Dagsturhytta, turvei og sanitæranlegg fra Malvik kommunes Friområdefond.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "May Britt Kjelsaas (på vegne av SV og V)",
+      "tekst": "Vi ber kommunedirektøren jobbe videre med ny plassering av dagsturhytte i Malvik."
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over formannskapets innstilling.",
+      "beskrivelse": "Innstillingen ble satt opp mot alternativt forslag fra SV og V",
       "alternativer": [
         {
-          "navn": "Formannskapets innstilling",
-          "stemmer": "enstemmig"
+          "navn": "For innstillingen",
+          "stemmer": 19
+        },
+        {
+          "navn": "For forslag fra SV og V",
+          "stemmer": 12
         }
       ],
-      "vinner": "Formannskapets innstilling",
+      "vinner": "For innstillingen",
       "rodt": {
-        "støttet": "Formannskapets innstilling",
+        "støttet": "For innstillingen",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "20.05.2025",
+  "dato": "16.06.2025",
   "saksnummer_ps": "PS 63/25",
   "rodt_fremmet_forslag": false
 }

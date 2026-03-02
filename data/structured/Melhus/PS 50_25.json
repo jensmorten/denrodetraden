@@ -1,0 +1,26 @@
+{
+  "tittel": "Søknad om fritak fra politiske verv - Stine Estenstad - videreføring",
+  "innstilling": "Valgnemndas vedtak legges til grunn.",
+  "vedtak": "Stine Estenstad (H) innvilges fritak fra sine politiske verv i formannskapet 19.03.2025 og ut perioden. I perioden 19.03.2025 og ut perioden er følgende gjeldene: Som fast representant for Høyre i formannskapet inntrer Vidar Krogh Albertsen. Som ny vara inn for opposisjonen inntrer Kjell Arne Stokke.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgnemndas vedtak om fritak for Stine Estenstad og nye representanter.",
+      "alternativer": [
+        {
+          "navn": "Valgnemndas vedtak",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgnemndas vedtak",
+      "rodt": {
+        "støttet": "Valgnemndas vedtak",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 50/25",
+  "rodt_fremmet_forslag": false
+}

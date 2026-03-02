@@ -1,0 +1,79 @@
+{
+  "tittel": "Rådmannens forslag til innspill debatthefte for tariffoppgjøret 2025",
+  "innstilling": "Rådmannens forslag til vedtak legge til grunn.",
+  "vedtak": "Kommunestyret vedtar at Melhus kommune gir innspill til Debatthefte 2025, spørsmål 5-7 iht rådmannens saksutredning, med følgende endring: Siste avsnitt i svar på spørsmål 7 strykes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørund Ofstad (Pp)",
+      "tekst": "Stryke eksisterende pkt 7: \"Melhus kommune vil forsterke arbeidet med omstilling, ulike arbeidstidsordninger, oppgavedeling og bruk av kompetanse, tiltak for å redusere fravær og andre tiltak for å bruke arbeidskraftressursene best mulig.\""
+    },
+    {
+      "forslagsstiller": "Jørn Ove Moen (AP) på vegner av AP, SP, SV og KrF",
+      "tekst": "Kommunestyret vedtar at Melhus kommune gir innspill til Debatthefte 2025, spørsmål 5-7 iht rådmannens saksutredning, med følgende endring: Siste avsnitt i svar på spørsmål 7 strykes."
+    },
+    {
+      "forslagsstiller": "Marius Krogstad Aune (H) på vegner av H",
+      "tekst": "Kommunestyret vedtar at Melhus kommune gir innspill til Debatthefte 2025, spørsmål 5-7 iht rådmannens saksutredning."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Endringsforslag fremmet av Jørund Ofstad (Pp) om å stryke eksisterende pkt 7.",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget (INP, PP, R)",
+          "stemmer": 5
+        },
+        {
+          "navn": "Mot endringsforslaget",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "Mot endringsforslaget",
+      "rodt": {
+        "støttet": "For endringsforslaget (INP, PP, R)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Endringsforslag fremmet av Jørn Ove Moen (AP) om å stryke siste avsnitt i svar på spørsmål 7.",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget (AP, SP, SV, KrF, m.fl.)",
+          "stemmer": 22
+        },
+        {
+          "navn": "Mot endringsforslaget (H, FrP, INP, PP og R)",
+          "stemmer": 14
+        }
+      ],
+      "vinner": "For endringsforslaget (AP, SP, SV, KrF, m.fl.)",
+      "rodt": {
+        "støttet": "Mot endringsforslaget (H, FrP, INP, PP og R)",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Forslag til vedtak fremmet av Marius Krogstad Aune (H) mot endringsforslag fremmet av Jørn Ove Moen.",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Marius Krogstad Aune (H og FrP)",
+          "stemmer": 9
+        },
+        {
+          "navn": "Endringsforslag fra Jørn Ove Moen",
+          "stemmer": 27
+        }
+      ],
+      "vinner": "Endringsforslag fra Jørn Ove Moen",
+      "rodt": {
+        "støttet": "Endringsforslag fra Jørn Ove Moen",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "11.02.2025",
+  "saksnummer_ps": "PS 9/25",
+  "rodt_fremmet_forslag": false
+}

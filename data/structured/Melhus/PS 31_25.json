@@ -1,0 +1,26 @@
+{
+  "tittel": "Årsmelding 2024 - Kraftfond og Næringsfond",
+  "innstilling": "Rådmannens innstilling legges til grunn.",
+  "vedtak": "Kommunestyret tar årsmelding for kraftfond og næringsfond 2024 til orientering. I tråd med vedtektene for kraftfondet oversendes gjenpart av årsmeldingen til Statsforvalteren i Trøndelag og Trøndelag Fylkeskommune.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Rådmannens innstilling",
+      "rodt": {
+        "støttet": "Rådmannens innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 31/25",
+  "rodt_fremmet_forslag": false
+}

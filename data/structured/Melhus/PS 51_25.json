@@ -1,0 +1,26 @@
+{
+  "tittel": "Fritak fra politiske verv - Atle Grytbach",
+  "innstilling": "Valgnemndas vedtak legges til grunn.",
+  "vedtak": "Atle Grytbach (PP) innvilges fritak fra sitt politiske verv i kommunestyret. Fra dato for innvilget fritak og ut perioden er følgende gjeldende: Som ny vararepresentant i kommunestyret trer Kjell Arne Stokke inn.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Valgnemndas vedtak legges til grunn.",
+      "alternativer": [
+        {
+          "navn": "Valgnemndas vedtak",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgnemndas vedtak",
+      "rodt": {
+        "støttet": "Valgnemndas vedtak",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 51/25",
+  "rodt_fremmet_forslag": false
+}

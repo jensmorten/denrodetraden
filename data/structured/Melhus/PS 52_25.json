@@ -1,0 +1,45 @@
+{
+  "tittel": "Fritak fra politiske verv - Gunnar Andreas Johansen",
+  "innstilling": "Valgnemndas vedtak legges til grunn.",
+  "vedtak": "Gunnar Andreas Johansen (PP) innvilges fritak fra sitt politiske verv som fast medlem i kommunestyret og utvalg for teknikk og miljø fra vedtaksdato og ut perioden. Som ny fast representant for Pensjonistpartiet i kommunestyret inntrer Johan Richard Fjelly Brevik. Som nytt fast medlem i utvalg for teknikk og miljø inntrer Kristin Marken. Som nytt varamedlem i formannskapet inntrer Johan Richard Fjelly Brevik.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marius Krogstad Aune (H) på vegne av PP, H, ML og FrP",
+      "tekst": "Som nytt fast medlem i utvalg for teknikk og miljø inntrer Kristin Marken."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag om at Kristin Marken inntrer som nytt fast medlem i utvalg for teknikk og miljø.",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag (Kristin Marken inntrer)",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Endringsforslag (Kristin Marken inntrer)",
+      "rodt": {
+        "støttet": "Endringsforslag (Kristin Marken inntrer)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over valgnemndas innstilling med endringsforslag.",
+      "alternativer": [
+        {
+          "navn": "Valgnemndas innstilling med endringsforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgnemndas innstilling med endringsforslag",
+      "rodt": {
+        "støttet": "Valgnemndas innstilling med endringsforslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 52/25",
+  "rodt_fremmet_forslag": false
+}

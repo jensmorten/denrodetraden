@@ -1,15 +1,31 @@
 {
-  "tittel": "Interpellasjon - Kommunestyret 20.05.2025 - investeringer og ressursbruk knytta til driftssentralen på Søberg - Lillian Ofstad, Pensjonistpartiet",
-  "innstilling": null,
-  "vedtak": "Interpellasjon trukket av interpellanten.",
-  "alternative_forslag": [],
-  "voteringer": [],
-  "rodt": {
-    "støttet": null,
-    "var_vinner": null
-  },
+  "tittel": "Valg av godkjennere",
+  "innstilling": "Turid Eidem Olsen (Arbeiderpartiet) og Paul Uijting (Høyre) godkjenner protokoll i tillegg til ordfører for høstsesjonen 2025.",
+  "vedtak": "Turid Eidem Olsen (Arbeiderpartiet) og Paul Uijting (Høyre) godkjenner protokoll i tillegg til ordfører for høstsesjonen 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "Turid Eidem Olsen (Arbeiderpartiet) og Paul Uijting (Høyre) godkjenner protokoll i tillegg til ordfører for høstsesjonen 2025."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om godkjenning av protokoll ved Turid Eidem Olsen og Paul Uijting som godkjennere i tillegg til ordfører for høstsesjonen 2025.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": true
+      }
+    }
+  ],
   "kommune": "Malvik",
-  "dato": "20.05.2025",
+  "dato": "25.08.2025",
   "saksnummer_ps": "PS 67/25",
   "rodt_fremmet_forslag": false
 }

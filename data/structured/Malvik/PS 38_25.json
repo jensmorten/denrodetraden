@@ -1,15 +1,35 @@
 {
-  "tittel": "Interpellasjon - Kommunestyret 11.02.2025 - Musikkbasert miljøbehandling - Rasmus Stafne Kjøsen - SV",
-  "innstilling": null,
-  "vedtak": "Svar på interpellasjon – Kompetansemidler til musikkbasert miljøbehandling (MMB)\nFra rådmannen sin side så sees det svært positivt på musikkbasert miljøbehandling (MMB) som metode for å styrke helse, trivsel og livskvalitet for innbyggere i Melhus kommune. Erfaringene fra vår kommune og forskningsbasert kunnskap viser at musikk kan ha betydelig effekt innenfor helse- og omsorgssektoren, samt i oppvekstsektoren.\nSom det påpekes i interpellasjonen, har Melhus kommune allerede tatt i bruk MMB i enkelte tjenester, blant annet gjennom helsekoret og andre aktiviteter i helse- og omsorgssektoren. For å styrke dette arbeidet vil det bli startet en søknadsprosess for kompetansemidler gjennom Statsforvalterens tilskuddsordning for kommunalt kompetanse- og tjenesteutviklingstilskudd. Denne ordningen er en del av Kompetanseløft 2025 og har som formål å støtte kompetanseheving og tjenesteutvikling innen omsorgssektoren.\nVidere vil en vurdere muligheten for å søke om midler fra KS, som har støtteordninger for kompetanseheving og innovasjon i kommunesektoren. En samordnet innsats for finansiering vil styrke kommunens muligheter til å gjennomføre tiltaket på en bærekraftig måte.",
-  "alternative_forslag": [],
-  "voteringer": [],
-  "rodt": {
-    "støttet": null,
-    "var_vinner": null
-  },
+  "tittel": "Reviderte satser for matombringing og matabonnement fra 1.5.2025",
+  "innstilling": "Forslag til reviderte betalingssatser for matombringing (varm mat) og matabonnement vedtas. Betalingssatsene gjøres gjeldende fra 1.5.2025.",
+  "vedtak": "Forslag til reviderte betalingssatser vedtas med endring: Standardmiddag m/dessert Kr. 146,00, Standardmiddag u/dessert Kr. 132,00, Spesialkost Kr. 154,00, Fullkostabbonnement Kr. 5 940,00. Økning på kr. 7,00 per dag i stedet for kr. 5,00 per dag (30 dager). Betalingssatsene gjøres gjeldende fra 1.5.2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anders Frost (Høyre)",
+      "tekst": "Endringsforslag med nye satser som følger: Standardmiddag m/dessert Kr. 146,00, Standardmiddag u/dessert Kr. 132,00, Spesialkost Kr. 154,00, Fullkostabbonnement Kr. 5 940,00, og økning på kr. 7,00 per dag i stedet for kr. 5,00 per dag (30 dager)."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslaget fremmet av Anders Frost (Høyre) med nye satser.",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": 17
+        },
+        {
+          "navn": "Imot endringsforslaget",
+          "stemmer": 14
+        }
+      ],
+      "vinner": "For endringsforslaget",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
   "kommune": "Malvik",
-  "dato": "25.03.2025",
+  "dato": "28.04.2025",
   "saksnummer_ps": "PS 38/25",
   "rodt_fremmet_forslag": false
 }

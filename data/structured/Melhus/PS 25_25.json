@@ -1,0 +1,26 @@
+{
+  "tittel": "Avslutning av ansettelsesforhold rådmann - avtale",
+  "innstilling": "Ordførers innstiling legges til grunn.",
+  "vedtak": "Avtale om avslutning av rådmannens arbeidsforhold godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordførers innstilling om å godkjenne avtale om avslutning av rådmannens arbeidsforhold.",
+      "alternativer": [
+        {
+          "navn": "Ordførers innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Ordførers innstilling",
+      "rodt": {
+        "støttet": "Ordførers innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 25/25",
+  "rodt_fremmet_forslag": false
+}

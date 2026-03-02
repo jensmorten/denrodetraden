@@ -1,45 +1,31 @@
 {
-  "tittel": "Årsregnskap og årsberetning Melhus kommune 2024",
-  "innstilling": "Formannskapets vedtak legges til grunn.",
-  "vedtak": "Kommunestyret vedtar årsregnskapet for 2024, jfr. vedlegg 1. Kommunestyret vedtar årsberetningen for 2024, jfr. vedlegg 2. Kommunestyret vedtar disponeringen av året netto resultat på kr. 145 370 257, slik: Kommunestyret vedtar disponeringer i investeringsregnskapet slik: Kommunestyret vedtar disponeringer av kommunens ulike disposisjonsfond som angitt i tabellen nedenfor. Kommunestyret utrykker bekymring over at årsregnskapet for 2024 viser et betydelig negativt netto driftsresultat. Den omfattende bruken av disposisjonsfond for å oppnå regnskapsmessig balanse er bekymringsfull og understreker behovet for en strengere økonomistyring i tiden fremover.",
+  "tittel": "Protokoll - valg av godkjennere",
+  "innstilling": "Ordfører foreslår Kjersti Garnes Overvik (AP) og Anders Frost (H) til å signere protokoll sammen med møteleder.",
+  "vedtak": "Kjersti Garnes Overvik (AP) og Anders Frost (H) godkjenner protokoll sammen med ordfører.",
   "alternative_forslag": [
     {
-      "forslagsstiller": "Anja Sterten (AP) på vegne av AP, SV, SP og KrF",
-      "tekst": "Kommunestyret utrykker bekymring over at årsregnskapet for 2024 viser et betydelig negativt netto driftsresultat. Den omfattende bruken av disposisjonsfond for å oppnå regnskapsmessig balanse er bekymringsfull og understreker behovet for en strengere økonomistyring i tiden fremover."
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "Ordfører foreslår Kjersti Garnes Overvik (AP) og Anders Frost (H) til å signere protokoll sammen med møteleder."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over formannskapets vedtak.",
+      "beskrivelse": "Votering over forslag om godkjennere av protokoll: Kjersti Garnes Overvik (AP) og Anders Frost (H).",
       "alternativer": [
         {
-          "navn": "Formannskapets vedtak",
-          "stemmer": "enstemmig"
+          "navn": "For forslaget",
+          "stemmer": 31
         }
       ],
-      "vinner": "Formannskapets vedtak",
+      "vinner": "For forslaget",
       "rodt": {
-        "støttet": "Formannskapets vedtak",
-        "var_vinner": true
-      }
-    },
-    {
-      "beskrivelse": "Votering over tilleggsforslag fra Anja Sterten (AP) på vegne av AP, SV, SP og KrF.",
-      "alternativer": [
-        {
-          "navn": "Tilleggsforslag fra Anja Sterten",
-          "stemmer": "enstemmig"
-        }
-      ],
-      "vinner": "Tilleggsforslag fra Anja Sterten",
-      "rodt": {
-        "støttet": "Tilleggsforslag fra Anja Sterten",
+        "støttet": "For forslaget",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "20.05.2025",
+  "dato": "16.06.2025",
   "saksnummer_ps": "PS 48/25",
   "rodt_fremmet_forslag": false
 }

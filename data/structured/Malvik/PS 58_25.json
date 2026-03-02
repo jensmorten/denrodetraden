@@ -1,26 +1,26 @@
 {
-  "tittel": "Samhandlingsavtale mellom St. Olavs hospital HF og Melhus kommune",
-  "innstilling": "Formannskapets innstilling legges til grunn.",
-  "vedtak": "Melhus kommune inngår fremlagte Samarbeidsavtale - St. Olavs hospital HF og kommunene - helsefellesskapet i søndre Trøndelag, med tilhørende retningslinje «Samarbeid om innleggelse og utskrivelse av pasienter med behov for kommunale tjenester.",
+  "tittel": "Mindre endring av kommuneplanens arealdel 2018-2030",
+  "innstilling": "Med hjemmel i plan- og bygningslovens § 11-17 annet ledd vedtas følgende mindre endring av kommuneplanens arealdel 2018-2030: Eiendom med gnr. 6, bnr.269 med størrelse 1160m² omreguleres fra friområde til boligformål.",
+  "vedtak": "Med hjemmel i plan- og bygningslovens § 11-17 annet ledd vedtas følgende mindre endring av kommuneplanens arealdel 2018-2030: Eiendom med gnr. 6, bnr.269 med størrelse 1160m² omreguleres fra friområde til boligformål.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over formannskapets innstilling.",
+      "beskrivelse": "Votering om innstillingen til mindre endring av kommuneplanens arealdel 2018-2030",
       "alternativer": [
         {
-          "navn": "Formannskapets innstilling",
-          "stemmer": "enstemmig"
+          "navn": "For innstillingen",
+          "stemmer": 31
         }
       ],
-      "vinner": "Formannskapets innstilling",
+      "vinner": "For innstillingen",
       "rodt": {
-        "støttet": "Formannskapets innstilling",
+        "støttet": "For innstillingen",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "20.05.2025",
+  "dato": "16.06.2025",
   "saksnummer_ps": "PS 58/25",
   "rodt_fremmet_forslag": false
 }

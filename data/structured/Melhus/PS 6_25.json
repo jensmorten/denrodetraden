@@ -1,0 +1,49 @@
+{
+  "tittel": "Revidert selskapsavtale for ReMidt",
+  "innstilling": "Rådmannens forslag til vedtak legges til grunn.",
+  "vedtak": "Revidert selskapsavtale for ReMidt IKS datert 18.11.24 vedtas. Oversendes representantene i rep.skapet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Karin Jordan Rutlin (INP)",
+      "tekst": "Økningen i lånerammen til fra 400 - 800 millioner kroner gir muligheter, men også en betydelig økonomisk forpliktelse for kommunene. Det er avgjørende at vi sikrer økonomisk kontroll og ikke risikerer høyere renovasjonsgebyrer. Vi foreslår en begrensning på hva lånene kan brukes til og kreve en strategi for ansvarlig gjeldsforvaltning. Når det gjelder utvidelsen av styret fra 7 til 9 medlemmer, må vi spørre oss om dette faktisk styrker styringen av selskapet eller bare fører til mer byråkrati. Hvis flere medlemmer gir bedre representasjon og mer demokratisk kontroll, kan det være fornuftig, men dette bør vurderes nøye. Videre må vi ikke glemme innbyggerne – de må skjermes mot urimelige kostnadsøkninger. Derfor bør det sette krav om en makspris eller en annen form for prisregulering slik at folk ikke ender opp med betydelig høyere utgifter for renovasjonstjenester. Til slutt må vi sikre at viktige avfallstyper, som plast fra jordbruket, får en garanti og tilfredsstillende løsning for behandling. Landbruket er en viktig næring i våre kommuner, og vi må unngå at bønder blir sittende igjen uten reelle alternativer for avfallshåndtering."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fra Karin Jordan Rutlin (INP)",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag fra INP",
+          "stemmer": 1
+        },
+        {
+          "navn": "Mot endringsforslag (avslag)",
+          "stemmer": 35
+        }
+      ],
+      "vinner": "Mot endringsforslag (avslag)",
+      "rodt": {
+        "støttet": "Mot endringsforslag (avslag)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over rådmannens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "Rådmannens forslag til vedtak",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Rådmannens forslag til vedtak",
+      "rodt": {
+        "støttet": "Rådmannens forslag til vedtak",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "11.02.2025",
+  "saksnummer_ps": "PS 6/25",
+  "rodt_fremmet_forslag": false
+}

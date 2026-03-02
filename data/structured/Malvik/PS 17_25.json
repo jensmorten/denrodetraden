@@ -1,31 +1,97 @@
 {
-  "tittel": "Interpellasjon - Kommunestyret 11.02.2025 - Musikkbasert miljøbehandling - Rasmus Stafne Kjøsen - SV",
-  "innstilling": "Kommunestyret ber rådmannen utrede muligheten for å søke tilskudd fra statsforvalteren til kompetanseheving i musikkbasert miljøbehandling (MMB) for ansatte i helse- og omsorgssektoren, oppvekstsektoren, samt andre relevante tjenester. Målet er å styrke tverrsektorielt samarbeid og utvikle metodisk bruk av MMB som verktøy for helsefremmende aktivitet og trivsel for innbyggere og ansatte i Melhus kommune. Dette inkluderer muligheten for å tilby kurs for ansatte og frivillige som jobber i helse og omsorg, barnehager, skoler og andre relevante arenaer. Søknad bør inkludere vurderinger av behov, omfang og hvilke deler av organisasjonen som kan delta.",
-  "vedtak": "Utsatt til neste møte.",
+  "tittel": "54/2 54/244 og 54/283 Solbakken - Midlertidig forbud mot tiltak",
+  "innstilling": "Det nedlegges ikke midlertidig forbud mot tiltak på eiendommene 54/283, 54/2 og 54/244.",
+  "vedtak": "Det nedlegges ikke midlertidig forbud mot tiltak på eiendommene 54/283, 54/2 og 54/244.",
   "alternative_forslag": [
     {
-      "forslagsstiller": "Rasmus Stafne Kjøsen (SV)",
-      "tekst": "Kommunestyret ber rådmannen utrede muligheten for å søke tilskudd fra statsforvalteren til kompetanseheving i musikkbasert miljøbehandling (MMB) for ansatte i helse- og omsorgssektoren, oppvekstsektoren, samt andre relevante tjenester. Målet er å styrke tverrsektorielt samarbeid og utvikle metodisk bruk av MMB som verktøy for helsefremmende aktivitet og trivsel for innbyggere og ansatte i Melhus kommune. Dette inkluderer muligheten for å tilby kurs for ansatte og frivillige som jobber i helse og omsorg, barnehager, skoler og andre relevante arenaer. Søknad bør inkludere vurderinger av behov, omfang og hvilke deler av organisasjonen som kan delta."
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Det nedlegges midlertidig forbud mot tiltak på eiendommene 54/2, 54/244 og 54/283. Tiltak tilknyttet drift, vedlikehold og utvikling av jernbanens infrastruktur unntas fra forbudet."
+    },
+    {
+      "forslagsstiller": "Ketil Sivertsen (Senterpartiet)",
+      "tekst": "Hommelvik Midtre. Det nedlegges midlertidig forbud mot tiltak på eiendommen 54/244. I tråd med sak FO 27/24. Kommunedirektøren bes gå i dialog med kirkelig fellesråd om alternative plasseringer av gravlund nærmere Hommelvik Kirke som ikke kommer i konflikt med dyrket mark. Det bør også ses på mulighetene for etablering av urnevegg på Hommelvik kirkegård."
+    },
+    {
+      "forslagsstiller": "Ketil Sivertsen (Senterpartiet)",
+      "tekst": "Nygården. Det nedlegges midlertidig forbud mot tiltak på eiendommene 54/283 og 54/2. I tråd med sak FO 27/24."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Forslaget om å utsette saken til neste møte.",
+      "beskrivelse": "Prøvevotering på alternativt forslag fra Jens Morten Nilsen (Rødt)",
       "alternativer": [
         {
-          "navn": "Utsatt til neste møte",
-          "stemmer": null
+          "navn": "For forslaget",
+          "stemmer": 14
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 17
         }
       ],
-      "vinner": "Utsatt til neste møte",
+      "vinner": "Imot forslaget",
       "rodt": {
-        "støttet": null,
-        "var_vinner": null
+        "støttet": "For forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Prøvevotering på alternativt forslag fra Ketil Sivertsen (Senterpartiet) ang. Hommelvik Midtre",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 14
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 17
+        }
+      ],
+      "vinner": "Imot forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Prøvevotering på alternativt forslag fra Ketil Sivertsen (Senterpartiet) ang. Nygården",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 14
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 17
+        }
+      ],
+      "vinner": "Imot forslaget",
+      "rodt": {
+        "støttet": "For forslaget",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Endelig votering på kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 17
+        },
+        {
+          "navn": "Imot innstillingen",
+          "stemmer": 14
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "Imot innstillingen",
+        "var_vinner": false
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "11.02.2025",
+  "dato": "24.02.2025",
   "saksnummer_ps": "PS 17/25",
-  "rodt_fremmet_forslag": false
+  "rodt_fremmet_forslag": true
 }

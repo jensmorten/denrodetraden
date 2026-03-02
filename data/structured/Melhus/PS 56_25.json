@@ -1,0 +1,53 @@
+{
+  "tittel": "Dagsturhytte i Melhus ny behandling",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "Kommunestyret vedtar å utsette dagsturhytta til utenfor rammeavtalen med fylkeskommunen på 2 år. Kommunestyret behandler opsjon i avtalen ved budsjettbehandling 2027. Kommunestyret ønsker ikke at det blir brukt ressurser på denne saken frem til budsjettbehandlingen i 2027, med bakgrunn i den økonomiske situasjonen i kommunen. Melhus kommunen har forpliktelser gjennom CRPD-konvensjonen, og ber rådmannen gjøre tilgangen/tilkomsten fram til hytta tilgjengelig for rullestolbrukere, og beskrive kostnadene for tiltaket.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjetil Blokkum (H) på vegner av H, FrP, ML og PP",
+      "tekst": "Melhus kommune kan ikke prioritere de utgiftene som en dagsturhytte tross alt koster, og trekker seg fra prosjektet."
+    },
+    {
+      "forslagsstiller": "Rasmus Stafne Kjøsen (SV) på vegne av SV",
+      "tekst": "Kommunestyret vedtar å utsette dagsturhytta til utenfor rammeavtalen med fylkeskommunen på 2 år. Kommunestyret behandler opsjon i avtalen ved budsjettbehandling 2027. Kommunestyret ønsker ikke at det blir brukt ressurser på denne saken frem til budsjettbehandlingen i 2027, med bakgrunn i den økonomiske situasjonen i kommunen. Melhus kommunen har forpliktelser gjennom CRPD-konvensjonen, og ber rådmannen gjøre tilgangen/tilkomsten fram til hytta tilgjengelig for rullestolbrukere, og beskrive kostnadene for tiltaket."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling i første punkt",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 0
+        }
+      ],
+      "vinner": null,
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    },
+    {
+      "beskrivelse": "Votering mellom forslag fra Kjetil Blokkum og alternativt forslag fra Rasmus Stafne Kjøsen",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Kjetil Blokkum (H)",
+          "stemmer": 17
+        },
+        {
+          "navn": "Alternativt forslag fra Rasmus Stafne Kjøsen (SV)",
+          "stemmer": 20
+        }
+      ],
+      "vinner": "Alternativt forslag fra Rasmus Stafne Kjøsen (SV)",
+      "rodt": {
+        "støttet": "Alternativt forslag fra Rasmus Stafne Kjøsen (SV)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 56/25",
+  "rodt_fremmet_forslag": false
+}

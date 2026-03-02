@@ -1,26 +1,26 @@
 {
-  "tittel": "Fritak fra politiske verv - Rune Sunnset",
-  "innstilling": "Valgnemndas innstilling legges til grunn.",
-  "vedtak": "Rune Sunnset (Sp) innvilges fritak fra sine politiske verv i Kommunestyret og Formannskap i perioden 01.02.2025 tom 30.06.2025. Vedtaket fattes jf Kommunelovens §7-9. Som fast representant for Senterpartiet i Kommunestyret inntrer Trine Onsøyen. Som ny siste vara for Senterpartiet inntrer Siv Oline Bjørnvåg. Som fast representant for Senterpartiet i Formannskapet inntrer Tor Ingar S. Verstad. Som ny vara i formannskapet for Senterpartiet inntrer Ole Ingebrigt Eid.",
+  "tittel": "Naturmangfoldplan - kartlagt naturmangfold i Malvik kommune",
+  "innstilling": "Naturmangfoldplanen tas til orientering. Kommunedirektøren oppdaterer naturmangfoldplanen når det gjennomføres nye kartlegginger.",
+  "vedtak": "Naturmangfoldplanen tas til orientering. Kommunedirektøren oppdaterer naturmangfoldplanen når det gjennomføres nye kartlegginger.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over valgnemndas innstilling om fritak for Rune Sunnset og nye representanter/varaer for Senterpartiet.",
+      "beskrivelse": "Votering innstilling",
       "alternativer": [
         {
-          "navn": "Valgnemndas innstilling",
-          "stemmer": "enstemmig"
+          "navn": "For",
+          "stemmer": 31
         }
       ],
-      "vinner": "Valgnemndas innstilling",
+      "vinner": "For",
       "rodt": {
-        "støttet": "Valgnemndas innstilling",
+        "støttet": "For",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "11.02.2025",
+  "dato": "27.01.2025",
   "saksnummer_ps": "PS 4/25",
   "rodt_fremmet_forslag": false
 }

@@ -1,12 +1,26 @@
 {
-  "tittel": "Økonomirapport 1. tertial 2025",
-  "innstilling": "Rådmannens innstilling legges til grunn.",
-  "vedtak": "Kommunestyret vedtar økonomirapporten for tertial 1 2025 med de vedtatte endringer og tillegg, inkludert omstillingstiltak, utredningsoppdrag og økonomiske rammer som fremgår av saksframlegget og voteringene.",
+  "tittel": "Andregangsbehandling av detaljregulering for fortau og forbedret veilinje Saksvikkorsen",
+  "innstilling": "Med hjemmel i plan- og bygningsloven § 12-12 vedtas reguleringsplan for fortau og forbedret veilinje Saksvikkorsen, planID 202305.",
+  "vedtak": "Med hjemmel i plan- og bygningsloven § 12-12 vedtas reguleringsplan for fortau og forbedret veilinje Saksvikkorsen, planID 202305.",
   "alternative_forslag": [],
-  "voteringer": [],
-  "kommentar": "Fullstendig informasjon om alternative forslag og voteringer mangler i teksten. Ingen informasjon om Rødts stemmegivning eller posisjon.",
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen til reguleringsplan for fortau og forbedret veilinje Saksvikkorsen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
   "kommune": "Malvik",
-  "dato": "17.06.2025",
+  "dato": "25.08.2025",
   "saksnummer_ps": "PS 70/25",
   "rodt_fremmet_forslag": false
 }

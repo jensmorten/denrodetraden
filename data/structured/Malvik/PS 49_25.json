@@ -1,26 +1,26 @@
 {
-  "tittel": "Rapport over delegerte vedtak for perioden 17.03.2025 - 11.05.2025",
-  "innstilling": "Referert i nødvendig utstrekning.",
-  "vedtak": "Referert i nødvendig utstrekning.",
+  "tittel": "Ufordringer og muligheter i Malvik kommune - kunnskapsgrunnlag til handlings- og økonomiplan 2026-2029",
+  "innstilling": "Kommunestyret ber kommunedirektøren legge vurderingene i kunnskapsgrunnlaget til grunn for arbeidet med handlings- og økonomiplan 2026-2029 med budsjett for 2026 for Malvik kommune.",
+  "vedtak": "Kommunestyret ber kommunedirektøren legge vurderingene i kunnskapsgrunnlaget til grunn for arbeidet med handlings- og økonomiplan 2026-2029 med budsjett for 2026 for Malvik kommune.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over innstillingen om å referere rapporten i nødvendig utstrekning.",
+      "beskrivelse": "Votering om innstillingen til kommunedirektørens forslag til kunnskapsgrunnlag for handlings- og økonomiplan 2026-2029",
       "alternativer": [
         {
-          "navn": "Innstillingen (Referert i nødvendig utstrekning)",
-          "stemmer": null
+          "navn": "For innstillingen",
+          "stemmer": 31
         }
       ],
-      "vinner": "Innstillingen (Referert i nødvendig utstrekning)",
+      "vinner": "For innstillingen",
       "rodt": {
-        "støttet": "Innstillingen (Referert i nødvendig utstrekning)",
+        "støttet": "For innstillingen",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "20.05.2025",
+  "dato": "16.06.2025",
   "saksnummer_ps": "PS 49/25",
   "rodt_fremmet_forslag": false
 }

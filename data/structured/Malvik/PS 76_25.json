@@ -1,26 +1,26 @@
 {
-  "tittel": "Krav om reforhandling av vertskommuneavtalen om drift av interkommunal legevakt",
-  "innstilling": "Melhus kommune viderefører avtale om legevakt med Trondheim kommune som vertskommune. Kommunene forplikter seg til å følge de økonomiske og administrative forutsetningene som kommer frem av avtaleteksten inkludert kostnadsfordeling. Rådmannen gis fullmakt til å undertegne avtalen.",
-  "vedtak": "Melhus kommune viderefører avtale om legevakt med Trondheim kommune som vertskommune. Kommunene forplikter seg til å følge de økonomiske og administrative forutsetningene som kommer frem av avtaleteksten inkludert kostnadsfordeling. Rådmannen gis fullmakt til å undertegne avtalen.",
+  "tittel": "Sluttbehandling av endring av reguleringsplan for ny E6 mellom Leistad-Stjørdal grense ved Sveberg - planid 201803",
+  "innstilling": "Med hjemmel i plan- og bygningsloven § 12-12 vedtas endring av reguleringsplan for ny E6 mellom Leistad og Stjørdal grense ved Sveberg – planid 201803. Kommunedirektøren bes utarbeide et notat med forslag til en rekkefølgebestemmelse som sikrer effektiv motorvogntrafikkavikling i veikrysset Vuluvegen/Stavsjøvegen før sluttbehandling i kommunestyre 29/9-25.",
+  "vedtak": "Med hjemmel i plan- og bygningsloven § 12-12 vedtas endring av reguleringsplan for ny E6 mellom Leistad og Stjørdal grense ved Sveberg – planid 201803.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over rådmannens innstilling",
+      "beskrivelse": "Avstemming over innstillingen fra utvalg for areal- og samfunnsplanlegging med endring om å ta ut siste avsnitt i innstillingen.",
       "alternativer": [
         {
-          "navn": "Rådmannens innstilling",
-          "stemmer": "enstemmig"
+          "navn": "For innstillingen",
+          "stemmer": 31
         }
       ],
-      "vinner": "Rådmannens innstilling",
+      "vinner": "For innstillingen",
       "rodt": {
-        "støttet": "Rådmannens innstilling",
+        "støttet": "For innstillingen",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "17.06.2025",
+  "dato": "29.09.2025",
   "saksnummer_ps": "PS 76/25",
   "rodt_fremmet_forslag": false
 }

@@ -1,26 +1,35 @@
 {
-  "tittel": "Interpellasjon - Kommunestyret 17.06.2025 - Fremskaffelse av flere omsorgsboliger i Melhus kommune - Tor Ingar S Verstad, Sp",
-  "innstilling": null,
-  "vedtak": "Melhus kommune ved rådmannen er allerede i dialog med flere aktører som vil / kan realisere omsorgsboliger slik interpellanten beskriver. Konkret gjelder dette mulige boligprosjekter i Melhus sentrum foreløpig. Det har så langt vært dialogmøter der det er blitt vist nokså konkrete boligprosjekter på bestemte tomter, men det er ikke vært presentert konkrete avtaleforslag for prosjektene foreløpig. Rådmannen har uttalt at det er en boligsosial plan under utarbeidelse og at det er ønskelig å avvente vedtak av denne planen, da med tanke på at den vil gi et grunnlag for type boligbehov, antall og hvor i kommunen i et lengre perspektiv. Når denne planen foreligger, vil det være mulig å konkret ta stilling til om også en slik måte å fremskaffe omsorgsboliger på er hensiktsmessig. Det vil uansett være nødvendig med politiske vedtak konkret knyttet til enkeltprosjekter for å kunne søke på Husbankens støtteordninger til formålet.",
-  "alternative_forslag": [],
+  "tittel": "Anmodning om planoppstart for Vollan/Elvetun massedeponi og sorteringsanlegg",
+  "innstilling": "Med hjemmel i plan- og bygningsloven § 12-8 tillates ikke oppstart av reguleringsplanprosess for Vollan/Elvetun massedeponi og sorteringsanlegg. Planinitiativet vurderes i arbeidet med rullering av kommuneplanens arealdel 2025-2037.",
+  "vedtak": "Med hjemmel i plan- og bygningsloven § 12-8 tillates oppstart av reguleringsplanprosess for Vollan/Elvetun massedeponi og sorteringsanlegg.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rikard Spets (Fremskrittspartiet) på vegne av H, FrP, PP, SP og INP",
+      "tekst": "Med hjemmel i plan- og bygningsloven § 12-8 tillates oppstart av reguleringsplanprosess for Vollan/Elvetun massedeponi og sorteringsanlegg."
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Behandling av interpellasjon om fremskaffelse av flere omsorgsboliger i Melhus kommune",
+      "beskrivelse": "Avstemming mellom innstillingen og endringsforslaget fra Rikard Spets på vegne av H, FrP, PP, SP og INP om oppstart av reguleringsplanprosess for Vollan/Elvetun massedeponi og sorteringsanlegg.",
       "alternativer": [
         {
-          "navn": "Spørsmål besvart i møte, vedtak som foreslått",
-          "stemmer": null
+          "navn": "For innstillingen (ikke oppstart)",
+          "stemmer": 15
+        },
+        {
+          "navn": "For endringsforslaget (oppstart)",
+          "stemmer": 16
         }
       ],
-      "vinner": "Spørsmål besvart i møte, vedtak som foreslått",
+      "vinner": "For endringsforslaget (oppstart)",
       "rodt": {
-        "støttet": null,
-        "var_vinner": null
+        "støttet": "For innstillingen (ikke oppstart)",
+        "var_vinner": false
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "17.06.2025",
+  "dato": "03.11.2025",
   "saksnummer_ps": "PS 89/25",
   "rodt_fremmet_forslag": false
 }

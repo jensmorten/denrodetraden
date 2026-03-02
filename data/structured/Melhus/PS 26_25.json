@@ -1,0 +1,26 @@
+{
+  "tittel": "Konstituering av rådmann",
+  "innstilling": "Ordførers innstilling legges til grunn.",
+  "vedtak": "Morten Bostad konstitueres som rådmann fra dags dato og fram til ny kommunedirektør ansatt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordførers innstilling om å konstituere Morten Bostad som rådmann.",
+      "alternativer": [
+        {
+          "navn": "Ordførers innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Ordførers innstilling",
+      "rodt": {
+        "støttet": "Ordførers innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 26/25",
+  "rodt_fremmet_forslag": false
+}

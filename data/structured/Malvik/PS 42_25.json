@@ -1,15 +1,26 @@
 {
-  "tittel": "Interpellasjon - Kommunestyret 25.03.2025 - Folkevalgtes arbeidsvilkår - Kjetil Blokkum - H",
-  "innstilling": null,
-  "vedtak": "Interpellasjon trukket av interpellanten.",
+  "tittel": "Status og fremdrift politiske saker - Oppfølging politiske vedtak 2024",
+  "innstilling": "Kommunestyret tar rapport over status og fremdrift politiske sak per 31.12.2024 til orientering.",
+  "vedtak": "Rapporten tas til orientering.",
   "alternative_forslag": [],
-  "voteringer": [],
-  "rodt": {
-    "støttet": null,
-    "var_vinner": null
-  },
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
   "kommune": "Malvik",
-  "dato": "25.03.2025",
+  "dato": "28.04.2025",
   "saksnummer_ps": "PS 42/25",
   "rodt_fremmet_forslag": false
 }

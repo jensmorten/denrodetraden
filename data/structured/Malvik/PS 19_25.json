@@ -1,26 +1,26 @@
 {
-  "tittel": "Spørsmål til ordfører - Kommunestyret 11.02.2025 - Ny samarbeidsavtale Helseplattformen - Vidar Krogh-Albertsen - H",
-  "innstilling": null,
-  "vedtak": "Utsatt til neste møte.",
+  "tittel": "Endring i priser på kirkegårdene - gravplass",
+  "innstilling": "Nye betalingssatser foreslått av Malvik kirkelig fellesråd vedtas som gjeldende satser fra 01.01.2025.",
+  "vedtak": "Nye betalingssatser foreslått av Malvik kirkelig fellesråd vedtas som gjeldende satser fra 01.01.2025.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering om å utsette saken til neste møte.",
+      "beskrivelse": "Votering over innstillingen om nye betalingssatser på kirkegårdene",
       "alternativer": [
         {
-          "navn": "Utsatt til neste møte",
-          "stemmer": null
+          "navn": "For innstillingen",
+          "stemmer": 31
         }
       ],
-      "vinner": "Utsatt til neste møte",
+      "vinner": "For innstillingen",
       "rodt": {
-        "støttet": null,
-        "var_vinner": null
+        "støttet": "For innstillingen",
+        "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "11.02.2025",
+  "dato": "24.02.2025",
   "saksnummer_ps": "PS 19/25",
   "rodt_fremmet_forslag": false
 }

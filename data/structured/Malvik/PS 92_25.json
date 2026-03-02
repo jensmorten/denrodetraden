@@ -5,16 +5,16 @@
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over ordførers innstilling om forlengelse av aksjonæravtale.",
+      "beskrivelse": "Votering over ordførers innstilling om forlengelse av aksjonæravtale for Regionalt Pilegrimssenter AS med ett år.",
       "alternativer": [
         {
-          "navn": "Innstillingen",
+          "navn": "For innstillingen",
           "stemmer": 31
         }
       ],
-      "vinner": "Innstillingen",
+      "vinner": "For innstillingen",
       "rodt": {
-        "støttet": "Innstillingen",
+        "støttet": "For innstillingen",
         "var_vinner": true
       }
     }

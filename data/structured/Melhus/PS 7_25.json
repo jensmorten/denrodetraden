@@ -1,0 +1,31 @@
+{
+  "tittel": "Næringsplan Melhus kommune 2024-2030",
+  "innstilling": "Rådmannens forslag til innstilling legges til grunn.",
+  "vedtak": "Saken utsettes for behandling til neste kommunestyremøte.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jorid Jagtøyen (ML)",
+      "tekst": "Saken utsettes for behandling til neste kommunestyremøte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslag fremmet av Jorid Jagtøyen (ML)",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Utsettelsesforslag",
+      "rodt": {
+        "støttet": "Utsettelsesforslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "11.02.2025",
+  "saksnummer_ps": "PS 7/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,30 +1,75 @@
 {
-  "tittel": "Deltakelse i Trondheimsalliansen IPR",
-  "innstilling": "Formannskapets innstilling legges til grunn.",
-  "vedtak": "Melhus kommune deltar i Trondheimsalliansen IPR, og vedtar fremlagte forslag til samarbeidsavtale. Ordfører trer inn i representantskapet, jfr. pkt.4 i samarbeidsavtalen, med varaordfører som vararepresentant. I tillegg til ordfører oppnevnes representant Marius Krogstad Aune som representant for Melhus kommune, som observatør med talerett. Som vara oppnevnes representant Jorid Jagtøyen. Kostnadene dekkes innenfor vedtatt budsjett avsatt til interkommunalt politisk råd for Trondheimsregionen.",
-  "alternative_forslag": [],
+  "tittel": "Gjeninnføring av gruppestønad politiske partier",
+  "innstilling": "1. Kommunestyret vedtar at gruppestønad til partigruppene gjeninnføres med virkning fra budsjettåret 2025.\n2. Kommunestyret vedtar omdisponering av midler på kr. 380 000 fra det nedlagte politiske samarbeidet i Trondheimsregionen IPR fra rammeområdet Kommunedirektøren og støtte funksjoner til rammeområdet Folkevalgte, kontrollutvalg og revisjon.\n3. Kommunestyret gir kommunedirektøren fullmakt til å gjøre de nødvendige budsjettkorreksjonene.",
+  "vedtak": "1. Kommunestyret vedtar at gruppestønad til partigruppene gjeninnføres med virkning fra budsjettåret 2025.\n2. Kommunestyret vedtar omdisponering av midler på kr. 380 000 fra det nedlagte politiske samarbeidet i Trondheimsregionen IPR fra rammeområdet Kommunedirektøren og støtte funksjoner til rammeområdet Folkevalgte, kontrollutvalg og revisjon.\n3. Kommunestyret gir kommunedirektøren fullmakt til å gjøre de nødvendige budsjettkorreksjonene.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Kommunestyret vedtar at gruppestønad til partigruppene ikke gjeninnføres før kommunens regnskap igjen viser balanse. Forskrift for folkevalgtes ansettelsesvilkår endres i tråd med vedtaket."
+    },
+    {
+      "forslagsstiller": "May Britt Kjelsaas (Senterpartiet)",
+      "tekst": "Melder inn alternativt forslag til vedtakspunkt 1:\n1. Kommunestyret vedtar at gruppestønad til partigruppene gjeninnføres med virkning fra budsjettåret 2024."
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over formannskapets innstilling.",
+      "beskrivelse": "Votering på forslaget fra Jens Morten Nilsen (Rødt) om å ikke gjeninnføre gruppestønad før kommunens regnskap viser balanse.",
       "alternativer": [
         {
-          "navn": "Formannskapets innstilling",
-          "stemmer": 20
+          "navn": "For",
+          "stemmer": 5
         },
         {
-          "navn": "Mot (FrP, INP, Kristin Kvaal (H), Kjetil Blokkum (H))",
-          "stemmer": 6
+          "navn": "Imot",
+          "stemmer": 26
         }
       ],
-      "vinner": "Formannskapets innstilling",
+      "vinner": "Imot",
       "rodt": {
-        "støttet": "Formannskapets innstilling",
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering på forslaget fra May Britt Kjelsaas (Senterpartiet) om å gjeninnføre gruppestønad fra budsjettåret 2024.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 2
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 29
+        }
+      ],
+      "vinner": "Imot",
+      "rodt": {
+        "støttet": "Imot",
         "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering på innstillingen om gjeninnføring av gruppestønad fra budsjettåret 2025.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 28
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "Imot",
+        "var_vinner": false
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "25.03.2025",
+  "dato": "31.03.2025",
   "saksnummer_ps": "PS 32/25",
-  "rodt_fremmet_forslag": false
+  "rodt_fremmet_forslag": true
 }

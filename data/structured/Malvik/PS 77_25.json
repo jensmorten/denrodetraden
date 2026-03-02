@@ -1,30 +1,26 @@
 {
-  "tittel": "Program for folkehelse 2024-2026 politisk vedtak",
-  "innstilling": "Rådmannens innstilling legges til grunn.",
-  "vedtak": "Melhus kommune skal delta i Program for folkehelse 2024-2026. Kommunen stiller egeninnsats til rådighet lik søknadssum til prosjektet. Prosjektet som går i perioden 2024-2026 bygger på prosjektet som ble gjennomført i forrige runde av Program for folkehelse.",
+  "tittel": "Leieavtale knyttet til bemanningsbase - «Kompis» på Vikhammerstrand",
+  "innstilling": "1. Kommunestyret godkjenner fremlagte forslag til leieavtale for bemanningsbase knyttet til boligprosjektet «Kompis» på Vikhammerstrand\n2. Kommunestyret gir sin tilslutning til at Malvik kommune fortsetter samarbeidet om Kompisprosjektet, og ber om at de økonomiske konsekvensene innarbeides i Handlings- og økonomiplanen for 2026-2029.\n3. Kommunedirektøren gis fullmakt til å gjennomføre mindre justeringer av avtalen før den signeres.",
+  "vedtak": "1. Kommunestyret godkjenner fremlagte forslag til leieavtale for bemanningsbase knyttet til boligprosjektet «Kompis» på Vikhammerstrand\n2. Kommunestyret gir sin tilslutning til at Malvik kommune fortsetter samarbeidet om Kompisprosjektet, og ber om at de økonomiske konsekvensene innarbeides i Handlings- og økonomiplanen for 2026-2029.\n3.Kommunedirektøren gis fullmakt til å gjennomføre mindre justeringer av avtalen før den signeres.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over rådmannens innstilling",
+      "beskrivelse": "Votering over innstillingen til leieavtale for bemanningsbase knyttet til boligprosjektet «Kompis» på Vikhammerstrand",
       "alternativer": [
         {
-          "navn": "For rådmannens innstilling",
-          "stemmer": 20
-        },
-        {
-          "navn": "Mot rådmannens innstilling",
-          "stemmer": 17
+          "navn": "For innstillingen",
+          "stemmer": 31
         }
       ],
-      "vinner": "For rådmannens innstilling",
+      "vinner": "For innstillingen",
       "rodt": {
-        "støttet": null,
-        "var_vinner": null
+        "støttet": "For innstillingen",
+        "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "17.06.2025",
+  "dato": "29.09.2025",
   "saksnummer_ps": "PS 77/25",
   "rodt_fremmet_forslag": false
 }

@@ -1,49 +1,31 @@
 {
-  "tittel": "Opptak av kassakreditt",
-  "innstilling": null,
-  "vedtak": "Kommunestyret vedtar at det tas opp inntil 140 millioner i kassakreditt for å midlertidig håndtere løpende utgifter. Rådmannen rapporterer løpende på bruken til formannskap og kommunestyret. Det forutsettes at kassakreditten innfris raskest mulig.",
+  "tittel": "Valg av godkjennere",
+  "innstilling": "Anders Frost og Turid Eidem Olsen godkjenner protokoll sammen med ordfører.",
+  "vedtak": "Anders Frost og Turid Eidem Olsen godkjenner protokoll sammen med ordfører.",
   "alternative_forslag": [
     {
-      "forslagsstiller": "Einar Gimse-Syrstad, Ap",
-      "tekst": "Kommunestyret vedtar at det tas opp inntil 140 millioner i kassakreditt for å midlertidig håndtere løpende utgifter. Rådmannen rapporterer løpende på bruken til formannskap og kommunestyret."
-    },
-    {
-      "forslagsstiller": "Hege Annette Olstad, Frp",
-      "tekst": "Det forutsettes at kassakreditten innfris raskest mulig."
+      "forslagsstiller": "Eugen Sørmo (Høyre)",
+      "tekst": "Anders Frost og Turid Eidem Olsen godkjenner protokoll sammen med ordfører."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Forslag til vedtak (opptak av kassakreditt og rapportering)",
+      "beskrivelse": "Votering over forslag om godkjenning av protokoll med Anders Frost og Turid Eidem Olsen sammen med ordfører.",
       "alternativer": [
         {
-          "navn": "Forslag fra Einar Gimse-Syrstad, Ap",
-          "stemmer": "enstemmig"
+          "navn": "For forslaget",
+          "stemmer": 30
         }
       ],
-      "vinner": "Forslag fra Einar Gimse-Syrstad, Ap",
+      "vinner": "For forslaget",
       "rodt": {
-        "støttet": "Forslag fra Einar Gimse-Syrstad, Ap",
-        "var_vinner": true
-      }
-    },
-    {
-      "beskrivelse": "Tilleggsforslag om rask innfrielse av kassakreditt",
-      "alternativer": [
-        {
-          "navn": "Tilleggsforslag fra Hege Annette Olstad, Frp",
-          "stemmer": "enstemmig"
-        }
-      ],
-      "vinner": "Tilleggsforslag fra Hege Annette Olstad, Frp",
-      "rodt": {
-        "støttet": "Tilleggsforslag fra Hege Annette Olstad, Frp",
+        "støttet": "For forslaget",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "25.02.2025",
+  "dato": "31.03.2025",
   "saksnummer_ps": "PS 24/25",
   "rodt_fremmet_forslag": false
 }

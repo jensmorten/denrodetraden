@@ -1,0 +1,53 @@
+{
+  "tittel": "Digitaliseringsstrategi 2025-2030",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "Kommunestyret vedtar Digitaliseringsstrategi 2025-2030. Kost/nytte fra tiltak basert på digitaliseringsstrategien rapporteres i en årlig evaluering som legges ved årsmeldinga.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hege Annette Olstad (FrP) på vegne av FrP, H, ML og PP",
+      "tekst": "Behandling av digitaliseringsstrategien utsettes og sendes tilbake til rådmannen for revidering. Strategien må revideres slik at den sikrer tydelig politisk styring, ikke bare administrativ gjennomføring og rapportering i etterkant."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Utsettelsesforslag fra FrP, H, ML og PP",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag",
+          "stemmer": 18
+        },
+        {
+          "navn": "Mot utsettelsesforslag",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Mot utsettelsesforslag",
+      "rodt": {
+        "støttet": "Utsettelsesforslag",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Realitetsbehandling av formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": null
+        },
+        {
+          "navn": "Mot formannskapets innstilling (INP, Jørund Handå Ofstad (PP), Gunnar Andreas Johansen (PP))",
+          "stemmer": 3
+        }
+      ],
+      "vinner": "Formannskapets innstilling",
+      "rodt": {
+        "støttet": "Formannskapets innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 54/25",
+  "rodt_fremmet_forslag": false
+}

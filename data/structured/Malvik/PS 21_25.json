@@ -10,15 +10,11 @@
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over utsettelsesforslaget fra Trond Hoseth (AP): Saken utsettes til neste møte.",
+      "beskrivelse": "Votering over utsettelsesforslaget fremmet av Trond Hoseth (Arbeiderpartiet).",
       "alternativer": [
         {
           "navn": "For utsettelsesforslaget",
           "stemmer": 31
-        },
-        {
-          "navn": "Mot utsettelsesforslaget",
-          "stemmer": 0
         }
       ],
       "vinner": "For utsettelsesforslaget",

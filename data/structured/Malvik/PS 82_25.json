@@ -1,26 +1,31 @@
 {
-  "tittel": "Tilstandsrapport barnehage Melhus 2024",
-  "innstilling": null,
-  "vedtak": "Utsatt til neste møte.",
-  "alternative_forslag": [],
+  "tittel": "Valg av representanter til eksterne utvalg",
+  "innstilling": "1.Som vara til representantskapet i Trøndelag brann- og redningstjeneste IKS velges:\n2.Som vara til representantskapet i Midt-Norge 110-sentral IKS velges:\n3.Som vara til representantskapet i Innherred Renovasjon IKS velges:\n4.Som representant til KS fylkesmøte velges:\n5.Som representant i partnerskapet Atlantbanens styringsgruppe velges:\n6.Som vararepresentant til interkommunalt politisk råd for Værnesregionen velges:",
+  "vedtak": "1.Som vara til representantskapet i Trøndelag brann- og redningstjeneste IKS velges Irén Aina Bastholm.\n2.Som vara til representantskapet i Midt-Norge 110-sentral IKS velges Irén Aina Bastholm.\n3.Som vara til representantskapet i Innherred Renovasjon IKS velges Irén Aina Bastholm.\n4.Som representant til KS fylkesmøte velges Irén Aina Bastholm.\n5.Som representant i partnerskapet Atlantbanens styringsgruppe velges Eugen Gravningen Sørmo.\n6.Som vararepresentant til interkommunalt politisk råd for Værnesregionen velges Irén Aina Bastholm.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rikard Spets (Fremskrittspartiet)",
+      "tekst": "1.Som vara til representantskapet i Trøndelag brann- og redningstjeneste IKS velges Irén Aina Bastholm.\n2.Som vara til representantskapet i Midt-Norge 110-sentral IKS velges Irén Aina Bastholm.\n3.Som vara til representantskapet i Innherred Renovasjon IKS velges Irén Aina Bastholm.\n4.Som representant til KS fylkesmøte velges Irén Aina Bastholm.\n5.Som representant i partnerskapet Atlantbanens styringsgruppe velges Eugen Gravningen Sørmo.\n6.Som vararepresentant til interkommunalt politisk råd for Værnesregionen velges Irén Aina Bastholm."
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Forslag om å utsette saken til neste møte.",
+      "beskrivelse": "Votering over forslaget fremmet av Rikard Spets (Fremskrittspartiet) om valg av representanter til eksterne utvalg",
       "alternativer": [
         {
-          "navn": "Utsettelse",
-          "stemmer": "enstemmig"
+          "navn": "For forslaget",
+          "stemmer": 31
         }
       ],
-      "vinner": "Utsettelse",
+      "vinner": "For forslaget",
       "rodt": {
-        "støttet": "Utsettelse",
+        "støttet": "For forslaget",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "17.06.2025",
+  "dato": "29.09.2025",
   "saksnummer_ps": "PS 82/25",
   "rodt_fremmet_forslag": false
 }

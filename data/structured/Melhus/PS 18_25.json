@@ -1,0 +1,31 @@
+{
+  "tittel": "Interpellasjon - Skolegrensene i Nedre Melhus",
+  "innstilling": null,
+  "vedtak": "Utsatt til neste møte.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Vidar Krogh-Albertsen (H)",
+      "tekst": "Det gjennomføres en evaluering av dagens skolegrensesystem i nedre Melhus for å avdekke eventuelle skjevheter og kapasitetsutfordringer. Dette med bakgrunn i å få mer effektiv utnyttelse av skolene og drift av disse. En prosess for innspill fra foresatte, lærere og elever om hvordan dagens skolegrenser fungerer i praksis."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over om saken skal utsettes til neste møte.",
+      "alternativer": [
+        {
+          "navn": "Utsatt til neste møte",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Utsatt til neste møte",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "11.02.2025",
+  "saksnummer_ps": "PS 18/25",
+  "rodt_fremmet_forslag": false
+}

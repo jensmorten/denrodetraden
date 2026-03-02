@@ -1,0 +1,26 @@
+{
+  "tittel": "Fritak fra politisk verv - Erik Løvseth",
+  "innstilling": "Valgnemndas innstilling legges til grunn.",
+  "vedtak": "Erik Løvseth innvilges fritak fra sitt folkevalgte verv i Melhus Eldreråd fra 11.02.2025 og ut perioden. Vedtaket fattes jf Kommunelovens §7-9. Som fast representant for Melhus pensjonistforening i Melhus Eldreråd inntrer Johan Peter Lefstad fra vedtaksdato og ut perioden. Som nytt varamedlem for Melhus pensjonistforening i Melhus Eldreråd inntrer Ninni Meland fra vedtaksdato og ut perioden.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgnemndas innstilling om fritak for Erik Løvseth og nye representanter i Melhus Eldreråd.",
+      "alternativer": [
+        {
+          "navn": "Valgnemndas innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Valgnemndas innstilling",
+      "rodt": {
+        "støttet": "Valgnemndas innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "11.02.2025",
+  "saksnummer_ps": "PS 5/25",
+  "rodt_fremmet_forslag": false
+}

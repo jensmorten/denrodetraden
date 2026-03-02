@@ -1,0 +1,49 @@
+{
+  "tittel": "Opptak av kassakreditt",
+  "innstilling": null,
+  "vedtak": "Kommunestyret vedtar at det tas opp inntil 140 millioner i kassakreditt for å midlertidig håndtere løpende utgifter. Rådmannen rapporterer løpende på bruken til formannskap og kommunestyret. Det forutsettes at kassakreditten innfris raskest mulig.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Einar Gimse-Syrstad, Ap",
+      "tekst": "Kommunestyret vedtar at det tas opp inntil 140 millioner i kassakreditt for å midlertidig håndtere løpende utgifter. Rådmannen rapporterer løpende på bruken til formannskap og kommunestyret."
+    },
+    {
+      "forslagsstiller": "Hege Annette Olstad, Frp",
+      "tekst": "Det forutsettes at kassakreditten innfris raskest mulig."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over hovedforslaget fra Einar Gimse-Syrstad (Ap)",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Einar Gimse-Syrstad (Ap)",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Forslaget fra Einar Gimse-Syrstad (Ap)",
+      "rodt": {
+        "støttet": "Forslaget fra Einar Gimse-Syrstad (Ap)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslaget fra Hege Annette Olstad (Frp)",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslaget fra Hege Annette Olstad (Frp)",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Tilleggsforslaget fra Hege Annette Olstad (Frp)",
+      "rodt": {
+        "støttet": "Tilleggsforslaget fra Hege Annette Olstad (Frp)",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "25.02.2025",
+  "saksnummer_ps": "PS 24/25",
+  "rodt_fremmet_forslag": false
+}

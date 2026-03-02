@@ -1,15 +1,26 @@
 {
-  "tittel": "Interpellasjon - Kommunestyret 25.03.2025 - Lønn politikere Melhus kommune - Lillian Ofstad - PP",
-  "innstilling": null,
-  "vedtak": "Interpellasjon trukket av interpellanten.",
+  "tittel": "Forskrift om skolerute 2026/2027 - Malvik kommune",
+  "innstilling": "Forskrift om skolerute 2026/2027 for Malvik kommune vedtas som fremlagt.",
+  "vedtak": "Forskrift om skolerute 2026/2027 vedtas som fremlagt.",
   "alternative_forslag": [],
-  "voteringer": [],
-  "rodt": {
-    "støttet": null,
-    "var_vinner": null
-  },
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen til kommunestyret om forskrift om skolerute 2026/2027",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
   "kommune": "Malvik",
-  "dato": "25.03.2025",
+  "dato": "28.04.2025",
   "saksnummer_ps": "PS 40/25",
   "rodt_fremmet_forslag": false
 }

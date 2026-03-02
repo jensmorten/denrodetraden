@@ -1,15 +1,26 @@
 {
-  "tittel": "Rapport over delegerte vedtak for perioden 12.05.2025 - 05.06.2025",
-  "innstilling": null,
-  "vedtak": "Referert i nødvendig utstrekning.",
+  "tittel": "Andregangsbehandling av detaljregulering for gang- og sykkelveg Smiskaret-Sveberg",
+  "innstilling": "Med hjemmel i plan- og bygningsloven § 12-12 vedtas reguleringsplan for gang- og sykkelveg Smiskaret-Sveberg med planID 202403.",
+  "vedtak": "Med hjemmel i plan- og bygningsloven § 12-12 vedtas reguleringsplan for gang- og sykkelveg Smiskaret-Sveberg med planID 202403.",
   "alternative_forslag": [],
-  "voteringer": [],
-  "rodt": {
-    "støttet": null,
-    "var_vinner": null
-  },
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen til reguleringsplan for gang- og sykkelveg Smiskaret-Sveberg",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
   "kommune": "Malvik",
-  "dato": "17.06.2025",
+  "dato": "25.08.2025",
   "saksnummer_ps": "PS 69/25",
   "rodt_fremmet_forslag": false
 }

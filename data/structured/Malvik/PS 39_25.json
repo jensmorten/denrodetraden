@@ -1,15 +1,26 @@
 {
-  "tittel": "Interpellasjon - Kommunestyret 25.03.2025 - Sikre at omstillingsprosessen og kuttene blir rettferdig fordelt - Karin Jordan Rutlin - INP",
-  "innstilling": null,
-  "vedtak": "Interpellasjon trukket av interpellanten.",
+  "tittel": "Administrativt vertskommunesamarbeid - felles dokumentasjonssenter Værnesregionen",
+  "innstilling": "1. Vedlagte forslag til vertskommuneavtale om Værnesregionen Dokumentasjonssenter vedtas.\n2. Avtalen trer i kraft med virkning fra 1.1.2026",
+  "vedtak": "1. Vedlagte forslag til vertskommuneavtale vedtas.\n2. Avtalen trer i kraft fra 1.1.2026",
   "alternative_forslag": [],
-  "voteringer": [],
-  "rodt": {
-    "støttet": null,
-    "var_vinner": null
-  },
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen til vertskommuneavtale om Værnesregionen Dokumentasjonssenter",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": null,
+        "var_vinner": null
+      }
+    }
+  ],
   "kommune": "Malvik",
-  "dato": "25.03.2025",
+  "dato": "28.04.2025",
   "saksnummer_ps": "PS 39/25",
   "rodt_fremmet_forslag": false
 }

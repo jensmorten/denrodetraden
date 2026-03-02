@@ -5,16 +5,16 @@
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over innstillingen om møteplan for politiske utvalg for 2026.",
+      "beskrivelse": "Votering over innstillingen til møteplan for politiske utvalg for 2026",
       "alternativer": [
         {
-          "navn": "Innstillingen",
+          "navn": "For innstillingen",
           "stemmer": 31
         }
       ],
-      "vinner": "Innstillingen",
+      "vinner": "For innstillingen",
       "rodt": {
-        "støttet": "Innstillingen",
+        "støttet": "For innstillingen",
         "var_vinner": true
       }
     }

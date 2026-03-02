@@ -1,0 +1,49 @@
+{
+  "tittel": "2.gangsbehandling - Områdeplan for Brekkåsen",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "Med hjemmel i plan- og bygningslovens § 12-10 vedtas forslag til områdeplan for Brekkåsen (med tilhørende plankart, bestemmelser, planbeskrivelse, konsekvensutredning, parkeringsnorm og vedlegg), med unntak av «B9 Olastubakken». «B9 Olastubakken» sendes på begrenset høring i 3 uker med partene dette angår etter plan- og bygningsloven § 12-10 vil være nødvendig.\nPlanen vil erstatte eksisterende reguleringsplaner (ferdig utbygde områder) innenfor planområdet. Planene oppheves etter plan- og bygningsloven § 12-14. Dette vil kreve en egen planprosess, jf. § pbl. § 12-14 første ledd som gjøres i etterkant av inneværende planprosess.\nFølgende eksisterende reguleringsplaner (ferdig utbygde områder) innenfor planområdet erstattes helt:\nEndring pk.2 Parkeringsnorm.\nFrittliggende boligbebyggelse oppjusteres til 2 pr enhet\nLavblokkbebyggelse oppjusteres til 1.5 pr enhet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Vidar Krogh-Albertsen (H) på vegner av H, ML, Pp og Frp",
+      "tekst": "Området \"B9 Olastubakken\" opprettholdes til boligformål i tråd med gjeldende KPA."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fra Vidar Krogh-Albertsen (H) om å opprettholde B9 Olastubakken til boligformål.",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag (B9 Olastubakken opprettholdes til boligformål)",
+          "stemmer": 15
+        },
+        {
+          "navn": "Mot (ikke opprettholde B9 Olastubakken til boligformål, dvs. følge innstillingen)",
+          "stemmer": 21
+        }
+      ],
+      "vinner": "Mot (ikke opprettholde B9 Olastubakken til boligformål, dvs. følge innstillingen)",
+      "rodt": {
+        "støttet": "Mot (ikke opprettholde B9 Olastubakken til boligformål, dvs. følge innstillingen)",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling (områdeplan for Brekkåsen med unntak av B9 Olastubakken sendes på begrenset høring, parkeringsnorm oppjusteres).",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 36
+        }
+      ],
+      "vinner": "Formannskapets innstilling",
+      "rodt": {
+        "støttet": "Formannskapets innstilling",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "11.02.2025",
+  "saksnummer_ps": "PS 10/25",
+  "rodt_fremmet_forslag": false
+}

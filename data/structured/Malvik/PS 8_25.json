@@ -1,31 +1,26 @@
 {
-  "tittel": "Debatthefte 2025 Del 1 - forventningsgapet",
-  "innstilling": "Administrasjonsutvalgets forslag til innstilling legges til grunn.",
-  "vedtak": "Melhus kommunestyre vedtar rådmannens saksframlegg som innspill til KS’s videre arbeide, med følgende tillegg og endring:\nInnledning til svarene i debattheftet.\nMelhus kommunestyre ønsker å understreke de nasjonale utfordringene knyttet til den økonomiske rammen for kommunesektoren. Kommunene står overfor økende krav til tjenester, samtidig som de økonomiske rammene er stramme. Dette skaper utfordringer for lokaldemokratiet, tjenestekvaliteten og muligheten til å møte innbyggernes behov.\nDersom dette ikke adresseres, risikerer vi at kommunene må gjøre krevende prioriteringer som kan ramme kjerneoppgaver innenfor skole, helse og omsorg. Vi mener det er avgjørende at de overordnede økonomiske rammene for kommunene styrkes, slik at kommunesektoren kan ivareta sine oppgaver på en bærekraftig måte.\nInnledning til spørsmål 3 endres til:\nFor Melhus kommune er det avgjørende å arbeide systematisk for å skape forståelse for de utfordringen kommunen står overfor, samt å forankre de veivalg politikerne og administrasjonen må ta for å levere tjenester innenfor de tilgjengelige ressursene.",
-  "alternative_forslag": [
-    {
-      "forslagsstiller": "Rasmus Kjøsen (SV) på vegner av SV, SP, Krf og AP",
-      "tekst": "Melhus kommunestyre vedtar rådmannens saksframlegg som innspill til KS’s videre arbeide, med følgende tillegg og endring:\nInnledning til svarene i debattheftet.\nMelhus kommunestyre ønsker å understreke de nasjonale utfordringene knyttet til den økonomiske rammen for kommunesektoren. Kommunene står overfor økende krav til tjenester, samtidig som de økonomiske rammene er stramme. Dette skaper utfordringer for lokaldemokratiet, tjenestekvaliteten og muligheten til å møte innbyggernes behov.\nDersom dette ikke adresseres, risikerer vi at kommunene må gjøre krevende prioriteringer som kan ramme kjerneoppgaver innenfor skole, helse og omsorg. Vi mener det er avgjørende at de overordnede økonomiske rammene for kommunene styrkes, slik at kommunesektoren kan ivareta sine oppgaver på en bærekraftig måte.\nInnledning til spørsmål 3 endres til:\nFor Melhus kommune er det avgjørende å arbeide systematisk for å skape forståelse for de utfordringen kommunen står overfor, samt å forankre de veivalg politikerne og administrasjonen må ta for å levere tjenester innenfor de tilgjengelige ressursene."
-    }
-  ],
+  "tittel": "Oppnevning av medlemmer Malvik ungdomsråd 2025",
+  "innstilling": "Følgende velges som medlemmer og vara til Malvik ungdomsråd for perioden 2025:\nMedlemmer Navn År\nMalvik Videregående\nMalvik Videregående\nVikhammer Ungdomsskole Emilia A. By 1\nVikhammer Ungdomsskole Chris Leon Aune Elvsveen 1\nHommelvik Ungdomsskole Catherine Joseph Chagula 1\nHommelvik Ungdomsskole Lorenz Frederik Fischer 2\nUngdomshus Mohammad Al-Sallal 2\nFriplass Amalie Johansen 2\nFriplass Rebekka Flor Wilhelmsen 1\nVara 1 Julie Lassen 1\nVara 2",
+  "vedtak": "Følgende velges som medlemmer og vara til Malvik ungdomsråd for perioden 2025:\nMedlemmer Navn År\nMalvik Videregående\nMalvik Videregående\nVikhammer Ungdomsskole Emilia A. By 1\nVikhammer Ungdomsskole Chris Leon Aune Elvsveen 1\nHommelvik Ungdomsskole Catherine Joseph Chagula 1\nHommelvik Ungdomsskole Lorenz Frederik Fischer 2\nUngdomshus Mohammad Al-Sallal 2\nFriplass Amalie Johansen 2\nFriplass Rebekka Flor Wilhelmsen 1\nVara 1 Julie Lassen 1\nVara 2",
+  "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over endringsforslag fremmet av Rasmus Kjøsen (SV) på vegner av SV, SP, Krf og AP.",
+      "beskrivelse": "Votering om kommunedirektørens innstilling til medlemmer og vara til Malvik ungdomsråd for perioden 2025",
       "alternativer": [
         {
-          "navn": "Endringsforslag fra Rasmus Kjøsen (SV) m.fl.",
-          "stemmer": "enstemmig"
+          "navn": "For innstillingen",
+          "stemmer": 31
         }
       ],
-      "vinner": "Endringsforslag fra Rasmus Kjøsen (SV) m.fl.",
+      "vinner": "For innstillingen",
       "rodt": {
-        "støttet": "Endringsforslag fra Rasmus Kjøsen (SV) m.fl.",
+        "støttet": "For innstillingen",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "11.02.2025",
+  "dato": "27.01.2025",
   "saksnummer_ps": "PS 8/25",
   "rodt_fremmet_forslag": false
 }

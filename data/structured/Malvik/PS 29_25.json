@@ -1,15 +1,26 @@
 {
-  "tittel": "Rapport delegerte vedtak for perioden 04.11.2024 - 16.03.2025",
-  "innstilling": null,
-  "vedtak": "Referert i nødvendig utstrekning.",
+  "tittel": "Søknader om tilskudd fra næringsfond",
+  "innstilling": "1.Søknaden fra Eco Living AS avslås.\n2.Søknaden fra Nye Jacobsen og Svart om husleiegaranti innvilges.\n3.Garantien finansieres gjennom at garantibeløpet reserveres i den delen av disposisjonsfondet som er øremerket næringsutviklingsformål.",
+  "vedtak": "1.Søknaden fra Eco Living AS avslås.\n2.Søknaden fra Nye Jacobsen og Svart om husleiegaranti innvilges.\n3.Garantien finansieres gjennom at garantibeløpet reserveres i den delen av disposisjonsfondet som er øremerket næringsutviklingsformål.",
   "alternative_forslag": [],
-  "voteringer": [],
-  "rodt": {
-    "støttet": null,
-    "var_vinner": null
-  },
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen til kommunestyret fra formannskapet om søknader om tilskudd fra næringsfond",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For innstillingen",
+      "rodt": {
+        "støttet": "For innstillingen",
+        "var_vinner": true
+      }
+    }
+  ],
   "kommune": "Malvik",
-  "dato": "25.03.2025",
+  "dato": "31.03.2025",
   "saksnummer_ps": "PS 29/25",
   "rodt_fremmet_forslag": false
 }

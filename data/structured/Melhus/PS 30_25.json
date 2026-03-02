@@ -1,0 +1,26 @@
+{
+  "tittel": "Møtefullmektiger Forliksrådet 1.1.2025 - 31.12.2028",
+  "innstilling": "Saken tas til orientering.",
+  "vedtak": "Saken tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen: Saken tas til orientering.",
+      "alternativer": [
+        {
+          "navn": "Saken tas til orientering.",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Saken tas til orientering.",
+      "rodt": {
+        "støttet": "Saken tas til orientering.",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 30/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,57 +1,183 @@
 {
-  "tittel": "Dagsturhytte i Melhus ny behandling",
-  "innstilling": "Formannskapets innstilling legges til grunn.",
-  "vedtak": "Kommunestyret vedtar å utsette dagsturhytta til utenfor rammeavtalen med fylkeskommunen på 2 år. Kommunestyret behandler opsjon i avtalen ved budsjettbehandling 2027. Kommunestyret ønsker ikke at det blir brukt ressurser på denne saken frem til budsjettbehandlingen i 2027, med bakgrunn i den økonomiske situasjonen i kommunen. Melhus kommunen har forpliktelser gjennom CRPD-konvensjonen, og ber rådmannen gjøre tilgangen/tilkomsten fram til hytta tilgjengelig for rullestolbrukere, og beskrive kostnadene for tiltaket.",
+  "tittel": "Andregangsbehandling av detaljregulering for Malvikvegen 1353 og 1355",
+  "innstilling": "Med hjemmel i plan- og bygningsloven §12-12 vedtas reguleringsplan for Malvikveien 1353 og 1355 med følgende endringer:\n3.1.1 Arealbruk og grad av utnyttelse\n- Areal til forretning/kontor settes til minimum 50% av første etasje. Areal til forretning/kontor skal vende ut mot Malvikvegen (FV950)\nFellesareal skal etableres i byggets 1. etasje. Fellesarealet skal vende mot prosjektets primære uteområde.\n3.1.4 Parkering\n- Krav om etablering av sykkeldusj tas ut av bestemmelsen.\nGang- og sykkelvei gjennom prosjektets uteområde sør i planområdet - Vestlige del av gang- og sykkelvei o_GS tas ut av planen, frem til kobling med gangveg o_GG. Foreslått gang- og sykkelvei i planområdet erstattes med B/F/K og kan benyttes til uteområde.\nPlanbestemmelsene oppdateres før planen kunngjøres.",
+  "vedtak": "Med hjemmel i plan- og bygningsloven §12-12 vedtas reguleringsplan for Malvikveien 1353 og 1355 med endringer som følger av vedtatte forslag i kommunestyret 16.06.2025, inkludert endringsforslag fra Jørgen Enoksen (H) på vegne av H, FrP, MDG, PP og INP vedrørende punkt 3.1.1 og gang- og sykkelvei, samt øvrige vedtatte endringer. Innstillingen med vedtatte endringer ble vedtatt med 31 stemmer for.",
   "alternative_forslag": [
     {
-      "forslagsstiller": "Kjetil Blokkum (H) på vegne av H, FrP, ML og PP",
-      "tekst": "Melhus kommune kan ikke prioritere de utgiftene som en dagsturhytte tross alt koster, og trekker seg fra prosjektet."
+      "forslagsstiller": "Jørgen Enoksen (H) på vegne av H, FrP, MDG, PP og INP",
+      "tekst": "Med hjemmel i plan- og bygningsloven §12-12 vedtas reguleringsplan for Malvikveien 1353 og 1355 med følgende endringer:\n3.1.1 Arealbruk og grad av utnyttelse\n- Areal til forretning/kontor settes til minimum 50% av første etasje. Areal til forretning/kontor skal vende ut mot Malvikvegen (FV950)\nFellesareal skal etableres i byggets 1. etasje. Fellesarealet skal vende mot prosjektets primære uteområde.\nGang- og sykkelvei gjennom prosjektets uteområde sør i planområdet - Vestlige del av gang- og sykkelvei o_GS tas ut av planen, frem til kobling med gangveg o_GG. Foreslått gang- og sykkelvei i planområdet erstattes med B/F/K og kan benyttes til uteområde."
     },
     {
-      "forslagsstiller": "Rasmus Stafne Kjøsen (SV) på vegne av SV",
-      "tekst": "Kommunestyret vedtar å utsette dagsturhytta til utenfor rammeavtalen med fylkeskommunen på 2 år. Kommunestyret behandler opsjon i avtalen ved budsjettbehandling 2027. Kommunestyret ønsker ikke at det blir brukt ressurser på denne saken frem til budsjettbehandlingen i 2027, med bakgrunn i den økonomiske situasjonen i kommunen. Melhus kommunen har forpliktelser gjennom CRPD-konvensjonen, og ber rådmannen gjøre tilgangen/tilkomsten fram til hytta tilgjengelig for rullestolbrukere, og beskrive kostnadene for tiltaket."
+      "forslagsstiller": "Jens Morten Nilsen (Rødt)",
+      "tekst": "Vi vil opprettholde representant Enoksen (H) sine endringsforslag i ARESAM:\n• Maks høyde for Malvikvegen 1353 og 1355 settes til 4 etasjer.\n• Areal for forretning/kontor settes til hele 1. etasje"
+    },
+    {
+      "forslagsstiller": "Håkon Kvåle Gissinger (Sosialistisk Venstreparti)",
+      "tekst": "Punkt 3.1.1 endres til:\nDet settes av 50 % av første etasje til næringsareal og fellesareal. Fordelingen skal være ca like stor andel til næringsareal som til fellesareal."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over formannskapets innstilling (første punkt)",
+      "beskrivelse": "Votering på Jens Morten Nilsen (Rødt) forslag ang maks høyde (maks 4 etasjer)",
       "alternativer": [
         {
-          "navn": "Formannskapets innstilling",
-          "stemmer": 0
+          "navn": "For",
+          "stemmer": 2
         },
         {
-          "navn": "Andre forslag",
-          "stemmer": 37
+          "navn": "Imot",
+          "stemmer": 29
         }
       ],
-      "vinner": "Andre forslag",
+      "vinner": "Imot",
       "rodt": {
-        "støttet": "Andre forslag",
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Prøvevotering på Jens Morten Nilsen (Rødt) forslag ang forretning/kontor i 1. etasje (hele 1. etasje)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 2
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 29
+        }
+      ],
+      "vinner": "Imot",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering på innstilling punkt 3.1.1 (minimum 50% forretning/kontor i første etasje)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 8
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 23
+        }
+      ],
+      "vinner": "Imot",
+      "rodt": {
+        "støttet": "Imot",
         "var_vinner": true
       }
     },
     {
-      "beskrivelse": "Votering mellom forslag fra Kjetil Blokkum (H) og alternativt forslag fra Rasmus Stafne Kjøsen (SV)",
+      "beskrivelse": "Votering på Håkon Kvåle Gissinger (SV) endringsforslag ang næringsareal i 1. etasje (50 % næringsareal og 50 % fellesareal)",
       "alternativer": [
         {
-          "navn": "Forslag fra Kjetil Blokkum (H)",
-          "stemmer": 17
+          "navn": "For",
+          "stemmer": 8
         },
         {
-          "navn": "Alternativt forslag fra Rasmus Stafne Kjøsen (SV)",
-          "stemmer": 20
+          "navn": "Imot",
+          "stemmer": 23
         }
       ],
-      "vinner": "Alternativt forslag fra Rasmus Stafne Kjøsen (SV)",
+      "vinner": "Imot",
       "rodt": {
-        "støttet": "Alternativt forslag fra Rasmus Stafne Kjøsen (SV)",
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering på Jørgen Enoksen (H) endringsforslag punkt 3.1.1 på vegne av H, FrP, MDG, PP og INP (minimum 50 % forretning/kontor i første etasje med nærmere spesifikasjon)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 11
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering på innstilling punkt 3.1.3 Leilighetssammensetning",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 17
+        }
+      ],
+      "vinner": "Imot",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": false
+      }
+    },
+    {
+      "beskrivelse": "Votering på innstilling punkt 3.1.4 Parkering",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 19
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 12
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering på Jørgen Enoksen (H) endringsforslag gang- og sykkelvei på vegne av H, FrP, MDG, PP og INP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 7
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
+        "var_vinner": true
+      }
+    },
+    {
+      "beskrivelse": "Votering på innstillingen med vedtatte endringer samlet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        }
+      ],
+      "vinner": "For",
+      "rodt": {
+        "støttet": "For",
         "var_vinner": true
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "20.05.2025",
+  "dato": "16.06.2025",
   "saksnummer_ps": "PS 56/25",
-  "rodt_fremmet_forslag": false
+  "rodt_fremmet_forslag": true
 }

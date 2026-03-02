@@ -1,26 +1,39 @@
 {
-  "tittel": "Kommunal vigselsrett",
-  "innstilling": null,
-  "vedtak": "Utsatt til neste møte.",
-  "alternative_forslag": [],
+  "tittel": "Valg av varaordfører for perioden til og med oktober 2027",
+  "innstilling": "Som varaordfører i Malvik kommune for perioden til og med oktober 2027 velges:",
+  "vedtak": "Som varaordfører i Malvik kommune for perioden til og med oktober 2027 velges Irén Aina Bastholm, MDG.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Thomas Ulstad (Sosialistisk Venstreparti)",
+      "tekst": "Som ny varaordfører velges Trond Hoseth, ap."
+    },
+    {
+      "forslagsstiller": "Rikard Spets (Fremskrittspartiet)",
+      "tekst": "Som varaordfører i Malvik kommune for perioden til og med oktober 2027 velges Irén Aina Bastholm, MDG."
+    }
+  ],
   "voteringer": [
     {
-      "beskrivelse": "Forslag om å utsette saken.",
+      "beskrivelse": "Valg av varaordfører mellom forslag 1 (Trond Hoseth, ap) og forslag 2 (Irén Aina Bastholm, MDG).",
       "alternativer": [
         {
-          "navn": "Utsette saken",
-          "stemmer": "enstemmig"
+          "navn": "Forslag 1: Trond Hoseth, ap",
+          "stemmer": 15
+        },
+        {
+          "navn": "Forslag 2: Irén Aina Bastholm, MDG",
+          "stemmer": 16
         }
       ],
-      "vinner": "Utsette saken",
+      "vinner": "Forslag 2: Irén Aina Bastholm, MDG",
       "rodt": {
-        "støttet": "Utsette saken",
-        "var_vinner": true
+        "støttet": "Forslag 1: Trond Hoseth, ap",
+        "var_vinner": false
       }
     }
   ],
   "kommune": "Malvik",
-  "dato": "17.06.2025",
+  "dato": "29.09.2025",
   "saksnummer_ps": "PS 81/25",
   "rodt_fremmet_forslag": false
 }

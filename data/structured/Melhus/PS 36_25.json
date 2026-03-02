@@ -1,0 +1,31 @@
+{
+  "tittel": "Oppgavefellesskap Helseplattformen",
+  "innstilling": "Formannskapets innstilling legges til grunn.",
+  "vedtak": "Kommunestyret sender saken om tiltredelse til oppgavefellesskapet for Helseplattformen tilbake til rådmannen. Rådmannen bes om å legge frem en ny, nøytral og fullstendig saksutredning.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hege Annette Olstad (FrP) på vegne av FrP, H og PP",
+      "tekst": "Kommunestyret sender saken om tiltredelse til oppgavefellesskapet for Helseplattformen tilbake til rådmannen. Rådmannen bes om å legge frem en ny, nøytral og fullstendig saksutredning."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Utsettelsesforslag fra Hege Annette Olstad (FrP) på vegne av FrP, H og PP",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Utsettelsesforslag",
+      "rodt": {
+        "støttet": "Utsettelsesforslag",
+        "var_vinner": true
+      }
+    }
+  ],
+  "kommune": "Melhus",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 36/25",
+  "rodt_fremmet_forslag": false
+}
