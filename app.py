@@ -27,7 +27,7 @@ st.markdown("Appen søker i en database med saker som per idag inneholder behand
 
 kommune = st.selectbox(
     "Velg kommune saken du laster opp er henta fra",
-    ["Malvik", "Melhus", "Stjørdal", "Trondheim", "Levanger", "Orkland"]
+    ["Malvik", "Melhus", "Stjørdal", "Trondheim", "Levanger", "Orkland", "Ørland", "Værdal"]
 )
 
 uploaded_file = st.file_uploader(
@@ -116,19 +116,18 @@ def search_similar_cases(tekst, kommune):
     prompt = f"""
 Du er politisk analyseassistent. Oppsummer først kort saken(e) som er gitt og generelt hva Rødt kan tenkes å mene i denne saken. Vurder om det faktisk er en kommunal sak eller brukeren har lasta opp noe annet. Gi isåfall beskjed om dette. 
 
-Finn saker i andre kommunar enn {kommune}
-som er tematisk lik teksten under.
+Finn saker i andre kommunar enn {kommune} som er tematisk lik teksten under. Du kan også nemne tidlegare saker i {kommune} dersom det er relevant. 
 
 For kvar treff, oppgi:
 - Kommune
 - Saksnummer
-- Kort kva saka handla om
+- Kort hva saken handla om
 - Om Rødt fremmet forslag
 - Om Rødt vant eller tapte
 
 Vurder igjen om dette bør ha innvirkning på hvordan Rødt i {kommune} bør stille seg til saken og tips til debatten.  
 
-Du skal gi et kort, strukturert, nøkternt og endelig svar uten å be brukeren om mer. 
+Du skal gi et kort, strukturert, nøkternt og endelig svar uten å be brukeren om mer. Begrens omtale til de 2-5 mest relevante og utelat treff som bare er tangensielt relevant. 
 
 Tekst:
 {tekst}
