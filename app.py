@@ -1,0 +1,179 @@
+import streamlit as st
+from openai import OpenAI
+from dotenv import load_dotenv
+import pdfplumber
+import tempfile
+
+# ============================================
+# SETUP
+# ============================================
+
+load_dotenv()
+client = OpenAI()
+
+VECTOR_STORE_ID = "vs_69a55846403c8191bfbf4d9a3568b1aa"
+MODEL = "gpt-4.1"
+
+st.set_page_config(page_title="Den Røde Tråden", layout="wide")
+
+st.title("🔴 Den Røde Tråden")
+st.markdown("Dette er en app som hjelper Rødts kommunestyrerepresentater finne lignende saker i andre kommuner")  
+st.markdown("Last opp enkelt sak eller sakliste og finn lignde saker i andre kommuner. Appen")
+st.markdown("Per idag inneholder behandlede saker fra 1. januar 2025 ")
+
+# ============================================
+# INPUT
+# ============================================
+
+kommune = st.selectbox(
+    "Velg kommune saken du laster opp er henta fra",
+    ["Malvik", "Melhus", "Stjørdal"]
+)
+
+uploaded_file = st.file_uploader(
+    "Last opp sakliste (PDF)",
+    type=["pdf"]
+)
+
+analyse_knapp = st.button("🔍 Analyser sak/ sakliste")
+
+# ============================================
+# PDF → TEXT
+# ============================================
+
+def extract_text_from_pdf(uploaded_file):
+
+    with tempfile.NamedTemporaryFile(delete=False) as tmp_file:
+        tmp_file.write(uploaded_file.read())
+        tmp_path = tmp_file.name
+
+    text = ""
+
+    with pdfplumber.open(tmp_path) as pdf:
+        for page in pdf.pages:
+            page_text = page.extract_text()
+            if page_text:
+                text += page_text + "\n"
+
+    return text
+
+
+# ============================================
+# SPLIT SAKER MED LLM
+# ============================================
+
+import json
+
+def split_cases_with_llm(full_text):
+
+    prompt = f"""
+Del teksten i separate saker.
+
+Hvis det er flere saker, starter de med "PS X/YY" eller PS X / YYYY.
+
+Returner KUN gyldig JSON i format:
+
+[
+  {{
+    "ps": "PS 5/25",
+    "tekst": "hele teksten for saken"
+  }}
+]
+
+Hvis teksten bare inneholder én sak (og saksnummer er ikke alltid tilstede, bare saksnavn),
+returner liste med ett element. 
+
+Tekst:
+{full_text}
+"""
+
+    response = client.responses.create(
+        model=MODEL,
+        input=prompt,
+        temperature=0
+    )
+
+    content = response.output_text.strip()
+
+    # Fjern eventuelle kodeblokker
+    content = content.replace("```json", "").replace("```", "").strip()
+
+    try:
+        return json.loads(content)
+    except json.JSONDecodeError:
+        # Fallback: antar at det er én sak
+        return [{
+            "ps": "Ukjent sak",
+            "tekst": full_text
+        }]
+
+# ============================================
+# SEARCH PER SAK
+# ============================================
+
+def search_similar_cases(tekst, kommune):
+
+    prompt = f"""
+Du er politisk analyseassistent.
+
+Finn saker i ANDRE kommunar enn {kommune}
+som er tematisk lik teksten under.
+
+For kvar treff:
+- Kommune
+- Saksnummer
+- Kort kva saka handla om
+- Om Rødt fremmet forslag
+- Om Rødt vant eller tapte
+
+Vurder om det faktisk er en kommunal sak eller brukeren har lasta opp noe annet. Gi isåfall beskjed om dette. 
+Du skal gi et strukturert, nøkternt og endelig svar uten å be brukeren om mer. 
+
+Tekst:
+{tekst}
+"""
+
+    response = client.responses.create(
+        model=MODEL,
+        input=prompt,
+        tools=[
+            {
+                "type": "file_search",
+                "vector_store_ids": [VECTOR_STORE_ID]
+            }
+        ]
+    )
+
+    return response.output_text
+
+
+# ============================================
+# RUN
+# ============================================
+
+if analyse_knapp:
+
+    if not uploaded_file:
+        st.warning("Last opp PDF først.")
+    else:
+
+        with st.spinner("Leser PDF..."):
+            full_text = extract_text_from_pdf(uploaded_file)
+
+        with st.spinner("Splitter i saker..."):
+            cases = split_cases_with_llm(full_text)
+
+        st.success(f"Fant {len(cases)} saker.")
+
+        for case in cases:
+
+            st.markdown("---")
+            st.subheader(case["ps"])
+
+            with st.spinner("Søker liknande saker..."):
+                resultat = search_similar_cases(
+                    case["tekst"],
+                    kommune
+                )
+
+            st.markdown(resultat)
