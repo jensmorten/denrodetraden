@@ -1,0 +1,24 @@
+{
+  "tittel": "Vurdering av inntreden i Trondheimsalliansen IPR for Verdal kommune",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Verdal kommune er positiv til å slutte seg til Trondheimsalliansen, under de forutsetninger som framkommer i denne saken. Ordfører får fullmakt til å sende en søknad om tiltreden. Tiltredelse skjer så fort det foreligger en revidert samarbeidsavtale som er politisk vedtatt i alle deltakerkommuner.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "23.06.2025",
+  "saksnummer_ps": "PS 60/25",
+  "rodt_fremmet_forslag": false
+}

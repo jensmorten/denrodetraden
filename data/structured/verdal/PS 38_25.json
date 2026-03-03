@@ -1,0 +1,43 @@
+{
+  "tittel": "PS 38/25 Kommunal samarbeidsavtale og Kommunalt oppgavefelleskap i Helseplattformen",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "1. Tiltredelse av kommunal samarbeidsavtale: Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres. Tiltredelse forutsetter at alle Helseplattformens eierkommuner slutter seg til oppgavefellesskapet.",
+    "2. Utnevning av deltakere i representantskapet: Kommunestyret utnevner ordfører som kommunens faste representant i oppgavefellesskapets representantskap, med varaordfører som varamedlem."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Gerd Janne Kristoffersen (AP)",
+      "alternativer": [
+        {
+          "navn": "Kristoffersen inhabil",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Kristoffersen inhabil",
+      "roedt_stoettet": "Kristoffersen inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstilling",
+          "stemmer": 28
+        },
+        {
+          "navn": "Mot innstilling",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "For innstilling",
+      "roedt_stoettet": "For innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "28.04.2025",
+  "saksnummer_ps": "PS 38/25",
+  "rodt_fremmet_forslag": false
+}

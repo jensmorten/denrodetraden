@@ -1,0 +1,29 @@
+{
+  "tittel": "Godkjenning av møteprotokoll",
+  "innstilling": "Protokoll fra møte 28. april 2025 godkjennes.",
+  "vedtak": "Protokoll fra møte 28. april 2025 godkjennes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører",
+      "tekst": "Protokoll fra møte 28. april 2025 godkjennes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordførers forslag om godkjenning av protokoll fra møte 28. april 2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.05.2025",
+  "saksnummer_ps": "PS 45/25",
+  "rodt_fremmet_forslag": false
+}

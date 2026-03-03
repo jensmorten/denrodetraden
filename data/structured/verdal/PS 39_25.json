@@ -1,0 +1,85 @@
+{
+  "tittel": "PS 39/25 Helseplattformen - Status innføring og oppdatert risikobilde pr. mars 2025",
+  "innstilling": "Saken tas til orientering. I saken beskrives fire punkter for å sikre ytterligere gevinster og økt kompetanse: tilpasset og kontinuerlig opplæring, støtte i arbeidshverdagen, brukerorientert tilnærming og tilbakemeldinger og målrettet kompetanseheving. Kommunestyret anbefaler at kommunedirektøren kommer tilbake med en ny orientering om status på forbedring innenfor disse punktene i løpet av våren 2026.",
+  "vedtak": "Saken tas til orientering. I saken beskrives fire punkter for å sikre ytterligere gevinster og økt kompetanse: tilpasset og kontinuerlig opplæring, støtte i arbeidshverdagen, brukerorientert tilnærming og tilbakemeldinger og målrettet kompetanseheving. Kommunestyret anbefaler at kommunedirektøren kommer tilbake med en ny orientering om status på forbedring innenfor disse punktene i løpet av våren 2026.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "VDL v/Odd Helge Roksvåg",
+      "tekst": "1. Verdal kommune går sammen med Stjørdal kommune og de 22. andre kommunene i regionen, med mål om å finne en bedre pasientjournal.\n2. Når en bedre pasientjournal enn helseplattformen er funnet, fases helseplattformen ut i Verdal kommune."
+    },
+    {
+      "forslagsstiller": "AP v/Trine Reitan",
+      "tekst": "Verdal Arbeiderparti har fått mange henvendelser angående rapporten Status innføring og oppdatert risikobilde pr mars 2025\nHenvendelsene går på at bilde som beskrives ikke er hele beskrivelsen.\nMangler som burde vært beskrevet er:\n• HP virker uferdig med stor fare for feil, spesielt for legemidler.\n• Pågående tilsyn med Statsforvalteren og Helsetilsynet.\n• Det meldes fortløpende avvik.\n• Stor bekymring fra helsepersonell i forhold til taushetsplikt.\n• Medisinlister både endres og forsvinner.\n• Datatilsynet har et pågående tilsyn i Trondheim og Melhus.\n• Arbeidsbelastning pga HP er krevende og lære seg, -tidskrevende"
+    },
+    {
+      "forslagsstiller": "AP v/Fredrik Grevskott",
+      "tekst": "Kommunestyret ber om en handlingsplan for opplæring, gevinstrealisering og økonomiske kostnader forbundet med ulike opplæringsløp og alternativ for å sikre et godt og forsvarlig arbeidsverktøy for ansatte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for Gerd Janne Kristoffersen",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering om protokolltilførsel fra AP v/Trine Reitan",
+      "alternativer": [
+        {
+          "navn": "Tillate protokolltilførsel",
+          "stemmer": 17
+        },
+        {
+          "navn": "Ikke tillate protokolltilførsel",
+          "stemmer": 17
+        }
+      ],
+      "hvem_vant": "Ikke tillate protokolltilførsel",
+      "roedt_stoettet": "Tillate protokolltilførsel",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling og forslaget fra VDL",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 28
+        },
+        {
+          "navn": "Forslaget fra VDL",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Forslaget fra VDL",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslag fra AP v/Fredrik Grevskott",
+      "alternativer": [
+        {
+          "navn": "Forslaget vedtatt",
+          "stemmer": 12
+        },
+        {
+          "navn": "Forslaget falt",
+          "stemmer": 22
+        }
+      ],
+      "hvem_vant": "Forslaget falt",
+      "roedt_stoettet": "Forslaget vedtatt",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "28.04.2025",
+  "saksnummer_ps": "PS 39/25",
+  "rodt_fremmet_forslag": false
+}
