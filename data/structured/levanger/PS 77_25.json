@@ -1,0 +1,24 @@
+{
+  "tittel": "Levanger kommuneskoger KF - budsjett 2026",
+  "innstilling": "Driftsbudsjettet 2026 for Levanger kommuneskoger KF vedtas.",
+  "vedtak": "Driftsbudsjettet 2026 for Levanger kommuneskoger KF vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming over styret i Levanger kommuneskoger KF sitt forslag til vedtak om driftsbudsjettet 2026",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "03.12.2025",
+  "saksnummer_ps": "PS 77/25",
+  "rodt_fremmet_forslag": false
+}

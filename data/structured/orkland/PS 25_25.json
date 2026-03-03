@@ -1,0 +1,45 @@
+{
+  "tittel": "Deltakelse i Trondheimsalliansen",
+  "innstilling": "Kommunestyret vedtar deltakelse i Trondheimalliansen og tilslutter seg vedlagte samarbeidsavtale.",
+  "vedtak": "Kommunestyret vedtar deltakelse i Trondheimalliansen og tilslutter seg vedlagte samarbeidsavtale.\nRepresentanter fra Orkland kommune vil være\nHanne Nyhus, AP. Vara Eva Legar Solstad, H\nKristian Martin Fremstad, SP. Vara Helge Ringli, Frp",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP, H, SMP, SV og V",
+      "tekst": "Nåværende representanter fortsetter i Trondheimsalliansen.\nRepresentant Hanne Nyhus, AP vara Eva Solstad Legar, H\nRepresentant Kristian Martin Fremstad, SP vara Torstein Larsen PP"
+    },
+    {
+      "forslagsstiller": "Torstein Larsen, PP",
+      "tekst": "Helge Ringli, FRP erstatter Torstein Larsen, PP som vararepresentant."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Ordføreren sin innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Ordføreren sin innstilling",
+      "roedt_stoettet": "Ordføreren sin innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Forslag fra ordfører på representasjon med endring av vararepresentant foreslått av PP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra ordfører på representasjon med endring av vararepresentant foreslått av PP",
+      "roedt_stoettet": "Forslag fra ordfører på representasjon med endring av vararepresentant foreslått av PP",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 25/25",
+  "rodt_fremmet_forslag": false
+}

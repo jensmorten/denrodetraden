@@ -1,0 +1,36 @@
+{
+  "tittel": "Oppfølging av vedtak om administrasjonsgjennomgang",
+  "innstilling": "Kommunestyret vedtar kommunedirektørens forslag til en todelt prosess som omfatter 1. Bruk av ekstern bistand til kartlegging av kommuneadministrasjonens organisering, effektivitet og ressursbruk i henhold til vedtak. Det bevilges kr 300 000 med dekning fra avsatt reserve ramme kommunedirektør. 2. Et organisasjons- og lederutviklingsprogram som oppfølging av kartleggingen. Det bevilges kr 1 000 000, hvorav kr 700 000 dekkes med OU-midler fra KS og kr 300 000 med dekning fra avsatt reserve ramme kommunedirektør.",
+  "vedtak": "Kommunestyret vedtar kommunedirektørens forslag til en todelt prosess som omfatter 1. Bruk av ekstern bistand til kartlegging av kommuneadministrasjonens organisering, effektivitet og ressursbruk i henhold til vedtak. Det bevilges kr 300 000 med dekning fra avsatt reserve ramme kommunedirektør. 2. Et organisasjons- og lederutviklingsprogram som oppfølging av kartleggingen. Det bevilges kr 1 000 000, hvorav kr 700 000 dekkes med OU-midler fra KS og kr 300 000 med dekning fra avsatt reserve ramme kommunedirektør.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 18.03.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 25.03.2025",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 19/25",
+  "rodt_fremmet_forslag": false
+}

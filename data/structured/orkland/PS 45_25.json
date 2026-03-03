@@ -1,0 +1,60 @@
+{
+  "tittel": "Kvalitetsmelding 2024 helse og mestring",
+  "innstilling": "Kommunestyre vedtar kvalitetsmeldingen. Tiltak som får økonomiske konsekvenser tas inn i budsjett og handlingsplan eller fremmet som egen sak til kommunestyret.",
+  "vedtak": "Kommunestyre vedtar kvalitetsmeldingen. Tiltak som får økonomiske konsekvenser tas inn i budsjett og handlingsplan eller fremmet som egen sak til kommunestyret.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling i Kommunalt råd for mennesker med nedsatt funksjonsevne (2023-2027) 08.05.2025",
+      "alternativer": [
+        {
+          "navn": "Vedtak om å ta saken til orientering og bifalle at dette er en årlig kartlegging",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Kommunalt råd for mennesker med nedsatt funksjonsevne tok saken til orientering og bifalt at dette er en årlig kartlegging",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    },
+    {
+      "beskrivelse": "Votering i Eldreråd 08.05.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    },
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur (2023-2027) 06.05.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 20.05.2025",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg helse, oppvekst og mestring sin innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Hovedutvalg helse, oppvekst og mestring sin innstilling",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 45/25",
+  "rodt_fremmet_forslag": false
+}

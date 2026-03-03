@@ -1,0 +1,30 @@
+{
+  "tittel": "Anmodning om bosetting av flyktninger 2025",
+  "innstilling": [
+    "Levanger kommune imøtekommer IMDis anmodning om å bosette 110 flyktninger i 2025, inkludert 12 enslige mindreårige.",
+    "Levanger kommune stiller seg positiv til å bosette ytterligere 30 flyktninger i 2025, inkludert 4 enslige mindreårige, hvis behovet øker."
+  ],
+  "vedtak": [
+    "Levanger kommune imøtekommer IMDis anmodning om å bosette 110 flyktninger i 2025, inkludert 12 enslige mindreårige.",
+    "Levanger kommune stiller seg positiv til å bosette ytterligere 30 flyktninger i 2025, inkludert 4 enslige mindreårige, hvis behovet øker."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om bosetting av flyktninger 2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "19.02.2025",
+  "saksnummer_ps": "PS 6/25",
+  "rodt_fremmet_forslag": false
+}

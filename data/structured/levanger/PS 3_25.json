@@ -1,0 +1,73 @@
+{
+  "tittel": "Lovlighetskontroll budsjett 2025",
+  "innstilling": "Kommunedirektørens forslag til budsjett for 2025 og i økonomiplanperioden 2025-2028 vedtas med følgende endringer: ... (se detaljert forslag fra Gunnar Løvås (SV))",
+  "vedtak": "Budsjettvedtak for 2025 vedtas med følgende endringer:\nEiendomsskatten økes med ytterligere 5,4 millioner, til totalt 13,4 millioner kroner. Økningen øremerkes leirskole og lærernorm.\n1. «I medhold av Eiendomsskatteloven §§ 2, 3 og 10 fastsettes eiendomsskattesatsen for 2025 til:\na. 3,50 promille hele kommunen for alle bolig og fritidseiendommer.\nb. 4,40 promille i hele kommunen for øvrige eiendommer.\n2. Økonomiske gevinster i forbindelse med justeringer innen individuelt tilpasset opplæring (ITO) legges til styrkning av skolebudsjettet\n3. Utredninger:\nI tillegg til vedtatt utredning av skolekretsgrenser, skal det\n• Lages en oppstilling som viser eventuell økonomisk gevinst ved en endring av skolestrukturen i kommunen. Det understrekes at endringer i struktur ikke kan påregnes.\n• Vurdere eventuelle innsparingsmuligheter gjennom samordning av administrative ressurser på tvers av skolene for å redusere ledelses- og driftskostnader",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Gunnar Løvås (Sosialistisk venstreparti)",
+      "tekst": "Kommunedirektørens forslag til budsjett for 2025 og i økonomiplanperioden 2025- 2028 vedtas med følgende endringer: ... (detaljert påplussing og investeringer som beskrevet i teksten)"
+    },
+    {
+      "forslagsstiller": "Tone Wanderås (Arbeiderpartiet)",
+      "tekst": "Eiendomsskatten økes opp til 20 mill (lik kommunedirektørens opprinnelige forslag til budsjett for 2025)"
+    },
+    {
+      "forslagsstiller": "Andreas Jenssen Hjelmstad (Høyre)",
+      "tekst": "Budsjettvedtak for 2025 vedtas med følgende endringer:\nEiendomsskatten økes med ytterligere 5,4 millioner, til totalt 13,4 millioner kroner. Økningen øremerkes leirskole og lærernorm.\n1. «I medhold av Eiendomsskatteloven §§ 2, 3 og 10 fastsettes eiendomsskattesatsen for 2025 til:\na. 3,50 promille hele kommunen for alle bolig og fritidseiendommer.\nb. 4,40 promille i hele kommunen for øvrige eiendommer.\n2. Økonomiske gevinster i forbindelse med justeringer innen individuelt tilpasset opplæring (ITO) legges til styrkning av skolebudsjettet\n3. Utredninger:\nI tillegg til vedtatt utredning av skolekretsgrenser, skal det\n• Lages en oppstilling som viser eventuell økonomisk gevinst ved en endring av skolestrukturen i kommunen. Det understrekes at endringer i struktur ikke kan påregnes.\n• Vurdere eventuelle innsparingsmuligheter gjennom samordning av administrative ressurser på tvers av skolene for å redusere ledelses- og driftskostnader"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på forslag fra Gunnar Løvås (SV) om endringer i budsjett 2025 og økonomiplan 2025-2028",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 3
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering på forslag fra Tone Wanderås (AP) om å øke eiendomsskatten til 20 mill",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 11
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering på forslag fra Andreas Jenssen Hjelmstad (H) om budsjettvedtak for 2025 med økt eiendomsskatt til 13,4 mill og øremerking",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Imot",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "19.02.2025",
+  "saksnummer_ps": "PS 3/25",
+  "rodt_fremmet_forslag": false
+}

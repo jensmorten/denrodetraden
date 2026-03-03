@@ -1,0 +1,47 @@
+{
+  "tittel": "Søknad om fritak fra politisk verv",
+  "innstilling": [
+    "Elin Randahl, Pensjonistpartiet gis fritak fra sitt politiske verv i Orkland kommune fra 29.04.2025 og ut valgperioden.",
+    "Som nytt varamedlem i samarbeidsutvalget for Lensvik/Lysheim skole fra 29.04.2025 velges – ingen innstilling."
+  ],
+  "vedtak": [
+    "Elin Randahl, Pensjonistpartiet gis fritak fra sitt politiske verv i samarbeidsutvalget for Lensvik/Lysheim skole fra 29.04.2025 og ut valgperioden.",
+    "Som nytt varamedlem i samarbeidsutvalget for Lensvik/Lysheim skole fra 29.04.2025 velges Magne Krogsgaard, Krf"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Torstein Larsen, PP",
+      "tekst": "Magne Krogsgaar, Krf velges som vararepresentant for samarbeidsutvalget ved Lensvik og Lysheim skole."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling om fritak fra vervet i samarbeidsutvalget ved Lensvik/Lysheim skole",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Torstein Larsen, PP om valg av vararepresentant for samarbeidsutvalget ved Lensvik og Lysheim skole",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "29.04.2025",
+  "saksnummer_ps": "PS 33/25",
+  "rodt_fremmet_forslag": false
+}

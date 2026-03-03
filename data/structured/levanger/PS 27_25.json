@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 27/25 Årsregnskap 2024 Levanger Arena KF",
+  "innstilling": "Levanger Arena KFs årsregnskap og årsberetning for 2024 vedtas.",
+  "vedtak": "Levanger Arena KFs årsregnskap og årsberetning for 2024 vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling om å vedta Levanger Arena KFs årsregnskap og årsberetning for 2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "21.05.2025",
+  "saksnummer_ps": "PS 27/25",
+  "rodt_fremmet_forslag": false
+}

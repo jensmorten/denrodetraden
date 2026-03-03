@@ -1,0 +1,59 @@
+{
+  "tittel": "Forvaltningsrevisjonsrapport og eierskapskontroll - Levanger Arena KF og Levanger Camping Drift AS",
+  "innstilling": [
+    "Kommunestyret ber kommunedirektøren om å sørge for at foretaket og selskapet må:",
+    "• Få oversikt over aktuelt leieutstyr og sikre avtale om leie av utstyr",
+    "• Sikre at pris for leie av utstyr gir dokumentert dekning for variable og faste kostnader, samt et rimelig fortjenestepåslag",
+    "• Sikre at det føres og dokumenteres timer og at det bestemmes timesats",
+    "Kommunestyret ber kommunedirektøren legge til rette for bedre eierstyring, ved å følge opp revisors anbefalinger.",
+    "Kommunestyret ber kommunedirektøren gi kontrollutvalget skriftlig tilbakemelding om hvordan punkt 1 og punkt 2 i vedtaket er fulgt opp innen 1. juni 2025."
+  ],
+  "vedtak": [
+    "Kommunestyret ber kommunedirektøren om å sørge for at foretaket og selskapet må:",
+    "• Få oversikt over aktuelt leieutstyr og sikre avtale om leie av utstyr",
+    "• Sikre at pris for leie av utstyr gir dokumentert dekning for variable og faste kostnader, samt et rimelig fortjenestepåslag",
+    "• Sikre at det føres og dokumenteres timer og at det bestemmes timesats",
+    "Kommunestyret ber kommunedirektøren legge til rette for bedre eierstyring, ved å følge opp revisors anbefalinger.",
+    "Kommunestyret ber kommunedirektøren gi kontrollutvalget skriftlig tilbakemelding om hvordan punkt 1 og punkt 2 i vedtaket er fulgt opp innen 1. juni 2025."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Lars Erik Ertsås (Høyre)",
+      "tekst": "Kommunedirektøren bes legge frem sak for kommunestyret, der kommunal drift av campingplass belyses og vurderes. Kontrollutvalgets sak 4/25 \"Forvaltningsrevisjonsrapport og eierskapskontroll - Levanger Arena KF og Levanger Camping Drift AS\" med vedtak og oppfølging bør ligge til grunn for saken."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kontrollutvalgets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over oversendelsesforslaget fremmet av Lars Erik Ertsås (Høyre)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "Imot",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "19.02.2025",
+  "saksnummer_ps": "PS 8/25",
+  "rodt_fremmet_forslag": false
+}

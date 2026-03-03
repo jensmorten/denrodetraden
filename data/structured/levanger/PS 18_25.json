@@ -1,0 +1,28 @@
+{
+  "tittel": "Kommunal samarbeidsavtale Helseplattformen",
+  "innstilling": "1.Tiltredelse av kommunal samarbeidsavtale:\nKommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres.\nTiltredelse forutsetter at alle Helseplattformens eierkommuner slutter seg til oppgavefellesskapet.\n2.Utnevning av deltakere i representantskapet:\nKommunestyret utnevner ordfører som kommunens faste representant i oppgavefellesskapets representantskap, med varaordfører som varamedlem",
+  "vedtak": "1.Tiltredelse av kommunal samarbeidsavtale:\nKommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres.\nTiltredelse forutsetter at alle Helseplattformens eierkommuner slutter seg til oppgavefellesskapet.\n2.Utnevning av deltakere i representantskapet:\nKommunestyret utnevner ordfører som kommunens faste representant i oppgavefellesskapets representantskap, med varaordfører som varamedlem",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling om tiltredelse av kommunal samarbeidsavtale og utnevnelse av deltakere i representantskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "02.04.2025",
+  "saksnummer_ps": "PS 18/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "Rapport 1. kvartal 2025 for Orklandbadet KF",
+  "innstilling": "Kommunestyret tar rapport for 1. kvartal 2025 for Orklandbadet KF til orientering",
+  "vedtak": "Kommunestyret tar rapport for 1. kvartal 2025 for Orklandbadet KF til orientering",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 13.05.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 20.05.2025",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 37/25",
+  "rodt_fremmet_forslag": false
+}

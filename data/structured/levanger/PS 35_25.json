@@ -1,0 +1,28 @@
+{
+  "tittel": "Regionalt pilegrimssenter Stiklestad - endring av aksjonæravtale",
+  "innstilling": "Forslag til ny aksjonæravtale godkjennes.",
+  "vedtak": "Forslag til ny aksjonæravtale godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag til ny aksjonæravtale",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.06.2025",
+  "saksnummer_ps": "PS 35/25",
+  "rodt_fremmet_forslag": false
+}

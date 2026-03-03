@@ -1,0 +1,69 @@
+{
+  "tittel": "15/25 Finansiering av feiemaskin",
+  "innstilling": "Kommunestyret vedtar innkjøp av feiemaskin til vei innenfor en kostnad på 1 125 000 kroner inklusive merverdiavgift. Investeringen finansieres med bruk av asfaltfond og trafikksikkerhet-/veiplanfond. Følgende budsjettjusteringer vedtas: Konto Ansvar Tjeneste Prosjekt Sum 02000 413010 3320 30067 kr. 900 000 04290 413010 3320 30067 kr. 225 000 07290 413010 8410 30067 kr. -225 000 09700 413010 8800 30067 kr. -900 000 15700 104010 8800 kr. 900 000 19400 104010 8800 256080629 kr. -450 000 (Asfaltfond) 19400 104010 8800 265080822 kr. 450 000 (Fond veiplan/trafikksikkerhet)",
+  "vedtak": [
+    {
+      "beskrivelse": "For vårpussen 2025 vedtas alternativ 4 – Leie inn ekstern entreprenør. Dersom reparasjon gir lavere kostnad utføres reparasjon. Ved eventuell innleie av ekstern entreprenør for 2025, tar kommunedirektøren innkjøp av feiemaskin inn i sitt forslag til investeringsbudsjettet for 2026. Kostnaden dekkes over driftsbudsjettet med enhetens prioritering av oppgaver.",
+      "begrunnelse": "Ved budsjettbehandlinga for 2025 vedtok kommunestyret følgende verbalforslag: ….Det er behov for en forankret strategi for hvordan den kommunale tjenesteproduksjonen skal løses framover med fokus på, bl.a. -Hva skal kommunen eie av utstyr og maskiner? Det føles ikke riktig å foreta investeringer i utstyr og maskiner før kommunedirektøren har besvart verbalforslaget."
+    },
+    {
+      "beskrivelse": "Kommunestyret vedtar innkjøp av feiemaskin til vei innenfor en kostnad på 1 125 000 kroner inklusive merverdiavgift. Investeringen finansieres med bruk av disposisjonsfond. Feiemaskina tas med i det videre arbeidet med en strategisk plan for kommunens behov for maskinpark og hvilke oppgaver som skal løses i egenregi. Kommunedirektøren foretar nødvendige budsjettjusteringer."
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "SP",
+      "tekst": "Kommunestyret vedtar innkjøp av feiemaskin til vei innenfor en kostnad på 1 125 000 kroner inklusive merverdiavgift. Investeringen finansieres med låneopptak. Saken oversendes formannskapet."
+    },
+    {
+      "forslagsstiller": "Ap, Høyre og Småbypartiet",
+      "tekst": "For vårpussen 2025 vedtas alternativ 4 – Leie inn ekstern entreprenør. Dersom reparasjon gir lavere kostnad utføres reparasjon. Ved eventuell innleie av ekstern entreprenør for 2025, tar kommunedirektøren innkjøp av feiemaskin inn i sitt forslag til investeringsbudsjettet for 2026. Kostnaden dekkes over driftsbudsjettet med enhetens prioritering av oppgaver."
+    },
+    {
+      "forslagsstiller": "AP, H, SMP, SV og V",
+      "tekst": "Kommunestyret vedtar innkjøp av feiemaskin til vei innenfor en kostnad på 1 125 000 kroner inklusive merverdiavgift. Investeringen finansieres med bruk av disposisjonsfond. Feiemaskina tas med i det videre arbeidet med en strategisk plan for kommunens behov for maskinpark og hvilke oppgaver som skal løses i egenregi. Kommunedirektøren foretar nødvendige budsjettjusteringer."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg Teknikk 11.03.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 0
+        },
+        {
+          "navn": "Forslag AP, H og SMP",
+          "stemmer": 5
+        },
+        {
+          "navn": "Forslag SP",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "Forslag AP, H og SMP",
+      "roedt_stoettet": "Forslag SP",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 25.03.2025",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg teknikk sin innstilling",
+          "stemmer": 11
+        },
+        {
+          "navn": "Forslag fra AP, H, SMP, SV og V",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "Forslag fra AP, H, SMP, SV og V",
+      "roedt_stoettet": "Hovedutvalg teknikk sin innstilling",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 15/25",
+  "rodt_fremmet_forslag": false
+}

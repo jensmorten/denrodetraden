@@ -1,0 +1,78 @@
+{
+  "tittel": "Barnehagebruksplanen 2026",
+  "innstilling": "Kommunestyre vedtar barnehagebruksplanen. Tiltak prioriteres i forbindelse med kommunedirektørens notat til handlingsplan 2026 – 2029.",
+  "vedtak": [
+    {
+      "organ": "Hovedutvalg helse, oppvekst og kultur",
+      "tekst": "Hovedutvalg teknikk og Hovedutvalg helse, oppvekst og kultur vedtar barnehagebruksplanen. Tiltak prioriteres i forbindelse med kommunedirektørens notat til handlingsplan 2026 – 2029."
+    },
+    {
+      "organ": "Hovedutvalg teknikk",
+      "tekst": "Hovedutvalg teknikk og Hovedutvalg helse, oppvekst og kultur vedtar barnehagebruksplanen. Tiltak prioriteres i forbindelse med kommunedirektørens notat til handlingsplan 2026 – 2029."
+    },
+    {
+      "organ": "Kommunestyre",
+      "tekst": "Kommunestyret vedtar barnehagebruksplanen. Tiltak prioriteres i forbindelse med kommunedirektørens notat til handlingsplan 2026 – 2029."
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Torstein Larsen, PP",
+      "tekst": "Både når det gjelder Skolebruksplan og Barnehagebruksplan vedtar utvalget disse med et forbehold at det kan komme politiske tillegg og frafall i det som er skissert i planen. I Strategikonferansen og til sist i budsjettbehandlingen kan eventuelle slike endringer komme."
+    },
+    {
+      "forslagsstiller": "Turid Mjønesaune, PP",
+      "tekst": "Når det gjelder Barnehagebruksplan vedtar utvalget disse med et forbehold at det kan komme politiske tillegg og frafall i det som er skissert i planen. I Strategikonferansen og til sist budsjettbehandlingen eventuelle kan slike endringer komme."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur på kommunedirektørens innstilling og tilleggsforslag fra Torstein Larsen, PP",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Tilleggsforslag fra Torstein Larsen, PP",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Tilleggsforslag fra Torstein Larsen, PP",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering i Hovedutvalg Teknikk på kommunedirektørens innstilling og tilleggsforslag fra Turid Mjønesaune, PP",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Tilleggsforslag fra Turid Mjønesaune, PP",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": null,
+      "roedt_side": "ikke relevant"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyret på innstilling fra Hovedutvalg teknikk og Hovedutvalg helse, oppvekst og kultur",
+      "alternativer": [
+        {
+          "navn": "Innstilling fra Hovedutvalg teknikk og Hovedutvalg helse, oppvekst og kultur",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstilling fra Hovedutvalg teknikk og Hovedutvalg helse, oppvekst og kultur",
+      "roedt_stoettet": null,
+      "roedt_side": "ikke relevant"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 46/25",
+  "rodt_fremmet_forslag": false
+}

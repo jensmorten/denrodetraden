@@ -1,0 +1,24 @@
+{
+  "tittel": "Klagenemnd for eiendomsskatt - suppleringsvalg",
+  "innstilling": "Som nytt medlem i klagenemnd for eiendomsskatt velges: Thor Svendsen\nSom nestleder i nemnda velges: Thor Svendsen",
+  "vedtak": "Som nytt medlem i klagenemnd for eiendomsskatt velges: Thor Svendsen\nSom nestleder i nemnda velges: Thor Svendsen",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling om valg av nytt medlem og nestleder i klagenemnd for eiendomsskatt",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "24.09.2025",
+  "saksnummer_ps": "PS 62/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,53 @@
+{
+  "tittel": "Detaljregulering Kjønstadmarka trinn 4 - ny sluttbehandling",
+  "innstilling": "Detaljregulering for Kjønstadmarka trinn 4, versjon i tråd med innstilling til kommunestyret 22.05.2024 med den da gjeldende revidering etter høring, vedtas i henhold til plan- og bygningslovens § 12-12. Følgende plandokumenter vedtas: Plankart datert 3/1 2024 (vedlagt). Planbestemmelser datert 12/2 2024 (vedlagt).",
+  "vedtak": "Detaljregulering for Kjønstadmarka trinn 4, versjon i tråd med innstilling til kommunestyret 22.05.2024 med den da gjeldende revidering etter høring, vedtas i henhold til plan- og bygningslovens § 12-12. Følgende plandokumenter vedtas: Plankart datert 3/1 2024 (vedlagt). Planbestemmelser datert 12/2 2024 (vedlagt).",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Nina Groven (Kristelig Folkeparti)",
+      "tekst": "Kjønstadmarka 4 (K4) konsekvensutredes før vedtak om utbygging."
+    },
+    {
+      "forslagsstiller": "Jostein Trøite (Sosialistisk venstreparti)",
+      "tekst": "Detaljregulering for Kjønstadmarka trinn 4, versjon i tråd med innstilling 22 05 2024, med den da gjeldende revidering etter høring, vedtas ikke."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over alternativt forslag fra Nina Groven (KrF) om at Kjønstadmarka 4 (K4) skal konsekvensutredes før vedtak om utbygging.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 28
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoette": "For",
+      "roedt_paa_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstilling mot alternativt forslag fra Jostein Trøite (SV) om å ikke vedta detaljregulering for Kjønstadmarka trinn 4.",
+      "alternativer": [
+        {
+          "navn": "For forslag 1 (innstilling)",
+          "stemmer": 28
+        },
+        {
+          "navn": "For forslag 2 (Trøites forslag)",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For forslag 1 (innstilling)",
+      "roedt_stoette": "For forslag 2 (Trøites forslag)",
+      "roedt_paa_side": "taper"
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "24.09.2025",
+  "saksnummer_ps": "PS 49/25",
+  "rodt_fremmet_forslag": false
+}

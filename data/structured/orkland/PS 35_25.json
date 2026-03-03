@@ -1,0 +1,153 @@
+{
+  "tittel": "Valg av hovedutvalg forvaltning",
+  "innstilling": "Som medlemmer i hovedutvalg forvaltning velges – ingen innstilling",
+  "vedtak": {
+    "medlemmer_og_varamedlemmer": {
+      "Arbeiderpartiet": [
+        "Karin Leknes Røttereng - leder",
+        "Inge Helgeton",
+        "Sandra Aaberg Leko"
+      ],
+      "Vara_AP": [
+        "Hans Peter Brøndbo",
+        "Kjersti Lund Olsen",
+        "Øyvind Løveseter Mikkelsen",
+        "Thomas Eggan",
+        "Malin Mehlum Skjuleng"
+      ],
+      "Uavhengig": [
+        "Stein Elshaug"
+      ],
+      "Vara_Uavhengig": [
+        "Høyre sin liste"
+      ],
+      "Venstre": [
+        "Gunnhild Wingan - nestleder"
+      ],
+      "Vara_Venstre": [
+        "Ole Roar Bonvik",
+        "Arne Kristian Mo",
+        "Hanne Kvernmo Rye"
+      ],
+      "Småbypartiet": [
+        "Jørgen Indergård"
+      ],
+      "Vara_Småbypartiet": [
+        "Geir Knutzen",
+        "Ingeborg Ødegård",
+        "Marianne G. Lium"
+      ],
+      "Høyre": [
+        "Maja Grønningen"
+      ],
+      "Vara_Høyre": [
+        "Knut Grønningen",
+        "Mahmod Mohamed Saleh",
+        "Geir Homstad"
+      ],
+      "Senterpartiet/Kristelig Folkeparti/Industri- og næringspartiet": [
+        "Wenche Snildalsli Vuttudal - SP",
+        "Ola Bjørkøy - SP",
+        "Bjørn Berg - SP"
+      ],
+      "Vara_Sp_Krf_INP": [
+        "Stig Kalstad - SP",
+        "Trond Selmer Nergaard - SP",
+        "Brage Syrstad - SP",
+        "Bjarne Lund - SP",
+        "Kristian Martin Fremstad - Sp",
+        "Lasse Hilstad Sørmo - SP"
+      ],
+      "Pensjonistpartiet": [
+        "Terje Selvnes"
+      ],
+      "Vara_Pensjonistpartiet": [
+        "Reidar Samskott",
+        "Anne Sørmo",
+        "Frank Landrø"
+      ],
+      "Fremskrittspartiet": [
+        "Borger Strand"
+      ],
+      "Vara_Fremskrittspartiet": [
+        "Helge Ringli",
+        "Eivind Aamot",
+        "Roger Andre Nesset"
+      ],
+      "Leder": "Karin Røttereng, AP",
+      "Nestleder": "Gunnhild Wingan, V"
+    }
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Torstein Larsen, PP",
+      "tekst": "Som nestleder velges Stein Elshaug, uavhengig."
+    },
+    {
+      "forslagsstiller": "Bente Bostad på vegne av Krf, PP, INP, Frp, SP og INP",
+      "tekst": "Som nestleder velges Stein Elshaug, uavhengig."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av medlemmer og varamedlemmer i hovedutvalg forvaltning",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Valg av leder",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Hanne Nyhus, AP",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Hanne Nyhus, AP",
+      "roedt_stoettet": "Forslag fra Hanne Nyhus, AP",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Valg av nestleder",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Torstein Larsen, PP",
+          "stemmer": 5
+        },
+        {
+          "navn": "Forslag fra Hanne Nyhus, AP",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "Forslag fra Hanne Nyhus, AP",
+      "roedt_stoettet": "Forslag fra Torstein Larsen, PP",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Valg av nestleder i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Bente Bostad på vegne av Krf, PP, INP, Frp, SP og INP",
+          "stemmer": 20
+        },
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Forslag fra Bente Bostad på vegne av Krf, PP, INP, Frp, SP og INP",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "29.04.2025",
+  "saksnummer_ps": "PS 35/25",
+  "rodt_fremmet_forslag": false
+}

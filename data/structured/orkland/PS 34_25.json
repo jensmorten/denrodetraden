@@ -1,0 +1,47 @@
+{
+  "tittel": "Suppleringsvalg, rådet for mennesker med nedsatt funksjonsevne",
+  "innstilling": "Ingen innstilling",
+  "vedtak": [
+    {
+      "organ": "Valgutvalg",
+      "dato": "29.04.2025",
+      "tekst": "Nytt medlem i rådet for mennesker med nedsatt funksjonsevne: Olav Dombu, Hørselshemmedes Landsforbund. Nytt varamedlem: Sverre Asbjørn Grandetrø, Norsk Revmatikerforbund."
+    },
+    {
+      "organ": "Kommunestyre",
+      "dato": "29.04.2025",
+      "tekst": "Nytt medlem i rådet for mennesker med nedsatt funksjonsevne: Olav Dombu, Hørselshemmedes Landsforbund. Nytt varamedlem: Sverre Asbjørn Grandetrø, Norsk Revmatikerforbund."
+    }
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg om forslag fra FFO Trøndelag",
+      "alternativer": [
+        {
+          "navn": "Forslag fra FFO Trøndelag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra FFO Trøndelag",
+      "roedt_stoettet": "Forslag fra FFO Trøndelag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre om Valgutvalgets innstilling",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "29.04.2025",
+  "saksnummer_ps": "PS 34/25",
+  "rodt_fremmet_forslag": false
+}

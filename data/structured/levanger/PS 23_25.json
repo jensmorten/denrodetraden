@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 23/25 Referatsaker",
+  "innstilling": "Referatsakene tas til orientering",
+  "vedtak": "Referatsakene tas til orientering",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om at referatsakene tas til orientering",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "21.05.2025",
+  "saksnummer_ps": "PS 23/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,41 @@
+{
+  "tittel": "Klagebehandling - Detaljregulering Kjønstadmarka trinn 4",
+  "innstilling": [
+    "Kommunen har gjennomgått saken på nytt, men ikke funnet grunnlag for å endre sitt vedtak av 04.12.2024.",
+    "Klagene tar ikke opp nye forhold som ikke var kjent for kommunestyret når saken ble sluttbehandlet.",
+    "Saken sendes Statsforvalteren i Trøndelag for endelig avgjørelse."
+  ],
+  "vedtak": [
+    "Kommunen har gjennomgått saken på nytt, men ikke funnet grunnlag for å endre sitt vedtak av 04.12.2024.",
+    "Klagene tar ikke opp nye forhold som ikke var kjent for kommunestyret når saken ble sluttbehandlet.",
+    "Saken sendes Statsforvalteren i Trøndelag for endelig avgjørelse."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Siv Gjertrud Skjerve Bjøru (Sosialistisk venstreparti)",
+      "tekst": "Klagen fra «Interessegruppa for bevaring av skogen i Kjønstadmarka» taes til etterretning. Vedtak i kommunestyret 4/12 2024, sak 65/2024 oppheves."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming mellom innstilling og alternativt forslag fra Siv Gjertrud Skjerve Bjøru (SV)",
+      "alternativer": [
+        {
+          "navn": "Forslag 1 (Innstilling)",
+          "stemmer": 28
+        },
+        {
+          "navn": "Forslag 2 (Alternativt forslag fra SV)",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "Forslag 1 (Innstilling)",
+      "roedt_stoette": "Forslag 2 (Alternativt forslag fra SV)",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "19.02.2025",
+  "saksnummer_ps": "PS 4/25",
+  "rodt_fremmet_forslag": false
+}

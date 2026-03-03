@@ -1,0 +1,24 @@
+{
+  "tittel": "Levanger Arena KF - Vedtektsendring",
+  "innstilling": "Reviderte vedtekter vedtas.",
+  "vedtak": "Reviderte vedtekter vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming over styret i Levanger Arena KFs forslag til vedtak om reviderte vedtekter.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "24.09.2025",
+  "saksnummer_ps": "PS 53/25",
+  "rodt_fremmet_forslag": false
+}

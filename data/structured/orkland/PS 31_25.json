@@ -1,0 +1,36 @@
+{
+  "tittel": "Digitalisering fakturaflyt",
+  "innstilling": "Kommunestyret gir kommunedirektøren fullmakt til å fravike deler av økonomireglementets krav om attestering og anvisning, som beskrevet i kapittel 6 i vedtatt økonomireglement, under forutsetning av at kriteriene knyttet til forsvarlig økonomistyring og solid styring oppfylles. Fullmakten gjelder ut 2025.",
+  "vedtak": "Kommunestyret gir kommunedirektøren fullmakt til å fravike deler av økonomireglementets krav om attestering og anvisning, som beskrevet i kapittel 6 i vedtatt økonomireglement, under forutsetning av at kriteriene knyttet til forsvarlig økonomistyring og solid styring oppfylles. Fullmakten gjelder ut 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 22.04.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 29.04.2025",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "29.04.2025",
+  "saksnummer_ps": "PS 31/25",
+  "rodt_fremmet_forslag": false
+}

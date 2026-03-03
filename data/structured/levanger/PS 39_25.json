@@ -1,0 +1,73 @@
+{
+  "tittel": "Utredning skolestruktur",
+  "innstilling": "Det bes om en helhetlig og grundig utredning av hele skolestrukturen i Levanger. Saken legges fram for politisk behandling i desember -25. For Ekne skole bes det om at det utredes også m.t.p. økonomiske konsekvenser ved en eventuell etablering av privatskole. Utredningen av økonomiske konsekvenser av en eventuell etablering av privat skole legges frem innen utgangen av september 2025.",
+  "vedtak": "Det bes om en helhetlig og grundig utredning av hele skolestrukturen i Levanger. Der bla. faktorer som regulerte tomter, planlagt boligbygging, demografiendringer i de enkelte skolekretsene blir vektlagt og samfunnsøkonomi i eventuelle endringer de neste ti årene blir vurdert. Saken legges fram for politisk behandling så raskt som mulig. For Ekne skole bes det om at det utredes også m.t.p. økonomiske konsekvenser ved en eventuell etablering av privatskole. Utredningen av økonomiske konsekvenser av en eventuell etablering av privat skole legges frem innen utgangen av september 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jostein Trøite (Sosialistisk venstreparti)",
+      "tekst": "Det gjennomføres ikke videre utredning av endring i skolestruktur i Levanger"
+    },
+    {
+      "forslagsstiller": "Lars Einar Karlsen (Rødt)",
+      "tekst": "Der bla. faktorer som regulerte tomter, planlagt boligbygging, demografiendringer i de enkelte skolekretsene blir vektlagt og samfunnsøkonomi i eventuelle endringer de neste ti årene blir vurdert. Saken legges fram for politisk behandling så raskt som mulig."
+    },
+    {
+      "forslagsstiller": "Lars Erik Ertsås (Høyre)",
+      "tekst": "1. Utredningen gjennomføres av eksternt, uavhengig fagmiljø med dokumentert kompetanse på regional demografi inkludert å kunne vurdere skolestruktur, eksempelvis Telemarksforskning eller tilsvarende. 2. Kommunens potensiale for tilflytting, mulighet for ønsket vridning av demografisk sammensetning og best mulig effekt av investeringer må være grundig dokumentert og analysert i utredningen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på forslag om ikke å gjennomføre videre utredning av endring i skolestruktur i Levanger (forslag fra Jostein Trøite, SV) mot innstilling fra formannskapet.",
+      "alternativer": [
+        {
+          "navn": "For forslag 1 (innstilling fra formannskapet)",
+          "stemmer": 31
+        },
+        {
+          "navn": "For forslag 2 (Jostein Trøite, SV)",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "For forslag 1 (innstilling fra formannskapet)",
+      "roedt_stoette": "For forslag 1 (innstilling fra formannskapet)",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på tillegg-/endringsforslag fra Lars Einar Karlsen (Rødt) om at faktorer som regulerte tomter, boligbygging, demografi og samfunnsøkonomi skal vektlegges og at saken legges fram så raskt som mulig.",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslag (Lars Einar Karlsen, Rødt)",
+          "stemmer": 31
+        },
+        {
+          "navn": "Imot tilleggsforslag (MDG og SV)",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "For tilleggsforslag (Lars Einar Karlsen, Rødt)",
+      "roedt_stoette": "For tilleggsforslag (Lars Einar Karlsen, Rødt)",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på oversendelsesforslag fra Lars Erik Ertsås (Høyre) om at utredningen skal gjennomføres av eksternt, uavhengig fagmiljø med dokumentert kompetanse og at kommunens potensiale for tilflytting og demografisk sammensetning skal dokumenteres og analyseres.",
+      "alternativer": [
+        {
+          "navn": "For oversendelsesforslag (Lars Erik Ertsås, Høyre)",
+          "stemmer": 15
+        },
+        {
+          "navn": "Imot oversendelsesforslag",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Imot oversendelsesforslag",
+      "roedt_stoette": "Imot oversendelsesforslag",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.06.2025",
+  "saksnummer_ps": "PS 39/25",
+  "rodt_fremmet_forslag": true
+}

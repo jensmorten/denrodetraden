@@ -1,0 +1,37 @@
+{
+  "tittel": "Innbyggerforslag til kommunestyret - gjøre friområde Kjønstadmarka til et statlig sikret friluftsområde",
+  "innstilling": null,
+  "vedtak": "Innbyggerforslaget tas ikke til følge.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jostein Trøite (Sosialistisk venstreparti)",
+      "tekst": "Det gjenværende friområdet Kjønstadmarka sikres for fremtidige generasjoner som et friluftsområde, som i dag. Dette gjøres ved at Levanger kommune søker Miljødirektoratet om å gjøre området til et statlig sikret friluftsområde som også gir mulighet for å søke penger til tilrettelegging."
+    },
+    {
+      "forslagsstiller": "Anita Ravlo Sand (Senterpartiet)",
+      "tekst": "Innbyggerforslaget tas ikke til følge."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming mellom forslag fra Jostein Trøite (SV) og Anita Ravlo Sand (SP) om innbyggerforslaget til kommunestyret.",
+      "alternativer": [
+        {
+          "navn": "Forslag 1 (Jostein Trøite, SV)",
+          "stemmer": 7
+        },
+        {
+          "navn": "Forslag 2 (Anita Ravlo Sand, SP)",
+          "stemmer": 28
+        }
+      ],
+      "hvem_vant": "Forslag 2 (Anita Ravlo Sand, SP)",
+      "roedt_stoettet": "Forslag 1 (Jostein Trøite, SV)",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "24.09.2025",
+  "saksnummer_ps": "PS 48/25",
+  "rodt_fremmet_forslag": false
+}

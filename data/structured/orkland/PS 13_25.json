@@ -1,0 +1,24 @@
+{
+  "tittel": "Høring - Innspill til Postutvalgets rapport",
+  "innstilling": "Saken legges frem uten innstilling.\nHøringssvar fra kommunestyret oversendes Samferdselsdepartementet.",
+  "vedtak": "Høringssvar fra kommunestyret oversendes Samferdselsdepartementet.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om omforent forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 38
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoettet": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "25.02.2025",
+  "saksnummer_ps": "PS 13/25",
+  "rodt_fremmet_forslag": false
+}

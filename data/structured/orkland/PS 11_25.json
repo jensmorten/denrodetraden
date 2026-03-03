@@ -1,0 +1,36 @@
+{
+  "tittel": "Anmodning om bosetting av flyktninger 2025",
+  "innstilling": "Kommunestyret vedtar å bosette 75 flyktninger i 2025, hvor 1-2 plasser benyttes til bosetting av enslige mindreårige under 15 år uten følge.",
+  "vedtak": "Kommunestyret vedtar å bosette 75 flyktninger i 2025, hvor 1-2 plasser benyttes til bosetting av enslige mindreårige under 15 år uten følge.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 11.02.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 25.02.2025",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg HOKs innstilling",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Hovedutvalg HOKs innstilling",
+      "roedt_stoettet": "Hovedutvalg HOKs innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "25.02.2025",
+  "saksnummer_ps": "PS 11/25",
+  "rodt_fremmet_forslag": false
+}

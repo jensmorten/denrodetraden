@@ -1,0 +1,73 @@
+{
+  "tittel": "Boligsoner i Levanger sentrum",
+  "innstilling": [
+    "Det etableres to boligsoner i Levanger sentrum, jfr. vedlagte kart.",
+    "12 plasser innerst i Jernbanegata, posisjon 12 og 13 i vedlagte skiltplan, avsettes til boligsoneparkering for boligsone 20.",
+    "10 plasser i Grønns gate, posisjon 7 og 8 i vedlagte skiltplan, avsettes til boligsoneparkering for boligsone 10.",
+    "Satsen for årskort settes til 6500 kroner, satsen for månedskort settes til 650 kr"
+  ],
+  "vedtak": [
+    "Det etableres to boligsoner i Levanger sentrum, jfr. vedlagte kart.",
+    "12 plasser innerst i Jernbanegata, posisjon 12 og 13 i vedlagte skiltplan, avsettes til boligsoneparkering for boligsone 20.",
+    "10 plasser i Grønns gate, posisjon 7 og 8 i vedlagte skiltplan, avsettes til boligsoneparkering for boligsone 10.",
+    "Satsen for årskort settes til 6500 kroner, satsen for månedskort settes til 650 kr",
+    "Kommunedirektøren bes fortløpende vurdere å utvide boligsoneparkering til å gjelde flere plasser ved behov. Og omvendt dersom etterspørselen blir lavere. For at endringene skal kunne skjer raskest mulig avgjøres dette i formannskapet.",
+    "Dersom man ved salg av måneds/årskort i indre sone ser at etterspørselen er høyere enn tilbudet, bes kommunedirektøren om å fortløpende vurdere å utvide antallet plasser tilgjengelig for salg av måneds/årskort i indre sone. For at endringene skal kunne skje raskest mulig avgjøres dette i formannskapet."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Nina Bakken Bye (Høyre)",
+      "tekst": "Kommunedirektøren bes fortløpende vurdere å utvide boligsoneparkering til å gjelde flere plasser ved behov. Og omvendt dersom etterspørselen blir lavere. For at endringene skal kunne skjer raskest mulig avgjøres dette i formannskapet."
+    },
+    {
+      "forslagsstiller": "Mats Henriksen (Fremskrittspartiet)",
+      "tekst": "Dersom man ved salg av måneds/årskort i indre sone ser at etterspørselen er høyere enn tilbudet, bes kommunedirektøren om å fortløpende vurdere å utvide antallet plasser tilgjengelig for salg av måneds/årskort i indre sone. For at endringene skal kunne skje raskest mulig avgjøres dette i formannskapet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Nina Bakken Bye (Høyre)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Mats Henriksen (Fremskrittspartiet)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 25
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Imot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.06.2025",
+  "saksnummer_ps": "PS 37/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "Hurtig Kartlegging Handling rapport - Er det grunn til bekymring for rusbruk blant ungdom i ungdomsskolealder i Orkland?",
+  "innstilling": "Kommunestyret tar HKH rapporten til orientering og kommunedirektøren følger opp foreslåtte tiltak.",
+  "vedtak": "Kommunestyret tar HKH rapporten til orientering og kommunedirektøren følger opp foreslåtte tiltak.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur (2023-2027) 11.02.2025: Kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoette": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 25.02.2025: Hovedutvalg HOKs innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 41
+        }
+      ],
+      "hvem_vant": "Hovedutvalg HOKs innstilling",
+      "roedt_stoette": "Hovedutvalg HOKs innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "25.02.2025",
+  "saksnummer_ps": "PS 10/25",
+  "rodt_fremmet_forslag": false
+}

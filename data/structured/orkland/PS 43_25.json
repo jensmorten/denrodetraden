@@ -1,0 +1,33 @@
+{
+  "tittel": "Klage på vedtak - stemmekretser i Orkland kommune",
+  "innstilling": "Klage fra Å samfunnshus på kommunestyrets vedtak i sak 20/25- stemmekretser i Orkland kommune tas ikke til følge.",
+  "vedtak": "Klage fra Å samfunnshus på kommunestyrets vedtak i sak 20/25- stemmekretser i Orkland kommune tas ikke til følge.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stine Storengen, SP",
+      "tekst": "Klage fra Å samfunnshus på kommunestyrets vedtak i sak 20/25- stemmekretser i Orkland kommune tas til følge."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på kommunedirektørens innstilling mot forslag fra Stine Storengen, SP",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 23
+        },
+        {
+          "navn": "Forslag fra Stine Storengen, SP",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoette": "Forslag fra Stine Storengen, SP",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 43/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "Reguleringsplan for eiendommene 15/102 og 15/146 m. fl - fortetting av boligområde i Øyavegen - 2. gangs behandling",
+  "innstilling": "Kommunedirektørens innstilling",
+  "vedtak": "I medhold av plan- og bygningslovens § 12-12 vedtas reguleringsplan for «Øyavegen fortetting av boligområde gnr./bnr. 15/102 m.fl.» som vist på plankart datert 21.11.24 med tilhørende bestemmelser 06.02.24 og planbeskrivelse 12.02.25.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg forvaltning 11.03.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 25.03.2025",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg forvaltning sin innstilling",
+          "stemmer": 42
+        }
+      ],
+      "hvem_vant": "Hovedutvalg forvaltning sin innstilling",
+      "roedt_stoettet": "Hovedutvalg forvaltning sin innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 17/25",
+  "rodt_fremmet_forslag": false
+}

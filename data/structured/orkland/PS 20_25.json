@@ -1,0 +1,80 @@
+{
+  "tittel": "20/25 Stemmekretser i Orkland kommune",
+  "innstilling": "Orkland kommunestyret vedtar i henhold til valgloven § 9-2 at kommunen reduserer antall stemmekretser fra 11 til 8. Å stemmekrets og Storås stemmekrets slås sammen med Grefstad stemmekrets, mens Gjølme stemmekrets slås sammen med Orkanger stemmekrets før stortings- og sametingsvalget 2025.",
+  "vedtak": "Orkland kommunestyret vedtar i henhold til valgloven § 9-2 og Valgforskriften § 6-2 at kommunen reduserer antall stemmekretser fra 11 til 9. Å stemmekrets slås sammen med Grefstad stemmekrets, mens Gjølme stemmekrets slås sammen med Orkanger stemmekrets før stortings- og sametingsvalget 2025. Kommunestyret ber om at det i god tid før neste valg legges fram sak med en helhetlig vurdering rundt antall stemmekretser i Orkland kommune.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Senterpartiet (Stine Storengen)",
+      "tekst": "Orkland kommunestyret opprettholder dagens struktur på 11 stemmekretser til stortings- og sametingsvalget 2025."
+    },
+    {
+      "forslagsstiller": "AP, H, SV, SMP, V",
+      "tekst": "Orkland kommunestyret vedtar i henhold til valgloven § 9-2 og Valgforskriften § 6-2 at kommunen reduserer antall stemmekretser fra 11 til 9. Å stemmekrets slås sammen med Grefstad stemmekrets, mens Gjølme stemmekrets slås sammen med Orkanger stemmekrets før stortings- og sametingsvalget 2025. Kommunestyret ber om at det i god tid før neste valg legges fram sak med en helhetlig vurdering rundt antall stemmekretser i Orkland kommune."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgstyre 18.03.2025 om kommunedirektørens innstilling vs. forslag fra Senterpartiet",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 5,
+          "partier": [
+            "AP2",
+            "H1",
+            "SV1",
+            "SMP1"
+          ]
+        },
+        {
+          "navn": "Forslag fra Senterpartiet",
+          "stemmer": 5,
+          "partier": [
+            "SP3",
+            "PP1",
+            "FRP1"
+          ]
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 25.03.2025 om forslag fra SP vs. forslag fra AP, H, SV, SMP, V",
+      "alternativer": [
+        {
+          "navn": "Forslag fra AP, H, SV, SMP, V",
+          "stemmer": 23,
+          "partier": [
+            "AP",
+            "H",
+            "SMP",
+            "SV",
+            "V"
+          ]
+        },
+        {
+          "navn": "Forslag fra SP",
+          "stemmer": 20,
+          "partier": [
+            "SP",
+            "PP",
+            "Frp",
+            "Krf",
+            "INP",
+            "R",
+            "uavhengig"
+          ]
+        }
+      ],
+      "hvem_vant": "Forslag fra AP, H, SV, SMP, V",
+      "roedt_stoettet": "Forslag fra SP",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 20/25",
+  "rodt_fremmet_forslag": false
+}

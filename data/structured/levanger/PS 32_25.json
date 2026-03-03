@@ -1,0 +1,24 @@
+{
+  "tittel": "Søknad om fritak fra politiske verv - Grete Monsen",
+  "innstilling": "Grete Monsen fritas fra sine politiske verv for inneværende valgperiode. Som nytt medlem til eldrerådet velges: Ragnhild Skjerve",
+  "vedtak": "Grete Monsen fritas fra sine politiske verv for inneværende valgperiode. Som nytt medlem til eldrerådet velges: Ragnhild Skjerve",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om fritak for Grete Monsen og valg av nytt medlem til eldrerådet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.06.2025",
+  "saksnummer_ps": "PS 32/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,91 @@
+{
+  "tittel": "Delårsrapport 2/2025 - Levanger kommune",
+  "innstilling": [
+    "Delårsrapport 2/25 tas til orientering",
+    "Driftsbudsjett 2025 endres slik:",
+    {
+      "Økte inntekter/reduserte utgifter": {
+        "Økt rammetilskudd": 14700000,
+        "Økt integreringstilskudd": 5000000,
+        "Økte renteinntekter": 3800000,
+        "Reduserte integreringskostnader, innvandrertjenesten": 5400000,
+        "Innsparingskrav BAFA": 2300000,
+        "Innsparingskrav barnevern": 1700000,
+        "Innsparingskrav Enhet helsefremming": 1600000,
+        "SUM": 34500000
+      },
+      "Økte utgifter/reduserte inntekter": {
+        "Økte renteutgifter": 14400000,
+        "Avsetning dekning av udekket merforbruk 2024": 8281686,
+        "Enhet grunnskole, feilbudsjettering TOA": 2800000,
+        "NAV, økt økonomisk sosialhjelp": 7000000,
+        "Avsetning til disposisjonsfond (reserve)": 2018314,
+        "SUM": 34500000
+      }
+    }
+  ],
+  "vedtak": [
+    "Delårsrapport 2/25 tas til orientering",
+    "Driftsbudsjett 2025 endres slik:",
+    {
+      "Økte inntekter/reduserte utgifter": {
+        "Økt rammetilskudd": 14700000,
+        "Økt integreringstilskudd": 5000000,
+        "Økte renteinntekter": 3800000,
+        "Reduserte integreringskostnader, innvandrertjenesten": 5400000,
+        "Innsparingskrav BAFA": 2300000,
+        "Innsparingskrav barnevern": 1700000,
+        "Innsparingskrav Enhet helsefremming": 1600000,
+        "SUM": 34500000
+      },
+      "Økte utgifter/reduserte inntekter": {
+        "Økte renteutgifter": 14400000,
+        "Avsetning dekning av udekket merforbruk 2024": 8281686,
+        "Enhet grunnskole, feilbudsjettering TOA": 2800000,
+        "NAV, økt økonomisk sosialhjelp": 7000000,
+        "Avsetning til disposisjonsfond (reserve)": 2018314,
+        "SUM": 34500000
+      }
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anita Ravlo Sand (Senterpartiet)",
+      "tekst": "Gresset i den fredede parkaksen klippes. Midler omprioriteres internt i enheten."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslaget fra Anita Ravlo Sand (SP)",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 17
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 18
+        }
+      ],
+      "hvem_vant": "Imot tilleggsforslaget",
+      "roedt_stoettet": "For tilleggsforslaget",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.06.2025",
+  "saksnummer_ps": "PS 45/25",
+  "rodt_fremmet_forslag": false
+}

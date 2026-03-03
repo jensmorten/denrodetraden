@@ -1,0 +1,24 @@
+{
+  "tittel": "Salg av kommunal eiendom",
+  "innstilling": "Følgende eiendommer vedtas solgt:\nAdresse Gnr Bnr Areal Reguleringsformål\nNesheimvegen 13 3 25 dekar Landbrukseiendom\nBylundvegen, 279 45 2 dekar Næringsformål\nHeir",
+  "vedtak": "Følgende eiendommer vedtas solgt:\nAdresse Gnr Bnr Areal Reguleringsformål\nNesheimvegen 13 3 25 dekar Landbrukseiendom\nBylundvegen, 279 45 2 dekar Næringsformål\nHeir",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om salg av kommunal eiendom",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.06.2025",
+  "saksnummer_ps": "PS 41/25",
+  "rodt_fremmet_forslag": false
+}

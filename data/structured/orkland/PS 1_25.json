@@ -1,0 +1,33 @@
+{
+  "tittel": "Forhold som gjelder saken om salg/ reparasjon av kommunens feiemaskin",
+  "innstilling": "Kommunestyret ber kommunedirektøren innskjerpe rutinene, slik at eventuell utvikling i saker meddeles kommunestyret før sluttbehandling.",
+  "vedtak": "Kommunestyret vedtar innkjøp av feiemaskin til vei innenfor en kostnad på 1 125 000 kroner inklusive merverdiavgift. Investeringen finansieres med bruk av disposisjonsfond. Feiemaskina tas med i det videre arbeidet med en strategisk plan for kommunens behov for maskinpark og hvilke oppgaver som skal løses i egenregi. Kommunedirektøren foretar nødvendige budsjettjusteringer.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Pensjonistpartiet",
+      "tekst": "Kommunestyret ber kommunedirektøren innskjerpe rutinene, slik at eventuell utvikling i saker meddeles kommunestyret før sluttbehandling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om kjøp av ny feiemaskin til vei innenfor en kostnad på 1 125 000 kroner inklusive merverdiavgift, finansiert med bruk av disposisjonsfond.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "flertall inkl. Pensjonistpartiet"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "ikke spesifisert"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 1/25",
+  "rodt_fremmet_forslag": false
+}

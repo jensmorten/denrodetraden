@@ -1,0 +1,36 @@
+{
+  "tittel": "Bruk av overskuddsfond",
+  "innstilling": "Kommunedirektøren får fullmakt til å foreta detaljert budsjettregulering i tråd med saksframlegget.\nKonto Ansvar Tjeneste Prosjekt Sted Beløp\n02000 201620 2210 50029 500 000\n04290 201620 2210 50029 125 000\n07290 201620 2210 50029 -125 000\n19401 201620 8800 256080925 -500 000\n15700 201620 8800 500 000\n09700 201620 8800 50029 -500 000",
+  "vedtak": "Kommunedirektøren får fullmakt til å foreta detaljert budsjettregulering i tråd med saksframlegget.\nKonto Ansvar Tjeneste Prosjekt Sted Beløp\n02000 201620 2210 50029 500 000\n04290 201620 2210 50029 125 000\n07290 201620 2210 50029 -125 000\n19401 201620 8800 256080925 -500 000\n15700 201620 8800 500 000\n09700 201620 8800 50029 -500 000",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunedirektørens innstilling i Formannskapet 22.04.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling i Kommunestyret 29.04.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "29.04.2025",
+  "saksnummer_ps": "PS 30/25",
+  "rodt_fremmet_forslag": false
+}

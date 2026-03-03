@@ -1,0 +1,29 @@
+{
+  "tittel": "Endring i organisering av hovedutvalg forvaltning",
+  "innstilling": "Hovedutvalg forvaltning endrer antall medlemmer fra 11 til 12.",
+  "vedtak": "Hovedutvalg forvaltning endrer antall medlemmer fra 11 til 12 ut inneværende kommunestyreperiode.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP ved Svein Erik Jørgensen",
+      "tekst": "Hovedutvalg forvaltning endrer antall medlemmer fra 11 til 12 ut inneværende kommunestyreperiode."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om ordførerens innstilling med tilleggsforslag fra AP",
+      "alternativer": [
+        {
+          "navn": "Ordførerens innstilling med tilleggsforslag fra AP",
+          "stemmer": 28
+        }
+      ],
+      "hvem_vant": "Ordførerens innstilling med tilleggsforslag fra AP",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 21/25",
+  "rodt_fremmet_forslag": false
+}

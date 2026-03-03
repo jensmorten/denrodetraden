@@ -1,0 +1,36 @@
+{
+  "tittel": "Forskrift om skolerute for grunnskoleopplæringa og voksenopplæringa",
+  "innstilling": "Kommunestyret vedtar vedlagte forskrift om skolerute i de kommunale grunnskolene og voksenopplæringa i Orkland kommune.",
+  "vedtak": "Kommunestyret vedtar vedlagte forskrift om skolerute i de kommunale grunnskolene og voksenopplæringa i Orkland kommune.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 11.03.2025: Kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 25.03.2025: Hovedutvalg helse, oppvekst og kulturs innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Hovedutvalg helse, oppvekst og kulturs innstilling",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "25.03.2025",
+  "saksnummer_ps": "PS 22/25",
+  "rodt_fremmet_forslag": false
+}

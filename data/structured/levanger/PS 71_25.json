@@ -1,0 +1,39 @@
+{
+  "tittel": "Festiviteten - vurdering av videre drift eventuelt salg",
+  "innstilling": [
+    "Det gjennomføres ikke en videre prosess for salg av Festiviteten.",
+    "Nødvendige avbøtende tiltak gjennomføres slik at Festiviteten kan driftes inntil det er funnet rom i investeringsbudsjettet for renovering av bygget."
+  ],
+  "vedtak": [
+    "Det gjennomføres ikke en videre prosess for salg av Festiviteten.",
+    "Nødvendige avbøtende tiltak gjennomføres slik at Festiviteten kan driftes inntil det er funnet rom i investeringsbudsjettet for renovering av bygget."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Janne K. J. Larsen (Fremskrittspartiet)",
+      "tekst": "Kommunestyret beslutter å selge eller avhende Festiviteten. Kommunedirektøren bes gjennomføre nødvendig prosess for avhending. Videre bes kommunedirektøren om å omdisponere de planlagte investeringene på om lag 70 millioner kroner til etablering av et nytt bibliotek- og aktivitetshus i sentrum."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming mellom innstilling og alternativt forslag om salg av Festiviteten",
+      "alternativer": [
+        {
+          "navn": "Forslag 1 (innstilling)",
+          "stemmer": 33
+        },
+        {
+          "navn": "Forslag 2 (alternativt forslag fra Janne K. J. Larsen, FrP)",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "Forslag 1 (innstilling)",
+      "roedt_stoettet": "Forslag 1 (innstilling)",
+      "roedt_paa_side": "vinner"
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "03.12.2025",
+  "saksnummer_ps": "PS 71/25",
+  "rodt_fremmet_forslag": false
+}

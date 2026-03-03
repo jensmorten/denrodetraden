@@ -1,0 +1,28 @@
+{
+  "tittel": "Dimensjonering av elevtall for ny Åsen barne- og ungdomsskole",
+  "innstilling": "Bygging av ny Åsen barne- og ungdomsskole utsettes. Endelig tidspunkt for byggestart fastsettes i forbindelse med at ny langtidsplan for investeringer vedtas.",
+  "vedtak": "Bygging av ny Åsen barne- og ungdomsskole utsettes. Endelig tidspunkt for byggestart fastsettes i forbindelse med at ny langtidsplan for investeringer vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om utsettelse av bygging av ny Åsen barne- og ungdomsskole",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.06.2025",
+  "saksnummer_ps": "PS 40/25",
+  "rodt_fremmet_forslag": false
+}

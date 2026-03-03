@@ -1,0 +1,24 @@
+{
+  "tittel": "Budsjett 2026, NOK. Trøndelag",
+  "innstilling": "Budsjett 2026 for NOK. Trøndelag vedtas.",
+  "vedtak": "Budsjett 2026 for NOK. Trøndelag vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling om Budsjett 2026 for NOK. Trøndelag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "03.12.2025",
+  "saksnummer_ps": "PS 76/25",
+  "rodt_fremmet_forslag": false
+}

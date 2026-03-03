@@ -1,0 +1,122 @@
+{
+  "tittel": "Orklandbadet KF - valg av styremedlemmer og fastsetting av styrehonorar",
+  "innstilling": {
+    "styremedlemmer": [
+      {
+        "navn": "Morten Wolden",
+        "rolle": "styreleder",
+        "periode": "2 år"
+      },
+      {
+        "navn": "Marie Richter",
+        "rolle": "nestleder",
+        "periode": "2 år",
+        "gjenvalg": true
+      },
+      {
+        "navn": "Tor Erik Sørensen",
+        "rolle": "styremedlem",
+        "periode": "2 år",
+        "gjenvalg": true
+      },
+      {
+        "navn": "Ailin Midtsand",
+        "rolle": "ansatterepresentant",
+        "periode": "2 år",
+        "gjenvalg": true
+      }
+    ],
+    "varamedlemmer": [
+      {
+        "navn": "Aage Schei",
+        "periode": "1 år",
+        "gjenvalg": true
+      },
+      {
+        "navn": "Sigrun Halsen Husdal",
+        "periode": "1 år",
+        "gjenvalg": true
+      },
+      {
+        "navn": "Pia Christin Aarvåg",
+        "rolle": "ansatterepresentant",
+        "periode": "1 år",
+        "gjenvalg": true
+      }
+    ],
+    "honorar": {
+      "leder": "65 000 kroner per år (økes fra kr 52 000)",
+      "styremedlemmer": "35 000 kroner per år (økes fra kr 28 000)",
+      "møtende_varamedlem": "1000 kroner per møte"
+    }
+  },
+  "vedtak": {
+    "styremedlemmer": [
+      {
+        "navn": "Morten Wolden",
+        "rolle": "styreleder",
+        "periode": "2 år"
+      },
+      {
+        "navn": "Marie Richter",
+        "rolle": "nestleder",
+        "periode": "2 år",
+        "gjenvalg": true
+      },
+      {
+        "navn": "Tor Erik Sørensen",
+        "rolle": "styremedlem",
+        "periode": "2 år",
+        "gjenvalg": true
+      },
+      {
+        "navn": "Ailin Midtsand",
+        "rolle": "ansatterepresentant",
+        "periode": "2 år",
+        "gjenvalg": true
+      }
+    ],
+    "varamedlemmer": [
+      {
+        "navn": "Aage Schei",
+        "periode": "1 år",
+        "gjenvalg": true
+      },
+      {
+        "navn": "Sigrun Halsen Husdal",
+        "periode": "1 år",
+        "gjenvalg": true
+      },
+      {
+        "navn": "Pia Christin Aarvåg",
+        "rolle": "ansatterepresentant",
+        "periode": "1 år",
+        "gjenvalg": true
+      }
+    ],
+    "honorar": {
+      "leder": "65 000 kroner per år (økes fra kr 52 000)",
+      "styremedlemmer": "35 000 kroner per år (økes fra kr 28 000)",
+      "møtende_varamedlem": "1000 kroner per møte"
+    }
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgkomiteens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 42
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 38/25",
+  "rodt_fremmet_forslag": false
+}

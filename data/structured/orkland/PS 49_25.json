@@ -1,0 +1,24 @@
+{
+  "tittel": "Revidert samarbeidsavtale for Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge",
+  "innstilling": "Kommunestyret vedtar revidert samarbeidsavtale om Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge.",
+  "vedtak": "Kommunestyret vedtar revidert samarbeidsavtale om Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "20.05.2025",
+  "saksnummer_ps": "PS 49/25",
+  "rodt_fremmet_forslag": false
+}

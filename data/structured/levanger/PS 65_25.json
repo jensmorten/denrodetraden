@@ -1,0 +1,33 @@
+{
+  "tittel": "PS 65/25 Lovlighetskontroll - Detaljregulering Kjønstadmarka trinn 4",
+  "innstilling": "Kommunestyrets vedtak i sak 49/25 i møte 24.09.2025 opprettholdes. Saken oversendes Statsforvalteren for lovlighetskontroll, jfr. kommunelovens § 27-1.",
+  "vedtak": "Kommunestyrets vedtak i sak 49/25 i møte 24.09.2025 opprettholdes. Saken oversendes Statsforvalteren for lovlighetskontroll, jfr. kommunelovens § 27-1.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jostein Trøite (Sosialistisk venstreparti)",
+      "tekst": "Detaljregulering for Kjønstadmarka trinn 4,avvises.Vedtak i sak 49 i møte 24 09 2025 oppheves"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming mellom kommunedirektørens forslag til vedtak og Jostein Trøites forslag om å avvise detaljregulering for Kjønstadmarka trinn 4",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens forslag",
+          "stemmer": 28
+        },
+        {
+          "navn": "Jostein Trøites forslag",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens forslag",
+      "roedt_stoettet": "Jostein Trøites forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "22.10.2025",
+  "saksnummer_ps": "PS 65/25",
+  "rodt_fremmet_forslag": false
+}

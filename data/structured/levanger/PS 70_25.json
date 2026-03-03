@@ -1,0 +1,33 @@
+{
+  "tittel": "Søknad om finansiering av økt antall barnehageplasser i Kårstua barnehage",
+  "innstilling": "Levanger kommune avslår søknaden fra Kårstua barnehage om å finansiere nye barnehageplasser.",
+  "vedtak": "Levanger kommune avslår søknaden fra Kårstua barnehage om å finansiere nye barnehageplasser.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Janne K. J. Larsen (Fremskrittspartiet)",
+      "tekst": "Levanger kommune innvilger søknaden fra Kårstua barnehage om finansiering av 6 nye barnehageplasser fra 01.01.2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming mellom formannskapets innstilling om å avslå søknaden og Fremskrittspartiets alternative forslag om å innvilge finansiering av 6 nye barnehageplasser.",
+      "alternativer": [
+        {
+          "navn": "Avslå søknaden",
+          "stemmer": 32
+        },
+        {
+          "navn": "Innvilge søknaden",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "Avslå søknaden",
+      "roedt_stoettet": "Avslå søknaden",
+      "roedt_paa_side": "vinner"
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "03.12.2025",
+  "saksnummer_ps": "PS 70/25",
+  "rodt_fremmet_forslag": false
+}

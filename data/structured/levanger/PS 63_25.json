@@ -1,0 +1,308 @@
+{
+  "tittel": "Oppnevning av representanter til Levanger Ungdomsråd 2025 - 2026",
+  "innstilling": {
+    "representanter": [
+      {
+        "navn": "Bjørn Kosberg Sørensen",
+        "kjønn": "Gutt",
+        "alder": 17,
+        "skole": "Levanger vgs",
+        "status": "Fast - ny",
+        "periode": "2025-2027"
+      },
+      {
+        "navn": "Mina Sofie Jensen",
+        "kjønn": "Jente",
+        "alder": 17,
+        "skole": "Fast",
+        "status": "gj.v.",
+        "periode": "2025-2027"
+      },
+      {
+        "navn": "Ulrik Rørstrand Gustavsen",
+        "kjønn": "Gutt",
+        "alder": 17,
+        "skole": "Levanger vgs",
+        "status": "Fast – gj.v.",
+        "periode": "2025-2027"
+      },
+      {
+        "navn": "Tuva Kolbrek",
+        "kjønn": "Jente",
+        "alder": 14,
+        "skole": "Åsen bu",
+        "status": "Fast - ny",
+        "periode": "2025-2027"
+      },
+      {
+        "navn": "Oliver Lien Langåssve",
+        "kjønn": "Gutt",
+        "alder": 14,
+        "skole": "Levanger u",
+        "status": "Fast - ny",
+        "periode": "2025-2027"
+      },
+      {
+        "navn": "Carl Fredrik Lundh",
+        "kjønn": "Gutt",
+        "alder": 14,
+        "skole": "Levanger u",
+        "status": "Fast - ny",
+        "periode": "2025-2026"
+      }
+    ],
+    "vararepresentanter": [
+      {
+        "navn": "Vihle Fossum",
+        "kjønn": "Jente",
+        "alder": 14,
+        "skole": "Levanger u",
+        "status": "Vara - ny",
+        "periode": "2025-2026"
+      },
+      {
+        "navn": "Håkon Voll",
+        "kjønn": "Gutt",
+        "alder": 17,
+        "skole": "Levanger vgs",
+        "status": "Vara - ny",
+        "periode": "2025-2026"
+      },
+      {
+        "navn": "Tina Synnøve",
+        "status": "Vara - ny",
+        "periode": "2025-2026"
+      },
+      {
+        "navn": "Inna Lena Tokat",
+        "kjønn": "Jente",
+        "alder": 15,
+        "skole": "Levanger vgs",
+        "status": "Vara - ny",
+        "periode": "2025-2026"
+      }
+    ],
+    "representanter_ikke_på_valg": [
+      {
+        "navn": "Oda Hovdal",
+        "kjønn": "Jente",
+        "alder": 13,
+        "skole": "Åsen bu",
+        "status": "Fast",
+        "periode": "2024-2026"
+      },
+      {
+        "navn": "Magnus Matberg",
+        "kjønn": "Gutt",
+        "alder": 17,
+        "skole": "Levanger vgs",
+        "status": "Fast",
+        "periode": "2024-2026"
+      },
+      {
+        "navn": "Tonje Nervik",
+        "kjønn": "Jente",
+        "alder": 18,
+        "skole": "Levanger vgs",
+        "status": "Fast",
+        "periode": "2024-2026"
+      },
+      {
+        "navn": "Linnea Margrete Trana",
+        "kjønn": "Jente",
+        "alder": 16,
+        "skole": "Verdal vgs",
+        "status": "Fast",
+        "periode": "2024-2026"
+      },
+      {
+        "navn": "Noah Nicolai Rønning",
+        "kjønn": "Gutt",
+        "alder": 17,
+        "skole": "Levanger vgs",
+        "status": "Fast",
+        "periode": "2024-2026"
+      }
+    ]
+  },
+  "vedtak": {
+    "representanter": [
+      {
+        "navn": "Bjørn Kosberg Sørensen",
+        "kjønn": "Gutt",
+        "alder": 17,
+        "skole": "Levanger vgs",
+        "status": "Fast - ny",
+        "periode": "2025-2027"
+      },
+      {
+        "navn": "Mina Sofie Jensen",
+        "kjønn": "Jente",
+        "alder": 17,
+        "skole": "Fast",
+        "status": "gj.v.",
+        "periode": "2025-2027"
+      },
+      {
+        "navn": "Ulrik Rørstrand Gustavsen",
+        "kjønn": "Gutt",
+        "alder": 17,
+        "skole": "Levanger vgs",
+        "status": "Fast – gj.v.",
+        "periode": "2025-2027"
+      },
+      {
+        "navn": "Tuva Kolbrek",
+        "kjønn": "Jente",
+        "alder": 14,
+        "skole": "Åsen bu",
+        "status": "Fast - ny",
+        "periode": "2025-2027"
+      },
+      {
+        "navn": "Oliver Lien Langåssve",
+        "kjønn": "Gutt",
+        "alder": 14,
+        "skole": "Levanger u",
+        "status": "Fast - ny",
+        "periode": "2025-2027"
+      },
+      {
+        "navn": "Carl Fredrik Lundh",
+        "kjønn": "Gutt",
+        "alder": 14,
+        "skole": "Levanger u",
+        "status": "Fast - ny",
+        "periode": "2025-2026"
+      }
+    ],
+    "vararepresentanter": [
+      {
+        "navn": "Vihle Fossum",
+        "kjønn": "Jente",
+        "alder": 14,
+        "skole": "Levanger u",
+        "status": "Vara - ny",
+        "periode": "2025-2026"
+      },
+      {
+        "navn": "Håkon Voll",
+        "kjønn": "Gutt",
+        "alder": 17,
+        "skole": "Levanger vgs",
+        "status": "Vara - ny",
+        "periode": "2025-2026"
+      },
+      {
+        "navn": "Tina Synnøve",
+        "status": "Vara - ny",
+        "periode": "2025-2026"
+      },
+      {
+        "navn": "Inna Lena Tokat",
+        "kjønn": "Jente",
+        "alder": 15,
+        "skole": "Levanger vgs",
+        "status": "Vara - ny",
+        "periode": "2025-2026"
+      }
+    ],
+    "representanter_ikke_på_valg": [
+      {
+        "navn": "Oda Hovdal",
+        "kjønn": "Jente",
+        "alder": 13,
+        "skole": "Åsen bu",
+        "status": "Fast",
+        "periode": "2024-2026"
+      },
+      {
+        "navn": "Magnus Matberg",
+        "kjønn": "Gutt",
+        "alder": 17,
+        "skole": "Levanger vgs",
+        "status": "Fast",
+        "periode": "2024-2026"
+      },
+      {
+        "navn": "Tonje Nervik",
+        "kjønn": "Jente",
+        "alder": 18,
+        "skole": "Levanger vgs",
+        "status": "Fast",
+        "periode": "2024-2026"
+      },
+      {
+        "navn": "Linnea Margrete Trana",
+        "kjønn": "Jente",
+        "alder": 16,
+        "skole": "Verdal vgs",
+        "status": "Fast",
+        "periode": "2024-2026"
+      },
+      {
+        "navn": "Noah Nicolai Rønning",
+        "kjønn": "Gutt",
+        "alder": 17,
+        "skole": "Levanger vgs",
+        "status": "Fast",
+        "periode": "2024-2026"
+      }
+    ]
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming over Valgutvalgets forslag til vedtak om oppnevning av representanter til Levanger Ungdomsråd 2025-2026",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34,
+          "representanter": [
+            "Astrid Vordal (AP)",
+            "Glenn Håvard Jakobsen (AP)",
+            "Ina Helen Pedersen (AP)",
+            "Marit Klara Dypdal Kverkild (AP)",
+            "Olav Dehli (AP)",
+            "Per Aunan (AP)",
+            "Rolf Inge Elvbakken (AP)",
+            "Stig Ove Sommervoll (AP)",
+            "Tone Wanderås (AP)",
+            "Janne K. J. Larsen (FrP)",
+            "Mats Henriksen (FrP)",
+            "Håvard Lutdal (H)",
+            "Julianne Hjelmstad (H)",
+            "Knut-Erik Henrikø (H)",
+            "Lars Erik Ertsås (H)",
+            "Margunn Ebbesen (H)",
+            "Nina Bakken Bye (H)",
+            "Ivar Rausand (INP)",
+            "Magne Nydal (KrF)",
+            "Nina Groven (KrF)",
+            "Jens Olaf Kleinau (MDG)",
+            "Asgeir Persøy (PENSJ)",
+            "Lars Einar Karlsen (R)",
+            "Anita Ravlo Sand (SP)",
+            "Dagrun Myhr (SP)",
+            "Elise Brattgjerd Brenne (SP)",
+            "Frode Lund (SP)",
+            "Harald Asbjørn Lein (SP)",
+            "Merete Bøhn-Flatås (SP)",
+            "Randi Haugskott (SP)",
+            "Gunnar Løvås (SV)",
+            "Jostein Trøite (SV)",
+            "Siv Gjertrud Skjerve (SV)",
+            "Oddgeir Hagen (V)"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "24.09.2025",
+  "saksnummer_ps": "PS 63/25",
+  "rodt_fremmet_forslag": false
+}

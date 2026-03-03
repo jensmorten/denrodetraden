@@ -1,0 +1,55 @@
+{
+  "tittel": "PS 28/25 Regnskap og årsberetning 2024 - Levanger kommune",
+  "innstilling": [
+    "Levanger kommunes årsberetning for 2024 vedtas.",
+    "Levanger kommunes årsregnskap for 2024 vedtas.",
+    "Endret gjennomføring av kommunale planprosesser vedtas i henhold til statusbeskrivelse i årsberetningen og innarbeides i Planstrategi 2024-2027, i kapittelet «Planer og planbehov».",
+    "Regnskapsmessig merforbruk i 2024, kr. 13.381.686,-., dekkes inn gjennom redusert avsetning til disposisjonsfond, 5,1 mill. kroner, i 2025. Resterende dekkes inn i 2026 og innarbeides i budsjett for 2026."
+  ],
+  "vedtak": [
+    "Levanger kommunes årsberetning for 2024 vedtas.",
+    "Levanger kommunes årsregnskap for 2024 vedtas.",
+    "Endret gjennomføring av kommunale planprosesser vedtas i henhold til statusbeskrivelse i årsberetningen og innarbeides i Planstrategi 2024-2027, i kapittelet «Planer og planbehov».",
+    "Regnskapsmessig merforbruk i 2024, kr. 13.381.686,-., dekkes inn gjennom redusert avsetning til disposisjonsfond, 5,1 mill. kroner, i 2025. Resterende dekkes inn i 2026 og innarbeides i budsjett for 2026."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jostein Trøite (Sosialistisk venstreparti)",
+      "tekst": "Nytt punkt 5: I Årsberetningen for Levanger kommune 2024 står det: «Levanger kommunes mål om utslipp av klimagasser med minst 50-55% innen 2030 sammenlignet med 2009-nivået nåes ikke med dagens utvikling.» Kommunestyret ber derfor om at det settes i verk tiltak for å nå de vedtatte mål"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over oversendelsesforslaget fra Jostein Trøite (SV)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 12
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "21.05.2025",
+  "saksnummer_ps": "PS 28/25",
+  "rodt_fremmet_forslag": false
+}
