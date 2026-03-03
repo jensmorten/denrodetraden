@@ -1,0 +1,24 @@
+{
+  "tittel": "Delegering av kommunestyrets myndighet til valgstyret",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Kommunestyret delegerer til valgstyret i medhold av valglovens § 4-2 å oppnevne medlemmer og varamedlemmer i stemmestyrene og blant disse leder og nestleder for valgperioden 2023-2027.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "30.01.2023",
+  "saksnummer_ps": "PS 8/23",
+  "rodt_fremmet_forslag": false
+}

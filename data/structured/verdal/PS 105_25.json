@@ -1,0 +1,42 @@
+{
+  "tittel": "PS 105/25 Regulering av investeringer 2025",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": {
+    "1": {
+      "driftsbudsjett": {
+        "avdrag_økes_med": 2712000,
+        "detaljer": {
+          "a": "712.000 kroner for å oppfylle kommunelovens krav til minsteavdrag",
+          "b": "2.000.000 kroner for å øke kommunaløkonomisk bærekraft"
+        },
+        "finansiering": "Økt skatteanslag 2.712.000 kroner"
+      }
+    },
+    "2": {
+      "investeringsbudsjett": {
+        "a": "Kommunedirektøren gis fullmakt til å iverksette nødvendige tiltak for tilpasning av lokaler i Framgården til Flyktninghelsetjenesten og Helsestasjon for ungdom, innenfor en kostnadsramme på inntil 375 000 kroner. Investeringsbudsjettet økes tilvarende.",
+        "b": "Kjøp av eiendommen Tindved for 8.165.000 kroner innarbeides i investeringsbudsjettet for 2025. Investeringsbudsjettet økes tilvarende.",
+        "c": "Finansiering: Investeringene finansieres med momskompensasjon og låneopptak."
+      }
+    }
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Ved votering ble formannskapets innstilling enstemmig vedtatt.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "24.11.2025",
+  "saksnummer_ps": "PS 105/25",
+  "rodt_fremmet_forslag": false
+}

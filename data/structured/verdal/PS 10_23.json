@@ -1,0 +1,24 @@
+{
+  "tittel": "Møteplan 2023 - Endring",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Ekstra møte i formannskapet 24. november 2023 vedtas, jfr. vedlagte reviderte møteplan.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "30.01.2023",
+  "saksnummer_ps": "PS 10/23",
+  "rodt_fremmet_forslag": false
+}

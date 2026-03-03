@@ -1,0 +1,27 @@
+{
+  "tittel": "Innbyggerforslag - Oppholdstid basert på behov i barnehage og SFO",
+  "innstilling": null,
+  "vedtak": [
+    "Kommunestyret tar innbyggerforslaget til orientering.",
+    "Kommunestyret deler forslagsstillers bekymring når det gjelder bemanning/rekrutteringsutfordringer i barnehage og SFO, og økt sykefravær i barnehage."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Ved votering ble forslag til vedtak enstemmig vedtatt.",
+      "alternativer": [
+        {
+          "navn": "Forslag til vedtak",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag til vedtak",
+      "roedt_stoettet": "Forslag til vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "27.10.2025",
+  "saksnummer_ps": "PS 95/25",
+  "rodt_fremmet_forslag": false
+}

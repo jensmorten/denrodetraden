@@ -1,0 +1,61 @@
+{
+  "tittel": "PS 97/25 Møteplan 2026",
+  "innstilling": "Forslag til møteplan for utvalgene, administrasjonsutvalget, formannskapet og kommunestyret for 2026 vedtas med følgende endringer:\nFormannskap første møte flyttes til 4.juni\nPlan og samfunn flyttes til 16.juni\nMennesker og livskvalitet flyttes til 17.juni\nFormannskap siste møte flyttes til 18.juni\nAdmutvalg flyttes til 18.juni\nKommunestyremøte flyttes til 22.juni\nKommunestyrets møter starter som regel kl. 18.00, de andre møtene kl. 09.00.",
+  "vedtak": "1.Forslag til møteplan for utvalgene, administrasjonsutvalget, formannskapet og kommunestyret for 2026 vedtas med følgende endringer:\nFormannskap første møte flyttes til 4.juni\nPlan og samfunn flyttes til 16.juni\nMennesker og livskvalitet flyttes til 17.juni\nFormannskap siste møte flyttes til 18.juni\nAdmutvalg flyttes til 18.juni\nKommunestyremøte flyttes til 22.juni\n2.Kommunestyrets møter starter som regel kl. 18.00, de andre møtene kl. 09.00.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP v/Trine Reitan",
+      "tekst": "Endring punkt 2.\nStryk «som regel»\nNytt punkt 3.\nKommunestyret som også er budsjettmøte, skal starte kl 09.00"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på Formannskapets innstilling pkt. 1",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling pkt. 1",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling pkt. 1",
+      "roedt_stoette": "Formannskapets innstilling pkt. 1",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på Formannskapets innstilling pkt. 2 alternativt mot forslaget fra AP",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling pkt. 2",
+          "stemmer": 24
+        },
+        {
+          "navn": "Forslaget fra AP",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling pkt. 2",
+      "roedt_stoette": "Forslaget fra AP",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering på forslag fra AP til nytt pkt. 3",
+      "alternativer": [
+        {
+          "navn": "Forslag fra AP til nytt pkt. 3",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot forslag fra AP til nytt pkt. 3",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Mot forslag fra AP til nytt pkt. 3",
+      "roedt_stoette": "Forslag fra AP til nytt pkt. 3",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "27.10.2025",
+  "saksnummer_ps": "PS 97/25",
+  "rodt_fremmet_forslag": false
+}

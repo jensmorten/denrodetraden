@@ -1,0 +1,122 @@
+{
+  "tittel": "PS 114/25 Økonomiplan 2026-2029 og Budsjett 2026",
+  "innstilling": "Formannskapets innstilling med vedtatte forslag til budsjett 2026 og økonomiplan 2026-2029, inkludert endringsforslag fra H/SP/VDL/FRP pkt. 2 og 12.",
+  "vedtak": {
+    "1": "Budsjett 2026 og Økonomiplan 2026-2029 vedtas i samsvar med saksfremlegg og de premiss og analyser som følger av nettversjonen av økonomiplanen.",
+    "2": "Eiendomsskatt skrives ut i 2026 med generell sats 5,5 promille og bolig/fritid 3,5 promille, med fritak som angitt. Nivå på eiendomsskatt skal reduseres til 2025-nivå innen 2030.",
+    "3": "Økonomireglement for 2026 vedtas i samsvar med vedlagt dokument.",
+    "4": "Nye gebyr- og betalingssatser for 2026 vedtas, med økning på vann (10 %), avløp (7 %) og renovasjon.",
+    "5": "Ramme for låneopptak til videreutlån/etableringslån settes til 75 millioner kroner.",
+    "6": "Rammer for låneopptak til investeringer settes til inntil 258,94 millioner kroner, med fullmakter til kommunedirektør som angitt.",
+    "7": "Kommunedirektør får fullmakt til tekniske/administrative justeringer av budsjett og økonomiplan.",
+    "8": "Kommunedirektør har fullmakt til administrative tilpasninger for å oppfylle realismekrav i kommuneloven, med begrensninger som angitt.",
+    "9": "Eventuell økning i økonomisk ramme over statsbudsjettet benyttes til å redusere bruk av fond.",
+    "10": "Kommunedirektøren skal legge fram sak om behov for økte drifts- og investeringsbevilgninger til kirken 2027-2030.",
+    "11": "Bruk av utbytte fra NTE med 16,55 millioner kroner disponeres til utviklingsformål og Stiklestad nye tusen år som angitt.",
+    "12": "Bestilling av ekstern analyse og utredning av kommuneorganisasjonens organisering, drift og tjenesteproduksjon, finansiert med inntil 1 300 000 kroner.",
+    "13": "Kommunestyret ber kommunedirektøren vurdere møteplasser for videregåendeelever som del av utredning for Framgården/Tindved.",
+    "14": "Støtte til private eiere av anlegg settes til 450 000 kroner i 2026, indeksreguleres årlig.",
+    "15": "Kommunedirektøren bes om å fortsette arbeidet med omstilling og effektivisering av organisasjonen.",
+    "16": "Utleiepriser for kommunale idrettsanlegg opprettholdes på samme sats som i 2025."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "H/SP/VDL/FRP",
+      "tekst": "Endringsforslag pkt. 2 og 12: Eiendomsskatt skal innarbeides i budsjett og økonomiplan med nivå redusert til 2025-nivå innen 2030. Bestilling av ekstern analyse og utredning av kommuneorganisasjonens organisering, drift og tjenesteproduksjon, med mål om bærekraftig økonomi og effektivitet."
+    },
+    {
+      "forslagsstiller": "AP v/Trine Reitan",
+      "tekst": "Alternativt forslag til budsjett 2026 og økonomiplan 2026-2029 med fokus på forebygging, kompetanseutvikling, styrking av helse og omsorg, frivillighet, boligbygging, og økonomisk bærekraft. Inkluderer konkrete tiltak og økonomiske prioriteringer."
+    },
+    {
+      "forslagsstiller": "V, SV og Rødt",
+      "tekst": "Alternativt forslag med endringer i bruk av ekstra midler på 8,3 mill til helse og omsorg, barnevern, frivillighetskoordinator, disposisjonsfond, samt tillegg i pkt. 12 og 13 om utredning av innsparingstiltak og møteplasser for videregåendeelever."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på forslag fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 11
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering på forslag fra V/R/SV",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 3
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 32
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering på formannskapets innstilling pkt. 2 mot alternativt forslag fra H/SP/VDL/FRP",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 14
+        },
+        {
+          "navn": "H/SP/VDL/FRP forslag",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "H/SP/VDL/FRP forslag",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering på formannskapets innstilling pkt. 12 mot alternativt forslag fra H/SP/VDL/FRP",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 14
+        },
+        {
+          "navn": "H/SP/VDL/FRP forslag",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "H/SP/VDL/FRP forslag",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Samlet votering på formannskapets innstilling med vedtatte forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 21
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "Taper"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "15.12.2025",
+  "saksnummer_ps": "PS 114/25",
+  "rodt_fremmet_forslag": true
+}

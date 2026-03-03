@@ -1,0 +1,60 @@
+{
+  "tittel": "PS 79/25 Salg/overdragelse av bygg - Leksdal skole",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "1. Kommunestyret overdrar Leksdal skole, eiendommene Gnr. 66 bnr. 17-18, 21 og 37 med tilhørende bygninger vederlagsfritt til Leksdal Idrettslag.",
+    "2. Overdragelse av eiendommene avtales til 1. mai 2026"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Einar Olav Larsen (SP) på vegne av H/SP/VDL/FRP",
+      "tekst": "2. Overdragelse av eiendommene avtales til 1. mai 2026"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Marit Voll (SP)",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om forslag til nytt pkt. 2 fra H/SP/VDL/FRP",
+      "alternativer": [
+        {
+          "navn": "Forslag fra H/SP/VDL/FRP",
+          "stemmer": 23
+        },
+        {
+          "navn": "Imot (AP og INP)",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "Forslag fra H/SP/VDL/FRP",
+      "roedt_stoettet": "Forslag fra H/SP/VDL/FRP",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.09.2025",
+  "saksnummer_ps": "PS 79/25",
+  "rodt_fremmet_forslag": false
+}

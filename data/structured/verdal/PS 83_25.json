@@ -1,0 +1,33 @@
+{
+  "tittel": "Regionalt Pilegrimssenter Stiklestad - endring av aksjonæravtale",
+  "innstilling": "Formannskapets innstilling (ikke spesifisert i teksten)",
+  "vedtak": "Kommunestyret gir kommunedirektøren fullmakt til å forlenge eksisterende avtale med 1 år. Kommunestyret ber Kommunedirektør fremme ny sak etter ferdigstilling av Museene Arvens behandling av sak omkring eierskap i Regionalt pilegrimssenter Stiklestad.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører",
+      "tekst": "Kommunestyret gir kommunedirektøren fullmakt til å forlenge eksisterende avtale med 1 år. Kommunestyret ber Kommunedirektør fremme ny sak etter ferdigstilling av Museene Arvens behandling av sak omkring eierskap i Regionalt pilegrimssenter Stiklestad."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom formannskapets innstilling og forslaget fra ordfører",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 0
+        },
+        {
+          "navn": "Ordførers forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Ordførers forslag",
+      "roedt_stoettet": "Ordførers forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.09.2025",
+  "saksnummer_ps": "PS 83/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av møteprotokoll",
+  "innstilling": "Protokoll fra møte 12.12.22 godkjennes.",
+  "vedtak": "Protokoll fra møte 12.12.22 godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordførers forslag til vedtak om godkjenning av protokoll fra møte 12.12.22",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "30.01.2023",
+  "saksnummer_ps": "PS 1/23",
+  "rodt_fremmet_forslag": false
+}

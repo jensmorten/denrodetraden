@@ -1,0 +1,120 @@
+{
+  "tittel": "PS 107/25 Oppfølging av politisk vedtak - PS 90/2025",
+  "innstilling": "Formannskapets innstilling vedtatt med 28 mot 7 stemmer (VDL, Moe (SP) og Daleng (SP))",
+  "vedtak": [
+    "1. Kommunestyret godkjenner at kommunedirektørens forslag til brev beskrevet i konklusjonen i saksframlegget, med følgende tillegg:\n\nTillegg spørsmål 1 i saksfremlegg (brevet)\nEr det riktig forståelse at kapasitet først kan tas med i vurderingen når en skole er full når en kommune skal fastsette forskrift for skolekretsgrenser for bo-områdene i en kommune?\nPkt 1.\nKan kommunen vekte faktorer som elevenes tilhørighet til nærmiljøet, fritidstilbud, topografi og trafikkforhold tyngre enn korteste reisevei når forskjellen i reisevei er liten?\nHva anses eventuelt da som \"liten\" forskjell i reisevei, og kan dette defineres nærmere i antall kilometer eller minutter?\nPkt 2\nVil svar fra Statsråd i spørretime dato xxx omkring opplæringslov og nærskoleprinsipp endre eller påvirke praksis hos statsforvalter i behandling av kommunale vedtak knyttet til forskrift om skolekretsgrenser .\nReferanse: lenke /video spørretime",
+    "2. Kommunedirektøren sendere brevet til Utdanningsdirektoratet for en skriftlig avklaring."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "SP v/Hilde Daleng",
+      "tekst": "Saken utsettes i påvente av at virkning av svaret fra Kunnskapsminister blir kjent."
+    },
+    {
+      "forslagsstiller": "H v/Oddleiv Aksnes",
+      "tekst": "Kan kommunen vekte faktorer som elevenes tilhørighet til nærmiljøet, fritidstilbud, topografi og trafikkforhold tyngre enn korteste reisevei når forskjellen i reisevei er liten? Hva anses eventuelt da som \"liten\" forskjell i reisevei, og kan dette defineres nærmere i antall kilometer eller minutter?"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på SP v/Hilde Daleng sitt utsettelsesforslag",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 22
+        }
+      ],
+      "hvem_vant": "Mot utsettelsesforslaget",
+      "roedt_stoette": "Mot utsettelsesforslaget",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering 1.0 - Formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 28
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoette": "Mot innstillingen",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering 1.1 - Formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 6
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Mot innstillingen",
+      "roedt_stoette": "Mot innstillingen",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering 1.2 - Formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 29
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoette": "Mot innstillingen",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering 1.1 - Høyres forslag",
+      "alternativer": [
+        {
+          "navn": "For Høyres forslag",
+          "stemmer": 27
+        },
+        {
+          "navn": "Mot Høyres forslag",
+          "stemmer": 8
+        }
+      ],
+      "hvem_vant": "For Høyres forslag",
+      "roedt_stoette": "Mot Høyres forslag",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering pkt 2 - Formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 28
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoette": "Mot innstillingen",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "24.11.2025",
+  "saksnummer_ps": "PS 107/25",
+  "rodt_fremmet_forslag": false
+}

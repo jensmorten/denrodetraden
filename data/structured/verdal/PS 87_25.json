@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg Verdal Ungdomsråd 2025-2026",
+  "innstilling": "Kommunedirektørens forslag til vedtak",
+  "vedtak": "Følgende velges inn som medlemmer av Verdal ungdomsråd for kommende 2-års periode: Molly Aas Andersen, Bastian Slørdahl Garberg, Bendik Leinum, Fredrick Thørnquist",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.09.2025",
+  "saksnummer_ps": "PS 87/25",
+  "rodt_fremmet_forslag": false
+}

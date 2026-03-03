@@ -1,0 +1,27 @@
+{
+  "tittel": "PS 99/25 Jon Arve Hollekim (AP) - Søknad om permisjon for kommunale verv til 01.03.2026",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Jon Arve Hollekim innvilges permisjon fra folkevalgte verv som omsøkt fram til og med 28. februar 2026.",
+    "Settemedlem i kontrollutvalget i perioden: Astrid Tromsdal (AP)."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "27.10.2025",
+  "saksnummer_ps": "PS 99/25",
+  "rodt_fremmet_forslag": false
+}

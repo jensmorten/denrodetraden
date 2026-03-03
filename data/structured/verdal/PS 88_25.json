@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av møteprotokoll",
+  "innstilling": "Protokoll fra møte 29. september 2025 godkjennes.",
+  "vedtak": "Protokoll fra møte 29. september 2025 godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordførers forslag til vedtak om godkjenning av protokoll fra møte 29. september 2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "27.10.2025",
+  "saksnummer_ps": "PS 88/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Detaljregulering Bergsgrav stasjon - sluttbehandling",
+  "innstilling": "Innstillingen for plan og samfunn",
+  "vedtak": "Vedlagt planforslag vedtas iht. plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen for plan og samfunn",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "27.10.2025",
+  "saksnummer_ps": "PS 94/25",
+  "rodt_fremmet_forslag": false
+}

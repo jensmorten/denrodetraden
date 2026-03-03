@@ -1,0 +1,132 @@
+{
+  "tittel": "PS 103/25 Fordeling av arenasponsormidler Verdal stadion",
+  "innstilling": "Formannskapets innstilling om fordeling av arenasponsormidler ved Verdal stadion.",
+  "vedtak": "Verdal kommune endrer forutsetning i kommunestyrets sak 8/2022, pkt 4 til:\nVerdal kommunes andel av midler knyttet til arenasponsor fordeles på følgende måte:\na.Midlene fordeles mellom de øvrige lagene som har fotballaktivitet for barn og unge basert på aktivitetstall fra NIF.\nb.Verdal kommune ber idrettsrådet administrere den videre tildelingen til aktuelle lag.\nc.Mottaker av midler må rapportere til Verdal idrettsråd hvordan sponsormidlene kommer barn og unge til gode. Idrettsrådet informerer øvrige interessenter samlet om bruken.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Ragnhild Iversen (AP).",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vurdering av habilitet for Fredrik Grevskott (AP).",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 30
+        },
+        {
+          "navn": "Ikke inhabil",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Ikke inhabil",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Vurdering av habilitet for Ståle Moe (SP).",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 30
+        },
+        {
+          "navn": "Ikke inhabil",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Ikke inhabil",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Vurdering av habilitet for Marit Voll (SP).",
+      "alternativer": [
+        {
+          "navn": "Habil",
+          "stemmer": 31
+        },
+        {
+          "navn": "Uhabil",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Habil",
+      "roedt_stoettet": "Habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vurdering av habilitet for Snorre Hjelde (VDL).",
+      "alternativer": [
+        {
+          "navn": "Habil",
+          "stemmer": 31
+        },
+        {
+          "navn": "Uhabil",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Habil",
+      "roedt_stoettet": "Habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vurdering av habilitet for Gunnar R. Ystad (VDL).",
+      "alternativer": [
+        {
+          "navn": "Habil",
+          "stemmer": 31
+        },
+        {
+          "navn": "Uhabil",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Habil",
+      "roedt_stoettet": "Habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vurdering av habilitet for Jonas Tanem (SP).",
+      "alternativer": [
+        {
+          "navn": "Habil",
+          "stemmer": 31
+        },
+        {
+          "navn": "Uhabil",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Habil",
+      "roedt_stoettet": "Habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling om fordeling av arenasponsormidler.",
+      "alternativer": [
+        {
+          "navn": "For innstilling",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For innstilling",
+      "roedt_stoettet": "For innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "24.11.2025",
+  "saksnummer_ps": "PS 103/25",
+  "rodt_fremmet_forslag": false
+}

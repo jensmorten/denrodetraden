@@ -1,0 +1,29 @@
+{
+  "tittel": "PS 100/25 Supplering av varamedlemmer fellesliste AP/INP/V i kontrollutvalget",
+  "innstilling": "Formannskapets innstilling om supplering av varamedlemmer i kontrollutvalget",
+  "vedtak": "Følgende suppleres inn som vara i kontrollutvalget:\n2. vara: Kristin J. Hildrum (AP)\n3. vara: Bjørn Holmli (AP)\n4. vara: Ole Christian Suul (INP)\n5. vara: Brita K. Thorsvik (V)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP v/Trine Reitan",
+      "tekst": "4. vara Ole Christian Suul"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling inkludert forslaget fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling inkludert forslaget fra AP",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "27.10.2025",
+  "saksnummer_ps": "PS 100/25",
+  "rodt_fremmet_forslag": false
+}

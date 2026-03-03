@@ -1,0 +1,28 @@
+{
+  "tittel": "PS 121/25 Orientering",
+  "innstilling": null,
+  "vedtak": null,
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av ordførers beslutning om ikke å ta opp forslag til vedtak fra representant Larsen til votering i kommunestyret, og oversendelse av saken til Statsforvalteren for lovlighetskontroll.",
+      "alternativer": [
+        {
+          "navn": "Opprettholde ordførers beslutning",
+          "stemmer": null
+        },
+        {
+          "navn": "Ta opp forslag til vedtak til votering",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Opprettholde ordførers beslutning",
+      "roedt_stoettet": "Opprettholde ordførers beslutning",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "15.12.2025",
+  "saksnummer_ps": "PS 121/25",
+  "rodt_fremmet_forslag": false
+}
