@@ -1,0 +1,97 @@
+{
+  "tittel": "Organisering av Roret Ørland kulturforetak KF",
+  "innstilling": [
+    "Ørland kommunestyre vedtar å avvikle Roret Ørland kulturforetak KF med virkning fra 01.01.2026.",
+    "Kommunedirektøren bes iverksette prosessen med å integrere foretakets tjenester i kommunens ordinære virksomhet. Prosessen skal gjennomføres i tett dialog og samarbeid med foretakets ansatte og deres tillitsvalgte, i tråd med gjeldende lover og avtaleverk.",
+    "Foretakets styre opprettholdes frem til årsregnskap og årsberetning for regnskapsåret 2025 er ferdigstilt og behandlet av kommunestyret."
+  ],
+  "vedtak": [
+    "Ørland kommunestyre vedtar å avvikle Roret Ørland kulturforetak KF med virkning fra 01.01.2026.",
+    "Kommunedirektøren bes iverksette prosessen med å integrere foretakets tjenester i kommunens ordinære virksomhet. Kommunestyret ber kommunedirektøren om å vurdere å etablere en egen enhet heretter kalt Enhet for kultur, idrett og samfunnsutvikling med egen kommunalsjef. Prosessen skal gjennomføres i tett dialog og samarbeid med foretakets ansatte og deres tillitsvalgte, i tråd med gjeldende lover og avtaleverk.",
+    "Foretakets styre opprettholdes frem til årsregnskap og årsberetning for regnskapsåret 2025 er ferdigstilt og behandlet av kommunestyret."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Brage Døsvik Hansen, Arbeiderpartiet",
+      "tekst": "Kommunestyret vedtar å videreføre dagens organisering av Roret Ørland kulturforetak KF. Kommunestyret ønsker å anerkjenne kulturforetakets positive bidrag til bo- og blilyst i kommunen. Kommunestyret tar styrets høringsinnspill til orientering, og vil framheve viktigheten av god økonomistyring og det uutnyttede potensialet i den videre utviklingen av kulturforetaket."
+    },
+    {
+      "forslagsstiller": "Therese Mossing Eidsaune, Høyre",
+      "tekst": "Ørland kommunestyre vedtar at Roret Ørland kulturforetak KF består som KF, men utvalgte tjenester overføres til kommunen. Følgende tjenester overføres til kommunens administrasjon: Idrett etableres som en avdeling under enhetsleder for tekniske tjenester. Kommunedirektøren bes iverksette prosessen med å integrere idrett i kommunens ordinære virksomhet. Prosessen skal gjennomføres i tett dialog og samarbeid med foretakets ansatte og deres tillitsvalgte, i tråd med gjeldende lover og avtaleverk. Det settes ned en valgkomite med 3 representanter fra kommunestyret. Valgkomiteen skal komme med en innstilling til kommunestyret med forslag til nytt styre, senest i kommunestyremøtet 18.12.25. Det bes om at valgkomiteen setter sammen et styre med kompetanse innenfor kulturforetakets kjerneområder: Kultur, Historie og Natur. Det er også ønskelig med innslag av medlemmer med kompetanse fra næringsliv og politikk. Roret Ørland kulturforetak KF må tilpasse seg de økonomiske rammebetingelser."
+    },
+    {
+      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
+      "tekst": "Kommunedirektøren bes iverksette prosessen med å integrere foretakets tjenester i kommunens ordinære virksomhet. Kommunestyret ber kommunedirektøren om å vurdere å etablere en egen enhet heretter kalt Enhet for kultur, idrett og samfunnsutvikling med egen kommunalsjef. Prosessen skal gjennomføres i tett dialog og samarbeid med foretakets ansatte og deres tillitsvalgte, i tråd med gjeldende lover og avtaleverk."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Ørland Arbeiderparti (Brage Døsvik Hansen)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 11
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Therese Eidsaune (Høyre)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 18
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslag om nytt punkt 2 i sak 25/132 fra Hallgeir Grøntvedt (Senterpartiet)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over opprinnelig forslag (kommunedirektørens innstilling)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "25/132",
+  "rodt_fremmet_forslag": false
+}

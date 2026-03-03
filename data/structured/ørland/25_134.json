@@ -1,0 +1,40 @@
+{
+  "tittel": "Investeringsbudsjett nye kinomaskiner",
+  "innstilling": "Investeringsbudsjettet vedtas som framlagt",
+  "vedtak": "Investeringsbudsjettet vedtas som framlagt",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": {
+            "AP": 8,
+            "FRP": 2,
+            "H": 6,
+            "INP": 3,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "UAVHENGIG": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "25/134",
+  "rodt_fremmet_forslag": false
+}
