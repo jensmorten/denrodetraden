@@ -1,0 +1,61 @@
+{
+  "tittel": "PS 29/25 Revidering av Kommuneplanens samfunnsdel 2025-2030 - sluttbehandling",
+  "innstilling": "Formannskapets innstilling til Kommuneplanens samfunnsdel 2025-2030 for Verdal kommune med de opprinnelige tidsrammene og innholdet som beskrevet.",
+  "vedtak": "Som følge av mottatte høringsinnspill vedtas Kommuneplanens samfunnsdel 2025-2030 for Verdal kommune med følgende endringer:\n• Side 3 – tillegg av følgende setning: Kommunestyret har vedtatt en egen vekststrategi for Verdal (sak 124/2024). Folketallet skal økes fra 15 000 til 20 000 innbyggere og det skal skapes 2 500 nye arbeidsplasser innen 2040. Kommuneplanens samfunnsdel skal være et verktøy for å nå denne målsettingen.\n• Strategi 1.2.4 endres til: «1.2.4 Vurdere gjenbruk av bygg, overskuddsmasser, uteområder og interiør før nyanskaffelser.»\n• Strategi 2.3.6 endres til: «2.3.6 Legge til rette for at innbyggerne kan bo trygt og lengst mulig i eget hjem»\n• Strategi 2.5.2 endres til: 2.5.2 Etablere systemer og kunnskap for bedre samarbeid med frivilligheten.\n• Strategi 2.6.2 endres til: 2.6.2 Sikre et helhetlig system- og familieperspektiv i tjenestene, med tverrfaglig samarbeid som grunnprinsipp.\n• Strategi 1 under Framtidens strategier endres til: «Areal- og transportutvikling skal samordnes med nabokommunene for å oppnå bærekraftige og komplette løsninger. Gjennom samarbeidet i Innherredsbyen skal vi oppnå prioritet av ny E6 og forbedret togtilbud.»\n• Strategi 7 under Framtidens strategier endres til: «Verdal byområde skal styrkes som urbant sentrum med trivelige byrom og møteplasser for beboere og besøkende. Ørmelen utvikles som bydelssentrum.\n• Tidsrom for Kommuneplanens samfunnsdel endres til 2025-2030.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Oddleiv Aksnes (H)",
+      "tekst": "Tidsrom for Kommuneplanens samfunnsdel endres til 2025-2035."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på kulepunkt 1 i formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling siste kulepunkt og forslaget fra H (endring av tidsrom)",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra H",
+          "stemmer": 19
+        },
+        {
+          "navn": "Formannskapets innstilling siste kulepunkt",
+          "stemmer": 16
+        }
+      ],
+      "hvem_vant": "Forslaget fra H",
+      "roedt_stoettet": "Formannskapets innstilling siste kulepunkt",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering på resterende av formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "31.03.2025",
+  "saksnummer_ps": "PS 29/25",
+  "rodt_fremmet_forslag": false
+}

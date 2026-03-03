@@ -1,0 +1,52 @@
+{
+  "tittel": "PS 30/25 Handlingsplan næring 2025-28",
+  "innstilling": "Formannskapets innstilling, inkludert vedtatt forslag 2 b",
+  "vedtak": [
+    "Kommunestyret vedtar Handlingsplan for næring 2025-28 for Verdal kommune.",
+    "Kommunestyret vedtar at følgende satsingsområder med tilhørende tiltak legges til grunn for handlingsprogrammet:",
+    "a. Næringsvennlig kommune",
+    "b. Grønn konkurransekraft, hvor SMR også kan være en del av løsningen.",
+    "c. Bærekraftig opplevelse",
+    "Kommunedirektøren bes rapportere politisk på framdrift knyttet til de strategiske grepene og tiltakene i handlingsplanen."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "INP v/Linn K. Johnsen",
+      "tekst": "Formannskapets innstilling punkt 2b endres til: Grønn konkurransekraft, hvor SMR også kan være en del av løsningen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling pkt. 2 b og forslaget fra INP til 2b",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra INP",
+          "stemmer": 34
+        },
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Forslaget fra INP",
+      "roedt_stoettet": "Forslaget fra INP",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling, inkludert vedtatt forslag 2 b",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling med vedtatt forslag 2 b",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling med vedtatt forslag 2 b",
+      "roedt_stoettet": "Formannskapets innstilling med vedtatt forslag 2 b",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "31.03.2025",
+  "saksnummer_ps": "PS 30/25",
+  "rodt_fremmet_forslag": false
+}

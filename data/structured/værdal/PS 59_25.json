@@ -1,0 +1,29 @@
+{
+  "tittel": "PS 59/25 Sluttbehandling - Kommuneplanens arealdel 2025-2030",
+  "innstilling": null,
+  "vedtak": "Saken utsettes til mekling er gjennomført.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører",
+      "tekst": "Saken utsettes til mekling er gjennomført."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordførers forslag om utsettelse",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "23.06.2025",
+  "saksnummer_ps": "PS 59/25",
+  "rodt_fremmet_forslag": false
+}

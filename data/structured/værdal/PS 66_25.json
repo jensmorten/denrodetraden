@@ -1,0 +1,64 @@
+{
+  "tittel": "PS 66/25 Nye Stiklestad skole - Utvikling av uteområder i samarbeid med idretten",
+  "innstilling": "Formannskapets innstilling pkt. 1 og pkt. 2",
+  "vedtak": [
+    "Opprinnelig prosjektert 7-er-banen ved Nye Stiklestad skole gjennomføres som planlagt.",
+    "Det utredes at kunstgressdekke på 7'erbanen blir oppgradert til fotballdekke beregnet for fotballsko."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jonas S. Tanem (SP)",
+      "tekst": "Alternativ C er med kommunestyrets vedtak fram til endelig beslutning."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Formannskapets innstilling pkt. 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Formannskapets innstilling pkt. 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Jonas S. Tanem (SP)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 8
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "25.08.2025",
+  "saksnummer_ps": "PS 66/25",
+  "rodt_fremmet_forslag": false
+}

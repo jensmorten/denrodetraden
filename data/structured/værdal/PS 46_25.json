@@ -1,0 +1,49 @@
+{
+  "tittel": "PS 46/25 Årsregnskap, årsberetning, årsrapport, finansrapport - året 2024",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Verdal kommunes årsregnskap 2024 vedtas med et regnskapsmessig resultat i balanse etter bruk av disposisjonsfond. Netto driftsresultat er minus 4,1 mill kr. Disposisjonsfond 31.12.24 er 84,4 mill. kr. Samlet langsiktig gjeld pr 31.12.24 ekskl pensjonsforpliktelser på 2,55 milliarder kr.",
+    "Årsberetning for 2024 fra kommunedirektør vedtas.",
+    "Finansrapportering i årsberetningen tas til orientering"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP v/Trine Reitan",
+      "tekst": "Årsberetningen skal brukes som det gode verktøyet det er for korrigering av økonomisk kurs. Årsberetningen gir oss kunnskap om at dagens budsjett og økonomiplan svekker kommunens økonomiske bærekraft. En plan for reell økonomisk bærekraft skal på plass før utgangen av 2025."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over AP og uavhengig sitt tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslaget",
+          "stemmer": 11
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 22
+        }
+      ],
+      "hvem_vant": "Mot tilleggsforslaget",
+      "roedt_stoettet": "Tilleggsforslaget",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "26.05.2025",
+  "saksnummer_ps": "PS 46/25",
+  "rodt_fremmet_forslag": false
+}

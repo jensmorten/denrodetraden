@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 11/25 Revidert samarbeidsavtale mellom kommunene og Helse Nord-Trøndelag",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Verdal kommune vedtar revidert samarbeidsavtale mellom Helse Nord-Trøndelag og kommunene i nordre Trøndelag med tilhørende avtaler/ retningslinjer jf. vedlegg. Den reviderte avtalen erstatter tidligere inngått avtale.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 11/25",
+  "rodt_fremmet_forslag": false
+}

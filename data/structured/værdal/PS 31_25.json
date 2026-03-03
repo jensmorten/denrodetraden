@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 31/25 Orienteringssak - status bredbåndutbygging, NKOM-midler",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Kommunestyret tar saken til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "31.03.2025",
+  "saksnummer_ps": "PS 31/25",
+  "rodt_fremmet_forslag": false
+}

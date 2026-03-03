@@ -1,0 +1,37 @@
+{
+  "tittel": "Etablering av kommunalt oppgavefellesskap - Innherred regnskap, innfordring og lønn",
+  "innstilling": "Formannskapets innstilling (ikke spesifisert i teksten)",
+  "vedtak": [
+    "Verdal kommune ønsker å fortsette og videreutvikle samarbeidet med Levanger kommune på Regnskap, Innfordring og lønn.",
+    "Verdal kommune ønsker å beholde dette sterke fagmiljøet som er opparbeidet over år i felleskap med Levanger.",
+    "Kommunestyret stiller seg positiv til samarbeid på Innherred, men i dette tilfellet viser saken liten eller ingen økonomisk gevinst for Verdal kommune ved å utvide samarbeidet fra to til fem kommuner."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP/SP/VDL/INP/FRP/R/H",
+      "tekst": "• Verdal kommune ønsker å fortsette og videreutvikle samarbeidet med Levanger kommune på Regnskap, Innfordring og lønn.\n• Verdal kommune ønsker å beholde dette sterke fagmiljøet som er opparbeidet over år i felleskap med Levanger.\n• Kommunestyret stiller seg positiv til samarbeid på Innherred, men i dette tilfellet viser saken liten eller ingen økonomisk gevinst for Verdal kommune ved å utvide samarbeidet fra to til fem kommuner."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling og forslaget fra AP/SP/VDL/INP/FRP/R/H",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 1
+        },
+        {
+          "navn": "Forslaget fra AP/SP/VDL/INP/FRP/R/H",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Forslaget fra AP/SP/VDL/INP/FRP/R/H",
+      "roedt_stoette": "Forslaget fra AP/SP/VDL/INP/FRP/R/H",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "28.04.2025",
+  "saksnummer_ps": "PS 40/25",
+  "rodt_fremmet_forslag": false
+}

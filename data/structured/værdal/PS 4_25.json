@@ -1,0 +1,111 @@
+{
+  "tittel": "PS 4/25 Ny behandling av søknad fra Verdal idrettslag om kommunal garanti",
+  "innstilling": {
+    "1": "Verdal kommune stiller seg positiv til søknaden fra Verdal idrettslag om kommunal garanti for et lån på kr 21 000 000,- til finansiering av garderobe-, sanitæranlegg og klubbhus.",
+    "2": "Verdal kommune garanterer med simpel garanti for lån kr 21 000 000,-, som Verdal idrettslag tar opp til bygging av garderobe-, sanitæranlegg og klubbhus.",
+    "3": "Garantien gjelder for lånets hovedstol maks kr 21 000 000,- med tillegg av 10 prosent av til enhver tid gjeldende hovedstol til dekning av eventuelle påløpte renter og omkostninger. Kommunens garantiansvar kan ikke overstige kr.23 100 000,-.",
+    "4": "Det forutsettes at mottatt merverdiavgiftskompensasjon, spillemidler, Enova-støtte og øvrig finansiering reduserer garantiansvaret.",
+    "5": "Garantiansvaret reduseres i takt med nedbetaling på lån og opphører etter 25 år med tillegg på inntil 2 år, jfr. garantiforskriftens §3",
+    "6": "Garantien må godkjennes av Statsforvalteren etter kommuneloven § 14-19."
+  },
+  "vedtak": {
+    "1": "Verdal kommune stiller seg positiv til søknaden fra Verdal idrettslag om kommunal garanti for et lån på kr 21 000 000,- til finansiering av garderobe-, sanitæranlegg og klubbhus.",
+    "2": "Verdal kommune garanterer med simpel garanti for lån kr 21 000 000,-, som Verdal idrettslag tar opp til bygging av garderobe-, sanitæranlegg og klubbhus.",
+    "3": "Garantien gjelder for lånets hovedstol maks kr 21 000 000,- med tillegg av 10 prosent av til enhver tid gjeldende hovedstol til dekning av eventuelle påløpte renter og omkostninger. Kommunens garantiansvar kan ikke overstige kr.23 100 000,-.",
+    "4": "Det forutsettes at mottatt merverdiavgiftskompensasjon, spillemidler, Enova-støtte og øvrig finansiering reduserer garantiansvaret.",
+    "5": "Garantiansvaret reduseres i takt med nedbetaling på lån og opphører etter 25 år med tillegg på inntil 2 år, jfr. garantiforskriftens §3",
+    "6": "Garantien må godkjennes av Statsforvalteren etter kommuneloven § 14-19."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP v/Trine Reitan",
+      "tekst": "5. Garantiansvaret reduseres i takt med nedbetaling på lån og opphører etter 38 år med tillegg på inntil 2 år, jfr. Garantiforskriftens §3."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Ragnhild Iversen (AP)",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Habil",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Vurdering av habilitet for Pål Sverre Fikse (SP)",
+      "alternativer": [
+        {
+          "navn": "Habil",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Inhabil",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Habil",
+      "roedt_stoettet": "Habil",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering formannskapets innstilling pkt. 1-4",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling til pkt. 5 og forslaget fra AP til pkt. 5",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 23
+        },
+        {
+          "navn": "Forslaget fra AP",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Forslaget fra AP",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering formannskapets innstilling pkt. 6",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "27.01.2025",
+  "saksnummer_ps": "PS 4/25",
+  "rodt_fremmet_forslag": false
+}

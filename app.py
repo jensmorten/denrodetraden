@@ -27,7 +27,7 @@ st.markdown("Appen søker i en database med saker som per idag inneholder behand
 
 kommune = st.selectbox(
     "Velg kommune saken du laster opp er henta fra",
-    ["Malvik", "Melhus", "Stjørdal", "Trondheim", "Levanger", "Orkland", "Ørland", "Værdal"]
+    ["Malvik", "Melhus", "Stjørdal", "Trondheim", "Levanger", "Orkland", "Ørland", "Værdal", "Orkland"]
 )
 
 uploaded_file = st.file_uploader(
@@ -166,8 +166,6 @@ if analyse_knapp:
         st.success(f"Fant {len(cases)} saker.")
 
         for case in cases:
-
-            st.markdown("---")
             st.subheader(case["ps"])
 
             with st.spinner("Søker liknande saker..."):
