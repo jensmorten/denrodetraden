@@ -1,0 +1,61 @@
+{
+  "tittel": "Utvidelse av antall varamedlemmer i hovedutvalgene",
+  "innstilling": "Ingen innstilling i saken.",
+  "vedtak": "Nye varamedlemmer:\nHovedutvalg forvaltning:\nSynnøve Hilstad, AP\nHermann Lund, SMP\nTorstein Grønningen, V\nGuttorm Sand, H\nHovedutvalg helse, oppvekst og kultur\nHermann Lund, SMP\nHanne Kvernmo Rye, V\nHovedutvalg teknikk\nGeir S. Knutzen, SMP\nLasse Sørmo, SP (flyttes fra varalisten i hovedutvalg forvaltning.\nGeir Homstad, H",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hanne Nyhus, AP",
+      "tekst": "Det er ønske om å utvide varalista til hovedutvalgene. De partiene som ønsker å utvide sine varalister med ett medlem melder inn ønsker med navn og hovedutvalg til sekretær, behandles som politisk sak i kommunestyret 14.10.2025"
+    },
+    {
+      "forslagsstiller": "Hans Kringstad, SMP",
+      "tekst": "Teknikk: Geir S. Knutzen\nForvaltning: Hermann Lund\nHOK: Hermann Lund"
+    },
+    {
+      "forslagsstiller": "Hanne Nyhus, AP",
+      "tekst": "Ny vara i forvaltning Synnøve Hilstad"
+    },
+    {
+      "forslagsstiller": "Hanne Mehli, V",
+      "tekst": "Forvaltning: 4. vara Torstein Grønningen\nHOK: 4. vara Hanne Kvernmo Rye"
+    },
+    {
+      "forslagsstiller": "Bjørn Berg, SP",
+      "tekst": "Lasse Hilstad Sørmo flyttes fra varalisten til hovedutvalg forvaltning til hovedutvalg teknikk."
+    },
+    {
+      "forslagsstiller": "Eva Solstad Legar, H",
+      "tekst": "Forvaltning: Guttorm Sand\nTeknikk: Geir Homstad"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 13.10.2025 på forslag fra Hanne Nyhus, AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Hanne Nyhus, AP",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 14.10.2025 på alle innkomne forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Alle innkomne forslag",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "14.10.2025",
+  "saksnummer_ps": "PS 79/25",
+  "rodt_fremmet_forslag": false
+}

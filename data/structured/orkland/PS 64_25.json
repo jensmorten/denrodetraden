@@ -1,0 +1,53 @@
+{
+  "tittel": "Robuste småhus, utvidet vurdering",
+  "innstilling": "Kommunestyre vedtar at det etableres 1 tomannsbolig på tomta Kvennvegen 21/89 og 1 tomannsbolig på tomta Rømmesøyene 8/1. Begge etableringene forutsetter kontinuerlig evaluering av plasseringene og etableres slik at boligene kan flyttes til annet sted om tiltaket erfares uhensiktsmessig.",
+  "vedtak": "Kommunestyret vedtar at det etableres 1 tomannsbolig på tomta 21/89 Kvennvegen og 1 tomannsbolig på tomta 10/36 ved den tidligere glattkjøringsbanen på Laksøra. Begge etableringene forutsetter kontinuerlig evaluering av plasseringene og boligene etableres slik at de kan flyttes til annet sted om tiltaket erfares uhensiktsmessig.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Flertallsgruppa (AP, V, SV, SMP)",
+      "tekst": "Kommunestyret vedtar at det etableres 1 tomannsbolig på tomta 21/89 Kvennvegen og 1 tomannsbolig på tomta 10/36 ved den tidligere glattkjøringsbanen på Laksøra. Begge etableringene forutsetter kontinuerlig evaluering av plasseringene og boligene etableres slik at de kan flyttes til annet sted om tiltaket erfares uhensiktsmessig."
+    },
+    {
+      "forslagsstiller": "Bente Høston Bostad, KrF på vegne av PP, R, INP, FrP og KrF",
+      "tekst": "Kommunestyre vedtar at det etableres 1 tomannsbolig på tomta Kvennvegen 21/89 og 1 tomannsbolig på tomta Rømmesøyene 8/1. Begge etableringene forutsetter kontinuerlig evaluering av plasseringene og etableres slik at boligene kan flyttes til annet sted om tiltaket erfares uhensiktsmessig."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 26.08.2025",
+      "alternativer": [
+        {
+          "navn": "Forslag fra flertallsgruppa",
+          "stemmer": 6
+        },
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "Forslag fra flertallsgruppa",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 16.09.2025",
+      "alternativer": [
+        {
+          "navn": "Forslag fra PP, R, INP, FrP og KrF (kommunedirektørens opprinnelige forslag)",
+          "stemmer": 18
+        },
+        {
+          "navn": "Hovedutvalg helse, oppvekst og kulturs innstilling",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "Hovedutvalg helse, oppvekst og kulturs innstilling",
+      "roedt_stoettet": "Forslag fra PP, R, INP, FrP og KrF (kommunedirektørens opprinnelige forslag)",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 64/25",
+  "rodt_fremmet_forslag": false
+}

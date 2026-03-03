@@ -1,0 +1,49 @@
+{
+  "tittel": "PS 276/2025 Egenbetaling for helse- og omsorgstjenester per 1.1.2026",
+  "innstilling": "Egenbetalingssatser for helse- og omsorgstjenester per 1.1.2026",
+  "vedtak": "Bystyret vedtar innstillingen «Egenbetalingssatser for helse- og omsorgstjenester per 1.1.2026» med unntak av punkt 5 – Egenbetaling for trygghetsalarm. Dette punktet strykes. Manglende økte inntekter som følge av dette, dekkes av disposisjonsfondet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sigurd Jan Ingvaldsen (Ap)",
+      "tekst": "Bystyret vedtar innstillingen med unntak av punkt 5 – Egenbetaling for trygghetsalarm. Dette punktet strykes. Manglende økte inntekter som følge av dette, dekkes av disposisjonsfondet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Ingvaldsens forslag om å stryke punkt 5 – Egenbetaling for trygghetsalarm",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over innstillingen med unntak av punkt 5",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 53
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 276/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,101 @@
+{
+  "tittel": "PS 295/2025 Reglement for forretningsutvalget",
+  "innstilling": "Bystyret vedtar forslaget til nytt reglement for forretningsutvalget med følgende endringer:\nA: 3.5.1 legges til følgende tekst: Kontrollutvalgets møterett etter kommunelovens § 23-1 fjerde ledd gjelder også for møter som holdes for lukkede dører. Dette innebærer at utvalgets leder eller den som gis fullmakt, har rett til å være til stede i slike møter.\nB: 3.5.2 - Utvalget selv eller ordfører, kan beslutte å gjennomføre fjernmøter når dette anses helt nødvendig eller særlig hensiktsmessig. Kravene som ellers gjelder for møter, gjelder også for digitale fjernmøter. Et møte som skal lukkes kan ikke holdes som digitalt fjernmøte.\nC. Hele reglementet - “Digdem” endres til “Møteløsningen”",
+  "vedtak": "Bystyret vedtar forslaget til nytt reglement for forretningsutvalget med de fremlagte endringer og tillegg som fremkom i behandlingen. Reglementet trer i kraft fra vedtaksdato 01.02.2026.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Gjermund Gorset (Ap)",
+      "tekst": "Reglementet trer i kraft fra vedtaksdato 01.02.2026."
+    },
+    {
+      "forslagsstiller": "Gjermund Gorset (Ap) på vegne av Ap, SV",
+      "tekst": "D: 3:3 Byrådets møteplikt: Legges til under 3.3: \"Byråder skal være til stede i møter ved behandling av saker de har ansvar for, jf. kommuneloven § 10-3. Forretningsutvalget kan innkalle ansvarlig(e) byråd(er) til møtene sine for å redegjøre for saker dersom ordfører eller en tredjedel av medlemmene krever det.\""
+    },
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV) på vegne av SV, Ap, R, Uavh. Ødegaard",
+      "tekst": "Nytt punkt 1. Grunnlag og sammensetning: Forretningsutvalget er opprettet etter kommuneloven § 5-7. I bystyrets konstituerende møte velges et forretningsutvalg for valgperioden blant bystyrets medlemmer, som består av ordfører, varaordfører, partigruppenes gruppeledere og eventuelt flere medlemmer fra bystyret. Vara velges blant bystyrets øvrige medlemmer. Forretningsutvalget ledes av ordføreren, med varaordføreren som nestleder."
+    },
+    {
+      "forslagsstiller": "Gjermund Gorset (Ap) på vegne av Ap, SV",
+      "tekst": "Nytt punkt 2.6: Utvalgsmedlemmer kan ta opp aktuelle saker og spørsmål til behandling. Byrådet kan også på selvstendig initiativ orientere utvalget om aktuelle og pågående saker av betydning for Trondheim kommune. Utvalgsmedlemmer kan stille spørsmål til byrådet i utvalgene. Spørsmål som ønskes besvart skriftlig av byrådet skal legges inn i møteløsningen. Skriftlige spørsmål som sendes byrådet senest sju dager før utvalgsmøtet skal som hovedregel besvares i møtet. For spørsmål stilt til behandling av budsjett og revidert budsjett gjelder det egne frister. Spørsmål stilt i utvalgsmøtet skal besvares i neste utvalgsmøte. For spørsmål som ikke er besvart innen fristen skal byrådet i notat, eller muntlig i utvalgsmøtet, informere utvalget om forventet svartid. Utvalget har rett til å ta selvstendig initiativ overfor byrådet for å be om ytterligere opplysninger i en sak som er til behandling eller er tatt opp i utvalget."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen ble enstemmig vedtatt.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Aps forslag \"D: 3:3 Byrådets møteplikt\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 39
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 28
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "SVs tilleggsforslag \"Nytt punkt 1. Grunnlag og sammensetning\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 40
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Aps tilleggsforslag \"Nytt punkt 2.6\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 38
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Aps forslag \"Ikrafttredelse\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 295/25",
+  "rodt_fremmet_forslag": false
+}

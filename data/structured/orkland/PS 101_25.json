@@ -1,0 +1,44 @@
+{
+  "tittel": "101/25 Miljøpakkens handlingsprogram 2026 - 2029",
+  "innstilling": [
+    "Orkland kommune slutter seg til vedlagte forslag til handlingsprogram for Miljøpakken 2026-2029",
+    "Ordfører får fullmakt til å framforhandle endelig handlingsprogram for Miljøpakken i forbindelse med behandling i kontaktutvalget.",
+    "Kommunedirektøren får fullmakt til å foreta nødvendige budsjettkorrigeringer etter endelig vedtak i kontaktutvalget"
+  ],
+  "vedtak": [
+    "Orkland kommune slutter seg til vedlagte forslag til handlingsprogram for Miljøpakken 2026-2029",
+    "Ordfører får fullmakt til å framforhandle endelig handlingsprogram for Miljøpakken i forbindelse med behandling i kontaktutvalget.",
+    "Kommunedirektøren får fullmakt til å foreta nødvendige budsjettkorrigeringer etter endelig vedtak i kontaktutvalget"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 25.11.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 16.12.2025",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 101/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,127 @@
+{
+  "tittel": "Endring av retningslinjer - fritak for eiendomsskatt",
+  "innstilling": "Reviderte vedtekter for fritak for eiendomsskatt etter eiendomsskatteloven § 7 bokstav a i Trondheim kommune:\nBystyret kan, etter søknad, innvilge helt eller delvis fritak for eiendomsskatt for følgende eiendommer:\n1. Eiendommer som eies av en stiftelse eller organisasjon som tar sikte på å gagne en kommune, et fylke eller staten. Fritak kan være særlig aktuelt for eiendommer som benyttes til ikke- kommersiell virksomhet som arbeider innenfor livssyn, helse, sosialt arbeid, oppvekst, idrett og kultur. Fritak kan også være særlig aktuelt for eiendom som benyttes til studentboliger, bolig som leies ut til studenter i aktivt studieløp. All kommersiell virksomhet skal betale skatt på vanlig måte.\n2. Vedtak om nye retningslinjer vil ha virkning fra og med 1.1.2026. Retningslinjer vedtatt av bystyret i sak PS162/14 oppheves med virkning fra samme dato",
+  "vedtak": "Reviderte vedtekter for fritak for eiendomsskatt etter eiendomsskatteloven § 7 bokstav a i Trondheim kommune vedtatt med de angitte endringer og tilleggsforslag under behandling.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Aurora Meland Winger (Uavh.)",
+      "tekst": "Legge til friluftsliv og miljøvern. Bystyret ber byrådet utrede hva konsekvensene av å legge til \"friluftsliv og miljøvern\" inn i retningslinjene for fritak for eiendomsskatt. Forslaget bes utredes frem mot bystyrets budsjettmøte slik at fritaksgrunnene kan bli gjeldende allerede i 2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen punkt 1 tredje setning ble vedtatt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 59,
+          "partier": [
+            "18 H",
+            "17 Ap",
+            "1 SV Nordaune",
+            "5 FrP",
+            "4 MDG",
+            "4 V",
+            "3 R",
+            "3 PP",
+            "2 Uavh.",
+            "SP",
+            "KrF"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 8,
+          "partier": [
+            "8 SV"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Innstillingen tredje setning punkt 1 fram til aktivt studieløp ble vedtatt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 41,
+          "partier": [
+            "18 H",
+            "1 SV",
+            "5 FrP",
+            "4 MDG",
+            "4 V",
+            "3 R",
+            "3 PP",
+            "Uavh. Meland Winger",
+            "SP",
+            "KrF"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 26,
+          "partier": [
+            "17 Ap",
+            "8 SV",
+            "Uavh. Letnes Ødegaard"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Innstillingen punkt 1 tredje setning \"med en aktiv tinglyst urådelighetserklæring\" ble enstemmig vedtatt",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": 67,
+          "partier": []
+        }
+      ],
+      "vinner": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Meland Wingers forslag om å legge til friluftsliv og miljøvern",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13,
+          "partier": [
+            "5 FrP",
+            "4 MDG",
+            "3 R",
+            "Uavh. Meland Winger"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 54,
+          "partier": [
+            "18 H",
+            "17 Ap",
+            "9 SV",
+            "4 V",
+            "3 PP",
+            "Uavh. Letnes Ødegaard",
+            "SP",
+            "KrF"
+          ]
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 250/2025",
+  "rodt_fremmet_forslag": false
+}

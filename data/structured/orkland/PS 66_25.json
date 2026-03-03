@@ -1,0 +1,74 @@
+{
+  "tittel": "Oppløsning av bundne fond",
+  "innstilling": "Kommunestyret vedtar at 20 652 847,10 kroner omdisponeres fra bundne driftsfond og 2 976 984,81 kroner omdisponeres fra bundne investeringsfond. Midlene fra bundne driftsfond omdisponeres til ordinært disposisjonsfond med 11 367 134,43 kroner og til Flyktningefond med 9 285 712,67 kroner. Midlene fra bundne investeringsfond omdisponeres til disposisjonsfond for investeringer med 2 976 984,81 kroner.",
+  "vedtak": [
+    {
+      "behandling": "Formannskap 02.09.2025",
+      "vedtakstekst": "Kommunestyret vedtar at 20 652 847,10 kroner omdisponeres fra bundne driftsfond og 2 976 984,81 kroner omdisponeres fra bundne investeringsfond. Midlene fra bundne driftsfond omdisponeres til ordinært disposisjonsfond med 11 367 134,43 kroner og til flyktningefond med 9 285 712,67 kroner. Midlene fra bundne investeringsfond omdisponeres til disposisjonsfond for investeringer med 2 976 984,81 kroner."
+    },
+    {
+      "behandling": "Kommunestyre 16.09.2025",
+      "vedtakstekst": "Saken om oppløsning av bundne fond utsettes."
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hans Atle Kringstad, SMP på vegne av AP, H, SMP, SV og V",
+      "tekst": "Kommunestyret vedtar at 20 652 847,10 kroner omdisponeres fra bundne driftsfond og 2 976 984,81 kroner omdisponeres fra bundne investeringsfond. Midlene fra bundne driftsfond omdisponeres til ordinært disposisjonsfond med 8 367 134,43 kroner og til Flyktningefond med 9 285 712,67 kroner. Midlene fra bundne investeringsfond omdisponeres til disposisjonsfond for investeringer med 1 090 802,60 kroner. De resterende fondsmidlene disponeres slik: - 3 mill. kr fra Fond Orkland overføres til Fond asfalt/vei - Fond Grønørbrua på 1 286 732,41 overføres i sin helhet til Fond asfalt/vei - MK 255080461 Bund. invest.fond sykkel på 599 449,80 overføres i sin helhet til Fond trafikksikkerhet Hovedutvalg teknikk prioriterer bruk av midlene på totalt 4 886 182,21."
+    },
+    {
+      "forslagsstiller": "Torstein Larsen, PP",
+      "tekst": "Saken utsettes."
+    },
+    {
+      "forslagsstiller": "Svein Erik Jørgensen på vegne av AP, H, SMP, SV og V",
+      "tekst": "Nytt forslag om at saken utsettes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 02.09.2025 om kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 16.09.2025 om utsettelsesforslag fra Torstein Larsen, PP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "rest"
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 16.09.2025 om nytt utsettelsesforslag fra AP, H, SMP, SV og V",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 66/25",
+  "rodt_fremmet_forslag": false
+}

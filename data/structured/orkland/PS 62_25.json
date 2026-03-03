@@ -1,0 +1,82 @@
+{
+  "tittel": "Søknad om fritak fra politiske verv",
+  "innstilling": [
+    "Wenche Snildalsli Vuttudal, SP innvilges fritak fra sine politiske verv ut valgperioden.",
+    "Varamedlemmene fra SP rykker opp på varamannslista i kommunestyret.",
+    "Som nytt fast medlem i hovedutvalg forvaltning velges – ingen innstilling."
+  ],
+  "vedtak": [
+    {
+      "organ": "Valgutvalg",
+      "dato": "16.09.2025",
+      "tekst": [
+        "Wenche Snildalsli Vuttudal, SP innvilges fritak fra sine politiske verv ut valgperioden.",
+        "Varamedlemmene fra SP rykker opp på varamannslista i kommunestyret.",
+        "Som nytt fast medlem i hovedutvalg forvaltning velges Trond Selmer Nergaard.",
+        "Varalisten blir som følger:",
+        "1. Stig Kalstad - SP",
+        "2. Brage Syrstad - SP",
+        "3. Bjarne Lund - SP",
+        "4. Kristian Martin Fremstad - SP",
+        "5. Lasse Hilstad Sørmo - SP"
+      ]
+    },
+    {
+      "organ": "Kommunestyre",
+      "dato": "16.09.2025",
+      "tekst": "Saken om søknad om fritak fra politiske verv utsettes."
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kristian Martin Fremstad, SP",
+      "tekst": "Som nytt medlem i forvaltning innstiller vi Trond Selmer Nergaard."
+    },
+    {
+      "forslagsstiller": "Kristian Martin Fremstad, SP",
+      "tekst": "Saken utsettes"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg om kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Valgutvalg om forslag fra Kristian Martin Fremstad, SP",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Kristian Martin Fremstad, SP",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Kristian Martin Fremstad, SP",
+      "roedt_stoettet": "Forslag fra Kristian Martin Fremstad, SP",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre om forslag fra Kristian Martin Fremstad, SP om utsettelse",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Kristian Martin Fremstad, SP",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Kristian Martin Fremstad, SP",
+      "roedt_stoettet": "Forslag fra Kristian Martin Fremstad, SP",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 62/25",
+  "rodt_fremmet_forslag": false
+}

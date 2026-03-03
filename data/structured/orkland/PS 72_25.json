@@ -1,0 +1,76 @@
+{
+  "tittel": "72/25 Søknad om fritak fra politiske verv",
+  "innstilling": [
+    "Mikael Orre Rye, Krf gis fritak fra sine politiske verv i Orkland kommune.",
+    "Varamedlemmene fra Krf rykker opp på varamannslisten til Orkland kommunestyre.",
+    "Som fjerde vara til hovedutvalg helse, oppvekst og kultur velges – ingen innstilling."
+  ],
+  "vedtak": [
+    {
+      "organ": "Valgutvalg",
+      "dato": "13.10.2025",
+      "tekst": [
+        "Mikael Orre Rye, Krf gis fritak fra sine politiske verv i Orkland kommune.",
+        "Varamedlemmene fra Krf rykker opp på varamannslisten til Orkland kommunestyre.",
+        "Som femte vara til hovedutvalg helse, oppvekst og kultur velges Øystein Fagerli."
+      ]
+    },
+    {
+      "organ": "Kommunestyre",
+      "dato": "14.10.2025",
+      "tekst": [
+        "Mikael Orre Rye, Krf gis fritak fra sine politiske verv i Orkland kommune.",
+        "Varamedlemmene fra Krf rykker opp på varamannslisten til Orkland kommunestyre.",
+        "Det velges ikke nytt varamedlem i hovedutvalg helse, oppvekst og kultur."
+      ]
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Bente Bostad, Krf",
+      "tekst": "Øystein Fagerli, Krf velges som femte vara i HOK"
+    },
+    {
+      "forslagsstiller": "Magne Krogsgaard, Krf",
+      "tekst": "KrF fremmer ikke noe nytt forslag på Vara til HOK når Mikael innvilges fritak. Dette for å harmonisere antall vara."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 13.10.2025 om kommunedirektørens innstilling og forslag fra Bente Bostad, Krf",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 9
+        },
+        {
+          "navn": "Forslag fra Bente Bostad, Krf",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling og forslag fra Bente Bostad, Krf (enstemmig)",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 14.10.2025 om Valgutvalgets innstilling og forslag fra KRF angående vara i hovedutvalg helse, oppvekst og kultur",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Forslag fra KRF angående vara i hovedutvalg helse, oppvekst og kultur",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling og forslag fra KRF (enstemmig)",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "14.10.2025",
+  "saksnummer_ps": "PS 72/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "Rapport etter tredje kvartal 2025",
+  "innstilling": "Kommunestyret tar Rapport etter tredje kvartal 2025 til orientering.",
+  "vedtak": "Kommunestyret tar Rapport etter tredje kvartal 2025 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 25.11.2025 om Kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 16.12.2025 om Formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 90/25",
+  "rodt_fremmet_forslag": false
+}

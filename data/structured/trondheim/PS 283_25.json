@@ -1,0 +1,30 @@
+{
+  "tittel": "PS 283/2025 Fritak for eiendomsskatt 2025",
+  "innstilling": [
+    "Bystyret innvilger fritak for eiendomsskatt etter eiendomsskatteloven § 7 bokstav a for eiendommene som er vist i vedlegget “Fritak § 7a 2025”.",
+    "Bystyret fjerner vedtak om fritak for eiendomsskatt etter eiendomsskatteloven § 7 a for eiendommene som er vist i vedlegget «Mister § 7a 2025»."
+  ],
+  "vedtak": [
+    "Bystyret innvilger fritak for eiendomsskatt etter eiendomsskatteloven § 7 bokstav a for eiendommene som er vist i vedlegget “Fritak § 7a 2025”.",
+    "Bystyret fjerner vedtak om fritak for eiendomsskatt etter eiendomsskatteloven § 7 a for eiendommene som er vist i vedlegget «Mister § 7a 2025»."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillinga",
+      "alternativer": [
+        {
+          "navn": "Innstillinga",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillinga",
+      "roedt_stoette": "Innstillinga",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 283/25",
+  "rodt_fremmet_forslag": false
+}

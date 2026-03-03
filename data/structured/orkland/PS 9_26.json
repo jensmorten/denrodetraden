@@ -1,0 +1,36 @@
+{
+  "tittel": "Kommunale retningslinjer for skoleskyss i Orkland kommune",
+  "innstilling": "Kommunestyret vedtar de nye retningslinjene for skoleskyss i Orkland kommune, med virkning fra 1. august 2026.",
+  "vedtak": "Kommunestyret vedtar de nye retningslinjene for skoleskyss i Orkland kommune, med virkning fra 1. august 2026.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 10.02.2026",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 24.02.2026",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg helse, oppvekst og kulturs innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Hovedutvalg helse, oppvekst og kulturs innstilling",
+      "roedt_stoettet": "Hovedutvalg helse, oppvekst og kulturs innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "24.02.2026",
+  "saksnummer_ps": "PS 9/26",
+  "rodt_fremmet_forslag": false
+}

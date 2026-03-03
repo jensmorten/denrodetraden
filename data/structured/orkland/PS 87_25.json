@@ -1,0 +1,69 @@
+{
+  "tittel": "Boligpolitisk handlingsplan 2025-2029",
+  "innstilling": "Kommunestyret vedtar Boligpolitisk handlingsplan for Orkland kommune. Planen gjelder fra den blir vedtatt frem til den blir revidert i 2029.\n• Tiltak med økonomiske konsekvenser behandles i forbindelse med budsjett og handlingsplan.\n• Enkeltsaker om strategiske oppkjøp behandles fortløpende.\n• De enkelte tiltakene i planen som ikke forutsetter finansiering gjennomføres fortløpende.",
+  "vedtak": "Kommunestyret vedtar Boligpolitisk handlingsplan for Orkland kommune. Planen gjelder fra den blir vedtatt frem til den blir revidert i 2029.\n• Tiltak med økonomiske konsekvenser behandles i forbindelse med budsjett og handlingsplan.\n• Enkeltsaker om strategiske oppkjøp behandles fortløpende.\nDe enkelte tiltakene i planen som ikke forutsetter finansiering gjennomføres fortløpende.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Pensjonistpartiet ved Torstein Larsen",
+      "tekst": "Nytt punkt boligsosial handlingsplan (side 28)\n17. Sikre at kommunale boliger har en innvendig standard som er tilfredsstillende. Med det menes at boenhetene med normal fyring har en tilfredsstillende innetemperatur i vinterhalvåret. Det må være god ventilasjon og brannsikring. Leiligheten må også være fri for fukt, sopp eller råte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 11.11.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Hovedutvalg Teknikk 11.11.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 18.11.2025 på tilleggsforslag fra Pensjonistpartiet",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra Pensjonistpartiet",
+          "stemmer": 17
+        },
+        {
+          "navn": "Falt (mot tilleggsforslaget)",
+          "stemmer": "flertallet"
+        }
+      ],
+      "hvem_vant": "Falt (mot tilleggsforslaget)",
+      "roedt_stoettet": "Tilleggsforslag fra Pensjonistpartiet",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 18.11.2025 på hovedutvalgenes innstilling",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg helse, oppvekst og kultur og hovedutvalg teknikk sin innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Hovedutvalg helse, oppvekst og kultur og hovedutvalg teknikk sin innstilling",
+      "roedt_stoettet": "Hovedutvalg helse, oppvekst og kultur og hovedutvalg teknikk sin innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "18.11.2025",
+  "saksnummer_ps": "PS 87/25",
+  "rodt_fremmet_forslag": false
+}

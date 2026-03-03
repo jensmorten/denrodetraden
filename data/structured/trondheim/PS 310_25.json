@@ -1,0 +1,109 @@
+{
+  "tittel": "PS 310/2025 Medlemsforslag - Drosjer må få tilgang til alle kollektivfelt/kollektivtraseer - Elin Marie Andreassen (FrP)",
+  "innstilling": "Bystyret ber byrådet gå i dialog med fylkeskommunen om å åpne kollektivfelt i Innherredsveien for drosjer, bystyret ber også byrådet om å vurdere å tillate drosjer i kollektivfelt på kommunal vei der det ikke er ivaretatt i dag etter den nasjonale skiltforskriften er endret.\nBystyret ber byrådet gå i dialog med fylkeskommunen, for å sikre uniformerte drosjer tilgang til alle kollektivfelt på fylkeskommunale veger.\nBystyret ber byrådet undersøke muligheten for at hjemmetjenesten og trygghetspatruljen får tilgang til alle kollektivfelt innenfor kommuner.",
+  "vedtak": "Bystyret ber byrådet gå i dialog med fylkeskommunen om å åpne kollektivfelt i Innherredsveien for drosjer, bystyret ber også byrådet om å vurdere å tillate drosjer i kollektivfelt på kommunal vei der det ikke er ivaretatt i dag etter den nasjonale skiltforskriften er endret.\nBystyret ber byrådet gå i dialog med fylkeskommunen, for å sikre uniformerte drosjer tilgang til alle kollektivfelt på fylkeskommunale veger.\nBystyret ber byrådet undersøke muligheten for at hjemmetjenesten og trygghetspatruljen får tilgang til alle kollektivfelt innenfor kommuner.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Uniformerte drosjer gis tilgang til alle kollektivfelt:\n1. Bystyret ber byrådet gå i dialog med fylkeskommunen, for å sikre uniformerte drosjer tilgang til alle kollektivfelt på fylkeskommunale veger.\n2. Bystyret ber byrådet sørge for at uniformerte drosjer har tilgang til alle kollektivfelt på kommunale veger."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Hjemmetjenesten og trygghetspatruljen:\nBystyret ber byrådet undersøke muligheten for at hjemmetjenesten og trygghetspatruljen får tilgang til alle kollektivfelt innenfor kommuner."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over FrPs forslag \"Uniformerte drosjer gis tilgang til alle kollektivfelt\" punkt 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 64,
+          "partier": [
+            "19 H",
+            "17 Ap",
+            "9 SV",
+            "MDG Werket Ghanizadeh",
+            "4 FrP",
+            "4 V",
+            "3 R",
+            "3 PP",
+            "SP",
+            "KrF",
+            "Uavh. Winger og Ødegaard"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3,
+          "partier": [
+            "3 MDG"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over FrPs forslag \"Uniformerte drosjer gis tilgang til alle kollektivfelt\" punkt 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 22,
+          "partier": [
+            "9 SV",
+            "4 FrP",
+            "3 R",
+            "3 PP",
+            "SP",
+            "KrF",
+            "Uavh. Ødegaard"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 45,
+          "partier": [
+            "19 H",
+            "17 Ap",
+            "4 MDG",
+            "4 V",
+            "Uavh. Winger"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over FrPs tilleggsforslag \"Hjemmetjenesten og trygghetspatruljen\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "ukjent",
+      "roedt_side": "ukjent"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 310/25",
+  "rodt_fremmet_forslag": false
+}

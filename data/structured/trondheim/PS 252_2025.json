@@ -1,0 +1,93 @@
+{
+  "tittel": "Finansieringsmodell for lærlingeordningen i Trondheim kommune",
+  "innstilling": [
+    "1. Trondheim kommune opprettholder måltall på årlig inntak av 200 lærlinger.",
+    "2. Egenandelsordningen videreføres som finansieringsmodell for de gjeldende enhetene. Før økningen av egenandelen belastes enhetene , bør man forsøke å forhandle med fylkeskommune og/ eller andre aktuelle aktører for å finne mulige løsninger for delfinansiering. Dersom dette ikke fører frem økes egenandelen for å dekke finansieringsbehovet for måltallet på 200 lærlinger.",
+    "3. For å sikre et tilstrekkelig antall læreplasser, innføres en lærlingenorm for kommunens virksomhetsområder som omfattes av egenandelsordningen. Lærlingenormen skal gjelde for virksomhetsområdene på overordnet nivå."
+  ],
+  "vedtak": [
+    "1. Trondheim kommune opprettholder måltall på årlig inntak av 200 lærlinger.",
+    "2. Egenandelsordningen videreføres som finansieringsmodell for de gjeldende enhetene. Før økningen av egenandelen belastes enhetene , bør man forsøke å forhandle med fylkeskommune og/ eller andre aktuelle aktører for å finne mulige løsninger for delfinansiering. Dersom dette ikke fører frem økes egenandelen for å dekke finansieringsbehovet for måltallet på 200 lærlinger.",
+    "3. For å sikre et tilstrekkelig antall læreplasser, innføres en lærlingenorm for kommunens virksomhetsområder som omfattes av egenandelsordningen. Lærlingenormen skal gjelde for virksomhetsområdene på overordnet nivå."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Majen Helen Sævik (KrF) på vegne av KrF, H, MDG, PP, SP, V",
+      "tekst": "Pkt 2: Egenandelsordningen videreføres som finansieringsmodell for de gjeldende enhetene. Før økningen av egenandelen belastes enhetene , bør man forsøke å forhandle med fylkeskommune og/ eller andre aktuelle aktører for å finne mulige løsninger for delfinansiering. Dersom dette ikke fører frem økes egenandelen for å dekke finansieringsbehovet for måltallet på 200 lærlinger."
+    },
+    {
+      "forslagsstiller": "Erling Eide Hustvedt (Ap) på vegne av Ap, R, SV",
+      "tekst": "2. Egenandelsordningen videreføres som finansieringsmodell for de gjeldende enhetene. Egenandelen holdes på dagens nivå."
+    },
+    {
+      "forslagsstiller": "Vegard Frøseth Fenes (SP)",
+      "tekst": "3. For å sikre et tilstrekkelig antall læreplasser, innføres en lærlingenorm for kommunens virksomhetsområder som omfattes av egenandelsordningen. Lærlingenormen skal gjelde for virksomhetsområdene på overordnet nivå."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på innstillingens punkt 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på innstillingens punkt 2",
+      "alternativer": [
+        {
+          "navn": "For innstillingens punkt 2",
+          "stemmer": 24
+        },
+        {
+          "navn": "Mot innstillingens punkt 2",
+          "stemmer": 43
+        }
+      ],
+      "hvem_vant": "Mot innstillingens punkt 2",
+      "roedt_stoette": "Mot innstillingens punkt 2",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom Sæviks fellesforslag og Eide Hustvedts forslag (pkt 2)",
+      "alternativer": [
+        {
+          "navn": "Sæviks fellesforslag",
+          "stemmer": 37
+        },
+        {
+          "navn": "Eide Hustvedts forslag",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Sæviks fellesforslag",
+      "roedt_stoette": "Eide Hustvedts forslag",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingens punkt 3 og SPs forslag",
+      "alternativer": [
+        {
+          "navn": "SPs forslag",
+          "stemmer": 36
+        },
+        {
+          "navn": "Innstillingens punkt 3",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "SPs forslag",
+      "roedt_stoette": "Innstillingens punkt 3",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 252/2025",
+  "rodt_fremmet_forslag": false
+}

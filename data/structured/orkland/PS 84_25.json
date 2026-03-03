@@ -1,0 +1,36 @@
+{
+  "tittel": "84/25 Revisjon av gebyrforskrift vann- og avløp, sluttbehandling",
+  "innstilling": "I medhold av lov 16. mars 2012 nr. 12 om kommunale vass- og avløpsanlegg (vass- og avløpsanlegglova) § 3 og § 5, og forskrift 1. juni 2024 nr. 941 om begrensning av forurensning (forurensningsforskriften) kap. 16 og § 11-4, vedtar Orkland kommunestyre endring av forskrift om vann- og avløpsgebyr iht. forslag av 26.05.25. Revidert forskrift får virkningstidspunkt fra 01.01.2026.",
+  "vedtak": "I medhold av lov 16. mars 2012 nr. 12 om kommunale vass- og avløpsanlegg (vass- og avløpsanlegglova) § 3 og § 5, og forskrift 1. juni 2024 nr. 941 om begrensning av forurensning (forurensningsforskriften) kap. 16 og § 11-4, vedtar Orkland kommunestyre endring av forskrift om vann- og avløpsgebyr iht. forslag av 26.05.25. Revidert forskrift får virkningstidspunkt fra 01.01.2026.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg Teknikk 21.10.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoette": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 18.11.2025",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg teknikk sin innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Hovedutvalg teknikk sin innstilling",
+      "roedt_stoette": "Hovedutvalg teknikk sin innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "18.11.2025",
+  "saksnummer_ps": "PS 84/25",
+  "rodt_fremmet_forslag": false
+}

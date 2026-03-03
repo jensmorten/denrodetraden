@@ -1,0 +1,90 @@
+{
+  "tittel": "Medlemsforslag - Revidering av kommunens etiske retningslinjer - Gjermund Gorset (AP)",
+  "innstilling": [
+    "Bystyret ber byrådet legge frem en sak for bystyret om revidering av kommunens etiske retningslinjer. Bystyret ber om at det særskilt vurderes: A. En beløpsgrense for mottak av gaver knyttet til tjenesten, og registrering av gaver i et offentlig register. B. Om de etiske retningslinjene sine bestemmelser knyttet til lobbyvirksomhet for folkevalgte er hensiktsmessige. C. Å fjerne kravet om å opptre på en måte som \"ikke skader kommunens omdømme\". ettersom bestemmelsen kan oppfattes å legge bånd på ytringsfriheten. D. Hvordan funksjonene som var ivaretatt i KS sitt styrevervregister kan ivaretas. E: Å ta inn en formulering om å utvise ansvarlighet i forbindelse med alkoholbruk, særlig ved representasjon, sosiale arrangementer og reiser i regi av kommunen, for eksempel i avsnittet om kontakt med andre gjennom arbeid eller arbeidsrelaterte aktiviteter",
+    "Bystyret ber ordføreren legge frem en sak for bystyret om revidering av kommunens varslingsplakat med hensikt om at denne tilpasses og oppdateres til den parlamentariske styringsformen.",
+    "Bystyret ber byrådet fortsette arbeidet med et åpenhetsregister."
+  ],
+  "vedtak": [
+    "Innstillingen punkt 1 og 2 ble enstemmig vedtatt.",
+    "Innstillingen punkt 3 fikk 3 stemmer (3 R) mot 64 stemmer (18 H, 17 Ap, 9 SV, 5 FrP, 4 MDG, 4 V, 3 PP, 2 Uavh. SP, KrF) og falt.",
+    "Meland Winger forslag \"Alternativ til punkt 3\" ble vedtatt med 41 stemmer (17 Ap, 9 SV, 4 MDG, 4 V, 3 R, 2 PP, 2 Uavh.) mot 26 stemmer (18 H, 5 FrP, 1 PP Kokaas,SP, KrF).",
+    "Horgar \"Nytt punkt E om å vise ansvarlighet\" ble vedtatt med 42 stemmer (18 H, 9 SV, 1 FrP Remen Horneman Wist, 4 MDG, 3 R, 1 PP Sandsør, Uavh. Letnes Ødegaard, KrF) mot 25 stemmer 17 Ap, 4 FrP, 2 PP, Uavh. Meland Winger, SP)."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Aurora Meland Winger (Uavh.)",
+      "tekst": "Bystyret ber byrådet fortsette arbeidet med et åpenhetsregister."
+    },
+    {
+      "forslagsstiller": "Anbjørg Horgar (SV) på vegne av SV, R",
+      "tekst": "Nytt punkt E: Å ta inn en formulering om å utvise ansvarlighet i forbindelse med alkoholbruk, særlig ved representasjon, sosiale arrangementer og reiser i regi av kommunen, for eksempel i avsnittet om kontakt med andre gjennom arbeid eller arbeidsrelaterte aktiviteter."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen punkt 1 og 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen punkt 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 3
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 64
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering over Meland Winger forslag \"Alternativ til punkt 3\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 41
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 26
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering over Horgar \"Nytt punkt E om å vise ansvarlighet\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 42
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 25
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 244/2025",
+  "rodt_fremmet_forslag": false
+}

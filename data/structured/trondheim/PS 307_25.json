@@ -1,0 +1,67 @@
+{
+  "tittel": "PS 307/2025 Flyktningemidler 2025 - Budsjettkorrigering",
+  "innstilling": [
+    "Bystyret mener det er avgjørende at de flyktningmidlene som overføres til disposisjonsfondet i all hovedsak fordeles til kommunale enheter og ideell sektor der integreringsarbeidet pågår. Midlene bør ikke gå til andre områder da de trengs for å styrke integreringsarbeidet.",
+    "Bystyret ber byrådet legge frem en sak, helst i forbindelse med 1. økonomirapport, der det kommer frem hvordan flyktningemidler som overføres til disposisjonsfondet i denne saken kan benyttes til å styrke integreringsarbeidet i kommunen."
+  ],
+  "vedtak": [
+    "Bystyret mener det er avgjørende at de flyktningmidlene som overføres til disposisjonsfondet i all hovedsak fordeles til kommunale enheter og ideell sektor der integreringsarbeidet pågår. Midlene bør ikke gå til andre områder da de trengs for å styrke integreringsarbeidet.",
+    "Bystyret ber byrådet legge frem en sak, helst i forbindelse med 1. økonomirapport, der det kommer frem hvordan flyktningmidler som overføres til disposisjonsfondet i denne saken kan benyttes til å styrke integreringsarbeidet i kommunen."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "KrF, SP, MDG, H, V, PP",
+      "tekst": "Bystyret mener det er avgjørende at de flyktningmidlene som overføres til disposisjonsfondet i all hovedsak fordeles til ideell sektor og kommunale enheter der integreringsarbeidet pågår. Midlene bør ikke gå til andre områder da de trengs for å styrke integreringsarbeidet."
+    },
+    {
+      "forslagsstiller": "SV",
+      "tekst": "Bystyret ber byrådet legge frem en sak, helst i forbindelse med 1. økonomirapport, der det kommer frem hvordan flyktningemidler som overføres til disposisjonsfondet i denne saken kan benyttes til å styrke integreringsarbeidet i kommunen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over KrFs tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over SVs tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 63
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 307/25",
+  "rodt_fremmet_forslag": false
+}

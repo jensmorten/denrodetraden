@@ -1,0 +1,81 @@
+{
+  "tittel": "78/25 Oppløsning av bundne fond",
+  "innstilling": "Kommunestyret vedtar at 20 652 847,10 kroner omdisponeres fra bundne driftsfond og 2 976 984,81 kroner omdisponeres fra bundne investeringsfond. Midlene fra bundne driftsfond omdisponeres til ordinært disposisjonsfond med 11 367 134,43 kroner og til Flyktningefond med 9 285 712,67 kroner. Midlene fra bundne investeringsfond omdisponeres til disposisjonsfond for investeringer med 2 976 984,81 kroner.",
+  "vedtak": "Kommunestyret vedtar at 20 652 847,10 kroner omdisponeres fra bundne driftsfond og 2 976 984,81 kroner omdisponeres fra bundne investeringsfond. Midlene fra bundne driftsfond omdisponeres til ordinært disposisjonsfond med 8 367 134,43 kroner og til Flyktningefond med 9 285 712,67 kroner. Midlene fra bundne investeringsfond omdisponeres til disposisjonsfond for investeringer med 1 090 802,60 kroner. De resterende fondsmidlene disponeres slik: - 3 mill. kr fra Fond Orkland overføres til Fond asfalt/vei - Fond Grønørbrua på 1 286 732,41 overføres i sin helhet til Fond asfalt/vei - MK 255080461 Bund. invest.fond sykkel på 599 449,80 overføres i sin helhet til Fond trafikksikkerhet. Hovedutvalg teknikk prioriterer bruk av midlene på totalt 4 886 182,21.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hans Atle Kringstad, SMP på vegne av AP, H, SMP, SV og V",
+      "tekst": "Kommunestyret vedtar at 20 652 847,10 kroner omdisponeres fra bundne driftsfond og 2 976 984,81 kroner omdisponeres fra bundne investeringsfond. Midlene fra bundne driftsfond omdisponeres til ordinært disposisjonsfond med 8 367 134,43 kroner og til Flyktningefond med 9 285 712,67 kroner. Midlene fra bundne investeringsfond omdisponeres til disposisjonsfond for investeringer med 1 090 802,60 kroner. De resterende fondsmidlene disponeres slik: - 3 mill. kr fra Fond Orkland overføres til Fond asfalt/vei - Fond Grønørbrua på 1 286 732,41 overføres i sin helhet til Fond asfalt/vei - MK 255080461 Bund. invest.fond sykkel på 599 449,80 overføres i sin helhet til Fond trafikksikkerhet. Hovedutvalg teknikk prioriterer bruk av midlene på totalt 4 886 182,21."
+    },
+    {
+      "forslagsstiller": "Torstein Larsen, PP",
+      "tekst": "Saken utsettes."
+    },
+    {
+      "forslagsstiller": "Svein Erik Jørgensen på vegne av AP, H, SMP, SV og V",
+      "tekst": "Nytt forslag om at saken utsettes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 02.09.2025 om kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 16.09.2025 om utsettelsesforslag fra Torstein Larsen, PP",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag fra Torstein Larsen, PP",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot utsettelsesforslag",
+          "stemmer": "flertall minus 20"
+        }
+      ],
+      "hvem_vant": "Mot utsettelsesforslag",
+      "roedt_stoettet": "Mot utsettelsesforslag",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 16.09.2025 om nytt utsettelsesforslag fra AP, H, SMP, SV og V",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag fra AP, H, SMP, SV og V",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Utsettelsesforslag fra AP, H, SMP, SV og V",
+      "roedt_stoettet": "Utsettelsesforslag fra AP, H, SMP, SV og V",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 14.10.2025 om kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 17
+        },
+        {
+          "navn": "Forslag fra Hans Kringstad, SMP på vegne av AP, H, SMP, SV, V",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "Forslag fra Hans Kringstad, SMP på vegne av AP, H, SMP, SV, V",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "14.10.2025",
+  "saksnummer_ps": "PS 78/25",
+  "rodt_fremmet_forslag": false
+}

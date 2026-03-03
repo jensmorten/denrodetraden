@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 282/2025 Budsjett for kontroll og revisjon 2026",
+  "innstilling": "Bystyret vedtar det framlagte budsjettet for 2026 for kontroll og revisjon i Trondheim kommune.",
+  "vedtak": "Bystyret vedtar det framlagte budsjettet for 2026 for kontroll og revisjon i Trondheim kommune.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillinga ble enstemmig vedtatt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 282/25",
+  "rodt_fremmet_forslag": false
+}

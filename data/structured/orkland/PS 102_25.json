@@ -1,0 +1,36 @@
+{
+  "tittel": "Utvidet låneopptak ombyggingsprosjekt Isfjord",
+  "innstilling": "Kommunestyret vedtar en økt ramme på 1 650 000 kroner til prosjekt 40127 Ombyggingsprosjekt Isfjord. Ny ramme for prosjektet blir på 5 300 000 kroner. Økt ramme på 1 650 000 kroner finansieres med låneopptak.",
+  "vedtak": "Kommunestyret vedtar en økt ramme på 1 650 000 kroner til prosjekt 40127 Ombyggingsprosjekt Isfjord. Ny ramme for prosjektet blir på 5 300 000 kroner. Økt ramme på 1 650 000 kroner finansieres med låneopptak.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 25.11.2025 om Kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoette": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 16.12.2025 om Formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoette": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 102/25",
+  "rodt_fremmet_forslag": false
+}

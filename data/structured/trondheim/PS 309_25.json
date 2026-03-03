@@ -1,0 +1,50 @@
+{
+  "tittel": "Medlemsforslag - Folkeavstemning om sektorisert kjøremønster - Elin Marie Andreassen (FrP)",
+  "innstilling": "Forslaget avvises.",
+  "vedtak": "Forslaget avvises.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret ber byrådet legge frem en sak som beskriver hvordan folkeavstemning om innføring av sektorisert kjøremønster i Midtbyen kan gjennomføres. Saken må inneholde kvalitetssikrede beregninger av kostnader, med utgangspunkt i at en folkeavstemning gjennomføres fysisk og samtidig med lokalvalget i 2027."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Ved alternativ votering mellom innstillingen og FrPs alternative forslag \"Sak om folkeavstemming\"",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 59,
+          "partier": [
+            "H",
+            "Ap",
+            "SV",
+            "V",
+            "MDG",
+            "R",
+            "Uavh. Winger",
+            "PP Sandsør",
+            "SP"
+          ]
+        },
+        {
+          "navn": "FrPs alternative forslag \"Sak om folkeavstemming\"",
+          "stemmer": 8,
+          "partier": [
+            "FrP",
+            "PP",
+            "Uavh. Ødegaard",
+            "KrF"
+          ]
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 309/25",
+  "rodt_fremmet_forslag": false
+}

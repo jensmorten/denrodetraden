@@ -1,0 +1,36 @@
+{
+  "tittel": "75/25 Rapport etter juli 2025",
+  "innstilling": "Kommunestyret tar Rapport etter juli 2025 til orientering.",
+  "vedtak": "Kommunestyret tar Rapport etter juli 2025 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 30.09.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 14.10.2025",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "14.10.2025",
+  "saksnummer_ps": "PS 75/25",
+  "rodt_fremmet_forslag": false
+}

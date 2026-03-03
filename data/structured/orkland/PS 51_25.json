@@ -1,0 +1,36 @@
+{
+  "tittel": "51/25 Budsjettjustering investering",
+  "innstilling": "Kommunedirektørens innstilling enstemmig vedtatt.",
+  "vedtak": "Kommunestyret vedtar følgende endringer av de enkelte prosjekt: (beløp inkl. mva.)\nProsjekt Navn Beløp inkl mva\n30012 Skilt gateadresser (430) 290 000\n30040 Fortau Orkdalsveien 4 150 000\n30044 Fortau Grensen 7 000 000\n30048 Fortau Tverradkomsten 4 000 000\n30049 Forebygging v/nedbør kommunal vei 1 160 000\n30068 Fortau Reksteret-Mølnvegen 200 000\n40003 Nytt Meldal Helsetun 1 180 000\n40013 Ny Meldal brannstasjon 41 975 000\n40046 Ombygging Lensvik kommunehus 5 785 000\n40067 Garderobeanlegg Orklahallen -6 875 000\n40068 Div. kjøp av eiendom 500 000\n40088 Løkken kulturhus - scenerigg 1 830 000\n40096 Oppgradering uteområde Rådhuset 1 588 000\n40105 Brakkerigg Evjen og Grøtte barnehager 15 020 000\n50018 Tankbil Krokstadøra 2 600 000\n50049 Brannmur 185 000\n50056 PA anlegg Orkland kulturhus 1 750 000\n50063 AV anlegg kommunestyresal 145 000\nSum endringer 82 483 000\nSamlet finansiering av prosjektene endres som følger:\nMva kompensasjon - 16 496 600\nOverføring fra drift - 25 626 400\nLån - 28 080 000\nTilskudd miljøpakken - 12 280 000\nSum finansiering - 82 483 000\nFølgende budsjettjusteringer av driftsbudsjettet foretas:\nRamme Tekst Beløp\nFellesinntekt Overføring til investering 25 626 400\nFellesinntekt Bruk av disposisjonsfond - 25 626 400\nKommunedirektøren gis fullmakt til å foreta detaljerte budsjettendringer.\nKommunedirektøren gis fullmakt til å foreta nye låneopptak til kommunale investeringer innenfor en ramme på 28 080 000 kroner, herunder binde rente og velge långiver.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 10.06.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 17.06.2025",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 51/25",
+  "rodt_fremmet_forslag": false
+}

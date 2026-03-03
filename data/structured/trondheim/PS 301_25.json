@@ -1,0 +1,45 @@
+{
+  "tittel": "PS 301/2025 Strømming av aldersbestemte kamper i kommunale idrettsanlegg",
+  "innstilling": "Bystyret opprettholder formannskapets vedtak i sak 18/23. Bystyret tillater ikke strømming av kamper og konkurranser for barne- og ungdomsidretten under 18 år i kommunale idrettsanlegg eller i kommunal halltid. Strømming av kamper og konkurranser gjennom redaktørstyrte medier omfattes ikke av vedtaket.",
+  "vedtak": "Bystyret opprettholder formannskapets vedtak i sak 18/23. Bystyret tillater ikke strømming av kamper og konkurranser for barne- og ungdomsidretten under 18 år i kommunale idrettsanlegg eller i kommunal halltid. Strømming av kamper og konkurranser gjennom redaktørstyrte medier omfattes ikke av vedtaket.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Svein Otto Nilsen (PP)",
+      "tekst": "Bystyret utsetter saken"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslaget \"Bystyret utsetter saken\" fremmet av Svein Otto Nilsen (PP).",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 1
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 63
+        }
+      ],
+      "hvem_vant": "Mot utsettelsesforslaget",
+      "roedt_stoettet": "Mot utsettelsesforslaget",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over innstillingen om å opprettholde formannskapets vedtak i sak 18/23.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 64
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 301/25",
+  "rodt_fremmet_forslag": false
+}

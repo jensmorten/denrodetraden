@@ -1,0 +1,52 @@
+{
+  "tittel": "PS 298/2025 Trondheim kommunes temaplan for Nasjonaljubileet i 2030",
+  "innstilling": "Bystyret vedtar Trondheim kommunes temaplan for Nasjonaljubileet i 2030.",
+  "vedtak": [
+    "Bystyret vedtar Trondheim kommunes temaplan for Nasjonaljubileet i 2030.",
+    "Bydelene i Trondheim må engasjeres i den videre planleggingen. Likeså de lokale historielagene som kjenner lokalhistorien om Olavskulten og tiden etterpå."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sigurd Jan Ingvaldsen (Ap)",
+      "tekst": "Bydelene i Trondheim må engasjeres i den videre planleggingen. Likeså de lokale historielagene som kjenner lokalhistorien om Olavskulten og tiden etterpå."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Aps tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 40
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 298/25",
+  "rodt_fremmet_forslag": false
+}

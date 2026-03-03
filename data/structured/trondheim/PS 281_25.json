@@ -1,0 +1,49 @@
+{
+  "tittel": "PS 281/2025 Utleiepriser kommunale idrettsanlegg, utlån av kommunale lokaler og betalingssatser for Trondheim kulturskole 2026",
+  "innstilling": "Bystyret vedtar utleiepriser for kommunale idrettsanlegg, utlån av kommunale lokaler og betalingssatser for Trondheim kulturskole 2026 som foreslått.",
+  "vedtak": "Innstillingen ble vedtatt med 57 stemmer mot 10 stemmer. Tilleggsforslaget fra Jenny Nordaune (SV) falt med 13 stemmer for og 54 stemmer mot.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jenny Nordaune (SV), pva SV, R",
+      "tekst": "Bystyret vedtar å øke kapasiteten ved Trondheim kulturskole med 400 elevplasser, samt å heve inntektsgrensen for tildeling av friplasser ved Trondheim kulturskole til 5G."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 57
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoette": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Nordaunes tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 54
+        }
+      ],
+      "hvem_vant": "Mot tilleggsforslaget",
+      "roedt_stoette": "For tilleggsforslaget",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 281/25",
+  "rodt_fremmet_forslag": false
+}

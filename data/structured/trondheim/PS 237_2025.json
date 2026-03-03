@@ -1,0 +1,59 @@
+{
+  "tittel": "Endringer av reglement og navn for Trondheim studentråd",
+  "innstilling": [
+    "Bystyret vedtar at Trondheim studentråd endrer navn til Trondheim kommunes studentutvalg.",
+    "Bystyret vedtar vedlagte reglement for Trondheim kommunes studentutvalg",
+    "Endring av reglement punkt 3.1. første setning: Utvalget holder møter etter en oppsatt plan, eller når leder finner det påkrevd eller at 1/3 av medlemmene krever det.",
+    "\"Leder for BIS ved Handelshøgskolen BI” endres til \"Leder for BISO ved Handelshøgskolen BI\".",
+    "Begrepet \"tre politikere\" i §1.1 sjuende kulepunkt erstattes med \"tre folkevalgte bystyremedlemmer (fast eller vara)\".",
+    "Begrepet \"en politiker\" i §1.1 åttende kulepunkt erstattes med \"ett folkevalgt fylkestingsmedlem (fast eller vara)\"."
+  ],
+  "vedtak": [
+    "Bystyret vedtar at Trondheim studentråd endrer navn til Trondheim kommunes studentutvalg.",
+    "Bystyret vedtar vedlagte reglement for Trondheim kommunes studentutvalg",
+    "Endring av reglement punkt 3.1. første setning: Utvalget holder møter etter en oppsatt plan, eller når leder finner det påkrevd eller at 1/3 av medlemmene krever det.",
+    "\"Leder for BIS ved Handelshøgskolen BI” endres til \"Leder for BISO ved Handelshøgskolen BI\".",
+    "Begrepet \"tre politikere\" i §1.1 sjuende kulepunkt erstattes med \"tre folkevalgte bystyremedlemmer (fast eller vara)\".",
+    "Begrepet \"en politiker\" i §1.1 åttende kulepunkt erstattes med \"ett folkevalgt fylkestingsmedlem (fast eller vara)\"."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roald Arentz (R)",
+      "tekst": "\"Politiker\" erstattes av \"folkevalgt bystyremedlem\" og \"folkevalgt fylkestingsmedlem\": 1. Bystyret vedtar at Trondheim studentråd endrer navn til Trondheim kommunes studentutvalg. 2. Bystyret vedtar vedlagte reglement for Trondheim kommunes studentutvalg Endring av reglement punkt 3.1. første setning: Utvalget holder møter etter en oppsatt plan, eller når leder finner det påkrevd eller at 1/3 av medlemmene krever det. \"Leder for BIS ved Handelshøgskolen BI” endres til \"Leder for BISO ved Handelshøgskolen BI\". Begrepet \"tre politikere\" i §1.1 sjuende kulepunkt erstattes med \"tre folkevalgte bystyremedlemmer (fast eller vara)\". Begrepet \"en politiker\" i §1.1 åttende kulepunkt erstattes med \"ett folkevalgt fylkestingsmedlem (fast eller vara)\"."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen unntatt punkt 2 den delen som omhandler reglementets punkt 1.1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen punkt 2 den del som omhandler reglementets punkt 1.1 og Rødts forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingen punkt 2 (reglementets punkt 1.1)",
+          "stemmer": 0
+        },
+        {
+          "navn": "Rødts forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Rødts forslag",
+      "roedt_stoettet": "Rødts forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 237/2025",
+  "rodt_fremmet_forslag": true
+}

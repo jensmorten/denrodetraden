@@ -1,0 +1,41 @@
+{
+  "tittel": "Endring av vedtakspunkt 6 i Anskaffelsesstrategien for Trondheim kommune (2023-2030)",
+  "innstilling": "Bystyrets sak 151/23, vedtakspunkt 6, skal tolkes slik at Trondheim kommune ved inngåelse av leiekontrakter skal jobbe aktivt for å innta seriøsitetskrav i leiekontrakter, opptre i henhold til åpenhetsloven og i samsvar med de grunnleggende prinsippene i anskaffelsesloven § 4.",
+  "vedtak": "Ved ombygging eller renovasjon av lokaler som Trondheim kommune leier eller tilpassinger som må til for at Trondheim kommune skal leie, skal kommunens seriøsitetskrav være gjeldende. Dette gjeler også for drift og vedlikehold og eventuell kantinedrift.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Gjermund Gorset (Ap)",
+      "tekst": "Ved ombygging eller renovering av lokaler trondheim kommune leier eller tilpassinger som må til for at Trondheim kommune skal leie, skal kommunens seriøsitetskrav være gjeldende. Dette gjeler også for drift og vedlikehold, og eventuell kantinedrift."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Gorsets tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 254/2025",
+  "rodt_fremmet_forslag": false
+}

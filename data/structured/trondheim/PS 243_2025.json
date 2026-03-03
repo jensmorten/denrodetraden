@@ -1,0 +1,48 @@
+{
+  "tittel": "Medlemsforslag - Eiendommer innenfor markagrensen - Haakon Gussiaas (H)",
+  "innstilling": "Bystyret avviser medlemsforslaget da behovet som er skissert lar seg dekke gjennom forhåndskonferanse iht plan- og bygningsloven.",
+  "vedtak": "Bystyret avviser medlemsforslaget da behovet som er skissert lar seg dekke gjennom forhåndskonferanse iht plan- og bygningsloven.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Haakon Gussiaas (H) på vegne av H, FrP",
+      "tekst": "Bystyret ønsker at forvaltningspraksis for eiendommer innenfor markagrensen tydeliggjøres, og ber byrådet komme tilbake med en sak som åpner for at det kan gis en forenklet vurdering i forkant av formell søknadsprosess."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Ved alternativ votering mellom innstillingen og Gussiaas forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 42,
+          "partier": [
+            "Ap",
+            "SV",
+            "V",
+            "MDG",
+            "R",
+            "Uavh. PP Sandsør",
+            "SP",
+            "KrF"
+          ]
+        },
+        {
+          "navn": "Gussiaas forslag",
+          "stemmer": 25,
+          "partier": [
+            "H",
+            "FrP",
+            "PP"
+          ]
+        }
+      ],
+      "vinner": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 243/2025",
+  "rodt_fremmet_forslag": false
+}

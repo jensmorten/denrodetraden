@@ -1,0 +1,63 @@
+{
+  "tittel": "71/25 Søknad om fritak fra politiske verv",
+  "innstilling": [
+    "Kristine Løfshus Solli, AP innvilges fritak fra sine politiske verv i kommunestyret og hovedutvalg teknikk ut valgperioden.",
+    "Som nytt medlem i kommunestyret rykker første vara Marit Halsetrønning opp som fast medlem. Øvrige varamedlemmer rykker opp på varamannslisten.",
+    "Som fast medlem i hovedutvalg teknikk velges – ingen innstilling.",
+    "Som vararepresentant til styret i stiftelsen Orkla gjestebolig velges – ingen innstilling."
+  ],
+  "vedtak": [
+    "Kristine Løfshus Solli, AP innvilges fritak fra sine politiske verv i kommunestyret og hovedutvalg teknikk ut valgperioden.",
+    "Som nytt medlem i kommunestyret rykker første vara Marit Halsetrønning opp som fast medlem. Øvrige varamedlemmer rykker opp på varamannslisten.",
+    "Som fast medlem i hovedutvalg teknikk velges Marit Halsetrønning.",
+    "Som vararepresentant til styret i stiftelsen Orkla gjestebolig velges Olga Ucinska."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hanne Nyhus, AP",
+      "tekst": "Nytt medlem i hovedutvalg teknikk: Marit Halsetrønning. Nytt varamedlem til styret i stiftelsen Orkla Gjestebolig: Olga Ucinska."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 13.10.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Valgutvalg 13.10.2025 på forslag fra Hanne Nyhus, AP",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Hanne Nyhus, AP",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "Forslag fra Hanne Nyhus, AP",
+      "roedt_stoettet": "Forslag fra Hanne Nyhus, AP",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 14.10.2025",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "14.10.2025",
+  "saksnummer_ps": "PS 71/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,89 @@
+{
+  "tittel": "PS 274/2025 Handlings- og økonomiplan 2026-2029 og Budsjettet 2026",
+  "innstilling": "Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2026-2029 og budsjett 2026, med de endringer som fremgår av budsjettforslaget fra Sentrum-Høyre og FrP.",
+  "vedtak": "Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2026-2029 og budsjett 2026, med de endringer som fremgår av budsjettforslaget fra Sentrum-Høyre og FrP.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørn Arve Flått (Ap) pva Ap, Uavhengig Ødegaard",
+      "tekst": "Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2026-2029 og budsjett 2026, med de endringer som fremgår av Arbeiderpartiets budsjettforslag."
+    },
+    {
+      "forslagsstiller": "Mona Berger (SV) pva SV, R",
+      "tekst": "Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2026-2029 og budsjett 2026, med de endringer som fremgår av og budsjettforslag fra SV og Rødt."
+    },
+    {
+      "forslagsstiller": "Mats Ulseth Ramo (H) pva H, Sp, MDG, KrF, FrP, V, PP",
+      "tekst": "Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2026-2029 og budsjett 2026, med de endringer som fremgår av det vedlagte budsjettforslaget."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på innstillinga (byrådets forslag til budsjett)",
+      "alternativer": [
+        {
+          "navn": "For innstillinga",
+          "stemmer": 1
+        },
+        {
+          "navn": "Mot innstillinga",
+          "stemmer": 66
+        }
+      ],
+      "hvem_vant": "Mot innstillinga",
+      "roedt_stoettet": "Mot innstillinga",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på SV og Rødts forslag til budsjett",
+      "alternativer": [
+        {
+          "navn": "For SV og Rødts forslag",
+          "stemmer": 12
+        },
+        {
+          "navn": "Mot SV og Rødts forslag",
+          "stemmer": 55
+        }
+      ],
+      "hvem_vant": "Mot SV og Rødts forslag",
+      "roedt_stoettet": "For SV og Rødts forslag",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering på Arbeiderpartiet og Uavhengig Ødegaards forslag til budsjett",
+      "alternativer": [
+        {
+          "navn": "For Ap og Uavhengig Ødegaards forslag",
+          "stemmer": 29
+        },
+        {
+          "navn": "Mot Ap og Uavhengig Ødegaards forslag",
+          "stemmer": 38
+        }
+      ],
+      "hvem_vant": "Mot Ap og Uavhengig Ødegaards forslag",
+      "roedt_stoettet": "For Ap og Uavhengig Ødegaards forslag",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering på Sentrum-Høyre og FrP's forslag til budsjett",
+      "alternativer": [
+        {
+          "navn": "For Sentrum-Høyre og FrP's forslag",
+          "stemmer": 36
+        },
+        {
+          "navn": "Mot Sentrum-Høyre og FrP's forslag",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "For Sentrum-Høyre og FrP's forslag",
+      "roedt_stoettet": "Mot Sentrum-Høyre og FrP's forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 274/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Medlemsforslag - Støtteordning for kjøp av elsykkel i Trondheim kommune - Merete Letnes Ødegaard (Uavh)",
+  "innstilling": null,
+  "vedtak": "Medlemsforslaget oversendes utvalg for Miljø- næring og samferdsel.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om oversendelse av medlemsforslaget",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "FO 48/25",
+  "rodt_fremmet_forslag": false
+}

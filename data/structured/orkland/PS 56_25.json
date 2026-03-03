@@ -1,0 +1,36 @@
+{
+  "tittel": "Fastsetting av felles planprogram for kommuneplanens samfunnsdel og arealdel",
+  "innstilling": "Kommunedirektørens innstilling",
+  "vedtak": "Felles planprogram for samfunnsdel og arealdel for Orkland 2025-37 fastsettes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 10.06.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 17.06.2025",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 56/25",
+  "rodt_fremmet_forslag": false
+}

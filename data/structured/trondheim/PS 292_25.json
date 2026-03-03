@@ -1,0 +1,62 @@
+{
+  "tittel": "PS 292/2025 Reglement for innstillingsrett",
+  "innstilling": "Bystyret vedtar forslaget til nytt reglement for innstillingsrett med følgende endringer:\n1 - Legges til følgende tekst:\nByrådet kan delegere videre sin innstillingsrett for saker i klageutvalget.",
+  "vedtak": "Bystyret vedtar forslaget til nytt reglement for innstillingsrett med følgende endringer:\n1 - Legges til følgende tekst:\nByrådet kan delegere videre sin innstillingsrett for saker i klageutvalget.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV)",
+      "tekst": "I innbyggerforslag innstiller ordfører til forretningsutvalget."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen unntatt punkt 5",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over innstillingens punkt 5",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 32,
+          "partier": [
+            "19 H",
+            "4 MDG",
+            "4 (ukjent parti)",
+            "2 PP",
+            "SP",
+            "KrF",
+            "Uavh. Winger"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 35,
+          "partier": [
+            "17 Ap",
+            "9 SV",
+            "4 FrP",
+            "3 R",
+            "1 PP - Nilsen",
+            "Uavh. Ødegaard"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 292/25",
+  "rodt_fremmet_forslag": false
+}

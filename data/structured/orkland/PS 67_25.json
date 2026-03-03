@@ -1,0 +1,41 @@
+{
+  "tittel": "Anskaffelse av sikkert låssystem for hjemmeboende",
+  "innstilling": "Kommunestyre vedtar innkjøp på 3,1 millioner kroner for anskaffelse av sikkert låssystem for hjemmeboende brukere av trygghetsalarm. Investeringen finansieres ved bruk av bundne fond.",
+  "vedtak": "Kommunestyret vedtar innkjøp på 3,1 millioner kroner for anskaffelse av sikkert låssystem for hjemmeboende brukere av trygghetsalarm. Innkjøpet finansieres ved bruk av bundne fond.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Formannskapet",
+      "tekst": "Formannskapet ber om å få en grundigere orientering rundt vurderingene av disse fondene i kommunestyret."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 02.09.2025 om kommunedirektørens innstilling med omforent forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling med omforent forslag",
+      "roedt_stoettet": "Kommunedirektørens innstilling med omforent forslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 16.09.2025 om formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 67/25",
+  "rodt_fremmet_forslag": false
+}

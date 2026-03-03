@@ -1,0 +1,69 @@
+{
+  "tittel": "PS 308/2025 Medlemsforslag - Støtteordning for kjøp av elsykkel i Trondheim kommune - Merete Letnes Ødegaard (Uavh)",
+  "innstilling": "Bystyret ber byrådet jobbe for å videreføre støtte til lastesykler i Miljøpakkens handlingsprogram.",
+  "vedtak": "Bystyret ber byrådet jobbe for å videreføre støtte til lastesykler i Miljøpakkens handlingsprogram.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Merete Letnes Ødegaard (Uavh.)",
+      "tekst": "Trondheim bystyre ber Byrådet om innen juni, å utarbeide en konkret modell for en kommunal støtteordning for kjøp av elsykkel til innbyggerne."
+    },
+    {
+      "forslagsstiller": "Tore Dyrendahl (MDG)",
+      "tekst": "Bystyret ber byrådet fremme en sak om støtte til el-sykler som kan foreslås inn i Miljøpakkens handlingsprogram. Saken bør belyse hvordan en slik støtte kan og bør innrettes. Saken bør også belyse om støtten kan og bør inneholde en inntektsgrense for å målrettes til de som har mest behov for en slik støtte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Uavh. Ødegaards alternative forslag \"opprinnelig innstilling\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 62
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 60
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering over MDGs tilleggsforslag \"Sak om støtte til elsykler\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 44
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 308/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,73 @@
+{
+  "tittel": "PS 289/2025 Møteramme for bystyrets møter",
+  "innstilling": "Bystyrets møter starter kl. 10.00 og varer til kl. 17.00. Endret starttidspunkt for bystyrets møter innføres fra 01.01.2026.",
+  "vedtak": "Bystyrets møter starter kl. 10.00 og varer til kl. 17.00. Endret starttidspunkt for bystyrets møter innføres fra 01.01.2026.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Radino Dizza Zulfi Mahendra (H), alternativt forslag pva H, Uavhengig Ødegaard",
+      "tekst": "Bystyrets møter starter kl. 13.00 og varer til kl. 20:00. Endret møtestart innføres fra 01.01.2026. Ordføreren legger frem sak for bystyret i juni 2026 med evaluering av møtetidspunkt og eventuelt forslag til ytterligere justering."
+    },
+    {
+      "forslagsstiller": "Gjermund Gorset (Ap)",
+      "tekst": "Bystyret vedtar å gjennomføre to ordinære bystyremøter i februar, juni og oktober enten dagen før eller dagen etter det fastsatte møte. Dersom det ikke er behov kan ordfører varsle bystyret at møtet gjennomføres som et enkeltmøte. Bystyret gir forretningsutvalget fullmakt til å vurdere om det skal betales honorar for to møter eller ett ved gjennomføringen av disse. Alle møter i bystyret gjennomføres i tidsrammen 13.00 - 18.00."
+    },
+    {
+      "forslagsstiller": "Mona Berger (SV), alternativt forslag pva SV, MDG, R",
+      "tekst": "Bystyrets møter starter kl. 10.00 og varer til kl. 17.00. Endret starttidspunkt for bystyrets møter innføres fra 01.01.2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på Mahendras forslag om møter fra 13.00 til 20.00",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 53
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering på Gorsets forslag om to ordinære møter i februar, juni og oktober med tidsramme 13.00 - 18.00",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 18
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 49
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering på Bergers forslag om møter fra 10.00 til 17.00",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 289/25",
+  "rodt_fremmet_forslag": false
+}

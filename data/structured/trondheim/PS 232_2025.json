@@ -1,0 +1,48 @@
+{
+  "tittel": "Forskrift om ordensreglement for deltakere ved Trondheim voksenopplæringssenter",
+  "innstilling": "Bystyret vedtar forskrift om ordensreglement for deltakere ved Trondheim voksenopplæringssenter slik det framgår av vedlegget. Punkt nummer 11 i 4.1 endres i tråd med loven Å bruke klesplagg som helt eller delvis dekker ansiktet når de får opplæring. Kulepunkt i paragrav 4.1 i forskriften som omhandler forbud mot å bruke skolens arealer som bønnerom strykes.",
+  "vedtak": "Bystyret vedtar forskrift om ordensreglement for deltakere ved Trondheim voksenopplæringssenter slik det framgår av vedlegget med de nevnte endringer.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roald Arentz (R)",
+      "tekst": "Saken sendes tilbake til byrådet, som bes utarbeide et reglement som er mindre stigmatiserende og inneholder færre regler som er overflødige fordi de er i tråd med gjeldende lovverk i Norge."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillingen og Roald Arentz (R) sitt alternative forslag om tilbakesendelse til byrådet.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 36,
+          "partier": {
+            "H": 18,
+            "FrP": 5,
+            "V": 4,
+            "MDG": 4,
+            "PP": 3,
+            "SP": 1,
+            "KrF": 1
+          }
+        },
+        {
+          "navn": "Roald Arentz (R) sitt alternative forslag",
+          "stemmer": 31,
+          "partier": {
+            "Ap": 17,
+            "SV": 9,
+            "R": 3,
+            "Uavh.": 2
+          }
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Roald Arentz (R) sitt alternative forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 232/2025",
+  "rodt_fremmet_forslag": true
+}

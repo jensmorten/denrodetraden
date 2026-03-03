@@ -1,0 +1,24 @@
+{
+  "tittel": "Oppnevnelse av representant til styret i Orkland Energi Varme AS",
+  "innstilling": "Aasmund Lie oppnevnes som representant for Orkland kommune til styret i Orkland Energi Varme AS.",
+  "vedtak": "Aasmund Lie oppnevnes som representant for Orkland kommune til styret i Orkland Energi Varme AS.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "16.09.2025",
+  "saksnummer_ps": "PS 63/25",
+  "rodt_fremmet_forslag": false
+}

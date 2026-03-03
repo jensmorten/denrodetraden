@@ -1,0 +1,24 @@
+{
+  "tittel": "Medlemsforslag - Folkeavstemning om sektorisert kjøremønster - Elin Marie Andreassen (FrP)",
+  "innstilling": "I henhold til bystyrets reglement er det forretningsutvalget som er ansvarlig for saker som angår lokaldemokratiordninger. Bystyret vedtar derfor å oversende saken til forretningsutvalget for innstilling til bystyret.",
+  "vedtak": "Bystyret vedtar å oversende saken til forretningsutvalget for innstilling til bystyret.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om medlemsforslaget om folkeavstemning om sektorisert kjøremønster",
+      "alternativer": [
+        {
+          "navn": "Forslaget",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget",
+      "roedt_stoettet": "Forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "FO 47/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,111 @@
+{
+  "tittel": "Kvalitetsmelding for BFT 2024",
+  "innstilling": [
+    "Bystyret tar kvalitetsmelding for Barne- og familietjenesten 2024 til orientering.",
+    "Bystyret tar tilstandsrapport for barnevernet i 2024 til orientering.",
+    "Bystyret ber byrådet jobbe for å få opp andelen fosterhjem som er tilknyttet barnas familier og nettverk.",
+    "Bystyret ber om at oppvekst- og kulturutvalget blir orientert om rekrutteringsarbeidet av minoriteter i barnevern, HOA og skolehelsetjenesten. Rekrutteringsarbeidet synliggjøres i fremtidige kvalitetsmeldinger.",
+    "Bystyret ber Byrådet til neste års kvalitetsmelding legge inn informasjon om bruken av barnekoordinator.",
+    "Bystyret ber Byrådet til neste års kvalitetsmelding legge inn mer utfyllende informasjon om Helse- og avlastningstjenesten for barn og unge. Det skal beskrives antall brukere, omfang, antall søknader og avslag, ventetid og gjennomføres en enkel brukerundersøkelse for å måle den opplevde kvaliteten av tjenesten."
+  ],
+  "vedtak": [
+    "Bystyret tar kvalitetsmelding for Barne- og familietjenesten 2024 til orientering.",
+    "Bystyret tar tilstandsrapport for barnevernet i 2024 til orientering.",
+    "Bystyret ber byrådet jobbe for å få opp andelen fosterhjem som er tilknyttet barnas familier og nettverk.",
+    "Bystyret ber om at oppvekst- og kulturutvalget blir orientert om rekrutteringsarbeidet av minoriteter i barnevern, HOA og skolehelsetjenesten. Rekrutteringsarbeidet synliggjøres i fremtidige kvalitetsmeldinger.",
+    "Bystyret ber Byrådet til neste års kvalitetsmelding legge inn informasjon om bruken av barnekoordinator.",
+    "Bystyret ber Byrådet til neste års kvalitetsmelding legge inn mer utfyllende informasjon om Helse- og avlastningstjenesten for barn og unge. Det skal beskrives antall brukere, omfang, antall søknader og avslag, ventetid og gjennomføres en enkel brukerundersøkelse for å måle den opplevde kvaliteten av tjenesten."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roald Arentz (R)",
+      "tekst": "Bystyret er bekymra for at underfinansiering av tjenesten vil svekke tjenestekvaliteten og arbeidsmiljøet, og på sikt påføre kommunen store utgifter."
+    },
+    {
+      "forslagsstiller": "Efia Marie Damba (SV)",
+      "tekst": "Bystyret ber om at oppvekst- og kulturutvalget blir orientert om rekrutteringsarbeidet av minoriteter i barnevern, HOA og skolehelsetjenesten. Rekrutteringsarbeidet synliggjøres i fremtidige kvalitetsmeldinger."
+    },
+    {
+      "forslagsstiller": "Kristian Lian (Ap)",
+      "tekst": "Bystyret ber Byrådet til neste års kvalitetsmelding legge inn informasjon om bruken av barnekoordinator."
+    },
+    {
+      "forslagsstiller": "Kristian Lian (Ap)",
+      "tekst": "Bystyret ber Byrådet til neste års kvalitetsmelding legge inn mer utfyllende informasjon om Helse- og avlastningstjenesten for barn og unge. Det skal beskrives antall brukere, omfang, antall søknader og avslag, ventetid og gjennomføres en enkel brukerundersøkelse for å måle den opplevde kvaliteten av tjenesten."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Arentz tilleggsforslag \"Bekymring for konsekvenser av underfinansiering\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 36
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over Dambas forslag \"Rekruttering av minoriteter\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 32
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Lians tilleggsforslag \"Barnekoordinator\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Lians tilleggsforslag \"Helse- og avlastningstjenesten\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 233/2025",
+  "rodt_fremmet_forslag": true
+}

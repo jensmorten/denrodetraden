@@ -1,0 +1,33 @@
+{
+  "tittel": "PS 290/2025 Ny sak - parkeringssituasjonen i Nilsbyen",
+  "innstilling": null,
+  "vedtak": "Bystyret ber byrådet ta de nødvendige initiativ for å sikre at myra som frem til nå er brukt til parkering, også kan vinterbrøytes i sesongen 25/26.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP), alternativt forslag pva FrP, Ap, H",
+      "tekst": "Bystyret ber byrådet ta de nødvendige initiativ for å sikre at myra som frem til nå er brukt til parkering, også kan vinterbrøytes i sesongen 25/26."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Andreassens forslag",
+      "alternativer": [
+        {
+          "navn": "For Andreassens forslag",
+          "stemmer": 60
+        },
+        {
+          "navn": "Mot Andreassens forslag",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For Andreassens forslag",
+      "roedt_stoettet": "Mot Andreassens forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 290/25",
+  "rodt_fremmet_forslag": false
+}

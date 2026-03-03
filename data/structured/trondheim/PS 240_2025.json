@@ -1,0 +1,33 @@
+{
+  "tittel": "Medlemsforslag - Studentboliger i tilknytning til sykehjem - Maria Alseth (FrP)",
+  "innstilling": "Bystyret ber byrådet vurdere etablering av studentboliger i tilknytning kommunale tjenester, der det bidrar til å oppfylle målsettinger i studentstrategien og relevante planer for helseområdet. Studentboligene må bygges på en slik måte at en kan leve et tilnærmet ordinært studentliv.",
+  "vedtak": "Bystyret ber byrådet vurdere etablering av studentboliger i tilknytning kommunale tjenester, der det bidrar til å oppfylle målsettinger i studentstrategien og relevante planer for helseområdet. Studentboligene må bygges på en slik måte at en kan leve et tilnærmet ordinært studentliv.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret ber byrådet vurdere etablering av studentboliger i tilknytning til alle nye sykehjem. Erfaringene fra denne typen etableringene kan benyttes til eventuelt å utvide ordningen til andre kommunale tjenester på et senere tidspunkt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Ved alternativ votering mellom innstillingen og Andreassens forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 53
+        },
+        {
+          "navn": "Andreassens forslag",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 240/2025",
+  "rodt_fremmet_forslag": false
+}

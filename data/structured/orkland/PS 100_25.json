@@ -1,0 +1,109 @@
+{
+  "tittel": "Første gangs behandling - Kommuneplanens samfunnsdel Orkland 2026-38",
+  "innstilling": "I medhold av plan- og bygningsloven §11-14 legges forslag til kommuneplanens samfunnsdel for Orkland 2026-2038 ut til høring og offentlig ettersyn i minimum seks uker.",
+  "vedtak": "I medhold av plan- og bygningsloven §11-14 legges forslag til kommuneplanens samfunnsdel for Orkland 2026-2038 ut til høring og offentlig ettersyn i minimum seks uker. Endring av tekst under tema Arealstrategi for Orkland i Kommuneplanens samfunnsdel: Nederst på side 14 under “Vi deler senterstrukturen i tre nivåer” Ordet grendesentre endres til bygdesentre. Nederst på side 15: “Tettstedsentre og grendesentre” I overskriften endres grendesentre til bygdesentre. I teksten under endres grendesentrene til bygdesentrene. Siste avsnittet under overskriften «Boligstruktur og boligbehov». side 16: Siste setning endres til: Vi åpner også for noe spredt boligbygging i grender og bygdesamfunn for å styrke lokalmiljøet. Kommunedirektøren bes utarbeide forslag til ny visjon for Orkland som del av Kommuneplanens Samfunnsdel.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stine Storengen på vegne av Senterpartiet",
+      "tekst": "Avsnittet Områder for fritidsboliger, side 16 i vedlegget endres til følgende: Orkland har rundt 1 550 regulerte, ubebygde hyttetomter fordelt fra kyst til fjell. Vi vurderer nye byggeområder og fortetting innenfor eksisterende byggeområder dersom det ikke går på bekostning av naturverdier, jordvern eller karbonrike arealer."
+    },
+    {
+      "forslagsstiller": "Oddvar Kjøren, AP på vegne av AP, H, SMP, SV og V",
+      "tekst": "Forslag til endring av tekst under tema Arealstrategi for Orkland i Kommuneplanens samfunnsdel: Nederst på side 14 under “Vi deler senterstrukturen i tre nivåer” Ordet grendesentre endres til bygdesentre. Nederst på side 15: “Tettstedsentre og grendesentre” I overskriften endres grendesentre til bygdesentre. I teksten under endres grendesentrene til bygdesentrene. Siste avsnittet under overskriften «Boligstruktur og boligbehov». side 16: Siste setning endres til: Vi åpner også for noe spredt boligbygging i grender og bygdesamfunn for å styrke lokalmiljøet."
+    },
+    {
+      "forslagsstiller": "Ola Bjørkøy på vegne av Senterpartiet",
+      "tekst": "Avsnittet Områder for fritidsboliger, side 16 i vedlegget endres til følgende: Orkland har rundt 1 550 regulerte, ubebygde hyttetomter fordelt fra kyst til fjell. Vi vurderer nye byggeområder og fortetting innenfor eksisterende byggeområder dersom det ikke går på bekostning av naturverdier, jordvern eller karbonrike arealer."
+    },
+    {
+      "forslagsstiller": "Svein Erik Jørgensen, AP",
+      "tekst": "Kommunedirektøren bes utarbeide forslag til ny visjon for Orkland som del av Kommuneplanens Samfunnsdel."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på endringsforslag fra Senterpartiet (Stine Storengen) i Formannskapet 25.11.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 3
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på kommunedirektørens innstilling i Formannskapet 25.11.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på endringsforslag fra AP, H, SMP, SV og V i Kommunestyret 16.12.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på endringsforslag fra Senterpartiet (Ola Bjørkøy) i Kommunestyret 16.12.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 19
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "flertall"
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på tilleggsforslag fra AP (Svein Erik Jørgensen) i Kommunestyret 16.12.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på formannskapets innstilling med endringer i Kommunestyret 16.12.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 100/25",
+  "rodt_fremmet_forslag": false
+}

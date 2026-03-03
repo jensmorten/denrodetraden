@@ -1,0 +1,48 @@
+{
+  "tittel": "Vertskommuneavtale Orklandsregionen legevakt",
+  "innstilling": "Orkland kommune slutter seg til vertskommuneavtalen mellom Orkland kommune som vertskommune og kommuner i Orklandsregionen om drift av legevakt.",
+  "vedtak": "Orkland kommune slutter seg til vertskommuneavtalen mellom Orkland kommune som vertskommune og kommuner i Orklandsregionen om drift av legevakt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Eldreråd 13.11.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Hovedutvalg helse, oppvekst og kultur 21.10.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Kommunestyre 18.11.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "18.11.2025",
+  "saksnummer_ps": "PS 85/25",
+  "rodt_fremmet_forslag": false
+}

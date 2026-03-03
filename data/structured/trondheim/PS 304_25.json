@@ -1,0 +1,29 @@
+{
+  "tittel": "PS 304/2025 Klima- og miljøstrategi for forvaltning, drift og vedlikehold av kommunens bygningsmasse",
+  "innstilling": null,
+  "vedtak": "Sak 304/25 oversendes Finans- og organisasjonsutvalget for behandling.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Thomas Sakshaug (MDG)",
+      "tekst": "Saken utsettes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over MDGs utsettelsesforslag",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelsesforslaget",
+      "roedt_stoettet": "For utsettelsesforslaget",
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 304/25",
+  "rodt_fremmet_forslag": false
+}

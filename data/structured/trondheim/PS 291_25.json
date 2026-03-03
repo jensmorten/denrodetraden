@@ -1,0 +1,89 @@
+{
+  "tittel": "PS 291/2025 Nytt reglement for Klageutvalget",
+  "innstilling": {
+    "1": "Bystyret vedtar vedlagt reglement for Klageutvalget med følgende endring: 3.3 Setningen “Klager har ikke adgang til å møte og fremme sin sak i møtet.” strykes. Legges til: \"Klageutvalget kan ved flertall velge å invitere klager til å få legge frem sin sak for utvalget.\"",
+    "2": "Punkt 1.2 i reglementet endres til: \"I det konstituerende møtet velger bystyret en leder, varaordføreren og fem medlemmer av bystyret, med vararepresentanter. Bystyret velger klageutvalgets leder og nestleder. Leder og nestleder skal ikke tilhøre samme parti eller partigruppering. Utvalget kan opprette et arbeidsutvalg (AU) bestående av leder og nestleder og ellers de medlemmer utvalget bestemmer.\"",
+    "3": "Reglementet trer i kraft fra 01.02.2026."
+  },
+  "vedtak": {
+    "1": "Bystyret vedtar vedlagt reglement for Klageutvalget med følgende endring: 3.3 Setningen “Klager har ikke adgang til å møte og fremme sin sak i møtet.” strykes. Legges til: \"Klageutvalget kan ved flertall velge å invitere klager til å få legge frem sin sak for utvalget.\"",
+    "2": "Punkt 1.2 i reglementet endres til: \"I det konstituerende møtet velger bystyret en leder, varaordføreren og fem medlemmer av bystyret, med vararepresentanter. Bystyret velger klageutvalgets leder og nestleder. Leder og nestleder skal ikke tilhøre samme parti eller partigruppering. Utvalget kan opprette et arbeidsutvalg (AU) bestående av leder og nestleder og ellers de medlemmer utvalget bestemmer.\"",
+    "3": "Reglementet trer i kraft fra 01.02.2026."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Gjermund Gorset (Ap) på vegne av Ap, H, SV",
+      "tekst": "Alternativt forslag til punkt 1 (punkt 3.3 i reglementet): 1. Bystyret vedtar vedlagt reglement for Klageutvalget med følgende endring: 3.3 Setningen “Klager har ikke adgang til å møte og fremme sin sak i møtet.” strykes. Legges til: \"Klageutvalget kan ved flertall velge å invitere klager til å få legge frem sin sak for utvalget.\""
+    },
+    {
+      "forslagsstiller": "Gjermund Gorset (Ap)",
+      "tekst": "Beholde samme antall som i dag: 3. Punkt 1.2 i reglementet endres til: \"I det konstituerende møtet velger bystyret en leder, varaordføreren og fem medlemmer av bystyret, med vararepresentanter. Bystyret velger klageutvalgets leder og nestleder. Leder og nestleder skal ikke tilhøre samme parti eller partigruppering. Utvalget kan opprette et arbeidsutvalg (AU) bestående av leder og nestleder og ellers de medlemmer utvalget bestemmer.\""
+    },
+    {
+      "forslagsstiller": "Gjermund Gorset (Ap)",
+      "tekst": "Reglementet trer i kraft fra 01.02.2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillingens punkt 1 og forslag fra Ap \"Alternativt forslag til punkt 1 (punkt 3.3 i reglementet)\"",
+      "alternativer": [
+        {
+          "navn": "Innstillingens punkt 1",
+          "stemmer": 0
+        },
+        {
+          "navn": "Ap sitt alternativt forslag til punkt 1",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Ap sitt alternativt forslag til punkt 1",
+      "roedt_stoettet": "Ap sitt alternativt forslag til punkt 1",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om innstillingens punkt 2",
+      "alternativer": [
+        {
+          "navn": "Innstillingens punkt 2",
+          "stemmer": 32
+        },
+        {
+          "navn": "Mot innstillingens punkt 2",
+          "stemmer": 35
+        }
+      ],
+      "vinner": "Mot innstillingens punkt 2",
+      "roedt_stoettet": "Mot innstillingens punkt 2",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om Aps tilleggsforslag \"3. 1.2 - Beholde samme antall som i dag\"",
+      "alternativer": [
+        {
+          "navn": "Aps tilleggsforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Aps tilleggsforslag",
+      "roedt_stoettet": "Aps tilleggsforslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om Aps forslag \"Endring av punkt 4\"",
+      "alternativer": [
+        {
+          "navn": "Aps forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Aps forslag",
+      "roedt_stoettet": "Aps forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 291/25",
+  "rodt_fremmet_forslag": false
+}

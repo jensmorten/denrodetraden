@@ -1,0 +1,134 @@
+{
+  "tittel": "73/25 Søknad om fritak fra politiske verv",
+  "innstilling": [
+    "Wenche Snildalsli Vuttudal, SP innvilges fritak fra sine politiske verv ut valgperioden.",
+    "Varamedlemmene fra SP rykker opp på varamannslista i kommunestyret.",
+    "Som nytt fast medlem i hovedutvalg forvaltning velges – ingen innstilling."
+  ],
+  "vedtak": [
+    {
+      "dato": "16.09.2025",
+      "organ": "Valgutvalg",
+      "vedtakstekst": [
+        "Wenche Snildalsli Vuttudal, SP innvilges fritak fra sine politiske verv ut valgperioden.",
+        "Varamedlemmene fra SP rykker opp på varamannslista i kommunestyret.",
+        "Som nytt fast medlem i hovedutvalg forvaltning velges Trond Selmer Nergaard.",
+        "Varalisten blir som følger:",
+        "1. Stig Kalstad - SP",
+        "2. Brage Syrstad - SP",
+        "3. Bjarne Lund - SP",
+        "4. Kristian Martin Fremstad - SP",
+        "5. Lasse Hilstad Sørmo - SP"
+      ]
+    },
+    {
+      "dato": "16.09.2025",
+      "organ": "Kommunestyre",
+      "vedtakstekst": [
+        "Saken om søknad om fritak fra politiske verv utsettes."
+      ]
+    },
+    {
+      "dato": "13.10.2025",
+      "organ": "Valgutvalg",
+      "vedtakstekst": [
+        "Wenche Snildalsli Vuttudal, SP innvilges fritak fra sine politiske verv ut valgperioden.",
+        "Varamedlemmene fra SP rykker opp på varamannslista i kommunestyret.",
+        "Som nytt fast medlem i hovedutvalg forvaltning velges Aud Inger Kalseth."
+      ]
+    },
+    {
+      "dato": "14.10.2025",
+      "organ": "Kommunestyre",
+      "vedtakstekst": [
+        "Wenche Snildalsli Vuttudal, SP innvilges fritak fra sine politiske verv ut valgperioden.",
+        "Varamedlemmene fra SP rykker opp på varamannslista i kommunestyret.",
+        "Som nytt fast medlem i hovedutvalg forvaltning velges Aud Inger Kalseth."
+      ]
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kristian Martin Fremstad, SP",
+      "tekst": "Som nytt medlem i forvaltning innstiller vi Trond Selmer Nergaard."
+    },
+    {
+      "forslagsstiller": "Kristian Martin Fremstad, SP",
+      "tekst": "Saken utsettes"
+    },
+    {
+      "forslagsstiller": "Bjørn Berg, SP",
+      "tekst": "Aud Inger Kalseth velges som fast medlem i hovedutvalg forvaltning"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 16.09.2025 om kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Valgutvalg 16.09.2025 om forslag fra Kristian Martin Fremstad, SP",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Kristian Martin Fremstad, SP",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Kristian Martin Fremstad, SP",
+      "roedt_stoettet": "Forslag fra Kristian Martin Fremstad, SP",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 16.09.2025 om forslag fra Kristian Martin Fremstad, SP om utsettelse",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Kristian Martin Fremstad, SP",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Kristian Martin Fremstad, SP",
+      "roedt_stoettet": "Forslag fra Kristian Martin Fremstad, SP",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Valgutvalg 13.10.2025 om forslag fra Bjørn Berg, SP",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens forslag",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Forslag fra Bjørn Berg, SP",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Begge forslag enstemmig vedtatt",
+      "roedt_stoettet": "Forslag fra Bjørn Berg, SP",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 14.10.2025 om valgutvalgets innstilling",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "14.10.2025",
+  "saksnummer_ps": "PS 73/25",
+  "rodt_fremmet_forslag": false
+}

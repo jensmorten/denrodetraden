@@ -1,0 +1,69 @@
+{
+  "tittel": "Anmodning om bosetting av flyktninger 2026",
+  "innstilling": "Kommunestyret vedtar å bosette 50 flyktninger i 2026, hvor 1-2 plasser benyttes til bosetting av enslige mindreårige 15-18 år.",
+  "vedtak": "Kommunestyret vedtar å bosette 50 flyktninger i 2026, hvor 1-2 plasser benyttes til bosetting av enslige mindreårige 15-18 år. Kommunestyret får mulighet til å foreta ny vurdering av økt mottak av flyktninger gjennom 2026. Ved endringer i verdenssituasjonen, påfølgende forespørsler om økt mottak og/eller økt kapasitet i kommunens mottaksmuligheter ber kommunestyret om å behandle mottak av flyktninger på nytt. Saken kommer opp til en ny vurdering i HU og k-styret ved første anledning etter sommerferien.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anne Mari Svinsaas på vegne av SV",
+      "tekst": "Kommunestyret får mulighet til å foreta ny vurdering av økt mottak av flyktninger gjennom 2026. Ved endringer i verdenssituasjonen, påfølgende forespørsler om økt mottak og/eller økt kapasitet i kommunens mottaksmuligheter ber kommunestyret om å behandle mottak av flyktninger på nytt. Saken kommer opp til en ny vurdering i HU og k-styret ved første anledning etter sommerferien."
+    },
+    {
+      "forslagsstiller": "Helge Ringli på vegne av Frp",
+      "tekst": "Orkland kommune sier nei til å ta imot flyktninger i 2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 20.01.2026 om kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstilling",
+          "stemmer": "alle unntatt 1"
+        },
+        {
+          "navn": "Mot innstilling (FRP)",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For innstilling",
+      "roedt_stoettet": "For innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 27.01.2026 om formannskapets innstilling og alternative forslag",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 40
+        },
+        {
+          "navn": "Forslag fra Frp",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 27.01.2026 om tilleggsforslag fra SV",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fra SV",
+          "stemmer": "flertall"
+        },
+        {
+          "navn": "Mot tilleggsforslag (Frp)",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "Tilleggsforslag fra SV",
+      "roedt_stoettet": "Tilleggsforslag fra SV",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "27.01.2026",
+  "saksnummer_ps": "PS 3/26",
+  "rodt_fremmet_forslag": false
+}

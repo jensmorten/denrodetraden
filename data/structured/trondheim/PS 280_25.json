@@ -1,0 +1,49 @@
+{
+  "tittel": "Nye avgiftssatser for gateparkering, leie av offentlig grunn mv. for 2026",
+  "innstilling": "Bystyret vedtar innstillingen i sak \"Nye avgiftssatser for gateparkering, leie av offentlig grunn mv. for 2026\".",
+  "vedtak": "Innstillingen ble vedtatt med 39 stemmer mot 28 stemmer.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kirsti Tømmervold (Ap)",
+      "tekst": "Bystyret vedtar innstillingen i sak \"Nye avgiftssatser for gateparkering, leie av offentlig grunn mv. for 2026\", men med endring slik at forflytningshemmede med parkeringstillatelse får parkere gratis på avgiftsbelagte kommunale parkeringsplasser og i boligsone."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Tømmervolds alternative forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 39
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 28
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 280/25",
+  "rodt_fremmet_forslag": false
+}

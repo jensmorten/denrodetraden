@@ -1,0 +1,54 @@
+{
+  "tittel": "Melding om flytting Vibeke Melby Nilssen, Rødt - valg av representanter til politiske verv",
+  "innstilling": [
+    "Varamedlemmene fra Rødt rykker opp på varamannslisten til Orkland kommune.",
+    "Som varamedlem for Rødt i valgutvalg velges – ingen innstilling.",
+    "Som vararepresentant til skoleutvalg Orkland videregående skole velges – ingen innstilling."
+  ],
+  "vedtak": [
+    "Varamedlemmene fra Rødt rykker opp på varamannslisten til Orkland kommune.",
+    "Som varamedlem for Rødt i valgutvalg velges Eldar Carlson.",
+    "Som vararepresentant til skoleutvalg Orkland videregående skole velges Hege Moe Hegg.",
+    "Som nytt varamedlem i HOK velges Gry-Anita Leifsdatter-Wigum"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Peter Verme, Rødt",
+      "tekst": "Vara valgutvalg: Eldar Carlson\nVara Orkland videregående skole: Hege Moe Hegg\nVara HOK: Gry-Anita Leifsdatter-Wigum"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 13.10.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Forslag fra Peter Verme, Rødt",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Begge forslag enstemmig vedtatt",
+      "roedt_stoettet": "Forslag fra Peter Verme, Rødt",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 14.10.2025",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "14.10.2025",
+  "saksnummer_ps": "PS 70/25",
+  "rodt_fremmet_forslag": true
+}

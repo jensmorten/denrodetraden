@@ -1,0 +1,48 @@
+{
+  "tittel": "Melding om flytting Malin Mehlum Skjuleng, AP - valg av representant til politiske verv",
+  "innstilling": [
+    "Varamedlemmene fra Arbeiderpartiet rykker opp på varamannslisten til Orkland kommunestyre.",
+    "Som varamedlem for Arbeiderpartiet i hovedutvalg forvaltning velges – ingen innstilling."
+  ],
+  "vedtak": [
+    "Varamedlemmene fra Arbeiderpartiet rykker opp på varamannslisten til Orkland kommunestyre.",
+    "Som femte varamedlem for Arbeiderpartiet i hovedutvalg forvaltning velges Magni Skålholt Løseth",
+    "Som andre vara for Arbeiderpartiet i hovedutvalg helse, oppvekst og kultur velges Vibeke Mehlum"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Svein Erik Jørgensen AP",
+      "tekst": "Som 2. vara i HOK foreslås Vibeke Mehlum. Som 5. vara i Forvaltning foreslås Magni Skålholt Løseth"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra AP",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "16.12.2025",
+  "saksnummer_ps": "PS 104/25",
+  "rodt_fremmet_forslag": false
+}

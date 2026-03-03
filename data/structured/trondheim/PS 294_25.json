@@ -1,0 +1,65 @@
+{
+  "tittel": "PS 294/2025 Reglement for bystyret",
+  "innstilling": "Bystyret vedtar forslaget til nytt reglement for bystyret med følgende endringer:\nA: Nytt punkt, erstatter eksisterende punkt. 2.2 - Kontrollutvalget og kommunerevisjon har det løpende utøvende tilsynet med kommunens virksomhet i tråd med kommunelovens regler i kap. 23 og 24\nB: 3.6 - Endring i bokstav f (Møteprotokoll) Erstatter eksisterende bokstav f: f) voteringsresultatet med partienes stemmegivning i de enkelte saker. Dersom partigruppene ikke stemmer likt, skal det fremgå hvilke representanter som stemte for eller mot forslaget.\nC: 6.4 - siste setning: \"og til avsluttende kommentarer\" strykes.\nD\nPunkt 7, andre avsnitt første setning endres til: Bystyregruppene gir ordfører beskjed senest to timer før møtet om hvor mange spørsmål partiet skal stille.\nPunkt 8, følgende formulering erstatter hele punktet: Medlemmer av bystyret kan fremme medlemsforslag i samsvar med kommuneloven § 10-9. Medlemsforslag må bare omhandle en sak og gjelde kommunens virksomhet. Medlemmene kan ikke fremme forslag med samme innhold som tidligere saker, eller medlemforslag, som har vært behandlet i bystyrets organer i samme valgperiode.\nForslaget meldes gjennom møteløsningen senest to timer før møtestart og må inneholde forslag til vedtakspunkt. Det bør også inneholde en skriftlig redegjørelse. Ordføreren leser opp forslagets tittel ved møtestart, og alle forslag sendes deretter til forretningsutvalget for videre behandling.\nForretningsutvalget avgir innstilling til bystyret i saker der det anbefales at forslaget avvises.\nForslagsstiller gis siste innlegg i bystyrets behandling før votering.\nForretningsutvalget vedtar hvilket utvalg som skal innstille til bystyret. Ordfører innstiller til forretningsutvalget. Medlemsforslaget slik det lyder, skal voteres over i innstillende utvalg.\nMedlemsforslaget skal tas opp til behandling i bystyret senest seks måneder etter at det ble levert til ordfører.\nE: Hele reglementet - “Digdem” endres til “Møteløsningen”",
+  "vedtak": "Bystyret vedtar forslaget til nytt reglement for bystyret med de foreslåtte endringer, med unntak av punkt D som ble erstattet av SVs alternative forslag for punkt 8 Medlemsforslag og tilleggsforslag for punkt 7.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV) på vegne av SV, Ap",
+      "tekst": "Ny formulering punkt 7 - andre avsnitt, første setning endres til \"Bystyregruppene gir ordfører beskjed senest to timer før møtet om hvor mange spørsmål partiet skal stille.\""
+    },
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV) på vegne av SV, Ap, R",
+      "tekst": "Nytt punkt 8 Medlemsforslag - punkt 8, følgende formulering erstatter hele punktet: Medlemmer av bystyret kan fremme medlemsforslag i samsvar med kommuneloven § 10-9. Medlemsforslag må bare omhandle en sak og gjelde kommunens virksomhet. Medlemmene kan ikke fremme forslag med samme innhold som tidligere saker, eller medlemforslag, som har vært behandlet i bystyrets organer i samme valgperiode.\nForslaget meldes gjennom møteløsningen senest to timer før møtestart og må inneholde forslag til vedtakspunkt. Det bør også inneholde en skriftlig redegjørelse. Ordføreren leser opp forslagets tittel ved møtestart, og alle forslag sendes deretter til forretningsutvalget for videre behandling.\nForretningsutvalget avgir innstilling til bystyret i saker der det anbefales at forslaget avvises.\nForslagsstiller gis siste innlegg i bystyrets behandling før votering.\nForretningsutvalget vedtar hvilket utvalg som skal innstille til bystyret. Ordfører innstiller til forretningsutvalget. Medlemsforslaget slik det lyder, skal voteres over i innstillende utvalg.\nMedlemsforslaget skal tas opp til behandling i bystyret senest seks måneder etter at det ble levert til ordfører."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen unntatt punkt D",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over SVs alternative forslag \"Alternativ til innstillingas punkt D (ny formulering punkt 8 Medlemsforslag)\"",
+      "alternativer": [
+        {
+          "navn": "SVs alternative forslag",
+          "stemmer": 38
+        },
+        {
+          "navn": "Innstillingen",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "SVs alternative forslag",
+      "roedt_stoettet": "SVs alternative forslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over SVs tilleggsforslag \"Ny formulering punkt 7\"",
+      "alternativer": [
+        {
+          "navn": "SVs tilleggsforslag",
+          "stemmer": 37
+        },
+        {
+          "navn": "Innstillingen",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "SVs tilleggsforslag",
+      "roedt_stoettet": "SVs tilleggsforslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 294/25",
+  "rodt_fremmet_forslag": false
+}

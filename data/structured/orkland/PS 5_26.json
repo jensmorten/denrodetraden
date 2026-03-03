@@ -1,0 +1,44 @@
+{
+  "tittel": "Revidering av helhetlig ROS-analyse Orkland kommune 2026-2029",
+  "innstilling": [
+    "Kommunestyret vedtar helhetlig risiko- og sårbarhetsanalyse (ROS) for Orkland kommune 2026 til 2029.",
+    "Helhetlig ROS legges til grunn for kommunens arbeid med samfunnssikkerhet og beredskap, herunder rullering av overordnet kommunal beredskapsplan, øvrig planverk og fag-ROS og beredskapsplaner i de ulike tjenesteområdene.",
+    "Identifiserte risikoreduserende tiltak følges opp gjennom ordinære plan-, budsjett- og oppfølgingsprosesser."
+  ],
+  "vedtak": [
+    "Kommunestyret vedtar helhetlig risiko- og sårbarhetsanalyse (ROS) for Orkland kommune 2026 til 2029.",
+    "Helhetlig ROS legges til grunn for kommunens arbeid med samfunnssikkerhet og beredskap, herunder rullering av overordnet kommunal beredskapsplan, øvrig planverk og fag-ROS og beredskapsplaner i de ulike tjenesteområdene.",
+    "Identifiserte risikoreduserende tiltak følges opp gjennom ordinære plan-, budsjett- og oppfølgingsprosesser."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 20.01.2026",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 27.01.2026",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "27.01.2026",
+  "saksnummer_ps": "PS 5/26",
+  "rodt_fremmet_forslag": false
+}

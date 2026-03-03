@@ -1,0 +1,133 @@
+{
+  "tittel": "Endringer av reglement for Mangfoldsrådet",
+  "innstilling": [
+    "Bystyret vedtar at Mangfoldsrådet endrer navn til Mangfoldsutvalget.",
+    "Bystyret vedtar nytt reglement for Mangfoldsutvalget.",
+    "I reglementets punkt 1.1 endres «politikere» til «folkevalgte bystyremedlemmer (fast eller vara)».",
+    "Endring i punkt 1.1 I formulering om observatører endres «Dialogsenteret» til \"Flyktningeenheten\".",
+    "Endring i punkt 1.1 Etter «Bystyret oppnevner leder og nestleder i Mangfoldsrådet.» legges dette til: «Om mulig bør disse velges blant de seks medlemmene fra innvandrerorganisasjonene.»",
+    "\"Mangfoldsrådet kan også ved behov invitere andre aktører som observatører.\"",
+    "Bystyret vedtar presisering i godtgjøringsforskriftens § 14",
+    "Endring av reglement punkt 3.1. første setning: Utvalget holder møter etter en oppsatt plan, eller når leder finner det påkrevd eller at 1/3 av medlemmene krever det."
+  ],
+  "vedtak": [
+    "Bystyret vedtar at Mangfoldsrådet endrer navn til Mangfoldsutvalget.",
+    "Bystyret vedtar nytt reglement for Mangfoldsutvalget med endringer i punkt 1.1 som beskrevet.",
+    "Endring i reglement punkt 3.1 om møteinnkalling vedtas.",
+    "Roald Arentz (R) sitt forslag om endring av «politikere» til «folkevalgte bystyremedlemmer (fast eller vara)» i punkt 1.1 vedtas enstemmig.",
+    "Kjetil Utne (H) sine tilleggsforslag om valg av leder og nestleder og tillegg om observatører vedtas enstemmig.",
+    "Karim Tahir (Ap) sitt forslag om tilbakesendelse av saken falt med 30 stemmer mot 37."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roald Arentz (R)",
+      "tekst": "I reglementets punkt 1.1 endres «politikere» til «folkevalgte bystyremedlemmer (fast eller vara)»"
+    },
+    {
+      "forslagsstiller": "Kjetil Utne (H)",
+      "tekst": "Endring i punkt 1.1 I formulering om observatører endres «Dialogsenteret» til \"Flyktningeenheten\"."
+    },
+    {
+      "forslagsstiller": "Kjetil Utne (H)",
+      "tekst": "Endring i punkt 1.1 Etter «Bystyret oppnevner leder og nestleder i Mangfoldsrådet.» legges dette til: «Om mulig bør disse velges blant de seks medlemmene fra innvandrerorganisasjonene.»"
+    },
+    {
+      "forslagsstiller": "Kjetil Utne (H)",
+      "tekst": "\"Mangfoldsrådet kan også ved behov invitere andre aktører som observatører.\""
+    },
+    {
+      "forslagsstiller": "Karim Tahir (Ap)",
+      "tekst": "Saken sendes tilbake til ordfører for videre utredning. Bystyret ber ordfører om å levere en ny sak som utreder å utvide mangfoldsrådet med representanter for organisasjoner som representerer hele mangfoldet i byen. Dette gjelder spesielt minoritetsorganisasjoner for skeive og religiøse bakgrunner. Saken bør også vurdere om dersom dagens navn ivaretas om utvalget skal gis et nytt navn som bedre representerer utvalgets faktiske representasjon, eks integreringsutvalget."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på Karim Tahirs (Ap) forslag om tilbakesendelse av saken for videre utredning.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "17 Ap",
+            "9 SV",
+            "3 R",
+            "Uavh. Letnes Ødegaard"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 37,
+          "partier": [
+            "18 H",
+            "5 FrP",
+            "4 MDG",
+            "4 V",
+            "3 PP",
+            "Uavh. Winger Meland",
+            "SP",
+            "KrF"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_sto_paa": "For",
+      "roedt_var_vinner": false
+    },
+    {
+      "beskrivelse": "Votering på innstillingen unntatt punkt 2, den del som omhandler (R) og (H) sitt forslag til reglementets punkt 1.1.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_sto_paa": "For",
+      "roedt_var_vinner": true
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen punkt 2 som omhandler reglementets punkt 1.1 sammensetning og Røds forslag.",
+      "alternativer": [
+        {
+          "navn": "Røds forslag",
+          "stemmer": "Enstemmig"
+        },
+        {
+          "navn": "Innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Røds forslag",
+      "roedt_sto_paa": "Røds forslag",
+      "roedt_var_vinner": true
+    },
+    {
+      "beskrivelse": "Votering på Utnes forslag \"Valg av leder og nestleder\".",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_sto_paa": "For",
+      "roedt_var_vinner": true
+    },
+    {
+      "beskrivelse": "Votering på Utnes forslag \"Tillegg observatør\".",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_sto_paa": "For",
+      "roedt_var_vinner": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 239/2025",
+  "rodt_fremmet_forslag": true
+}

@@ -1,0 +1,40 @@
+{
+  "tittel": "50/25 Salg av aksjer - Orkland Energi AS",
+  "innstilling": "Kommunestyret vedtar salg av samtlige aksjer i Orkland Energi AS til TrønderEnergi AS. Salget gjennomføres i henhold til vedlagte aksjekjøpsavtale.",
+  "vedtak": "Kommunestyret vedtar salg av samtlige aksjer i Orkland Energi AS til TrønderEnergi AS. Salget gjennomføres i henhold til vedlagte aksjekjøpsavtale.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 10.06.2025",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 17.06.2025",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "alle bortsett fra 1 stemme (FRP1 Tore Slørdahl)"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 50/25",
+  "rodt_fremmet_forslag": false
+}

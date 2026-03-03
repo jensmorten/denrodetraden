@@ -1,0 +1,95 @@
+{
+  "tittel": "PS 316/2025 Lovlighetskontroll av Trondheim bystyres vedtak i Sak: 242/25 | - Medlemsforslag - Forbedring av BPA-tilbudet",
+  "innstilling": [
+    "1. Bystyret opphever sitt vedtak av 20.11.25 i Sak: 242/25 - Medlemsforslag - Forbedring av BPA-tilbudet.",
+    "2. Medlemsforslag - Forbedring av BPA-tilbudet sendes til utvalg for ny behandling.",
+    "3. Saken fremmes for behandling i utvalg og bystyret i januar 2026."
+  ],
+  "vedtak": [
+    "1. Bystyret opphever sitt vedtak av 20.11.25 i Sak: 242/25 - Medlemsforslag - Forbedring av BPA-tilbudet.",
+    "2. Medlemsforslag - Forbedring av BPA-tilbudet sendes til utvalg for ny behandling.",
+    "3. Saken fremmes for behandling i utvalg og bystyret i januar 2026."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Maria Alseth (FrP)",
+      "tekst": "Bystyret opprettholder sitt vedtak av 20.11.25 i Sak: 242/25 | - Medlemsforslag - Forbedring av BPA-tilbudet. Med bakgrunn i avkrevd lovlighetskontroll sendes saken til statsforvalter for avgjørelse."
+    },
+    {
+      "forslagsstiller": "Sigurd Jan Ingvaldsen (Ap)",
+      "tekst": "Saken fremmes for behandling i utvalg og bystyret i januar 2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillingen og forslaget fra FrP",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 49,
+          "partier": [
+            "19 H",
+            "17 Ap",
+            "4 V",
+            "4 MDG",
+            "2 PP",
+            "Uavh. Winger",
+            "SP",
+            "KrF"
+          ]
+        },
+        {
+          "navn": "Forslaget fra FrP",
+          "stemmer": 198,
+          "partier": [
+            "9 SV",
+            "4 FrP",
+            "3 R",
+            "Uavh. Ødegaard",
+            "1 PP Nilsen"
+          ]
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Forslaget fra FrP",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om Aps tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "Aps tilleggsforslag",
+          "stemmer": 38,
+          "partier": [
+            "17 Ap",
+            "9 SV",
+            "4 FrP",
+            "2 R",
+            "3 PP",
+            "SP",
+            "KrF",
+            "Uavh. Winger"
+          ]
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 28,
+          "partier": [
+            "18 H",
+            "4 MDG",
+            "4 V",
+            "1 R Sletten",
+            "Uavh. Winger"
+          ]
+        }
+      ],
+      "hvem_vant": "Aps tilleggsforslag",
+      "roedt_stoettet": "Aps tilleggsforslag",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 316/25",
+  "rodt_fremmet_forslag": false
+}

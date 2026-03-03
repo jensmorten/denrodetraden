@@ -1,0 +1,100 @@
+{
+  "tittel": "Forlenget leieavtale i Trondheim Spektrum",
+  "innstilling": [
+    "Bystyret vedtar å forlenge leieavtalen med Trondheim Spektrum Eiendom AS for leie av halltid til idretten med fem år, til og med april 2040, i henhold til vedlagte leieavtale.",
+    "Bystyret gir byrådet fullmakt til å reforhandle antallet timer Trondheim Spektrum Eiendom AS kan drive utleie av anlegget til andre formål enn idrettsformål., jf. avtalens punkt 3.2.",
+    "Bystyret ber byrådet om å sikre friidretten tilstrekkelig med garderobeplass når det er lokale, regionale og nasjonale stevner/mesterskap, i forbindelse med forlengelsen av leieavtalen med Trondheim spektrum."
+  ],
+  "vedtak": [
+    "Bystyret vedtar å forlenge leieavtalen med Trondheim Spektrum Eiendom AS for leie av halltid til idretten med fem år, til og med april 2040, i henhold til vedlagte leieavtale.",
+    "Bystyret gir byrådet fullmakt til å reforhandle antallet timer Trondheim Spektrum Eiendom AS kan drive utleie av anlegget til andre formål enn idrettsformål., jf. avtalens punkt 3.2.",
+    "Bystyret ber byrådet om å sikre friidretten tilstrekkelig med garderobeplass når det er lokale, regionale og nasjonale stevner/mesterskap, i forbindelse med forlengelsen av leieavtalen med Trondheim spektrum."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kristin Tinmannsvik (Ap)",
+      "tekst": "Bystyret ber byrådet om å sikre friidretten tilstrekkelig med garderobeplass når det er lokale, regionale og nasjonale stevner/mesterskap, i forbindelse med forlengelsen av leieavtalen med Trondheim spektrum."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på innstillingens punkt 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på innstillingens punkt 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 54,
+          "partier": [
+            "H",
+            "Ap",
+            "FrP",
+            "MDG",
+            "V",
+            "PP",
+            "Uavh. Meland Winger",
+            "SP",
+            "KrF"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 13,
+          "partier": [
+            "SV",
+            "R",
+            "Uavh. Letnes Ødegaard"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering på Tinmannsviks forslag om garderobeplass til friidretten",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 62,
+          "partier": [
+            "H",
+            "Ap",
+            "SV",
+            "MDG",
+            "V",
+            "R",
+            "PP",
+            "Uavh.",
+            "SP",
+            "KrF"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 5,
+          "partier": [
+            "FrP"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "20.11.2025",
+  "saksnummer_ps": "PS 251/2025",
+  "rodt_fremmet_forslag": false
+}

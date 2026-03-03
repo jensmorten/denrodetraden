@@ -1,0 +1,87 @@
+{
+  "tittel": "55/25 Kunnskapsgrunnlag - utfordringer og muligheter 2025",
+  "innstilling": [
+    "1. Kommunestyret tar saken til orientering",
+    "2. Kommunestyret ber kommunedirektøren ta hensyn til utfordringene som er beskrevet i kunnskapsgrunnlaget i framtidige handlings- og økonomiplaner."
+  ],
+  "vedtak": [
+    "1. Kommunestyret tar saken til orientering",
+    "2. Kommunestyret ber kommunedirektøren ta hensyn til utfordringene som er beskrevet i kunnskapsgrunnlaget i framtidige handlings- og økonomiplaner."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Torstein Larsen på vegne av PP, INP, FRP, KRF og R",
+      "tekst": "1. Kommunestyret tar saken til orientering\n2. Kommunestyret ber kommunedirektøren ta hensyn til utfordringene som er beskrevet i kunnskapsgrunnlaget i framtidige handlings- og økonomiplaner.\n3. Dette skal gjøres på en slik måte at primærtilbudene innen helse, barnehage, skole, opprettholdes på et akseptabelt nivå i hele Orkland kommune. Videre bør kommunens eldre befolkning kunne føle en sikkerhet for at de opparbeidede velferdstjenestene vil bli gitt ut fra prinsippet om når behovet melder seg vil kommunen stille opp. Altså: «Yt etter evne, få etter behov»"
+    },
+    {
+      "forslagsstiller": "Hans Peter Verme, R",
+      "tekst": "Hvis forslaget fra opposisjonsgruppa (PP, INP, FRP, KRF og R) faller foreslår Rødt å stryke punkt 2 i kommunedirektørens innstilling. Forslag til vedtak: Kommunestyret tar saken til orientering."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra PP, INP, FRP, KRF og R",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 8
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling punkt 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling punkt 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Rødt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.06.2025",
+  "saksnummer_ps": "PS 55/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "Orkland kommunes svar på KS Debatthefte 2026",
+  "innstilling": "Kommunestyret vedtar innspill til KS debatthefte.",
+  "vedtak": "Kommunestyret vedtar innspill til KS debatthefte.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 20.01.2026",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 27.01.2026",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "27.01.2026",
+  "saksnummer_ps": "PS 4/26",
+  "rodt_fremmet_forslag": false
+}
