@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 8/25 Lovlighetskontroll av vedtak i sak 129/24 - Økonomiplan 2025-2028 og budsjett 2025",
+  "innstilling": "Kommunedirektørens forslag til vedtak",
+  "vedtak": "Kommunestyret opprettholder vedtak i sak 129/24. Saken oversendes Statsforvalteren for lovlighetskontroll.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens forslag til vedtak",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "27.01.2025",
+  "saksnummer_ps": "PS 8/25",
+  "rodt_fremmet_forslag": false
+}

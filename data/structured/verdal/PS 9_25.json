@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av møteprotokoll",
+  "innstilling": "Protokoll fra møte 27. januar 2025 godkjennes.",
+  "vedtak": "Protokoll fra møte 27. januar 2025 godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordførers forslag til vedtak om godkjenning av møteprotokoll fra 27. januar 2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 9/25",
+  "rodt_fremmet_forslag": false
+}

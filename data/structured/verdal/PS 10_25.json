@@ -1,0 +1,49 @@
+{
+  "tittel": "PS 10/25 Forskrift om skolekretsgrenser i Verdal kommune",
+  "innstilling": "Formannskapets innstilling om vedtak av forskrift om skolekretsgrenser i Verdal kommune.",
+  "vedtak": "1. Forskriften om skolekretsgrenser i Verdal kommune vedtas, og kunngjøres i Norsk Lovtidend.\n2. Kommunestyret har i forskrift om skolekretsgrenser lagt særlig vekt på hvilken skole som ligger nærmest heimen. I noen tilfeller gir kretsgrensene, etter en helhetsvurdering, en nærskole til heimene som likevel ikke er nærmest i fysisk avstand. Som hovedregel skal ikke elever ved barneskoler deles til ulike ungdomsskolekretser. Ved søknad om skifte av ungdomsskole skal barnets beste være førende for administrativ behandling av søknad. Stiklestad barneskole skal sokne til Vuku ungdomsskole. Dette begrunnes med historisk tilhørighet og kapasitetshensyn. Det vektlegges at Kunnskapsdepartementet i forarbeidene til ny opplæringslov mener at kommunene skal kunne ta hensyn til kapasiteten til skolene – også når skolene ikke er fulle. Dette bl.a. for å kunne utnytte personalressursene og kapasiteten i skolebyggene på en effektiv måte.\n3. Det legges vekt på at sammensetningen av skolene og klassene skal gjenspeile samfunnet i Verdal. For forskriften som er sendt på høring har tilbakemeldingene vært delte, men en overvekt av høringsinnspillene har støttet forslaget til skolekretsgrenser. Høringsinnspillene har belyst flere faktorer i nærskoleprinsippet; objektive forhold, som topografi og geografisk avstand, samt subjektive forhold, som hvor elever fra området har soknet til og hvilken skole heimene føler tilhørighet til. Det er gjort en avveining av de ulike faktorene, og forskriften og skolekretsgrensene gjør at barn som bor i samme område, får gå sammen på skolen, på en skole i det naturlige nærmiljøet til barna, basert på våre lokale forhold i Verdal.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Oddleiv Aksnes",
+      "tekst": "Verdal kommune skal følge opplæringsloven. Ved tildeling av skoleplass og fastsetting av skolekretser skal kommunen legge særlig vekt på hvilken skole som ligger nærmest hjemmet.\n1. Elevene har en lovbestemt rett til å gå på nærskolen, jf definisjonen av begrepet i lov og forarbeider.\n2. Opplæringsloven § 2 - 6 fastsetter hva kommunen skal og kan legge vekt på når de fordeler skoleplasser. Kommunen skal ved tildeling av skoleplass og fastsetting av forskrift om skolekretser, legge særlig vekt på avstanden mellom hjemmet og skolen. Avstand mellom hjemmet og skolen må i utgangspunktet forstås som reisevei, og ikke luftlinje.\n3. Verdal kommunes kretsgrenser må være i tråd med gjeldende opplæringslov og dens forskrift med dens klare tolkning av at det er nærskoleprinsippet som gjelder.\n4. Kommunedirektørens opprinnelig forslag til forskrift sendes ut på høring før saken behandles på nytt i kommunestyret."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslaget fremmet av Oddleiv Aksnes.",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 28
+        }
+      ],
+      "hvem_vant": "Mot utsettelsesforslaget",
+      "roedt_stoettet": "For utsettelsesforslaget",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling om vedtak av forskrift om skolekretsgrenser.",
+      "alternativer": [
+        {
+          "navn": "For formannskapets innstilling",
+          "stemmer": 26
+        },
+        {
+          "navn": "Mot formannskapets innstilling",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "For formannskapets innstilling",
+      "roedt_stoettet": "Mot formannskapets innstilling",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "24.02.2025",
+  "saksnummer_ps": "PS 10/25",
+  "rodt_fremmet_forslag": false
+}
