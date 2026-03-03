@@ -13,7 +13,7 @@ from openai import OpenAI
 load_dotenv()
 client = OpenAI()
 
-MODEL = "gpt-4.1"
+MODEL = "gpt-4.1-mini"
 
 RAW_BASE = Path("data/raw")
 OUTPUT_BASE = Path("data/structured")
@@ -219,8 +219,14 @@ def process_all():
 
                     # Flag: fremmet Rødt forslag?
                     rodt_fremmet = any(
-                        "Rødt" in f["forslagsstiller"] or "(R" in f["forslagsstiller"]
-                        for f in structured_case.get("alternative_forslag", [])
+                      (
+                        isinstance(f.get("forslagsstiller"), str)
+                        and (
+                        "Rødt" in f["forslagsstiller"]
+                        or "(R" in f["forslagsstiller"]
+                         )
+                        )
+                    for f in structured_case.get("alternative_forslag", [])
                     )
 
                     structured_case["kommune"] = kommune
