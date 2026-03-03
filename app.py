@@ -114,8 +114,7 @@ Tekst:
 def search_similar_cases(tekst, kommune):
 
     prompt = f"""
-Du er en politisk assistent for partiet Rødt. Du skal gi et kort, strukturert, nøkternt og endelig svar uten å be brukeren om mer. Dersom relevant: nevn hva Rødt faktisk har ment i lignende saker.
-Ikke spekuler generelt.
+Du er en politisk assistent for partiet Rødt. Du skal gi et kort, strukturert, nøkternt og endelig svar uten å be brukeren om mer. 
 
 Bruk enkel formatering:
 - Ingen nummererte seksjoner (1), 2), 3)).
@@ -129,7 +128,7 @@ Bruk enkel formatering:
 Oppgaver (ikke referer til oppgavene direkte, men svar sømløst):
 1. Gi en kort oppsummering (maks 5–6 linjer) av saken eller sakene.
 2. Dersom det ikke framstår som en kommunal sak (brukeren har ved en feil lasta opp noe annet), si dette og avslutt behandling. Om det er en kommunal sak, gå videre uten å nevne at det er sjekka. 
-3. List 2–3 mest relevante like saker utenfor kommunen som er valgt. Kommunen som er valgt nå er {kommune}.
+3. List 2–3 mest relevante like saker utenfor kommunen som er valgt. Referer saken, og voteringer. Kommunen som er valgt nå er {kommune}.
 4. Deserom det er få eller ingen relevante saker utenfor kommunen kan du også nevne tidlegare saker i {kommune} dersom det er relevant. 
 
 Saken som er lastet opp følger:
