@@ -1,0 +1,24 @@
+{
+  "tittel": "KS Debatthefte 2026",
+  "innstilling": "Innspill fra kommunestyre innarbeides som kommunens tilbakemelding på KS Debatthefte 2026",
+  "vedtak": "Innspill fra kommunestyre innarbeides som kommunens tilbakemelding på KS Debatthefte 2026.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunedirektørens innstilling med innspillene fra gruppearbeidene i KST-møte ble vedtatt.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "22.01.2026",
+  "saksnummer_ps": "26/008",
+  "rodt_fremmet_forslag": false
+}

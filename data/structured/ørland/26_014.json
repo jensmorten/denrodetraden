@@ -1,0 +1,29 @@
+{
+  "tittel": "26/014 Søknad om fritak fra verv og eventuelt valg av nytt medlem",
+  "innstilling": "Forslag til nytt medlem May Britt Hanstad som erstatning fra Soja Christiansen, foreslått av Eirik Lundemo, Høyre",
+  "vedtak": "Forslag til nytt fast medlem May Britt Hanstad som erstatning fra Sonja Christiansen i planutvalg og Trafikksikkerhetsutvalg. Sonja Christiansen går inn som siste vara for posisjonen i samme utvalg. Representantene på varalisten rykker opp tilsvarende.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eirik Lundemo, Høyre",
+      "tekst": "Forslag til nytt medlem May Britt Hanstad som erstatning fra Soja Christiansen"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag til nytt medlem May Britt Hanstad som erstatning fra Soja Christiansen",
+      "alternativer": [
+        {
+          "navn": "TIL - Forslag til nytt medlem May Britt Hanstad som erstatning fra Soja Christiansen",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "TIL - Forslag til nytt medlem May Britt Hanstad som erstatning fra Soja Christiansen",
+      "rodt_stottet": "TIL - Forslag til nytt medlem May Britt Hanstad som erstatning fra Soja Christiansen",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "26/014",
+  "rodt_fremmet_forslag": false
+}

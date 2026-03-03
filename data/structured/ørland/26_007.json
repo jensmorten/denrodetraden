@@ -1,0 +1,87 @@
+{
+  "tittel": "Årshjul for økonomiske rapporter og prosesser",
+  "innstilling": [
+    "Kommunestyret tar årshjulet for økonomiske rapporter, tertialrapportering og budsjettarbeidet til orientering.",
+    "Årshjulet legges til grunn som plan for framtidig økonomi‑ og rapporteringsarbeid i kommunen."
+  ],
+  "vedtak": [
+    "Kommunestyret tar årshjulet for økonomiske rapporter, tertialrapportering og budsjettarbeidet til orientering.",
+    "Årshjulet legges til grunn som plan for framtidig økonomi‑ og rapporteringsarbeid i kommunen.",
+    "Følgende tas inn i årshjulet: April - Dialogkonferanse i KST, Mai - Budsjettkonferanse tas ut og erstattes med Rammekonferanse i KST"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hallgeir Grøntvedt (Senterpartiet)",
+      "tekst": "Følgende tas inn i årshjulet: April - Dialogkonferanse i KST, Mai - Budsjettkonferanse tas ut og erstattes med Rammekonferanse i KST"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 27,
+          "partier": [
+            "AP 6",
+            "FRP 2",
+            "H 5",
+            "INP 1",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "UAVHENGIG 2",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2,
+          "partier": [
+            "AP 1",
+            "H 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag - TIL - Årshjul for økonomiske rapporter og prosesser",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 28,
+          "partier": [
+            "AP 6",
+            "FRP 2",
+            "H 6",
+            "INP 1",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "UAVHENGIG 2",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "AP 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "22.01.2026",
+  "saksnummer_ps": "26/007",
+  "rodt_fremmet_forslag": false
+}

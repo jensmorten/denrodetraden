@@ -1,0 +1,24 @@
+{
+  "tittel": "26/011 Spørretimen/Interpellasjoner",
+  "innstilling": "Spørsmålene til spørretimen ble svart ut av ordfører/møteleder i møte. Svaret er protokollert i FI-sakene 26/001 og 26/002.",
+  "vedtak": "Kommunestyret tok spørsmål og svar til informasjon.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om å ta spørsmål og svar til informasjon",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "26/011",
+  "rodt_fremmet_forslag": false
+}

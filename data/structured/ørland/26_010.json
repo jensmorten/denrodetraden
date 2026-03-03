@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av protokollunderskrivere",
+  "innstilling": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Eirik Lundemo (H)\n• Fredrik Sandness (AP)",
+  "vedtak": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Eirik Lundemo (H)\n• Fredrik Sandness (AP)",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av innstilling om valg av protokollunderskrivere",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "26/010",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,33 @@
+{
+  "tittel": "Forskrift om skole- og feriedager 2026-2027",
+  "innstilling": "Vedlagte forslag til Forskrift om skole- og feriedager 2026-2027 i Ørland kommune vedtas.",
+  "vedtak": "På grunn av manglende saksdokumenter utsettes saken til neste møte.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "På grunn av manglende saksdokumenter utsettes saken til neste møte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om utsettelse",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 3
+        },
+        {
+          "navn": "ENF - Utsettelse",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "ENF - Utsettelse",
+      "roedt_stoettet": "ENF - Utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "26/019",
+  "rodt_fremmet_forslag": true
+}

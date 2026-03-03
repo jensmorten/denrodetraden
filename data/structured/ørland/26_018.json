@@ -1,0 +1,44 @@
+{
+  "tittel": "Endring i forskrift for kommunale skolefritidsordninger i Ørland kommune",
+  "innstilling": "Forslaget til endringer i forskrift for kommunale skolefritidsordninger i Ørland kommune sendes ut på høring med høringsfrist 10. april 2026",
+  "vedtak": "Forslaget til endringer i forskrift for kommunale skolefritidsordninger i Ørland kommune sendes ut på høring med høringsfrist 10. april 2026.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Innstilling fra Utvalg for oppvekst og utdanning - 23.02.2026",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag - Opprinnelig forslag i Utvalg for oppvekst og utdanning 23.02.2026",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "26/018",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,28 @@
+{
+  "tittel": "26/012 Samlesak for referatsaker",
+  "innstilling": "Sakene tas til orientering.",
+  "vedtak": "Sakene tas til orientering.\n• 26/004 Årsrapport 2025 - Kommunalt råd for mennesker med nedsatt funksjonsevne i Ørland kommune\n• 26/005 Årsrapport 2025 - Ørland Eldreråd",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "For",
+      "rodt_på_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "26/012",
+  "rodt_fremmet_forslag": false
+}

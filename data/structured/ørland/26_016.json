@@ -1,0 +1,61 @@
+{
+  "tittel": "Leie og kvalitet Bjugnhallen",
+  "innstilling": [
+    "Kommunestyret vedtar at leieprisen for Bjugnhallen ikke endres.",
+    "Kommunestyret vedtar at det ikke igangsettes ekstraordinært vedlikeholdsarbeid på gulvet i Bjugnhallen i 2026."
+  ],
+  "vedtak": [
+    "Kommunestyret vedtar at leieprisen for Bjugnhallen ikke endres.",
+    "Kommunestyret vedtar at det igangsettes vedlikeholdsarbeid på gulvet i Bjugnhallen i 2026, med plan om ferdigstillelse til skolestart august 2026. Kommunestyret ber om at parkettgulvet slipes ned, ny merking av ballflater gjennomføres og gulves lakkeres med 4 lag lakk som ligger som tiltak 3 i saksfremlegget.",
+    "Kommunestyret ber om at kommunedirektøren avklarer om at tiltaket kan føres som investering og at salget av Århaugveien kan brukes, og resten av beløpet tas som salderingssak våren 2026. Kommunedirektøren legger frem avklaring for formannskapet i mars.",
+    "Det legges til ett punkt om at dette ses på som ekstraordinær oppgradering av anlegget og at det derfor åpnes for søknad om spillemidler."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Fredrik Sandness, Arbeiderpartiet",
+      "tekst": "1. Kommunestyret vedtar at leieprisen for Bjugnhallen ikke endres.\n2. Kommunestyret vedtar at det igangsettes vedlikeholdsarbeid på gulvet i Bjugnhallen i 2026, med plan om ferdigstillelse til skolestart august 2026. Kommunestyret ber om at parkettgulvet slipes ned, ny merking av ballflater gjennomføres og gulves lakkeres med 4 lag lakk som ligger som tiltak 3 i saksfremlegget.\n3. Kommunestyret ber om at kommunedirektøren avklarer om at tiltaket kan føres som investering og at salget av Århaugveien kan brukes, og resten av beløpet tas som salderingssak våren 2026. Kommunedirektøren legger frem avklaring for formannskapet i mars."
+    },
+    {
+      "forslagsstiller": "Eirik Lundemo, Høyre",
+      "tekst": "Det legges til ett punkt om at dette ses på som ekstraordinær oppgradering av anlegget og at det derfor åpnes for søknad om spillemidler."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 0
+        },
+        {
+          "navn": "Nytt forslag",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Nytt forslag",
+      "roedt_stoettet": "Nytt forslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag - Nytt pkt søknad om spillemidler",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "26/016",
+  "rodt_fremmet_forslag": false
+}

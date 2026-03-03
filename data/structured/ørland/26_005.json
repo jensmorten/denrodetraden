@@ -1,0 +1,28 @@
+{
+  "tittel": "Prisbok 2026",
+  "innstilling": "Kommunestyret vedtar tillegg til Prisboka for 2026: Variabel del av avløpsgebyret settes til 18,32 kr per m³ inkl. mva, med virkning fra 1. januar 2026",
+  "vedtak": "Kommunestyret vedtar tillegg til Prisboka for 2026: Variabel del av avløpsgebyret settes til 18,32 kr per m³ inkl. mva, med virkning fra 1. januar 2026.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoettet": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "22.01.2026",
+  "saksnummer_ps": "26/005",
+  "rodt_fremmet_forslag": false
+}

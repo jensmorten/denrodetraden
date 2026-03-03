@@ -1,0 +1,33 @@
+{
+  "tittel": "Søknad om fritak fra verv i Kontrollutvalget",
+  "innstilling": "Utsettelse av saken til neste kommunestyremøte 19. mars.",
+  "vedtak": "Utsettelse av saken til neste kommunestyremøte 19. mars.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eirik Lundemo, Høyre",
+      "tekst": "Utsettelse av saken til neste kommunestyremøte 19. mars."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om utsettelse av saken til neste kommunestyremøte 19. mars",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "26/013",
+  "rodt_fremmet_forslag": false
+}
