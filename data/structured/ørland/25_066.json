@@ -1,0 +1,69 @@
+{
+  "tittel": "25/066 Sluttbehandling - Kommunedelplan for naturmangfold",
+  "innstilling": "Med hjemmel i plan- og bygningsloven § 11-15 vedtar Ørland kommune, ved kommunestyret, kommunedelplan for naturmangfold.",
+  "vedtak": "Med hjemmel i plan- og bygningsloven § 11-15 vedtar Ørland kommune, ved kommunestyret, kommunedelplan for naturmangfold.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Oda Kristine Leth-Jøssing, Miljøpartiet De Grønne",
+      "tekst": "I Kommunedelplan for Naturmangfold del 2, er det litt misvisende og mangelfull omtale av reker i avsnittet \"Marine- og ferskvannsarter”. I stedet for at reker omtales som en art som kun lever i tarebeltet, foreslår vi å la reker for en egen omtale i slutten av undernevnte avsnitt.\n\nTekstforslag, tillegg:\n“Reker lever også på 100 meters dyp eller dypere. Reker er mat for annen fisk. Langs kysten av Ørland var det tidligere flere fiskere som drev med reketråling. Selv om bestanden er redusert og fiskerne gått på land, finnes disse rekefeltene og de må ivaretas i kommunens planer. Feltene er avmerket i Fiskeridirektoratet kart.”"
+    },
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "Øke kompetansen om havbrukets påvirkning på naturmangfold, herunder sykdom, rømming forurensning, etc."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Tilleggsforslag Kommunedelplan for Naturmangfold",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Nytt punkt til handlingsplanen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "25/066",
+  "rodt_fremmet_forslag": true
+}

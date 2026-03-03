@@ -1,0 +1,28 @@
+{
+  "tittel": "25/076 Sak fra Kontrollutvalget til behandling i kommunestyret - Kontrollutvalgets årsmelding 2024",
+  "innstilling": "Kommunestyret tar kontrollutvalgets årsmelding for 2024, til orientering.",
+  "vedtak": "Kommunestyret tar kontrollutvalgets årsmelding for 2024, til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "15.05.2025",
+  "saksnummer_ps": "PS 25/076",
+  "rodt_fremmet_forslag": false
+}

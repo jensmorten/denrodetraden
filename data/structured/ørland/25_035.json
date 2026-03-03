@@ -1,0 +1,40 @@
+{
+  "tittel": "Brekstad vestre næringsmiddelpark",
+  "innstilling": [
+    "Ørland kommunes avslutter sitt arbeid med ny reguleringsplan for 5057201902 Brekstad Vestre Næringsmiddelpark.",
+    "Ørland kommune bidrar i arbeid med permanent dispensasjon for arealet der det tidligere er gitt midlertidig dispensasjon i påvente av reguleringsplan.",
+    "Gjenværende midler avsettes til fremtidig plan- og utviklingsarbeid på Valsneset, Myran og Uthaug."
+  ],
+  "vedtak": [
+    "Kommunestyret ber administrasjonen om å fortsette reguleringsarbeidet på Brekstad Vestre.",
+    "Saken oversendes til planutvalget og lansdbruksnemda for videre behandling, før den kommer tilbake til kommunestyret for endelig vedtak."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Britt Eli Døsvik, Senterpartiet",
+      "tekst": "1. Kommunestyret ber administrasjonen om å fortsette reguleringsarbeidet på Brekstad Vestre.\n2. Saken oversendes til planutvalget og lansdbruksnemda for videre behandling, før den kommer tilbake til kommunestyret for endelig vedtak."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "Nytt forslag til vedtak",
+          "stemmer": 20
+        },
+        {
+          "navn": "Innstilling fra Formannskap - 12.03.2025",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "Nytt forslag til vedtak",
+      "roedt_stoettet": "Nytt forslag til vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "25/035",
+  "rodt_fremmet_forslag": false
+}

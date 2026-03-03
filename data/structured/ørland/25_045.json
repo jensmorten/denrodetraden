@@ -1,0 +1,24 @@
+{
+  "tittel": "Kommunal samarbeidsavtale - Helseplattformen",
+  "innstilling": "Tiltredelse av kommunal samarbeidsavtale: Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres.\nUtnevning av deltakere i representantskapet: Kommunestyret utnevner NN som kommunens faste representant i oppgavefellesskapets representantskap, med NN som varamedlem.\nKommunestyret godkjenner finansieringsmodellen som innebærer en årlig kostnadsfordeling basert på innbyggertall pr 1.1.2024. For Ørland kommune innebærer dette en årlig kostnad i 2025 på 212 204 NOK.\nTilslutning forutsetter at alle eierkommuner slutter seg til avtalen.",
+  "vedtak": "Saken ble utsatt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelse av saken",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "25/045",
+  "rodt_fremmet_forslag": false
+}

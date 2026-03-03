@@ -1,0 +1,34 @@
+{
+  "tittel": "Sluttbehandling: Forslag til revidert havneregulativ.",
+  "innstilling": [
+    "Ørland kommunestyre vedtar revidert forslag til havneregulativ datert 21.10.24.",
+    "Nytt havneregulativ trer i kraft fra 01.07.2025"
+  ],
+  "vedtak": [
+    "Ørland kommunestyre vedtar revidert forslag til havneregulativ datert 21.10.24.",
+    "Nytt havneregulativ trer i kraft fra 01.07.2025"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoettet": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "25/065",
+  "rodt_fremmet_forslag": false
+}

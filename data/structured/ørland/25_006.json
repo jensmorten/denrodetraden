@@ -1,24 +1,28 @@
 {
-  "tittel": "Samlesak for referatsaker",
-  "innstilling": "Sakene tas til orientering",
-  "vedtak": "Sakene tas til orientering.",
+  "tittel": "Interpellasjon neste kommunestyremøte - mangelen på hender innen helse og omsorg",
+  "innstilling": "Kommunestyret ber kommunedirektøren om å se på muligheten for å inngå en avtale med forsvaret hvor førstegangstjenestegjørende som avtjener verneplikten ved Ørland Flystasjon kan tilbys deltidsarbeide innen helse og omsorg.",
+  "vedtak": "Kommunestyret ber kommunedirektøren om å se på muligheten for å inngå en avtale med forsvaret hvor førstegangstjenestegjørende som avtjener verneplikten ved Ørland Flystasjon kan tilbys deltidsarbeide innen helse og omsorg.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Kommunestyret tok sakene til orientering",
+      "beskrivelse": "Votering over forslag til vedtak",
       "alternativer": [
         {
-          "navn": "Sakene tas til orientering",
-          "stemmer": "enstemmig"
+          "navn": "For",
+          "stemmer": 26
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 4
         }
       ],
-      "hvem_vant": "Sakene tas til orientering",
-      "roedt_stoettet": "Sakene tas til orientering",
-      "roedt_paa_vinner_side": true
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
     }
   ],
   "kommune": "ørland",
-  "dato": "23.01.2025",
+  "dato": "27.03.2025",
   "saksnummer_ps": "25/006",
   "rodt_fremmet_forslag": false
 }

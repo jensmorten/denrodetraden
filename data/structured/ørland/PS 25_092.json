@@ -1,0 +1,97 @@
+{
+  "tittel": "Økonomiplan 2026-2035 Ørland kommune",
+  "innstilling": "Økonomiplanen for 2026-2035 for Ørland kommune vedtas som fremlagt.",
+  "vedtak": "Økonomiplanen for 2026-2035 for Ørland kommune vedtas som fremlagt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Utvalg for oppvekst og utdanning",
+      "tekst": "Utvalg for oppvekst og utdanning tar saken til orientering."
+    },
+    {
+      "forslagsstiller": "Utvalg for Industri og Næring",
+      "tekst": "Utvalg for Industri og Næring tar Økonomiplan for 2026-2035 til orientering."
+    },
+    {
+      "forslagsstiller": "Kommunalt råd for mennesker med nedsatt funksjonsevne",
+      "tekst": "Kommunalt råd for mennesker med nedsatt funksjonsevne ser med bekymring på at kommunen skal innføre eiendomsskatt, da dette kan slå uheldig ut for enkelte mennesker med nedsatt funksjonsevne. Ved eventuell innføring av eiendomsskatt, bør det innføres regler for fritak for de med lavest inntekt."
+    },
+    {
+      "forslagsstiller": "Utvalg for helse og familie (Hilde Kristin Sandvik, INP)",
+      "tekst": "Økonomiplanen for 2026-2035 for Ørland kommune vedtas som fremlagt, med eventuelle endringer i forhold til vedtak om helsebygg."
+    },
+    {
+      "forslagsstiller": "Eldrerådet",
+      "tekst": "Eldrerådet tar saken til orientering."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Kommunestyre 19.06.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 19
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over forslag - Planutvalg 17.06.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 9
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag - Utvalg for Industri og Næring 12.06.2025",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 0
+        },
+        {
+          "navn": "Økonomiplan for 2026-2035 Ørland kommune",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "Økonomiplan for 2026-2035 Ørland kommune",
+      "roedt_stoettet": "Økonomiplan for 2026-2035 Ørland kommune",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag - Utvalg for helse og familie 11.06.2025",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 0
+        },
+        {
+          "navn": "Nytt forslag fra Hilde Kristin Sandvik (INP)",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "Nytt forslag fra Hilde Kristin Sandvik (INP)",
+      "roedt_stoettet": "Nytt forslag fra Hilde Kristin Sandvik (INP)",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 25/092",
+  "rodt_fremmet_forslag": false
+}

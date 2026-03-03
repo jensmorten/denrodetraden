@@ -1,0 +1,56 @@
+{
+  "tittel": "25/060 Vedtak - Forskrift om tildeling av kommunal bolig, Ørland kommune",
+  "innstilling": [
+    "Ørland kommunestyre vedtar Forskrift om tildeling av kommunal bolig, Ørland kommune.",
+    "Forskriften kunngjøres i Norsk Lovtidend, og gjøres gjeldende etter publiseringsdato."
+  ],
+  "vedtak": [
+    "Ørland kommunestyre vedtar Forskrift om tildeling av kommunal bolig, Ørland kommune, med følgende endringer i §3 andre ledd.",
+    "Søker må på vedtakstidspunktet ha lovlig opphold. Søker må ha bodd sammenhengende i Ørland kommune de siste to årene, med unntak av søkere som bosettes av kommunen direkte fra flyktningmottak eller flyktningeleir.",
+    "Forskriften kunngjøres i Norsk Lovtidend, og gjøres gjeldende etter publiseringsdato."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ann Elisabeth Solbue Valaas (SP)",
+      "tekst": "Endring tekst i kulepunkt 1: Søker må på vedtakstidspunktet ha lovlig opphold. Søker må ha bodd sammenhengende i Ørland kommune de siste to årene, med unntak av søkere som bosettes av kommunen direkte fra flyktningmottak eller flyktningeleir."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Endring tekst i kulepunkt 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 22
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "For",
+      "rodt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "25/060",
+  "rodt_fremmet_forslag": false
+}

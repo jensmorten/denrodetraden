@@ -1,0 +1,27 @@
+{
+  "tittel": "Strategi for oppgradering av kommunale boliger",
+  "innstilling": [
+    "Administrasjonen gis fullmakt til å søke på relevante tilskuddsordninger og vurdere behovet for annen finansiering for oppgraderinger av kommunale boliger.",
+    "Administrasjonen legger frem ny strategi for disponering av inntekter fra salg av kommunale eiendommer for kommunestyret i ny sak i løpet av juni 2025."
+  ],
+  "vedtak": "Saken ble utsatt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelse av saken",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "25/051",
+  "rodt_fremmet_forslag": false
+}

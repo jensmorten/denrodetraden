@@ -1,0 +1,27 @@
+{
+  "tittel": "Innbyggerinitiativ - Protest mot nytt helsehus og nedleggelse av Bjugn Legekontor",
+  "innstilling": [
+    "Kommunestyret finner at innbyggerinitiativet for “Protest mot nytt helsebygg og nedleggelse av Bjugn Legekontor” tilfredsstiller de formelle kravene til innbyggerforslag i kommunelovens § 12-1.",
+    "Kommunestyret anser initiativet som behandlet i sammenheng med sak 25/026 “Prosjektforslag fremtidens helsebygg”, behandlet den 20.02.2025."
+  ],
+  "vedtak": "Saken ble utsatt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelse av saken",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "25/043",
+  "rodt_fremmet_forslag": false
+}

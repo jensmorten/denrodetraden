@@ -1,0 +1,27 @@
+{
+  "tittel": "Strategisk næringsplan 2025-2028",
+  "innstilling": [
+    "Strategisk næringsplan Ørland kommune 2025-2028 vedtas.",
+    "Handlingsplan 2025-2026 vedtas."
+  ],
+  "vedtak": "Saken ble utsatt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelse av saken",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Utsettelse",
+      "roedt_stoettet": "Utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "25/047",
+  "rodt_fremmet_forslag": false
+}

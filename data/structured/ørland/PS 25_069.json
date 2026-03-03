@@ -1,0 +1,41 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og sakliste godkjent uten merknad.",
+  "vedtak": "Innkalling og sakliste med merknader ble enstemmig vedtatt ved manuell votering.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører Hallgeir Grøntvedt",
+      "tekst": "Forslag på settevaraordfører; Therese M. Eidsaune."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av settevaraordfører; forslag om Therese M. Eidsaune",
+      "alternativer": [
+        {
+          "navn": "Therese M. Eidsaune",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Therese M. Eidsaune",
+      "roedt_stoettet": "Therese M. Eidsaune",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Godkjenning av innkalling og saksliste med merknader",
+      "alternativer": [
+        {
+          "navn": "Godkjent",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Godkjent",
+      "roedt_stoettet": "Godkjent",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "15.05.2025",
+  "saksnummer_ps": "PS 25/069",
+  "rodt_fremmet_forslag": false
+}

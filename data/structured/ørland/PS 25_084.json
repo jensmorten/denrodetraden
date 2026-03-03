@@ -1,0 +1,24 @@
+{
+  "tittel": "Samlesak for referatsaker",
+  "innstilling": "Sakene tas til orientering",
+  "vedtak": "Sakene tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunestyret tok enstemmig sakene til orientering ved manuell votering.",
+      "alternativer": [
+        {
+          "navn": "Sakene tas til orientering",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Sakene tas til orientering",
+      "roedt_stoettet": "Sakene tas til orientering",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 25/084",
+  "rodt_fremmet_forslag": false
+}

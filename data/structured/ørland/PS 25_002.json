@@ -1,0 +1,36 @@
+{
+  "tittel": "25/002 Vedtaksprotokoller Ørland kommunestyre 01.01. - 30.04.2025",
+  "innstilling": "Saken tas til orientering.",
+  "vedtak": "Saken tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunestyre 15.05.2025 - behandling av innstilling",
+      "alternativer": [
+        {
+          "navn": "Saken tas til orientering",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Saken tas til orientering",
+      "roedt_stoettet": "Saken tas til orientering",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Formannskap 08.05.2025 - behandling av innstilling",
+      "alternativer": [
+        {
+          "navn": "Saken tas til orientering",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Saken tas til orientering",
+      "roedt_stoettet": "Saken tas til orientering",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "15.05.2025",
+  "saksnummer_ps": "PS 25/002",
+  "rodt_fremmet_forslag": false
+}

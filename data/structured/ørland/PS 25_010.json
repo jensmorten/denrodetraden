@@ -1,0 +1,52 @@
+{
+  "tittel": "25/010 Interpellasjon - fattigdom et økende problem",
+  "innstilling": "Kommunestyret ber kommunedirektøren forberede en sak til neste kommunestyremøte som:\n1. Sikrer at Fattig Talt får en mer forutsigbar økonomi gjennom bevilgninger over kommunebudsjettet.\n2. Sikrer at Fattig Talt får tilgang til egnede lokaler på Brekstad.\n3. Legger til rette for et tettere samarbeid mellom Fattig Talt og kommunens to frivillighetssentraler.\nPå vegne av opposisjonen AP, MDG, R, SV.\nTina Marie Rødde Paulsen",
+  "vedtak": "Kommunestyret ber kommunedirektøren forberede en sak til neste kommunestyremøte som:\n1. Ser på muligheten for at Fattig Talt får tilgang på mer egnede lokaler\n2. Legger tilrette for et tettere samarbeid mellom Fattig Talt og kommunens to frivilligsentraler.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
+      "tekst": "Kommunestyret ber kommunedirektøren forberede en sak til neste kommunestyremøte som:\n1. Ser på muligheten for at Fattig Talt får tilgang på mer egnede lokaler\n2. Legger tilrette for et tettere samarbeid mellom Fattig Talt og kommunens to frivilligsentraler."
+    },
+    {
+      "forslagsstiller": "Tina Marie Rødde Paulsen, Arbeiderpartiet",
+      "tekst": "Kommunestyret ber kommunedirektøren forberede en sak til neste kommunestyremøte som:\n1. Sikrer at Fattig Talt får en mer forutsigbar økonomi gjennom bevilgninger over kommunebudsjettet.\n2. Sikrer at Fattig Talt får tilgang til egnede lokaler på Brekstad.\n3. Legger til rette for et tettere samarbeid mellom Fattig Talt og kommunens to frivillighetssentraler."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "ENF - Alternativt forslag",
+          "stemmer": 22,
+          "partier": {
+            "AP": 4,
+            "FRP": 1,
+            "H": 6,
+            "INP": 3,
+            "SP": 7,
+            "V": 1
+          }
+        },
+        {
+          "navn": "TIL - Forslag til vedtak på vegne av AP, MDG, R, SV",
+          "stemmer": 8,
+          "partier": {
+            "AP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SV": 1,
+            "UAVHENGIG": 1
+          }
+        }
+      ],
+      "hvem_vant": "ENF - Alternativt forslag",
+      "roedt_stoettet": "TIL - Forslag til vedtak på vegne av AP, MDG, R, SV",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "15.05.2025",
+  "saksnummer_ps": "PS 25/010",
+  "rodt_fremmet_forslag": false
+}

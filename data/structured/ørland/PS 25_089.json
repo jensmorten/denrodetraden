@@ -1,0 +1,43 @@
+{
+  "tittel": "Saldering 2 Investering",
+  "innstilling": "Investeringsbudsjettet for 2025 salderes som følger:\nRegnskap Budsjett Til Nytt\nProsjektnavn Saldering\n30/4-2025 2025 disp. budsjett\n50001 Trafikksikkerhetstiltak 172 4 400 4 228 -2 600 1 800\n50002 Fergekai Dybfest og Tarva 12 028 12 400 372 10 000 22 400\nTrafikksikkerhetstiltak Arnfinn\n50012 0 630 630 -400 230\nAstads vei/gang- og sykkelvei\nGrunnundersøkelser gangfelt\n50057 240 500 260 -200 0\nVallersund\n50060 Plastring Sæterfjæra 0 400 400 -400 0\n10\n55089 Kjøp av omsorgsboliger 0 10 700 -10 700 0\n700\n55074 Takbytte ØMS/Ørland sykehjem 0 1 200 1200 -1 100 100\nTak Ørland ungdomsskole 1 100 1 100\nPresenning kanonen på Austrått 350 300\nOmbygging og utleie på Ørland\n3 950 3 950\nmedisinske senter (ØMS)\n50048 Mebostad pumpestasjon 0 4 000 4 000 -4 000 0\n50040 Oppgradering silanlegg Hovdetåa 2 000 2 000 -2 000 0\nSum -6 000\nBeløp på presenning kanon, justerer til kr 350 i kolonne for nytt budsjett.",
+  "vedtak": "Investeringsbudsjettet for 2025 salderes som følger:\nRegnskap Budsjett Til Nytt\nProsjektnavn Saldering\n30/4-2025 2025 disp. budsjett\n50001 Trafikksikkerhetstiltak 172 4 400 4 228 -2 600 1 800\n50002 Fergekai Dybfest og Tarva 12 028 12 400 372 10 000 22 400\nTrafikksikkerhetstiltak Arnfinn\n50012 0 630 630 -400 230\nAstads vei/gang- og sykkelvei\nGrunnundersøkelser gangfelt\n50057 240 500 260 -200 0\nVallersund\n50060 Plastring Sæterfjæra 0 400 400 -400 0\n10\n55089 Kjøp av omsorgsboliger 0 10 700 -10 700 0\n700\n55074 Takbytte ØMS/Ørland sykehjem 0 1 200 1200 -1 100 100\nTak Ørland ungdomsskole 1 100 1 100\nPresenning kanonen på Austrått 350 300\nOmbygging og utleie på Ørland\n3 950 3 950\nmedisinske senter (ØMS)\n50048 Mebostad pumpestasjon 0 4 000 4 000 -4 000 0\n50040 Oppgradering silanlegg Hovdetåa 2 000 2 000 -2 000 0\nSum -6 000\nBeløp på presenning kanon, justerer til kr 350 i kolonne for nytt budsjett.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Formannskap - 05.06.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP",
+            "FRP",
+            "H",
+            "INP",
+            "MDG",
+            "Rødt",
+            "SP",
+            "SV",
+            "UAVHENGIG",
+            "V"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "AP"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 25/089",
+  "rodt_fremmet_forslag": false
+}

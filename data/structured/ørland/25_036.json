@@ -1,0 +1,33 @@
+{
+  "tittel": "Vurdering kjøp av areal Brekstad vestre",
+  "innstilling": "Grunnet stor usikkerhet om hvorvidt Statsforvalteren vil godkjenne ei omregulering fra LNF til næringsformål er det knyttet stor økonomisk risiko for kommunen å inngå vedlagte avtale med grunneier. Likevel ønsker kommunen å kompensere grunneier for tid og utlegg. Det vedtas at grunneier kompenseres for dokumenterte utgifter og kr 700/time for medgått tid iht. timeliste.",
+  "vedtak": "Saken må sees i forbindelse med vedtak fra sak 25/035, og utsettes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Britt Eli Døsvik, Senterpartiet",
+      "tekst": "Saken må sees i forbindelse med vedtak fra sak 25/035, og utsettes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Nytt forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "25/036",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,44 @@
+{
+  "tittel": "Endring av vedtekter for barnehage",
+  "innstilling": "Vedlagte endrede vedtekter for barnehage vedtas.",
+  "vedtak": "1. Vedlagte endrede vedtekter for barnehage vedtas.\n2. Utvalget ber administrasjonen gå i dialog med forsvarsdepartementet om finansiering av ekstraordinære åpningstider i barnehage og SFO på sommeren. Henviser til brev fra 132 luftving vedr. helårsåpen barnehage og SFO.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Punktvis avstemming OPV sin innstilling - punkt 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 19
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag - Punktvis avstemming OPV sin innstilling - punkt 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "25/037",
+  "rodt_fremmet_forslag": false
+}

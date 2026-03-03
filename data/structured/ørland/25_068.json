@@ -1,0 +1,49 @@
+{
+  "tittel": "25/068 Søknad om fritak fra Forliksrådet",
+  "innstilling": "Kommunedirektørens innstilling",
+  "vedtak": "1. Odd Inge Hovd gis fritak fra vervet som medlem i forliksrådet for resten av valgperioden.\n2. Nytt medlem i forliksrådet velges i neste kommunestyremøte.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
+      "tekst": "1. Odd Inge Hovd gis fritak fra vervet som medlem i forliksrådet resten av valgperioden.\n2. Nytt medlem i forliksrådet velges i neste kommunestyremøte.\nMøte lukkes etter kommunelovens § 11-5 under behandling av saken."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 26,
+          "partier": [
+            "AP 7",
+            "FRP 2",
+            "H 2",
+            "INP 3",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "UAVHENGIG 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 5,
+          "partier": [
+            "AP 1",
+            "H 4"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "25/068",
+  "rodt_fremmet_forslag": false
+}

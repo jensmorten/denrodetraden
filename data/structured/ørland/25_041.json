@@ -1,0 +1,49 @@
+{
+  "tittel": "Forskrift om folkevalgtes arbeidsvilkår og godtgjøring - Ørland kommune",
+  "innstilling": "På et prinsipielt grunnlag betaler ikke Ørland kommune ut tapt arbeidsfortjeneste for verv i statlige råd og utvalg, der staten har godtgjøringsansvaret. Forskrift om folkevalgtes arbeidsvilkår og godtgjøring i Ørland kommune, endres ikke.",
+  "vedtak": "På et prinsipielt grunnlag betaler ikke Ørland kommune ut tapt arbeidsfortjeneste for verv i statlige råd og utvalg, der staten har godtgjøringsansvaret. Forskrift om folkevalgtes arbeidsvilkår og godtgjøring i Ørland kommune, endres ikke. Kommunedirektøren får i oppdrag å sende brev til departementet om kommunens utfordring med å få representanter til forliksrådet på grunn av lav godtgjøring og ikke dekning av tapt arbeidsfortjeneste.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kommunedirektøren",
+      "tekst": "Kommunedirektøren får i oppdrag å sende brev til departementet om kommunens utfordring med å få representanter til forliksrådet på grunn av lav godtgjøring og ikke dekning av tapt arbeidsfortjeneste."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "25/041",
+  "rodt_fremmet_forslag": false
+}

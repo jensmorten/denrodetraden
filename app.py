@@ -18,8 +18,8 @@ st.set_page_config(page_title="Den Røde Tråden", layout="wide")
 
 st.title("🔴 Den Røde Tråden")
 st.markdown("Dette er en app som hjelper Rødts kommunestyrerepresentater finne lignende saker i andre kommuner.")  
-st.markdown("Last opp enkelt sak eller sakliste og finn lignde saker i andre kommuner.")
-st.markdown("Appen søker i en database med saker som per idag inneholder behandlede saker fra 1. januar 2025 ")
+st.markdown("Last opp enkelt sak eller sakliste og finn lignende saker i andre kommuner.")
+st.markdown("Appen søker i en database med saker som per idag inneholder behandlede saker fra 1. januar 2025 fram til februar 2026")
 
 # ============================================
 # INPUT
@@ -114,9 +114,10 @@ Tekst:
 def search_similar_cases(tekst, kommune):
 
     prompt = f"""
-Du er politisk analyseassistent. Oppsummer først kort saken(e) som er gitt og generelt hva Rødt kan tenkes å mene i denne saken. Vurder om det faktisk er en kommunal sak eller brukeren har lasta opp noe annet. Gi isåfall beskjed om dette. 
+Du er politisk analyseassistent. Oppsummer først kort saken(e) som er gitt og generelt hva Rødt kan tenkes å mene i denne saken. Vurder om det faktisk er en kommunal sak eller brukeren har lasta opp noe annet. 
+Gi isåfall beskjed om dette og stopp videre behandling. 
 
-Finn saker i andre kommunar enn {kommune} som er tematisk lik teksten under. Du kan også nemne tidlegare saker i {kommune} dersom det er relevant. 
+Dersom det er et relevant saksdokument, finn saker i andre kommuner enn {kommune} som er tematisk lik teksten under. Du kan også nemne tidlegare saker i {kommune} dersom det er relevant. 
 
 For kvar treff, oppgi:
 - Kommune

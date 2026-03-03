@@ -1,0 +1,58 @@
+{
+  "tittel": "Sammenligning av ny og gammel forskrift om vann- og avløpsgebyr",
+  "innstilling": "Kommunestyret tar saken til etterretning",
+  "vedtak": [
+    {
+      "dato": "27.03.2025",
+      "tekst": "Saken ble utsatt ved manuell votering."
+    },
+    {
+      "dato": "19.12.2024",
+      "tekst": "Sender saken i retur til administrasjon med anmodning om endring /gjennomgang i prisboka ang prisutviklinga til gårdsbruk med mye dyr. Ber om at saken kommer opp igjen på nyåret i kommunestyret."
+    },
+    {
+      "dato": "27.03.2025",
+      "tekst": "Ørland kommunestyre ber om at antall næringskategorier med tilhørende antall fastledd, gjennomgås ved utarbeidelse ny prisbok for 2026 med fokus på å unngå ekstra stor prisøkning for enkelte gårdsbruk med mye dyr."
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan-Inge Standahl, Senterpartiet",
+      "tekst": "Sender saken i retur til administrasjon med anmodning om endring /gjennomgang i prisboka ang prisutviklinga til gårdsbruk med mye dyr. Ber om at saken kommer opp igjen på nyåret i kommunestyret."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om prisboka ang vann/avløpsgebyr",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 2
+        },
+        {
+          "navn": "Prisboka ang vann/avløpsgebyr",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Prisboka ang vann/avløpsgebyr",
+      "roedt_stoette": "Prisboka ang vann/avløpsgebyr",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering om utsettelse av saken ved manuell votering",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Utsettelse",
+      "roedt_stoette": "Utsettelse",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "25/049",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,29 @@
+{
+  "tittel": "Søknad om fritak fra politiske verv for resten av valgperioden 2023 - 2027 - eventuelt nyvalg",
+  "innstilling": "Ogne Undertun gis fritak fra alle sine politiske verv fra dd og ut valgperioden.",
+  "vedtak": "Ogne Undertun gis fritak fra alle sine politiske verv fra dd og ut valgperioden.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ingvild Wik Solberg, Arbeiderpartiet",
+      "tekst": "Ogne Undertun gis fritak fra alle sine politiske verv fra dd og ut valgperioden."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om fritak",
+      "alternativer": [
+        {
+          "navn": "TIL - fritak",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "TIL - fritak",
+      "rodt_stottet": "TIL - fritak",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "15.05.2025",
+  "saksnummer_ps": "PS 25/080",
+  "rodt_fremmet_forslag": false
+}

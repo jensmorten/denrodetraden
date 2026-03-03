@@ -1,0 +1,33 @@
+{
+  "tittel": "25/078 Valg av nytt medlem til forliksrådet for resten av valgperioden",
+  "innstilling": "Forslag på Marit Sletten INP som fast representant, og Steinar Simonsen FRP som vara.",
+  "vedtak": "Marit Sletten INP velges som fast representant, og Steinar Simonsen FRP som vara.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Gunnar Hofstad, Industri- og Næringspartiet",
+      "tekst": "Forslag på Marit Sletten INP som fast representant, og Steinar Simonsen FRP som vara."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag på nye medlemmer til forliksrådet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "15.05.2025",
+  "saksnummer_ps": "PS 25/078",
+  "rodt_fremmet_forslag": false
+}

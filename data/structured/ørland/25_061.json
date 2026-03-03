@@ -1,0 +1,97 @@
+{
+  "tittel": "Strategisk næringsplan 2025-2028",
+  "innstilling": [
+    "Strategisk næringsplan Ørland kommune 2025-2028 vedtas.",
+    "Handlingsplan 2025-2026 vedtas."
+  ],
+  "vedtak": [
+    "Strategisk næringsplan Ørland kommune 2025-2028 vedtas.",
+    "Handlingsplan 2025-2026 vedtas.",
+    "Kommunestyret ber om at Handlingsdelen av Strategisk næringsplan vurderes på nytt av Utvalg for Industri- og Næring, for bedre konkretisering av tiltak og formål.",
+    "Ørland kommunestyre vedtar å ta inn følgende nytt kulepunkt under opplevelser i handlingsplanen: Markedsføring av Ørlandskunstneren Hannah Ryggen."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "Punktet “Fortsette arbeidet opp mot Klima- og miljødepartementet angående marint verneområde” strykes fra Handlingsdelen inntil det er vurdert opp mot Kommunedelplanen for naturmangfold."
+    },
+    {
+      "forslagsstiller": "Mona Sjøli, Høyre",
+      "tekst": "Ørland kommunestyre vedtar å ta inn følgende kulepunkt: Markedsføring av Ørlandskunstneren Hannah Ryggen."
+    },
+    {
+      "forslagsstiller": "Gunnar Hofstad, Industri- og Næringspartiet",
+      "tekst": "Kommunestyret ber om at Handlingsdelen av Strategisk næringsplan vurderes på nytt av Utvalg for Industri- og Næring, for bedre konkretisering av tiltak og formål."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Endring i handlingsdel (Ole Edvard Antonsen, Rødt)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 17
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Nytt kulepunkt under opplevelser i handlingsplanen (Mona Sjøli, Høyre)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Nytt kulepunkt 3 (Gunnar Hofstad, Industri- og Næringspartiet)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "25/061",
+  "rodt_fremmet_forslag": true
+}

@@ -1,0 +1,57 @@
+{
+  "tittel": "25/075 Arbeidsgruppe for gjennomføring av større tiltak på fylkesveger",
+  "innstilling": [
+    "Enhet for Samfunnsutvikling får ansvar for å opprette og lede gruppa",
+    "Som politisk representant oppnevnes:",
+    "Arbeidsgruppas leder orienterer Formannskapet om muligheter og utfordringer for større investeringsprosjekt på fylkesveger i Ørland kommune"
+  ],
+  "vedtak": [
+    "Enhet for Samfunnsutvikling får ansvar for å opprette og lede gruppa",
+    "Som politiske representanter oppnevnes: Hallgeir Grøntvedt, Sp og Fredrik Sandness, Ap",
+    "Arbeidsgruppas leder orienterer Formannskapet om muligheter og utfordringer for større investeringsprosjekt på fylkesveger i Ørland kommune"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Britt Eli Døsvik, Senterpartiet",
+      "tekst": "Som politiske representanter foreslås: Hallgeir Grøntvedt, Sp og Fredrik Sandness, Ap"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 27
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over forslag - TIL - tilleggsforslag kulepunkt 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "15.05.2025",
+  "saksnummer_ps": "PS 25/075",
+  "rodt_fremmet_forslag": false
+}

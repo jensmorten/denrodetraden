@@ -1,0 +1,49 @@
+{
+  "tittel": "Sammenligning av ny og gammel forskrift om vann- og avløpsgebyr",
+  "innstilling": "Kommunestyret tar saken til etterretning",
+  "vedtak": "Kommunestyret tar saken til etterretning.\nBer om at administrasjon jobber videre med vannavgifta og kommer tilbake med et forslag på oppdeling/trinnvis på budsjett møte på høsten 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan-Inge Standahl, Senterpartiet",
+      "tekst": "Ber om at administrasjon jobber videre med vannavgifta og kommer tilbake med et forslag på oppdeling/trinnvis på budsjett møte på høsten 2025"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag - TIL - Vannavgift",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "25/064",
+  "rodt_fremmet_forslag": false
+}

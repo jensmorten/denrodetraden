@@ -1,0 +1,51 @@
+{
+  "tittel": "Disponering av inntekter fra salg av kommunale boliger",
+  "innstilling": [
+    "Kommunestyret gir administrasjonen fullmakt til å benytte midler fra salg av kommunale boliger, for å iverksette fornying og oppgradering av den kommunale boligporteføljen der kommunen har et lovpålagt ansvar.",
+    "Kommunestyret gir administrasjonen fullmakt til å investere i kommunale boliger fra det åpne marked gjennom rammer fra salgsinntekter.",
+    "Administrasjonen legger frem oppdatering av kommunens eiendomsstrategi i løpet av september 2025 for gjennomgang av kommunens øvrige bygg og eiendommer."
+  ],
+  "vedtak": [
+    "Kommunestyret gir administrasjonen fullmakt til å benytte midler fra salg av kommunale boliger, for å iverksette fornying og oppgradering av den kommunale boligporteføljen der kommunen har et lovpålagt ansvar.",
+    "Kommunestyret gir administrasjonen fullmakt til å investere i kommunale boliger fra det åpne marked gjennom rammer fra salgsinntekter.",
+    "Administrasjonen legger frem oppdatering av kommunens eiendomsstrategi i løpet av september 2025 for gjennomgang av kommunens øvrige bygg og eiendommer."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 18,
+          "partier": [
+            "FRP 1",
+            "H 6",
+            "INP 2",
+            "MDG 1",
+            "SP 6",
+            "UAVHENGIG 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 11,
+          "partier": [
+            "AP 8",
+            "Rødt 1",
+            "SP 1",
+            "SV 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 25/099",
+  "rodt_fremmet_forslag": false
+}

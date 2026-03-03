@@ -1,0 +1,49 @@
+{
+  "tittel": "25/077 Revidering av politisk saksbehandlingsreglement",
+  "innstilling": "Kommunestyret vedtar fremlagt reviderte Politisk saksbehandlingsreglement for Ørland kommune med virkning fra dags dato.",
+  "vedtak": "Kommunestyret vedtar fremlagt reviderte Politisk saksbehandlingsreglement for Ørland kommune med virkning fra dags dato.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "Fjerning av begrensning av taletid. Følgende tekst strykes: Følgende taletider gjelder som hovedprinsipp i Ørland: • Hovedinnlegg 5 min • Støtteinnlegg 3 min • Replikk 1 min • Svarreplikk 1 min"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: ENF - Fjerning av begrensning av taletid",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 12
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 18
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 28
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "15.05.2025",
+  "saksnummer_ps": "PS 25/077",
+  "rodt_fremmet_forslag": true
+}

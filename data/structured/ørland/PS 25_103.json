@@ -1,0 +1,101 @@
+{
+  "tittel": "Opprykk og nyvalg ifm fritak fra faste verv som folkevalgt for resten av valgperioden 2023-2027",
+  "innstilling": "Kommunedirektørens innstilling",
+  "vedtak": "Til kommunestyret: 1. vara for INP går inn som fast, Odd Inge Hovd. Utvalg for Helse og Familie: 1. vara for INP går inn som fast, Anja Karin Fjellheim. Som leder i utvalget foreslås Sonja Christiansen, H. Arbeidsutvalg/Valgnemda: Gisle Moen. Fosen Helse IKS: Sonja Christiansen. Representant som styremedlem i Roret fra Idrettsrådet, Andreas Erikstad Meier. Einar Aaland fortsette som varamedlem. Varamedlem til: Landbruksnemda: Thomas Brækstad Moen Forliksrådet: Thomas Morken Fosen Renovasjon: Tine Hegge Notøy. Vallersund Gård: Roy Olav Skogen",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marit Sletten (INP)",
+      "tekst": "1. vara for INP går inn som fast, Odd Inge Hovd. Utvalg for Helse og Familie: 1. vara for INP går inn som fast, Anja Karin Fjellheim. Som leder i utvalget foreslås Sonja Christiansen, H. Arbeidsutvalg/Valgnemda: Gisle Moen. Fosen Helse IKS: Sonja Christiansen. Representant som styremedlem i Roret fra Idrettsrådet, Andreas Erikstad Meier. Einar Aaland fortsette som varamedlem. Varamedlem til: Landbruksnemda: Thomas Brækstad Moen Forliksrådet: Thomas Morken Fosen Renovasjon: Tine Hegge Notøy. Vallersund Gård: Roy Olav Skogen"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": {
+            "AP": 8,
+            "FRP": 1,
+            "H": 6,
+            "INP": 2,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "UAVHENGIG": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": {
+            "AP": 8,
+            "FRP": 1,
+            "H": 6,
+            "INP": 2,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "UAVHENGIG": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": {
+            "AP": 8,
+            "FRP": 1,
+            "H": 6,
+            "INP": 2,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "UAVHENGIG": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 25/103",
+  "rodt_fremmet_forslag": false
+}

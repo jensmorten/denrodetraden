@@ -1,47 +1,11 @@
 {
-  "tittel": "Saldering 1/2025 Investering",
-  "innstilling": [
-    "Investeringsbudsjettet salderes som følger:",
-    "Det opptas et nytt lån på kr 141.684.000."
-  ],
-  "vedtak": [
-    "Investeringsbudsjettet salderes som følger:",
-    "Det opptas et nytt lån på kr 141.684.000.",
-    "Formannskapet ber administrasjon om å sette på fargekodene rødt, gult og grønt i forhold til om investeringer som ikke er påstartet, påbegynt og ferdig. Dette for å sikre et bedre grunnlag for beslutningstakerne. Ønsker at det blir tatt med i sak til kommunestyremøte 23.01.25."
-  ],
+  "tittel": "25/009 Spørsmål til ordfører - Pedagogiske ledere i barnehager - Redusert stilling",
+  "innstilling": null,
+  "vedtak": "Svar på spørsmål til spørretimen v/ordfører:\nI barnehagene har vi både pedagogiske ledere og barnehagelærere.\nI Ørland kommune er praksis at man må jobbe i minst 80 % stilling for å kunne ha rollen som pedagogisk leder. Dette for å kunne ivareta arbeidets og funksjonens art.\nEn pedagogisk leder skal lede og ha ansvar for en gruppe eller avdeling. Det innebærer blant annet å følge opp både bemanningsplaner og praksis.\nEn stillingsstørrelse på minimum 80% er avgjørende for å kunne ha nødvendig oversikt og sikre kontinuitet i arbeidet. Det å være pedagogisk leder i en stilling under 80% vil derfor være utfordrende.\nHvis ansatte av helsemessige eller sosiale grunner må gå ned i stillingsprosent og dermed ikke kan fortsette som pedagogisk leder, vil de få ny arbeidsavtale hvor de blir ansatt som barnehagelærer. De får da med seg lønna de hadde da de ble sykmeldt. Dette er tema i oppfølgingen av de ansatte. Videre lønnsutvikling vil være ut fra endret stilling.",
   "alternative_forslag": [],
-  "voteringer": [
-    {
-      "beskrivelse": "Votering over forslag: Innstilling fra Formannskapet 09.01.25",
-      "alternativer": [
-        {
-          "navn": "For",
-          "stemmer": 31,
-          "partier": [
-            "AP 8",
-            "FRP 2",
-            "H 6",
-            "INP 4",
-            "MDG 1",
-            "Rødt 1",
-            "SP 7",
-            "SV 1",
-            "V 1"
-          ]
-        },
-        {
-          "navn": "Mot",
-          "stemmer": 0,
-          "partier": []
-        }
-      ],
-      "hvem_vant": "For",
-      "rodt_stottet": "For",
-      "rodt_side": "vinner"
-    }
-  ],
+  "voteringer": [],
   "kommune": "ørland",
-  "dato": "23.01.2025",
+  "dato": "24.04.2025",
   "saksnummer_ps": "25/009",
   "rodt_fremmet_forslag": false
 }

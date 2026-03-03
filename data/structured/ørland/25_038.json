@@ -1,0 +1,65 @@
+{
+  "tittel": "Revidert forskrift om vedtekter for SFO i Ørland kommune",
+  "innstilling": "Vedlagte revidert forskrift om vedtekter for SFO vedtas.",
+  "vedtak": "1. Vedlagte revidert forskrift om vedtekter for SFO vedtas.\n2. Utvalget ber administrasjonen gå i dialog med forsvarsdepartementet om finansiering av ekstraordinære åpningstider i barnehage og SFO på sommeren. Henviser til brev fra 132 luftving vedr. helårsåpen barnehage og SFO.\nPunkt 1.5 Ved mindre enn 3 barn påmeldt skal SFO se på å samkjøre mellom SFOene. Valg av alternativ skole ved minimumsbehovet, skal det komme tydelig fram i skoleplanen skolen som velges.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marit Sletten INP",
+      "tekst": "Punkt 1.5 Ved mindre enn 3 barn påmeldt skal SFO se på å samkjøre mellom SFOene. Valg av alternativ skole ved minimumsbehovet, skal det komme tydelig fram i skoleplanen skolen som velges."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Punktvis avstemming OPV sin innstilling - punkt 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 19
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag: Punktvis avstemming OPV sin innstilling - punkt 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag: Forslag fra Marit Sletten INP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 16
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "25/038",
+  "rodt_fremmet_forslag": false
+}

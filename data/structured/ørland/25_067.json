@@ -1,0 +1,147 @@
+{
+  "tittel": "25/067 Valg av nytt styremedlem og nestleder i Roret Ørland kulturforetak KF",
+  "innstilling": [
+    "1. Som nytt styremedlem velges Thomas Hovde. Som varamedlem for Thomas Hovde velges Barbro Brønner Eikset."
+  ],
+  "vedtak": [
+    "1. Som nytt styremedlem velges Thomas Hovde. Som varamedlem for Thomas Hovde velges Barbro Brønner Eikset.",
+    "2. Kommunestyret ber om at kommunedirektøren starter en evalueringsprosess av organisasjonsformen av Roret Ørland kulturforetak KF. Kommunedirektøren bes om at styret, ansatte og deres organisasjoner involveres og høres i prosessen. Når høringsuttalelsene foreligger bes kommunedirektør vurdere disse og legge frem en sak for en endelig behandling i kommunestyret i oktober 2025.",
+    "3. Som nestleder for styret i Roret foreslås Fredrik Sandness (AP)."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Fredrik Sandness, Arbeiderpartiet",
+      "tekst": "Kommunestyret ønsker at styret i Roret starter en prosess med en gjennomgang og evaluering av Roret Ørland kulturforetak KF. Det bes om at styret sammen med de ansatte og deres organisasjoner involveres og høres i prosessen. Når høringsuttalelsene foreligger bes kommunedirektør vurdere disse og legge frem en sak for en endelig behandling i kommunestyret i oktober 2025."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Nytt forslag fra Fredrik Sandness (AP)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "INP 1",
+            "MDG 1",
+            "Rødt 1",
+            "SV 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 17,
+          "partier": [
+            "H 6",
+            "INP 2",
+            "SP 7",
+            "UAVHENGIG 1",
+            "V 1"
+          ]
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslag - Punkt 1 Valg av nytt styremedlem og nestleder i Roret Ørland kulturforetak KF, foreslått av Mona Sjøli (H)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": [
+            "AP 7",
+            "FRP 2",
+            "H 6",
+            "INP 3",
+            "MDG 1",
+            "Rødt 1",
+            "SP 6",
+            "SV 1",
+            "UAVHENGIG 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2,
+          "partier": [
+            "AP 1",
+            "SP 1"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag - Punkt 2 Valg av nytt styremedlem og nestleder i Roret Ørland kulturforetak KF",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 28,
+          "partier": [
+            "AP 7",
+            "FRP 2",
+            "H 6",
+            "INP 3",
+            "MDG 1",
+            "SP 6",
+            "SV 1",
+            "UAVHENGIG 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3,
+          "partier": [
+            "AP 1",
+            "Rødt 1",
+            "SP 1"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslag - Punkt 3 Valg av nytt styremedlem og nestleder i Roret Ørland kulturforetak KF",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 3",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "UAVHENGIG 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "25/067",
+  "rodt_fremmet_forslag": false
+}

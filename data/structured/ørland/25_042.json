@@ -1,0 +1,28 @@
+{
+  "tittel": "Uttreden og valg av nytt styremedlem - Roret Ørland kulturforetak KF",
+  "innstilling": "Styremedlem og nestleder i Styret for Roret Ørland kulturforetak KF, Snorre Glørstad, innvilges fritak fra vervet. Valg av styremedlem og nestleder utsettes til neste kommunestyremøte.",
+  "vedtak": "Styremedlem og nestleder i Styret for Roret Ørland kulturforetak KF, Snorre Glørstad, innvilges fritak fra vervet. Valg av styremedlem og nestleder utsettes til neste kommunestyremøte.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Styremedlem og nestleder i Styret for Roret Ørland kulturforetak KF, Snorre Glørstad",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "25/042",
+  "rodt_fremmet_forslag": false
+}

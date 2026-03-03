@@ -1,0 +1,60 @@
+{
+  "tittel": "25/057 Kommunal samarbeidsavtale - Helseplattformen",
+  "innstilling": [
+    "Tiltredelse av kommunal samarbeidsavtale: Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres.",
+    "Utnevning av deltakere i representantskapet: Kommunestyret utnevner NN som kommunens faste representant i oppgavefellesskapets representantskap, med NN som varamedlem.",
+    "Kommunestyret godkjenner finansieringsmodellen som innebærer en årlig kostnadsfordeling basert på innbyggertall pr 1.1.2024. For Ørland kommune innebærer dette en årlig kostnad i 2025 på 212 204 NOK.",
+    "Tilslutning forutsetter at alle eierkommuner slutter seg til avtalen."
+  ],
+  "vedtak": [
+    "Tiltredelse av kommunal samarbeidsavtale: Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres.",
+    "Utnevning av deltakere i representantskapet: Kommunestyret utnevner NN som kommunens faste representant i oppgavefellesskapets representantskap, med NN som varamedlem.",
+    "Kommunestyret godkjenner finansieringsmodellen som innebærer en årlig kostnadsfordeling basert på innbyggertall pr 1.1.2024. For Ørland kommune innebærer dette en årlig kostnad i 2025 på 212 204 NOK.",
+    "Tilslutning forutsetter at alle eierkommuner slutter seg til avtalen.",
+    "Foreslår Ordfører Hallgeir Grøntvedt som fast representant og varaordfører Mona Sjøli som vararepresentant."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Britt Eli Døsvik, Senterpartiet",
+      "tekst": "Foreslår Ordfører Hallgeir Grøntvedt som fast representant og varaordfører Mona Sjøli som vararepresentant"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Tilleggsforslag kulepunkt 2",
+      "alternativer": [
+        {
+          "navn": "TIL - Tilleggsforslag kulepunkt 2",
+          "stemmer": 31
+        },
+        {
+          "navn": "MOT",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "TIL - Tilleggsforslag kulepunkt 2",
+      "roedt_stoettet": "TIL - Tilleggsforslag kulepunkt 2",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Formannskap - 12.03.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "25/057",
+  "rodt_fremmet_forslag": false
+}
