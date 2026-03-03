@@ -1,13 +1,34 @@
 # Den Røde Tråden
-AI for koordinering av kommunestyresaker til bruk av Rødt
+Den Røde Tråden er et analyseverktøy som bruker språkmodeller (LLM) og semantisk søk for å systematisere og sammenligne kommunestyresaker på tvers av kommuner.
 
-Teknisk løsning
-Protokoller fra kommunestyremøter i utvalgte kommuner er lastet ned og ligger i /data/raw
+Målet er å gjøre det enklere å:
+-finne lignende saker behandlet i andre kommuner
+-se hvilke forslag som ble fremmet
+-analysere voteringer
+-identifisere når og hvordan Rødt har fremmet alternative forslag
+-lære av tidligere behandlinger
 
-skriptet structure.py går igjennom dokumentene, trekker ut saker og systematiserer hver sak som .json ved hjelp av en språkmodell (LLM)
+## App: Den Røde Tråden
+Streamlit-app: 👉 https://denrodetraden.streamlit.app/
 
-skriptet build_documents.py konverterer til dokumenter som egner seg for semantisk søk. 
+Appen lar brukeren laste opp en saksliste eller enkeltsak (PDF) og identifisere relevante saker fra andre kommuner. Appen gir brukeren mulighet til å se: tidligere vedtak, alternative forslag, voteringer, hva Rødt foreslo, om Rødt var på vinner- eller taper-side
 
-skriptet update_vector_store.py lagrer disse filene i en vektordatabase som tilrettelegger for raskt semantisk søk 
+Dette gjør det mulig å koordinere politikk på tvers av kommuner, lære av andre, utvikle bedre forslag, forberede alternative forslag raskt
 
-Appen Den Røde Tråden https://denrodetraden.streamlit.app/ lar brukeren laste opp et dokument (sak eller saksliste), finner fram lignende saker i vektordatabasen og gir brukeren tips om saker som er behandla i andre kommuner
+## Teknisk løsning
+
+### structure.py
+skriptet structure.py Leser alle PDF-er i /data/raw/<kommune>/<år>, deler dokumentene i enkeltsaker og trekker ut:
+
+tittel, innstilling, vedtak, alternative forslag, voteringer, stemmetall, om Rødt fremmet forslag, om Rødt var på vinner- eller taper-side og  lagrer hver sak som strukturert JSON i: /data/structured/<kommune>/
+
+for å unngå unødvendige LLM-kall holdes det oversikt over allerede behandlede PDF-er i: processed_pdfs.json
+
+### build_documents.py
+skriptet build_documents.py leser alle JSON-saker og konverterer dem til tekst-dokumenter optimalisert for semantisk søk og lagrer disse i: /data/vector_docs/ 
+Disse tekstene er laget for å gi gode embeddings og presise søketreff.
+
+### update_vector_store.py:
+build_documents.py Laster nye dokumenter opp til OpenAI Vector Store (vektordatabasen). Skriptet unngår duplikater via uploaded_docs.json
+
+
