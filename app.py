@@ -7,7 +7,7 @@ import tempfile
 # SETUP
 # ============================================
 
-MODEL = "gpt-4.1-mini"
+MODEL = "gpt-5.2"
 
 OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 VECTOR_STORE_ID = st.secrets["VECTOR_STORE_ID"]
@@ -169,7 +169,7 @@ if analyse_knapp:
         for case in cases:
             st.subheader(case["ps"])
 
-            with st.spinner("Søker liknande saker..."):
+            with st.spinner("Søker lignende saker..."):
                 resultat = search_similar_cases(
                     case["tekst"],
                     kommune

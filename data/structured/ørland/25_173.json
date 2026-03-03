@@ -1,0 +1,37 @@
+{
+  "tittel": "Antall medlemmer i kommunestyret i Ørland for valgperioden 2027 - 2031",
+  "innstilling": "Saken legges frem til behandling uten forslag til innstilling jf. vedtatt Politiske saksbehandlingsreglement 3.1 styringsprinsipper.",
+  "vedtak": "Antall kommunestyrerepresentanter reduseres fra 31 til 27 representanter fra perioden 2027 - 2031 i Ørland kommune.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Therese Mossing Eidsaune, Høyre",
+      "tekst": "Antall kommunestyrerepresentanter reduseres fra 31 til 27 representanter fra perioden 2027 - 2031 i Ørland kommune"
+    },
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "Antall kommunestyrerepresentanter beholdes på 31 representanter for perioden 2027 - 2031 i Ørland kommune"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om antall medlemmer i kommunestyret Ørland for perioden 2027-2031",
+      "alternativer": [
+        {
+          "navn": "Therese Mossing Eidsaune (H) sitt forslag - redusere til 27 representanter",
+          "stemmer": 26
+        },
+        {
+          "navn": "Ole Edvard Antonsen (Rødt) sitt forslag - beholde 31 representanter",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "Therese Mossing Eidsaune (H) sitt forslag - redusere til 27 representanter",
+      "roedt_stoettet": "Ole Edvard Antonsen (Rødt) sitt forslag - beholde 31 representanter",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "25/173",
+  "rodt_fremmet_forslag": true
+}

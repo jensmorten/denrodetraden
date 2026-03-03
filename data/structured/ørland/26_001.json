@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og saksliste godkjent uten merknad.",
+  "vedtak": "Innkalling og saksliste ble godkjent med følgende merknader: Kulturinnslag fra Ørland kulturskole, permisjoner som oppgitt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innkalling og saksliste med merknader ble enstemmig vedtatt ved manuell votering.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "22.01.2026",
+  "saksnummer_ps": "26/001",
+  "rodt_fremmet_forslag": false
+}

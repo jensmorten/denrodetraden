@@ -1,0 +1,24 @@
+{
+  "tittel": "Samlesak for referatsaker",
+  "innstilling": "Sakene tas til orientering",
+  "vedtak": "Sakene tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Sakene tas til orientering",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "25/169",
+  "rodt_fremmet_forslag": false
+}

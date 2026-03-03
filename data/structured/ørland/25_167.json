@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og saksliste godkjent uten merknad.",
+  "vedtak": "Innkalling og saksliste ble enstemmig vedtatt med følgende merknad: Kulturinnslag fra Ørland kulturskole. På årets siste kommunestyremøte ble det julesang fra kulturskolen. Vi fikk høre Santa Lucia fra Jul i Svingen. De som fremførte var Lise Cornelia, Mathea, Nathalie, Irene, Tone, Oline, Emma og Linnea. Lærer er Astrid Klara Fagerstrøm Mjøen. Permisjoner/Annet: Ole Petter Grøntvedt V innvilget permisjon fra kl. 12.00. Christer Eik stiller som vara.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av innkalling og saksliste med merknader",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "25/167",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,97 @@
+{
+  "tittel": "Prisbok 2026",
+  "innstilling": "Prisbok 2026 for Ørland kommune vedtas som framlagt",
+  "vedtak": "Prisbok 2026 for Ørland kommune vedtas som framlagt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Utvalg for Industri og Næring",
+      "tekst": "Utvalg for industri og næring tar prisbok 2026 til orientering."
+    },
+    {
+      "forslagsstiller": "Kommunalt råd for mennesker med nedsatt funksjonsevne",
+      "tekst": "Rådet tar prisboka 2026 til orientering, men påpeker at Ørland har særs høye priser på egenandel for praktisk bistand i forhold til andre sammenlignbare kommuner. Rådet oppfordrer til justering av egenandelene."
+    },
+    {
+      "forslagsstiller": "Ungdomsrådet",
+      "tekst": "Ungdomsrådet tar Prisbok 2026 for Ørland kommune til orientering."
+    },
+    {
+      "forslagsstiller": "Eldrerådet",
+      "tekst": "Eldrerådet tar saken til orientering."
+    },
+    {
+      "forslagsstiller": "Planutvalget",
+      "tekst": "Planutvalget tar prisbok 2026 til orientering."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag i Kommunestyre 18.12.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag i Utvalg for helse og familie 19.11.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 5
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    },
+    {
+      "beskrivelse": "Votering over forslag i Planutvalg 18.11.2025",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 2
+        },
+        {
+          "navn": "Nytt forslag",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "Nytt forslag",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    },
+    {
+      "beskrivelse": "Votering over forslag i Formannskap 13.11.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "25/179",
+  "rodt_fremmet_forslag": false
+}

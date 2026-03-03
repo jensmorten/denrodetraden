@@ -1,0 +1,28 @@
+{
+  "tittel": "Tertialrapport 2. tertial 2025",
+  "innstilling": "Kommunestyret tar tertialrapport 2/2025 til orientering.",
+  "vedtak": "Kommunestyret tar tertialrapport 2/2025 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Formannskap - 16.10.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "25/137",
+  "rodt_fremmet_forslag": false
+}

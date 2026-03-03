@@ -1,0 +1,88 @@
+{
+  "tittel": "Brekstad vestre næringsmiddelpark",
+  "innstilling": [
+    "Ørland kommune avslutter sitt arbeid med ny reguleringsplan for 5057201902 Brekstad Vestre Næringsmiddelpark.",
+    "Ørland kommune bidrar i arbeid med permanent dispensasjon for arealet der det tidligere er gitt midlertidig dispensasjon i påvente av reguleringsplan.",
+    "Gjenværende midler avsettes til fremtidig plan- og utviklingsarbeid på Valsneset, Myran og Uthaug."
+  ],
+  "vedtak": [
+    "Ørland kommune avslutter sitt arbeid med ny reguleringsplan for 5057201902 Brekstad Vestre Næringsmiddelpark.",
+    "Ørland kommune bidrar i arbeid med permanent dispensasjon for arealet der det tidligere er gitt midlertidig dispensasjon i påvente av reguleringsplan.",
+    "Gjenværende midler avsettes til fremtidig plan- og utviklingsarbeid på Valsneset, Myran og Uthaug.",
+    "Planutvalget viser også til formannskapets vedtak i sak 25/031 hvor det ble vedtatt at kommunen ønsker å kompensere grunneier for tid og utlegg. Planutvalget påpeker at man om nødvendig må være villig til å vise skjønn i forhold til utmåling av kompensasjon da det kan være utfordrende for grunneier å dokumentere alt av tidsbruk.",
+    "Det aktuelle arealet (område hvor Hall 4 var planlagt) skal ryddes og tilbakeføres slik det var før det ble brukt som deponering av masse.",
+    "Kommunen bør ta en aktiv rolle i dette arbeidet."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tonje Bakken Nervik, Senterpartiet",
+      "tekst": "Planutvalget viser også til formannskapets vedtak i sak 25/031 hvor det ble vedtatt at kommunen ønsker å kompensere grunneier for tid og utlegg. Planutvalget påpeker at man om nødvendig må være villig til å vise skjønn i forhold til utmåling av kompensasjon da det kan være utfordrende for grunneier å dokumentere alt av tidsbruk. Det aktuelle arealet (område hvor Hall 4 var planlagt) skal ryddes og tilbakeføres slik det var før det ble brukt som deponering av masse. Kommunen bør ta en aktiv rolle i dette arbeidet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 3",
+            "MDG 1",
+            "Rødt 1",
+            "SP 6",
+            "SV 1",
+            "UAVHENGIG 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag - Tilleggsforslag fra planutvalget",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 2",
+            "MDG 1",
+            "Rødt 1",
+            "SP 6",
+            "SV 1",
+            "UAVHENGIG 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "INP 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "25/138",
+  "rodt_fremmet_forslag": false
+}

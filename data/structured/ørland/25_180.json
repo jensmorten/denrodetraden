@@ -1,0 +1,109 @@
+{
+  "tittel": "Prisbok for kultur og idrett 2026",
+  "innstilling": "Prisbok for kultur og idrett i Ørland kommune for 2026 vedtas som fremlagt",
+  "vedtak": "Formannskapet vedtar prisboken som den ligger, men ber om at den sendes på høring til relevante brukere som idrettsråd o.l før behandling i kommunestyret.\nØrland kommune viderefører studentrabatt og innfører rabatt for personer med velferdspass ved bruk av kommunale anlegg som svømmehall og ishall, samt eventuelt andre relevante kultur- og fritidstilbud.\nTillegget utredes av kommunedirektøren i januarmøtet 2026.\nØrland kommune innfører et svømmeløft med gratis inngang i svømmehall for barn i siste år i barnehage og 4. trinn, i følge med minst en betalende voksen.\nTillegget utredes av kommunedirektøren i januarmøtet 2026.\nKommunestyret ber kommunedirektøren legge fram en sak for kommunestyret som utreder de økonomiske konsekvensene av Idrettsrådets innspill og en heving av kvaliteten på tjenestetilbudet i Bjugnhallen i februarmøtet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Oda Kristine Leth-Jøssing, Miljøpartiet De Grønne",
+      "tekst": "Ørland kommune viderefører studentrabatt og innfører rabatt for personer med velferdspass ved bruk av kommunale anlegg som svømmehall og ishall, samt eventuelt andre relevante kultur- og fritidstilbud. Tillegget utredes av kommunedirektøren i januarmøtet 2026."
+    },
+    {
+      "forslagsstiller": "Oda Kristine Leth-Jøssing, Miljøpartiet De Grønne",
+      "tekst": "Ørland kommune innfører et svømmeløft med gratis inngang i svømmehall for barn i siste år i barnehage og 4. trinn, i følge med minst en betalende voksen. Tillegget utredes av kommunedirektøren i januarmøtet 2026."
+    },
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "Kommunestyret ber kommunedirektøren legge fram en sak for kommunestyret som utreder de økonomiske konsekvensene av Idrettsrådets innspill og en heving av kvaliteten på tjenestetilbudet i Bjugnhallen i februarmøtet."
+    },
+    {
+      "forslagsstiller": "Fredrik Sandness, Arbeiderpartiet",
+      "tekst": "Formannskapet vedtar prisboken som den ligger, men ber om at den sendes på høring til relevante brukere som idrettsråd o.l før behandling i kommunestyret. Investeringsbehov fra Roret oversendes gruppelederne i forbindelse med budsjett 2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Sosiale og inkluderende rabatter",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Svømmeløft for barn",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Idrettsrådets innspill",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 28
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Formannskap - 04.12.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Formannskapets votering over nytt forslag fra Fredrik Sandness (AP)",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 0
+        },
+        {
+          "navn": "Nytt forslag",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "Nytt forslag",
+      "roedt_stoettet": null,
+      "roedt_side": "ukjent"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "25/180",
+  "rodt_fremmet_forslag": true
+}

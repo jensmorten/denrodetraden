@@ -1,0 +1,91 @@
+{
+  "tittel": "Budsjett 2026 og økonomiplan 2027 - 2035",
+  "innstilling": [
+    "Kommunedirektørens budsjettforslag for 2026 vedtas som framlagt",
+    "Ordførers godtgjøring settes til 100% av stortingsrepresentants lønn og varaordførers godtgjøring fastsettes til 80 % av stortingsrepresentants lønn i 50% stilling",
+    "Låneopptak: Det opptas inntil kr 153 000 000 til investeringer og kr 35 000 000 til startlån",
+    "Skattøret fastsettes til maksimalsatsen"
+  ],
+  "vedtak": [
+    "Flertallets budsjettforslag for 2026 vedtas som framlagt",
+    "Økonomiplan 2027 til 2035 justeres i henhold til vedlagte budsjett",
+    "Ordførers godtgjøring settes til 100% av stortingsrepresentants lønn og varaordførers godtgjøring fastsettes til 80 % av stortingsrepresentants lønn i 50% stilling",
+    "Låneopptak: Det opptas inntil kr 153 000 000 til investeringer og kr 35 000 000 til startlån",
+    "Skattøret fastsettes til maksimalsatsen",
+    "Disposisjonsfondet må justeres i økonomiplanperioden slik at kravet til balanse opprettholdes for det enkelte år"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Fredrik Sandness, Arbeiderpartiet (og samarbeidspartier Rødt, SV, MDG)",
+      "tekst": "Endringsforslag budsjett 2026 og økonomiplan 2027-2035 med fokus på å unngå eiendomsskatt i drifta, sette store investeringer på vent, øke vedlikeholdsbudsjetter, evaluere lederstruktur for flatere organisasjon, bygge opp fond over tid, styrke barnehage og helse, og prioritere nedbetaling av gjeld. Inkluderer verbalforslag om evaluering av lederstruktur, byggekomite, prosjekter for barnehage og skole, reduksjon i konsulentbruk, og økt grunnbemanning i helse."
+    },
+    {
+      "forslagsstiller": "Eirik Lundemo, Høyre (flertallet)",
+      "tekst": "Flertallets budsjettforslag for 2026 med fokus på nøktern og bærekraftig økonomisk politikk, innstramminger på flere budsjettposter, behovsprøvd ansettelses- og innkjøpsstopp, gjennomgang av stillinger for riktig kompetanse, reduksjon i bygningsmasse, samordning av tjenester, satsing på digitalisering og effektivisering, og tiltak for å redusere sykefravær. Inkluderer verbalforslag om tiltak for Kirkelig fellesråd, næringsutvikling, og bosettingsordninger for ansatte på kaserne."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Innstilling fra Formannskap 13.11.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 0
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 1",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "UAVHENGIG 2",
+            "V 1"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over endringsforslag budsjett 2026 og økonomiplan 2027-2035 (ENF)",
+      "alternativer": [
+        {
+          "navn": "ENF - Endringsforslag budsjett 2026 og økonomiplan 2027-2035",
+          "stemmer": 11,
+          "partier": [
+            "AP 8",
+            "MDG 1",
+            "Rødt 1",
+            "SV 1"
+          ]
+        },
+        {
+          "navn": "TIL - Forslag til alternativt budsjett for 2026 flertallet",
+          "stemmer": 19,
+          "partier": [
+            "FRP 2",
+            "H 6",
+            "INP 1",
+            "SP 7",
+            "UAVHENGIG 2",
+            "V 1"
+          ]
+        }
+      ],
+      "hvem_vant": "TIL - Forslag til alternativt budsjett for 2026 flertallet",
+      "roedt_stoette": "ENF - Endringsforslag budsjett 2026 og økonomiplan 2027-2035",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "25/181",
+  "rodt_fremmet_forslag": true
+}

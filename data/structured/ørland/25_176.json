@@ -1,0 +1,64 @@
+{
+  "tittel": "Saldering 3 investering",
+  "innstilling": "Investeringsbudsjettet salderes som følger:\nReduserte investering i anleggsmidler (tabell 1) , kr -163 055 000\nProsjekt med behov for tilleggsbevilgning (tabell 2), kr 7 137 000\nFinansiering:\nRedusert momskompensasjon (tabell 1), kr 3 161 000\nØkt momskompensasjon (tabell 2), kr -260 000\nRedusert bruk av lån (tabell 1), kr 159 894 000\nØkt bruk av lån (tabell 2), kr -6 877 000\nJustering av investeringsbudsjett 2025, jf. tabell 3 og 4, vedtas som framlagt.",
+  "vedtak": "Investeringsbudsjettet salderes som følger:\nReduserte investering i anleggsmidler (tabell 1) , kr -163 055 000\nProsjekt med behov for tilleggsbevilgning (tabell 2), kr 7 137 000\nFinansiering:\nRedusert momskompensasjon (tabell 1), kr 3 161 000\nØkt momskompensasjon (tabell 2), kr -260 000\nRedusert bruk av lån (tabell 1), kr 159 894 000\nØkt bruk av lån (tabell 2), kr -6 877 000\nJustering av investeringsbudsjett 2025, jf. tabell 3 og 4, vedtas som framlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Kommunestyre 18.12.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 1",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "UAVHENGIG 2",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag - Formannskap 04.12.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 6,
+          "partier": [
+            "AP 2",
+            "H 2",
+            "INP 1",
+            "SP 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "25/176",
+  "rodt_fremmet_forslag": false
+}

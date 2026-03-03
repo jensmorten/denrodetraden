@@ -1,0 +1,70 @@
+{
+  "tittel": "Eiendomsskatt 2026",
+  "innstilling": [
+    "1. Det skal skrives ut eiendomsskatt på fast eiendom i hele kommunen i 2026 jf. eiendomsskatteloven §§ 2 og 3 bokstav a).",
+    "2. Den generelle skattesatsen som skal gjelde for de skattepliktige eiendommer settes til 7 promille.",
+    "3. I medhold av eiendomsskatteloven § 13 andre ledd differensieres satsene ved at den skattesats som skal gjelde for boliger og fritidseiendommer settes til 1 promille.",
+    "4. I medhold av eiendomsskatteloven § 7 bokstav b fritas bygning som har historisk verdi for eiendomsskatt.",
+    "5. For skatteåret 2026 skal det gis fritak for eiendommer iht. eiendomsskatteloven § 7 bokstav a). Følgende skal fritas:",
+    "   a. Fylkeskommunale skoler",
+    "   b. Idrettsanlegg og – haller",
+    "   c. Eiendom tilhørende følgende frivillige organisasjoner: (vedlagt oversikt)",
+    "   d. Eiendom tilhørende andre stiftelser/organisasjoner vil bli vurdert fritatt av kommunestyret på grunnlag av søknad.",
+    "6. For utskriving av skatt på boligeiendommer benytter kommunen Skatteetatens formuesgrunnlag for de boliger hvor dette er beregnet (esktl. § 8 C-1).",
+    "7. Eiendomsskatten skal betales i to terminer"
+  ],
+  "vedtak": [
+    "Forslaget om eiendomsskatt må ses i sammenheng med budsjett 2026.",
+    "1. Det skal skrives ut eiendomsskatt i kommunen i 2026 jf. eiendomsskatteloven §2 og §3 bokstav c).",
+    "2. Den generelle skattesatsen som skal gjelde for de skattepliktige eiendommer settes til 7 promille.",
+    "3. Eiendomsskatten skal betales i to terminer"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ørland Høyre, Mona Sjøli",
+      "tekst": "Ørland kommunestyre vedtar å støtte kommunedirektøren sin innstilling i saken Eiendomsskatt 2026.\n1. Det skal skrives ut eiendomsskatt på fast eiendom i hele kommunen i 2026 jf. eiendomsskatteloven §§ 2 og 3 bokstav a).\n2. Den generelle skattesatsen som skal gjelde for de skattepliktige eiendommer settes til 7 promille.\n3. I medhold av eiendomsskatteloven § 13 andre ledd differensieres satsene ved at den skattesats som skal gjelde for boliger og fritidseiendommer settes til 1 promille.\n4. I medhold av eiendomsskatteloven § 7 bokstav b fritas bygning som har historisk verdi for eiendomsskatt.\n5. For skatteåret 2026 skal det gis fritak for eiendommer iht. eiendomsskatteloven § 7 bokstav a). Følgende skal fritas:\na. Fylkeskommunale skoler\nb. Idrettsanlegg og – haller\nc. Eiendom tilhørende følgende frivillige organisasjoner: (vedlagt oversikt)\nd. Eiendom tilhørende andre stiftelser/organisasjoner vil bli vurdert fritatt av kommunestyret på grunnlag av søknad.\n6. For utskriving av skatt på boligeiendommer benytter kommunen Skatteetatens formuesgrunnlag for de boliger hvor dette er beregnet (esktl. § 8 C-1).\n7. Eiendomsskatten skal betales i to terminer"
+    },
+    {
+      "forslagsstiller": "Fredrik Sandness, Arbeiderpartiet",
+      "tekst": "Forslaget om eiendomsskatt må ses i sammenheng med budsjett 2026.\n1. Det skal skrives ut eiendomsskatt i kommunen i 2026 jf. eiendomsskatteloven §2 og §3 bokstav c).\n2. Den generelle skattesatsen som skal gjelde for de skattepliktige eiendommer settes til 7 promille.\n3. Eiendomsskatten skal betales i to terminer"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag til vedtak på vegne av Ørland Høyre",
+      "alternativer": [
+        {
+          "navn": "TIL - Forslag til vedtak på vegne av Ørland Høyre",
+          "stemmer": 7
+        },
+        {
+          "navn": "Innstilling fra Formannskap",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Innstilling fra Formannskap",
+      "roedt_stoette": "Innstilling fra Formannskap",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag i Formannskap 13.11.2025",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 0
+        },
+        {
+          "navn": "Nytt forslag, foreslått av Fredrik Sandness, Arbeiderpartiet",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "Nytt forslag, foreslått av Fredrik Sandness, Arbeiderpartiet",
+      "roedt_stoette": "Nytt forslag, foreslått av Fredrik Sandness, Arbeiderpartiet",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "25/178",
+  "rodt_fremmet_forslag": false
+}

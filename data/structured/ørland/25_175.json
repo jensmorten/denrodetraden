@@ -1,0 +1,76 @@
+{
+  "tittel": "Søknad om støtte til kunstbok",
+  "innstilling": "Saken legges fram uten innstilling.",
+  "vedtak": "Flertallet i Kommunestyret sa nei til foreslåtte innstilling fra formannskapet. Forslaget falt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Britt Eli Døsvik, Senterpartiet",
+      "tekst": "Formannskapet innvilger søknaden på kr 70 000 til bok om Aud Lillengen. Pengene tas fra disposisjonsfond."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Innstilling fra Formannskap - 04.12.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 10,
+          "partier": [
+            "FRP 1",
+            "H 4",
+            "INP 1",
+            "MDG 1",
+            "SP 2",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 20,
+          "partier": [
+            "AP 8",
+            "FRP 1",
+            "H 2",
+            "Rødt 1",
+            "SP 5",
+            "SV 1",
+            "UAVHENGIG 2"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag - Forslag til vedtak fra Britt Eli Døsvik (SP) i Formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 4,
+          "partier": [
+            "H 1",
+            "INP 1",
+            "SP 1",
+            "H (dobbeltstemme) 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3,
+          "partier": [
+            "AP 2",
+            "H 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Ikke oppgitt (Rødt ikke nevnt som stemmegiver)",
+      "roedt_side": "ikke relevant"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "25/175",
+  "rodt_fremmet_forslag": false
+}
