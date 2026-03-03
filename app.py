@@ -167,7 +167,7 @@ if analyse_knapp:
         st.success(f"Fant {len(cases)} saker.")
 
         for case in cases:
-            st.subheader("Saksnummer" {case["ps"]})
+            st.subheader(f"Saksnummer {case["ps"]}")
 
             with st.spinner("Søker lignende saker..."):
                 resultat = search_similar_cases(
