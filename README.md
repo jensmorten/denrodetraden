@@ -1,4 +1,4 @@
-# denrodetraden
+# Den Røde Tråden
 AI for koordinering av kommunestyresaker til bruk av Rødt
 
 Teknisk løsning
