@@ -27,7 +27,7 @@ st.markdown("Appen søker i en database med saker som per idag inneholder behand
 
 kommune = st.selectbox(
     "Velg kommune saken du laster opp er henta fra",
-    ["Malvik", "Melhus", "Stjørdal", "Trondheim", "Levanger", "Orkland", "Ørland", "Værdal", "Orkland"]
+    ["Malvik", "Melhus", "Stjørdal", "Trondheim", "Levanger", "Orkland", "Ørland", "Verdal", "Orkland"]
 )
 
 uploaded_file = st.file_uploader(
