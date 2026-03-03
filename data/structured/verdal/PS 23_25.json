@@ -1,0 +1,44 @@
+{
+  "tittel": "PS 23/25 Oppfølging av ekstern gjennomgang helse- og velferd",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Kommunestyret tar saken til orientering.",
+    "Kommunestyret vurderer at det framover er tilstrekkelig med kvartalsvis muntlig orientering til UML."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "SP v/Larsen",
+      "tekst": "Kommunestyret vurderer at det framover er tilstrekkelig med kvartalsvis muntlig orientering til UML."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra SP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Tilleggsforslag fra SP",
+      "roedt_stoettet": "Tilleggsforslag fra SP",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "31.03.2025",
+  "saksnummer_ps": "PS 23/25",
+  "rodt_fremmet_forslag": false
+}

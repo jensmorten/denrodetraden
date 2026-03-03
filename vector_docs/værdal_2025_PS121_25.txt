@@ -1,8 +1,0 @@
-METADATA:
-kommune: værdal
-year: 2025
-saksnummer: PS 121/25
-rodt_fremmet: False
----
-
-Tittel: PS 121/25 Orientering

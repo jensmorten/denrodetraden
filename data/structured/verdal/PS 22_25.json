@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 22/25 Oppfølging av økonomiplan 2025-2028 og budsjett 2025 - Helse",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Kommunestyret tar saken til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "31.03.2025",
+  "saksnummer_ps": "PS 22/25",
+  "rodt_fremmet_forslag": false
+}
