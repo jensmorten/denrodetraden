@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2026
+saksnummer: PS 5/26
+rodt_fremmet: False
+---
+
+Tittel: Sak 5/2026
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

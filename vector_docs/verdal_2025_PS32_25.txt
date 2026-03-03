@@ -1,0 +1,8 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 32/25
+rodt_fremmet: False
+---
+
+Tittel: PS 32/25 Orientering

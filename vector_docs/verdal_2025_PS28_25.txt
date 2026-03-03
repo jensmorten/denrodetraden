@@ -1,0 +1,22 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 28/25
+rodt_fremmet: False
+---
+
+Tittel: PS 28/25 Evaluere SFO tilbudet Verdal kommune
+
+Vedtak:
+1. Saken tas til orientering.
+2. Saksopplysningene brukes som kunnskapsgrunnlag i utredningen av skole/SFO/VO jf. vedtak i politisk sak 129/2024.
+
+Alternative forslag:
+- AP v/Fredrik Grevskott: Saksopplysninger brukes som kunnskapsgrunnlag hvor kulepunkt 2 og 3 i konklusjon utredes i utredningen av skole/SFO/VO jf. Vedtak i politisk sak 129/2024.
+
+Voteringer:
+- Votering på formannskapets innstilling pkt. 1
+  - Formannskapets innstilling pkt. 1: enstemmig
+- Votering på formannskapets innstilling pkt. 2 alternativt mot forslaget fra AP
+  - Formannskapets innstilling pkt. 2: 22 stemmer
+  - Forslaget fra AP: 13 stemmer

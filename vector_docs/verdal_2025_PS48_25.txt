@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 48/25
+rodt_fremmet: False
+---
+
+Tittel: Ny vurdering om å innføre MOT som tiltak i grunnskolene i Verdal
+
+Vedtak:
+MOT innføres ikke som tiltak i grunnskolene i Verdal, fordi kommunen jobber med flere nasjonale føringer og forebyggende tiltak i Verdalsmodellen og i oppfølgingen av forebyggende plan.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

@@ -1,0 +1,36 @@
+{
+  "tittel": "Sak 3/2026 - Ferdigstilling av prosjektet «ny politistasjon»",
+  "innstilling": "Formannskapets innstilling om bevilgning til ferdigstilling av prosjektet «ny politistasjon».",
+  "vedtak": "Det bevilges inntil 115 MNOK til ferdigstilling av prosjektet «ny politistasjon». Investeringen finansieres ved låneopptak.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for Oddleiv Aksnes",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.01.2026",
+  "saksnummer_ps": "PS 3/26",
+  "rodt_fremmet_forslag": false
+}

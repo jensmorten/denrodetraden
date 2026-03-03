@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 116/25
+rodt_fremmet: False
+---
+
+Tittel: PS 116/25 Forvaltningsrevisjon økonomisk bærekraft - rapport
+
+Vedtak:
+
+
+Voteringer:
+- Votering over kontrollutvalgets innstilling
+  - For kontrollutvalgets innstilling: enstemmig

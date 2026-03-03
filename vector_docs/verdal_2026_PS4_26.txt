@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2026
+saksnummer: PS 4/26
+rodt_fremmet: False
+---
+
+Tittel: Sak 4/2026
+
+Vedtak:
+Saken utsettes.
+
+Voteringer:
+- Votering over utsettelsesforslaget fra ordfører
+  - For utsettelse: enstemmig

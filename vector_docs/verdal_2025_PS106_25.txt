@@ -1,0 +1,21 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 106/25
+rodt_fremmet: False
+---
+
+Tittel: PS 106/25 Oppfølging av politisk vedtak i PS 76/2025 - opptak barnehager
+
+Vedtak:
+Kommunestyret ber om sak som belyser muligheten for å øke kapasiteten i barnehagene i Verdal, både private og kommunale.
+Kommunestyret ser at det er et handlingsrom når det gjelder fordeling av plasser mellom private og kommunale, og forutsetter at man er fleksibel ovenfor private barnehager som har mulighet til å ta inn barn.
+
+Alternative forslag:
+- Einar Olav Larsen (SP): 1. Kommunestyret ber om sak som belyser muligheten for å øke kapasiteten i barnehagene i Verdal, både private og kommunale.
+2. Kommunestyret ser at det er et handlingsrom når det gjelder fordeling av plasser mellom private og kommunale, og forutsetter at man er fleksibel ovenfor private barnehager som har mulighet til å ta inn barn.
+
+Voteringer:
+- Alternativ votering mellom formannskapets innstilling og forslag fra SP
+  - Forslaget fra SP: 21 stemmer
+  - Formannskapets innstilling: 14 stemmer

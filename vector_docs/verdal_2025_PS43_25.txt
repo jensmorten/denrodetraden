@@ -1,0 +1,8 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 43/25
+rodt_fremmet: False
+---
+
+Tittel: PS 43/25 Fredrik Grevskott (AP) - Spørsmål til ordfører om eierutbytte NTE

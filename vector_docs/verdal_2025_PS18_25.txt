@@ -1,0 +1,23 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 18/25
+rodt_fremmet: False
+---
+
+Tittel: PS 18/25 Lovlighetskontroll av vedtak i sak PS 10/2025 - Forskrift om skolekretsgrenser i Verdal kommune
+
+Vedtak:
+Vedtak i sak PS 10/2025 opprettholdes.
+Saken med alle vedlegg, sendes til Statsforvalter for lovlighetskontroll av vedtaket.
+Kommunestyret ber Statsforvalteren vurdere sin habilitet, da Stasforvalteren har vært inne i saken.
+
+Alternative forslag:
+- H, SP, VDL og FRP (fremmet av Hilde Daleng (SP)): Vedtak i sak PS 10/2025 opprettholdes.
+Saken med alle vedlegg, sendes til Statsforvalter for lovlighetskontroll av vedtaket.
+Kommunestyret ber Statsforvalteren vurdere sin habilitet, da Stasforvalteren har vært inne i saken.
+
+Voteringer:
+- Alternativ votering mellom kommunedirektørens forslag til vedtak og forslaget fra H, SP, VDL og FRP
+  - Forslaget fra H, SP, VDL og FRP: 28 stemmer
+  - Kommunedirektørens forslag til vedtak: 7 stemmer

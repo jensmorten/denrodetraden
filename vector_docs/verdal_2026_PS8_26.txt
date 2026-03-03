@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2026
+saksnummer: PS 8/26
+rodt_fremmet: False
+---
+
+Tittel: Sak 8/2026 - Kjøp av aksjer i Tindved Kulturhage AS
+
+Vedtak:
+Verdal kommune aksepterer Proneo AS sitt fremlagte tilbud om kjøp av 100% av aksjene i Tindved Kulturhage AS til et samlet beløp på kr. 100.000,-. Kommunedirektøren gis fullmakt til å signere aksjekjøpsavtale på vegne av selger Verdal kommune.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

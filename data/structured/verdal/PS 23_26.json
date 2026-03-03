@@ -1,0 +1,33 @@
+{
+  "tittel": "Interpellasjon fra Geir Singstad (AP) - Kristningsjubileet 2030",
+  "innstilling": null,
+  "vedtak": "Ved votering falt oversendelsesforslag med 20 mot 10 stemmer (AP).",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Geir Singstad (AP)",
+      "tekst": "Kommunestyret i Verdal ber formannskapet ta initiativ til å:\n1. Følge opp jubileumsorganisasjonen for kristningsjubileet 2030 med sikte på å sikre historisk bredde og faglig kvalitet i markeringen, herunder arbeide for at Den katolske kirke gis egen og likestilt representasjon i jubileumssekretariatet for kristningsjubileet 2030, på linje med Den norske kirke, og rapportere dette tilbake til kommunestyret.\n2. Utrede og legge fram en sak for kommunestyret om en langsiktig strategi for Stiklestad etter 2030, med mål om å utvikle Stiklestad som et varig møtested for økumenikk, fred, forsoning og dialog mellom religioner og trosretninger, i samarbeid med relevante kirkelige, kulturelle og statlige aktører.\n3. Vurdere, i samarbeid med relevante kirkelige og statlige myndigheter, en formell invitasjon til pave Leo om å delta i markeringen på Stiklestad 29. juli 2030, som del av en internasjonal og historisk forankret markering av kristningen av Norge."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over oversendelsesforslag fra Geir Singstad (AP) om oppfølging av jubileumsorganisasjonen, langsiktig strategi for Stiklestad og vurdering av formell invitasjon til pave Leo.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 10
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 23/26",
+  "rodt_fremmet_forslag": false
+}

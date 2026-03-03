@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 64/25
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av møteprotokoll
+
+Vedtak:
+Protokoll fra møte 23. juni 2025 godkjennes.
+
+Voteringer:
+- Votering over ordførers forslag til vedtak om godkjenning av protokoll fra møte 23. juni 2025
+  - For: enstemmig

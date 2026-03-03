@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 60/25
+rodt_fremmet: False
+---
+
+Tittel: Vurdering av inntreden i Trondheimsalliansen IPR for Verdal kommune
+
+Vedtak:
+Verdal kommune er positiv til å slutte seg til Trondheimsalliansen, under de forutsetninger som framkommer i denne saken. Ordfører får fullmakt til å sende en søknad om tiltreden. Tiltredelse skjer så fort det foreligger en revidert samarbeidsavtale som er politisk vedtatt i alle deltakerkommuner.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

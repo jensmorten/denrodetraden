@@ -1,0 +1,25 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 66/25
+rodt_fremmet: False
+---
+
+Tittel: PS 66/25 Nye Stiklestad skole - Utvikling av uteområder i samarbeid med idretten
+
+Vedtak:
+Opprinnelig prosjektert 7-er-banen ved Nye Stiklestad skole gjennomføres som planlagt.
+Det utredes at kunstgressdekke på 7'erbanen blir oppgradert til fotballdekke beregnet for fotballsko.
+
+Alternative forslag:
+- Jonas S. Tanem (SP): Alternativ C er med kommunestyrets vedtak fram til endelig beslutning.
+
+Voteringer:
+- Votering på Formannskapets innstilling pkt. 1
+  - For: 35 stemmer
+- Votering på Formannskapets innstilling pkt. 2
+  - For: 23 stemmer
+  - Mot: 12 stemmer
+- Votering på forslag fra Jonas S. Tanem (SP)
+  - For: 8 stemmer
+  - Mot: 27 stemmer

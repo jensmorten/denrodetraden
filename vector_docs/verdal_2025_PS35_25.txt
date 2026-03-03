@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 35/25
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding 2025 Rådet for likestilling av funksjonshemmede
+
+Vedtak:
+Årsmelding for rådet for likestilling av funksjonshemmede 2024 tas til orientering.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

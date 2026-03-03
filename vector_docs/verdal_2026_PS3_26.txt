@@ -1,0 +1,17 @@
+METADATA:
+kommune: verdal
+year: 2026
+saksnummer: PS 3/26
+rodt_fremmet: False
+---
+
+Tittel: Sak 3/2026 - Ferdigstilling av prosjektet «ny politistasjon»
+
+Vedtak:
+Det bevilges inntil 115 MNOK til ferdigstilling av prosjektet «ny politistasjon». Investeringen finansieres ved låneopptak.
+
+Voteringer:
+- Votering om habilitet for Oddleiv Aksnes
+  - Inhabil: enstemmig
+- Votering om formannskapets innstilling
+  - Formannskapets innstilling: enstemmig

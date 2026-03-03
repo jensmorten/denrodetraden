@@ -1,0 +1,13 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 121/25
+rodt_fremmet: False
+---
+
+Tittel: PS 121/25 Orientering
+
+Voteringer:
+- Vurdering av ordførers beslutning om ikke å ta opp forslag til vedtak fra representant Larsen til votering i kommunestyret, og oversendelse av saken til Statsforvalteren for lovlighetskontroll.
+  - Opprettholde ordførers beslutning: ukjent
+  - Ta opp forslag til vedtak til votering: ukjent

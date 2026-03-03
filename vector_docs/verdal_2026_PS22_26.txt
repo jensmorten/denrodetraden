@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2026
+saksnummer: PS 22/26
+rodt_fremmet: False
+---
+
+Tittel: Kontrollutvalgets årsrapport 2025
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsrapport 2025 til orientering.
+
+Voteringer:
+- Votering over kontrollutvalgets innstilling
+  - For: enstemmig

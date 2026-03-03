@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 11/25
+rodt_fremmet: False
+---
+
+Tittel: PS 11/25 Revidert samarbeidsavtale mellom kommunene og Helse Nord-Trøndelag
+
+Vedtak:
+Verdal kommune vedtar revidert samarbeidsavtale mellom Helse Nord-Trøndelag og kommunene i nordre Trøndelag med tilhørende avtaler/ retningslinjer jf. vedlegg. Den reviderte avtalen erstatter tidligere inngått avtale.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

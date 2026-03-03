@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 95/25
+rodt_fremmet: False
+---
+
+Tittel: Innbyggerforslag - Oppholdstid basert på behov i barnehage og SFO
+
+Vedtak:
+Kommunestyret tar innbyggerforslaget til orientering.
+Kommunestyret deler forslagsstillers bekymring når det gjelder bemanning/rekrutteringsutfordringer i barnehage og SFO, og økt sykefravær i barnehage.
+
+Voteringer:
+- Ved votering ble forslag til vedtak enstemmig vedtatt.
+  - Forslag til vedtak: enstemmig

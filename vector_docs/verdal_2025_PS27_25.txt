@@ -1,0 +1,17 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 27/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om arrangementsstøtte til NM i snøscootercross 2025
+
+Vedtak:
+Verdal kommune stiller seg positiv til søknaden om støtte til NM i snøscootercross fra NMK Verdal og Levanger.
+NMK Verdal og Levanger innvilges kr 35 000 i arrangementsstøtte. Beløpet dekkes ved bruk av disposisjonsfond.
+Kommunedirektøren får fullmakt til å gjøre de nødvendige budsjettreguleringer.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

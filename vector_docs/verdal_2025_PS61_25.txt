@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 61/25
+rodt_fremmet: False
+---
+
+Tittel: PS 61/25 Verdal Fjellstyre - Regnskap og årsmelding for 2024
+
+Vedtak:
+Kommunestyret tar Fjellstyrets regnskap for 2024 til orientering.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

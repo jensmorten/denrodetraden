@@ -1,0 +1,62 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 110/25
+rodt_fremmet: False
+---
+
+Tittel: PS 110/25 Investeringer/gebyrer innenfor vann/avløpssektoren i perioden 2026 - 2029
+
+Vedtak:
+1. For å unngå for store gebyrøkninger i årene framover avsettes det i perioden 2026-2029:
+• 12 mill.kr. årlig til investeringer vannforsyning
+• 13,5 mill.kr til investeringer avløpsformål.
+• Investeringer til utbedring av tak/ventilkammer gammelbasseng Hallia og høydebasseng Ulvilla/Vuku kommer i tillegg.
+• Avskrivningstid for nytt Hallemsåsen vannrenseanlegg settes til 30 år.
+Avskrivningstid for ledningsanlegg vann/avløp settes til 50 år. Avskrivningstid på investeringer avløpsrenseanlegg settes til 20 år.
+• Innenfor vann/avløpssektoren prioriteres følgende anlegg i kommende økonomiplanperiode 2026-2029.
+Vannforsyning:
+2026:
+Nytt høydebasseng Ulvilla/Vuku
+Utbedring gamle høydebasseng Hallia (Nytt tak og ventilkammer)
+Sanering av vannledningsnett Prærien/Garpa, planlegging
+Mulig utskifting av eternittledning Fleskhus-Minsaas, samarbeid med Inderøy kommune. Evt. avtale vil bli politisk behandlet i egen sak.
+Div. småprosjekter inv.vann.
+2027:
+Sanering av vannledningsnett Prærien/Garpa
+Nytt høydebasseng Vuku/Ulvilla
+Mulig utskifting av eternittledning Fleskhus-Minsaas, samarbeid med Inderøy kommune. Evt. avtale vil bli politisk behandlet i egen sak.
+Div. småprosjekter investering vann
+2028:
+Sanering av vannledningsnett Ørmelen (planlegging)
+Sanering av vannledningsnett Prærien/Garpa
+Planlegging av utskifting vannledning Rindsemvegen og Valborgvegen, Vinne.
+Div. småprosjekt inv.vann
+2029:
+Sanering av vannledningsnett Ørmelen
+Utskifting av vannledning Rindsemvegen, Vinne – Rindsem mølle samt utskifting av eternitt Valborgvegen
+Div. småprosjekter inv.vann.
+Avløp:
+2026:
+Sanering av avløpsnett Prærien/Garpa, planlegging
+Rehabilitering/bygging av ny Ness kloakkpumpestasjon.
+Mulig legging av ny kloakk pumpeledning Fleskhus – Minsaas i samarbeid med Inderøy kommune
+Div. småprosjekter avløp
+2027:
+Sanering av avløpsnett Prærien/Garpa, anlegg
+Mulig legging av ny kloakk pumpeledning Fleskhus – Minsaas i samarbeid med Inderøy kommune
+Div småprosjekter avløp
+2028:
+Sanering av avløpsnett Prærien/Garpa, anlegg
+Planlegging av sanering av avløpsnett Ørmelen
+Planlegging av nytt avløpsanlegg Vinne (Shell-Hallbakkan)
+Div småprosjekter avløp
+2029:
+Sanering av avløpsnett Ørmelen.
+Bygging av nytt avløpsanlegg Valborgvegen-Hallbakkan
+Div småprosjekter avløp
+• Investeringsplan vann/avløp revideres årlig
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

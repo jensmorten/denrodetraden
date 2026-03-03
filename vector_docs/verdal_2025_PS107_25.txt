@@ -1,0 +1,45 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 107/25
+rodt_fremmet: False
+---
+
+Tittel: PS 107/25 Oppfølging av politisk vedtak - PS 90/2025
+
+Vedtak:
+1. Kommunestyret godkjenner at kommunedirektørens forslag til brev beskrevet i konklusjonen i saksframlegget, med følgende tillegg:
+
+Tillegg spørsmål 1 i saksfremlegg (brevet)
+Er det riktig forståelse at kapasitet først kan tas med i vurderingen når en skole er full når en kommune skal fastsette forskrift for skolekretsgrenser for bo-områdene i en kommune?
+Pkt 1.
+Kan kommunen vekte faktorer som elevenes tilhørighet til nærmiljøet, fritidstilbud, topografi og trafikkforhold tyngre enn korteste reisevei når forskjellen i reisevei er liten?
+Hva anses eventuelt da som "liten" forskjell i reisevei, og kan dette defineres nærmere i antall kilometer eller minutter?
+Pkt 2
+Vil svar fra Statsråd i spørretime dato xxx omkring opplæringslov og nærskoleprinsipp endre eller påvirke praksis hos statsforvalter i behandling av kommunale vedtak knyttet til forskrift om skolekretsgrenser .
+Referanse: lenke /video spørretime
+2. Kommunedirektøren sendere brevet til Utdanningsdirektoratet for en skriftlig avklaring.
+
+Alternative forslag:
+- SP v/Hilde Daleng: Saken utsettes i påvente av at virkning av svaret fra Kunnskapsminister blir kjent.
+- H v/Oddleiv Aksnes: Kan kommunen vekte faktorer som elevenes tilhørighet til nærmiljøet, fritidstilbud, topografi og trafikkforhold tyngre enn korteste reisevei når forskjellen i reisevei er liten? Hva anses eventuelt da som "liten" forskjell i reisevei, og kan dette defineres nærmere i antall kilometer eller minutter?
+
+Voteringer:
+- Votering på SP v/Hilde Daleng sitt utsettelsesforslag
+  - For utsettelsesforslaget: 13 stemmer
+  - Mot utsettelsesforslaget: 22 stemmer
+- Votering 1.0 - Formannskapets innstilling
+  - For innstillingen: 28 stemmer
+  - Mot innstillingen: 7 stemmer
+- Votering 1.1 - Formannskapets innstilling
+  - For innstillingen: 6 stemmer
+  - Mot innstillingen: 29 stemmer
+- Votering 1.2 - Formannskapets innstilling
+  - For innstillingen: 29 stemmer
+  - Mot innstillingen: 6 stemmer
+- Votering 1.1 - Høyres forslag
+  - For Høyres forslag: 27 stemmer
+  - Mot Høyres forslag: 8 stemmer
+- Votering pkt 2 - Formannskapets innstilling
+  - For innstillingen: 28 stemmer
+  - Mot innstillingen: 7 stemmer

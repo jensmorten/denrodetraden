@@ -1,0 +1,34 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 97/25
+rodt_fremmet: False
+---
+
+Tittel: PS 97/25 Møteplan 2026
+
+Vedtak:
+1.Forslag til møteplan for utvalgene, administrasjonsutvalget, formannskapet og kommunestyret for 2026 vedtas med følgende endringer:
+Formannskap første møte flyttes til 4.juni
+Plan og samfunn flyttes til 16.juni
+Mennesker og livskvalitet flyttes til 17.juni
+Formannskap siste møte flyttes til 18.juni
+Admutvalg flyttes til 18.juni
+Kommunestyremøte flyttes til 22.juni
+2.Kommunestyrets møter starter som regel kl. 18.00, de andre møtene kl. 09.00.
+
+Alternative forslag:
+- AP v/Trine Reitan: Endring punkt 2.
+Stryk «som regel»
+Nytt punkt 3.
+Kommunestyret som også er budsjettmøte, skal starte kl 09.00
+
+Voteringer:
+- Votering på Formannskapets innstilling pkt. 1
+  - Formannskapets innstilling pkt. 1: enstemmig
+- Votering på Formannskapets innstilling pkt. 2 alternativt mot forslaget fra AP
+  - Formannskapets innstilling pkt. 2: 24 stemmer
+  - Forslaget fra AP: 10 stemmer
+- Votering på forslag fra AP til nytt pkt. 3
+  - Forslag fra AP til nytt pkt. 3: 14 stemmer
+  - Mot forslag fra AP til nytt pkt. 3: 20 stemmer

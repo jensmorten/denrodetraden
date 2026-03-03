@@ -1,0 +1,34 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 21/25
+rodt_fremmet: False
+---
+
+Tittel: PS 21/25 Masterplan Forbregdsmyra
+
+Vedtak:
+1. Forbregdsmyra avvikles og kommunedirektøren bes igangsette prosess med å finne alternativ lokalisering for ATA-senteret. Boligselskapet gis i oppdrag å selge eiendommen når alternativ plassering er løst.
+2. Kommunestyret ber kommunedirektøren å utrede alternative løsninger som i varetar bo- og tjenestetilbud for aktuell målgruppe. Gjeldende kunnskapsgrunnlag skal benyttes som basis for denne utredningen.
+3. Kommunestyret bestiller en helhetlig gjennomgang av Forbregdsmyra av Kontrollutvalget. Gjennomgangen skal gjelde fra planlagt kjøp til antatt drifts opphør. Spesielt bør kontrollutvalget se på: Økonomien i prosjektet, Er brukernes rettigheter og behov ivaretatt av kommunen?, Ivaretakelse av ansatte og turnover.
+
+Alternative forslag:
+- SV v/Anne Kolstad: Status for bygging av småhus for tungt belastede brukere
+- SV v/Anne Kolstad: Handlingsplan rus og psykiatri igangsettes
+
+Voteringer:
+- Votering på Formannskapets innstilling pkt. 1
+  - For: 35 stemmer
+- Votering på Formannskapets innstilling pkt. 2
+  - For: 35 stemmer
+- Votering på Formannskapets innstilling pkt. 3
+  - For: 35 stemmer
+- Votering på Formannskapets innstilling pkt. 4
+  - For: 13 stemmer
+  - Mot: 22 stemmer
+- Votering på forslag fra SV kulepunkt 1 (Status for bygging av småhus for tungt belastede brukere)
+  - For: 11 stemmer
+  - Mot: 24 stemmer
+- Votering på forslag fra SV kulepunkt 2 (Handlingsplan rus og psykiatri igangsettes)
+  - For: 15 stemmer
+  - Mot: 20 stemmer

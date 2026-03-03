@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2026
+saksnummer: PS 21/26
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av avtale - levering av vann til Inderøy kommune
+
+Vedtak:
+Vedlagte avtale datert 28.01.26 vedrørende levering av vann til Inderøy kommune godkjennes.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

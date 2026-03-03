@@ -1,0 +1,18 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 118/25
+rodt_fremmet: False
+---
+
+Tittel: Revidering vedtekter for Kommunale barnehager
+
+Vedtak:
+Saken utsettes.
+
+Alternative forslag:
+- Ordfører: Saken utsettes.
+
+Voteringer:
+- Votering over ordførers forslag om utsettelse av saken
+  - For utsettelse: enstemmig

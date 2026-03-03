@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 47/25
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling av detaljreguleringsplan for Nord-Vera - Storlunet
+
+Vedtak:
+Revidert planforslag for Nord-Vera – Storlunet legges fram til sluttbehandling. Endringer i planforslaget etter offentlig ettersyn og høring fremgår i saksutredningen.
+
+Voteringer:
+- Votering over innstillingen fra utvalg plan og samfunn
+  - For: enstemmig

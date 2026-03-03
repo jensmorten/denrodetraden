@@ -1,0 +1,33 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 114/25
+rodt_fremmet: True
+---
+
+Tittel: PS 114/25 Økonomiplan 2026-2029 og Budsjett 2026
+
+Vedtak:
+
+
+Alternative forslag:
+- H/SP/VDL/FRP: Endringsforslag pkt. 2 og 12: Eiendomsskatt skal innarbeides i budsjett og økonomiplan med nivå redusert til 2025-nivå innen 2030. Bestilling av ekstern analyse og utredning av kommuneorganisasjonens organisering, drift og tjenesteproduksjon, med mål om bærekraftig økonomi og effektivitet.
+- AP v/Trine Reitan: Alternativt forslag til budsjett 2026 og økonomiplan 2026-2029 med fokus på forebygging, kompetanseutvikling, styrking av helse og omsorg, frivillighet, boligbygging, og økonomisk bærekraft. Inkluderer konkrete tiltak og økonomiske prioriteringer.
+- V, SV og Rødt: Alternativt forslag med endringer i bruk av ekstra midler på 8,3 mill til helse og omsorg, barnevern, frivillighetskoordinator, disposisjonsfond, samt tillegg i pkt. 12 og 13 om utredning av innsparingstiltak og møteplasser for videregåendeelever.
+
+Voteringer:
+- Votering på forslag fra AP
+  - For: 11 stemmer
+  - Mot: 24 stemmer
+- Votering på forslag fra V/R/SV
+  - For: 3 stemmer
+  - Mot: 32 stemmer
+- Votering på formannskapets innstilling pkt. 2 mot alternativt forslag fra H/SP/VDL/FRP
+  - Formannskapets innstilling: 14 stemmer
+  - H/SP/VDL/FRP forslag: 21 stemmer
+- Votering på formannskapets innstilling pkt. 12 mot alternativt forslag fra H/SP/VDL/FRP
+  - Formannskapets innstilling: 14 stemmer
+  - H/SP/VDL/FRP forslag: 21 stemmer
+- Samlet votering på formannskapets innstilling med vedtatte forslag
+  - For: 21 stemmer
+  - Mot: 14 stemmer

@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2025
+saksnummer: PS 99/25
+rodt_fremmet: False
+---
+
+Tittel: PS 99/25 Jon Arve Hollekim (AP) - Søknad om permisjon for kommunale verv til 01.03.2026
+
+Vedtak:
+Jon Arve Hollekim innvilges permisjon fra folkevalgte verv som omsøkt fram til og med 28. februar 2026.
+Settemedlem i kontrollutvalget i perioden: Astrid Tromsdal (AP).
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

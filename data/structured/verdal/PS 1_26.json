@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av protokoll fra møte 15. desember 2025",
+  "innstilling": "Ordfører foreslo at protokoll fra møte 15. desember 2025 godkjennes.",
+  "vedtak": "Protokoll fra møte 15. desember 2025 godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av protokoll fra møte 15. desember 2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.01.2026",
+  "saksnummer_ps": "PS 1/26",
+  "rodt_fremmet_forslag": false
+}

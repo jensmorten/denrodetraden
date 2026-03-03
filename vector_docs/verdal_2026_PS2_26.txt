@@ -1,0 +1,8 @@
+METADATA:
+kommune: verdal
+year: 2026
+saksnummer: PS 2/26
+rodt_fremmet: False
+---
+
+Tittel: Kommunestyrets behandling av sak 2/2026

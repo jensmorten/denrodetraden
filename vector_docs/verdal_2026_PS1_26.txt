@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2026
+saksnummer: PS 1/26
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av protokoll fra møte 15. desember 2025
+
+Vedtak:
+Protokoll fra møte 15. desember 2025 godkjennes.
+
+Voteringer:
+- Godkjenning av protokoll fra møte 15. desember 2025
+  - For: enstemmig

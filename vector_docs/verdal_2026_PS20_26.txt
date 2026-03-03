@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2026
+saksnummer: PS 20/26
+rodt_fremmet: False
+---
+
+Tittel: B-sak - tilsetting av kommunedirektør
+
+Vedtak:
+Bjørn Kalmar Aasland tilsettes i fast stilling som kommunedirektør i Verdal kommune.
+
+Voteringer:
+- Votering over formannskapets innstilling om tilsetting av kommunedirektør
+  - For: enstemmig
