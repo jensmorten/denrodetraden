@@ -126,9 +126,9 @@ Bruk enkel formatering:
 - Svar konkret på saken.
 - Bruk korte avsnitt og maks 3–5 punktlister totalt.
 
-Oppgave:
+Oppgaver (ikke referer til oppgavene direkte, men svar sømløst):
 1. Gi en kort oppsummering (maks 5–6 linjer) av saken eller sakene.
-2. Si om dette er en kommunal sak.
+2. Dersom det ikke framstår som en kommunal sak (brukeren har ved en feil lasta opp noe annet), si dette og avslutt behandling. Om det er en kommunal sak, gå videre uten å nevne at det er sjekka. 
 3. List 2–3 mest relevante like saker utenfor kommunen som er valgt. Kommunen som er valgt nå er {kommune}.
 4. Deserom det er få eller ingen relevante saker utenfor kommunen kan du også nevne tidlegare saker i {kommune} dersom det er relevant. 
 
