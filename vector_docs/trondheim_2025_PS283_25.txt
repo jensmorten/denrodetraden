@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 283/25
+rodt_fremmet: False
+---
+
+Tittel: PS 283/2025 Fritak for eiendomsskatt 2025
+
+Vedtak:
+Bystyret innvilger fritak for eiendomsskatt etter eiendomsskatteloven § 7 bokstav a for eiendommene som er vist i vedlegget “Fritak § 7a 2025”.
+Bystyret fjerner vedtak om fritak for eiendomsskatt etter eiendomsskatteloven § 7 a for eiendommene som er vist i vedlegget «Mister § 7a 2025».
+
+Voteringer:
+- Votering over innstillinga
+  - Innstillinga: enstemmig

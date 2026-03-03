@@ -1,0 +1,47 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 46/25
+rodt_fremmet: False
+---
+
+Tittel: Strateginotat Levanger kommune - økonomiplanperioden 2026 - 2029
+
+Vedtak:
+Strateginotat for 2026 - 2029 tas til orientering, og legges til grunn for det videre arbeid med økonomiplan og årsbudsjett. Kommunedirektøren skal i forbindelse med neste budsjett og økonomiplan legge frem et budsjett som sikrer et netto driftsresultat i prosent av driftsinntektene på minimum 1,5%, og et investeringsbudsjett som gjør det langsiktige målet om en gjeldsgrad på 120% i 2035 realistisk. Budsjettet i 2026 legges fram uten økning av eiendomsskatt. Målet om et disposisjonsfond på 150 mill kroner ved utgangen av 2028 står fast. Kommunestyret slutter seg til strateginotatets langsiktige mål i 2035: • Disposisjonsfondet skal være minimum 210 mill kroner • Langsiktig lånegjeld i prosent av driftsinntektene skal ikke overstige 120%. Det er ønskelig at neste års utbytte fra NTE i sin helhet går til å styrke egenkapitalen (herunder reduksjon av gjeld.)
+
+Alternative forslag:
+- Vegard Austmo (Arbeiderpartiet): Strateginotat for 2026 - 2029 tas til orientering, og legges til grunn for det videre arbeid med økonomiplan og årsbudsjett. Kommunedirektøren skal i forbindelse med neste budsjett og økonomiplan legge frem et budsjett som sikrer minst 30 millioner i driftsmargin. Investeringsbudsjettet skal holdes på lavest mulig nivå.
+- Harald Asbjørn Lein (Senterpartiet): Endringsforslag til andre setning: Kommunedirektøren skal i forbindelse med neste budsjett og økonomiplan legge frem et budsjett som sikrer et netto driftsresultat i prosent av driftsinntektene på minimum 1,5%, og et investeringsbudsjett som gjør det langsiktige målet om en gjeldsgrad på 120% i 2035 realistisk.
+- Mats Henriksen (Fremskrittspartiet): Punkt 4 strykes.
+- Harald Asbjørn Lein (Senterpartiet): Målet om et disposisjonsfond på 150 mill kroner ved utgangen av 2028 står fast. Kommunestyret slutter seg til strateginotatets langsiktige mål i 2035: • Disposisjonsfondet skal være minimum 210 mill kroner • Langsiktig lånegjeld i prosent av driftsinntektene skal ikke overstige 120%.
+- Gunnar Løvås (Sosialistisk venstreparti): Enøktiltak styrkes med 10 mill hvert år i økonomiplanperioden 2026- 2029.
+- Merete Bøhn-Flatås (Senterpartiet): Oversendelsesforslag: Kommunedirektøren bes utrede eventuelt salg av Kirkegata 11, gamle byskolen. I tillegg utredes alternative og tilstrekkelige lokaler for dagens brukere og innhold av huset for å ivareta disse.
+- Vegard Austmo (Arbeiderpartiet): Det er ønskelig at neste års utbytte fra NTE i sin helhet går til å styrke egenkapitalen (herunder reduksjon av gjeld.)
+- Vegard Austmo (Arbeiderpartiet): Kommunestyret forutsetter at det ikke fremmes saker til politisk behandling som innebærer ytterligere privatisering av kommunale tjenester.
+
+Voteringer:
+- Avstemming mellom innstilling (forslag 1) og alternativt forslag fra Vegard Austmo (Arbeiderpartiet) (forslag 2).
+  - Forslag 1 (innstilling): 21 stemmer
+  - Forslag 2 (Vegard Austmo, AP): 14 stemmer
+- Avstemming på endringsforslag fra Harald Asbjørn Lein (Senterpartiet) om netto driftsresultat og investeringsbudsjett.
+  - For endringsforslag: 23 stemmer
+  - Imot endringsforslag: 12 stemmer
+- Avstemming på endringsforslag fra Mats Henriksen (Fremskrittspartiet) om å stryke punkt 4.
+  - For endringsforslag: 30 stemmer
+  - Imot endringsforslag: 5 stemmer
+- Avstemming på tilleggsforslag fra Harald Asbjørn Lein (Senterpartiet) om disposisjonsfond og langsiktige mål.
+  - For tilleggsforslag: 31 stemmer
+  - Imot tilleggsforslag: 4 stemmer
+- Avstemming på tilleggsforslag fra Gunnar Løvås (Sosialistisk venstreparti) om styrking av enøktiltak med 10 mill hvert år.
+  - For tilleggsforslag: 8 stemmer
+  - Imot tilleggsforslag: 27 stemmer
+- Avstemming på oversendelsesforslag fra Merete Bøhn-Flatås (Senterpartiet) om utredning av salg av Kirkegata 11 og alternative lokaler.
+  - For oversendelsesforslag: 21 stemmer
+  - Imot oversendelsesforslag: 14 stemmer
+- Avstemming på tilleggsforslag fra Vegard Austmo (Arbeiderpartiet) om at neste års utbytte fra NTE i sin helhet skal gå til å styrke egenkapitalen.
+  - For tilleggsforslag: 18 stemmer
+  - Imot tilleggsforslag: 17 stemmer
+- Avstemming på tilleggsforslag fra Vegard Austmo (Arbeiderpartiet) om at det ikke skal fremmes saker som innebærer ytterligere privatisering av kommunale tjenester.
+  - For tilleggsforslag: 15 stemmer
+  - Imot tilleggsforslag: 20 stemmer

@@ -1,0 +1,23 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/049
+rodt_fremmet: False
+---
+
+Tittel: Sammenligning av ny og gammel forskrift om vann- og avløpsgebyr
+
+Vedtak:
+{'dato': '27.03.2025', 'tekst': 'Saken ble utsatt ved manuell votering.'}
+{'dato': '19.12.2024', 'tekst': 'Sender saken i retur til administrasjon med anmodning om endring /gjennomgang i prisboka ang prisutviklinga til gårdsbruk med mye dyr. Ber om at saken kommer opp igjen på nyåret i kommunestyret.'}
+{'dato': '27.03.2025', 'tekst': 'Ørland kommunestyre ber om at antall næringskategorier med tilhørende antall fastledd, gjennomgås ved utarbeidelse ny prisbok for 2026 med fokus på å unngå ekstra stor prisøkning for enkelte gårdsbruk med mye dyr.'}
+
+Alternative forslag:
+- Jan-Inge Standahl, Senterpartiet: Sender saken i retur til administrasjon med anmodning om endring /gjennomgang i prisboka ang prisutviklinga til gårdsbruk med mye dyr. Ber om at saken kommer opp igjen på nyåret i kommunestyret.
+
+Voteringer:
+- Votering over forslag om prisboka ang vann/avløpsgebyr
+  - Opprinnelig forslag: 2 stemmer
+  - Prisboka ang vann/avløpsgebyr: 29 stemmer
+- Votering om utsettelse av saken ved manuell votering
+  - Utsettelse: enstemmig

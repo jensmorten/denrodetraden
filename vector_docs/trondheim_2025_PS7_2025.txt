@@ -18,7 +18,7 @@ Alternative forslag:
 Voteringer:
 - Votering over innstillingen
   - Innstillingen: 0 stemmer
-  - Avvisning: enstemmig stemmer
+  - Avvisning: enstemmig
 - Alternativ votering mellom FrPs fellesforslag og SPs fellesforslag
   - FrPs fellesforslag (FrP, Ap, R, SV, PP, Uavh.): 37 stemmer
   - SPs fellesforslag (SP, H, KrF, MDG, V): 30 stemmer

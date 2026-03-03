@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/065
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling: Forslag til revidert havneregulativ.
+
+Vedtak:
+Ørland kommunestyre vedtar revidert forslag til havneregulativ datert 21.10.24.
+Nytt havneregulativ trer i kraft fra 01.07.2025
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 13/25
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering Coop Extra Åsen - sluttbehandling
+
+Vedtak:
+Detaljreguleringen for Coop Extra Åsen sentrum, med de foreslåtte endringene, vedtas jfr. Plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Avstemming over innstillingen om detaljreguleringen for Coop Extra Åsen sentrum
+  - For: 34 stemmer

@@ -1,0 +1,23 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 292/25
+rodt_fremmet: False
+---
+
+Tittel: PS 292/2025 Reglement for innstillingsrett
+
+Vedtak:
+Bystyret vedtar forslaget til nytt reglement for innstillingsrett med følgende endringer:
+1 - Legges til følgende tekst:
+Byrådet kan delegere videre sin innstillingsrett for saker i klageutvalget.
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV): I innbyggerforslag innstiller ordfører til forretningsutvalget.
+
+Voteringer:
+- Votering over innstillingen unntatt punkt 5
+  - For: enstemmig
+- Votering over innstillingens punkt 5
+  - For: 32 stemmer
+  - Mot: 35 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 9/26
+rodt_fremmet: False
+---
+
+Tittel: Ansvar for overvåking og oppfølging av nedlagt avfallsdeponi tilknyttet Haakon VII gate 25
+
+Vedtak:
+Trondheim kommune tar ansvar for å følge opp og kontrollere gassikringstiltakene og sikre gjennomføring av overvåkning, samt kontroll av måleresultater.
+
+Voteringer:
+- Votering om innstillingen
+  - For: enstemmig

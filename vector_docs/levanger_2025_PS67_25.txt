@@ -1,0 +1,18 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 67/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om regulering av vegavgift for Haugatjønnvegen, Åsen Bygdealmenning i Levanger kommune
+
+Vedtak:
+Levanger kommune samtykker i at vegavgifta for bomveger i Levanger kommune forhøyes til følgende satser:
+Haugatjønnvegen:
+• Enkelttur Kr 40,-
+• Årskort Kr 400,-
+
+Voteringer:
+- Votering over innstilling om forhøyelse av vegavgift for Haugatjønnvegen
+  - For: 35 stemmer

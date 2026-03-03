@@ -24,7 +24,7 @@ Voteringer:
   - Utsettelsesforslag: 30 stemmer
   - Mot utsettelsesforslag: 37 stemmer
 - Votering over innstillingens punkt 1, 2 og 3
-  - Innstillingens punkt 1, 2 og 3: enstemmig stemmer
+  - Innstillingens punkt 1, 2 og 3: enstemmig
 - Alternativ votering mellom innstillingen og Salomonsens alternative forslag (punkt 4, 5 og 6)
   - Innstillingen: 37 stemmer
   - Salomonsens alternative forslag: 30 stemmer

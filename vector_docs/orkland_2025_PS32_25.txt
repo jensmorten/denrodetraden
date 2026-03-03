@@ -1,0 +1,27 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 32/25
+rodt_fremmet: False
+---
+
+Tittel: Opphevelse av lokale forskrifter
+
+Vedtak:
+Kommunestyret vedtar opphevelse av fire lokale forskrifter gjennom vedtak av vedlagte opphevelsesforskrifter, slik:
+Forskrift om fettholdig avløpsvann
+1. Kommunestyret vedtar forskrift om opphevelse av Forskrift 06. april 2011 nr. 381 om fettholdig avløpsvann, Orkdal kommune, Sør-Trøndelag.
+2. Forskriften trer i kraft straks.
+Forskrift om påslipp av oljeholdig avløpsvann til avløpsnett
+1. Kommunestyret vedtar forskrift om opphevelse av Forskrift 15. august 2012 nr. 881 om påslipp av oljeholdig avløpsvann til avløpsnett, Orkdal kommune, Sør-Trøndelag.
+2. Forskriften trer i kraft straks.
+Forskrift om påslipp av olje- og /eller fettholdig avløpsvann til kommunalt avløpsnett
+1. Kommunestyret vedtar forskrift om opphevelse av Forskrift 23. juni 2021 nr. 2542 om påslipp av olje- og /eller fettholdig avløpsvann til kommunalt avløpsnett, Orkland kommune, Trøndelag.
+2. Forskriften trer i kraft straks.
+Forskrift om godtgjøring av folkevalgte
+1. Kommunestyret vedtar forskrift om opphevelse av Forskrift 18. desember 2019 nr. 2256 om godtgjøring av folkevalgte, Orkland kommune, Trøndelag.
+2. Forskriften trer i kraft straks.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - For: enstemmig

@@ -1,0 +1,22 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/041
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om folkevalgtes arbeidsvilkår og godtgjøring - Ørland kommune
+
+Vedtak:
+På et prinsipielt grunnlag betaler ikke Ørland kommune ut tapt arbeidsfortjeneste for verv i statlige råd og utvalg, der staten har godtgjøringsansvaret. Forskrift om folkevalgtes arbeidsvilkår og godtgjøring i Ørland kommune, endres ikke. Kommunedirektøren får i oppdrag å sende brev til departementet om kommunens utfordring med å få representanter til forliksrådet på grunn av lav godtgjøring og ikke dekning av tapt arbeidsfortjeneste.
+
+Alternative forslag:
+- Kommunedirektøren: Kommunedirektøren får i oppdrag å sende brev til departementet om kommunens utfordring med å få representanter til forliksrådet på grunn av lav godtgjøring og ikke dekning av tapt arbeidsfortjeneste.
+
+Voteringer:
+- Votering over opprinnelig forslag
+  - For: 29 stemmer
+  - Mot: 1 stemmer
+- Votering over tilleggsforslag
+  - For: 30 stemmer
+  - Mot: 0 stemmer

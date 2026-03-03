@@ -1,0 +1,16 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 38/25
+rodt_fremmet: False
+---
+
+Tittel: Telletidspunkt i barnehager - fra fire telledatoer til en telledato
+
+Vedtak:
+Levanger kommune opprettholder fire telletidspunkter for kommunale og private barnehager. Tilskudd vedtas med bakgrunn i antall barn, barnets alder og oppholdstid som er rapportert inn på telledatoene.
+Kommunalt driftstilskudd utbetales månedlig.
+
+Voteringer:
+- Votering over innstillingen om å opprettholde fire telletidspunkter for barnehager
+  - For: 34 stemmer

@@ -1,0 +1,18 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 88/25
+rodt_fremmet: False
+---
+
+Tittel: Politisk sluttbehandling av reguleringsplan- Orkdalsveien 628
+
+Vedtak:
+I medhold av plan- og bygningslovens § 12-12 vedtas reguleringsplan for Orkdalsveien 628 slik den foreligger vedlagt saken.
+De deler av reguleringsplan for Midt-Norge travbane og reguleringsplan for Fannrem sentrum som inngår i planomrisset oppheves.
+
+Voteringer:
+- Votering i Hovedutvalg forvaltning 11.11.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 18.11.2025
+  - Hovedutvalg forvaltning sin innstilling: enstemmig

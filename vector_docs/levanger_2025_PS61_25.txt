@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 61/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om permisjon fra folkevalgte verv - Mona Kristin Rømuld
+
+Vedtak:
+Mona Kristin Rømuld innvilges permisjon fra sine folkevalgte verv fram til 30. juni 2026. Julianne Hjelmstad rykker opp som 1. vara for Høyre i kommunestyret. Som settemedlem til råd for personer med funksjonsnedsettelse, i permisjonsperioden velges: Eli Kristin Johansen. Råd for personer med funksjonsnedsettelse velger selv ny leder.
+
+Voteringer:
+- Avstemming over innstilling om permisjon for Mona Kristin Rømuld
+  - For: 35 stemmer

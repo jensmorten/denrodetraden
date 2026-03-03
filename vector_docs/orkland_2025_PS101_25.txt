@@ -1,0 +1,19 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 101/25
+rodt_fremmet: False
+---
+
+Tittel: 101/25 Miljøpakkens handlingsprogram 2026 - 2029
+
+Vedtak:
+Orkland kommune slutter seg til vedlagte forslag til handlingsprogram for Miljøpakken 2026-2029
+Ordfører får fullmakt til å framforhandle endelig handlingsprogram for Miljøpakken i forbindelse med behandling i kontaktutvalget.
+Kommunedirektøren får fullmakt til å foreta nødvendige budsjettkorrigeringer etter endelig vedtak i kontaktutvalget
+
+Voteringer:
+- Votering i Formannskap 25.11.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 16.12.2025
+  - Formannskapets innstilling: enstemmig

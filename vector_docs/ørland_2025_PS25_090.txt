@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/090
+rodt_fremmet: False
+---
+
+Tittel: 1. tertial-rapport 2025
+
+Vedtak:
+1. tertial-rapport 2025 tas til orientering
+
+Voteringer:
+- Votering over forslag: Innstilling fra Styret for Roret Ørland kulturforetak KF - 10.06.2025
+  - For: 31 stemmer
+  - Mot: 0 stemmer

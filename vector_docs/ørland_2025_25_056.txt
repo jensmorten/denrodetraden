@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/056
+rodt_fremmet: False
+---
+
+Tittel: Samarbeidsavtale - St. Olavs hospital HF og kommunene - helsefellesskapet i søndre Trøndelag
+
+Vedtak:
+Ørland kommunestyre godkjenner inngåelse av fremlagte avtale: Samarbeidsavtale - St. Olavs hospital HF og kommunene - Helsefellesskapet i søndre Trøndelag, med tilhørende retningslinje «Samarbeid om innleggelse og utskrivelse av pasienter med behov for kommunale tjenester».
+
+Voteringer:
+- Votering over forslag: Innstilling fra Utvalg for helse og familie - 19.03.2025
+  - For: 31 stemmer
+  - Mot: 0 stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 229/2025
+rodt_fremmet: True
+---
+
+Tittel: Delegering av myndighet vegloven § 56
+
+Vedtak:
+Bystyret delegerer sin avgjørelsesmyndighet etter veglova § 56, til byrådet. Delegeringen gjelder med de til enhver tid gjeldende forskrifter og endringer i lov jf. kommuneloven § 10-2 fjerde ledd.
+
+Alternative forslag:
+- Magni Fjørtoft Svarstad (R): Bystyret delegerer sin avgjørelsesmyndighet etter veglova § 56, til byrådet. Delegeringen gjelder med de til enhver tid gjeldende forskrifter og endringer i lov jf. kommuneloven § 10-2 fjerde ledd. Miljø- Næring- og Samferdselsutvalget skal ha uttalelsesrett.
+
+Voteringer:
+- Ved alternativ votering mellom innstillingen og Røds forslag
+  - Innstillingen: 38 stemmer
+  - Røds forslag: 29 stemmer

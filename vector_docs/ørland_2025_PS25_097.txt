@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/097
+rodt_fremmet: False
+---
+
+Tittel: Kommunedelplan for avløp og vannmiljø - Planprogram
+
+Vedtak:
+Ørland kommune legger planprogram kommunedelplan for avløp og vannmiljø ut til høring og offentlig ettersyn, og varsler med hjemmel i plan- og bygningslovens § 11-12 oppstart av planarbeidet.
+
+Voteringer:
+- Votering over forslag
+  - For: 29 stemmer
+  - Mot: 0 stemmer

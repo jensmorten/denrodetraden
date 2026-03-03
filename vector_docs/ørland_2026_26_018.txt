@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/018
+rodt_fremmet: False
+---
+
+Tittel: Endring i forskrift for kommunale skolefritidsordninger i Ørland kommune
+
+Vedtak:
+Forslaget til endringer i forskrift for kommunale skolefritidsordninger i Ørland kommune sendes ut på høring med høringsfrist 10. april 2026.
+
+Voteringer:
+- Votering over forslag - Innstilling fra Utvalg for oppvekst og utdanning - 23.02.2026
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag - Opprinnelig forslag i Utvalg for oppvekst og utdanning 23.02.2026
+  - For: 7 stemmer
+  - Mot: 0 stemmer

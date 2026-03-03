@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/043
+rodt_fremmet: False
+---
+
+Tittel: Innbyggerinitiativ - Protest mot nytt helsehus og nedleggelse av Bjugn Legekontor
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Votering om utsettelse av saken
+  - For utsettelse: enstemmig

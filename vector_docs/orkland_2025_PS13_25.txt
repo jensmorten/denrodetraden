@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 13/25
+rodt_fremmet: False
+---
+
+Tittel: Høring - Innspill til Postutvalgets rapport
+
+Vedtak:
+Høringssvar fra kommunestyret oversendes Samferdselsdepartementet.
+
+Voteringer:
+- Votering om omforent forslag til vedtak
+  - For: 38 stemmer

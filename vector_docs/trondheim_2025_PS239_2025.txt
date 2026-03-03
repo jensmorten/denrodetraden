@@ -1,0 +1,37 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 239/2025
+rodt_fremmet: True
+---
+
+Tittel: Endringer av reglement for Mangfoldsrådet
+
+Vedtak:
+Bystyret vedtar at Mangfoldsrådet endrer navn til Mangfoldsutvalget.
+Bystyret vedtar nytt reglement for Mangfoldsutvalget med endringer i punkt 1.1 som beskrevet.
+Endring i reglement punkt 3.1 om møteinnkalling vedtas.
+Roald Arentz (R) sitt forslag om endring av «politikere» til «folkevalgte bystyremedlemmer (fast eller vara)» i punkt 1.1 vedtas enstemmig.
+Kjetil Utne (H) sine tilleggsforslag om valg av leder og nestleder og tillegg om observatører vedtas enstemmig.
+Karim Tahir (Ap) sitt forslag om tilbakesendelse av saken falt med 30 stemmer mot 37.
+
+Alternative forslag:
+- Roald Arentz (R): I reglementets punkt 1.1 endres «politikere» til «folkevalgte bystyremedlemmer (fast eller vara)»
+- Kjetil Utne (H): Endring i punkt 1.1 I formulering om observatører endres «Dialogsenteret» til "Flyktningeenheten".
+- Kjetil Utne (H): Endring i punkt 1.1 Etter «Bystyret oppnevner leder og nestleder i Mangfoldsrådet.» legges dette til: «Om mulig bør disse velges blant de seks medlemmene fra innvandrerorganisasjonene.»
+- Kjetil Utne (H): "Mangfoldsrådet kan også ved behov invitere andre aktører som observatører."
+- Karim Tahir (Ap): Saken sendes tilbake til ordfører for videre utredning. Bystyret ber ordfører om å levere en ny sak som utreder å utvide mangfoldsrådet med representanter for organisasjoner som representerer hele mangfoldet i byen. Dette gjelder spesielt minoritetsorganisasjoner for skeive og religiøse bakgrunner. Saken bør også vurdere om dersom dagens navn ivaretas om utvalget skal gis et nytt navn som bedre representerer utvalgets faktiske representasjon, eks integreringsutvalget.
+
+Voteringer:
+- Votering på Karim Tahirs (Ap) forslag om tilbakesendelse av saken for videre utredning.
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Votering på innstillingen unntatt punkt 2, den del som omhandler (R) og (H) sitt forslag til reglementets punkt 1.1.
+  - For: Enstemmig
+- Alternativ votering mellom innstillingen punkt 2 som omhandler reglementets punkt 1.1 sammensetning og Røds forslag.
+  - Røds forslag: Enstemmig
+  - Innstillingen: 0 stemmer
+- Votering på Utnes forslag "Valg av leder og nestleder".
+  - For: Enstemmig
+- Votering på Utnes forslag "Tillegg observatør".
+  - For: Enstemmig

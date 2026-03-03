@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/036
+rodt_fremmet: False
+---
+
+Tittel: Vurdering kjøp av areal Brekstad vestre
+
+Vedtak:
+Saken må sees i forbindelse med vedtak fra sak 25/035, og utsettes.
+
+Alternative forslag:
+- Britt Eli Døsvik, Senterpartiet: Saken må sees i forbindelse med vedtak fra sak 25/035, og utsettes.
+
+Voteringer:
+- Votering over forslag: Nytt forslag til vedtak
+  - For: 20 stemmer
+  - Mot: 10 stemmer

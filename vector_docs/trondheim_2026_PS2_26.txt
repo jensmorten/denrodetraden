@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 2/26
+rodt_fremmet: False
+---
+
+Tittel: Handlingsplan for implementering og gjennomføring av Midtbystrategien 2025-2026
+
+Vedtak:
+Handlingsplanen for implementering og gjennomføring av Midtbystrategien 2025-2026 sendes tilbake. Bystyret sender planen tilbake til byrådet for å lage en handlingsplan som strekker seg til 2028. Planen må i større grad være konkretisert og ha målbare tiltak.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

@@ -1,0 +1,24 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/075
+rodt_fremmet: False
+---
+
+Tittel: 25/075 Arbeidsgruppe for gjennomføring av større tiltak på fylkesveger
+
+Vedtak:
+Enhet for Samfunnsutvikling får ansvar for å opprette og lede gruppa
+Som politiske representanter oppnevnes: Hallgeir Grøntvedt, Sp og Fredrik Sandness, Ap
+Arbeidsgruppas leder orienterer Formannskapet om muligheter og utfordringer for større investeringsprosjekt på fylkesveger i Ørland kommune
+
+Alternative forslag:
+- Britt Eli Døsvik, Senterpartiet: Som politiske representanter foreslås: Hallgeir Grøntvedt, Sp og Fredrik Sandness, Ap
+
+Voteringer:
+- Votering over forslag - Opprinnelig forslag
+  - For: 27 stemmer
+  - Mot: 3 stemmer
+- Votering over forslag - TIL - tilleggsforslag kulepunkt 2
+  - For: 30 stemmer
+  - Mot: 0 stemmer

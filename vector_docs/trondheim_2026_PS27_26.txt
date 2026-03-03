@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 27/26
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg - utflytting Hege Rovik (Ap)
+
+Vedtak:
+
+
+Voteringer:
+- Votering om innstillingen
+  - Innstillingen: enstemmig

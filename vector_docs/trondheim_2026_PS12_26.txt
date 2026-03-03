@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 12/26
+rodt_fremmet: False
+---
+
+Tittel: Mikkelvegen, strekningen Egganvegen - Øvre Sjetnhaugan, detaljregulering - til sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Mikkelvegen, strekningen Egganvegen - Øvre Sjetnhaugan som vist på kart i målestokk 1:1000, merket Henning Larsen AS, datert 25.4.2023, senest endret 12.11.2025 med bestemmelser senest datert 13.11.2025 og beskrevet i planbeskrivelsen, senest datert 26.11.2025. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: alle

@@ -1,0 +1,24 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 30/25
+rodt_fremmet: False
+---
+
+Tittel: Bruk av overskuddsfond
+
+Vedtak:
+Kommunedirektøren får fullmakt til å foreta detaljert budsjettregulering i tråd med saksframlegget.
+Konto Ansvar Tjeneste Prosjekt Sted Beløp
+02000 201620 2210 50029 500 000
+04290 201620 2210 50029 125 000
+07290 201620 2210 50029 -125 000
+19401 201620 8800 256080925 -500 000
+15700 201620 8800 500 000
+09700 201620 8800 50029 -500 000
+
+Voteringer:
+- Kommunedirektørens innstilling i Formannskapet 22.04.2025
+  - For: enstemmig
+- Formannskapets innstilling i Kommunestyret 29.04.2025
+  - For: enstemmig

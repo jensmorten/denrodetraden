@@ -1,0 +1,22 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 27/25
+rodt_fremmet: False
+---
+
+Tittel: Samlokalisering og bruk i Meldal kommunehus
+
+Vedtak:
+I forbindelse med flytting av BUA og Frivilligsentralen i Meldal til kommunehuset, og reetablering av kjøkken i Meldal samfunnshus, er det behov for bygningsmessige arbeider. For å finansiere tiltaket bevilger kommunestyret kr 1 100 000 som dekkes med bruk av ubundne investeringsfond:
+Konto Ansvar Tjeneste Prosjekt Sted Beløp
+02300 412006 1300 40123 880 000
+04290 412006 1300 40123 220 000
+07290 412006 8410 40123 - 220 000
+09400 412006 8700 40123 254080001 - 880 000
+
+Voteringer:
+- Votering i Hovedutvalg Teknikk 08.04.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 29.04.2025
+  - Hovedutvalg teknikk sin innstilling: enstemmig

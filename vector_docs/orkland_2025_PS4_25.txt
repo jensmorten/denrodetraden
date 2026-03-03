@@ -1,0 +1,8 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 4/25
+rodt_fremmet: False
+---
+
+Tittel: Orientering ved Bondelaget

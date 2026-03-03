@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/004
+rodt_fremmet: False
+---
+
+Tittel: Kommunalt samarbeid med Fattig Talt
+
+Vedtak:
+Kommunestyret tar saken til orientering
+
+Alternative forslag:
+- Opprinnelig forslag: Kommunestyret tar saken til orientering
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

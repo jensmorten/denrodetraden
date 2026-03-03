@@ -1,0 +1,20 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 262/2025
+rodt_fremmet: False
+---
+
+Tittel: Fritakssøknad - Mia Småvik Rørdal (R)
+
+Vedtak:
+Bystyret innvilger Mia Småvik Rørdal (R) midlertidig fritak fra følgende verv frem til og med 30.06.2026:
+• Medlem i bystyret
+• Medlem i helse- og velferdsutvalget
+• Varamedlem i rådet for personer med funksjonsnedsettelser
+• Varamedlem i Konfliktrådet
+• Medlem i Stavne Arbeid Trondheim KF og Stavne Inkludering Trondheim KF - felles styre
+
+Voteringer:
+- Votering om innstillingen om midlertidig fritak for Mia Småvik Rørdal (R)
+  - For: enstemmig

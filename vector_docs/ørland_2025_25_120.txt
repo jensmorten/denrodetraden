@@ -1,0 +1,22 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/120
+rodt_fremmet: False
+---
+
+Tittel: Søknad fra kirkelig fellesråd om økt driftstilskudd
+
+Vedtak:
+
+
+Alternative forslag:
+- Marit Sletten (INP): Opprinnelig forslag
+
+Voteringer:
+- Votering over forslag - Innstilling fra Formannskap - 04.09.2025
+  - For: 29 stemmer
+  - Mot: 1 stemmer
+- Votering over forslag - Opprinnelig forslag
+  - ENF - Søknad fra kirkelig fellesråd om økt driftstilskudd: 5 stemmer
+  - Opprinnelig forslag: 1 stemmer

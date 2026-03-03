@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/096
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling - Detaljregulering for Kulturparken Brekstad - planid 5057202401
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 12-12 godkjenner Ørland kommune detaljregulering for Kulturparken Brekstad, planid 5057202401, med tilhørende bestemmelser sist revidert 05.06.2025 og plankart sist revidert 05.06.2025.
+
+Voteringer:
+- Kommunestyre 19.06.2025 - Votering over forslag
+  - For: 29 stemmer
+  - Mot: 0 stemmer
+- Planutvalg 17.06.2025 - Votering over forslag
+  - For: 9 stemmer
+  - Mot: 0 stemmer

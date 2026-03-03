@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 63/25
+rodt_fremmet: False
+---
+
+Tittel: Oppnevning av representanter til Levanger Ungdomsråd 2025 - 2026
+
+Vedtak:
+
+
+Voteringer:
+- Avstemming over Valgutvalgets forslag til vedtak om oppnevning av representanter til Levanger Ungdomsråd 2025-2026
+  - For: 34 stemmer

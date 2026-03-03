@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/033
+rodt_fremmet: False
+---
+
+Tittel: Egenandel søknad til Kystverket om tiltak i Uthaug havn
+
+Vedtak:
+Kommunestyret vedtar et prinsippvedtak om at inntekt fra salg av almenningskai ved Grøntvedt Pelagic og annen eiendom i Uthaug havn kan benyttes som egenandel hvis kommunen får tilsagn på sin søknad til Kystverkets ordning. Administrasjonen har levert søknad om støtte fra Kystverket på kr 62,5 millioner fra ordningen «Tilskudd til investering i effektive og miljøvennlige havner» (174/323]. Skulle søknaden bli innvilget må kommunen stille med en egenandel på inntil kr 21,5 millioner.
+
+Alternative forslag:
+- Fredrik Sandness, Arbeiderpartiet: Kommunestyret vedtar et prinsippvedtak om at inntekt fra salg av almenningskai ved Grøntvedt Pelagic og annen eiendom i Uthaug havn kan benyttes som egenandel hvis kommunen får tilsagn på sin søknad til Kystverkets ordning. Administrasjonen har levert søknad om støtte fra Kystverket på kr 62,5 millioner fra ordningen «Tilskudd til investering i effektive og miljøvennlige havner» (174/323]. Skulle søknaden bli innvilget må kommunen stille med en egenandel på inntil kr 21,5 millioner.
+
+Voteringer:
+- Votering over forslag
+  - Nytt forslag: 28 stemmer
+  - Mot: 2 stemmer

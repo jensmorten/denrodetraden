@@ -1,0 +1,19 @@
+METADATA:
+kommune: levanger
+year: 2026
+saksnummer: PS 4/26
+rodt_fremmet: False
+---
+
+Tittel: Budsjettjustering - innlemming av øremerkede tilskudd og økt rammetilskudd 2026
+
+Vedtak:
+Levanger kommunes driftsbudsjett for 2026 endres slik:
+• Rammetilskudd (18000.8000.8400) økes med kr. 14 330 000,-
+• Enhet helsefremming (17000.3405.2433) styrkes med kr. 1 300 000,-
+• Skatteanslaget (18700.8000.8000) reduseres med kr. 800 000,-
+• Aetning til disposisjonsfond (15400.8500.8800) økes med kr. 12 230 000,-
+
+Voteringer:
+- Votering over innstilling om budsjettjustering
+  - For: 35 stemmer

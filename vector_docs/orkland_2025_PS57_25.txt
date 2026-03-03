@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 57/25
+rodt_fremmet: False
+---
+
+Tittel: Endring av møteplan for Orkland kommune 2025
+
+Vedtak:
+Kommunestyremøte berammet til 9. september flyttes til 16. september. Formannskapsmøte 16. september utgår. Det blir valgstyre 9. september klokken 19.00.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - For: enstemmig

@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/163
+rodt_fremmet: False
+---
+
+Tittel: Valg av varamedlem til Interkommunalt politisk råd Fosenkommunene og Stiftelsen Frohavet
+
+Vedtak:
+Ingvild Wik Solberg velges som vara for Fredrik Sandness.
+
+Alternative forslag:
+- Fredrik Sandness, Arbeiderpartiet: Ingvild Wik Solberg velges som vara for Fredrik Sandness
+
+Voteringer:
+- Votering over forslag - Nytt forslag fra Fredrik Sandness (AP)
+  - For: 31 stemmer
+  - Mot: 0 stemmer

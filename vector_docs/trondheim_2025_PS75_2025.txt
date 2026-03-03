@@ -27,7 +27,7 @@ Alternative forslag:
 
 Voteringer:
 - Votering over innstillingen.
-  - Innstillingen: enstemmig stemmer
+  - Innstillingen: enstemmig
 - Votering over Dambas forslag 'Forskjeller mellom bydeler'.
   - For: 60 stemmer
   - Mot: 7 stemmer

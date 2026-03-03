@@ -1,0 +1,26 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 25/25
+rodt_fremmet: False
+---
+
+Tittel: Deltakelse i Trondheimsalliansen
+
+Vedtak:
+Kommunestyret vedtar deltakelse i Trondheimalliansen og tilslutter seg vedlagte samarbeidsavtale.
+Representanter fra Orkland kommune vil være
+Hanne Nyhus, AP. Vara Eva Legar Solstad, H
+Kristian Martin Fremstad, SP. Vara Helge Ringli, Frp
+
+Alternative forslag:
+- AP, H, SMP, SV og V: Nåværende representanter fortsetter i Trondheimsalliansen.
+Representant Hanne Nyhus, AP vara Eva Solstad Legar, H
+Representant Kristian Martin Fremstad, SP vara Torstein Larsen PP
+- Torstein Larsen, PP: Helge Ringli, FRP erstatter Torstein Larsen, PP som vararepresentant.
+
+Voteringer:
+- Ordføreren sin innstilling
+  - For: enstemmig
+- Forslag fra ordfører på representasjon med endring av vararepresentant foreslått av PP
+  - For: enstemmig

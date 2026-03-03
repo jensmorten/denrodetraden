@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 14/25
+rodt_fremmet: False
+---
+
+Tittel: PS 14/25 Kontrollutvalgets årsmelding 2024
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsmelding 2024 til orientering.
+
+Voteringer:
+- Votering over kontrollutvalgets innstilling
+  - For: enstemmig

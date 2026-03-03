@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 89/25
+rodt_fremmet: False
+---
+
+Tittel: 89/25 Rapportering per september 2025 for Orklandbadet KF
+
+Vedtak:
+Kommunestyret tar rapport per september 2025 for Orklandbadet KF til orientering
+
+Voteringer:
+- Votering i Formannskap 25.11.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 16.12.2025
+  - Formannskapets innstilling: enstemmig

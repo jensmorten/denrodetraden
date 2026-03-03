@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 60/25
+rodt_fremmet: False
+---
+
+Tittel: Fritak fra folkevalgte verv - Sigurd Flø Gustad
+
+Vedtak:
+Det tas til orientering at Sigurd Flø Gustad har flyttet fra Levanger kommune, og dermed er fritatt fra sitt folkevalgte verv som 1. vara for Kristelig Folkeparti til kommunestyret i Levanger. Atle Sjaastad rykker opp som 1. vara til kommunestyret for Kristelig Folkeparti. Som nytt varamedlem til fjellstyret – Skogn velges: Atle Sjaastad
+
+Voteringer:
+- Votering over innstillingen om fritak og ny vararepresentant
+  - For: 35 stemmer

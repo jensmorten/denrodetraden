@@ -1,0 +1,18 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/012
+rodt_fremmet: False
+---
+
+Tittel: 26/012 Samlesak for referatsaker
+
+Vedtak:
+Sakene tas til orientering.
+• 26/004 Årsrapport 2025 - Kommunalt råd for mennesker med nedsatt funksjonsevne i Ørland kommune
+• 26/005 Årsrapport 2025 - Ørland Eldreråd
+
+Voteringer:
+- Votering over forslag: Opprinnelig forslag
+  - For: 30 stemmer
+  - Mot: 0 stemmer

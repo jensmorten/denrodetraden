@@ -1,0 +1,28 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 291/25
+rodt_fremmet: False
+---
+
+Tittel: PS 291/2025 Nytt reglement for Klageutvalget
+
+Vedtak:
+
+
+Alternative forslag:
+- Gjermund Gorset (Ap) på vegne av Ap, H, SV: Alternativt forslag til punkt 1 (punkt 3.3 i reglementet): 1. Bystyret vedtar vedlagt reglement for Klageutvalget med følgende endring: 3.3 Setningen “Klager har ikke adgang til å møte og fremme sin sak i møtet.” strykes. Legges til: "Klageutvalget kan ved flertall velge å invitere klager til å få legge frem sin sak for utvalget."
+- Gjermund Gorset (Ap): Beholde samme antall som i dag: 3. Punkt 1.2 i reglementet endres til: "I det konstituerende møtet velger bystyret en leder, varaordføreren og fem medlemmer av bystyret, med vararepresentanter. Bystyret velger klageutvalgets leder og nestleder. Leder og nestleder skal ikke tilhøre samme parti eller partigruppering. Utvalget kan opprette et arbeidsutvalg (AU) bestående av leder og nestleder og ellers de medlemmer utvalget bestemmer."
+- Gjermund Gorset (Ap): Reglementet trer i kraft fra 01.02.2026.
+
+Voteringer:
+- Votering mellom innstillingens punkt 1 og forslag fra Ap "Alternativt forslag til punkt 1 (punkt 3.3 i reglementet)"
+  - Innstillingens punkt 1: 0 stemmer
+  - Ap sitt alternativt forslag til punkt 1: enstemmig
+- Votering om innstillingens punkt 2
+  - Innstillingens punkt 2: 32 stemmer
+  - Mot innstillingens punkt 2: 35 stemmer
+- Votering om Aps tilleggsforslag "3. 1.2 - Beholde samme antall som i dag"
+  - Aps tilleggsforslag: enstemmig
+- Votering om Aps forslag "Endring av punkt 4"
+  - Aps forslag: enstemmig

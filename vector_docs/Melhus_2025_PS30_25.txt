@@ -12,4 +12,4 @@ Saken tas til orientering.
 
 Voteringer:
 - Votering over innstillingen: Saken tas til orientering.
-  - Saken tas til orientering.: None stemmer
+  - Saken tas til orientering.: ukjent

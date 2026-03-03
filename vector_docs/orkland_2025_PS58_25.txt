@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 58/25
+rodt_fremmet: False
+---
+
+Tittel: Oppvekstplan 2025-2029
+
+Vedtak:
+Kommunestyret tar Oppvekstplan 2025-2029 til orientering.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 03.06.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 17.06.2025
+  - Hovedutvalg helse, oppvekst og kultur sin innstilling: enstemmig

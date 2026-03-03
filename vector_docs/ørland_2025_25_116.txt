@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/116
+rodt_fremmet: False
+---
+
+Tittel: Spørretimen/Interpellasjoner
+
+Vedtak:
+Kommunestyret tok spørsmål og svar til informasjon.
+
+Voteringer:
+- Vedtak om å ta spørsmål og svar til informasjon
+  - For: ukjent
+  - Mot: ukjent

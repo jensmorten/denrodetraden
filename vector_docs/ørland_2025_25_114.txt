@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/114
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og saksliste ble vedtatt med følgende merknader.
+
+Voteringer:
+- Innkalling og saksliste med merknader ble enstemmig vedtatt ved manuell votering.
+  - For: alle

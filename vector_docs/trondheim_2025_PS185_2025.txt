@@ -15,6 +15,6 @@ Alternative forslag:
 
 Voteringer:
 - Votering over innstillingen.
-  - Innstillingen: enstemmig stemmer
+  - Innstillingen: enstemmig
 - Votering over Hs forslag om nytt settemedlem i studentrådet.
-  - Hs forslag (Sindre Nilsskog som settemedlem): enstemmig stemmer
+  - Hs forslag (Sindre Nilsskog som settemedlem): enstemmig

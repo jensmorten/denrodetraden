@@ -1,0 +1,21 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 45/25
+rodt_fremmet: False
+---
+
+Tittel: Kvalitetsmelding 2024 helse og mestring
+
+Vedtak:
+Kommunestyre vedtar kvalitetsmeldingen. Tiltak som får økonomiske konsekvenser tas inn i budsjett og handlingsplan eller fremmet som egen sak til kommunestyret.
+
+Voteringer:
+- Behandling i Kommunalt råd for mennesker med nedsatt funksjonsevne (2023-2027) 08.05.2025
+  - Vedtak om å ta saken til orientering og bifalle at dette er en årlig kartlegging: ukjent
+- Votering i Eldreråd 08.05.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Hovedutvalg helse, oppvekst og kultur (2023-2027) 06.05.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 20.05.2025
+  - Hovedutvalg helse, oppvekst og mestring sin innstilling: enstemmig

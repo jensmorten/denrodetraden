@@ -1,0 +1,18 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/063
+rodt_fremmet: False
+---
+
+Tittel: Veterinærvaktordning i Ørland kommune
+
+Vedtak:
+Midlene avsatt i budsjettet for 2025, tilsvarende statens timesatser for beredskap på kveld, natt, helg og høytider, benyttes i perioden fra 01.01.25-31.12.25 til å doble statens satser, for å rekruttere vikar og beholde dagens veterinærer.
+Det delegeres til Kommunedirektøren å utarbeide midlertidig avtale.
+Tiden frem til neste års budsjettvedtak brukes for å finne en mer langsiktig løsning for veterinærvakttjenesten i kommunen.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

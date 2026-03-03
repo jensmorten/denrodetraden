@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 314/25
+rodt_fremmet: False
+---
+
+Tittel: PS 314/2025 Valg av settemedlem
+
+Vedtak:
+Bystyret oppnevner følgende settevaramedlem i kontrollutvalget: For første vara for eksternt medlem Andersen velges Kristin Nybrodahl (Ap)
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - Innstillingen: enstemmig

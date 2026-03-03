@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 44/25
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport Barne- og familietjenesten 2024
+
+Vedtak:
+Kommunestyre tar tilstandsrapporten til orientering.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 06.05.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 20.05.2025
+  - Hovedutvalg helse, oppvekst og kulturs innstilling: enstemmig

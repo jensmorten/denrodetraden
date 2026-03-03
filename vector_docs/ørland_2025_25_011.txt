@@ -1,0 +1,27 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/011
+rodt_fremmet: False
+---
+
+Tittel: Debatthefte 2025 - "Fra forventning til virkelighet - om forventningsgapet"
+
+Vedtak:
+{'tekst': 'Kommunestyret ber administrasjonen bearbeide innspill framkommet i workshop og legge dette fram for formannskapet til behandling den 6. februar.', 'referanse': 'KST - 25/011'}
+{'tekst': 'Saken utsettes og behandles i neste formannskapsmøte.', 'referanse': 'FSK - 25/004'}
+{'tekst': 'Saken utsettes og behandles i neste formannskapsmøte.', 'referanse': 'FSK - 24/081'}
+
+Alternative forslag:
+- Hallgeir Grøntvedt, Senterpartiet: Kommunestyret ber administrasjonen bearbeide innspill framkommet i workshop og legge dette fram for formannskapet til behandling den 6. februar.
+- Hallgeir Grøntvedt, Senterpartiet: Saken utsettes og behandles i neste formannskapsmøte.
+
+Voteringer:
+- Votering over forslag til vedtak i kommunestyret 23.01.2025
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag om utsettelse i formannskapet 09.01.2025
+  - For: 9 stemmer
+- Votering over forslag i formannskapet 05.12.2024
+  - Opprinnelig forslag: 0 stemmer
+  - Nytt forslag: 7 stemmer

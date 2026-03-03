@@ -1,0 +1,20 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/069
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og sakliste med merknader ble enstemmig vedtatt ved manuell votering.
+
+Alternative forslag:
+- Ordfører Hallgeir Grøntvedt: Forslag på settevaraordfører; Therese M. Eidsaune.
+
+Voteringer:
+- Valg av settevaraordfører; forslag om Therese M. Eidsaune
+  - Therese M. Eidsaune: enstemmig
+- Godkjenning av innkalling og saksliste med merknader
+  - Godkjent: enstemmig

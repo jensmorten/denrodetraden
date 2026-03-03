@@ -1,0 +1,22 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/085
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjon - Saksbehandling av dispensasjoner og arbeid med arealplaner
+
+Vedtak:
+Kontrollutvalget legger fram rapport fra forvaltningsrevisjon til kommunestyret med følgende forslag til vedtak:
+1. Kommunestyret ber kommunedirektøren om å:
+a. ta i bruk en felles mal for saksutredninger og vedtak i dispensasjonssaker.
+b. utarbeide og følge opp operative prosjektplaner for arbeidet med planrevisjoner, for å sikre bedre styring av ressurser, tidsbruk og milepæler i arbeidet.
+c. etablere systemer og utvikle en felles praksis for god introduksjon og oppfølging av nye medarbeidere.
+d. tette ressursgap i arealplanleggingen ved å arbeidet enda mer strukturert og planmessig.
+2. Kommunestyret ber kommunedirektøren orientere kontrollutvalget skriftlig om hvordan kommunen arbeider med å innarbeide anbefalingene i punkt 1 innen utgangen av første kvartal 2026.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

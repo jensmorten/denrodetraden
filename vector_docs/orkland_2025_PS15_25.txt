@@ -1,0 +1,26 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 15/25
+rodt_fremmet: False
+---
+
+Tittel: 15/25 Finansiering av feiemaskin
+
+Vedtak:
+{'beskrivelse': 'For vårpussen 2025 vedtas alternativ 4 – Leie inn ekstern entreprenør. Dersom reparasjon gir lavere kostnad utføres reparasjon. Ved eventuell innleie av ekstern entreprenør for 2025, tar kommunedirektøren innkjøp av feiemaskin inn i sitt forslag til investeringsbudsjettet for 2026. Kostnaden dekkes over driftsbudsjettet med enhetens prioritering av oppgaver.', 'begrunnelse': 'Ved budsjettbehandlinga for 2025 vedtok kommunestyret følgende verbalforslag: ….Det er behov for en forankret strategi for hvordan den kommunale tjenesteproduksjonen skal løses framover med fokus på, bl.a. -Hva skal kommunen eie av utstyr og maskiner? Det føles ikke riktig å foreta investeringer i utstyr og maskiner før kommunedirektøren har besvart verbalforslaget.'}
+{'beskrivelse': 'Kommunestyret vedtar innkjøp av feiemaskin til vei innenfor en kostnad på 1 125 000 kroner inklusive merverdiavgift. Investeringen finansieres med bruk av disposisjonsfond. Feiemaskina tas med i det videre arbeidet med en strategisk plan for kommunens behov for maskinpark og hvilke oppgaver som skal løses i egenregi. Kommunedirektøren foretar nødvendige budsjettjusteringer.'}
+
+Alternative forslag:
+- SP: Kommunestyret vedtar innkjøp av feiemaskin til vei innenfor en kostnad på 1 125 000 kroner inklusive merverdiavgift. Investeringen finansieres med låneopptak. Saken oversendes formannskapet.
+- Ap, Høyre og Småbypartiet: For vårpussen 2025 vedtas alternativ 4 – Leie inn ekstern entreprenør. Dersom reparasjon gir lavere kostnad utføres reparasjon. Ved eventuell innleie av ekstern entreprenør for 2025, tar kommunedirektøren innkjøp av feiemaskin inn i sitt forslag til investeringsbudsjettet for 2026. Kostnaden dekkes over driftsbudsjettet med enhetens prioritering av oppgaver.
+- AP, H, SMP, SV og V: Kommunestyret vedtar innkjøp av feiemaskin til vei innenfor en kostnad på 1 125 000 kroner inklusive merverdiavgift. Investeringen finansieres med bruk av disposisjonsfond. Feiemaskina tas med i det videre arbeidet med en strategisk plan for kommunens behov for maskinpark og hvilke oppgaver som skal løses i egenregi. Kommunedirektøren foretar nødvendige budsjettjusteringer.
+
+Voteringer:
+- Votering i Hovedutvalg Teknikk 11.03.2025
+  - Kommunedirektørens innstilling: 0 stemmer
+  - Forslag AP, H og SMP: 5 stemmer
+  - Forslag SP: 4 stemmer
+- Votering i Kommunestyre 25.03.2025
+  - Hovedutvalg teknikk sin innstilling: 11 stemmer
+  - Forslag fra AP, H, SMP, SV og V: 31 stemmer

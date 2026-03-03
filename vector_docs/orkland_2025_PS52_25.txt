@@ -1,0 +1,44 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 52/25
+rodt_fremmet: False
+---
+
+Tittel: 52/25 Budsjettkorrigeringer juni 2025 - drift
+
+Vedtak:
+Kommunestyret vedtar følgende budsjettendringer:
+Ramme Type endring Endring
+Kommunedirektør Bredbånd og Fellesråd 212 000
+Kultur SLT-koordinator og livsmestring -971 000
+Barnehage SLT-koordinator 961 000
+Skole Livsmestring og lekeplasser -90 000
+Mestring Utskrivningsklare pasienter og ØHD -1 767 000
+Hjemmetjenester Utskrivningsklare pasienter 1 660 000
+Institusjon Utskrivningsklare pasienter og ØHD 1 149 000
+Plan Rassikring, kulturmiljøpland, fremmede arter og snøscooter 1 365 000
+Vei, vann og avløp Friluftsområder 162 000
+Totalt 2 681 000
+Kommunestyret vedtar følgende finansiering:
+Ramme Finansieringskilde Endring
+Fellesinntekter Avsetning ordinært disposisjonsfond 140 000
+Fellesinntekter Bruk ordinært disposisjonsfond -1 326 000
+Fellesinntekter Bruk disposisjonsfond - bredbåndsutbygging -108 000
+Kultur Bruk disp.fond - oversk.fond Kultur -1 000 000
+Barnehage Overføring til investeringer 100 000
+Plan Bruk disp.fond - bekjempelse fremmede arter -100 000
+Plan Bruk disp.fond - oversk.fond Landbruk -387 000
+Totalt -2 681 000
+Følgende investeringer vedtas:
+Investering Lekeplasser barnehage 125 000
+Finansiert ved Refusjon momskompensasjon -25 000
+Finansiert ved Overføring til investering fra drift -100 000
+Sum 0
+Kommunedirektøren gis fullmakt til å foreta de nødvendige detaljerte budsjettendringer i tråd med saksframlegget.
+
+Voteringer:
+- Votering i Formannskap 10.06.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 17.06.2025
+  - Formannskapets innstilling: enstemmig

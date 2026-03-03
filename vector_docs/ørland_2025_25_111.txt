@@ -1,0 +1,23 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/111
+rodt_fremmet: False
+---
+
+Tittel: Vurdering av bygg for barnehagen i Lysøysundet og Botngård Barneskole
+
+Vedtak:
+Rapport - forslag til strukturendring oppvekst til høring som ble lagt frem i kommunestyret mars 2025, i sak 25/039 sendes ut på høring. Rapporten sendes ut på høring i september, med en høringsperiode på tre måneder. Tilbakemeldingene fra høringene skal behandles i komite for oppvekst og utdanning før jul og i kommunestyret i januar 2026.
+
+Alternative forslag:
+- Fredrik Sandness, Arbeiderpartiet: Kommunestyret ber om at kommunedirektøren iverksetter et arbeid for å erstatte midlertidig løsning i Lysøysund, og ønsker et prisoverslag så snart som mulig slik at man får jobbet det inn i budsjettprossesen for 2026.
+- Therese Mossing Eidsaune, Høyre: Rapport - forslag til strukturendring oppvekst til høring som ble lagt frem i kommunestyret mars 2025, i sak 25/039 sendes ut på høring. Rapporten sendes ut på høring i september, med en høringsperiode på tre måneder. Tilbakemeldingene fra høringene skal behandles i komite for oppvekst og utdanning før jul og i kommunestyret i januar 2026.
+
+Voteringer:
+- Votering over forslag - Opprinnelig forslag
+  - For: 3 stemmer
+  - Mot: 27 stemmer
+- Votering over forslag - Rapport - forslag til strukturendring oppvekst til høring
+  - ENF - Rapport - forslag til strukturendring oppvekst til høring: 19 stemmer
+  - ENF - Nytt forslag: 11 stemmer

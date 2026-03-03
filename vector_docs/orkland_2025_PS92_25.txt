@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 92/25
+rodt_fremmet: False
+---
+
+Tittel: 92/25 Budsjettjusteringer drift, desember 2025
+
+Vedtak:
+Kommunestyret vedtar følgende budsjettendringer på drift: Netto endr. Avsetninger fonds Bruk fonds Overføring ramme Bundne Ubundne Bundne Ubundne investering Fellesinntekter -10 060 000 -8 000 000 Kommunedirektør 8 969 000 Kultur Barnehage -36 000 Grunnskole -1 005 000 1 126 000 Tverrfaglige tjenester Mestring -5 070 000 370 000 Hjemmebaserte 9 406 000 tjenester Institusjon 2 712 000 Plan -1 105 000 1 760 000 180 000 -92 000 Kommunalteknikk -185 000 1 030 000 Sum 3 626 000 0 -3 714 000 180 000 -92 000 0 Kommunedirektøren gis fullmakt til å foreta nødvendige detaljerte budsjettendringer i tråd med saksframlegget.
+
+Voteringer:
+- Votering i Formannskap 09.12.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 16.12.2025
+  - Formannskapets innstilling: enstemmig

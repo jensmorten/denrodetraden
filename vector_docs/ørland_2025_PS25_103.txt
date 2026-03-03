@@ -1,0 +1,25 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/103
+rodt_fremmet: False
+---
+
+Tittel: Opprykk og nyvalg ifm fritak fra faste verv som folkevalgt for resten av valgperioden 2023-2027
+
+Vedtak:
+Til kommunestyret: 1. vara for INP går inn som fast, Odd Inge Hovd. Utvalg for Helse og Familie: 1. vara for INP går inn som fast, Anja Karin Fjellheim. Som leder i utvalget foreslås Sonja Christiansen, H. Arbeidsutvalg/Valgnemda: Gisle Moen. Fosen Helse IKS: Sonja Christiansen. Representant som styremedlem i Roret fra Idrettsrådet, Andreas Erikstad Meier. Einar Aaland fortsette som varamedlem. Varamedlem til: Landbruksnemda: Thomas Brækstad Moen Forliksrådet: Thomas Morken Fosen Renovasjon: Tine Hegge Notøy. Vallersund Gård: Roy Olav Skogen
+
+Alternative forslag:
+- Marit Sletten (INP): 1. vara for INP går inn som fast, Odd Inge Hovd. Utvalg for Helse og Familie: 1. vara for INP går inn som fast, Anja Karin Fjellheim. Som leder i utvalget foreslås Sonja Christiansen, H. Arbeidsutvalg/Valgnemda: Gisle Moen. Fosen Helse IKS: Sonja Christiansen. Representant som styremedlem i Roret fra Idrettsrådet, Andreas Erikstad Meier. Einar Aaland fortsette som varamedlem. Varamedlem til: Landbruksnemda: Thomas Brækstad Moen Forliksrådet: Thomas Morken Fosen Renovasjon: Tine Hegge Notøy. Vallersund Gård: Roy Olav Skogen
+
+Voteringer:
+- Votering over forslag
+  - For: 29 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag
+  - For: 29 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag
+  - For: 29 stemmer
+  - Mot: 0 stemmer

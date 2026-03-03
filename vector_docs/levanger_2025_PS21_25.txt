@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 21/25
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering Hovåsen - sluttbehandling
+
+Vedtak:
+Detaljregulering for Hovåsen, versjon revidert etter høring, vedtas jfr. Plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Votering over innstilling om detaljregulering for Hovåsen
+  - For: 34 stemmer

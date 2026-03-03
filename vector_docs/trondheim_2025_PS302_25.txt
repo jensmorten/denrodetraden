@@ -1,0 +1,26 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 302/25
+rodt_fremmet: True
+---
+
+Tittel: PS 302/2025 Digital områdesikring - utvidelse av prøveordning
+
+Vedtak:
+Prøveordningen med digital områdesikring av ti skole-/barnehageanlegg utvides med en mulighet for fem ekstra anlegg, slik at det er muligheter for å raskt trygge skoler/barnehager der det har oppstått et ekstraordinært behov for områdesikring. Bystyret forutsetter at en eventuell utvidelse av prosjektet skjer på en måte som ivaretar ansatte og brukeres rettigheter. Det må sikres at det ikke foregår filming når enhetene er i bruk til utleid aktivitet, eller når ansatte er til stede i planlagt arbeidstid. Videre må utrullingen av prosjektet skje i reelt samarbeid med de ansattes tillitsvalgte og andre berørte brukere. Formålet med innføringen skal drøftes med tillitsvalgte før prosjektet eventuelt utvides. Ethvert kontrolltiltak skal følge gjeldende lovverk og hovedavtalen i kommunen.
+
+Alternative forslag:
+- Erling Eide Hustvedt (Ap): Parallell pilot med forebyggende tiltak: Bystyret mener det i tillegg må satses mer på forebygging og et sterkt lag rundt barn og unge, og ber derfor byrådet fremme en sak for bystyret med en parallell pilot med fokus på andre forebyggende tiltak.
+- Arve Sletten (R): Involvering og medvirkning: Bystyret forutsetter at en eventuell utvidelse av prosjektet skjer på en måte som ivaretar ansatte og brukeres rettigheter. Det må sikres at det ikke foregår filming når enhetene er i bruk til utleid aktivitet, eller når ansatte er til stede i planlagt arbeidstid. Videre må utrullingen av prosjektet skje i reelt samarbeid med de ansattes tillitsvalgte og andre berørte brukere. Formålet med innføringen skal drøftes med tillitsvalgte før prosjektet eventuelt utvides. Ethvert kontrolltiltak skal følge gjeldende lovverk og hovedavtalen i kommunen.
+
+Voteringer:
+- Votering om innstillingen
+  - For innstillingen: 55 stemmer
+  - Mot innstillingen: 12 stemmer
+- Votering om Aps tilleggsforslag 'Parallell pilot med forebyggende tiltak'
+  - For Aps tilleggsforslag: 31 stemmer
+  - Mot Aps tilleggsforslag: 36 stemmer
+- Votering om Rødts tilleggsforslag 'Involvering og medvirkning'
+  - For Rødts tilleggsforslag: 34 stemmer
+  - Mot Rødts tilleggsforslag: 33 stemmer

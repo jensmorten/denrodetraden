@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 69/25
+rodt_fremmet: False
+---
+
+Tittel: Møteplan for Orkland kommune 2026
+
+Vedtak:
+Vedlagte møteplan for 2026 vedtas.
+
+Voteringer:
+- Votering i Formannskap 30.09.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 14.10.2025
+  - Formannskapets innstilling: enstemmig

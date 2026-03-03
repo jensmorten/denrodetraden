@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/050
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om tildeling av kommunal bolig, Ørland kommune
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Votering om utsettelse av saken
+  - For utsettelse: enstemmig

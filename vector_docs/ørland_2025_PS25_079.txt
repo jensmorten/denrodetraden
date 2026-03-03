@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/079
+rodt_fremmet: False
+---
+
+Tittel: 25/079 Søknad om fritak fra faste verv som folkevalgt ifm flytting - opprykk og nyvalg
+
+Vedtak:
+Hilde Kristin Sandvik gis fritak fra alle sine politiske verv fra 01.08.25 og ut valgperioden.
+
+Alternative forslag:
+- Marit Sletten, Industri- og Næringspartiet: Hilde Kristin Sandvik gis fritak fra alle sine politiske verv fra 01.08.25 og ut valgperioden.
+
+Voteringer:
+- Votering over forslag
+  - For: 28 stemmer
+  - Mot: 0 stemmer

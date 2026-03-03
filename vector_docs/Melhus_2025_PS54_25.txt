@@ -16,7 +16,7 @@ Alternative forslag:
 Voteringer:
 - Utsettelsesforslag fra FrP, H, ML og PP
   - Utsettelsesforslag: 18 stemmer
-  - Mot utsettelsesforslag: None stemmer
+  - Mot utsettelsesforslag: ukjent
 - Realitetsbehandling av formannskapets innstilling
-  - Formannskapets innstilling: None stemmer
+  - Formannskapets innstilling: ukjent
   - Mot formannskapets innstilling (INP, Jørund Handå Ofstad (PP), Gunnar Andreas Johansen (PP)): 3 stemmer

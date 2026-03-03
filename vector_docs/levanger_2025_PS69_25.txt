@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 69/25
+rodt_fremmet: False
+---
+
+Tittel: Utredning av eventuelt vertskommunesamarbeid mellom Verdal og Levanger om Nav - forslag til mandat
+
+Vedtak:
+Mandat for utredning av eventuelt vertskommunesamarbeid om NAV Verdal/Levanger vedtas som forelagt.
+
+Voteringer:
+- Votering over innstilling om mandat for utredning av eventuelt vertskommunesamarbeid om NAV Verdal/Levanger
+  - For: 35 stemmer

@@ -1,0 +1,25 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 71/25
+rodt_fremmet: False
+---
+
+Tittel: 71/25 Søknad om fritak fra politiske verv
+
+Vedtak:
+Kristine Løfshus Solli, AP innvilges fritak fra sine politiske verv i kommunestyret og hovedutvalg teknikk ut valgperioden.
+Som nytt medlem i kommunestyret rykker første vara Marit Halsetrønning opp som fast medlem. Øvrige varamedlemmer rykker opp på varamannslisten.
+Som fast medlem i hovedutvalg teknikk velges Marit Halsetrønning.
+Som vararepresentant til styret i stiftelsen Orkla gjestebolig velges Olga Ucinska.
+
+Alternative forslag:
+- Hanne Nyhus, AP: Nytt medlem i hovedutvalg teknikk: Marit Halsetrønning. Nytt varamedlem til styret i stiftelsen Orkla Gjestebolig: Olga Ucinska.
+
+Voteringer:
+- Votering i Valgutvalg 13.10.2025
+  - Kommunedirektørens innstilling: 9 stemmer
+- Votering i Valgutvalg 13.10.2025 på forslag fra Hanne Nyhus, AP
+  - Forslag fra Hanne Nyhus, AP: 9 stemmer
+- Votering i Kommunestyre 14.10.2025
+  - Valgutvalgets innstilling: enstemmig

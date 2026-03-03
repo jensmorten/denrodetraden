@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 29/25
+rodt_fremmet: False
+---
+
+Tittel: PS 29/25 Delårsrapport nr. 1 2025 - Levanger kommune
+
+Vedtak:
+Delårsrapport nr. 1/2025 tas til orientering.
+
+Voteringer:
+- Votering over innstillingen om å ta Delårsrapport nr. 1/2025 til orientering
+  - For: 35 stemmer

@@ -12,5 +12,5 @@ Saken ble vedtatt utsatt under konstitueringen av møtet.
 
 Voteringer:
 - Votering om utsettelse av saken under konstitueringen av møtet.
-  - Utsette saken: None stemmer
-  - Ikke utsette saken: None stemmer
+  - Utsette saken: ukjent
+  - Ikke utsette saken: ukjent

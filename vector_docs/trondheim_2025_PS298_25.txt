@@ -1,0 +1,23 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 298/25
+rodt_fremmet: False
+---
+
+Tittel: PS 298/2025 Trondheim kommunes temaplan for Nasjonaljubileet i 2030
+
+Vedtak:
+Bystyret vedtar Trondheim kommunes temaplan for Nasjonaljubileet i 2030.
+Bydelene i Trondheim må engasjeres i den videre planleggingen. Likeså de lokale historielagene som kjenner lokalhistorien om Olavskulten og tiden etterpå.
+
+Alternative forslag:
+- Sigurd Jan Ingvaldsen (Ap): Bydelene i Trondheim må engasjeres i den videre planleggingen. Likeså de lokale historielagene som kjenner lokalhistorien om Olavskulten og tiden etterpå.
+
+Voteringer:
+- Votering over innstillingen
+  - For: 67 stemmer
+  - Mot: 0 stemmer
+- Votering over Aps tilleggsforslag
+  - For: 40 stemmer
+  - Mot: 27 stemmer

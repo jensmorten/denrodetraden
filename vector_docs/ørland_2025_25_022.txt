@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/022
+rodt_fremmet: False
+---
+
+Tittel: Avslutningsregnskap og årsberetning og årsregnskap for Valsneset Utvikling Ørland KF 2024
+
+Vedtak:
+Saken ble trukket fra sakskartet i kommunestyret 20.02.2025 og behandles senere sammen med øvrige regnskaper. Styret for Valsneset Utvikling Ørland KF vedtok innstillingen enstemmig 28.01.2025.
+
+Voteringer:
+- Votering i Styret for Valsneset Utvikling Ørland KF 28.01.2025
+  - For: enstemmig

@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/007
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til Ordfører - grunnbemanning skole/barnehage og åpning av Bjugn svømmehall
+
+Vedtak:
+Svar på spørsmål ble referert for kommunestyret av ordfører.

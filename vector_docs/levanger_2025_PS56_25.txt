@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 56/25
+rodt_fremmet: False
+---
+
+Tittel: Oppfølging av forvaltningsrevisjon rus og psykiatri - forespørsel til kommunestyret om frist for å etablere brukerundersøkelser
+
+Vedtak:
+Kommunestyret anser at etablering av brukerundersøkelser for personer som har tjenester for psykisk helse kan gjøres gjennom deltakelse i det nasjonale arbeidet, ved utvidelse av den nasjonale ordningen som KORUS har.
+
+Voteringer:
+- Votering over Kontrollutvalgets forslag til vedtak om etablering av brukerundersøkelser for personer med tjenester for psykisk helse.
+  - For: 35 stemmer

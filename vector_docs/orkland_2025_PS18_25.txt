@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 18/25
+rodt_fremmet: False
+---
+
+Tittel: 18/25 Kontrollutvalgets årsmelding 2024
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsmelding 2024 til orientering.
+
+Voteringer:
+- Votering over Kontrollutvalgets innstilling
+  - For: enstemmig

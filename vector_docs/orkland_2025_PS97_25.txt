@@ -1,0 +1,38 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 97/25
+rodt_fremmet: False
+---
+
+Tittel: 97/25 Prioritering av søknader om spillemidler til idrettsformål 2026
+
+Vedtak:
+Orkland kommune vedtar følgende prioritering av søknader om spillemidler til idrettsanlegg og nærmiljøanlegg 2026:
+
+Ordinære idrettsanlegg
+Prioritet Søker Anleggsnavn Søknadsbeløp
+1 U&IL Glimt Garderobe og lagerbygg 550 000
+2 Orkdal IL Rehabilitering lys - hopp og alpint. Knyken skisenter 465 000
+3 IKAS Rehabilitering lys - Orkla Maskin arena 232 000
+4 Meldal sportsklubb Garasjebygg Løypemaskin - Litjåsen 335 000
+5 Orkland kommune Rehabilitering garderober Orklahallen - 4 sett 2 000 000
+6 NMK Orkla Klubbhus Wallenberg Arena 576 000
+7 Orkdal IL Rehabilitering lys - Fannremsmoen kunstgressbane 354 000
+8 Orkland kommune Rehabilitering lys Orklahallen - hele anlegget 350 000
+9 Orkdal IL Rehabilitering lys - skistadion. Knyken skisenter 325 000
+Sum Søknadsbeløp Ordinære anlegg 5 187 000
+
+Nærmiljøanlegg
+Prioritet Søker Anleggsnavn Søknadsbeløp
+1 Orkanger Vel Nerviksparken - Tursti 400 000
+2 Orkanger Vel Nerviksparken - Fleraktivitetsområde / Tuftepark 400 000
+3 Joplassen Vel Ballbinge med lys 400 000
+4 Orkanger Vel Nerviksparken - sandvolleyballbane 110 000
+Sum Søknadsbeløp Nærmiljøanlegg 1 310 000
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 02.12.2025 om kommunedirektørens innstilling
+  - For: enstemmig
+- Votering i Kommunestyret 16.12.2025 om Hovedutvalg helse, oppvekst og kulturs innstilling
+  - For: 42 stemmer

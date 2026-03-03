@@ -1,0 +1,18 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 74/25
+rodt_fremmet: False
+---
+
+Tittel: Vertskommuneavtale om brann og redningstjenester mellom Frosta og Levanger kommuner
+
+Vedtak:
+Avtale om vertskommunesamarbeid for brann- og redning mellom Frosta og Levanger kommuner godkjennes.
+Kommunedirektøren gis fullmakt til å undertegne avtalen.
+Økonomiske konsekvenser av avtalen innarbeides i økonomi og handlingsplan.
+Avtalen gjøres gjeldende fra 1.1.2026.
+
+Voteringer:
+- Votering over innstillingen om avtale om vertskommunesamarbeid for brann- og redning mellom Frosta og Levanger kommuner
+  - For: 35 stemmer

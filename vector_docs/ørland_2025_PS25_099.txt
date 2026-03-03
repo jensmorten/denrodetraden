@@ -1,0 +1,18 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/099
+rodt_fremmet: False
+---
+
+Tittel: Disponering av inntekter fra salg av kommunale boliger
+
+Vedtak:
+Kommunestyret gir administrasjonen fullmakt til å benytte midler fra salg av kommunale boliger, for å iverksette fornying og oppgradering av den kommunale boligporteføljen der kommunen har et lovpålagt ansvar.
+Kommunestyret gir administrasjonen fullmakt til å investere i kommunale boliger fra det åpne marked gjennom rammer fra salgsinntekter.
+Administrasjonen legger frem oppdatering av kommunens eiendomsstrategi i løpet av september 2025 for gjennomgang av kommunens øvrige bygg og eiendommer.
+
+Voteringer:
+- Votering over forslag - Opprinnelig forslag
+  - For: 18 stemmer
+  - Mot: 11 stemmer

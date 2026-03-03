@@ -1,0 +1,23 @@
+METADATA:
+kommune: orkland
+year: 2026
+saksnummer: PS 10/26
+rodt_fremmet: False
+---
+
+Tittel: Søknad om kommunal garanti for lån - Hoston Storstue SA
+
+Vedtak:
+Kommunestyret vedtar at:
+• Orkland kommune innvilger simpel garanti for lån på 1 200 000 kr i Orkla Sparebank. Hoston Storstue SA tar opp lånet for å refinansiere restlån for Hoston Storstue
+• Garantien gjelder lånets hovedstol, maksimalt 1 200 000 kr med tillegg av 10 % av enhver tid gjeldende hovedstol til dekning av eventuelle påløpte renter og omkostninger.
+• Kommunens maksimale garantiansvar kan ikke overstige 1 320 000 kr.
+• Garantien gjelder et nedbetalingslån med en løpetid på inntil 20 år.
+• Garantiansvaret gjelder fra vedtak og reduseres i takt med nedbetalingen av lånet, og garantiansvaret utløper i helhet 1.03.2046.
+• Garantien krever ikke godkjenning fra statsforvalteren
+
+Voteringer:
+- Votering i Formannskap 10.02.2026
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 24.02.2026
+  - Formannskapets innstilling: enstemmig

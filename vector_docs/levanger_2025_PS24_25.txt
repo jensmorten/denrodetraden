@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 24/25
+rodt_fremmet: False
+---
+
+Tittel: Kvalitetsmelding for grunnskolen i Levanger kommune 2024
+
+Vedtak:
+Kvalitetsmelding for grunnskolen i Levanger kommune 2024 vedtas.
+
+Voteringer:
+- Avstemming over innstilling om kvalitetsmelding for grunnskolen i Levanger kommune 2024
+  - For: 35 stemmer

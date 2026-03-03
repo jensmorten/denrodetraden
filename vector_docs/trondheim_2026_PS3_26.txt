@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 3/26
+rodt_fremmet: False
+---
+
+Tittel: Etterlevelseskontroll - Kommunens leverandør- og økonomioppfølging i ordningen brukerstyrt personlig assistanse
+
+Vedtak:
+Saken ble ikke behandlet i møtet 29.01. 2026.
+
+Alternative forslag:
+- Haakon Gussiaas (H): 1. Bystyret mener det er uheldig at kommunens oppfølging av konsesjonsavtalene er mangelfull.
+2. Bystyret ber byrådet sikre likebehandling ved vedtak om enten brukerstyrt personlig assistanse eller alternative tjenester.
+3. Bystyret mener det ikke er tilstrekkelig oppfølging av leverandørens rapportering av timeforbruk og fakturering.
+4. Bystyret ber byrådet melde tilbake til kontrollutvalget om hvordan bystyrets vedtak i etterlevelseskontrollen er fulgt opp innen 01.07.2026
+5. Bystyret tar ellers rapporten til orientering.

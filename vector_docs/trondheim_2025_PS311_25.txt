@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 311/25
+rodt_fremmet: False
+---
+
+Tittel: PS 311/2025 Nyvalg utvalgene
+
+Vedtak:
+Forretningsutvalget, Valgstyret, Samevalgstyret, Karanteneutvalget, Administrasjonsutvalget og Klageutvalget ble satt med oppnevnte medlemmer og varamedlemmer som listet. Leder og nestledere i Klageutvalget og Administrasjonsutvalget ble valgt som foreslått.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: alle

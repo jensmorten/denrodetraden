@@ -51,7 +51,7 @@ Nytt kulepunkt:
 
 Voteringer:
 - Kommunestyret tar saken til orientering.
-  - For: None stemmer
+  - For: ukjent
 - Tilleggsforslag fra Fritz Arne Haugen kulepunkt 2
   - For: 21 stemmer
   - Mot (H, ML, FrP og PP): 15 stemmer

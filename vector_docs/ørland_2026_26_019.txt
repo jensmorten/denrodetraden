@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/019
+rodt_fremmet: True
+---
+
+Tittel: Forskrift om skole- og feriedager 2026-2027
+
+Vedtak:
+På grunn av manglende saksdokumenter utsettes saken til neste møte.
+
+Alternative forslag:
+- Ole Edvard Antonsen, Rødt: På grunn av manglende saksdokumenter utsettes saken til neste møte.
+
+Voteringer:
+- Votering over forslag om utsettelse
+  - Opprinnelig forslag: 3 stemmer
+  - ENF - Utsettelse: 27 stemmer

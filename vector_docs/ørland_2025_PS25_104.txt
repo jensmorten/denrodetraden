@@ -1,0 +1,27 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/104
+rodt_fremmet: False
+---
+
+Tittel: Revidering av forskrift om skoleregler, Organisering av skoledemokratiet i grunnskolen
+
+Vedtak:
+Kommunestyret vedtar å endre forskrift for skoleregler i Ørland kommune ved å innføre § 11 ORGANISERING AV SKOLEDEMOKRATIET
+Ny paragraf i forskrift for skoleregler:
+§ 11 ORGANISERING AV SKOLEDEMOKRATIET
+Elevmedvirkning
+Skolen skal legge til rette for at hver enkelt elev skal kunne ytre meningene sine fritt og oppmuntre til å delta i skoledemokratiet. Skolen skal hjelpe elevene i arbeidet med skoledemokratiet.
+Elevråd
+Hver skole skal som hovedregel ha et elevråd som er valgt av elevene ved skolen. Det er elever og ansatte ved skolen som avgjør hvor mange som skal velges inn i elevrådet. Elevene kan velge å organisere seg på en annen måte enn elevråd. Om elevene ønsker en annen organisering enn elevråd, må det tas stilling til organiseringen i starten av hvert skoleår.
+Annen organisering kan for eksempel være allmøter, digitale debatter, avstemminger osv.
+Elevrådets oppgaver er å få være med på å planlegge, gjennomføre og vurdere virksomheten til skolen, blant annet arbeidet med skolemiljøet, kvalitetsutvikling i opplæringen og fastsetting av skoleregler.
+FAU
+Hver grunnskole skal ha et arbeidsutvalg som er valgt av foreldrene på skolen.
+Minst to møter i året skal utvides med rektor, to elevrepresentanter (unntatt i enkelte saker) og en representant for kommunestyret. Dette utvidede utvalget har rett til å uttale seg i alle saker som gjelder skolen herunder å planlegge, gjennomføre og vurdere skolens virksomhet, blant annet arbeidet med skolemiljøet, kvalitetsutvikling i opplæringen og fastsetting av skoleregler.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Utvalg for oppvekst og utdanning - 16.06.2025
+  - For: 29 stemmer
+  - Mot: 0 stemmer

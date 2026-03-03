@@ -1,0 +1,42 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 60/25
+rodt_fremmet: False
+---
+
+Tittel: ROS-analyse kombivakt brann og redning
+
+Vedtak:
+Risiko- og sårbarhetsanalysene knyttet til tilstedeværelsesplikt for utrykningsleder og kombivaktene i Lensvik og Meldal viser at de foreslåtte reduksjonene ikke fører til uakseptable reduksjoner i beredskap og utrykningstid. Dagens vaktordninger opphører derfor, som foreslått i Orklands budsjett- og handlingsplan 2025-2028.
+ROS analysen med tilleggsnotat viser at ordninga med kombivakt, som har vært organisert via Meldal og Lensvik brannstasjon, ikke er en hensiktsmessig organisering for områdene samferdsel, VA og bygg og eiendom. Ansatte ved disse enhetene blir ofte kontakta utenom arbeidstid, både av kombivakt og direkte fra innbyggerne. Dette sammen med den teknologiske utviklingen, og økte krav til spesialisering innen de aktuelle fagene gjør at det blir en bedre og mer kostnadseffektiv beredskap for enhetene å håndtere det selv. Dette gjelder særlig innenfor samferdsel og VA.
+Innenfor VA området er kommunen pålagt å bruke de mest kostnadseffektive metodene via selvkostreglementet. Dette for å sikre lavest mulig avgifter for innbyggerne.
+Det er viktig å presisere at selv om kombivaktordningen forsvinner skal det fortsatt være samme antall utrykningsledere ved Meldal og Lensvik brannstasjon. Enhetene rykker ut på akutte helseoppdrag/ulykker hele døgnet på lik linje med de andre brannstasjonene.
+Vakt i evt krevende perioder organiseres ved behov slik som beskrevet i notatet.
+KD bes om å ta med tillitsvalgte i arbeidet med å organisere tjenestene både mtp faglighet og organisering av arbeidstid ved enhetene.
+Vedtaket forutsetter at den budsjetterte besparelsen realiseres.
+Saken har skapt stor usikkerhet og utrygghet bland innbyggerne, spesielt i Meldal.
+Hovedutvalget ber KD om å bidra til informasjon inn mot befolkningen slik at man føler trygghet for at tilbudet er ivaretatt på lik linje med resten av kommunen.
+
+Alternative forslag:
+- AP, SMP og H: Saken utsettes i påvente av ytterligere informasjon:
+1. Ved bortfall av finansiering fra selvkostområde; hva blir totalkostnad for å opprettholde vaktordning for budsjettområde samfunn?
+2. Ved bortfall av arbeidsoppgaver ifb med VA – kan vakt utrykningsleder brann organiseres annerledes til en lavere kostnad?
+3. Hvordan vurderes kombivakt sett i lys av kommunens overordnede beredskapsplaner?
+Sak legges fram i første utvalgsmøte i teknikk etter sommeren.
+Vedtaket forutsetter fortsatt drift av dagens ordning finansiert av avsatt fond teknikk.
+- Eldrerådet: Dagens ordning beholdes inntil utredning fra helse om hjemmetjenesten kan bistå, kommer.
+- SP (Senterpartiet): 1. Vaktberedskapen ved Lensvik og Meldal Brannstasjon opprettholdes for å sikre en fast utrykningsleder på vakt og raskest mulig innsats i forbindelse med akutt sykdom, brann, ulykker og andre hendelser.
+2. Kommunedirektøren utreder hvilke tjenester som kan ha fordel av vaktsamarbeid slik kombivakten i dag er. Der en sikrer at en har en vakthavende i ulike deler av kommunen som kan rykke ut lokalt på vegne av kommunen. Kan vaktas rolle utvikles i takt med ny teknologi og omorganiseringer av de andre kommunale tjenestene? Frist 1 februar.
+Vedtaket finansieres fra fond ut året 2025 og tas inn i budsjett og handlingsplan 2026-2029.
+Kommunedirektør gis fullmakt til å gjøre de budsjettmessige justeringer.
+
+Voteringer:
+- Votering i Hovedutvalg Teknikk 03.06.2025 om forslag fra AP, SMP og H om utsettelse av saken i påvente av ytterligere informasjon.
+  - Forslag fra AP, SMP og H: enstemmig
+- Votering i Eldreråd 21.08.2025 mellom kommunedirektørens forslag og Eldrerådets tilleggsforslag om å beholde dagens ordning inntil utredning fra helse kommer.
+  - Kommunedirektørens forslag: 1 stemmer
+  - Eldrerådets tilleggsforslag: enstemmig
+- Votering i Kommunestyret 16.09.2025 mellom Hovedutvalg teknikk sin innstilling og forslag fra Senterpartiet.
+  - Hovedutvalg teknikk sin innstilling: 23 stemmer
+  - Forslag fra Senterpartiet: 19 stemmer

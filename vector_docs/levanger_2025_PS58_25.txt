@@ -1,0 +1,20 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 58/25
+rodt_fremmet: False
+---
+
+Tittel: Innherred interkommunalt politisk råd - ny samarbeidsavtale
+
+Vedtak:
+Vedlagte samarbeidsavtale for Innherred interkommunalt politisk råd vedtas og gjøres gjeldende fra og med 1. januar 2026
+Til regionrådets representantskap velges følgende representanter:
+1. ordfører
+2. varaordfører
+3. Astrid Juberg Vordal (representant fra mindretallet)
+Som varamedlemmer velges Mats Henriksen, Oddgeir Hagen og Gunnar Løvås
+
+Voteringer:
+- Votering over innstilling om vedtak av samarbeidsavtale og valg av representanter til regionrådets representantskap
+  - For forslaget: 35 stemmer

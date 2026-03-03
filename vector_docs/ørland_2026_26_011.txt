@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/011
+rodt_fremmet: False
+---
+
+Tittel: 26/011 Spørretimen/Interpellasjoner
+
+Vedtak:
+Kommunestyret tok spørsmål og svar til informasjon.
+
+Voteringer:
+- Vedtak om å ta spørsmål og svar til informasjon
+  - For: ukjent

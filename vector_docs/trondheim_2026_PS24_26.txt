@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 24/26
+rodt_fremmet: False
+---
+
+Tittel: Valg av settemedlemmer- og midlertidige nestledere
+
+Vedtak:
+Bystyret oppnevner de foreslåtte settemedlemmer og midlertidige nestledere som angitt i innstillingen.
+
+Voteringer:
+- Votering over innstillingen til valg av settemedlemmer og midlertidige nestledere
+  - For: enstemmig

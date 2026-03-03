@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 309/25
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Folkeavstemning om sektorisert kjøremønster - Elin Marie Andreassen (FrP)
+
+Vedtak:
+Forslaget avvises.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Bystyret ber byrådet legge frem en sak som beskriver hvordan folkeavstemning om innføring av sektorisert kjøremønster i Midtbyen kan gjennomføres. Saken må inneholde kvalitetssikrede beregninger av kostnader, med utgangspunkt i at en folkeavstemning gjennomføres fysisk og samtidig med lokalvalget i 2027.
+
+Voteringer:
+- Ved alternativ votering mellom innstillingen og FrPs alternative forslag "Sak om folkeavstemming"
+  - Innstillingen: 59 stemmer
+  - FrPs alternative forslag "Sak om folkeavstemming": 8 stemmer

@@ -12,5 +12,5 @@ Sak 196/25 ble vedtatt utsatt ved konstituering av møte.
 
 Voteringer:
 - Votering over utsettelse av sak 196/25 ved konstituering av møte.
-  - Utsettelse: Flertall stemmer
-  - Ikke utsettelse: Mindretall stemmer
+  - Utsettelse: Flertall
+  - Ikke utsettelse: Mindretall

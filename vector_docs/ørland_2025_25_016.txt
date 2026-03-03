@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/016
+rodt_fremmet: False
+---
+
+Tittel: Innspill spørretimen kommunestyret - Gullvika
+
+Vedtak:
+Kommunestyret tok svaret på spørsmål til spørretimen til orientering.
+
+Voteringer:
+- Votering over innstilling om å ta svaret til orientering
+  - For: ukjent
+  - Imot: ukjent

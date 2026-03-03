@@ -1,0 +1,8 @@
+METADATA:
+kommune: orkland
+year: 2026
+saksnummer: PS 7/26
+rodt_fremmet: False
+---
+
+Tittel: Protokoll IPR Trøndelag sørvest, lakseregionen 30.01.2026

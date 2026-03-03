@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 299/25
+rodt_fremmet: False
+---
+
+Tittel: Handlingsplan for selvmordsforebygging 2025-2028
+
+Vedtak:
+Sak 299/25 ble utsatt ved konstituering av bystyrets møte 18. desember 2025.

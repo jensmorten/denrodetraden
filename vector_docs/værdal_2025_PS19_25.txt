@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 19/25
+rodt_fremmet: False
+---
+
+Tittel: PS 19/25 Veterinærvaktordning
+
+Vedtak:
+En bevilgning på kr. 1.548.954 godkjennes fra disposisjonsfondet for å dekke økt kostnad til dekning av veterinærvaktavtaler for 2025. For 2026 innarbeides summen i ordinært driftsbudsjett. Kommunedirektøren får fullmakt til å inngå avtaler med veterinærene basert på 100% tillegg til det statlige tilskuddet for 2025 for vaktgodtgjørelse på kveld/natt, helg og helligdager og beredskapstillegg på kr. 150.000 pr. veterinær i vaktgruppen (maks 4). Verdal kommune mener staten bør gjennomgå veterinærvaktordningen slik at ordningen som helhet og tilhørende finansiering harmoniseres med dagen behov og markedssituasjon.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

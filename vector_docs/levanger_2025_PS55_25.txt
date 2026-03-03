@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 55/25
+rodt_fremmet: False
+---
+
+Tittel: NTE-utbytte -konsekvenser av vedtak for 2026-budsjett
+
+Vedtak:
+Kommunestyret stadfester at de budsjettposter som i fjor ble finansiert av NTE-utbytte fortsatt skal finansieres på denne måten i budsjett for 2026. Det legges fram en egen sak om bruk av NTE-utbytte i forbindelse med budsjett 2026.
+
+Voteringer:
+- Avstemming over innstillingen om finansiering av budsjettposter med NTE-utbytte for 2026
+  - For: 35 stemmer

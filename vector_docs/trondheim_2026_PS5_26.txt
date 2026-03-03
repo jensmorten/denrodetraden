@@ -1,0 +1,63 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 5/26
+rodt_fremmet: False
+---
+
+Tittel: Mobilitetsplan for Lade og Nyhavna - sluttbehandling
+
+Vedtak:
+Innstillingens punkt 1 a ble enstemmig vedtatt.
+Innstillingens punkt 1 b ble vedtatt med 55 stemmer mot 12 stemmer.
+Innstillingens punkt 1 c ble vedtatt med 54 stemmer mot 13 stemmer.
+Innstillingens punkt 1 d ble enstemmig vedtatt.
+Innstillingens punkt 1 e ble enstemmig vedtatt.
+Innstillingens punkt 1 f ble vedtatt med 55 stemmer mot 12 stemmer.
+Innstillingens punkt 1 g ble enstemmig vedtatt.
+Innstillingens punkt 2 ble vedtatt med 64 stemmer mot 3 stemmer.
+Innstillingens punkt 3 ble enstemmig vedtatt.
+Innstillingens punkt 4 ble enstemmig vedtatt.
+Andreassens forslag "Rekkefølgekrav 6 strykes" falt.
+Andreassens forslag "Rekkefølgekrav 14 strykes" falt.
+Andreassens forslag "Rekkefølgekrav 17 strykes" falt.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Rekkefølgekrav 6 strykes.
+- Elin Marie Andreassen (FrP): Rekkefølgekrav 14 strykes.
+- Elin Marie Andreassen (FrP): Rekkefølgekrav 17 strykes.
+
+Voteringer:
+- Innstillingens punkt 1 a
+  - For: enstemmig
+- Innstillingens punkt 1 b
+  - For: 55 stemmer
+  - Mot: 12 stemmer
+- Innstillingens punkt 1 c
+  - For: 54 stemmer
+  - Mot: 13 stemmer
+- Innstillingens punkt 1 d
+  - For: enstemmig
+- Innstillingens punkt 1 e
+  - For: enstemmig
+- Innstillingens punkt 1 f
+  - For: 55 stemmer
+  - Mot: ukjent
+- Innstillingens punkt 1 g
+  - For: enstemmig
+- Innstillingens punkt 2
+  - For: 64 stemmer
+  - Mot: 3 stemmer
+- Innstillingens punkt 3
+  - For: enstemmig
+- Innstillingens punkt 4
+  - For: enstemmig
+- Forslag: Rekkefølgekrav 6 strykes
+  - For: 5 stemmer
+  - Mot: 62 stemmer
+- Forslag: Rekkefølgekrav 14 strykes
+  - For: 22 stemmer
+  - Mot: 45 stemmer
+- Forslag: Rekkefølgekrav 17 strykes
+  - For: 5 stemmer
+  - Mot: 62 stemmer

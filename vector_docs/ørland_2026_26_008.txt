@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/008
+rodt_fremmet: False
+---
+
+Tittel: KS Debatthefte 2026
+
+Vedtak:
+Innspill fra kommunestyre innarbeides som kommunens tilbakemelding på KS Debatthefte 2026.
+
+Voteringer:
+- Kommunedirektørens innstilling med innspillene fra gruppearbeidene i KST-møte ble vedtatt.
+  - For: Enstemmig

@@ -1,0 +1,30 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 294/25
+rodt_fremmet: False
+---
+
+Tittel: PS 294/2025 Reglement for bystyret
+
+Vedtak:
+Bystyret vedtar forslaget til nytt reglement for bystyret med de foreslåtte endringer, med unntak av punkt D som ble erstattet av SVs alternative forslag for punkt 8 Medlemsforslag og tilleggsforslag for punkt 7.
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV) på vegne av SV, Ap: Ny formulering punkt 7 - andre avsnitt, første setning endres til "Bystyregruppene gir ordfører beskjed senest to timer før møtet om hvor mange spørsmål partiet skal stille."
+- Silje Naper Salomonsen (SV) på vegne av SV, Ap, R: Nytt punkt 8 Medlemsforslag - punkt 8, følgende formulering erstatter hele punktet: Medlemmer av bystyret kan fremme medlemsforslag i samsvar med kommuneloven § 10-9. Medlemsforslag må bare omhandle en sak og gjelde kommunens virksomhet. Medlemmene kan ikke fremme forslag med samme innhold som tidligere saker, eller medlemforslag, som har vært behandlet i bystyrets organer i samme valgperiode.
+Forslaget meldes gjennom møteløsningen senest to timer før møtestart og må inneholde forslag til vedtakspunkt. Det bør også inneholde en skriftlig redegjørelse. Ordføreren leser opp forslagets tittel ved møtestart, og alle forslag sendes deretter til forretningsutvalget for videre behandling.
+Forretningsutvalget avgir innstilling til bystyret i saker der det anbefales at forslaget avvises.
+Forslagsstiller gis siste innlegg i bystyrets behandling før votering.
+Forretningsutvalget vedtar hvilket utvalg som skal innstille til bystyret. Ordfører innstiller til forretningsutvalget. Medlemsforslaget slik det lyder, skal voteres over i innstillende utvalg.
+Medlemsforslaget skal tas opp til behandling i bystyret senest seks måneder etter at det ble levert til ordfører.
+
+Voteringer:
+- Votering over innstillingen unntatt punkt D
+  - For: 67 stemmer
+- Votering over SVs alternative forslag "Alternativ til innstillingas punkt D (ny formulering punkt 8 Medlemsforslag)"
+  - SVs alternative forslag: 38 stemmer
+  - Innstillingen: 29 stemmer
+- Votering over SVs tilleggsforslag "Ny formulering punkt 7"
+  - SVs tilleggsforslag: 37 stemmer
+  - Innstillingen: 30 stemmer

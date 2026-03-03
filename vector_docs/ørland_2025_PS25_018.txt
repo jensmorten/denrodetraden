@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/018
+rodt_fremmet: False
+---
+
+Tittel: Signert protokoll representantskapsmøte Midt-Norge IUA 29.04.2025
+
+Vedtak:
+KST - 25/018 vedtak

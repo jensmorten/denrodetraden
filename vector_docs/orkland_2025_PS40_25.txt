@@ -1,0 +1,31 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 40/25
+rodt_fremmet: False
+---
+
+Tittel: Orkland kommune - regnskap og årsberetning 2024
+
+Vedtak:
+Kommunekassens årsregnskap og konsolidert årsregnskap for Orkland kommune fastsettes som regnskaper for 2024.
+Årsregnskapet for kommunekassen er gjort opp med et positivt netto driftsresultat på 37 142 531 kroner. Disponeringen av overskuddet fastsettes som følger:
+Overføring til investeringer 44 789 400 kroner
+Avsetninger til bundne fond 5 905 842 kroner
+Bruk av bundne fond – 4 226 457 kroner
+Avsetninger til disposisjonsfond 49 281 000 kroner
+Bruk av disposisjonsfond – 58 607 254 kroner
+Sum disponering 37 142 531 kroner
+Konsolidert årsregnskap for Orkland kommune er gjort opp med et positivt netto driftsresultat på 39 699 517 kroner. Disponeringen av overskuddet fastsettes som følger:
+Overføring til investeringer 44 808 360 kroner
+Avsetninger til bundne fond 5 905 842 kroner
+Bruk av bundne fond – 4 226 457 kroner
+Avsetninger til disposisjonsfond 51 837 986 kroner
+Bruk av disposisjonsfond – 58 626 214 kroner
+Sum disponering 39 699 517 kroner
+
+Voteringer:
+- Votering i Formannskap 13.05.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 20.05.2025
+  - Formannskapets innstilling: enstemmig

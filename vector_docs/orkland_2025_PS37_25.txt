@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 37/25
+rodt_fremmet: False
+---
+
+Tittel: Rapport 1. kvartal 2025 for Orklandbadet KF
+
+Vedtak:
+Kommunestyret tar rapport for 1. kvartal 2025 for Orklandbadet KF til orientering
+
+Voteringer:
+- Votering i Formannskap 13.05.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 20.05.2025
+  - Formannskapets innstilling: enstemmig

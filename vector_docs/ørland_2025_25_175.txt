@@ -1,0 +1,22 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/175
+rodt_fremmet: False
+---
+
+Tittel: Søknad om støtte til kunstbok
+
+Vedtak:
+Flertallet i Kommunestyret sa nei til foreslåtte innstilling fra formannskapet. Forslaget falt.
+
+Alternative forslag:
+- Britt Eli Døsvik, Senterpartiet: Formannskapet innvilger søknaden på kr 70 000 til bok om Aud Lillengen. Pengene tas fra disposisjonsfond.
+
+Voteringer:
+- Votering over forslag - Innstilling fra Formannskap - 04.12.2025
+  - For: 10 stemmer
+  - Mot: 20 stemmer
+- Votering over forslag - Forslag til vedtak fra Britt Eli Døsvik (SP) i Formannskapet
+  - For: 4 stemmer
+  - Mot: 3 stemmer

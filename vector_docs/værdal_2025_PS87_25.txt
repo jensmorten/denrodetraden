@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 87/25
+rodt_fremmet: False
+---
+
+Tittel: PS 87/25 Valg Verdal Ungdomsråd 2025-2026
+
+Vedtak:
+Følgende velges inn som medlemmer av Verdal ungdomsråd for kommende 2-års periode: Molly Aas Andersen, Bastian Slørdahl Garberg, Bendik Leinum, Fredrick Thørnquist
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

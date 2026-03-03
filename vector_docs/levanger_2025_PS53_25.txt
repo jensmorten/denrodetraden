@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 53/25
+rodt_fremmet: False
+---
+
+Tittel: Levanger Arena KF - Vedtektsendring
+
+Vedtak:
+Reviderte vedtekter vedtas.
+
+Voteringer:
+- Avstemming over styret i Levanger Arena KFs forslag til vedtak om reviderte vedtekter.
+  - For: 35 stemmer

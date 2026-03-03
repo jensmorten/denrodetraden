@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2026
+saksnummer: PS 2/26
+rodt_fremmet: False
+---
+
+Tittel: Reiselivsstrategi for Innherred
+
+Vedtak:
+«Felles reiselivsstrategi for Innherred» vedtas.
+
+Voteringer:
+- Votering over innstilling om å vedta «Felles reiselivsstrategi for Innherred»
+  - For: 35 stemmer

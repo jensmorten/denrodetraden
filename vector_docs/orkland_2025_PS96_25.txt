@@ -1,0 +1,20 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 96/25
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjonsrapport - Sykefravær og bemanning
+
+Vedtak:
+1. Kommunestyret tar forvaltningsrevisjonsrapport om sykefravær og bemanning til orientering.
+2. Kommunestyret ber kommunedirektøren følge opp anbefalingene i rapporten:
+a) Følge opp implementeringen av de reviderte rutinene for oppfølging av sykmeldte, slik at de er godt kjent og benyttes i hele organisasjonen.
+b) Sørge for at risikovurderinger knyttet til bemanning og organisering blir systematisk gjennomført og dokumentert i hjemmetjenesten, og at ledere på alle nivå blir gjort kjent med ansvaret de har når det gjelder risikovurderinger.
+c) Vurdere hvordan kommunen kan styrke styringsinformasjonen om faktisk ressursbruk og tjenesteutførelse, blant annet gjennom mer aktiv bruk av avvikssystemet.
+Kommunestyret ber kommunedirektøren gi kontrollutvalget skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 15.05.2026.
+
+Voteringer:
+- Votering Kontrollutvalgets innstilling
+  - For: enstemmig

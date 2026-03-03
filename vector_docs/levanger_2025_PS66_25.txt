@@ -1,0 +1,16 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 66/25
+rodt_fremmet: False
+---
+
+Tittel: PS 66/25 Justering av delegeringsreglement - fast eiendom
+
+Vedtak:
+Delegeringen fra kommunestyret til kommunedirektøren knyttet til kjøp, salg, feste og bortfeste endres til følgende: «Kommunedirektøren får fullmakt til å inngå ikke-prinsipielle avtaler om kjøp, salg, feste og bortfeste av areal inntil kr. 5 000 000.»
+
+Voteringer:
+- Votering over innstilling om delegering til kommunedirektøren for kjøp, salg, feste og bortfeste av areal inntil kr. 5 000 000
+  - For: 34 stemmer
+  - Imot: 1 stemmer

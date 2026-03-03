@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/137
+rodt_fremmet: False
+---
+
+Tittel: Tertialrapport 2. tertial 2025
+
+Vedtak:
+Kommunestyret tar tertialrapport 2/2025 til orientering.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskap - 16.10.2025
+  - For: 31 stemmer
+  - Mot: 0 stemmer

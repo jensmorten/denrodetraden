@@ -1,0 +1,23 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 98/25
+rodt_fremmet: False
+---
+
+Tittel: Etablering av studiesenter Sørvest-AS
+
+Vedtak:
+Orkland kommunestyre vedtar å etablere Studiesenteret Trøndelag Sørvest-AS i henhold til alternativ 1 (Agdenesmodellen) for eiermodell og finansieringsgaranti.
+Studiesenteret etableres per tiden med kommunene Frøya, Heim, Hitra, Orkland, Rindal og Surnadal.
+Agdenesmodellen baserer seg på folketall + andel frie inntekter pr. innbygger i kommunen.
+Den finansielle garantien gjelder for første driftsår, og det er klare forventninger til styret i Studiesenteret om å jobbe for å få på plass et inntektsgrunnlag for å være levedyktige uten kommunale finansieringsgarantier.
+I og med at Studiesenteret også skal være tilgjengelig for de kommunene som ikke er med som eiere, er det en forventning at styret i Studiesenteret ser på et administrasjonsgebyr på enkelte utdanninger hvor man har deltakere fra kommuner som ikke er eiere.
+Aksjene i selskapet er ikke omsettelig unntatt ved enstemmighet i generalforsamling, eller ved endelig uttreden for en enkelt eier der eksisterende eiere er villige til å overta eierskapet.
+Ved en utvidelse av eierskapet til andre kommuner eller private bedrifter gjennomføres dette som en rettet emisjon, hvor verdi skal settes tilsvarende samlet innskutt kapital pr aksje.
+
+Voteringer:
+- Votering i Formannskap 25.11.2025 om kommunedirektørens innstilling
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 16.12.2025 om formannskapets innstilling
+  - Formannskapets innstilling: enstemmig

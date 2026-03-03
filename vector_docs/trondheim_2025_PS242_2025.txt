@@ -1,0 +1,23 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 242/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Forbedring av BPA-tilbudet - Maria Alseth (FrP)
+
+Vedtak:
+Innstillingen ble vedtatt med 36 stemmer (17 Ap, 9 SV, 5 FrP, 3 R, Uavh. Letnes Ødegaard, KrF) mot 31 stemmer (18 H, 4 V, 4 MDG, 3 PP, SP, Uavh. Meland Winger).
+
+Alternative forslag:
+- Mats Ulseth Ramo (H): Saken utsettes.
+- Mats Ulseth Ramo (H): Bystyret viser notat til bystyret om økonomiske konsekvenser og anser disse forslagene som potensielt kan ha betydelige økonomiske konsekvenser. Derfor ber bystyret byrådet behandle og komme tilbake med en sak til bystyret innen februar som belyser økonomiske konsekvenser, og praktiske konsekvenser av 1. Avvikling av tiltaksplanens del som har medført reduksjon og kutt i BPA- timer, og at mottakere som har fått omgjort sitt vedtak som følge av tiltaksplanen får tilbake opprinnelig vedtak om BPA dersom de ønsker dette. Og hvilke konsekvenser det vil ha dersom det skal innarbeides i neste HØP. 2. At det gis oppsettende virkning for BPA- vedtak inntil eventuell klage hos Statsforvalteren er behandlet og trådt i kraft. 3. Hovedregelen skal være at BPA-vedtak gis for tre år, med minimum ett år i de tilfeller der tre år ikke er aktuelt basert på usikkerhet rundt helsemessige forhold. 4. Dekning av dagligdagse oppgaver: BPA skal omfatte nødvendige timer til daglige gjøremål slik som matlaging, renhold, håndtere nødvendige digitale nettsider og alle former for innkjøp i butikk. BPA skal også omfatte deltakelse i fritidsaktiviteter ut fra personens ønsker og interesser. 5. Kortere saksbehandling: En redusjon av saksbehandlingstiden for behandling av BPA-saker, nye BPA-vedtak og klager. 6. At personer som har behov for BPA, men med et mer vedvarende lavere antall timer pr uke, skal ha mulighettil å få denne tjenesteformen når de selv ønsker det, og dette er mest hensiktsmessig for brukeren. Dersom annen tjenesteform skal velges, må dette begrunnes. 7. BPA etter fylte 67 år: Personer som er innvilget BPA-ordning før fylte 67 år, skal som hovedregel ikke miste sitt BPA-tilbud når denne fungerer godt, og er hensiktsmessig for at brukeren skal kunne leve et aktivt liv utenfor hjemmet. 8. Foreldre med funksjonsnedsettelse må særskilt ivaretas ved søknad om BPA slik at de best mulig kan fungere praktisk i hverdagen med oppfølging av sine barn. 9. At BPA-tilbudet ikke skal reduseres mens man står i kø for avlastning eller støttekontakt. 10. at personer med BPA-vedtak som kommer flyttende fra annen kommune skal som hovedregel ikke få redusert sitt BPA-vedtak mot sin vilje når behovet for assistanse er grundig dokumentert av helse/sosialfaglig personell i tidligere bostedskommune, og der livssituasjonen for øvrig er lik.
+
+Voteringer:
+- Votering om Ramos forslag om å utsette saken
+  - For utsettelse: 31 stemmer
+  - Mot utsettelse: 36 stemmer
+- Votering mellom Innstillingen og forslag fra H "Oversendelse"
+  - Innstillingen: 36 stemmer
+  - Forslag fra H "Oversendelse": 31 stemmer

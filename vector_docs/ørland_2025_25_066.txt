@@ -1,0 +1,29 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/066
+rodt_fremmet: True
+---
+
+Tittel: 25/066 Sluttbehandling - Kommunedelplan for naturmangfold
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 11-15 vedtar Ørland kommune, ved kommunestyret, kommunedelplan for naturmangfold.
+
+Alternative forslag:
+- Oda Kristine Leth-Jøssing, Miljøpartiet De Grønne: I Kommunedelplan for Naturmangfold del 2, er det litt misvisende og mangelfull omtale av reker i avsnittet "Marine- og ferskvannsarter”. I stedet for at reker omtales som en art som kun lever i tarebeltet, foreslår vi å la reker for en egen omtale i slutten av undernevnte avsnitt.
+
+Tekstforslag, tillegg:
+“Reker lever også på 100 meters dyp eller dypere. Reker er mat for annen fisk. Langs kysten av Ørland var det tidligere flere fiskere som drev med reketråling. Selv om bestanden er redusert og fiskerne gått på land, finnes disse rekefeltene og de må ivaretas i kommunens planer. Feltene er avmerket i Fiskeridirektoratet kart.”
+- Ole Edvard Antonsen, Rødt: Øke kompetansen om havbrukets påvirkning på naturmangfold, herunder sykdom, rømming forurensning, etc.
+
+Voteringer:
+- Votering over forslag: Tilleggsforslag Kommunedelplan for Naturmangfold
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Nytt punkt til handlingsplanen
+  - For: 30 stemmer
+  - Mot: 1 stemmer
+- Votering over forslag: Opprinnelig forslag
+  - For: 30 stemmer
+  - Mot: 1 stemmer

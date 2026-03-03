@@ -1,0 +1,16 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 35/25
+rodt_fremmet: False
+---
+
+Tittel: Regionalt pilegrimssenter Stiklestad - endring av aksjonæravtale
+
+Vedtak:
+Forslag til ny aksjonæravtale godkjennes.
+
+Voteringer:
+- Votering over forslag til ny aksjonæravtale
+  - For: 34 stemmer
+  - Imot: 1 stemmer

@@ -1,0 +1,27 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 29/26
+rodt_fremmet: False
+---
+
+Tittel: Flytting av autismetilbudet ved Tonstad skole
+
+Vedtak:
+Bystyret beslutter at autismetilbudet som i dag er lokalisert ved Tonstad skole, økes til 15 plasser.
+Bystyret vedtar at Brundalen skole og Ranheim skole utredes videre og at byrådet legger fram sak til investeringsbeslutning for det alternativet som viser seg best.
+Bystyret vedtar at løsning for tilleggskostnadene behandles i forbindelse med 1. økonomirapport.
+Bystyret forutsetter at berørte parter er tett involvert i den videre planleggingen.
+
+Alternative forslag:
+- Ottar Michelsen (SV): Bystyret forutsetter at berørte parter er tett involvert i den videre planleggingen.
+- Sara Shafigighi (Ap): Bystyret ber om at Nidarvoll/Sunnland skole tas med som et aktuelt alternativ i den videre prosessen fram mot endelig investeringsbeslutning, på lik linje med Brundalen og Ranheim. Det er ønskelig å fremheve viktigheten av integrasjon mellom elever ved barneskole og ungdomsskole ved Nidarvoll og Sunnland og elever ved autismetilbudet. Ved dette alternativet er et videre arbeidet knyttet til økt trafikksikkerhet for elever en viktig faktor.
+
+Voteringer:
+- Votering over innstillingen
+  - For: 67 stemmer
+- Votering over Michelsens tilleggsforslag om involvering av berørte parter
+  - For: 67 stemmer
+- Votering over Shafighis tilleggsforslag om å inkludere Nidarvoll/Sunnland skole i videre utredning
+  - For: 33 stemmer
+  - Mot: 34 stemmer

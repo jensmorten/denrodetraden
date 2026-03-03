@@ -1,0 +1,32 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/020
+rodt_fremmet: False
+---
+
+Tittel: 26/020 Barnehage- og skolestruktur Ørland kommune
+
+Vedtak:
+Kommunestyret tar høringsinnspillene til orientering
+Barnehagetilbudet ved Borgen barnehage og i Lysøysund videreføres i eksisterende bygg
+Barnehagetilbudet i Lysøysund og ved Borgen videreføres. Ny helhetlig vurdering av barnehage- og skolestrukturen skal gjennomføres dersom det foreligger dokumentert og vedvarende endring i barne- og elevtallsutviklingen, eller vesentlige og varige endringer i kommunens økonomiske eller bemanningsmessige forutsetninger. Det forutsettes at nødvendig vedlikehold og tiltak for å sikre forsvarlig drift og arbeidsmiljø gjennomføres innenfor gjeldende økonomiske rammer.
+I økonomiplanperioden 2027-2035 er det ikke satt av penger til investeringer i bygg i oppvekst. Det er i budsjett 2026 satt av penger til planlegging barnehage Lysøysund/barneskole Bjugn på kr. 400.000 og i 2032 er det satt av kr. 3.000.000 til utredning bygg i oppvekstsektoren. Det foreslås at planleggingsmidlene på kr. 400.000 i budsjett 2026 brukes til tilpasninger i dagens barnehagebygg i Lysøysund.
+
+Alternative forslag:
+- Fredrik Sandness, Arbeiderpartiet: 1. Kommunestyret tar høringsinnspillene til orientering
+2. Barnehagetilbudet ved Borgen barnehage og i Lysøysund videreføres i eksisterende bygg
+3. Oppvekststrukturen holdes uforandret så lenge det det ikke oppstår vesentlige og varige endringer i barne- og elevtall.
+4. Det er i budsjett 2026 satt av penger til planlegging barnehage Lysøysund/barneskole Bjugn på kr. 400.000. Det foreslås at planleggingsmidlene på kr. 400.000 i budsjett 2026 og at det omfordeles ytterligere 2,8 mill fra investeringsbudsjettet. Punkt 1,5 mill fra vannkiosker og 1,3 mill. fra planlegging helsehus og settes til tilbygg Solkysten barnehage avd. Lysøysund for å erstatte midlertidige brakker. Det gir en samlet sum på kr. 3,2 mill.
+- Oddgeir Grøntvedt, Senterpartiet: Barnehagetilbudet i Lysøysund og ved Borgen videreføres. Ny helhetlig vurdering av barnehage- og skolestrukturen skal gjennomføres dersom det foreligger dokumentert og vedvarende endring i barne- og elevtallsutviklingen, eller vesentlige og varige endringer i kommunens økonomiske eller bemanningsmessige forutsetninger. Det forutsettes at nødvendig vedlikehold og tiltak for å sikre forsvarlig drift og arbeidsmiljø gjennomføres innenfor gjeldende økonomiske rammer.
+
+Voteringer:
+- Votering over forslag - Nytt forslag fra Fredrik Sandness, Arbeiderpartiet
+  - ENF - Nytt forslag: 11 stemmer
+  - Innstilling fra Utvalg for oppvekst og utdanning: 19 stemmer
+- Votering over forslag - Endring i punkt 3 – Barnehage- og skolestruktur, foreslått av Oddgeir Grøntvedt, Senterpartiet
+  - ENF - Endring i punkt 3: 5 stemmer
+  - Mot: 2 stemmer
+- Votering over forslag - Opprinnelig forslag
+  - For: 7 stemmer
+  - Mot: 0 stemmer

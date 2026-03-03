@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 12/25
+rodt_fremmet: False
+---
+
+Tittel: Møte - og talerett for Ungdomsrådet i kommunestyret
+
+Vedtak:
+Kommunestyret vedtar at ungdomsrådet, representert ved leder/nestleder og en valgfri representant får møterett i kommunestyret. Representantene får også talerett i saker som angår barn og unge. Navn på representanter som møter og hvilken sak man ønsker ordet til meldes fra til Ordfører på forhånd.
+
+Voteringer:
+- Ordførerens innstilling
+  - For: enstemmig

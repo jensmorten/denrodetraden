@@ -1,0 +1,8 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/013
+rodt_fremmet: False
+---
+
+Tittel: KST - 25/013 vedtak

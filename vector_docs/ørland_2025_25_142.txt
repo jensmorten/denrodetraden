@@ -1,0 +1,18 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/142
+rodt_fremmet: False
+---
+
+Tittel: Gjennomgang av eldre reguleringsplaner og utarbeidelse av kommunal jordvernstrategi
+
+Vedtak:
+Kommunestyret vedtar igangsetting av følgende arbeid basert på omsøkte prosjektmidler:
+1. Oppstart av Fase 1 av arbeidet med gjennomgang av eldre arealplaner.
+2. Utarbeidelse av jordvernstrategi i perioden 2026-2027.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

@@ -1,0 +1,24 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/021
+rodt_fremmet: False
+---
+
+Tittel: Eierskapskontroll - Fosen helse IKS
+
+Vedtak:
+Kontrollutvalget legger fram rapport fra eierskapskontroll til kommunestyret med følgende forslag til vedtak:
+1. Kommunestyret ber kommunedirektøren om å legge frem en sak til behandling i kommunestyret hvor kommunestyret får anledning til å vurdere:
+a. behovet for eiermøter.
+b. behovet for en tydeliggjøring av roller og ansvar for kommunens eierrepresentanter.
+c. hvilken rapportering kommunestyret skal ha.
+d. prinsipper for styregodtgjørelse generelt i kommunens eierskap.
+e. retningslinjer for valgkomiteens arbeid og mandat, herunder etablere rutiner for fastsettelse av styregodtgjørelse.
+f. organiseringen og eventuelt vurdere hvilken organisasjonsform som er hensiktsmessig.
+2. Kommunestyret ber kommunedirektøren om å rapportere til kontrollutvalget om hvordan punkt 1 i vedtaket er fulgt opp innen 1.9.2025.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

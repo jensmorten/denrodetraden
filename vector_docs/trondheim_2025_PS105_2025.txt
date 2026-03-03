@@ -19,8 +19,8 @@ Alternative forslag:
 
 Voteringer:
 - Votering over innstillinga (forslag til revidert arkitekturstrategi for Trondheim)
-  - Innstillinga: ['20H', '17Ap', '9SV', '4MdG', '4V', '3R', '3PP', 'Sp', 'KrF'] stemmer
-  - Mot: ['4FrP', 'U'] stemmer
+  - Innstillinga: ['20H', '17Ap', '9SV', '4MdG', '4V', '3R', '3PP', 'Sp', 'KrF']
+  - Mot: ['4FrP', 'U']
 - Votering over Bergsengs tilleggsforslag (SV, R, V, MDG)
-  - Bergsengs tilleggsforslag: ['20H', '17Ap', '9SV', '4MdG', '4V', '3R', '3PP', 'Sp', 'KrF', 'U'] stemmer
-  - Mot: ['4FrP'] stemmer
+  - Bergsengs tilleggsforslag: ['20H', '17Ap', '9SV', '4MdG', '4V', '3R', '3PP', 'Sp', 'KrF', 'U']
+  - Mot: ['4FrP']

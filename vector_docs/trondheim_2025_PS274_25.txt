@@ -1,0 +1,30 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 274/25
+rodt_fremmet: False
+---
+
+Tittel: PS 274/2025 Handlings- og økonomiplan 2026-2029 og Budsjettet 2026
+
+Vedtak:
+Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2026-2029 og budsjett 2026, med de endringer som fremgår av budsjettforslaget fra Sentrum-Høyre og FrP.
+
+Alternative forslag:
+- Jørn Arve Flått (Ap) pva Ap, Uavhengig Ødegaard: Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2026-2029 og budsjett 2026, med de endringer som fremgår av Arbeiderpartiets budsjettforslag.
+- Mona Berger (SV) pva SV, R: Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2026-2029 og budsjett 2026, med de endringer som fremgår av og budsjettforslag fra SV og Rødt.
+- Mats Ulseth Ramo (H) pva H, Sp, MDG, KrF, FrP, V, PP: Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2026-2029 og budsjett 2026, med de endringer som fremgår av det vedlagte budsjettforslaget.
+
+Voteringer:
+- Votering på innstillinga (byrådets forslag til budsjett)
+  - For innstillinga: 1 stemmer
+  - Mot innstillinga: 66 stemmer
+- Votering på SV og Rødts forslag til budsjett
+  - For SV og Rødts forslag: 12 stemmer
+  - Mot SV og Rødts forslag: 55 stemmer
+- Votering på Arbeiderpartiet og Uavhengig Ødegaards forslag til budsjett
+  - For Ap og Uavhengig Ødegaards forslag: 29 stemmer
+  - Mot Ap og Uavhengig Ødegaards forslag: 38 stemmer
+- Votering på Sentrum-Høyre og FrP's forslag til budsjett
+  - For Sentrum-Høyre og FrP's forslag: 36 stemmer
+  - Mot Sentrum-Høyre og FrP's forslag: 31 stemmer

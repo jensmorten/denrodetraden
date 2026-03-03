@@ -1,0 +1,8 @@
+METADATA:
+kommune: orkland
+year: 2026
+saksnummer: PS 2/26
+rodt_fremmet: False
+---
+
+Tittel: Grunngitt spørsmål vedrørende nytt Orkdal helsetun

@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/136
+rodt_fremmet: False
+---
+
+Tittel: Rapport 2. tertial 2025 Roret Ørland kulturforetak KF
+
+Vedtak:
+Tertialrapport 2/2025 for Roret Ørland kulturforetak KF tas til orientering.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Styret for Roret Ørland kulturforetak KF - 13.10.2025
+  - For: 31 stemmer
+  - Mot: 0 stemmer

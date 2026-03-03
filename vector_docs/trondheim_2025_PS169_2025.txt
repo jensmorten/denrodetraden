@@ -33,7 +33,7 @@ Voteringer:
   - FrPs forslag: 24 stemmer
   - Mot: 43 stemmer
 - Votering over Hs forslag 'Endring av § 4.2 Renovasjon'.
-  - Hs forslag: enstemmig stemmer
+  - Hs forslag: enstemmig
 - Votering over FrPs forslag '§ 10.3 Offentlige samferdselsarealer strykes fra bestemmelsene'.
   - FrPs forslag: 23 stemmer
   - Mot: 44 stemmer
@@ -41,4 +41,4 @@ Voteringer:
   - SVs forslag: 13 stemmer
   - Mot: 54 stemmer
 - Votering over Hs forslag 'Endring av § 9.2 Renovasjon, vann- og avløp, trafikk og utomhusplan'.
-  - Hs forslag: enstemmig stemmer
+  - Hs forslag: enstemmig

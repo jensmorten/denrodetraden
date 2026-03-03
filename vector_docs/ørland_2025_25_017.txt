@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/017
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til spørretimen - status økonomi og innspill til budsjettarbeidet fra flertallet
+
+Vedtak:
+Det ble gitt svar fra ordfører på spørsmål om praksis rundt føringer til kommunedirektøren før budsjettprosessen, med henvisning til kommuneloven og god forvaltningsskikk. Det ble understreket at styring skal skje gjennom formelle vedtak i folkevalgte organer, og at direkte føringer fra enkeltgrupperinger utenom vedtak ikke er vanlig praksis eller innenfor loven. Innspill fra flertallet i formannskapet ble gitt som innspill uten vedtak, og prosessen har foregått i åpenhet. Alle partier er velkomne til å bruke innspillene i sitt budsjettarbeid.

@@ -1,0 +1,27 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 250/2025
+rodt_fremmet: False
+---
+
+Tittel: Endring av retningslinjer - fritak for eiendomsskatt
+
+Vedtak:
+Reviderte vedtekter for fritak for eiendomsskatt etter eiendomsskatteloven § 7 bokstav a i Trondheim kommune vedtatt med de angitte endringer og tilleggsforslag under behandling.
+
+Alternative forslag:
+- Aurora Meland Winger (Uavh.): Legge til friluftsliv og miljøvern. Bystyret ber byrådet utrede hva konsekvensene av å legge til "friluftsliv og miljøvern" inn i retningslinjene for fritak for eiendomsskatt. Forslaget bes utredes frem mot bystyrets budsjettmøte slik at fritaksgrunnene kan bli gjeldende allerede i 2026.
+
+Voteringer:
+- Innstillingen punkt 1 tredje setning ble vedtatt
+  - For: 59 stemmer
+  - Mot: 8 stemmer
+- Innstillingen tredje setning punkt 1 fram til aktivt studieløp ble vedtatt
+  - For: 41 stemmer
+  - Mot: 26 stemmer
+- Innstillingen punkt 1 tredje setning "med en aktiv tinglyst urådelighetserklæring" ble enstemmig vedtatt
+  - Enstemmig vedtatt: 67 stemmer
+- Meland Wingers forslag om å legge til friluftsliv og miljøvern
+  - For: 13 stemmer
+  - Mot: 54 stemmer

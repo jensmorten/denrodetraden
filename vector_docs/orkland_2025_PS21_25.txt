@@ -1,0 +1,18 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 21/25
+rodt_fremmet: False
+---
+
+Tittel: Endring i organisering av hovedutvalg forvaltning
+
+Vedtak:
+Hovedutvalg forvaltning endrer antall medlemmer fra 11 til 12 ut inneværende kommunestyreperiode.
+
+Alternative forslag:
+- AP ved Svein Erik Jørgensen: Hovedutvalg forvaltning endrer antall medlemmer fra 11 til 12 ut inneværende kommunestyreperiode.
+
+Voteringer:
+- Votering om ordførerens innstilling med tilleggsforslag fra AP
+  - Ordførerens innstilling med tilleggsforslag fra AP: 28 stemmer

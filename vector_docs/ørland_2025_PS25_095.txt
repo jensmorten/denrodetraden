@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/095
+rodt_fremmet: False
+---
+
+Tittel: Ny samferdselspakke med bompengefinansiering for Fosen
+
+Vedtak:
+Det vises til vedtak 05.06.2025 i Representanskapet i Fosenregionen Interkommunalt politisk råd, RS 06/25 Ny samferdselspakke med bompengefinansiering for Fosen:
+1. Indre Fosen kommune, Osen kommune, Ørland kommune og Åfjord kommune henvender seg gjennom Fosenregionen til Trøndelag fylkeskommune for å komme i gang med planlegging av Fosenpakke 2.0 for å fortsette vegutbyggingen på Fosen.
+2. Målet med Fosenpakke 2.0 er økt fremkommelighet og sikkerhet for person- og næringstrafikk.
+3. Fosenregionen interkommunalt politisk råd bes om å sende samlet henvendelse på vegne av kommunene Indre Fosen, Osen, Ørland og Åfjord til Trøndelag fylkeskommune.
+
+Voteringer:
+- Votering over forslag
+  - For: 28 stemmer
+  - Mot: 1 stemmer

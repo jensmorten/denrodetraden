@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 83/25
+rodt_fremmet: False
+---
+
+Tittel: Valg Orkland ungdomsråd
+
+Vedtak:
+Kommunestyret vedtar at følgende medlemmer og varamedlemmer velges til Orkland ungdomsråd: Johan Erik Nilssen Garberg- Orkanger ungdomsskole, Maren Wuttudal- Aa skole, Dawid Pajewski- Meldal barne- og ungdomsskole, Mathilde Vuttudal Solem- Grøtte skole, Imre Kristoffer Meland- Lensvik skole, Silje Karoline Ramfjord- Årlivoll skole, Vilde Margrete Løkken- Orkland videregående avd. Follo, Emil Fagerli- Orkland Videregående skole avd. Follo, Sverre Tangvik- Orkland videregående skole avd. Meldal, Johanne Wormdal- Orkland videregående skole avd. Meldal, Hanna Søvik Feragen- Åpen plass, Mari Hoston- Åpen plass. Mangler: Løkken Verk Montessoriskole. Vara: Kjersti Berdal, Olav Ysland Salberg, Deimante Revutaite, Lena T. Lesiak.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - For: 39 stemmer

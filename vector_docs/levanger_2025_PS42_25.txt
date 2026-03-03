@@ -1,0 +1,22 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 42/25
+rodt_fremmet: False
+---
+
+Tittel: Renovering av Festiviteten - oppfølging av vedtak i sak 71/2024 «Budsjett 2025 - Handlings og økonomiplan 2025 - 2028 - Levanger kommune»
+
+Vedtak:
+Renovering av Festiviteten utsettes. Endelig tidspunkt for byggestart fastsettes i forbindelse med at ny langtidsplan for investeringer vedtas.
+I forbindelse med kommunedirektørens arbeid med å utrede og foreslå midlertidig avbøtende tiltak for Festiviteten, bes kommunedirektøren utrede avhending av bygningsmassen, og hvilke driftsmessige fordeler og/eller ulemper dette vil medføre.
+
+Alternative forslag:
+- Mats Henriksen (Fremskrittspartiet): I forbindelse med kommunedirektørens arbeid med å utrede og foreslå midlertidig avbøtende tiltak for Festiviteten, bes kommunedirektøren utrede avhending av bygningsmassen, og hvilke driftsmessige fordeler og/eller ulemper dette vil medføre.
+
+Voteringer:
+- Votering over innstilling om utsettelse av renovering av Festiviteten
+  - For: 35 stemmer
+- Votering over tilleggsforslag fra Mats Henriksen (FrP) om utredning av avhending av bygningsmassen
+  - For: 22 stemmer
+  - Imot: 13 stemmer

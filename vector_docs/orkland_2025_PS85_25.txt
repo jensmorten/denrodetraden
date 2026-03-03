@@ -1,0 +1,19 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 85/25
+rodt_fremmet: False
+---
+
+Tittel: Vertskommuneavtale Orklandsregionen legevakt
+
+Vedtak:
+Orkland kommune slutter seg til vertskommuneavtalen mellom Orkland kommune som vertskommune og kommuner i Orklandsregionen om drift av legevakt.
+
+Voteringer:
+- Eldreråd 13.11.2025
+  - For: Enstemmig
+- Hovedutvalg helse, oppvekst og kultur 21.10.2025
+  - For: Enstemmig
+- Kommunestyre 18.11.2025
+  - For: Enstemmig

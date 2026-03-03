@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 285/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak for eiendomsskatt 2025 - Ibsens gate 8
+
+Vedtak:
+Bystyret innvilger fritak for eiendomsskatt etter eiendomsskatteloven § 7 a og vedtak PS 162/14 for eiendommen gbnr. 410/744, Ibsens gate 8.
+
+Voteringer:
+- Votering over innstillinga om fritak for eiendomsskatt for Ibsens gate 8
+  - For: enstemmig

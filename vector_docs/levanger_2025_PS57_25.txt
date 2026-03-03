@@ -1,0 +1,17 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 57/25
+rodt_fremmet: False
+---
+
+Tittel: Delårsrapport 3/2025 - Levanger kommune
+
+Vedtak:
+Delårsrapport 3/25 tas til orientering
+Driftsbudsjett 2025 endres slik: Økte inntekter/reduserte utgifter Økt rammetilskudd 23 000 000,- Reduserte 2 000 000,- renteutgifter Økt eiendomsskatt 3 000 000,- Reduserte 5 600 000,- bosettingskostnader innvandrertjenesten SUM 34 500 000,- Økte utgifter/reduserte inntekter Økte 8 000 000,- avdragsutgifter Redusert 8 000 000,- integreringstilskudd Kompensasjon 3 700 000,- redusert foreldrebetaling barnehager Økt avsetning 13 900 000,- disposisjonsfond SUM 34 500 000,-
+Investeringsbudsjett 2025 endres slik: Prosjektet Vann – utskifting/sanering og nyanlegg økes med 13 mill. kroner, finansieres med å nedjustere prosjektet Avløp - utskifting/sanering og nyanlegg med 5,5 og bruk av ubrukte lånemidler 7,5 mill. kroner. Prosjektet Bil – tjenestebiler økes med 1,0 mill. kroner, finansieres gjennom salg av biler med tilsvarende beløp. Investeringsramme for prosjektet Brann og redning – Mannskapsbil økes med 1,75 mill. kroner. Beløpet innarbeides i investeringsbudsjett for 2026.
+
+Voteringer:
+- Votering over innstillingen til delårsrapport 3/2025 og budsjettendringer
+  - For: 35 stemmer

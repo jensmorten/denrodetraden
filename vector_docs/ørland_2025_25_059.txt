@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/059
+rodt_fremmet: False
+---
+
+Tittel: Strategi for oppgradering av kommunale boliger
+
+Vedtak:
+Administrasjonen gis fullmakt til å søke på relevante tilskuddsordninger og vurdere behovet for annen finansiering for oppgraderinger av kommunale boliger.
+Administrasjonen legger frem ny strategi for disponering av inntekter fra salg av kommunale eiendommer for kommunestyret i ny sak i løpet av juni 2025.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

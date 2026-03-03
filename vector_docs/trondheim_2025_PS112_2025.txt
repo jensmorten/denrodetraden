@@ -12,4 +12,4 @@ Behandlinga ble utsatt til neste pga oppbrukt møtetid.
 
 Voteringer:
 - Forslag om å utsette behandlingen til neste møte på grunn av oppbrukt møtetid.
-  - Utsette behandlingen: None stemmer
+  - Utsette behandlingen: ukjent

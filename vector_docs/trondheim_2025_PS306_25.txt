@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 306/25
+rodt_fremmet: False
+---
+
+Tittel: PS 306/2025 SKFAB, innbetaling av solvenskapital
+
+Vedtak:
+1. Trondheim kommune betaler SEK 30 millioner til SKFAB. Dette som et solvenskapitalinnskudd i henhold til SKFABs gjeldende aksjonæravtale og vedtak i SKFABs styre. Pengene bevilges fra kommunens disposisjonsfond.
+2. Trondheim kommune slutter seg til prinsippene i endringene i SKFABs aksjonæravtale som de er beskrevet i denne saken.
+
+Voteringer:
+- Innstillingen ble enstemming vedatt.
+  - For: enstemmig

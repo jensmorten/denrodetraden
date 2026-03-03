@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/084
+rodt_fremmet: False
+---
+
+Tittel: Samlesak for referatsaker
+
+Vedtak:
+Sakene tas til orientering.
+
+Voteringer:
+- Kommunestyret tok enstemmig sakene til orientering ved manuell votering.
+  - Sakene tas til orientering: enstemmig

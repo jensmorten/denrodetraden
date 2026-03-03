@@ -1,0 +1,20 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/173
+rodt_fremmet: True
+---
+
+Tittel: Antall medlemmer i kommunestyret i Ørland for valgperioden 2027 - 2031
+
+Vedtak:
+Antall kommunestyrerepresentanter reduseres fra 31 til 27 representanter fra perioden 2027 - 2031 i Ørland kommune.
+
+Alternative forslag:
+- Therese Mossing Eidsaune, Høyre: Antall kommunestyrerepresentanter reduseres fra 31 til 27 representanter fra perioden 2027 - 2031 i Ørland kommune
+- Ole Edvard Antonsen, Rødt: Antall kommunestyrerepresentanter beholdes på 31 representanter for perioden 2027 - 2031 i Ørland kommune
+
+Voteringer:
+- Votering over forslag om antall medlemmer i kommunestyret Ørland for perioden 2027-2031
+  - Therese Mossing Eidsaune (H) sitt forslag - redusere til 27 representanter: 26 stemmer
+  - Ole Edvard Antonsen (Rødt) sitt forslag - beholde 31 representanter: 4 stemmer

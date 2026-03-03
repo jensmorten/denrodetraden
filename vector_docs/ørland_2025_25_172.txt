@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/172
+rodt_fremmet: False
+---
+
+Tittel: Revidert selskapsavtale for Fosen Renovasjon IKS fra 01.01.2026
+
+Vedtak:
+Ørland kommunestyre vedtar ny selskapsavtale for Fosen Renovasjon IKS, gjeldende fra 01.01.2026.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 30 stemmer

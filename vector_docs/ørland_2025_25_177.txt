@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/177
+rodt_fremmet: False
+---
+
+Tittel: Spillemidler - prioritering av søknader for 2026
+
+Vedtak:
+Kommunestyret vedtar prioriteringslisten for spillemiddelsøknader 2026, i tråd med anbefalingen fra Ørland Idrettsråd.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 30 stemmer

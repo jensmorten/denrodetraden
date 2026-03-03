@@ -1,0 +1,16 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 62/25
+rodt_fremmet: False
+---
+
+Tittel: Klagenemnd for eiendomsskatt - suppleringsvalg
+
+Vedtak:
+Som nytt medlem i klagenemnd for eiendomsskatt velges: Thor Svendsen
+Som nestleder i nemnda velges: Thor Svendsen
+
+Voteringer:
+- Votering over innstilling om valg av nytt medlem og nestleder i klagenemnd for eiendomsskatt
+  - For forslaget: 35 stemmer

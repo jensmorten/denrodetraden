@@ -1,0 +1,26 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 70/25
+rodt_fremmet: True
+---
+
+Tittel: Melding om flytting Vibeke Melby Nilssen, Rødt - valg av representanter til politiske verv
+
+Vedtak:
+Varamedlemmene fra Rødt rykker opp på varamannslisten til Orkland kommune.
+Som varamedlem for Rødt i valgutvalg velges Eldar Carlson.
+Som vararepresentant til skoleutvalg Orkland videregående skole velges Hege Moe Hegg.
+Som nytt varamedlem i HOK velges Gry-Anita Leifsdatter-Wigum
+
+Alternative forslag:
+- Peter Verme, Rødt: Vara valgutvalg: Eldar Carlson
+Vara Orkland videregående skole: Hege Moe Hegg
+Vara HOK: Gry-Anita Leifsdatter-Wigum
+
+Voteringer:
+- Votering i Valgutvalg 13.10.2025
+  - Kommunedirektørens innstilling: enstemmig
+  - Forslag fra Peter Verme, Rødt: enstemmig
+- Votering i Kommunestyre 14.10.2025
+  - Valgutvalgets innstilling: enstemmig

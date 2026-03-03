@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/109
+rodt_fremmet: False
+---
+
+Tittel: Opprykk og nyvalg ifm fritak fra faste verv som folkevalgt for resten av valgperioden 2023 - 2027
+
+Vedtak:
+Saken utsettes.
+
+Alternative forslag:
+- ENF: Forslag om utsettelse
+
+Voteringer:
+- Votering over forslag om utsettelse
+  - For: 31 stemmer
+  - Mot: 0 stemmer

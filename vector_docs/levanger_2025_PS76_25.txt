@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 76/25
+rodt_fremmet: False
+---
+
+Tittel: Budsjett 2026, NOK. Trøndelag
+
+Vedtak:
+Budsjett 2026 for NOK. Trøndelag vedtas.
+
+Voteringer:
+- Votering over innstilling om Budsjett 2026 for NOK. Trøndelag
+  - For: 35 stemmer

@@ -1,0 +1,34 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/141
+rodt_fremmet: False
+---
+
+Tittel: Grovsiling av arealinnspill til kommuneplanens arealdel
+
+Vedtak:
+Kommunestyret vedtar at arealinnspillene siles i tråd med anbefalingene gitt i vedlegg Grovsiling av arealinnspill, som følger saksframlegget.
+Arealinnspill som tas med videre i arbeidet, og som medfører nye utbyggingsområder eller områder med vesentlig endret arealbruk i eksisterende byggeområder, skal gjennom en konsekvensutredning, KU.
+Flertallet ønsker å endre gitte kriterier for grovsortering til også i større grad å omfatte næringslivsinteresser.
+Flertallet mener derfor at slik forslaget nå fremstår så hensyntas ikke nærings initiativer i tilstrekkelig grad.
+Flertallet fremmer derfor forslag om at følgende saker blir med til videre behandling i kommuneplanens arealdel i tillegg til de allerede grovsorterte sakene som er fremlagt i det opprinnelige forslaget - Sak 9 – 79/2, Sak 11 – 160/382, Sak 13 – 166/9, Sak 19 – 34/1, Sak 20 – 34/1, Sak 23 – 76/6 og 76/40, Sak 28 – 13/3, Sak 36 – 159/2, Sak 47 – 174/4, Sak 58 – 7/1, Sak 59 – 163/1, 23/958-30 – 26/2, 23/958-31 – 20/7, 23/958-34 del ½ Gangvei Vallersund Birkeli, 23/958-41 del 7, 23/958-41 del 8, 23/958-41 del 10, 23/958-42, 23/958-46, 23/958-50, 23/958-54 del 2, 23/958-66.
+Teksten “Nye boligområder og boligbygging lokaliseres fortrinnsvis i tilknytning til kommunesentra, aksen imellom, men også der kommunen har skoler og barnehager” endres til “Nye boligområder og boligbygging lokaliseres fortrinnsvis i tilknytning til kommunesentra, aksen imellom og lokalsentra”.
+Følgende saker blir med til videre behandling i kommuneplanens arealdel i tillegg til de allerede grovsorterte sakene som er fremlagt i det opprinnelige forslaget - 23/958-47 Del 2 og 23/958-47 Del 3.
+
+Alternative forslag:
+- Eirik Lundemo, Høyre: Flertallet ønsker å endre gitte kriterier for grovsortering til også i større grad å omfatte næringslivsinteresser. De kriterier som nå ligger til grunn for grovsorteringen, er som fremlagt i saken, basert på strategier og målsettinger i kommuneplanens samfunnsdel, kommunens arealstrategi, samt relevante nasjonale og regionale føringer. Flertallet mener derfor at slik forslaget nå fremstår så hensyntas ikke nærings initiativer i tilstrekkelig grad. Flertallet fremmer derfor forslag om at flere saker blir med til videre behandling i kommuneplanens arealdel i tillegg til de allerede grovsorterte sakene som er fremlagt i det opprinnelige forslaget. Teksten om boligområder endres også for å inkludere lokalsentra.
+
+Voteringer:
+- Votering over forslag: ENF - Endring av kriterier for grovsortering
+  - For: 28 stemmer
+  - Mot: 3 stemmer
+- Votering over forslag: ENF - Flere saker til videre behandling
+  - For: 24 stemmer
+  - Mot: 7 stemmer
+- Votering over forslag: TIL - Sak 25/141 Grovsiling av arealinnspill til kommuneplanens arealdel
+  - For: 30 stemmer
+  - Mot: 1 stemmer
+- Votering over forslag: Opprinnelig forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

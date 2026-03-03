@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2023
+saksnummer: PS 18/23
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak som meddommer i Trøndelag tingrett - Morten Aune
+
+Vedtak:
+Morten Aune innvilges fritak fra verv som meddommer i Trøndelag tingrett for resten av perioden 01.01.2021 – 31.12.2024.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

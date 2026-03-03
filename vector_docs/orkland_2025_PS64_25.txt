@@ -1,0 +1,23 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 64/25
+rodt_fremmet: False
+---
+
+Tittel: Robuste småhus, utvidet vurdering
+
+Vedtak:
+Kommunestyret vedtar at det etableres 1 tomannsbolig på tomta 21/89 Kvennvegen og 1 tomannsbolig på tomta 10/36 ved den tidligere glattkjøringsbanen på Laksøra. Begge etableringene forutsetter kontinuerlig evaluering av plasseringene og boligene etableres slik at de kan flyttes til annet sted om tiltaket erfares uhensiktsmessig.
+
+Alternative forslag:
+- Flertallsgruppa (AP, V, SV, SMP): Kommunestyret vedtar at det etableres 1 tomannsbolig på tomta 21/89 Kvennvegen og 1 tomannsbolig på tomta 10/36 ved den tidligere glattkjøringsbanen på Laksøra. Begge etableringene forutsetter kontinuerlig evaluering av plasseringene og boligene etableres slik at de kan flyttes til annet sted om tiltaket erfares uhensiktsmessig.
+- Bente Høston Bostad, KrF på vegne av PP, R, INP, FrP og KrF: Kommunestyre vedtar at det etableres 1 tomannsbolig på tomta Kvennvegen 21/89 og 1 tomannsbolig på tomta Rømmesøyene 8/1. Begge etableringene forutsetter kontinuerlig evaluering av plasseringene og etableres slik at boligene kan flyttes til annet sted om tiltaket erfares uhensiktsmessig.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 26.08.2025
+  - Forslag fra flertallsgruppa: 6 stemmer
+  - Kommunedirektørens innstilling: 5 stemmer
+- Votering i Kommunestyre 16.09.2025
+  - Forslag fra PP, R, INP, FrP og KrF (kommunedirektørens opprinnelige forslag): 18 stemmer
+  - Hovedutvalg helse, oppvekst og kulturs innstilling: 21 stemmer

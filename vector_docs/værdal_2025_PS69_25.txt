@@ -1,0 +1,27 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 69/25
+rodt_fremmet: False
+---
+
+Tittel: PS 69/25 Fremtidig organisering Innherred regionråd - Godkjenning ny samarbeidsavtale
+
+Vedtak:
+1. Revidert samarbeidsavtale for Innherred interkommunalt politisk råd vedtas med virkning fra 1.1.2026.
+2. Medlemmer i Innherred interkommunalt råd oppnevnes slik fra 01.01.2026:
+Knut Snorre Sandnes (H)
+Bodil Ressem (FRP)
+Trine Reitan (AP)
+Vara:
+Hilde Daleng (SP)
+Einar Olav Larsen (SP)
+Tor Martin Nordtømme (AP)
+3. Medlem i regionrådets arbeidsutvalg
+Ordfører
+Vara:
+Varaordfører
+
+Voteringer:
+- Votering over forslag på medlemmer og varamedlemmer og formannskapets innstilling
+  - For: enstemmig

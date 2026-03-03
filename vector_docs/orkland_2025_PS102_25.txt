@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 102/25
+rodt_fremmet: False
+---
+
+Tittel: Utvidet låneopptak ombyggingsprosjekt Isfjord
+
+Vedtak:
+Kommunestyret vedtar en økt ramme på 1 650 000 kroner til prosjekt 40127 Ombyggingsprosjekt Isfjord. Ny ramme for prosjektet blir på 5 300 000 kroner. Økt ramme på 1 650 000 kroner finansieres med låneopptak.
+
+Voteringer:
+- Votering i Formannskap 25.11.2025 om Kommunedirektørens innstilling
+  - For: enstemmig
+- Votering i Kommunestyre 16.12.2025 om Formannskapets innstilling
+  - For: enstemmig

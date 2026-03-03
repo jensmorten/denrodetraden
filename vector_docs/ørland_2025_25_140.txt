@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/140
+rodt_fremmet: False
+---
+
+Tittel: Intensjonsavtale knyttet til utvikling av kjøpesentertomta i Bjugn
+
+Vedtak:
+Kommunedirektøren gis myndighet til å signere vedlagte intensjonsavtale mellom Ørland kommune og Fosensenteret AS.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskap - 16.10.2025
+  - For: 31 stemmer
+  - Mot: 0 stemmer

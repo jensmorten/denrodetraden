@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 228/2025
+rodt_fremmet: True
+---
+
+Tittel: Byrådets tilleggsbevilgningskonto i økonomireglementet
+
+Vedtak:
+Bystyret vedtar å revidere økonomireglementet ved å legge til følgende avsnitt i økonomireglementet under eksisterende kapittel 3.1.2: “Byrådets tilleggsbevilgningskonto Byrådet har fullmakt til å disponere Byrådets tilleggsbevilgningskonto. Midlene kan gis som tilskudd til organisasjoner, finansiere nyttige tiltak for byen eller interne formål i kommunen. Listen er ikke uttømmende. Byrådet skal i årsberetningen informere bystyret om hvordan midlene har vært disponert.”
+
+Alternative forslag:
+- Roald Arentz (R): Bystyret vedtar å revidere økonomireglementet ved å legge til følgende avsnitt i økonomireglementet under eksisterende kapittel 3.1.2: “Byrådets tilleggsbevilgningskonto: Byrådet har fullmakt til å disponere byrådets tilleggsbevilgningskonto. Midlene kan gis som tilskudd til organisasjoner, finansiere nyttige tiltak for byen eller interne formål i kommunen. Byrådet skal i økonomirapporter og i årsberetninga, informere bystyret om hvordan midlene har vært disponert.”
+
+Voteringer:
+- Ved alternativ votering mellom innstillingen og Arentz forslag
+  - Innstillingen: 48 stemmer
+  - Arentz forslag: 19 stemmer

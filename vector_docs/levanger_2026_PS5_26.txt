@@ -1,0 +1,20 @@
+METADATA:
+kommune: levanger
+year: 2026
+saksnummer: PS 5/26
+rodt_fremmet: False
+---
+
+Tittel: Økonomireglement - endring i rapporteringsfrekvens
+
+Vedtak:
+Levanger kommunes økonomireglement pkt. 5.2 endres til:
+«Kommunedirektøren skal rapportere til kommunestyret om utviklingen i inntekter og utgifter, sammenholdt med årsbudsjettet. Dersom utviklingen tilsier vesentlige avvik, skal kommunedirektøren foreslå endringer i årsbudsjettet, jf. Kommuneloven § 14-5 tredje ledd.
+Det skal rapporteres to ganger i året: pr. 30/4 og pr. 31/8. Disse økonomirapportene skal gi en helhetlig oversikt som belyser kommunens økonomi sammenholdt med årsbudsjettet.
+Økonomirapportene skal også inneholde andre relevante måltall for sykefraværsutviklingen, overliggere på sykehuset og innleie av vikarer.
+I tillegg skal formannskapet månedlig orienteres om status på økonomi og sykefravær på det enkelte budsjettansvar. Status for investeringsprosjektene rapporteres ved utgangen av 2. tertial.»
+Endringen gjelder fra og med 01.01.2026.
+
+Voteringer:
+- Votering over innstillingen til endring i økonomireglement pkt. 5.2
+  - For: 35 stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 43/25
+rodt_fremmet: False
+---
+
+Tittel: Klage på vedtak - stemmekretser i Orkland kommune
+
+Vedtak:
+Klage fra Å samfunnshus på kommunestyrets vedtak i sak 20/25- stemmekretser i Orkland kommune tas ikke til følge.
+
+Alternative forslag:
+- Stine Storengen, SP: Klage fra Å samfunnshus på kommunestyrets vedtak i sak 20/25- stemmekretser i Orkland kommune tas til følge.
+
+Voteringer:
+- Votering på kommunedirektørens innstilling mot forslag fra Stine Storengen, SP
+  - Kommunedirektørens innstilling: 23 stemmer
+  - Forslag fra Stine Storengen, SP: 20 stemmer

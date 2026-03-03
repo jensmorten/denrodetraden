@@ -1,0 +1,20 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/009
+rodt_fremmet: False
+---
+
+Tittel: 26/009 Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og saksliste med merknader ble enstemmig vedtatt ved manuell votering.
+
+Alternative forslag:
+- Mona Sjøli H: Forslag på settevaraordfører, Tonje Bakken Nervik SP.
+
+Voteringer:
+- Valg av settevaraordfører
+  - Tonje Bakken Nervik SP: enstemmig
+- Godkjenning av innkalling og saksliste med merknader
+  - Godkjent: enstemmig

@@ -1,0 +1,20 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/037
+rodt_fremmet: False
+---
+
+Tittel: Endring av vedtekter for barnehage
+
+Vedtak:
+1. Vedlagte endrede vedtekter for barnehage vedtas.
+2. Utvalget ber administrasjonen gå i dialog med forsvarsdepartementet om finansiering av ekstraordinære åpningstider i barnehage og SFO på sommeren. Henviser til brev fra 132 luftving vedr. helårsåpen barnehage og SFO.
+
+Voteringer:
+- Votering over forslag - Punktvis avstemming OPV sin innstilling - punkt 1
+  - For: 19 stemmer
+  - Mot: 11 stemmer
+- Votering over forslag - Punktvis avstemming OPV sin innstilling - punkt 2
+  - For: 30 stemmer
+  - Mot: 0 stemmer

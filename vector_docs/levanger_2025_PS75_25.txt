@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 75/25
+rodt_fremmet: False
+---
+
+Tittel: Budsjett Levanger Arena KF 2026
+
+Vedtak:
+Budsjett 2026 for Levanger arena KF vedtas. Det settes av totalt 6.635.000 kr i kommuneregnskapet 2026 for å dekke drifts- og finanskostnader i Trønderhallen og Levanger Fritidspark. Inkludert i beløpet er subsidiering av billettpriser i bassenget, og leiepriser for lag/foreninger som benytter svømme & flerbrukshallen på Røstad og arenaene ved Levanger Fritidspark på Moan.
+
+Voteringer:
+- Votering over styret i Levanger arena KFs forslag til vedtak om budsjett 2026
+  - For: 35 stemmer

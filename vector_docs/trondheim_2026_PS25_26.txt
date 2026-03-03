@@ -1,0 +1,58 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 25/26
+rodt_fremmet: False
+---
+
+Tittel: Valg av forretningsutvalg etter nytt reglement og endringer i andre reglement for folkevalgte organer hvor forretningsutvalgets sammensetning har betydning
+
+Vedtak:
+Forslaget endrer oppnevningen av faste medlemmer, samt varalisten for Sentrum-H
+Ved alternativ votering mellom deler av innstillingens pkt 1 og alternativt forslag fra H, PP ble alternativt forslag fra H, PP enstemmig vedtatt.
+Resten av innstillingen pkt 1 ble enstemmig vedtatt.
+Innstillingens pkt 2 og 3 ble enstemmig vedtatt.
+Dyrendahls forslag "Varaliste for MDG" ble enstemmig vedtatt.
+
+Alternative forslag:
+- Tore Dyrendahl (MDG): Som vara for Tore Dyrendahl (MDG) velges:
+1. Nora Malini Sætherø (MDG)
+2. Line Fjørstad (MDG)
+3. Ola Lund Renolen (MDG)
+- Mats Ulseth Ramo (H) på vegne av H, PP: Forslaget endrer oppnevningen av faste medlemmer, samt varalisten for Sentrum-H
+1. Bystyret vedtar å oppnevne følgende medlemmer og varamedlemmer av forretningsutvalget fra 01.02.2026 og for resten av valgperioden:
+Medlemmer:
+Kent Ranum (leder)
+Erling Moe (nestleder)
+Berit Tiller (Høyre)
+Sara Shafighi (AP)
+Silje Naper Salomonsen (SV)
+Tore Dyrendahl (MDG)
+Elin Marie Andreassen (FrP)
+Roald Arentz (Rødt)
+Svein Otto Nilsen (PP)
+Vegard Frøseth Fenes (SP)
+Majen Helen Sævik (KrF)
+Jørn Arve Flått (AP)
+Gro Eide (H)
+Med følgende vara for
+Vara for Ranum, Moe, Tiller, Andreassen, Nilsen, Fenes, Sævik og Eide
+1. Aurora Meland Winger
+2. Sindre Nilsskog
+3. Guro Holm Skillingstad
+4. Arild Svensli
+5. Morten Kokaas
+6. Kolbjørn Frøseth
+7. Arne Ivar Denstad
+8. Niklaus Haugrønning
+
+Voteringer:
+- Ved alternativ votering mellom deler av innstillingens pkt 1 og alternativt forslag fra H, PP
+  - Innstillingens pkt 1: 0 stemmer
+  - Alternativt forslag fra H, PP: enstemmig
+- Votering om resten av innstillingen pkt 1
+  - Innstillingens pkt 1: enstemmig
+- Votering om innstillingens pkt 2 og 3
+  - Innstillingens pkt 2 og 3: enstemmig
+- Votering om Dyrendahls forslag "Varaliste for MDG"
+  - Dyrendahls forslag "Varaliste for MDG": enstemmig

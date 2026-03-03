@@ -1,0 +1,23 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 261/2025
+rodt_fremmet: False
+---
+
+Tittel: Valg av styremedlemmer i Trondheim Kommunale Pensjonskasse
+
+Vedtak:
+Bystyret oppnevner følgende medlemmer til styret i Trondheim Kommunale Pensjonskasse:
+Medlem: Ida Espolin Johnson (ikke på valg)
+Medlem: Siv Merete Hagen (nyvalg for 2026-2029)
+Medlem: Kjersti Aas (gjenvalg for 2026-2029)
+Medlem: Ragnar Torvik (ikke på valg)
+Medlem: Ferhat Güven (ikke på valg)
+Første vara: Tore Neverdal (ikke på valg)
+Andre vara: Torgeir Kråkenes (gjenvalg for 2026-2029)
+Tredje vara: Kristine Nervik Sørdal (nyvalg for 2026-2029)
+
+Voteringer:
+- Votering om innstillingen til styremedlemmer i Trondheim Kommunale Pensjonskasse
+  - Innstillingen: enstemmig

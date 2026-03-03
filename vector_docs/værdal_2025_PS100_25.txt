@@ -1,0 +1,22 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 100/25
+rodt_fremmet: False
+---
+
+Tittel: PS 100/25 Supplering av varamedlemmer fellesliste AP/INP/V i kontrollutvalget
+
+Vedtak:
+Følgende suppleres inn som vara i kontrollutvalget:
+2. vara: Kristin J. Hildrum (AP)
+3. vara: Bjørn Holmli (AP)
+4. vara: Ole Christian Suul (INP)
+5. vara: Brita K. Thorsvik (V)
+
+Alternative forslag:
+- AP v/Trine Reitan: 4. vara Ole Christian Suul
+
+Voteringer:
+- Votering over formannskapets innstilling inkludert forslaget fra AP om 4. vara Ole Christian Suul
+  - For: enstemmig

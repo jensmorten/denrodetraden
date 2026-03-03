@@ -1,0 +1,36 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/025
+rodt_fremmet: True
+---
+
+Tittel: Utvidelse og utbedring arbeidslokaler for Oppfølgingstjenesten
+
+Vedtak:
+1. Følgende kortsiktige tiltak gjennomføres på Soltunet og Hildatunet:
+a. Det etableres personalbase i en brakkerigg mellom Dr. Sauers vei 7E og 7F til Soltunet bofellesskap
+b. Midlertidig brakkerigg for personalbase tilhørende avlastningsbolig for barn og unge utvides for å muliggjøre sambruk med Hildatunet og Ambulerende miljøavdeling.
+2. Etablering av midlertidig tiltak gjennomføres med 1.700.000 kr i investeringsmidler. Tiltaket gjennomføres på følgende måte:
+a. 1.000.000 kr fra planlegging ““Midlertidige tiltak Soltunet, Hildatunet og hjelpemiddelsentralen”
+b. 700.000 kr omdisponeres fra prosjektet “Kjøp av omsorgsboliger”
+3. Årlige driftskostnader på 500 000 kroner for brakkerigg finansieres innenfor Helse og families budsjett, enhet Oppfølgingstjenesten
+4. Forslag til løsninger for hjelpemiddelsentralen legges frem i egen sak
+5. Utredninger for langsiktige tiltak Soltunet, Miljøavdeling Brekstad, Hildatunet og Ambulerende miljøtjenester inkluderes i prosjektet “avlastningsbolig barn og unge”. Fokus skal være på etablering av nye bofellesskap. Det skal sees på kombinasjon av leiligheter som kan leies eller eies jamfør boligsosial plan
+6. Kommunestyret ber kommunedirektøren inngå avtale om kjøp av brakker. Om det krever vesentlige endringer i finansiering, legges saken frem for politisk behandling.
+Kommunestyret ber Kommunedirektøren senest i løpet av august, legge fram en oversikt over arbeidsplasser som ikke oppfyller kravene til fysisk arbeidsmiljø i arbeidsmiljøloven med forskrifter.
+
+Alternative forslag:
+- Ole Edvard Antonsen, Rødt: Kommunestyret ber Kommunedirektøren senest i løpet av august, legge fram en oversikt over arbeidsplasser som ikke oppfyller kravene til fysisk arbeidsmiljø i arbeidsmiljøloven med forskrifter.
+- Fredrik Sandness, Arbeiderpartiet: Kommunestyret ber kommunedirektøren inngå avtale om kjøp av brakker. Om det krever vesentlige endringer i finansiering, legges saken frem for politisk behandling.
+
+Voteringer:
+- Votering over forslag (Tilleggsforslag)
+  - For: 24 stemmer
+  - Mot: 7 stemmer
+- Votering over forslag (Tilleggsforslag)
+  - For: 21 stemmer
+  - Mot: 10 stemmer
+- Votering over forslag (Innstilling fra formannskapets møte 06.02.25)
+  - For: 31 stemmer
+  - Mot: 0 stemmer

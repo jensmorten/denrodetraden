@@ -1,0 +1,23 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 53/25
+rodt_fremmet: False
+---
+
+Tittel: PS 53/25 Oppfølging av politisk vedtak - aktivitetstilbud og ungdommens steder
+
+Vedtak:
+Kommunestyret anerkjenner at det jobbes godt med ungdomsarbeid i Verdal kommune, men ønsker et større fokus på helgearrangement som skal forebygge utenforskap for ungdommer i aldersgruppen 15-18år. Det bevilges en sum på inntil 100 000kr som aktører eller frivillige kan søke på hvor man skal arrangere helgearrangement på lørdag kveld for ungdom i aldersgruppen 15-18 år. 2-4 ganger i året. Med fokus på å redusere utenforskap. Summen finansieres av NTE midler og er et prøveprosjekt på 1 år . Ungdomsrådet får myndighet til å bevilge pengene ut fra de aktørene som har søkt. Følgene utredes i løpet av høsten 2025 og legges fram til behandling: 1. Hva må til for at det skal gis anledning til å søke om 16 års aldergrense ved skjenkesøknad til kulturarrangement,konserter og festivaler som Steinkjerfestivalen. Hva må til for at arrangører skal kunne ha med 16 åringer på festarrangement. 2. Definer klart og tydelig hva som er fest og hva som er kulturarrangement. 3. Hva må til for at 16-18 åringer skal skilles fra de over 18 år med annen farge på armbånd. Å dele skjenkeområde er en dårlig måte å inkludere ungdom fra 16-18 år.
+
+Alternative forslag:
+- H/SP/VDL/FRP v/Odd Helge Roksvåg: 1. Hva må til for at det skal gis anledning til å søke om 16 års aldergrense ved skjenkesøknad til kulturarrangement,konserter og festivaler som Steinkjerfestivalen. Hva må til for at arrangører skal kunne ha med 16 åringer på festarrangement. 2. Definer klart og tydelig hva som er fest og hva som er kulturarrangement. 3. Hva må til for at 16-18 åringer skal skilles fra de over 18 år med annen farge på armbånd. Å dele skjenkeområde er en dårlig måte å inkludere ungdom fra 16-18 år.
+- AP v/Trine Reitan: Kommunestyret anerkjenner at det jobbes godt med ungdomsarbeid i Verdal kommune, men ønsker et større fokus på helgearrangement som skal forebygge utenforskap for ungdommer i aldersgruppen 15-18år. Det bevilges en sum på inntil 100 000kr som aktører eller frivillige kan søke på hvor man skal arrangere helgearrangement på lørdag kveld for ungdom i aldersgruppen 15-18 år. 2-4 ganger i året. Med fokus på å redusere utenforskap. Summen finansieres av NTE midler og er et prøveprosjekt på 1 år . Ungdomsrådet får myndighet til å bevilge pengene ut fra de aktørene som har søkt.
+
+Voteringer:
+- Votering over forslag fra AP
+  - For: enstemmig
+  - Mot: 0
+- Votering over forslag fra H/SP/VDL/FRP
+  - For: enstemmig
+  - Mot: 0

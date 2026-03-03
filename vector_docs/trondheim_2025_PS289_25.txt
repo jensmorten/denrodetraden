@@ -1,0 +1,27 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 289/25
+rodt_fremmet: False
+---
+
+Tittel: PS 289/2025 Møteramme for bystyrets møter
+
+Vedtak:
+Bystyrets møter starter kl. 10.00 og varer til kl. 17.00. Endret starttidspunkt for bystyrets møter innføres fra 01.01.2026.
+
+Alternative forslag:
+- Radino Dizza Zulfi Mahendra (H), alternativt forslag pva H, Uavhengig Ødegaard: Bystyrets møter starter kl. 13.00 og varer til kl. 20:00. Endret møtestart innføres fra 01.01.2026. Ordføreren legger frem sak for bystyret i juni 2026 med evaluering av møtetidspunkt og eventuelt forslag til ytterligere justering.
+- Gjermund Gorset (Ap): Bystyret vedtar å gjennomføre to ordinære bystyremøter i februar, juni og oktober enten dagen før eller dagen etter det fastsatte møte. Dersom det ikke er behov kan ordfører varsle bystyret at møtet gjennomføres som et enkeltmøte. Bystyret gir forretningsutvalget fullmakt til å vurdere om det skal betales honorar for to møter eller ett ved gjennomføringen av disse. Alle møter i bystyret gjennomføres i tidsrammen 13.00 - 18.00.
+- Mona Berger (SV), alternativt forslag pva SV, MDG, R: Bystyrets møter starter kl. 10.00 og varer til kl. 17.00. Endret starttidspunkt for bystyrets møter innføres fra 01.01.2026.
+
+Voteringer:
+- Votering på Mahendras forslag om møter fra 13.00 til 20.00
+  - For: 14 stemmer
+  - Mot: 53 stemmer
+- Votering på Gorsets forslag om to ordinære møter i februar, juni og oktober med tidsramme 13.00 - 18.00
+  - For: 18 stemmer
+  - Mot: 49 stemmer
+- Votering på Bergers forslag om møter fra 10.00 til 17.00
+  - For: 37 stemmer
+  - Mot: 30 stemmer

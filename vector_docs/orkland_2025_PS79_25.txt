@@ -1,0 +1,41 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 79/25
+rodt_fremmet: False
+---
+
+Tittel: Utvidelse av antall varamedlemmer i hovedutvalgene
+
+Vedtak:
+Nye varamedlemmer:
+Hovedutvalg forvaltning:
+Synnøve Hilstad, AP
+Hermann Lund, SMP
+Torstein Grønningen, V
+Guttorm Sand, H
+Hovedutvalg helse, oppvekst og kultur
+Hermann Lund, SMP
+Hanne Kvernmo Rye, V
+Hovedutvalg teknikk
+Geir S. Knutzen, SMP
+Lasse Sørmo, SP (flyttes fra varalisten i hovedutvalg forvaltning.
+Geir Homstad, H
+
+Alternative forslag:
+- Hanne Nyhus, AP: Det er ønske om å utvide varalista til hovedutvalgene. De partiene som ønsker å utvide sine varalister med ett medlem melder inn ønsker med navn og hovedutvalg til sekretær, behandles som politisk sak i kommunestyret 14.10.2025
+- Hans Kringstad, SMP: Teknikk: Geir S. Knutzen
+Forvaltning: Hermann Lund
+HOK: Hermann Lund
+- Hanne Nyhus, AP: Ny vara i forvaltning Synnøve Hilstad
+- Hanne Mehli, V: Forvaltning: 4. vara Torstein Grønningen
+HOK: 4. vara Hanne Kvernmo Rye
+- Bjørn Berg, SP: Lasse Hilstad Sørmo flyttes fra varalisten til hovedutvalg forvaltning til hovedutvalg teknikk.
+- Eva Solstad Legar, H: Forvaltning: Guttorm Sand
+Teknikk: Geir Homstad
+
+Voteringer:
+- Votering i Valgutvalg 13.10.2025 på forslag fra Hanne Nyhus, AP
+  - For: enstemmig
+- Votering i Kommunestyre 14.10.2025 på alle innkomne forslag
+  - For: enstemmig

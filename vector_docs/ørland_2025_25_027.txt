@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/027
+rodt_fremmet: False
+---
+
+Tittel: Tilsynsstrategi 2025-2029 for Ørland kommune
+
+Vedtak:
+Ørland kommunestyre vedtar foreslått “Tilsynsstrategi 2025 - 2029 for Ørland kommune” med tilhørende tilsynsplan. Planutvalget i Ørland kommune delegeres myndighet til å vedta revidering av tilsynsstrategien.
+
+Voteringer:
+- Votering over forslag i kommunestyret 20.02.2025
+  - Opprinnelig forslag: 31 stemmer
+- Votering over forslag i planutvalget 18.02.2025
+  - Opprinnelig forslag: 9 stemmer

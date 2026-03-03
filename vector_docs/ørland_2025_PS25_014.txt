@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/014
+rodt_fremmet: False
+---
+
+Tittel: Dokumenter fra møte i Representantskapet i Midt-Norge 110-sentral IKS 29.04.2025 - Årsrapport og årsregnskap 2024
+
+Vedtak:
+KST - 25/014 vedtak

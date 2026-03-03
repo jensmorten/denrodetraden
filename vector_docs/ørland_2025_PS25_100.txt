@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/100
+rodt_fremmet: False
+---
+
+Tittel: Uttreden av faste verv som folkevalgt ifm flytting - nyvalg og opprykk
+
+Vedtak:
+Dag F. Balavoine MDG innvilges fritak fra alle sine politiske verv fra 01.07.25 for resten av valgperioden.
+
+Alternative forslag:
+- Hallgeir Grøntvedt, Senterpartiet: Dag F. Balavoine MDG innvilges fritak fra alle sine politiske verv fra 01.07.25 for resten av valgperioden.
+
+Voteringer:
+- Votering over forslag: Ordfører fremmer følgende forslag til innstilling fra Hallgeir Grøntvedt (SP)
+  - For: 29 stemmer
+  - Mot: 0 stemmer

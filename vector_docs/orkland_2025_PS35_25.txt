@@ -1,0 +1,27 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 35/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av hovedutvalg forvaltning
+
+Vedtak:
+
+
+Alternative forslag:
+- Torstein Larsen, PP: Som nestleder velges Stein Elshaug, uavhengig.
+- Bente Bostad på vegne av Krf, PP, INP, Frp, SP og INP: Som nestleder velges Stein Elshaug, uavhengig.
+
+Voteringer:
+- Valg av medlemmer og varamedlemmer i hovedutvalg forvaltning
+  - Valgutvalgets innstilling: enstemmig
+- Valg av leder
+  - Forslag fra Hanne Nyhus, AP: enstemmig
+- Valg av nestleder
+  - Forslag fra Torstein Larsen, PP: 5 stemmer
+  - Forslag fra Hanne Nyhus, AP: 6 stemmer
+- Valg av nestleder i kommunestyret
+  - Forslag fra Bente Bostad på vegne av Krf, PP, INP, Frp, SP og INP: 20 stemmer
+  - Valgutvalgets innstilling: 23 stemmer

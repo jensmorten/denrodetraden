@@ -1,0 +1,16 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 6/25
+rodt_fremmet: False
+---
+
+Tittel: Anmodning om bosetting av flyktninger 2025
+
+Vedtak:
+Levanger kommune imøtekommer IMDis anmodning om å bosette 110 flyktninger i 2025, inkludert 12 enslige mindreårige.
+Levanger kommune stiller seg positiv til å bosette ytterligere 30 flyktninger i 2025, inkludert 4 enslige mindreårige, hvis behovet øker.
+
+Voteringer:
+- Votering over innstillingen om bosetting av flyktninger 2025
+  - For: 34 stemmer

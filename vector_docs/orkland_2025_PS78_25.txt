@@ -1,0 +1,28 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 78/25
+rodt_fremmet: False
+---
+
+Tittel: 78/25 Oppløsning av bundne fond
+
+Vedtak:
+Kommunestyret vedtar at 20 652 847,10 kroner omdisponeres fra bundne driftsfond og 2 976 984,81 kroner omdisponeres fra bundne investeringsfond. Midlene fra bundne driftsfond omdisponeres til ordinært disposisjonsfond med 8 367 134,43 kroner og til Flyktningefond med 9 285 712,67 kroner. Midlene fra bundne investeringsfond omdisponeres til disposisjonsfond for investeringer med 1 090 802,60 kroner. De resterende fondsmidlene disponeres slik: - 3 mill. kr fra Fond Orkland overføres til Fond asfalt/vei - Fond Grønørbrua på 1 286 732,41 overføres i sin helhet til Fond asfalt/vei - MK 255080461 Bund. invest.fond sykkel på 599 449,80 overføres i sin helhet til Fond trafikksikkerhet. Hovedutvalg teknikk prioriterer bruk av midlene på totalt 4 886 182,21.
+
+Alternative forslag:
+- Hans Atle Kringstad, SMP på vegne av AP, H, SMP, SV og V: Kommunestyret vedtar at 20 652 847,10 kroner omdisponeres fra bundne driftsfond og 2 976 984,81 kroner omdisponeres fra bundne investeringsfond. Midlene fra bundne driftsfond omdisponeres til ordinært disposisjonsfond med 8 367 134,43 kroner og til Flyktningefond med 9 285 712,67 kroner. Midlene fra bundne investeringsfond omdisponeres til disposisjonsfond for investeringer med 1 090 802,60 kroner. De resterende fondsmidlene disponeres slik: - 3 mill. kr fra Fond Orkland overføres til Fond asfalt/vei - Fond Grønørbrua på 1 286 732,41 overføres i sin helhet til Fond asfalt/vei - MK 255080461 Bund. invest.fond sykkel på 599 449,80 overføres i sin helhet til Fond trafikksikkerhet. Hovedutvalg teknikk prioriterer bruk av midlene på totalt 4 886 182,21.
+- Torstein Larsen, PP: Saken utsettes.
+- Svein Erik Jørgensen på vegne av AP, H, SMP, SV og V: Nytt forslag om at saken utsettes.
+
+Voteringer:
+- Votering i Formannskap 02.09.2025 om kommunedirektørens innstilling
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 16.09.2025 om utsettelsesforslag fra Torstein Larsen, PP
+  - Utsettelsesforslag fra Torstein Larsen, PP: 20 stemmer
+  - Mot utsettelsesforslag: flertall minus 20
+- Votering i Kommunestyre 16.09.2025 om nytt utsettelsesforslag fra AP, H, SMP, SV og V
+  - Utsettelsesforslag fra AP, H, SMP, SV og V: enstemmig
+- Votering i Kommunestyre 14.10.2025 om kommunedirektørens innstilling
+  - Kommunedirektørens innstilling: 17 stemmer
+  - Forslag fra Hans Kringstad, SMP på vegne av AP, H, SMP, SV, V: 26 stemmer

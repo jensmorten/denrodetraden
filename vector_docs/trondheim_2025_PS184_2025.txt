@@ -12,4 +12,4 @@ Kontrollutvalget (AP/SV/R/uavh): 1. Gjermund Gorset (AP) 2. Erling Eide Hustvedt
 
 Voteringer:
 - Votering over innstillingen om nyvalg til utvalgene.
-  - Innstillingen: Enstemmig stemmer
+  - Innstillingen: Enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 14/25
+rodt_fremmet: False
+---
+
+Tittel: Fossingmarka - Detaljregulering - sluttbehandling
+
+Vedtak:
+Detaljregulering for Fossingmarka, versjon revidert etter høring, vedtas i henhold til plan- og bygningslovens § 12-12.
+
+Voteringer:
+- Votering over innstilling om detaljregulering for Fossingmarka
+  - For: 34 stemmer

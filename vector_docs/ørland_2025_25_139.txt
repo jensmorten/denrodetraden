@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/139
+rodt_fremmet: False
+---
+
+Tittel: Tverrforbindelse mellom Prestdalsveien og FV710
+
+Vedtak:
+Regulering av tverrforbindelse mellom Pretdalsveien og FV710 Langliveien inkluderes i reguleringsarbeidet.
+
+Alternative forslag:
+- Formannskap: Innstilling fra Formannskap - 16.10.2025
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskap - 16.10.2025
+  - For: 28 stemmer
+  - Mot: 3 stemmer

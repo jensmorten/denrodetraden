@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 59/25
+rodt_fremmet: False
+---
+
+Tittel: Temaplan for friluftslivets ferdselsårer - sluttbehandling
+
+Vedtak:
+Kommunestyret vedtar temaplan for friluftslivets ferdselsårer som framlagt.
+
+Voteringer:
+- Votering i Hovedutvalg forvaltning 26.08.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 16.09.2025
+  - Hovedutvalg forvaltning sin innstilling: enstemmig

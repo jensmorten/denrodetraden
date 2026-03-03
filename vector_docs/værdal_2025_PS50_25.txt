@@ -1,0 +1,8 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 50/25
+rodt_fremmet: False
+---
+
+Tittel: PS 50/25 Orientering

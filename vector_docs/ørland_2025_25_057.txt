@@ -1,0 +1,26 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/057
+rodt_fremmet: False
+---
+
+Tittel: 25/057 Kommunal samarbeidsavtale - Helseplattformen
+
+Vedtak:
+Tiltredelse av kommunal samarbeidsavtale: Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres.
+Utnevning av deltakere i representantskapet: Kommunestyret utnevner NN som kommunens faste representant i oppgavefellesskapets representantskap, med NN som varamedlem.
+Kommunestyret godkjenner finansieringsmodellen som innebærer en årlig kostnadsfordeling basert på innbyggertall pr 1.1.2024. For Ørland kommune innebærer dette en årlig kostnad i 2025 på 212 204 NOK.
+Tilslutning forutsetter at alle eierkommuner slutter seg til avtalen.
+Foreslår Ordfører Hallgeir Grøntvedt som fast representant og varaordfører Mona Sjøli som vararepresentant.
+
+Alternative forslag:
+- Britt Eli Døsvik, Senterpartiet: Foreslår Ordfører Hallgeir Grøntvedt som fast representant og varaordfører Mona Sjøli som vararepresentant
+
+Voteringer:
+- Votering over forslag: Tilleggsforslag kulepunkt 2
+  - TIL - Tilleggsforslag kulepunkt 2: 31 stemmer
+  - MOT: 0 stemmer
+- Votering over forslag: Innstilling fra Formannskap - 12.03.2025
+  - For: 31 stemmer
+  - Mot: 0 stemmer

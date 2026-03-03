@@ -22,4 +22,4 @@ Bystyret gir byrådet fullmakt til å fordele vedtatte budsjettendringer på inv
 
 Voteringer:
 - Votering over innstillingen i sin helhet.
-  - Innstillingen: enstemmig stemmer
+  - Innstillingen: enstemmig

@@ -1,0 +1,49 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 51/25
+rodt_fremmet: False
+---
+
+Tittel: 51/25 Budsjettjustering investering
+
+Vedtak:
+Kommunestyret vedtar følgende endringer av de enkelte prosjekt: (beløp inkl. mva.)
+Prosjekt Navn Beløp inkl mva
+30012 Skilt gateadresser (430) 290 000
+30040 Fortau Orkdalsveien 4 150 000
+30044 Fortau Grensen 7 000 000
+30048 Fortau Tverradkomsten 4 000 000
+30049 Forebygging v/nedbør kommunal vei 1 160 000
+30068 Fortau Reksteret-Mølnvegen 200 000
+40003 Nytt Meldal Helsetun 1 180 000
+40013 Ny Meldal brannstasjon 41 975 000
+40046 Ombygging Lensvik kommunehus 5 785 000
+40067 Garderobeanlegg Orklahallen -6 875 000
+40068 Div. kjøp av eiendom 500 000
+40088 Løkken kulturhus - scenerigg 1 830 000
+40096 Oppgradering uteområde Rådhuset 1 588 000
+40105 Brakkerigg Evjen og Grøtte barnehager 15 020 000
+50018 Tankbil Krokstadøra 2 600 000
+50049 Brannmur 185 000
+50056 PA anlegg Orkland kulturhus 1 750 000
+50063 AV anlegg kommunestyresal 145 000
+Sum endringer 82 483 000
+Samlet finansiering av prosjektene endres som følger:
+Mva kompensasjon - 16 496 600
+Overføring fra drift - 25 626 400
+Lån - 28 080 000
+Tilskudd miljøpakken - 12 280 000
+Sum finansiering - 82 483 000
+Følgende budsjettjusteringer av driftsbudsjettet foretas:
+Ramme Tekst Beløp
+Fellesinntekt Overføring til investering 25 626 400
+Fellesinntekt Bruk av disposisjonsfond - 25 626 400
+Kommunedirektøren gis fullmakt til å foreta detaljerte budsjettendringer.
+Kommunedirektøren gis fullmakt til å foreta nye låneopptak til kommunale investeringer innenfor en ramme på 28 080 000 kroner, herunder binde rente og velge långiver.
+
+Voteringer:
+- Votering i Formannskap 10.06.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 17.06.2025
+  - Formannskapets innstilling: enstemmig

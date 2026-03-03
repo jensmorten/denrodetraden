@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/002
+rodt_fremmet: False
+---
+
+Tittel: 25/002 Vedtaksprotokoller Ørland kommunestyre 01.01. - 30.04.2025
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Kommunestyre 15.05.2025 - behandling av innstilling
+  - Saken tas til orientering: enstemmig
+- Formannskap 08.05.2025 - behandling av innstilling
+  - Saken tas til orientering: enstemmig

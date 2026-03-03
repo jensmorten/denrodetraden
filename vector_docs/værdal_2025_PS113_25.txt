@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 113/25
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av møteprotokoll
+
+Vedtak:
+Protokoll fra møte 24. november 2025 godkjennes.
+
+Voteringer:
+- Votering om godkjenning av protokoll fra møte 24. november 2025
+  - For: enstemmig

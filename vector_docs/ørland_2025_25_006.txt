@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/006
+rodt_fremmet: False
+---
+
+Tittel: None
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Votering over forslag - Innstilling fra Formannskap - 04.09.2025
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag - Opprinnelig forslag
+  - For: 7 stemmer
+  - Mot: 0 stemmer

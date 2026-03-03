@@ -1,0 +1,24 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 84/25
+rodt_fremmet: False
+---
+
+Tittel: PS 84/25 Torfinn Hofstad (SP) - søknad om fritak fra folkevalgte verv
+
+Vedtak:
+Kommunestyret imøtekommer Torfinn Hofstad sin søknad om fritak fra alle folkevalgte verv for resten av valgperioden.
+Ståle Moe (SP) rykker inn som fast medlem i kommunestyret.
+Nytt medlem i utvalg mennesker og livskvalitet: Ståle Moe
+Ny nestleder i utvalg for mennesker og livskvalitet: Ståle Moe
+Nytt 2. varamedlem i utvalg plan og samfunn: Rune Tronsmo Olsen
+Nytt medlem i trafikksikkerhetsutvalget: Linda Holmli
+Nytt 5. varamedlem i utvalg for mennesker og livskvalitet: Thomas André Lyng
+
+Alternative forslag:
+- Einar Olav Larsen (SP): Nytt 5. varamedlem i utvalg for mennesker og livskvalitet: Thomas André Lyng
+
+Voteringer:
+- Votering over formannskapets innstilling med forslag fra Larsen
+  - Formannskapets innstilling med forslag fra Larsen: enstemmig

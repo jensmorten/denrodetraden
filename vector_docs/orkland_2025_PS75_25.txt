@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 75/25
+rodt_fremmet: False
+---
+
+Tittel: 75/25 Rapport etter juli 2025
+
+Vedtak:
+Kommunestyret tar Rapport etter juli 2025 til orientering.
+
+Voteringer:
+- Votering i Formannskap 30.09.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 14.10.2025
+  - Formannskapets innstilling: enstemmig

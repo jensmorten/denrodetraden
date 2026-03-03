@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/002
+rodt_fremmet: False
+---
+
+Tittel: Valg av protokollunderskrivere
+
+Vedtak:
+Ingen protokollunderskrivere ble valgt. Møtet er en folkevalgtopplæring over 1 dag.

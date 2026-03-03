@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 303/25
+rodt_fremmet: False
+---
+
+Tittel: Leirfossvegen 43 - detaljregulering til sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Leirfossvegen 43 som vist på kart i målestokk 1:1000, merket Aksetøy Arkitekter AS datert 03.07.2024, senest endret 11.09.2025 med bestemmelser senest datert 29.09.2025 og beskrevet i planbeskrivelsen, senest datert 18.06.2025. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12
+
+Voteringer:
+- Votering om innstillingen til detaljregulering av Leirfossvegen 43
+  - For: enstemmig

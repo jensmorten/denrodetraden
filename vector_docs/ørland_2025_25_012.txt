@@ -1,0 +1,26 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/012
+rodt_fremmet: False
+---
+
+Tittel: Debatthefte 2025 - Fra forventning til virkelighet - mellomoppgjøret 2025 og strategisk utvikling av avtaleverket
+
+Vedtak:
+{'id': 'KST - 25/012', 'tekst': 'Kommunestyret ber administrasjonen bearbeide innspill framkommet i workshop og legge dette fram for formannskapet til behandling den 6. februar.'}
+{'id': 'FSK - 25/005', 'tekst': 'Formannskapet ber om at det arrangeres en Workshop i neste kommunestyret den 23.01.25. før endelig vedtak i saken.'}
+{'id': 'FSK - 24/080', 'tekst': 'Saken utsettes og behandles i neste formannskapsmøte.'}
+
+Alternative forslag:
+- Hallgeir Grøntvedt, Senterpartiet: Kommunestyret ber administrasjonen bearbeide innspill framkommet i workshop og legge dette fram for formannskapet til behandling den 6. februar.
+- Hallgeir Grøntvedt, Senterpartiet: Saken utsettes og behandles i neste formannskapsmøte.
+
+Voteringer:
+- Votering over forslag til vedtak i kommunestyret 23.01.2025
+  - Forslag til vedtak: 31 stemmer
+- Votering over forslag i formannskapet 05.12.2024
+  - Opprinnelig forslag: 0 stemmer
+  - Nytt forslag til vedtak: 7 stemmer
+- Votering i formannskapet 09.01.2025
+  - Formannskapets forslag: enstemmig

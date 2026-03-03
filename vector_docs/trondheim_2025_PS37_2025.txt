@@ -15,6 +15,6 @@ Alternative forslag:
 
 Voteringer:
 - Votering over innstillingen til nyvalg til utvalgene.
-  - Innstillingen: enstemmig stemmer
+  - Innstillingen: enstemmig
 - Votering over Flåtts tilleggsforslag 'Avglemt utvalg'.
-  - Flåtts tilleggsforslag: enstemmig stemmer
+  - Flåtts tilleggsforslag: enstemmig

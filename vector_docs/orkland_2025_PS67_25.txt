@@ -1,0 +1,20 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 67/25
+rodt_fremmet: False
+---
+
+Tittel: Anskaffelse av sikkert låssystem for hjemmeboende
+
+Vedtak:
+Kommunestyret vedtar innkjøp på 3,1 millioner kroner for anskaffelse av sikkert låssystem for hjemmeboende brukere av trygghetsalarm. Innkjøpet finansieres ved bruk av bundne fond.
+
+Alternative forslag:
+- Formannskapet: Formannskapet ber om å få en grundigere orientering rundt vurderingene av disse fondene i kommunestyret.
+
+Voteringer:
+- Votering i Formannskap 02.09.2025 om kommunedirektørens innstilling med omforent forslag
+  - For: enstemmig
+- Votering i Kommunestyre 16.09.2025 om formannskapets innstilling
+  - For: enstemmig

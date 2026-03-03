@@ -1,0 +1,27 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 18/26
+rodt_fremmet: False
+---
+
+Tittel: Innbyggerinitiativ - Buran bibliotek må holdes åpent
+
+Vedtak:
+Bystyret ber byråden komme med et notat til bystyret som opplyser om hvordan et midlertidig lavterskel møtested med en nedskalert bibliotekfunksjon kan fungere i perioden Buran bibliotek pusses opp.
+Det er positivt at Buran bibliotek har funnet løsninger for å holde åpent et par dager i uken.
+Bystyret ber byrådet finne alternative løsninger for å sikre at Buran bibliotek kan ha åpent flere dager i oppussingsperioden.
+Bystyret bevilger 200 000 kroner fra disposisjonsfondet til oppgraderinger av Buranhus i samråd med AKKs og biblioteket.
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV) på vegne av SV, MDG, Ap, FrP, R, Uavh. Ødegaard: Bystyret bevilger 200 000 kroner fra disposisjonsfondet til oppgraderinger av Buranhus i samråd med AKKs og biblioteket.
+
+Voteringer:
+- Votering på innstillingens første avsnitt
+  - For: 55 stemmer
+  - Mot: 6 stemmer
+- Votering på innstillingens andre avsnitt
+  - Enstemmig vedtatt: 61 stemmer
+- Votering på tilleggsforslag fra Naper Salomonsen om oppgradering Buranhus
+  - For: 66 stemmer
+  - Mot: 1 stemmer

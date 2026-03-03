@@ -1,0 +1,16 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 120/25
+rodt_fremmet: False
+---
+
+Tittel: Fiona Gratton - søknad om midlertidig fritak fra folkevalgte verv (unntatt trafikksikkerhetsutvalget) fram til 1. juli 2026
+
+Vedtak:
+Fiona L. Gratton innvilges midlertidig fritak som medlem i kommunestyret og utvalg plan og samfunn.
+Settemedlem i utvalg plan og samfunn i perioden: Arne Marius Haugen (H)
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

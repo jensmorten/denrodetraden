@@ -12,4 +12,4 @@ Saken ble utsatt til neste møte pga oppbrukt møtetid.
 
 Voteringer:
 - Votering om å utsette saken til neste møte på grunn av oppbrukt møtetid.
-  - Utsettelse: None stemmer
+  - Utsettelse: ukjent

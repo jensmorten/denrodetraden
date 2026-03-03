@@ -1,0 +1,28 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/123
+rodt_fremmet: False
+---
+
+Tittel: Kommunedelplan for avløp og vannmiljø - Planprogram
+
+Vedtak:
+I medhold av pbl. §11-12 blir vedlagte planprogram vedtatt.
+I medhold av pbl. §11-12 blir arbeidet med kommunedelplan for avløp og vannmiljø startet.
+Kommunestyret ber om at det etableres en fast og rettferdig kompensasjonsordning fra staten som dekker de merkostnadene kommunen har for å drifte og vedlikeholde infrastruktur tilknyttet forsvarsbasen.
+Kompensasjonsordningen bør være øremerket midler til vann, kloakk, veivedlikehold og annen nødvendig infrastruktur brukt av forsvarsbasen.
+Kompensasjonsordningen bør baseres på kapasitet og bruk, fastsatt etter basens maksimale kapasitet under øvelser.
+Kompensasjonen må dekke både drift og investering i oppgradering og vedlikehold av infrastrukturen.
+Kommunestyret ber Kommunedirektøren om å styrke kontakt med relevante statlige myndigheter for å presentere saken og starte forhandlinger om kompensasjonsordningen.
+
+Alternative forslag:
+- Gunnar Hofstad (Industri- og Næringspartiet): Kommunestyret ber om at det etableres en fast og rettferdig kompensasjonsordning fra staten som dekker de merkostnadene kommunen har for å drifte og vedlikeholde infrastruktur tilknyttet forsvarsbasen. Kompensasjonsordningen bør være øremerket, basert på kapasitet og bruk, og dekke både drift og investering.
+
+Voteringer:
+- Votering over opprinnelig forslag til kommunedelplan for avløp og vannmiljø - Planprogram
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag om behov for statlig kompensasjon for drift av infrastruktur knyttet til forsvarsanlegg (forslag fra Gunnar Hofstad, INP)
+  - For: 30 stemmer
+  - Mot: 0 stemmer

@@ -1,0 +1,27 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/010
+rodt_fremmet: False
+---
+
+Tittel: 25/010 Interpellasjon - fattigdom et økende problem
+
+Vedtak:
+Kommunestyret ber kommunedirektøren forberede en sak til neste kommunestyremøte som:
+1. Ser på muligheten for at Fattig Talt får tilgang på mer egnede lokaler
+2. Legger tilrette for et tettere samarbeid mellom Fattig Talt og kommunens to frivilligsentraler.
+
+Alternative forslag:
+- Hallgeir Grøntvedt, Senterpartiet: Kommunestyret ber kommunedirektøren forberede en sak til neste kommunestyremøte som:
+1. Ser på muligheten for at Fattig Talt får tilgang på mer egnede lokaler
+2. Legger tilrette for et tettere samarbeid mellom Fattig Talt og kommunens to frivilligsentraler.
+- Tina Marie Rødde Paulsen, Arbeiderpartiet: Kommunestyret ber kommunedirektøren forberede en sak til neste kommunestyremøte som:
+1. Sikrer at Fattig Talt får en mer forutsigbar økonomi gjennom bevilgninger over kommunebudsjettet.
+2. Sikrer at Fattig Talt får tilgang til egnede lokaler på Brekstad.
+3. Legger til rette for et tettere samarbeid mellom Fattig Talt og kommunens to frivillighetssentraler.
+
+Voteringer:
+- Votering over forslag
+  - ENF - Alternativt forslag: 22 stemmer
+  - TIL - Forslag til vedtak på vegne av AP, MDG, R, SV: 8 stemmer

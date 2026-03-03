@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/076
+rodt_fremmet: False
+---
+
+Tittel: 25/076 Sak fra Kontrollutvalget til behandling i kommunestyret - Kontrollutvalgets årsmelding 2024
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsmelding for 2024, til orientering.
+
+Voteringer:
+- Votering over forslag
+  - For: 30 stemmer
+  - Mot: 0 stemmer

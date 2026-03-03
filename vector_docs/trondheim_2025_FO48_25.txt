@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: FO 48/25
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Støtteordning for kjøp av elsykkel i Trondheim kommune - Merete Letnes Ødegaard (Uavh)
+
+Vedtak:
+Medlemsforslaget oversendes utvalg for Miljø- næring og samferdsel.
+
+Voteringer:
+- Votering om oversendelse av medlemsforslaget
+  - For: enstemmig

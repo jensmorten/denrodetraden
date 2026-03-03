@@ -1,0 +1,33 @@
+METADATA:
+kommune: orkland
+year: 2026
+saksnummer: PS 1/26
+rodt_fremmet: False
+---
+
+Tittel: Reguleringsplan for Orkdalsveien 41 - sluttbehandling av revidert planforslag
+
+Vedtak:
+I medhold av plan- og bygningslovens § 12-12 vedtas reguleringsplan for Orkdalsveien 41 slik den foreligger vedlagt saken.
+2.2 Sentrumsformål (SF)
+Nytt punkt:
+Fundamentnivå skal hensynta mulig bygging av parkeringskjeller på eiendommen gnr. 4 bnr. 20, inntil planens formålsgrense.
+Rekkefølgekrav 4.1
+Tillegg til avsnitt Veg, gang-sykkelveg, fortau:
+Før igangsettingstillatelse gis skal uferdig fortau i Wilmanns vei og Søster Signes vei fram til fortau o_FO2 være ferdigstilt.
+
+Alternative forslag:
+- Knut Even Wormdal, SMP på vegne av SMP, AP, H, SV og V: 2.2 Sentrumsformål (SF)
+Nytt punkt:
+Fundamentnivå skal hensynta mulig bygging av parkeringskjeller på eiendommen gnr. 4 bnr. 20, inntil planens formålsgrense.
+Rekkefølgekrav 4.1
+Tillegg til avsnitt Veg, gang-sykkelveg, fortau:
+Før igangsettingstillatelse gis skal uferdig fortau i Wilmanns vei og Søster Signes vei fram til fortau o_FO2 være ferdigstilt.
+
+Voteringer:
+- Kommunedirektørens innstilling i Hovedutvalg forvaltning 13.01.2026
+  - For: enstemmig
+- Votering i Hovedutvalg forvaltning 13.01.2026 på tilleggsforslag fra SMP, AP, H, SV og V
+  - For: enstemmig
+- Votering i Kommunestyre 27.01.2026 på innstilling med tilleggsforslag
+  - For: enstemmig

@@ -1,0 +1,32 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/092
+rodt_fremmet: False
+---
+
+Tittel: Økonomiplan 2026-2035 Ørland kommune
+
+Vedtak:
+Økonomiplanen for 2026-2035 for Ørland kommune vedtas som fremlagt.
+
+Alternative forslag:
+- Utvalg for oppvekst og utdanning: Utvalg for oppvekst og utdanning tar saken til orientering.
+- Utvalg for Industri og Næring: Utvalg for Industri og Næring tar Økonomiplan for 2026-2035 til orientering.
+- Kommunalt råd for mennesker med nedsatt funksjonsevne: Kommunalt råd for mennesker med nedsatt funksjonsevne ser med bekymring på at kommunen skal innføre eiendomsskatt, da dette kan slå uheldig ut for enkelte mennesker med nedsatt funksjonsevne. Ved eventuell innføring av eiendomsskatt, bør det innføres regler for fritak for de med lavest inntekt.
+- Utvalg for helse og familie (Hilde Kristin Sandvik, INP): Økonomiplanen for 2026-2035 for Ørland kommune vedtas som fremlagt, med eventuelle endringer i forhold til vedtak om helsebygg.
+- Eldrerådet: Eldrerådet tar saken til orientering.
+
+Voteringer:
+- Votering over forslag - Kommunestyre 19.06.2025
+  - For: 19 stemmer
+  - Mot: 12 stemmer
+- Votering over forslag - Planutvalg 17.06.2025
+  - For: 9 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag - Utvalg for Industri og Næring 12.06.2025
+  - Opprinnelig forslag: 0 stemmer
+  - Økonomiplan for 2026-2035 Ørland kommune: 7 stemmer
+- Votering over forslag - Utvalg for helse og familie 11.06.2025
+  - Opprinnelig forslag: 0 stemmer
+  - Nytt forslag fra Hilde Kristin Sandvik (INP): 6 stemmer

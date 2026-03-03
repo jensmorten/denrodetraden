@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/131
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport Fosen barneverntjeneste 2025
+
+Vedtak:
+Tilstandsrapporten for Fosen barneverntjeneste 2025 tas til orientering.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

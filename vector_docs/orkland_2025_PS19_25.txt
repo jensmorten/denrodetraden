@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 19/25
+rodt_fremmet: False
+---
+
+Tittel: Oppfølging av vedtak om administrasjonsgjennomgang
+
+Vedtak:
+Kommunestyret vedtar kommunedirektørens forslag til en todelt prosess som omfatter 1. Bruk av ekstern bistand til kartlegging av kommuneadministrasjonens organisering, effektivitet og ressursbruk i henhold til vedtak. Det bevilges kr 300 000 med dekning fra avsatt reserve ramme kommunedirektør. 2. Et organisasjons- og lederutviklingsprogram som oppfølging av kartleggingen. Det bevilges kr 1 000 000, hvorav kr 700 000 dekkes med OU-midler fra KS og kr 300 000 med dekning fra avsatt reserve ramme kommunedirektør.
+
+Voteringer:
+- Votering i Formannskap 18.03.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 25.03.2025
+  - Formannskapets innstilling: enstemmig

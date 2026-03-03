@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 282/25
+rodt_fremmet: False
+---
+
+Tittel: PS 282/2025 Budsjett for kontroll og revisjon 2026
+
+Vedtak:
+Bystyret vedtar det framlagte budsjettet for 2026 for kontroll og revisjon i Trondheim kommune.
+
+Voteringer:
+- Innstillinga ble enstemmig vedtatt
+  - For: alle

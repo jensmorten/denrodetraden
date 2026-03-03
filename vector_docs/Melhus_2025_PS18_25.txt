@@ -15,4 +15,4 @@ Alternative forslag:
 
 Voteringer:
 - Votering over om saken skal utsettes til neste møte.
-  - Utsatt til neste møte: None stemmer
+  - Utsatt til neste møte: ukjent

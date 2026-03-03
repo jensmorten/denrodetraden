@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/098
+rodt_fremmet: False
+---
+
+Tittel: Vilkår for tildeling fra fond Vedlikehold lekeplasser og nærmiljøanlegg
+
+Vedtak:
+Ørland kommunestyre vedtar følgende endringer i “Kriterier for å søke på midler fra vedlikeholdsfond for eksisterende lekeplasser -gapahuker og andre nærmiljøanlegg”:
+1. Punkt “2 Søknadsberettigede” endres til: “Velforeninger, lag og organisasjoner, samt grunneiere”
+2. Nytt punkt 4 D: “Grunneiere med adkomstveger, parkeringsplasser, turveger og andre eksisterende nærmiljøanlegg som fremmer friluftsaktivitet i lokalsamfunnet”
+3. Punkt “5 Søknaden om vedlikehold” endres til: “Maks tilskudd til velforeninger, lag og organisasjoner pr anlegg er nkr 50.000,- . Maks tilskudd til grunneiere er pr anlegg nkr 10.000,-. Søknad skal inneholde en beskrivelse av vedlikeholdsbehovet og arbeidsomfang, hvem som skal utføre arbeidet og et kostnadsoverslag. Eventuelt behov for innleie av arbeidskraft (mann/maskin) skal fremkomme i søknaden og i kostnadsoverslaget”
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskap - 05.06.2025
+  - For: 29 stemmer
+  - Mot: 0 stemmer

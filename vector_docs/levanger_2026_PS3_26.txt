@@ -1,0 +1,70 @@
+METADATA:
+kommune: levanger
+year: 2026
+saksnummer: PS 3/26
+rodt_fremmet: True
+---
+
+Tittel: NTE sin eiermelding - innspill fra Levanger kommune i fase 1
+
+Vedtak:
+Saken tas til orientering.
+Kommunestyret i Levanger vil fremheve følgende punkter:
+a. Levanger kommune har forventninger om økt utbytte fra NTE.
+b. Levanger kommune ønsker at fagmiljø utenfor NTE gir vurderinger om følgende punkter:
+   i. interessekonflikten mellom økt utbytte, og selskapets investeringskapasitet i ny kraftproduksjon/ kjøp av eksisterende produksjon.
+   ii. en markedsvurdering av om slik vekst kan skje i egen region eller i andre landsdeler, og fordeler og ulemper med det.
+   iii. hva utbyttet kan brukes til, og hvordan det kan forvaltes i den enkelte eierkommune, for å holde eierskapet mest mulig samlet.
+c. Levanger kommune ønsker å være en eier av NTE med et langsiktig eierperspektiv.
+d. Levanger kommune ønsker at økt kraftproduksjon baseres på fornybare og/eller bærekraftige energikilder som vind, sol, vann og kjernekraft mm i takt med teknologisk utvikling.
+e. NTE skal være et heleid offentlig energiselskap.
+f. NTE er og skal fortsatt være en viktig samfunnsaktør og samfunnsutvikler i «Gamle Nord-Trøndelag».
+g. Krafta som skapes skal i størst mulig grad brukes til å fremme samfunns- og industriutvikling i gamle Nord-Trøndelag, ikke til «kryptofabrikker».
+h. NTE sitt fibernett er viktig for både samfunnsutviklingen og beredskapen og skal fortsatt eies av selskapet.
+i. NTE er eid av befolkningen i gamle Nord-Trøndelag, og drøftinger i eiermøter skal i størst mulig grad foregå i åpenhet.
+
+Alternative forslag:
+- Harald Asbjørn Lein (Senterpartiet): Alternativt forslag til innstillingens punkt b, c og d:
+b. Levanger kommune ønsker at fagmiljø utenfor NTE gir vurderinger om følgende punkter:
+i. interessekonflikten mellom økt utbytte, og selskapets investeringskapasitet i ny kraftproduksjon/ kjøp av eksisterende produksjon.
+ii. en markedsvurdering av om slik vekst kan skje i egen region eller i andre landsdeler, og fordeler og ulemper med det.
+iii. hva utbyttet kan brukes til, og hvordan det kan forvaltes i den enkelte eierkommune, for å holde eierskapet mest mulig samlet.
+- Harald Asbjørn Lein (Senterpartiet): Tilleggsforslag:
+c. Levanger kommune ønsker å være en eier av NTE med et langsiktig eierperspektiv.
+- Harald Asbjørn Lein (Senterpartiet): Tilleggsforslag:
+d. Levanger kommune ønsker at økt kraftproduksjon baseres på fornybare og/eller bærekraftige energikilder som vind, sol, vann og kjernekraft mm i takt med teknologisk utvikling.
+- Lars Einar Karlsen (Rødt): Tilleggsforslag:
+NTE skal være et heleid offentlig energiselskap.
+- Lars Einar Karlsen (Rødt): Tilleggsforslag:
+NTE er og skal fortsatt være en viktig samfunnsaktør og samfunnsutvikler i «Gamle Nord-Trøndelag».
+- Lars Einar Karlsen (Rødt): Tilleggsforslag:
+Krafta som skapes skal i størst mulig grad brukes til å fremme samfunns- og industriutvikling i gamle Nord-Trøndelag, ikke til «kryptofabrikker».
+- Lars Einar Karlsen (Rødt): Tilleggsforslag:
+NTE sitt fibernett er viktig for både samfunnsutviklingen og beredskapen og skal fortsatt eies av selskapet.
+- Lars Einar Karlsen (Rødt): Tilleggsforslag:
+NTE er eid av befolkningen i gamle Nord-Trøndelag, og drøftinger i eiermøter skal i størst mulig grad foregå i åpenhet.
+
+Voteringer:
+- Votering på innstillingens punkt b, c og d mot alternativt forslag fra Harald Asbjørn Lein (SP)
+  - Forslag 1 (innstillingens opprinnelige tekst): 5 stemmer
+  - Forslag 2 (alternativt forslag fra Harald Asbjørn Lein): 30 stemmer
+- Votering på tilleggsforslag c fra Harald Asbjørn Lein (SP): Levanger kommune ønsker å være en eier av NTE med et langsiktig eierperspektiv.
+  - For: 35 stemmer
+- Votering på tilleggsforslag d fra Harald Asbjørn Lein (SP): Økt kraftproduksjon baseres på fornybare og/eller bærekraftige energikilder.
+  - For: 31 stemmer
+  - Imot: 4 stemmer
+- Votering på tilleggsforslag fra Lars Einar Karlsen (Rødt): NTE skal være et heleid offentlig energiselskap.
+  - For: 30 stemmer
+  - Imot: 5 stemmer
+- Votering på tilleggsforslag fra Lars Einar Karlsen (Rødt): NTE er og skal fortsatt være en viktig samfunnsaktør og samfunnsutvikler i «Gamle Nord-Trøndelag».
+  - For: 34 stemmer
+  - Imot: 1 stemmer
+- Votering på tilleggsforslag fra Lars Einar Karlsen (Rødt): Krafta som skapes skal i størst mulig grad brukes til å fremme samfunns- og industriutvikling i gamle Nord-Trøndelag, ikke til «kryptofabrikker».
+  - For: 23 stemmer
+  - Imot: 12 stemmer
+- Votering på tilleggsforslag fra Lars Einar Karlsen (Rødt): NTE sitt fibernett er viktig for både samfunnsutviklingen og beredskapen og skal fortsatt eies av selskapet.
+  - For: 30 stemmer
+  - Imot: 5 stemmer
+- Votering på tilleggsforslag fra Lars Einar Karlsen (Rødt): NTE er eid av befolkningen i gamle Nord-Trøndelag, og drøftinger i eiermøter skal i størst mulig grad foregå i åpenhet.
+  - For: 30 stemmer
+  - Imot: 5 stemmer

@@ -1,0 +1,17 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 30/25
+rodt_fremmet: False
+---
+
+Tittel: Justering av investeringsbudsjett 2025 - rebevilgning og prisjustering
+
+Vedtak:
+Levanger kommunes investeringsbudsjett for 2025 justeres slik i henhold til vedlegg:
+1.Rebevilgning av investeringsmidler fra tidligere år 65,21 mill. kroner, finansieres med bruk av ubrukte lånemidler 58,0 mill. kroner og mva-kompensasjon på 7,21 mill. kroner.
+2.Prisjustering av prosjekter med 4,16 mill. kroner, finansieres med bruk av ubrukte lånemidler kr. 3,62 mill. kroner og mva-kompensasjon på 0,54 mill. kroner.
+
+Voteringer:
+- Avstemming over innstilling om justering av investeringsbudsjett 2025
+  - For: 35 stemmer

@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 10/25
+rodt_fremmet: False
+---
+
+Tittel: Hurtig Kartlegging Handling rapport - Er det grunn til bekymring for rusbruk blant ungdom i ungdomsskolealder i Orkland?
+
+Vedtak:
+Kommunestyret tar HKH rapporten til orientering og kommunedirektøren følger opp foreslåtte tiltak.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur (2023-2027) 11.02.2025: Kommunedirektørens innstilling
+  - For: Enstemmig
+- Votering i Kommunestyre 25.02.2025: Hovedutvalg HOKs innstilling
+  - For: 41 stemmer

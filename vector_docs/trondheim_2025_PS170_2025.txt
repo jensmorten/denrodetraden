@@ -19,6 +19,6 @@ Alternative forslag:
 
 Voteringer:
 - Votering over innstillingen.
-  - Innstillingen: enstemmig stemmer
+  - Innstillingen: enstemmig
 - Votering over tilleggsforslag fra Roald Arentz (R) om evaluering av Vigilo.
-  - Tilleggsforslag fra Arentz: enstemmig stemmer
+  - Tilleggsforslag fra Arentz: enstemmig

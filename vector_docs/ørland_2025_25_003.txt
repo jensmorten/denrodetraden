@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/003
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til spørretimen 20.02.25 - Uthaug Havn og Valsneset
+
+Vedtak:
+Svar på spørsmålet ble referert for kommunestyret av ordfører.

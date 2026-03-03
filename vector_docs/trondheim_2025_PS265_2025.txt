@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 265/2025
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak og nyvalg av medlem fra organisasjonene - rådet for personer med funksjonsnedsetteler
+
+Vedtak:
+Bystyret gir Ida Sortland fritak fra vervet som 2. medlem fra organisasjonene til rådet for personer med funksjonsnedsettelser. Bystyret oppnevner Thais Mothe-Diniz som 2. medlem fra organisasjonene til rådet for personer med funksjonsnedsettelser.
+
+Voteringer:
+- Votering om innstillingen
+  - For: enstemmig

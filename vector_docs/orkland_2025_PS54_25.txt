@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 54/25
+rodt_fremmet: False
+---
+
+Tittel: Låneopptak ombyggingsprosjekt Isfjord
+
+Vedtak:
+Kommunestyret vedtar en ramme på 3 650 000 kroner eksklusive merverdiavgift for samspillsfase for ombyggingsprosjekt termiske anlegg, samt delvis ombygging av varmtvannsanlegget ved Isfjord. Prosjektet finansieres med låneopptak. Følgende budsjettjusteringer vedtas: 02300.412113.3250.40127 kr. 3 650 000, 09100.412113.8700 kr. – 3 650 000. Kommunedirektøren gis fullmakt til å foreta nye låneopptak til kommunale investeringer innenfor en ramme på 3 650 000 kroner, herunder binde rente og velge lånegiver.
+
+Voteringer:
+- Votering i Formannskap 10.06.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 17.06.2025
+  - Formannskapets innstilling: enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/169
+rodt_fremmet: False
+---
+
+Tittel: Samlesak for referatsaker
+
+Vedtak:
+Sakene tas til orientering.
+
+Voteringer:
+- Sakene tas til orientering
+  - For: enstemmig

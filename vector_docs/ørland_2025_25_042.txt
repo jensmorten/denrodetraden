@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/042
+rodt_fremmet: False
+---
+
+Tittel: Uttreden og valg av nytt styremedlem - Roret Ørland kulturforetak KF
+
+Vedtak:
+Styremedlem og nestleder i Styret for Roret Ørland kulturforetak KF, Snorre Glørstad, innvilges fritak fra vervet. Valg av styremedlem og nestleder utsettes til neste kommunestyremøte.
+
+Voteringer:
+- Votering over forslag: Styremedlem og nestleder i Styret for Roret Ørland kulturforetak KF, Snorre Glørstad
+  - For: 29 stemmer
+  - Mot: 1 stemmer

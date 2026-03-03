@@ -1,0 +1,19 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 41/25
+rodt_fremmet: False
+---
+
+Tittel: Salg av kommunal eiendom
+
+Vedtak:
+Følgende eiendommer vedtas solgt:
+Adresse Gnr Bnr Areal Reguleringsformål
+Nesheimvegen 13 3 25 dekar Landbrukseiendom
+Bylundvegen, 279 45 2 dekar Næringsformål
+Heir
+
+Voteringer:
+- Votering over innstillingen om salg av kommunal eiendom
+  - For: 35 stemmer

@@ -12,5 +12,5 @@ Saken ble utsatt til neste møte, jf konstitueringa av møtet.
 
 Voteringer:
 - Votering om å utsette saken til neste møte.
-  - Utsette saken: None stemmer
-  - Ikke utsette saken: None stemmer
+  - Utsette saken: ukjent
+  - Ikke utsette saken: ukjent

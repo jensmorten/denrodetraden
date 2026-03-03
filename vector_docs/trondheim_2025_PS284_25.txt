@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 284/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak for eiendomsskatt 2025 - Bispegata 1
+
+Vedtak:
+Bystyret innvilger ikke fritak for eiendomsskatt for eiendommen gbnr. 400/82/0/2, Bispegata 1
+
+Voteringer:
+- Votering over innstilling om fritak for eiendomsskatt
+  - Innstilling: enstemmig

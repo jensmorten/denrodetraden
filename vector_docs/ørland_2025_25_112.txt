@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/112
+rodt_fremmet: False
+---
+
+Tittel: Endring av Forskrift for reguleringsplan, bygge- og delesaksbehandling, oppmåling og eierseksjonering, Ørland kommune
+
+Vedtak:
+
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

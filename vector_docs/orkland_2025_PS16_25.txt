@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 16/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om avdragsfrihet industribygg 2, Amundmoen
+
+Vedtak:
+Kommunestyret vedtar vedlagte revisjon av bilag 2. Kommunestyret vedtar dekning av redusert husleieinntekt fra 01.04.2025 med kroner 563 000 for 2025 med bruk av disposisjonsfond. Virkningen fra 2026 innarbeides i handlingsplan 2025-2029. Følgende budsjettjustering vedtas: 16500.412115.3250 kr. 563 000, 19400.412115.8800.256080002 - kr. 563 000
+
+Voteringer:
+- Votering i Formannskap 18.03.2025
+  - Kommunedirektørens innstilling: 10 stemmer
+- Votering i Kommunestyre 25.03.2025
+  - Formannskapets innstilling: enstemmig

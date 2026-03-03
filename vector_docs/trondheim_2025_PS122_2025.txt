@@ -12,5 +12,5 @@ Saken ble utsatt til neste møte pga oppbrukt møtetid.
 
 Voteringer:
 - Votering om å utsette saken til neste møte på grunn av oppbrukt møtetid.
-  - Utsette saken: Flertall stemmer
-  - Ikke utsette saken: Mindretall stemmer
+  - Utsette saken: Flertall
+  - Ikke utsette saken: Mindretall

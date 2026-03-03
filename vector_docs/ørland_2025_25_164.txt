@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/164
+rodt_fremmet: False
+---
+
+Tittel: Sak fra Kontrollutvalget til kommunestyret - års- og møteplan for kontrollutvalget for 2026
+
+Vedtak:
+Kommunestyret tar Kontrollutvalgets årsplan for 2026 til orientering.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 31 stemmer

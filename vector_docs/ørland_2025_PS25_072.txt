@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/072
+rodt_fremmet: False
+---
+
+Tittel: 25/072 Samlesak for referatsaker
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt ved manuell votering.
+  - For: alle

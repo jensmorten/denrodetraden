@@ -1,0 +1,24 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 72/25
+rodt_fremmet: False
+---
+
+Tittel: 72/25 Søknad om fritak fra politiske verv
+
+Vedtak:
+{'organ': 'Valgutvalg', 'dato': '13.10.2025', 'tekst': ['Mikael Orre Rye, Krf gis fritak fra sine politiske verv i Orkland kommune.', 'Varamedlemmene fra Krf rykker opp på varamannslisten til Orkland kommunestyre.', 'Som femte vara til hovedutvalg helse, oppvekst og kultur velges Øystein Fagerli.']}
+{'organ': 'Kommunestyre', 'dato': '14.10.2025', 'tekst': ['Mikael Orre Rye, Krf gis fritak fra sine politiske verv i Orkland kommune.', 'Varamedlemmene fra Krf rykker opp på varamannslisten til Orkland kommunestyre.', 'Det velges ikke nytt varamedlem i hovedutvalg helse, oppvekst og kultur.']}
+
+Alternative forslag:
+- Bente Bostad, Krf: Øystein Fagerli, Krf velges som femte vara i HOK
+- Magne Krogsgaard, Krf: KrF fremmer ikke noe nytt forslag på Vara til HOK når Mikael innvilges fritak. Dette for å harmonisere antall vara.
+
+Voteringer:
+- Votering i Valgutvalg 13.10.2025 om kommunedirektørens innstilling og forslag fra Bente Bostad, Krf
+  - Kommunedirektørens innstilling: 9 stemmer
+  - Forslag fra Bente Bostad, Krf: 9 stemmer
+- Votering i Kommunestyre 14.10.2025 om Valgutvalgets innstilling og forslag fra KRF angående vara i hovedutvalg helse, oppvekst og kultur
+  - Valgutvalgets innstilling: enstemmig
+  - Forslag fra KRF angående vara i hovedutvalg helse, oppvekst og kultur: enstemmig

@@ -1,0 +1,34 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/093
+rodt_fremmet: False
+---
+
+Tittel: Prosjektforslag fremtidens helsebygg
+
+Vedtak:
+{'id': 'KST - 25/093', 'tekst': ['Ørland kommunestyre vedtar å videreføre arbeidet med realisering av nytt helsebygg basert på løsningsforslag 2, som kombinerer nybygg og gjenbruk på eksisterende tomt ved Ørland Medisinske Senter (ØMS), med trinnvis utbygging.', 'Det settes av 290 millioner kroner til investering knyttet til løsningsforslag 2 trinn 1, dette innarbeides i økonomiplan. Planlagt byggestart i 2031.', 'Helhetlig planlegging av løsningsforslag 2, inkludert vurdering av løsningsforslag 2 trinn 2, gjennomføres i henhold til fremdriftsplan i vedlagt rapport.']}
+{'id': 'HEL - 25/013', 'tekst': ['Ørland kommunestyre vedtar å videreføre realiseringen av nytt Helsebygg for Ørland basert på Løsningsforslag 1, der man samler alle helse- og omsorgstjenestene i et nytt bygg.', 'Familiens Hus, skilles ut og etableres i dagens ØMS, sammen med avlastningsboliger for barn og unge.', 'Det settes av 590 millioner til investering, dette innarbeides i økonomiplanen for 2025 - 2036.', 'Byggingen av et nytt helsehus kan foregå trinnvis, men med oppstart 2031.']}
+{'id': 'AMU - 25/008', 'tekst': ['Ørland kommunestyre vedtar å videreføre arbeidet med realisering av nytt helsebygg basert på løsningsforslag 2, som kombinerer nybygg og gjenbruk på eksisterende tomt ved Ørland Medisinske Senter (ØMS), med trinnvis utbygging.', 'Det settes av 290 millioner kroner til investering knyttet til løsningsforslag 2 trinn 1, dette innarbeides i økonomiplan. Planlagt byggestart i 2031.', 'Helhetlig planlegging av løsningsforslag 2, inkludert vurdering av løsningsforslag 2 trinn 2, gjennomføres i henhold til fremdriftsplan i vedlagt rapport.', 'Arbeidsmiljøutvalget forventer at prosessbeskrivelser og tegninger tas tilbake til utvalget for behandling.']}
+{'id': 'ELD - 25/010', 'tekst': ['Eldrerådet tar kommunedirektørens forslag til orientering.', 'Men eldrerådet er for nybygg med samling av tjenestene, og vil bemerke at totalutgiftene over tid er ganske like i begge alternativene.', 'Med alternativ 1A blir pasientene en del av en by, og ikke bortgjemt.', 'Vi har noe erfaringer med å bygge nytt sammen med gammel infrastruktur, som er krevende for beboere og ansatte, og normalt kan gi overraskelser i form av økte kostnader.']}
+{'id': 'KRNF - 25/012', 'tekst': ['Kommunalt råd for mennesker med nedsatt funksjonsevne mener at det ikke er hensiktsmessig miljømessig, å plassere nytt helsebygg ved ØMS, på grunn av nærheten til kampflybasen.']}
+{'id': 'FSK - 25/052', 'tekst': ['Ørland kommunestyre vedtar å videreføre arbeidet med realisering av nytt helsebygg basert på løsningsforslag 2, som kombinerer nybygg og gjenbruk på eksisterende tomt ved Ørland Medisinske Senter (ØMS), med trinnvis utbygging.', 'Det settes av 290 millioner kroner til investering knyttet til løsningsforslag 2 trinn 1, dette innarbeides i økonomiplan. Planlagt byggestart i 2031.', 'Helhetlig planlegging av løsningsforslag 2, inkludert vurdering av løsningsforslag 2 trinn 2, gjennomføres i henhold til fremdriftsplan i vedlagt rapport.']}
+
+Alternative forslag:
+- Hilde Kristin Sandvik, Industri- og Næringspartiet: ['Ørland kommunestyre vedtar å videreføre realiseringen av nytt Helsebygg for Ørland basert på Løsningsforslag 1, der man samler alle helse- og omsorgstjenestene i et nytt bygg.', 'Familiens Hus, skilles ut og etableres i dagens ØMS, og sees i sammenheng med avlastningsboliger for barn og unge.', 'Det settes av 590 millioner til investering, dette innarbeides i økonomiplanen for 2025 - 2036.', 'Byggingen av et nytt helsehus kan foregå trinnvis, men med oppstart 2031.']
+- Fredrik Sandness, Arbeiderpartiet (på vegne av AP, SV, R og MDG): ['Ørland kommunestyre vedtar å ikke videreføre arbeidet med realisering av nytt helsebygg basert på løsningsforslagene som nå ligger til grunn.', 'Det settes av minimum 20 millioner kroner årlig til oppgradering/utbedring av dagens to helsebygg på Brekstad og i Bjugn, som skal gi mest mulig hensiktsmessig drift. Her må de ansattes syn vektlegges i form av løsninger som skal sikre god drift i årene som kommer.', 'Finansiering innarbeides i budsjettarbeid på 2026 og økonomiplan for 2026-2036.']
+
+Voteringer:
+- Votering over forslag: ENF - Nytt forslag - på vegne av AP, SV, R og MDG
+  - For: 11 stemmer
+  - Mot: 20 stemmer
+- Votering over forslag: ENF - Nytt forslag til vedtak i sak PS 25/093
+  - For: 15 stemmer
+  - Mot: 16 stemmer
+- Votering over forslag i Utvalg for helse og familie: INU - Nytt forslag (Hilde Kristin Sandvik, INP)
+  - For: 4 stemmer
+  - Mot: 2 stemmer
+- Votering over forslag i Utvalg for helse og familie: Opprinnelig forslag
+  - For: 0 stemmer
+  - Mot: 6 stemmer

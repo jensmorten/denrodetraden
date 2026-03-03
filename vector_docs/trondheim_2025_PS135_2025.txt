@@ -22,20 +22,20 @@ Alternative forslag:
 
 Voteringer:
 - Alternativ votering mellom innstillingas pkt 1 og Salomonsens forslag
-  - Innstillingas pkt 1: ['19H', '5MDG', '4FrP', '4V', '3PP', 'Sp', 'KrF'] stemmer
-  - Salomonsens forslag: ['17Ap', '9SV', '3R', 'U'] stemmer
+  - Innstillingas pkt 1: ['19H', '5MDG', '4FrP', '4V', '3PP', 'Sp', 'KrF']
+  - Salomonsens forslag: ['17Ap', '9SV', '3R', 'U']
 - Votering over innstillingas pkt 2
-  - Innstillingas pkt 2: enstemmig stemmer
+  - Innstillingas pkt 2: enstemmig
 - Votering over innstillingas pkt 3
-  - Innstillingas pkt 3: ['17Ap', 'U'] stemmer
-  - Mot (flertallet): ['19H', '9SV', '5MDG', '4FrP', '4V', '3R', '3PP', 'Sp', 'KrF'] stemmer
+  - Innstillingas pkt 3: ['17Ap', 'U']
+  - Mot (flertallet): ['19H', '9SV', '5MDG', '4FrP', '4V', '3R', '3PP', 'Sp', 'KrF']
 - Votering over innstillingas pkt 4
-  - Innstillingas pkt 4: ['17Ap', '9SV', '4FrP', '3R', 'PP', 'U'] stemmer
-  - Mot (mindretallet): ['19H', '5MDG', '4V', '2PP', 'Sp', 'KrF'] stemmer
+  - Innstillingas pkt 4: ['17Ap', '9SV', '4FrP', '3R', 'PP', 'U']
+  - Mot (mindretallet): ['19H', '5MDG', '4V', '2PP', 'Sp', 'KrF']
 - Votering over Lians tilleggsforslag
-  - Lians tilleggsforslag: ['17Ap', '9SV', '4FrP', '3R', '2PP', 'Sp', 'KrF', 'U'] stemmer
-  - Mot (mindretallet): ['19H', '5MDG', '4V', '1PP'] stemmer
+  - Lians tilleggsforslag: ['17Ap', '9SV', '4FrP', '3R', '2PP', 'Sp', 'KrF', 'U']
+  - Mot (mindretallet): ['19H', '5MDG', '4V', '1PP']
 - Votering over Andreassens tilleggsforslag (boa)
-  - Andreassens tilleggsforslag (boa): enstemmig stemmer
+  - Andreassens tilleggsforslag (boa): enstemmig
 - Votering over Andreassens tilleggsforslag (hvs)
-  - Andreassens tilleggsforslag (hvs): enstemmig stemmer
+  - Andreassens tilleggsforslag (hvs): enstemmig

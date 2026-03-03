@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/032
+rodt_fremmet: False
+---
+
+Tittel: Salg av Meieriveien 4
+
+Vedtak:
+Saken utsettes til kommunestyremøte i april. Kommunestyret ønsker følgende tilleggsinformasjon: Før kommunen kjøpte eiendommen ble det inngått en avtale om at tidligere eier skulle stå for opprensing av grunnen ved eventuell forurensning, forårsaket av tidligere eiers drift. Er denne avtalen juridisk bindende også for ny eier? Kommunestyret mener at tomtegrensene må være på plass før eiendommen legges ut på nytt. Kan en eventuell kjøper sanere byggene, for å utnytte tomten på en annen måte eller er dette begrenset av vern?
+
+Alternative forslag:
+- Therese Eidsaune (H), på vegne av FRP, V, SP og INP: Saken utsettes til kommunestyremøte i april. Kommunestyret ønsker følgende tilleggsinformasjon: Før kommunen kjøpte eiendommen ble det inngått en avtale om at tidligere eier skulle stå for opprensing av grunnen ved eventuell forurensning, forårsaket av tidligere eiers drift. Er denne avtalen juridisk bindende også for ny eier? Kommunestyret mener at tomtegrensene må være på plass før eiendommen legges ut på nytt. Kan en eventuell kjøper sanere byggene, for å utnytte tomten på en annen måte eller er dette begrenset av vern?
+
+Voteringer:
+- Votering over forslag fra Therese Eidsaune (H), på vegne av FRP, V, SP og INP om utsettelse av saken til kommunestyremøte i april med ønsket tilleggsinformasjon.
+  - For: 30 stemmer
+  - Mot: 0 stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/171
+rodt_fremmet: False
+---
+
+Tittel: Eierskapsmelding 2025 Ørland kommune - del 2
+
+Vedtak:
+Eierskapsmelding del 2 for 2025 for Ørland kommune vedtas som framlagt.
+
+Voteringer:
+- Votering over forslag - Kommunestyre 18.12.2025
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag - Formannskap 04.12.2025
+  - For: 6 stemmer
+  - Mot: 0 stemmer

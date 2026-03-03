@@ -1,0 +1,31 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 55/25
+rodt_fremmet: False
+---
+
+Tittel: 55/25 Kunnskapsgrunnlag - utfordringer og muligheter 2025
+
+Vedtak:
+1. Kommunestyret tar saken til orientering
+2. Kommunestyret ber kommunedirektøren ta hensyn til utfordringene som er beskrevet i kunnskapsgrunnlaget i framtidige handlings- og økonomiplaner.
+
+Alternative forslag:
+- Torstein Larsen på vegne av PP, INP, FRP, KRF og R: 1. Kommunestyret tar saken til orientering
+2. Kommunestyret ber kommunedirektøren ta hensyn til utfordringene som er beskrevet i kunnskapsgrunnlaget i framtidige handlings- og økonomiplaner.
+3. Dette skal gjøres på en slik måte at primærtilbudene innen helse, barnehage, skole, opprettholdes på et akseptabelt nivå i hele Orkland kommune. Videre bør kommunens eldre befolkning kunne føle en sikkerhet for at de opparbeidede velferdstjenestene vil bli gitt ut fra prinsippet om når behovet melder seg vil kommunen stille opp. Altså: «Yt etter evne, få etter behov»
+- Hans Peter Verme, R: Hvis forslaget fra opposisjonsgruppa (PP, INP, FRP, KRF og R) faller foreslår Rødt å stryke punkt 2 i kommunedirektørens innstilling. Forslag til vedtak: Kommunestyret tar saken til orientering.
+
+Voteringer:
+- Votering over forslag fra PP, INP, FRP, KRF og R
+  - For: 15 stemmer
+  - Mot: 8 stemmer
+- Votering over kommunedirektørens innstilling punkt 1
+  - For: 23 stemmer
+- Votering over kommunedirektørens innstilling punkt 2
+  - For: 23 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag fra Rødt
+  - For: 20 stemmer
+  - Mot: 3 stemmer

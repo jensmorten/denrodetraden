@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/003
+rodt_fremmet: False
+---
+
+Tittel: Evaluering av organisasjonsformen av Roret Ørland kulturforetak KF
+
+Vedtak:
+Saken tas til orientering.
+
+Alternative forslag:
+- Opprinnelig forslag: Saken tas til orientering.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

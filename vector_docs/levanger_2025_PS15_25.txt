@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 15/25
+rodt_fremmet: False
+---
+
+Tittel: Hyttefeltet Tomtvatnet Sør - Detaljregulering - sluttbehandling
+
+Vedtak:
+Detaljregulering for hyttefeltet Tomtvatnet Sør, versjon revidert etter høring, vedtas i henhold til plan- og bygningslovens § 12-12.
+
+Voteringer:
+- Avstemming over innstilling om detaljregulering for hyttefeltet Tomtvatnet Sør
+  - For: 34 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 12/25
+rodt_fremmet: False
+---
+
+Tittel: Rapport utvikling av heltidskultur i Levanger kommune
+
+Vedtak:
+Rapporten tas til orientering.
+
+Voteringer:
+- Votering over innstillingen om at rapporten tas til orientering
+  - For: 34 stemmer

@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 304/25
+rodt_fremmet: False
+---
+
+Tittel: PS 304/2025 Klima- og miljøstrategi for forvaltning, drift og vedlikehold av kommunens bygningsmasse
+
+Vedtak:
+Sak 304/25 oversendes Finans- og organisasjonsutvalget for behandling.
+
+Alternative forslag:
+- Thomas Sakshaug (MDG): Saken utsettes.
+
+Voteringer:
+- Votering over MDGs utsettelsesforslag
+  - For utsettelsesforslaget: enstemmig

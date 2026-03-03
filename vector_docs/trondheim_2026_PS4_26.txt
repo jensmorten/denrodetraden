@@ -1,0 +1,80 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 4/26
+rodt_fremmet: True
+---
+
+Tittel: Samferdselsplanen - sluttbehandling
+
+Vedtak:
+Aps fellesforslag med unntak av pkt 2f) ble vedtatt med 47 stemmer (20 H, 17 Ap, 4 FrP, 3 PP, Uavh. Ødegaard SP, KrF) mot 20 stemmer (9 SV, 4 V, 3 MDG, 3 R, Uavh. Winger).
+Aps fellesforslag pkt 2f) ble vedtatt med 45 stemmer (20 H, 17 Ap, 2 MDG (Lund Renolen, Fjørstad), 3 PP, Uavh. Ødegaard, SP, KrF) mot 22 stemmer (9 SV, 4 FrP, 4 V, MDG Dyrendahl, 3 R, Uavh. Winger).
+Nassers tillegsforslag ble vedtatt med 48 stemmer (20 H, 9 SV, 4 FrP, 4 V, 3 MDG, 3 R, 3 PP, 2 Uavh.) mot 19 stemmer (17 Ap, SP, KrF).
+Naper Salomonsens tilleggsforslag "Trafikkreduksjon Møllenberg" ble vedtatt med 44 stemmer (19 H, 1 Ap (Shafighi), 9 SV, 4 V, 3 MDG, 3 R, 2 PP (Nilsen, Sandsør), Uavh. Winger, SP, KrF) mot 23 stemmer (1 H (Efskin), 16 Ap, 4 FrP, 1 PP (Kokaas), Uavh. Ødegaard).
+Nordaunes forslag "Trikken i ny samferdselsplan" ble vedtatt med 46 stemmer (20 H, 9 SV, 4 V, 3 MDG, 3 R, 3 PP, 2 Uavh. SP, KrF) mot 17 stemmer (Ap, 4 FrP).
+
+Alternative forslag:
+- Line Fjørstad (MDG): Byrådets innstilling med endring i 4.1.2., 4.1.3. og 4.1.3.3. med mål om mer mobilitet, optimalisering av transportsystemet, mobilitetsløft for sentrum og tiltak for Midtbyen.
+- Kirsti Tømmervold (Ap): Planen sendes tilbake til byrådet med detaljerte føringer for ny samferdselsplan, inkludert krav til faglig forankring, konsekvensanalyser, trafikksikkerhet, tiltak for Midtbyen og samfunnssikkerhet.
+- Silje Naper Salomonsen (SV): Punkt 1, opprinnelige innstilling med litt ny ordlyd som vektlegger utvikling av transportsystemet for bedre mobilitet, folkehelse og klima.
+- Erling Moe (V): Byrådets innstilling med noen endringer, inkludert prøveprosjekt for adkomstsone i Midtbyen, vurdering av parkeringskjeller, og tiltak for stenging av gater som prøveprosjekt.
+- Even Næss Bergseng (SV): Økt framkommelighet og prioritering i kryss for kollektivtransport.
+- Jenny Nordaune (SV): Minimere gjennomgangstrafikken i Midtbyen for økt fremkommelighet for kollektivtrafikk og tryggere gang- og sykkelreiser.
+- Latifa Nasser (SV): Forbedre trafikksikkerheten i lyskrysset ved Nidarosdomen, blant annet ved å øke tida med grønt for gående.
+- Magni Fjørtoft Svarstad (R): Tiltak for Singsakerringen i dialog med fylkeskommunen for å styrke fremkommeligheten for gående og syklende, og hindre gjennomkjøring på Møllenberg uten å gå på bekostning av myke trafikanter.
+- Line Fjørstad (MDG): Stenge Møllenberg og Strindvegen/Jonsvannsvegen samt tilliggende smågater for gjennomkjøring i 2026, utrede sykkelløsning i Jonsvannsvegen, etablere gangfelt på Møllenberg og Singsaker, og anmode om fartsgrense 30 km/t i Singsakerringen.
+- Silje Naper Salomonsen (SV): Legge frem sak for reduksjon av trafikk gjennom Møllenberg og frigjøring av areal til mer byliv i samarbeid med lokale aktører.
+- Silje Naper Salomonsen (SV): Gå i dialog med fylkeskommunen om å stenge for gjennomkjøring for privatbiler i Innherredsveien langs Lademoparken.
+- Magni Fjørtoft Svarstad (R): Legge frem sak om etablering av miljøgate i adkomstgatene til Midtbyen.
+- Jenny Nordaune (SV): Inkludere utvidelse av trikken i ny samferdselsplan.
+
+Voteringer:
+- Votering om innstillingen
+  - For innstillingen: 0 stemmer
+  - Mot innstillingen: 67 stemmer
+- Votering om Fjørstadstads alternative innstilling
+  - Fjørstadstads forslag: 7 stemmer
+  - Mot Fjørstadstads forslag: 60 stemmer
+- Votering om Moes forslag
+  - Moes forslag: 11 stemmer
+  - Mot Moes forslag: 56 stemmer
+- Votering om Naper Salomonsens forslag "Punkt 1, opprinnelige innstilling med litt ny ordlyd"
+  - Naper Salomonsens forslag: 16 stemmer
+  - Mot Naper Salomonsens forslag: 51 stemmer
+- Votering om Aps fellesforslag med unntak av pkt 2f)
+  - Aps fellesforslag uten pkt 2f): 47 stemmer
+  - Mot Aps fellesforslag uten pkt 2f): 20 stemmer
+- Votering om Aps fellesforslag pkt 2f)
+  - Aps fellesforslag pkt 2f): 45 stemmer
+  - Mot Aps fellesforslag pkt 2f): 22 stemmer
+- Votering om Næss Bergsengs tilleggsforslag
+  - Næss Bergsengs tilleggsforslag: 22 stemmer
+  - Mot Næss Bergsengs tilleggsforslag: 45 stemmer
+- Votering om Nordaunes tilleggsforslag
+  - Nordaunes tilleggsforslag: 20 stemmer
+  - Mot Nordaunes tilleggsforslag: 47 stemmer
+- Votering om Nassers tilleggsforslag
+  - Nassers tilleggsforslag: 48 stemmer
+  - Mot Nassers tilleggsforslag: 19 stemmer
+- Votering om Fjørtoft Svarstads tilleggsforslag
+  - Fjørtoft Svarstads tilleggsforslag: 22 stemmer
+  - Mot Fjørtoft Svarstads tilleggsforslag: 45 stemmer
+- Votering om Fjørstads tilleggsforslag punkt 1
+  - Fjørstads tilleggsforslag punkt 1: 18 stemmer
+  - Mot Fjørstads tilleggsforslag punkt 1: 49 stemmer
+- Votering om Fjørstads tilleggsforslag "For gående og syklende på Møllenberg og Singsaker" punktene 2 til 4
+  - Fjørstads tilleggsforslag punktene 2-4: 20 stemmer
+  - Mot Fjørstads tilleggsforslag punktene 2-4: 45 stemmer
+- Votering om Naper Salomonsens tilleggsforslag "Trafikkreduksjon Møllenberg"
+  - Naper Salomonsens tilleggsforslag "Trafikkreduksjon Møllenberg": 44 stemmer
+  - Mot Naper Salomonsens tilleggsforslag "Trafikkreduksjon Møllenberg": 23 stemmer
+- Votering om Naper Salomonsens tilleggsforslag "Stenge Innherredsveien for gjennomkjøring"
+  - Naper Salomonsens tilleggsforslag "Stenge Innherredsveien for gjennomkjøring": 16 stemmer
+  - Mot Naper Salomonsens tilleggsforslag "Stenge Innherredsveien for gjennomkjøring": 51 stemmer
+- Votering om Fjørtoft Svarstads tilleggsforslag "Miljøgate"
+  - Fjørtoft Svarstads tilleggsforslag "Miljøgate": 16 stemmer
+  - Mot Fjørtoft Svarstads tilleggsforslag "Miljøgate": 51 stemmer
+- Votering om Nordaunes forslag "Trikken i ny samferdselsplan"
+  - Nordaunes forslag "Trikken i ny samferdselsplan": 46 stemmer
+  - Mot Nordaunes forslag "Trikken i ny samferdselsplan": 17 stemmer

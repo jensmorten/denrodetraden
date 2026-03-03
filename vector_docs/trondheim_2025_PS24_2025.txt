@@ -26,7 +26,7 @@ Voteringer:
   - For innstillingens punkt 1 og 2: 36 stemmer
   - Mot innstillingens punkt 1 og 2: 31 stemmer
 - Alternativ votering mellom innstillingens punkt 3 og alternativt forslag fra Tiller
-  - Tillers forslag: enstemmig stemmer
+  - Tillers forslag: enstemmig
 - Votering over Arentz tilleggsforslag 'Lønns og arbeidsvilkår'
   - Arentz tilleggsforslag: 30 stemmer
   - Motforslag: 37 stemmer

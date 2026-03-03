@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 313/25
+rodt_fremmet: False
+---
+
+Tittel: Fritakssøknad - Emilie K. Græsli (Ap)
+
+Vedtak:
+Bystyret innvilger Emilie K. Græsli (Ap) midlertidig fritak fra vervet som vara for kontrollutvalget inntil videre.
+
+Voteringer:
+- Votering om innstillingen om midlertidig fritak for Emilie K. Græsli (Ap)
+  - For: enstemmig

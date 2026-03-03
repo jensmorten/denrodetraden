@@ -1,0 +1,8 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/010
+rodt_fremmet: False
+---
+
+Tittel: Dokumenter fra styremøte i Midt-Norge 110-sentral IKS - 31.03.2025

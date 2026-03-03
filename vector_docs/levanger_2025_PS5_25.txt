@@ -1,0 +1,20 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 5/25
+rodt_fremmet: False
+---
+
+Tittel: Lovlighetskontroll - Detaljregulering Kjønstadmarka trinn 4
+
+Vedtak:
+1.Kommunestyrets vedtak i sak 65/24 i møte 04.12.2024 opprettholdes.
+2.Saken oversendes Statsforvalteren for lovlighetskontroll, jfr. kommunelovens § 27-1.
+
+Alternative forslag:
+- Siv Gjertrud Skjerve Bjøru (Sosialistisk venstreparti): Kommunestyrets vedtak i sak 65/2024 i møte 4/12 2024 opprettholdes ikke.
+
+Voteringer:
+- Avstemming mellom kommunedirektørens forslag til vedtak og forslag fra Siv Gjertrud Skjerve Bjøru (SV)
+  - Kommunedirektørens forslag: 28 stemmer
+  - Forslag fra Siv Gjertrud Skjerve Bjøru (SV): 6 stemmer

@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/015
+rodt_fremmet: False
+---
+
+Tittel: Endring av kjøpekontrakt Århaugveien, Bjugn
+
+Vedtak:
+Ordfører gis myndighet til å signere vedlagte kontrakt for salg av parsell av gnr/bnr 20/233 og 20/107 sør for Århaugveien, Bjugn.
+
+Voteringer:
+- Votering over forslag
+  - For: 30 stemmer
+  - Mot: 0 stemmer

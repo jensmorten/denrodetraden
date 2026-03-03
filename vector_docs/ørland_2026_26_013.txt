@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/013
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra verv i Kontrollutvalget
+
+Vedtak:
+Utsettelse av saken til neste kommunestyremøte 19. mars.
+
+Alternative forslag:
+- Eirik Lundemo, Høyre: Utsettelse av saken til neste kommunestyremøte 19. mars.
+
+Voteringer:
+- Votering over forslag om utsettelse av saken til neste kommunestyremøte 19. mars
+  - For: 30 stemmer
+  - Mot: 0 stemmer

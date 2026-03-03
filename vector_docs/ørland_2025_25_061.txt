@@ -1,0 +1,33 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/061
+rodt_fremmet: True
+---
+
+Tittel: Strategisk næringsplan 2025-2028
+
+Vedtak:
+Strategisk næringsplan Ørland kommune 2025-2028 vedtas.
+Handlingsplan 2025-2026 vedtas.
+Kommunestyret ber om at Handlingsdelen av Strategisk næringsplan vurderes på nytt av Utvalg for Industri- og Næring, for bedre konkretisering av tiltak og formål.
+Ørland kommunestyre vedtar å ta inn følgende nytt kulepunkt under opplevelser i handlingsplanen: Markedsføring av Ørlandskunstneren Hannah Ryggen.
+
+Alternative forslag:
+- Ole Edvard Antonsen, Rødt: Punktet “Fortsette arbeidet opp mot Klima- og miljødepartementet angående marint verneområde” strykes fra Handlingsdelen inntil det er vurdert opp mot Kommunedelplanen for naturmangfold.
+- Mona Sjøli, Høyre: Ørland kommunestyre vedtar å ta inn følgende kulepunkt: Markedsføring av Ørlandskunstneren Hannah Ryggen.
+- Gunnar Hofstad, Industri- og Næringspartiet: Kommunestyret ber om at Handlingsdelen av Strategisk næringsplan vurderes på nytt av Utvalg for Industri- og Næring, for bedre konkretisering av tiltak og formål.
+
+Voteringer:
+- Votering over forslag: Endring i handlingsdel (Ole Edvard Antonsen, Rødt)
+  - For: 14 stemmer
+  - Mot: 17 stemmer
+- Votering over forslag: Nytt kulepunkt under opplevelser i handlingsplanen (Mona Sjøli, Høyre)
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Nytt kulepunkt 3 (Gunnar Hofstad, Industri- og Næringspartiet)
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Opprinnelig forslag
+  - For: 30 stemmer
+  - Mot: 1 stemmer

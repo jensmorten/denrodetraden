@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 15/26
+rodt_fremmet: False
+---
+
+Tittel: Endring av retningslinjer for uteservering - innføring av “Trondheimsmeteren”
+
+Vedtak:
+Saken ble ikke behandlet i møtet 29.01. 2026.
+
+Alternative forslag:
+- Jenny Nordaune (SV): Bystyret ber byrådet gjennomføre jevnlige kontroller for å sikre at etableringen av uteserveringer ikke går på bekostning av universell utforming og tilgjengelighet. Bystyret ber byrådet evaluere ordningen etter 6 måneder med fokus på tilgjengelighet, og involvere rådet for personer med funksjonsnedsettelser i arbeidet.
+- Nils Heldal (SV) på vegne av SV, R: Bystyret ber byrådet innføre forbud mot bruk av el-sparkesykler på fortau.

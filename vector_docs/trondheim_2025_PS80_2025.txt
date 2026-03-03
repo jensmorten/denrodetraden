@@ -55,7 +55,7 @@ Voteringer:
   - Innstillingen: 37 stemmer
   - Arentz forslag: 30 stemmer
 - Verbalforslag 8: Fordelingen av midler til spesialpedagogikk. Enstemmig vedtak.
-  - Innstillingen: enstemmig stemmer
+  - Innstillingen: enstemmig
 - Verbalforslag 9: Kommunal botiltak som omsorgstiltak innen barnevern. Alternativ votering mellom Salomonsens forslag og innstillingen.
   - Innstillingen: 37 stemmer
   - Salomonsens forslag: 30 stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/078
+rodt_fremmet: False
+---
+
+Tittel: 25/078 Valg av nytt medlem til forliksrådet for resten av valgperioden
+
+Vedtak:
+Marit Sletten INP velges som fast representant, og Steinar Simonsen FRP som vara.
+
+Alternative forslag:
+- Gunnar Hofstad, Industri- og Næringspartiet: Forslag på Marit Sletten INP som fast representant, og Steinar Simonsen FRP som vara.
+
+Voteringer:
+- Votering over forslag på nye medlemmer til forliksrådet
+  - For: 29 stemmer
+  - Mot: 0 stemmer

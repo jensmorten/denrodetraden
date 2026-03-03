@@ -37,9 +37,9 @@ Voteringer:
   - For: 53 stemmer
   - Mot: 14 stemmer
 - Nordaunes forslag om "universell utforming"
-  - For: enstemmig stemmer
+  - For: enstemmig
 - Nordaunes forslag om "Studentkultur"
-  - For: enstemmig stemmer
+  - For: enstemmig
 - Sæviks forslag om "Kirkene som ressurs i Midtbyen"
   - For: 63 stemmer
   - Mot: 4 stemmer

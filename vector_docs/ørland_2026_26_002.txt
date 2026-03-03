@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/002
+rodt_fremmet: False
+---
+
+Tittel: 26/002 Spørsmål til ordføreren til møtet i kommunestyret 26. februar - støysone
+
+Vedtak:
+Svar på spørsmålet ble referert for kommunestyret av ordfører. Svaret er referert under punktet behandling i saken.

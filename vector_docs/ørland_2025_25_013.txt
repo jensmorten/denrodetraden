@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/013
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til ordfører - Redusert kulturskoletilbud
+
+Vedtak:
+Kommunestyret tok svaret på spørsmål til spørretimen til orientering.
+
+Voteringer:
+- Vedtak av svar på spørsmål til spørretimen om redusert kulturskoletilbud
+  - For: ukjent
+  - Mot: ukjent

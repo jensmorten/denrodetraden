@@ -1,0 +1,23 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 44/25
+rodt_fremmet: False
+---
+
+Tittel: Revidering investeringsbudsjett 2025 - Levanger kommune
+
+Vedtak:
+1.Investeringsprosjekter endres slik:
+640413 Bygg - Renovering 5 000 000,- Festiviteten
+640111 Bygg – Åsen barne- og ungdomsskole 10 000 000,-
+660426 Veg – Forsterking kommunale veger 1 000 000,-
+660405 Veg – Utskifting kummer og sluk 2 000 000,-
+660402 Veg – Asfaltering 4 000 000,-
+2.Finansiering endres slik:
+Redusert bruk 4 000 000,- av mva-kompensasjon
+Redusert bruk 16 000 000,- av lån
+
+Voteringer:
+- Votering over innstillingen til revidering av investeringsbudsjett 2025
+  - For: 35 stemmer

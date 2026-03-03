@@ -16,5 +16,5 @@ Alternative forslag:
 
 Voteringer:
 - Votering over utsettelse av saken.
-  - Utsettelse: flertall stemmer
-  - Ikke utsettelse: mindretall stemmer
+  - Utsettelse: flertall
+  - Ikke utsettelse: mindretall

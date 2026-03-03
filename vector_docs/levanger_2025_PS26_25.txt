@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 26/25
+rodt_fremmet: False
+---
+
+Tittel: PS 26/25 Årsregnskap for 2024 - Levanger kommuneskoger KF
+
+Vedtak:
+Levanger kommuneskoger KF’s årsregnskap og årsberetning for 2024 vedtas.
+
+Voteringer:
+- Votering over innstilling om vedtak av årsregnskap og årsberetning for 2024 for Levanger kommuneskoger KF
+  - For: 35 stemmer

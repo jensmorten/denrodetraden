@@ -23,7 +23,7 @@ Voteringer:
   - Aps forslag om å sende saken tilbake: 19 stemmer
   - Motforslag (ikke sende tilbake): 48 stemmer
 - Alternativ votering mellom innstillingen og FrPs forslag
-  - FrPs forslag: enstemmig stemmer
+  - FrPs forslag: enstemmig
   - Innstillingen: 0 stemmer
 - Andreassens alternative forslag 'Gjennomgang av aktuelle veger'
   - Andreassens forslag: 64 stemmer

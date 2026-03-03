@@ -12,5 +12,5 @@ Saken ble utsatt i bystyrets møte 27. mars 2025.
 
 Voteringer:
 - Votering over om saken skulle utsettes.
-  - Utsettelse: None stemmer
-  - Ikke utsettelse: None stemmer
+  - Utsettelse: ukjent
+  - Ikke utsettelse: ukjent

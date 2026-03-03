@@ -1,0 +1,24 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 47/25
+rodt_fremmet: False
+---
+
+Tittel: Skolebruksplan 2026
+
+Vedtak:
+Hovedutvalg teknikk og hovedutvalg helse, oppvekst og kultur vedtar skolebruksplanen. Tiltak prioriteres i forbindelse med kommunedirektørens notat til handlingsplan 2026 – 2029
+Kommunestyret vedtar skolebruksplanen. Tiltak prioriteres i forbindelse med kommunedirektørens notat til handlingsplan 2026 – 2029.
+
+Alternative forslag:
+- Turid Mjønesaune (PP): Når det gjelder Skolehagebruksplan vedtar utvalget disse med et forbehold at det kan komme politiske tillegg og frafall i det som er skissert i planen. I Strategikonferansen og til sist budsjettbehandlingen eventuelle kan slike endringer komme.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 06.05.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Hovedutvalg Teknikk 06.05.2025
+  - Turid Mjønesaunes tilleggsforslag: 3 stemmer
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 20.05.2025
+  - Hovedutvalg teknikk og hovedutvalg helse, oppvekst og kultur sin innstilling: enstemmig

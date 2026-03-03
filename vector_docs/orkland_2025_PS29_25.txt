@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 29/25
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport grunnskole 2024
+
+Vedtak:
+Kommunestyret vedtar tilstandsrapport for grunnskole 2024, og at det fortsatt skal utarbeides årlige tilstandsrapporter, til tross for at kravet til kommunen endres.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 08.04.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 29.04.2025
+  - Hovedutvalg helse, oppvekst og kultur sin innstilling: enstemmig

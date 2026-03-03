@@ -1,0 +1,27 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 46/25
+rodt_fremmet: False
+---
+
+Tittel: Barnehagebruksplanen 2026
+
+Vedtak:
+{'organ': 'Hovedutvalg helse, oppvekst og kultur', 'tekst': 'Hovedutvalg teknikk og Hovedutvalg helse, oppvekst og kultur vedtar barnehagebruksplanen. Tiltak prioriteres i forbindelse med kommunedirektørens notat til handlingsplan 2026 – 2029.'}
+{'organ': 'Hovedutvalg teknikk', 'tekst': 'Hovedutvalg teknikk og Hovedutvalg helse, oppvekst og kultur vedtar barnehagebruksplanen. Tiltak prioriteres i forbindelse med kommunedirektørens notat til handlingsplan 2026 – 2029.'}
+{'organ': 'Kommunestyre', 'tekst': 'Kommunestyret vedtar barnehagebruksplanen. Tiltak prioriteres i forbindelse med kommunedirektørens notat til handlingsplan 2026 – 2029.'}
+
+Alternative forslag:
+- Torstein Larsen, PP: Både når det gjelder Skolebruksplan og Barnehagebruksplan vedtar utvalget disse med et forbehold at det kan komme politiske tillegg og frafall i det som er skissert i planen. I Strategikonferansen og til sist i budsjettbehandlingen kan eventuelle slike endringer komme.
+- Turid Mjønesaune, PP: Når det gjelder Barnehagebruksplan vedtar utvalget disse med et forbehold at det kan komme politiske tillegg og frafall i det som er skissert i planen. I Strategikonferansen og til sist budsjettbehandlingen eventuelle kan slike endringer komme.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur på kommunedirektørens innstilling og tilleggsforslag fra Torstein Larsen, PP
+  - Kommunedirektørens innstilling: enstemmig
+  - Tilleggsforslag fra Torstein Larsen, PP: 4 stemmer
+- Votering i Hovedutvalg Teknikk på kommunedirektørens innstilling og tilleggsforslag fra Turid Mjønesaune, PP
+  - Kommunedirektørens innstilling: enstemmig
+  - Tilleggsforslag fra Turid Mjønesaune, PP: 3 stemmer
+- Votering i Kommunestyret på innstilling fra Hovedutvalg teknikk og Hovedutvalg helse, oppvekst og kultur
+  - Innstilling fra Hovedutvalg teknikk og Hovedutvalg helse, oppvekst og kultur: enstemmig

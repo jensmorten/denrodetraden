@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 36/25
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om avgiftsbelagt boligsoneparkering i Levanger kommune, Trøndelag - andre gangs behandling
+
+Vedtak:
+Forskrift om avgiftsbelagt boligsoneparkering, Levanger kommune, Trøndelag, vedtas. Ikrafttredelse fra 1. august 2025. Ny paragraf 6, hvorpå de øvrige paragrafene forskyves nedover: § 6.Vilkår for tildeling av parkeringstillatelse til næringsdrivende Næringsdrivende med forretningsadresse i boligsone kan tildeles parkeringstillatelse når det foreligger særlige forhold.
+
+Voteringer:
+- Avstemming over innstilling om vedtak av forskrift om avgiftsbelagt boligsoneparkering
+  - For: 35 stemmer

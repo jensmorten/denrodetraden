@@ -1,0 +1,21 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 275/25
+rodt_fremmet: False
+---
+
+Tittel: PS 275/2025 Betalingssatser for barnehage og skolefritidsordning fra 1. januar 2026
+
+Vedtak:
+Bystyret vedtar nye satser for foreldrebetaling i skolefritidsordningen fra og med 1. januar 2026.
+Satsene er som følger:
+Oppholdstid per uke Betaling per måned
+Inntil 12 timer 1., 2. og 3. klasse Gratis
+Fra og med 12 timer 1., 2. og 3. klasse 1 840 kroner
+Inntil 12 timer 4. klasse 2 460 kroner
+Fra og med 12 timer 4. klasse 3 680 kroner
+
+Voteringer:
+- Votering om innstillinga til betalingssatser for barnehage og skolefritidsordning
+  - For innstillinga: enstemmig

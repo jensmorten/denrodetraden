@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 91/25
+rodt_fremmet: False
+---
+
+Tittel: 91/25 Budsjettregulering investering desember 2025
+
+Vedtak:
+Kommunestyret vedtar følgende endringer av de enkelte prosjekt: (beløp inkl. mva.) Prosjekt Navn Beløp inkl mva 100 Investeringer vann - 45 000 000 200 Investeringer avløp - 75 000 000 30012 Skilt gateadresser (430) - 75 000 30022 Friluftsområder - toalettfasiliteter 1 465 000 30033 GS Vormstad - 830 000 30035 Smarte gatelys Orkland - 1 235 000 30040 Fortau Orkdalsveien 525 000 30044 Fortau Grensen -5 200 000 30049 Forebygging v/nedbør kommunal vei -360 000 30056 Snødeponi 75 000 30057 Oppgradering smarte gatelys 2G til 5G 333 000 30058 Utbedring bruer -1 000 000 30067 Feiemaskin vei 173 000 30068 Fortau Reksteret-Mølnveien 135 000 30070 Snarveier miljøpakken 570 000 30071 Gatelys miljøpakken 615 000 30072 GS Gammelosveien 245 000 40013 Ny Meldal brannstasjon -3 975 000 40026 Jensenbrygga og naust 150 000 40028 Isfjord 725 000 40039 Tilbygg Amundmoen ll 190 000 40054 Justering mva overtatt infrastruktur 4 853 000 40067 Garderobeanlegg Orklahallen -3 125 000 40080 Hardbruksboliger -5 400 000 40085 Nye Orkdal Helsetun -9 250 000 40088 Løkken kulturhus - scenerigg -330 000 40093 SD anlegg bygg -8 500 000 40094 Veistasjon - utfasing oljefyr mm -2 400 000 40096 Oppgradering uteområde Rådhuset 750 000 40100 Solhagen - ombygging 5 260 000 40103 Investeringer skolebruksplan -992 000 40106 Investeringer barnehagebruksplan -570 000 40114 Utbedring Løkken kulturhus -300 000 40118 Myrantunet - solskjerming -250 000 40119 Meldal kommunehus - kloakk/uteområde -450 000 40121 Litjgårdsveien - utbedring av base -50 000 40120 Orkdal helsetun - pergola -200 000 40122 Ombygging NAV Orkland -2 850 000 40123 Samlokalisering Meldal kommunehus -200 000 40127 Ombyggingsprosjekt Isfjord -1 160 000 50007 Egenkapitalinnskudd KLP 98 000 50018 Tankbil Krokstadøra -475 000 50029 Uteområde Orkanger barnehage -257 000 50058 Landmålingsutstyr -1 025 000 50049 Brannmur -135 000 50051 Datarom - fiberswitcher -400 000 50053 Bytte kommunal Wifi -5 000 000 50062 Locus-enheter brann -1 100 000 50063 AV anlegg kommunestyresal 105 000 50064 Uteområde Storås barnehage 93 000 50076 Restaurering Furumokjela 1 160 000 Sum endringer -159 574 000 Samlet finansiering av prosjektene endres som følger: Mva kompensasjon 8 039 600 Overføring fra drift 7 062 200 Lån 146 116 600 Bruk investeringsfond - 4 821 000 Avsetning til investeringsfond 9 974 000 Tilskuddsmidler 1 753 000 Salg av utstyr/biler/tomter/hus - 2 165 400 Spillemidler - 6 385 000 Sum finansiering 159 574 000 Følgende budsjettjustering av driftsbudsjettet foretas: Ramme Tekst Beløp Fellesinntekt Overføring til investering - 7 062 200 Fellesinntekt Bruk av disposisjonsfond 7 062 200 Kommunedirektøren gis fullmakt til å foreta detaljerte budsjettjusteringer.
+
+Voteringer:
+- Votering i Formannskap 09.12.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 16.12.2025
+  - Formannskapets innstilling: enstemmig

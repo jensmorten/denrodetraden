@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 230/2025
+rodt_fremmet: False
+---
+
+Tittel: Klargjøring av intensjon med rettsinstruksen
+
+Vedtak:
+Bystyret opprettholder rettsinstruksen slik den ble vedtatt av bystyret den 12.6.2024 i sak 125/24.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Bystyret ber byrådet komme tilbake til bystyret med en sak som tydeliggjør intensjonen bak begrensningene som ligger i rettsinstruksens formuleringer om beløpsgrenser i punkt 3.1.1 Fullmakter ved erstatningsoppgjør og rettstvister. Saken må inneholde forslag til oppdaterte og utfyllende bestemmelser. Dagens formuleringer er ikke presise nok for å beskrive når byrådet har fullmakt til å fatte beslutninger, og når dette ansvaret skal ligge til finans- og organisasjonsutvalget.
+
+Voteringer:
+- Votering mellom innstillingen og forslag fra Andreassen
+  - Innstillingen: 61 stemmer
+  - Forslag fra Andreassen: 6 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 287/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak for eiendomsskatt 2025 - Ranheimsfjæra 44
+
+Vedtak:
+Bystyret innvilger fritak for eiendomsskatt for eiendommen gbnr. 23/979, Ranheimsfjæra 44.
+
+Voteringer:
+- Votering om innstillinga
+  - For: enstemmig

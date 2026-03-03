@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 6/26
+rodt_fremmet: False
+---
+
+Tittel: Senter for psykisk helse, St.Olavs hospital - detaljregulering til sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Senter for psykisk helse som vist på kart i målestokk 1:1000, merket Henning Larsen arkitekter, senest datert 24.10.2025, med bestemmelser, senest datert 04.09.2025, og beskrevet i planbeskrivelsen, senest datert 10.03.2025. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: alle

@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2023
+saksnummer: PS 10/23
+rodt_fremmet: False
+---
+
+Tittel: PS 10/23 Møteplan 2023 - Endring
+
+Vedtak:
+Ekstra møte i formannskapet 24. november 2023 vedtas, jfr. vedlagte reviderte møteplan.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

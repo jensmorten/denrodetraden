@@ -1,0 +1,21 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 14/26
+rodt_fremmet: False
+---
+
+Tittel: Opphør av stiftelsen Nidaros Pilegrimsgård
+
+Vedtak:
+Bystyret støtter byrådet i å avvikle stiftelsen Nidaros Pilgrimsgård, og ber byrådet jobbe for videre med å styrke Trondheim som pilegrimsby
+Bystyret ber byrådet fremme en sak om ny modell for pilegrimssenteret, og spesielt hvordan kommunen vil forvalte Kjøpmannsgata 1 for å understøtte satsingen mot 2030.
+
+Alternative forslag:
+- Sigurd Jan Ingvaldsen (Ap): Bystyret ber byrådet fremme en sak om ny modell for pilegrimssenteret, og spesielt hvordan kommunen vil forvalte Kjøpmannsgata 1 for å understøtte satsingen mot 2030.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig
+- Votering over Ingvaldsens tilleggsforslag
+  - For: enstemmig

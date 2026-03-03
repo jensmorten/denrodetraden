@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/046
+rodt_fremmet: False
+---
+
+Tittel: Samarbeidsavtale - St. Olavs hospital HF og kommunene - helsefellesskapet i søndre Trøndelag
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Vedtak om utsettelse av saken
+  - Utsettelse: enstemmig

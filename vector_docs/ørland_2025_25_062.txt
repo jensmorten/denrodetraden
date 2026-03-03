@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/062
+rodt_fremmet: False
+---
+
+Tittel: 25/062 Salg av Meieriveien 4
+
+Vedtak:
+Salgsprosessen av Meieriveien 4 evalueres før eiendommen legges ut for salg på nytt i april 2025.
+Kommunedirektøren gis fullmakt til å gjenoppta salgsprosessen av Meieriveien 4 etter evalueringen, og med føringer fra kommunestyrets vedtak i sak 25/015.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

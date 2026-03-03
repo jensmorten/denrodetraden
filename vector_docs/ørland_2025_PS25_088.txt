@@ -1,0 +1,18 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/088
+rodt_fremmet: False
+---
+
+Tittel: Årsberetning og årsregnskap Ørland kommune
+
+Vedtak:
+Årsberetning og årsregnskap 2024 for Ørland kommune vedtas som framlagt.
+Finansrapport for Ørland kommune for 2024 vedtas som framlagt.
+Underdekning på investeringsregnskapet på kr 7.128.000 dekkes med bruk av ubrukte lånemidler og budsjettet endres tilsvarende.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskap - 05.06.2025
+  - For: 31 stemmer
+  - Mot: 0 stemmer

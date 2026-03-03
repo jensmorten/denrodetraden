@@ -1,0 +1,18 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 111/25
+rodt_fremmet: False
+---
+
+Tittel: PS 111/25 Handlingsplan for energi og klima 2026-2029
+
+Vedtak:
+Saken utsettes med ønske om politisk involvering i planarbeidet.
+
+Alternative forslag:
+- Ordfører: Saken utsettes med ønske om politisk involvering i planarbeidet.
+
+Voteringer:
+- Votering over ordførers forslag om utsettelse av saken
+  - For: enstemmig

@@ -1,0 +1,25 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 307/25
+rodt_fremmet: False
+---
+
+Tittel: PS 307/2025 Flyktningemidler 2025 - Budsjettkorrigering
+
+Vedtak:
+Bystyret mener det er avgjørende at de flyktningmidlene som overføres til disposisjonsfondet i all hovedsak fordeles til kommunale enheter og ideell sektor der integreringsarbeidet pågår. Midlene bør ikke gå til andre områder da de trengs for å styrke integreringsarbeidet.
+Bystyret ber byrådet legge frem en sak, helst i forbindelse med 1. økonomirapport, der det kommer frem hvordan flyktningmidler som overføres til disposisjonsfondet i denne saken kan benyttes til å styrke integreringsarbeidet i kommunen.
+
+Alternative forslag:
+- KrF, SP, MDG, H, V, PP: Bystyret mener det er avgjørende at de flyktningmidlene som overføres til disposisjonsfondet i all hovedsak fordeles til ideell sektor og kommunale enheter der integreringsarbeidet pågår. Midlene bør ikke gå til andre områder da de trengs for å styrke integreringsarbeidet.
+- SV: Bystyret ber byrådet legge frem en sak, helst i forbindelse med 1. økonomirapport, der det kommer frem hvordan flyktningemidler som overføres til disposisjonsfondet i denne saken kan benyttes til å styrke integreringsarbeidet i kommunen.
+
+Voteringer:
+- Votering over innstillingen
+  - For: Enstemmig
+- Votering over KrFs tilleggsforslag
+  - For: Enstemmig
+- Votering over SVs tilleggsforslag
+  - For: 63 stemmer
+  - Mot: 4 stemmer

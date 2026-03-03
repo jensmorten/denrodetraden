@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: FO 49/25
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Drosjer må få tilgang til alle kollektivfelt/kollektivtraseer - Elin Marie Andreassen (FrP)
+
+Vedtak:
+Medlemsforslaget oversendes utvalg for Miljø- næring og samferdsel.
+
+Voteringer:
+- Forslag om oversending
+  - For: enstemmig

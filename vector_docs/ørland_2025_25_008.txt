@@ -1,0 +1,8 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/008
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til Ordfører - manglende ungdomsklubb tilbud til barn i femte til sjuende klasse

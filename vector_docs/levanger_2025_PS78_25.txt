@@ -1,0 +1,13 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 78/25
+rodt_fremmet: False
+---
+
+Tittel: Budsjett 2026 - Handlings- og økonomiplan 2026 - 2029, Levanger kommune
+
+Voteringer:
+- Votering over formannskapets innstilling til budsjett 2026 og handlings- og økonomiplan 2026-2029
+  - For: ukjent
+  - Imot: ukjent

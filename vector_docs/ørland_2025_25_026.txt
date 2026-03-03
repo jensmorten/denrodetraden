@@ -1,0 +1,30 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/026
+rodt_fremmet: True
+---
+
+Tittel: Prosjektforslag fremtidens helsebygg
+
+Vedtak:
+
+
+Alternative forslag:
+- Eirik Lundemo, Høyre (på vegne av flertallet SP, H, INP, FRP & V): Kommunestyret vedtar å starte arbeidet med realisering av ett helsehus hvor alle helsetjenester samles i én enhet. Dagens legekontor i Bjugn beholdes, Brekstad legekontor inn i nytt bygg. To løsningsforslag skal utredes: 1) Sammenslåing av scenario 2 fra WSPs utredning med tomtevalg på Brekstad og leietakere vurdert. 2) Gjenbruk av dagens bygg kombinert med nybygg med trinnvis utbygging. Bevilgning på 1 000 000 kroner til forprosjekt. Administrasjonen skal finne entreprisemodell. Høye miljøambisjoner skal integreres. Vurdering av gjenbruk/avhending av bygg og tomter skal starte. Forslag til vedtak innen mai 2025.
+- Hilde Kristin Sandvik, Industri- og Næringspartiet (INP): Kommunestyret vedtar å starte arbeidet med realisering av ett helsehus basert på sammenslåing av scenario 2 fra WSPs utredning. Prosjektet skal gjennomføres med egnet modell som sikrer helhetlige løsninger og bærekraftig økonomi. Bevilgning på 1 000 000 kroner til forprosjekt inkludert gjennomføringsstrategi. Administrasjonen skal legge frem sak innen mars 2025 om prosjektgjennomføring og finansiering, og sak innen april 2025 om tomtevalg på Brekstad. Høye miljøambisjoner skal reflekteres i konkurransegrunnlaget. Vurdering av gjenbruk/avhending av bygg og tomter skal starte.
+- Fredrik Sandness, Arbeiderpartiet (AP), Ørland MDG, Ørland SV og Ørland Rødt: Dagens struktur/organisering i helsetjenestene videreføres, prosjektet med nytt helsehus videreføres ikke. Legekontoret i Bjugn videreføres med samme omfang og kvalitet. Kommunedirektøren skal komme med sak før sommeren om vedlikehold/rehabilitering av helsehus på Brekstad og Bjugn med finansieringsforslag. Administrasjonen skal finne løsning for minimum 20 langtidsplasser med prioritet på gjenbruk av arealer. Forprosjekt ferdig til februar 2026, ønskelig med samspillkontrakt. Årlig 10 mill. kroner avsettes til vedlikehold i budsjett 2026-2030. Kommunedirektøren skal re-starte prosessen med nytt helsehus med fokus på økonomisk bærekraft og innovative løsninger, ønskelig med samspillkontrakt.
+
+Voteringer:
+- Votering over forslag til vedtak prosjekt nytt helsehus (flertallet SP, H, INP, FRP & V) mot nytt forslag fra AP, MDG, SV og Rødt
+  - Forslag til vedtak prosjekt nytt helsehus (flertallet SP, H, INP, FRP & V): 19 stemmer
+  - Nytt forslag fra Ørland Arbeiderparti, Ørland MDG, Ørland SV og Ørland Rødt: 12 stemmer
+- Votering over forslag fremmet av Hilde Kristin Sandvik INP
+  - For: 8 stemmer
+  - Mot: 23 stemmer
+- Votering over opprinnelig forslag
+  - For: 0 stemmer
+  - Mot: 31 stemmer
+- Votering over utsettelsesforslag på vegne av FRP, SP, INP, V og H
+  - For: 31 stemmer
+  - Mot: 0 stemmer

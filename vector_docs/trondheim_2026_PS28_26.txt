@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 28/26
+rodt_fremmet: False
+---
+
+Tittel: Lovlighetskontroll av Trondheim bystyres vedtak i Sak: 280/25 | - Nye avgiftssatser for gateparkering, leie av offentlig grunn mv. for 2026
+
+Vedtak:
+Bystyret endrer sitt vedtak 11.12.25 i Sak: 280/25 slik at: “HC” tas ut av vedtaksteksten i vedtakets punkt 2 siste setning. Ny vedtakstekst blir: “På særskilte plasser, MC etc. 739 kroner per døgn”.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

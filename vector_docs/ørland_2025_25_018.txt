@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/018
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon - endring av ordlyd i vedtak i sak 25/3756 - 2. Høring barnehage- og skolestruktur i Ørland
+
+Vedtak:
+
+
+Alternative forslag:
+- Oda Kristine Leth-Jøssing (MDG): Kommunestyret vedtar å endre ordlyden i vedtaket i sak 25/3756 - 2 til: «I tråd med kommunestyrevedtaket den 21.08.25 sendes forslag til endringer i barnehageog skolestrukturen for Ørland kommune på offentlig høring.»
+
+Voteringer:
+- Votering over forslag
+  - For: 30 stemmer
+  - Mot: 1 stemmer

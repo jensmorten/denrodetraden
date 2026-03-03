@@ -16,4 +16,4 @@ Alternative forslag:
 Voteringer:
 - Alternativ votering mellom innstillingen og Ramos forslag.
   - Innstillingen: 0 stemmer
-  - Ramos forslag: enstemmig stemmer
+  - Ramos forslag: enstemmig

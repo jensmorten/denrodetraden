@@ -1,0 +1,14 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 16/26
+rodt_fremmet: False
+---
+
+Tittel: Klima- og miljøstrategi for forvaltning, drift og vedlikehold av kommunens bygningsmasse
+
+Vedtak:
+Saken ble ikke behandlet i møtet 29.01. 2026.
+
+Alternative forslag:
+- Arild Belsås Svendsli (FrP): Bystyret ber byrådet evaluere ordningen utslippsfrie byggeplasser, konkret ønskes en vurdering på endringer i kostnader, antall bud på anbudskonkurranser og antall tonn CO2 kuttet, samt prisen for utslippskuttene.

@@ -1,0 +1,8 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 3/25
+rodt_fremmet: False
+---
+
+Tittel: None

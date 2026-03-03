@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 94/25
+rodt_fremmet: False
+---
+
+Tittel: 94/25 Harmonisering av priser korttidsutleie kommunale lokaler
+
+Vedtak:
+Kommunestyret vedtar harmoniserte priser for korttidsutleie av kommunale lokaler som beskrevet i vedlegg. Harmoniserte priser får virkning ved innføring av digitalt bookingsystem, i løpet av første kvartal 2026. Prisene justeres i henhold til konsumprisindeksen når justeringen når en hensiktsmessig økning. Kommunestyret gir også kommunedirektøren fullmakt til å utarbeide utleiebetingelser basert på prinsippene beskrevet i dette saksfremlegget.
+
+Voteringer:
+- Votering Kommunedirektørens innstilling – med redaksjonelle korrigeringer – i Hovedutvalg Teknikk 02.12.2025
+  - Kommunedirektørens innstilling med redaksjonelle korrigeringer: enstemmig
+- Votering Hovedutvalg teknikk sin innstilling i Kommunestyre 16.12.2025
+  - Hovedutvalg teknikk sin innstilling: enstemmig

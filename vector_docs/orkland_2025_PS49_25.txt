@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 49/25
+rodt_fremmet: False
+---
+
+Tittel: Revidert samarbeidsavtale for Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge
+
+Vedtak:
+Kommunestyret vedtar revidert samarbeidsavtale om Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - For: enstemmig

@@ -1,0 +1,32 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 295/25
+rodt_fremmet: False
+---
+
+Tittel: PS 295/2025 Reglement for forretningsutvalget
+
+Vedtak:
+Bystyret vedtar forslaget til nytt reglement for forretningsutvalget med de fremlagte endringer og tillegg som fremkom i behandlingen. Reglementet trer i kraft fra vedtaksdato 01.02.2026.
+
+Alternative forslag:
+- Gjermund Gorset (Ap): Reglementet trer i kraft fra vedtaksdato 01.02.2026.
+- Gjermund Gorset (Ap) på vegne av Ap, SV: D: 3:3 Byrådets møteplikt: Legges til under 3.3: "Byråder skal være til stede i møter ved behandling av saker de har ansvar for, jf. kommuneloven § 10-3. Forretningsutvalget kan innkalle ansvarlig(e) byråd(er) til møtene sine for å redegjøre for saker dersom ordfører eller en tredjedel av medlemmene krever det."
+- Silje Naper Salomonsen (SV) på vegne av SV, Ap, R, Uavh. Ødegaard: Nytt punkt 1. Grunnlag og sammensetning: Forretningsutvalget er opprettet etter kommuneloven § 5-7. I bystyrets konstituerende møte velges et forretningsutvalg for valgperioden blant bystyrets medlemmer, som består av ordfører, varaordfører, partigruppenes gruppeledere og eventuelt flere medlemmer fra bystyret. Vara velges blant bystyrets øvrige medlemmer. Forretningsutvalget ledes av ordføreren, med varaordføreren som nestleder.
+- Gjermund Gorset (Ap) på vegne av Ap, SV: Nytt punkt 2.6: Utvalgsmedlemmer kan ta opp aktuelle saker og spørsmål til behandling. Byrådet kan også på selvstendig initiativ orientere utvalget om aktuelle og pågående saker av betydning for Trondheim kommune. Utvalgsmedlemmer kan stille spørsmål til byrådet i utvalgene. Spørsmål som ønskes besvart skriftlig av byrådet skal legges inn i møteløsningen. Skriftlige spørsmål som sendes byrådet senest sju dager før utvalgsmøtet skal som hovedregel besvares i møtet. For spørsmål stilt til behandling av budsjett og revidert budsjett gjelder det egne frister. Spørsmål stilt i utvalgsmøtet skal besvares i neste utvalgsmøte. For spørsmål som ikke er besvart innen fristen skal byrådet i notat, eller muntlig i utvalgsmøtet, informere utvalget om forventet svartid. Utvalget har rett til å ta selvstendig initiativ overfor byrådet for å be om ytterligere opplysninger i en sak som er til behandling eller er tatt opp i utvalget.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: 67 stemmer
+- Aps forslag "D: 3:3 Byrådets møteplikt"
+  - For: 39 stemmer
+  - Mot: 28 stemmer
+- SVs tilleggsforslag "Nytt punkt 1. Grunnlag og sammensetning"
+  - For: 40 stemmer
+  - Mot: 27 stemmer
+- Aps tilleggsforslag "Nytt punkt 2.6"
+  - For: 38 stemmer
+  - Mot: 29 stemmer
+- Aps forslag "Ikrafttredelse"
+  - For: 67 stemmer

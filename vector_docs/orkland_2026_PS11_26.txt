@@ -1,0 +1,25 @@
+METADATA:
+kommune: orkland
+year: 2026
+saksnummer: PS 11/26
+rodt_fremmet: False
+---
+
+Tittel: Søknad om kommunal garanti på låneopptak - NMK Orkla
+
+Vedtak:
+Kommunestyret vedtar at:
+• Orkland kommune innvilger simpel garanti for lån på inntil 1 000 000 kr i Orkla Sparebank. NMK Orkla tar opp lånet for å finansiere klubbhus på Wallenberg Arena på Løkken Verk.
+• Garantien gjelder lånets hovedstol, maksimalt 1 000 000 kr med tillegg av 10 % av enhver tid gjeldende hovedstol til dekning av eventuelle påløpte renter og omkostninger.
+• Kommunens maksimale garantiansvar kan ikke overstige 1 100 000 kr.
+• Garantien gjelder et nedbetalingslån med en løpetid på inntil 15 år.
+• Orkla Sparebank kan innvilge avdragsfrihet på lånet inntil spillemidler, mva kompensasjon og kommunalt tilskudd er innvilget og utbetalt til NMK Orkla
+• Spillemidler, momskompensasjon og kommunalt tilskudd som utbetales til NMK Orkla skal brukes i sin helhet til å nedbetale lånet
+• Garantien gjelder fra vedtak og reduseres i takt med nedbetalingen av lånet. Garantiansvaret utløper i helhet 1.03.2041.
+• Garantien krever ikke godkjenning fra statsforvalteren.
+
+Voteringer:
+- Votering i Formannskap 10.02.2026
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 24.02.2026
+  - Formannskapets innstilling: enstemmig

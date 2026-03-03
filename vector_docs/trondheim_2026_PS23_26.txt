@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 23/26
+rodt_fremmet: False
+---
+
+Tittel: Fritakssøknad og nyvalg for SV
+
+Vedtak:
+Bystyret innvilger Mona Berger (SV) fritak fra sitt verv som medlem i Fylkesmøtet KS. Bystyret velger Jenny Nordaune (SV) som nytt medlem i Fylkesmøtet KS.
+
+Voteringer:
+- Votering om innstillingen
+  - For innstillingen: enstemmig

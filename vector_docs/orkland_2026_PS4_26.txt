@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2026
+saksnummer: PS 4/26
+rodt_fremmet: False
+---
+
+Tittel: Orkland kommunes svar på KS Debatthefte 2026
+
+Vedtak:
+Kommunestyret vedtar innspill til KS debatthefte.
+
+Voteringer:
+- Votering i Formannskap 20.01.2026
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 27.01.2026
+  - Formannskapets innstilling: enstemmig

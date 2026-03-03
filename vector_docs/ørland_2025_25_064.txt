@@ -1,0 +1,23 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/064
+rodt_fremmet: False
+---
+
+Tittel: Sammenligning av ny og gammel forskrift om vann- og avløpsgebyr
+
+Vedtak:
+Kommunestyret tar saken til etterretning.
+Ber om at administrasjon jobber videre med vannavgifta og kommer tilbake med et forslag på oppdeling/trinnvis på budsjett møte på høsten 2025.
+
+Alternative forslag:
+- Jan-Inge Standahl, Senterpartiet: Ber om at administrasjon jobber videre med vannavgifta og kommer tilbake med et forslag på oppdeling/trinnvis på budsjett møte på høsten 2025
+
+Voteringer:
+- Votering over forslag - Opprinnelig forslag
+  - For: 30 stemmer
+  - Mot: 1 stemmer
+- Votering over forslag - TIL - Vannavgift
+  - For: 31 stemmer
+  - Mot: 0 stemmer

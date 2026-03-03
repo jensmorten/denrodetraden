@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 70/25
+rodt_fremmet: False
+---
+
+Tittel: Status Internkontroll 2024: Kommunedirektørens rapport til kommunestyret
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

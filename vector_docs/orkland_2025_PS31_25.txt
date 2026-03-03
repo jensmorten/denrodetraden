@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 31/25
+rodt_fremmet: False
+---
+
+Tittel: Digitalisering fakturaflyt
+
+Vedtak:
+Kommunestyret gir kommunedirektøren fullmakt til å fravike deler av økonomireglementets krav om attestering og anvisning, som beskrevet i kapittel 6 i vedtatt økonomireglement, under forutsetning av at kriteriene knyttet til forsvarlig økonomistyring og solid styring oppfylles. Fullmakten gjelder ut 2025.
+
+Voteringer:
+- Votering i Formannskap 22.04.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 29.04.2025
+  - Formannskapets innstilling: enstemmig

@@ -27,4 +27,4 @@ Alternative forslag:
 Voteringer:
 - Alternativ votering mellom innstillingen og forslag fra Gorset med flere.
   - Innstillingen: 0 stemmer
-  - Forslag fra Gorset med flere: enstemmig stemmer
+  - Forslag fra Gorset med flere: enstemmig

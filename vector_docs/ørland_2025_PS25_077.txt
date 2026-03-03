@@ -1,0 +1,22 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/077
+rodt_fremmet: True
+---
+
+Tittel: 25/077 Revidering av politisk saksbehandlingsreglement
+
+Vedtak:
+Kommunestyret vedtar fremlagt reviderte Politisk saksbehandlingsreglement for Ørland kommune med virkning fra dags dato.
+
+Alternative forslag:
+- Ole Edvard Antonsen, Rødt: Fjerning av begrensning av taletid. Følgende tekst strykes: Følgende taletider gjelder som hovedprinsipp i Ørland: • Hovedinnlegg 5 min • Støtteinnlegg 3 min • Replikk 1 min • Svarreplikk 1 min
+
+Voteringer:
+- Votering over forslag: ENF - Fjerning av begrensning av taletid
+  - For: 12 stemmer
+  - Mot: 18 stemmer
+- Votering over forslag: Opprinnelig forslag
+  - For: 28 stemmer
+  - Mot: 2 stemmer

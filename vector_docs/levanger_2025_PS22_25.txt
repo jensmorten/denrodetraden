@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 22/25
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering Høgberga hytteområde - sluttbehandling
+
+Vedtak:
+Innstillingen ble vedtatt.
+
+Voteringer:
+- Votering over innstilling om detaljregulering for Høgberga hytteområde
+  - For: 34 stemmer

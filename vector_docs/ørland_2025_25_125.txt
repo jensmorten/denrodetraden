@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/125
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og saksliste med merknader enstemmig vedtatt.
+
+Voteringer:
+- Godkjenning av innkalling og saksliste med merknader
+  - For: enstemmig

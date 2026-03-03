@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 21/26
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Forbedring av BPA-tilbudet - Maria Alseth (FrP)
+
+Vedtak:
+Saken ble ikke behandlet i møtet 29.01. 2026.

@@ -1,0 +1,32 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/179
+rodt_fremmet: False
+---
+
+Tittel: Prisbok 2026
+
+Vedtak:
+Prisbok 2026 for Ørland kommune vedtas som framlagt.
+
+Alternative forslag:
+- Utvalg for Industri og Næring: Utvalg for industri og næring tar prisbok 2026 til orientering.
+- Kommunalt råd for mennesker med nedsatt funksjonsevne: Rådet tar prisboka 2026 til orientering, men påpeker at Ørland har særs høye priser på egenandel for praktisk bistand i forhold til andre sammenlignbare kommuner. Rådet oppfordrer til justering av egenandelene.
+- Ungdomsrådet: Ungdomsrådet tar Prisbok 2026 for Ørland kommune til orientering.
+- Eldrerådet: Eldrerådet tar saken til orientering.
+- Planutvalget: Planutvalget tar prisbok 2026 til orientering.
+
+Voteringer:
+- Votering over forslag i Kommunestyre 18.12.2025
+  - For: 29 stemmer
+  - Mot: 1 stemmer
+- Votering over forslag i Utvalg for helse og familie 19.11.2025
+  - For: 5 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag i Planutvalg 18.11.2025
+  - Opprinnelig forslag: 2 stemmer
+  - Nytt forslag: 7 stemmer
+- Votering over forslag i Formannskap 13.11.2025
+  - For: 7 stemmer
+  - Mot: 0 stemmer

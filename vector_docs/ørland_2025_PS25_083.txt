@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/083
+rodt_fremmet: False
+---
+
+Tittel: Spørretimen/Interpellasjoner
+
+Vedtak:
+Spørsmål til spørretimen ble svart ut av ordfører i møte. Svarene er protokollert i sakene FI 25/011 og 25/012.

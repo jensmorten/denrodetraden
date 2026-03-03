@@ -16,4 +16,4 @@ Vedtak:
 
 Voteringer:
 - Votering over innstillingen.
-  - Innstillingen: enstemmig stemmer
+  - Innstillingen: enstemmig

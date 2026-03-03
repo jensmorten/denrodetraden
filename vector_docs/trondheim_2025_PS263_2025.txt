@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 263/2025
+rodt_fremmet: False
+---
+
+Tittel: Fritakssøknad - Erling Eide Hustvedt (Ap)
+
+Vedtak:
+Bystyret innvilger Erling Eide Hustvedt (Ap) midlertidig fritak for følgende verv i perioden 23.01.2026 – 22.06.2026:
+• Medlem i bystyret
+• Medlem i kontrollutvalget
+• Medlem i Singsaker studenterhjem, rådet
+• Varamedlem i Skoleutvalg Trondheim katedralskole
+
+Voteringer:
+- Votering om innstillingen om midlertidig fritak for Erling Eide Hustvedt (Ap)
+  - For: enstemmig

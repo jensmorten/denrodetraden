@@ -1,0 +1,28 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 65/25
+rodt_fremmet: False
+---
+
+Tittel: PS 65/25 Høring - Forskrift om skolekretsgrenser i Verdal kommune
+
+Vedtak:
+Saken utsettes.
+To ungdomsskoler vurderes som nødvendige for et helhetlig tilbud i Verdal.
+Kommunedirektøren skal utrede framtidig oppvekstsektor der både formannskapets og kommunedirektørens forslag inngår med konsekvensanalyse.
+Utredningen skal vurdere sektorenes utvikling, omorganisering, bruk av skolebygg, tilpasset opplæring, ressursutnyttelse og andre relevante forhold. Begge skolene skal bestå.
+Forskrift skolekretsgrenser behandles som en del av tidligere bestilt utredning av hele oppvekstsektoren i Verdal.
+Saken legges frem før kommende budsjettbehandling.
+
+Alternative forslag:
+- H/SP/VDL/FRP v/Oddleiv Aksnes: Saken utsettes.
+To ungdomsskoler vurderes som nødvendige for et helhetlig tilbud i Verdal.
+Kommunedirektøren skal utrede framtidig oppvekstsektor der både formannskapets og kommunedirektørens forslag inngår med konsekvensanalyse.
+Utredningen skal vurdere sektorenes utvikling, omorganisering, bruk av skolebygg, tilpasset opplæring, ressursutnyttelse og andre relevante forhold. Begge skolene skal bestå.
+Forskrift skolekretsgrenser behandles som en del av tidligere bestilt utredning av hele oppvekstsektoren i Verdal.
+Saken legges frem før kommende budsjettbehandling.
+
+Voteringer:
+- Votering utsettelsesforslag fra H/SP/VDL/FRP
+  - For utsettelsesforslaget: Enstemmig

@@ -1,0 +1,19 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 93/25
+rodt_fremmet: False
+---
+
+Tittel: Mandat for utredning av eventuelt vertskommunesamarbeid mellom Verdal og Levanger om NAV
+
+Vedtak:
+Utarbeidet mandat for utredning av vertskommunesamarbeid mellom Verdal og Levanger godkjennes.
+
+Alternative forslag:
+- AP v/Trine Reitan: Lokasjon av Vertskommunesamarbeidet skal være på Verdal.
+
+Voteringer:
+- Votering over formannskapets innstilling og APs tilleggsforslag om lokasjon for vertskommunesamarbeidet
+  - Formannskapets innstilling: 34 stemmer
+  - APs tilleggsforslag: 9 stemmer

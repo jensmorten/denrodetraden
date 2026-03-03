@@ -16,9 +16,9 @@ Alternative forslag:
 
 Voteringer:
 - Votering over innstillingen.
-  - Innstillingen: enstemmig stemmer
+  - Innstillingen: enstemmig
 - Votering over Dambas tilleggsforslag 'Utredning av kostnader og lokasjon'.
   - For forslaget: 33 stemmer
   - Mot forslaget: 34 stemmer
 - Votering over Dambas tilleggsforslag 'Dialog med innbyggerne og FAU i nærområdet'.
-  - For forslaget: enstemmig stemmer
+  - For forslaget: enstemmig

@@ -12,5 +12,5 @@ Saken ble utsatt i møtet 28. august 2025.
 
 Voteringer:
 - Votering over utsettelse av saken.
-  - Utsette saken: None stemmer
-  - Ikke utsette saken: None stemmer
+  - Utsette saken: ukjent
+  - Ikke utsette saken: ukjent

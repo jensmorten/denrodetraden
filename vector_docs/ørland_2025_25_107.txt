@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/107
+rodt_fremmet: False
+---
+
+Tittel: Spørretimen/Interpellasjoner
+
+Vedtak:
+Kommunestyret tok svar på spørsmål til spørretimen til informasjon. Interpellasjoner ble behandlet under sine respektive saker.

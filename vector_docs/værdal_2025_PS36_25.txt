@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 36/25
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding 2024 - Integreringsrådet
+
+Vedtak:
+Kommunestyret tar Integreringsrådets årsmelding for 2024 til orientering.
+
+Voteringer:
+- Votering over forslaget om å ta Integreringsrådets årsmelding for 2024 til orientering
+  - For: enstemmig

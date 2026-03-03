@@ -1,0 +1,29 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 258/2025
+rodt_fremmet: False
+---
+
+Tittel: Osloveien 129, gnr/bnr 94/296, 95/559 m.fl - detaljregulering til sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering med tillegg og endringer som beskrevet i innstillingen.
+
+Alternative forslag:
+- Even Næss Bergseng (SV): Forslag 1: Antall parkeringsplasser knyttes til per 100 m2 BRA: I bestemmelse §3.3.1 endres første setning slik at antallet parkeringsplasser for bolig knyttes til per 100 m2 BRA bolig og ikke per boenhet.
+- Even Næss Bergseng (SV): Forslag 2: Senk parkeringsgraden for bolig: Endre §3.3, andre avsnitt, første setning “For boligene skal det etableres minimum 0 og maksimalt 0,4 parkeringsplasser for bil [...]”
+- Even Næss Bergseng (SV): Forslag 3: Minstestørrelse på boligene på 25 m2: Tillegg til § 4.5 Boligsammensetning: “Boligene skal være på minst 25 m2.”
+
+Voteringer:
+- Votering over innstillingen
+  - For: 67 stemmer
+- Votering over Næss Bergsengs forslag 1: Antall parkeringsplasser knyttes til per 100 m2 BRA
+  - For: 43 stemmer
+  - Mot: 24 stemmer
+- Votering over Næss Bergsengs forslag 2: Senk parkeringsgraden for bolig
+  - For: 13 stemmer
+  - Mot: 54 stemmer
+- Votering over Næss Bergsengs forslag 3: Minstestørrelse på boligene på 25 m2
+  - For: 32 stemmer
+  - Mot: 35 stemmer

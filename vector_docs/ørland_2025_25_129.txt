@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/129
+rodt_fremmet: False
+---
+
+Tittel: Revidert selskapsavtale for Fosen brann- og redningstjeneste IKS
+
+Vedtak:
+Ørland kommunestyre vedtar vedlagte selskapsavtale for Fosen brann og redningstjeneste IKS, slik den er vedtatt av representantskapet i selskapet i møte den 14. juni 2024.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

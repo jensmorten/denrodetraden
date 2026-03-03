@@ -1,0 +1,24 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 62/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv
+
+Vedtak:
+{'organ': 'Valgutvalg', 'dato': '16.09.2025', 'tekst': ['Wenche Snildalsli Vuttudal, SP innvilges fritak fra sine politiske verv ut valgperioden.', 'Varamedlemmene fra SP rykker opp på varamannslista i kommunestyret.', 'Som nytt fast medlem i hovedutvalg forvaltning velges Trond Selmer Nergaard.', 'Varalisten blir som følger:', '1. Stig Kalstad - SP', '2. Brage Syrstad - SP', '3. Bjarne Lund - SP', '4. Kristian Martin Fremstad - SP', '5. Lasse Hilstad Sørmo - SP']}
+{'organ': 'Kommunestyre', 'dato': '16.09.2025', 'tekst': 'Saken om søknad om fritak fra politiske verv utsettes.'}
+
+Alternative forslag:
+- Kristian Martin Fremstad, SP: Som nytt medlem i forvaltning innstiller vi Trond Selmer Nergaard.
+- Kristian Martin Fremstad, SP: Saken utsettes
+
+Voteringer:
+- Votering i Valgutvalg om kommunedirektørens innstilling
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Valgutvalg om forslag fra Kristian Martin Fremstad, SP
+  - Forslag fra Kristian Martin Fremstad, SP: enstemmig
+- Votering i Kommunestyre om forslag fra Kristian Martin Fremstad, SP om utsettelse
+  - Forslag fra Kristian Martin Fremstad, SP: enstemmig

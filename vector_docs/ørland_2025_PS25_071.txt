@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/071
+rodt_fremmet: False
+---
+
+Tittel: 25/071 Spørretimen/Interpellasjoner
+
+Vedtak:
+Interpellasjon ble behandlet som egen sak og protokollert i sak FI 25/010.

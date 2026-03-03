@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2023
+saksnummer: PS 6/23
+rodt_fremmet: False
+---
+
+Tittel: Utbyggingsavtale Nordgata 14, 16 og 18 - sluttbehandling
+
+Vedtak:
+Vedlagte utbyggingsavtale for «Nordgata 14, 16 og 18» godkjennes i medhold av plan- og bygningslovens § 17-4.
+
+Voteringer:
+- Votering over innstillingen til utvalg plan og samfunn
+  - For innstillingen: enstemmig

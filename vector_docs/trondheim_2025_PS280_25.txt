@@ -1,0 +1,22 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 280/25
+rodt_fremmet: False
+---
+
+Tittel: Nye avgiftssatser for gateparkering, leie av offentlig grunn mv. for 2026
+
+Vedtak:
+Innstillingen ble vedtatt med 39 stemmer mot 28 stemmer.
+
+Alternative forslag:
+- Kirsti Tømmervold (Ap): Bystyret vedtar innstillingen i sak "Nye avgiftssatser for gateparkering, leie av offentlig grunn mv. for 2026", men med endring slik at forflytningshemmede med parkeringstillatelse får parkere gratis på avgiftsbelagte kommunale parkeringsplasser og i boligsone.
+
+Voteringer:
+- Votering over Tømmervolds alternative forslag
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Votering over innstillingen
+  - For: 39 stemmer
+  - Mot: 28 stemmer

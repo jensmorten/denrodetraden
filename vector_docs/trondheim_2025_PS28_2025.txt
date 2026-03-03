@@ -20,4 +20,4 @@ Voteringer:
   - Innstillingens punkt 1 og 2: 59 stemmer
   - Aftrets alternative forslag: 8 stemmer
 - Votering over innstillingens punkt 3.
-  - Innstillingens punkt 3: enstemmig stemmer
+  - Innstillingens punkt 3: enstemmig

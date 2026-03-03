@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 22/25
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om skolerute for grunnskoleopplæringa og voksenopplæringa
+
+Vedtak:
+Kommunestyret vedtar vedlagte forskrift om skolerute i de kommunale grunnskolene og voksenopplæringa i Orkland kommune.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 11.03.2025: Kommunedirektørens innstilling
+  - For: Enstemmig
+- Votering i Kommunestyre 25.03.2025: Hovedutvalg helse, oppvekst og kulturs innstilling
+  - For: Enstemmig

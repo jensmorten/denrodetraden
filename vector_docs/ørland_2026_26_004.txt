@@ -1,0 +1,18 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/004
+rodt_fremmet: False
+---
+
+Tittel: Saldering 1 Investering 2026
+
+Vedtak:
+1. Investeringsbudsjettet salderes slik det framkommer av tabell 1.
+2. Det opptas et nytt lån på kr 159 894 000.
+3. Formannskapet ber administrasjon om en full gjennomgang av investeringsbudsjettet og saldering i formannskapets møte 5. februar 2026.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskap - 08.01.2026
+  - For: 29 stemmer
+  - Mot: 0 stemmer

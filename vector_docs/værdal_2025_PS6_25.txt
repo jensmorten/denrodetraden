@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 6/25
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om skoleregler for skolene i Verdal kommune
+
+Vedtak:
+Lokal forskrift om skoleregler for skolene i Verdal kommune vedtas, og kunngjøres i Norsk Lovtidend.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

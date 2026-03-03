@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 90/25
+rodt_fremmet: False
+---
+
+Tittel: Rapport etter tredje kvartal 2025
+
+Vedtak:
+Kommunestyret tar Rapport etter tredje kvartal 2025 til orientering.
+
+Voteringer:
+- Votering i Formannskap 25.11.2025 om Kommunedirektørens innstilling
+  - For: enstemmig
+- Votering i Kommunestyre 16.12.2025 om Formannskapets innstilling
+  - For: enstemmig

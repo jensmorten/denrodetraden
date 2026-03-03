@@ -15,5 +15,5 @@ Alternative forslag:
 
 Voteringer:
 - Votering over mistillitsforslag mot byråd Christianne Bauck-Larssen
-  - For mistillitsforslaget: ['9SV', '3R'] stemmer
-  - Mot mistillitsforslaget: ['19H', '17Ap', '5MDG', '4FrP', '4V', '3PP', 'Sp', 'KrF', 'U'] stemmer
+  - For mistillitsforslaget: ['9SV', '3R']
+  - Mot mistillitsforslaget: ['19H', '17Ap', '5MDG', '4FrP', '4V', '3PP', 'Sp', 'KrF', 'U']

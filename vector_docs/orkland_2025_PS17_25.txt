@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 17/25
+rodt_fremmet: False
+---
+
+Tittel: Reguleringsplan for eiendommene 15/102 og 15/146 m. fl - fortetting av boligområde i Øyavegen - 2. gangs behandling
+
+Vedtak:
+I medhold av plan- og bygningslovens § 12-12 vedtas reguleringsplan for «Øyavegen fortetting av boligområde gnr./bnr. 15/102 m.fl.» som vist på plankart datert 21.11.24 med tilhørende bestemmelser 06.02.24 og planbeskrivelse 12.02.25.
+
+Voteringer:
+- Votering i Hovedutvalg forvaltning 11.03.2025
+  - Kommunedirektørens innstilling: 10 stemmer
+- Votering i Kommunestyre 25.03.2025
+  - Hovedutvalg forvaltning sin innstilling: 42 stemmer

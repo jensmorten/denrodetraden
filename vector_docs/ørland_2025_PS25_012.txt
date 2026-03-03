@@ -1,0 +1,8 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/012
+rodt_fremmet: False
+---
+
+Tittel: Fritak fra faste politiske verv som folkevalgt i Ørland kommune ifm flytting

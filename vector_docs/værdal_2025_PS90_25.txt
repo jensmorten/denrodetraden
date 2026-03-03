@@ -1,0 +1,28 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 90/25
+rodt_fremmet: False
+---
+
+Tittel: PS 90/25 Oppfølging av politisk vedtak - konsekvensutredning skolekretsgrenser
+
+Vedtak:
+1. Saken tas til orientering.
+2. Kommunestyret ber kommunedirektøren henvende seg direkte til Utdanningsdirektoratet med spørsmål om skriftlig bekreftelse på følgende to påstander:
+   1. Kapasitet kan først tas med i vurderingen når en skole er full, når en kommune skal fastsette forskrift for skolekretsgrenser for bo-områdene i en kommune.
+   2. En kommune er pliktig til å utvide eksisterende skoleanlegg, hvis det blir flere elever i en skolekrets enn det er plass til på skolen, hvis det f.eks. bygges et nytt boligfelt i skolekretsen, jmf. sak PS 65/25 til kommunestyret.
+Før spørsmål sendes legges det fram sak med spørsmålene.
+
+Alternative forslag:
+- SP v/Einar Olav Larsen: Kommunestyret ber kommunedirektøren henvende seg direkte til Utdanningsdirektoratet med spørsmål om skriftlig bekreftelse på følgende to påstander:
+1. Kapasitet kan først tas med i vurderingen når en skole er full, når en kommune skal fastsette forskrift for skolekretsgrenser for bo-områdene i en kommune.
+2. En kommune er pliktig til å utvide eksisterende skoleanlegg, hvis det blir flere elever i en skolekrets enn det er plass til på skolen, hvis det f.eks. bygges et nytt boligfelt i skolekretsen, jmf. sak PS 65/25 til kommunestyret.
+Før spørsmål sendes legges det fram sak med spørsmålene.
+
+Voteringer:
+- Votering over formannskapets innstilling pkt. 1
+  - For: enstemmig
+- Votering over formannskapets innstilling pkt. 2 (tidligere pkt. 4) alternativt mot forslag fra SP
+  - Formannskapets innstilling: tapt
+  - Forslaget fra SP: enstemmig vedtatt

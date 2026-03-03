@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/130
+rodt_fremmet: False
+---
+
+Tittel: Møteplan 2026 for Formannskap, Partssammensatt utvalg og Kommunestyret
+
+Vedtak:
+Møteplan 2026 for Formannskap, Partssammensatt utvalg og Kommunestyret, vedtas som framlagt.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskap - 16.10.2025
+  - For: 31 stemmer
+  - Mot: 0 stemmer

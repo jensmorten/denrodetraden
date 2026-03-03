@@ -1,0 +1,27 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/176
+rodt_fremmet: False
+---
+
+Tittel: Saldering 3 investering
+
+Vedtak:
+Investeringsbudsjettet salderes som følger:
+Reduserte investering i anleggsmidler (tabell 1) , kr -163 055 000
+Prosjekt med behov for tilleggsbevilgning (tabell 2), kr 7 137 000
+Finansiering:
+Redusert momskompensasjon (tabell 1), kr 3 161 000
+Økt momskompensasjon (tabell 2), kr -260 000
+Redusert bruk av lån (tabell 1), kr 159 894 000
+Økt bruk av lån (tabell 2), kr -6 877 000
+Justering av investeringsbudsjett 2025, jf. tabell 3 og 4, vedtas som framlagt.
+
+Voteringer:
+- Votering over forslag - Kommunestyre 18.12.2025
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag - Formannskap 04.12.2025
+  - For: 6 stemmer
+  - Mot: 0 stemmer

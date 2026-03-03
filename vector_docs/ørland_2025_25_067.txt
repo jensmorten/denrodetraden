@@ -1,0 +1,30 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/067
+rodt_fremmet: False
+---
+
+Tittel: 25/067 Valg av nytt styremedlem og nestleder i Roret Ørland kulturforetak KF
+
+Vedtak:
+1. Som nytt styremedlem velges Thomas Hovde. Som varamedlem for Thomas Hovde velges Barbro Brønner Eikset.
+2. Kommunestyret ber om at kommunedirektøren starter en evalueringsprosess av organisasjonsformen av Roret Ørland kulturforetak KF. Kommunedirektøren bes om at styret, ansatte og deres organisasjoner involveres og høres i prosessen. Når høringsuttalelsene foreligger bes kommunedirektør vurdere disse og legge frem en sak for en endelig behandling i kommunestyret i oktober 2025.
+3. Som nestleder for styret i Roret foreslås Fredrik Sandness (AP).
+
+Alternative forslag:
+- Fredrik Sandness, Arbeiderpartiet: Kommunestyret ønsker at styret i Roret starter en prosess med en gjennomgang og evaluering av Roret Ørland kulturforetak KF. Det bes om at styret sammen med de ansatte og deres organisasjoner involveres og høres i prosessen. Når høringsuttalelsene foreligger bes kommunedirektør vurdere disse og legge frem en sak for en endelig behandling i kommunestyret i oktober 2025.
+
+Voteringer:
+- Votering over forslag - Nytt forslag fra Fredrik Sandness (AP)
+  - For: 14 stemmer
+  - Mot: 17 stemmer
+- Votering over forslag - Punkt 1 Valg av nytt styremedlem og nestleder i Roret Ørland kulturforetak KF, foreslått av Mona Sjøli (H)
+  - For: 29 stemmer
+  - Mot: 2 stemmer
+- Votering over forslag - Punkt 2 Valg av nytt styremedlem og nestleder i Roret Ørland kulturforetak KF
+  - For: 28 stemmer
+  - Mot: 3 stemmer
+- Votering over forslag - Punkt 3 Valg av nytt styremedlem og nestleder i Roret Ørland kulturforetak KF
+  - For: 31 stemmer
+  - Mot: 0 stemmer

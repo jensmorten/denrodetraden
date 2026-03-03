@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/017
+rodt_fremmet: False
+---
+
+Tittel: Referat fra Styringsgruppemøte nr 11 - Orkdalspakken
+
+Vedtak:
+KST - 25/017 vedtak

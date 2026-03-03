@@ -1,0 +1,22 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 246/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Et godt og trygt inneklima på byens helse- og velferdssenter - Maria Alseth (FrP)
+
+Vedtak:
+Bystyret ber byrådet vurdere teknologinøytrale løsninger for trygt inneklima på nye helseenheter med heldøgns omsorg, med passive tiltak først, og målrettet komfortkjøling der det er behov for det.
+For eksisterende enheter vurderes iverksatt lavterskeltiltak raskt, og å legge til rette for målrettet kjøling i kritiske rom eller soner.
+Bystyret ber byrådet legge frem kostnadsoversikt og plan med ROS-analyse, støykrav, temperaturlogg/terskler og beredskap ved hetebølger.
+Bystyret ber byrådet utrede nødstrøm i enheter der vinterkulde gir størst risiko, og et standardisert avtaleverk for kommunale leieforhold i borettslag/sameier ved behov for tilpasset kjøling.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): ['Bystyret ber byrådet sikre tilstrekkelig aircondition eller kjøleanlegg på nye helse- og velferdssentre.', 'Bystyret ber byrådet iverksette tiltak slik at eksisterende sykehjem, og øvrige enheter med heldøgns omsorg hvor beboere er sårbare for varme, får bedre mulighet for nedkjøling både i fellesarealer og på beboerrom.', 'Bystyret ber byrådet skaffe en oversikt over kostnadene for dette, og legge en plan for utbedring eller oppgradering av sentrene for å sikre et bedre inneklima.', 'Bystyret ber byrådet utarbeide en ROS-analyse av inneklimaet på sykehjem og øvrige enheter som tilbyr heldøgns omsorgstjenester, både med hensyn til hete- og kuldeperioder.', 'Bystyret ber byrådet utrede løsninger for nødstrøm ved de enhetene som tilbyr heldøgns omsorgstjenester og som er mest sårbare ved strømbrudd.']
+
+Voteringer:
+- Ved alternativ votering mellom innstillingen og Andreassens forslag
+  - Innstillingen: 50 stemmer
+  - Andreassens forslag: 17 stemmer

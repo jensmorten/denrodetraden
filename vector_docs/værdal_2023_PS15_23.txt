@@ -1,0 +1,16 @@
+METADATA:
+kommune: værdal
+year: 2023
+saksnummer: PS 15/23
+rodt_fremmet: False
+---
+
+Tittel: Regional næringsstrategi for Innherred
+
+Vedtak:
+Regional næringsstrategi for Innherred tas til orientering.
+Det settes i gang et arbeid for å lage en lokal handlingsplan for den regionale næringsstrategien i samarbeid med næringslivet i Verdal kommune og i dialog med de andre kommunene i regionrådet. En slik sak fremmes til politisk behandling på slutten av andre kvartal 23.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

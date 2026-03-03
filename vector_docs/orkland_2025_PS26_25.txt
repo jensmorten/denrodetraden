@@ -1,0 +1,18 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 26/25
+rodt_fremmet: False
+---
+
+Tittel: Lokal forskrift - Forskrift om gebyr for saksbehandling av søknad om tillatelse til handel med fyrverkeri - pyroteknisk vare og for gjennomføring av tilsyn, Orkland kommune
+
+Vedtak:
+Kommunestyret vedtar i samsvar med forskrift av 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff § 9-2 andre ledd «Forskrift om gebyr for saksbehandling av søknad om tillatelse til handel med fyrverkeri (pyroteknisk vare) og for gjennomføring av tilsyn, Orkland kommune, Trøndelag».
+Kommunestyret vedtar gebyrregulativ for saksbehandling og oppfølging av søknad om tillatelse til handel med og oppbevaring av fyrverkeri.
+
+Voteringer:
+- Votering i Formannskap 22.04.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 29.04.2025
+  - Formannskapets innstilling: enstemmig

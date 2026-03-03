@@ -1,0 +1,20 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 18/25
+rodt_fremmet: False
+---
+
+Tittel: Kommunal samarbeidsavtale Helseplattformen
+
+Vedtak:
+1.Tiltredelse av kommunal samarbeidsavtale:
+Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres.
+Tiltredelse forutsetter at alle Helseplattformens eierkommuner slutter seg til oppgavefellesskapet.
+2.Utnevning av deltakere i representantskapet:
+Kommunestyret utnevner ordfører som kommunens faste representant i oppgavefellesskapets representantskap, med varaordfører som varamedlem
+
+Voteringer:
+- Votering over innstilling om tiltredelse av kommunal samarbeidsavtale og utnevnelse av deltakere i representantskapet
+  - For: 31 stemmer
+  - Imot: 3 stemmer

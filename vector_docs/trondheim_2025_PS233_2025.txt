@@ -1,0 +1,36 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 233/2025
+rodt_fremmet: True
+---
+
+Tittel: Kvalitetsmelding for BFT 2024
+
+Vedtak:
+Bystyret tar kvalitetsmelding for Barne- og familietjenesten 2024 til orientering.
+Bystyret tar tilstandsrapport for barnevernet i 2024 til orientering.
+Bystyret ber byrådet jobbe for å få opp andelen fosterhjem som er tilknyttet barnas familier og nettverk.
+Bystyret ber om at oppvekst- og kulturutvalget blir orientert om rekrutteringsarbeidet av minoriteter i barnevern, HOA og skolehelsetjenesten. Rekrutteringsarbeidet synliggjøres i fremtidige kvalitetsmeldinger.
+Bystyret ber Byrådet til neste års kvalitetsmelding legge inn informasjon om bruken av barnekoordinator.
+Bystyret ber Byrådet til neste års kvalitetsmelding legge inn mer utfyllende informasjon om Helse- og avlastningstjenesten for barn og unge. Det skal beskrives antall brukere, omfang, antall søknader og avslag, ventetid og gjennomføres en enkel brukerundersøkelse for å måle den opplevde kvaliteten av tjenesten.
+
+Alternative forslag:
+- Roald Arentz (R): Bystyret er bekymra for at underfinansiering av tjenesten vil svekke tjenestekvaliteten og arbeidsmiljøet, og på sikt påføre kommunen store utgifter.
+- Efia Marie Damba (SV): Bystyret ber om at oppvekst- og kulturutvalget blir orientert om rekrutteringsarbeidet av minoriteter i barnevern, HOA og skolehelsetjenesten. Rekrutteringsarbeidet synliggjøres i fremtidige kvalitetsmeldinger.
+- Kristian Lian (Ap): Bystyret ber Byrådet til neste års kvalitetsmelding legge inn informasjon om bruken av barnekoordinator.
+- Kristian Lian (Ap): Bystyret ber Byrådet til neste års kvalitetsmelding legge inn mer utfyllende informasjon om Helse- og avlastningstjenesten for barn og unge. Det skal beskrives antall brukere, omfang, antall søknader og avslag, ventetid og gjennomføres en enkel brukerundersøkelse for å måle den opplevde kvaliteten av tjenesten.
+
+Voteringer:
+- Votering over innstillingen
+  - For: 67 stemmer
+- Votering over Arentz tilleggsforslag "Bekymring for konsekvenser av underfinansiering"
+  - For: 31 stemmer
+  - Mot: 36 stemmer
+- Votering over Dambas forslag "Rekruttering av minoriteter"
+  - For: 35 stemmer
+  - Mot: 32 stemmer
+- Votering over Lians tilleggsforslag "Barnekoordinator"
+  - For: 67 stemmer
+- Votering over Lians tilleggsforslag "Helse- og avlastningstjenesten"
+  - For: 67 stemmer

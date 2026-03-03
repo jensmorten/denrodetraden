@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/121
+rodt_fremmet: False
+---
+
+Tittel: Kartlegging av fysisk arbeidsmiljø
+
+Vedtak:
+I forbindelse med budsjett 2026 og økonomiplan 2026-2035 utarbeides en oversikt med forslag til tiltak på kommunale bygg som skal bedre fysiske arbeidsmiljø, og som kan gjennomføres i 2026 og senere i økonomiplanperioden.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 30 stemmer

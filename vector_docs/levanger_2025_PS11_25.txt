@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 11/25
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding Råd for personer med funksjonsnedsettelse 2024
+
+Vedtak:
+Kommunestyret tar Råd for personer med funksjonsnedsettelse sin årsmelding for 2024 til orientering.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak om å ta årsmeldingen til orientering
+  - For: 34 stemmer

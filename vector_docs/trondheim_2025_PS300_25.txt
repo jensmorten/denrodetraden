@@ -1,0 +1,63 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 300/25
+rodt_fremmet: True
+---
+
+Tittel: PS 300/2025 Miljøpakkens handlingsprogram 2026-2029
+
+Vedtak:
+Bystyret vedtar handlingsprogram for Miljøpakken 2026-2029 som vist i vedlegg 1 med unntak av punkt 2.
+Punkt 2 vedtas separat.
+Flere tilleggsforslag og alternative forslag ble behandlet og votert over, med noen vedtatt og andre falt.
+
+Alternative forslag:
+- Latifa Nasser (SV): Bystyret vedtar at sykkeltiltak i Gyldenløves gate prioriteres inn i grønn liste i de videre forhandlingene om Miljøpakkens handlingsprogram.
+- Latifa Nasser (SV): Bystyret vedtar at Brundalsforbindelsen, Johan Tillers veg og Byåstunnelen nedprioriteres og tas ut av grønn liste.
+- Roald Arentz (R): Handlingsprogrammet revideres med følgende endringer: Følgende prosjekt tas ut av grønn liste eller skaleres ned: Byåstunellen −260,8, Johan Tillers veg −103, Brundalsforbindelsen −571,1, Nordtvedts gate - Pirbrua alternativ A −200, Sum −1187,1. Følgende tiltak prioriteres: Bussdepot Stor-Trondheim (økt andel miljøpakkemidler) 200, Mobilitetsanbud Stor-Trondheim (MST) infrastuktur 250, Økt ramme billigere billettpriser 110, Vedlikehold og oppgradering av tidligere etablerte veg- og sykkelprosjekter i Miljøpakken 100, Vinterdrift fortau og gangveger 100, Oppstart oppgradering og utvidelse av Gråkallbanen 200, Sum 960. Rest avsettes til bruk i blant annet MST 2029-2039 (174,9 millioner), med formål å oppnå plussalternativet for kollektivtilbudet.
+- Tore Dyrendahl (MDG): Bystyret vedtar rammen for Midtbypakken, men tar forbehold om innholdet i prosjektet Midtbypakken i påvente av vedtak om samferdselsplanen. Bystyret ber byrådet gå videre med trafikksikkerhetstiltak for skolevei på Singsaker/Rosenborg som en del av Midtbypakken.
+- Roald Arentz (R): Bystyret vedtar at undergangene på Rosendal og Voldsminde ikke saneres. Midlene som er avstatt til prosjektet avsettes til tiltak for å forbedre kollektivtrafikken i prosjektet MST 2029-2039.
+- Vegard Frøseth Fenes (SP): Bystyret viser til det pågående reguleringsarbeidet for å etablere sykkelforbindelsen Arkitekt Ebbels veg - Grilstadkleiva, og er kritisk til at planen vil føre til betydelige inngrep i hensynssoner for kulturmiljø og landbruk. Prosjektet tas ut av grønn liste.
+- Vegard Frøseth Fenes (SP) på vegne av SP, Ap: Bystyret ber om at midlene som er avsatt til midtbypakke omdisponeres til en bydelspakke. Midlene skal fordeles på ulike prosjekter knyttet til trafikksikkerhet, og som bedrer forholdene for gående, syklende, og brukere av kollektivtrafikk i alle bydeler.
+- Kirsti Tømmervold på vegne av Ap, SP: Innspill vedrørende trafikksikkerhet i området Møllenberg/Rosenborg gitt av Trafikksikkerhetsutvalget ved Singsaker skole, innarbeides i Trafikksikkerhetspakken til Trondheim kommune i Miljøpakken.
+- Jostein Eirik Gjermstad (FrP): Bystyret aksepterer ikke bompenger som finansieringsform, og avviser derfor handlingsprogram for Miljøpakken 2026-2029 som vist i vedlegg 1.
+- Tore Dyrendahl (MDG) på vegne av MDG, SV: Bystyret viser til det pågående reguleringsarbeidet for å etablere sykkelforbindelsen Arkitekt Ebbels veg - Grilstadkleiva, og er kritisk til at planen vil føre til betydelige inngrep i hensynssoner for kulturmiljø og landbruk. I det pågående arbeidet med planprogrammet ber bystyret byrådet vurdere om de tre andre utreda alternativene er bedre og om det er behov for å vurdere ytterligere andre alternativ for å bedre sykkelforholdene.
+
+Voteringer:
+- Votering over FrPs alternative forslag om å avvise handlingsprogrammet for Miljøpakken 2026-2029.
+  - For FrPs forslag: 5 stemmer
+  - Mot FrPs forslag: 62 stemmer
+- Votering over innstillingen med unntak av punkt 2.
+  - For innstillingen: 63 stemmer
+  - Mot innstillingen: 4 stemmer
+- Votering mellom innstillingens punkt 2 og alternativt forslag fra Rødt.
+  - For innstillingens punkt 2: 64 stemmer
+  - For Rødts alternativ: 3 stemmer
+- Votering over innstillingens punkt 2.
+  - For punkt 2: 60 stemmer
+  - Mot punkt 2: 7 stemmer
+- Votering over SVs tilleggsforslag 'Gyldenløves gate inn på grønn liste'.
+  - For SVs forslag: 30 stemmer
+  - Mot SVs forslag: 37 stemmer
+- Votering over SVs tilleggsforslag 'Kapasitetsøkende veiutbygging nedprioriteres'.
+  - For SVs forslag: 13 stemmer
+  - Mot SVs forslag: 54 stemmer
+- Votering over Rødts tilleggsforslag 'Sanering av undergangene i Innherredsvegen prioriteres ikke'.
+  - For Rødts forslag: 22 stemmer
+  - Mot Rødts forslag: 45 stemmer
+- Votering over MDGs forslag 'Midtbypakken'.
+  - For MDGs forslag: 38 stemmer
+  - Mot MDGs forslag: 29 stemmer
+- Votering over SPs tilleggsforslag 'Rv. 706 Arkitekt Ebbells veg - Grilstadkleiva nedprioriteres'.
+  - For SPs forslag: 47 stemmer
+  - Mot SPs forslag: 20 stemmer
+- Votering over SPs tilleggsforslag 'Omdisponere midler i midtbypakken'.
+  - For SPs forslag: 24 stemmer
+  - Mot SPs forslag: 43 stemmer
+- Votering over Aps tilleggsforslag 'Trafikksikkerhet'.
+  - For Aps forslag: 39 stemmer
+  - Mot Aps forslag: 28 stemmer
+- Votering over MDGs tilleggsforslag 'Sykkelforbindelse Arkitekt Ebbels veg - Grilstadkleiva'.
+  - For MDGs forslag: 20 stemmer
+  - Mot MDGs forslag: 47 stemmer

@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/001
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av innkalling og saksliste
+
+Vedtak:
+Godkjenning av innkalling og saksliste ble ikke gjennomført da det ikke er et ordinært kommunestyremøte, men en folkevalgtopplæring. Det ble foretatt opprop opp mot liste over innkalte medlemmer og varamedlemmer i kommunestyret og kontrollutvalget.

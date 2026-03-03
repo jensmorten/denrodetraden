@@ -1,0 +1,18 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/143
+rodt_fremmet: False
+---
+
+Tittel: Midlertidig bygge- og deleforbudssone
+
+Vedtak:
+Kommunestyret vedtar i medhold av plan- og bygningsloven § 13-1, å igangsette prosess for etablering av midlertidig bygge- og deleforbudssone for arealer som omfattes av utvidet rød støysone.
+Før det fattes vedtak om midlertidig bygge- og deleforbudssone, skal berørte parter varsles i henhold til forvaltningsloven, med en svarfrist på tre uker.
+Etter at høringsfristen er utløpt og innkomne innspill er vurdert, skal saken legges frem for kommunestyret for endelig vedtak.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

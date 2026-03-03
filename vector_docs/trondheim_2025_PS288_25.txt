@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 288/25
+rodt_fremmet: False
+---
+
+Tittel: PS 288/2025 Boligsosiale tiltak i Nyhavna bydel
+
+Vedtak:
+Saken ble ved konstitueringa av møtet utsatt til neste møte.

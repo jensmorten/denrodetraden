@@ -1,0 +1,34 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 293/25
+rodt_fremmet: False
+---
+
+Tittel: PS 293/2025 Reglement for administrasjonsutvalget
+
+Vedtak:
+Bystyret vedtar forslaget til nytt reglement for administrasjonsutvalget med de foreslåtte endringer og tillegg som fremkom i behandlingen.
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV) på vegne av SV, Ap: Byrådsleder har møteplikt og talerett i administrasjonsutvalget.
+- Silje Naper Salomonsen (SV) på vegne av SV, Ap: Ny formulering punkt 1: Administrasjonsutvalget er opprettet etter kommuneloven § 5-11. Administrasjonsutvalget settes sammen av folkevalgte og representanter for de ansatte. Utvalget kan opprette et arbeidsutvalg (AU) med minst tre medlemmer bestående av leder og nestleder, et medlem valgt blant ansattepresentantene og eventuelt flere utvalgsmedlemmer.
+- Silje Naper Salomonsen (SV) på vegne av SV, Ap: Ny formulering 1.1: Representanter fra politisk nivå Flertallet i utvalget skal bestå av folkevalgte. I det konstituerende møtet velger bystyret en leder, varaordføreren og fem medlemmer av bystyret, med vararepresentanter. Bystyret velger utvalgets nestleder blant disse. Leder og nestleder skal ikke tilhøre samme parti eller partigruppering.
+- Silje Naper Salomonsen (SV) på vegne av SV, Ap: Ny formulering punkt 1.2: Administrasjonsutvalget skal til en hver tid bestå av et medlem mindre fra arbeidstakerorganisasjonene enn det antallet representanter som er fra bystyret. De ansattes representanter velges for to år av gangen. Ansattrepresentanter velges av og blant arbeidstakerorganisasjonene, jf. Hovedavtalen del B § 4, etter forholdstallprinsippet. De ansatte skal være representert i dette utvalget med minst 2 representanter. Ansatterepresentantene har personlig vara. For de ansattes representanter gjelder valgbarhetsreglene i kommuneloven §§ 7-2 og 7-3, bortsett fra bostedskravet.
+- Gjermund Gorset (Ap): Reglementet trer i kraft fra 01.02.2026.
+
+Voteringer:
+- Votering på innstillingen
+  - For: 67 stemmer
+- Votering på SVs tilleggsforslag "Ny formulering punkt 1"
+  - For: 67 stemmer
+- Votering på SVs tilleggsforslag "tillegg til punkt 1"
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Votering på SVs tilleggsforslag "Ny formulering punkt 1.1"
+  - For: 67 stemmer
+- Votering på SVs tilleggsforslag "Ny formulering punkt 1.2"
+  - For: 39 stemmer
+  - Mot: 28 stemmer
+- Votering på Aps tilleggsforslag "Nytt punkt 4"
+  - For: 67 stemmer

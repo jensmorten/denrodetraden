@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 9/25
+rodt_fremmet: False
+---
+
+Tittel: Kontrollutvalgets årsmelding for 2024
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsmelding 2024 til orientering.
+
+Voteringer:
+- Votering over kontrollutvalgets forslag til vedtak om å ta årsmeldingen 2024 til orientering
+  - For forslaget: 34 stemmer

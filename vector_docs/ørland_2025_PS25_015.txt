@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/015
+rodt_fremmet: False
+---
+
+Tittel: Protokoll fra møte i representantskapet i Konsek Trøndelag IKS
+
+Vedtak:
+KST - 25/015 vedtak

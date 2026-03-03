@@ -1,0 +1,17 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 16/25
+rodt_fremmet: False
+---
+
+Tittel: Temaplan for legetjenesten helse og velferd 2025-2028
+
+Vedtak:
+Temaplan for legetjenester helse og velferd 2025-2028 vedtas. Følgende tiltak forsøkes innarbeides for budsjettåret for 2026.
+1.Økt individuelt tilskudd til spesialister i allmennmedisin. Basistilskudd og individuelt tilskudd økes til kr. 1000 per pasient per år
+2.Tilskudd kr. 300 per pasient over 1050 pasienter per liste.
+
+Voteringer:
+- Votering over innstilling om Temaplan for legetjenester helse og velferd 2025-2028
+  - For: 34 stemmer

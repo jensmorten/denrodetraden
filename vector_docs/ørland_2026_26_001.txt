@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/001
+rodt_fremmet: False
+---
+
+Tittel: 26/001 Spørsmål til neste kommunestyremøte - støy
+
+Vedtak:
+Svar på spørsmålet ble referert for kommunestyret av ordfører. Svaret er referert under punktet behandling i saken.

@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 98/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av nytt medlem i utvalg for klagesaker etter fritak Stian Sagvold (AP)
+
+Vedtak:
+Nytt medlem i utvalg for klagesaker for resten av perioden: Fredrik Grevskott (AP).
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - Formannskapets innstilling: enstemmig

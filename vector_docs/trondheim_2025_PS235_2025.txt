@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 235/2025
+rodt_fremmet: False
+---
+
+Tittel: Årsrapport 2024 fra Personvernombudet
+
+Vedtak:
+Bystyret tar saken til orientering.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: alle

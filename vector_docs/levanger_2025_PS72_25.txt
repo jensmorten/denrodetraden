@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 72/25
+rodt_fremmet: False
+---
+
+Tittel: Rehabilitering av eksisterende tennisbaner ved Levanger fritidspark Moan
+
+Vedtak:
+Utgifter til rehabilitering av tennisbanene på Levanger fritidspark Moan innarbeides i investeringsbudsjettet for 2026.
+
+Voteringer:
+- Votering over innstilling om innarbeiding av utgifter til rehabilitering av tennisbanene i investeringsbudsjettet for 2026
+  - For: 35 stemmer

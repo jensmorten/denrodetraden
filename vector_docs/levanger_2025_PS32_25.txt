@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 32/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv - Grete Monsen
+
+Vedtak:
+Grete Monsen fritas fra sine politiske verv for inneværende valgperiode. Som nytt medlem til eldrerådet velges: Ragnhild Skjerve
+
+Voteringer:
+- Votering over innstillingen om fritak for Grete Monsen og valg av nytt medlem til eldrerådet
+  - For: 35 stemmer

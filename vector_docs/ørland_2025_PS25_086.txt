@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/086
+rodt_fremmet: False
+---
+
+Tittel: Avslutningsregnskap og årsberetning og årsregnskap for Valsneset Utvikling Ørland KF 2024
+
+Vedtak:
+Årsrapport og årsmelding for Valsneset Utvikling Ørland KF for 2024 vedtas som framlagt
+Regnskapet vedtas som foretakets avslutningsregnskap.
+
+Voteringer:
+- Votering over forslag - Innstilling fra Formannskap - 05.06.2025
+  - For: 31 stemmer
+  - Mot: 0 stemmer

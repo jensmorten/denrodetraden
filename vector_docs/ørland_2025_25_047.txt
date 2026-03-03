@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/047
+rodt_fremmet: False
+---
+
+Tittel: Strategisk næringsplan 2025-2028
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Votering om utsettelse av saken
+  - Utsettelse: enstemmig

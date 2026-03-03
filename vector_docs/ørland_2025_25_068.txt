@@ -1,0 +1,22 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/068
+rodt_fremmet: False
+---
+
+Tittel: 25/068 Søknad om fritak fra Forliksrådet
+
+Vedtak:
+1. Odd Inge Hovd gis fritak fra vervet som medlem i forliksrådet for resten av valgperioden.
+2. Nytt medlem i forliksrådet velges i neste kommunestyremøte.
+
+Alternative forslag:
+- Hallgeir Grøntvedt, Senterpartiet: 1. Odd Inge Hovd gis fritak fra vervet som medlem i forliksrådet resten av valgperioden.
+2. Nytt medlem i forliksrådet velges i neste kommunestyremøte.
+Møte lukkes etter kommunelovens § 11-5 under behandling av saken.
+
+Voteringer:
+- Votering over forslag til vedtak
+  - For: 26 stemmer
+  - Mot: 5 stemmer

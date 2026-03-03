@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 103/25
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om permisjon fra skolen
+
+Vedtak:
+Kommunestyret vedtar forslag til ny permisjonsforskrift.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 02.12.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 16.12.2025
+  - Hovedutvalg helse, oppvekst og kulturs innstilling med endring av tekst til innstilling: enstemmig

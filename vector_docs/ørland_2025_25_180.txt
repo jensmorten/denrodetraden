@@ -1,0 +1,39 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/180
+rodt_fremmet: True
+---
+
+Tittel: Prisbok for kultur og idrett 2026
+
+Vedtak:
+Formannskapet vedtar prisboken som den ligger, men ber om at den sendes på høring til relevante brukere som idrettsråd o.l før behandling i kommunestyret.
+Ørland kommune viderefører studentrabatt og innfører rabatt for personer med velferdspass ved bruk av kommunale anlegg som svømmehall og ishall, samt eventuelt andre relevante kultur- og fritidstilbud.
+Tillegget utredes av kommunedirektøren i januarmøtet 2026.
+Ørland kommune innfører et svømmeløft med gratis inngang i svømmehall for barn i siste år i barnehage og 4. trinn, i følge med minst en betalende voksen.
+Tillegget utredes av kommunedirektøren i januarmøtet 2026.
+Kommunestyret ber kommunedirektøren legge fram en sak for kommunestyret som utreder de økonomiske konsekvensene av Idrettsrådets innspill og en heving av kvaliteten på tjenestetilbudet i Bjugnhallen i februarmøtet.
+
+Alternative forslag:
+- Oda Kristine Leth-Jøssing, Miljøpartiet De Grønne: Ørland kommune viderefører studentrabatt og innfører rabatt for personer med velferdspass ved bruk av kommunale anlegg som svømmehall og ishall, samt eventuelt andre relevante kultur- og fritidstilbud. Tillegget utredes av kommunedirektøren i januarmøtet 2026.
+- Oda Kristine Leth-Jøssing, Miljøpartiet De Grønne: Ørland kommune innfører et svømmeløft med gratis inngang i svømmehall for barn i siste år i barnehage og 4. trinn, i følge med minst en betalende voksen. Tillegget utredes av kommunedirektøren i januarmøtet 2026.
+- Ole Edvard Antonsen, Rødt: Kommunestyret ber kommunedirektøren legge fram en sak for kommunestyret som utreder de økonomiske konsekvensene av Idrettsrådets innspill og en heving av kvaliteten på tjenestetilbudet i Bjugnhallen i februarmøtet.
+- Fredrik Sandness, Arbeiderpartiet: Formannskapet vedtar prisboken som den ligger, men ber om at den sendes på høring til relevante brukere som idrettsråd o.l før behandling i kommunestyret. Investeringsbehov fra Roret oversendes gruppelederne i forbindelse med budsjett 2026.
+
+Voteringer:
+- Votering over forslag: Sosiale og inkluderende rabatter
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Svømmeløft for barn
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Idrettsrådets innspill
+  - For: 28 stemmer
+  - Mot: 2 stemmer
+- Votering over forslag: Innstilling fra Formannskap - 04.12.2025
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Formannskapets votering over nytt forslag fra Fredrik Sandness (AP)
+  - Opprinnelig forslag: 0 stemmer
+  - Nytt forslag: 6 stemmer

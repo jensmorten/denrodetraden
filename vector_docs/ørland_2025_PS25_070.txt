@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/070
+rodt_fremmet: False
+---
+
+Tittel: Valg av protokollunderskrivere
+
+Vedtak:
+Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:
+• Britt Eli Døsvik (SP)
+• Hugo Solheim (AP)
+
+Voteringer:
+- Valg av protokollunderskrivere
+  - Enstemmig vedtatt: alle

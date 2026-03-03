@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2026
+saksnummer: 26/003
+rodt_fremmet: False
+---
+
+Tittel: Samlesak for referatsaker
+
+Vedtak:
+Referatsakene ble tatt til orientering.
+
+Voteringer:
+- Votering over forslag
+  - For: 29 stemmer
+  - Mot: 0 stemmer

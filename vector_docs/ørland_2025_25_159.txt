@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/159
+rodt_fremmet: False
+---
+
+Tittel: Valg av protokollunderskrivere
+
+Vedtak:
+Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:
+• Therese M. Eidsaune (H)
+• Fredrik Sandness (AP)
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt ved manuell votering.
+  - For: enstemmig

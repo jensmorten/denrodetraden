@@ -22,9 +22,9 @@ Alternative forslag:
 
 Voteringer:
 - Votering over innstillingen
-  - Innstillingen: enstemmig stemmer
+  - Innstillingen: enstemmig
 - Votering over Alseths tilleggsforslag 'Trygghet for tjenestemottakere ved strømutfall'
-  - Alseths tilleggsforslag: enstemmig stemmer
+  - Alseths tilleggsforslag: enstemmig
 - Votering over Andreassens tilleggsforslag 'Stanse innkjøp/innfasing av elektriske kjøretøy'
   - Andreassens tilleggsforslag: 6 stemmer
   - Motforslag (avslag): 61 stemmer

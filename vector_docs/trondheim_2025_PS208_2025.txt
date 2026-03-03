@@ -28,6 +28,6 @@ Voteringer:
   - For Flåtts tilleggsforslag: 52 stemmer
   - Mot Flåtts tilleggsforslag: 15 stemmer
 - Votering over Naper Salomonsens tilleggsforslag.
-  - For Naper Salomonsens tilleggsforslag: enstemmig stemmer
+  - For Naper Salomonsens tilleggsforslag: enstemmig
 - Alternativ votering mellom innstillingen og Ramos fellesforslag.
-  - Ramos fellesforslag: enstemmig stemmer
+  - Ramos fellesforslag: enstemmig

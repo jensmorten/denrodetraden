@@ -45,7 +45,15 @@ def build_document(data):
         for v in data["voteringer"]:
             parts.append(f"- {v.get('beskrivelse')}")
             for alt in v.get("alternativer", []):
-                parts.append(f"  - {alt['navn']}: {alt['stemmer']} stemmer")
+                stemmer = alt.get("stemmer")
+                if stemmer is None:
+                    stemmer_str = "ukjent"
+                elif isinstance(stemmer, int):
+                    stemmer_str = f"{stemmer} stemmer"
+                else:
+                    stemmer_str = str(stemmer)
+
+                parts.append(f"  - {alt.get('navn', 'Ukjent')}: {stemmer_str}")
 
     return "\n".join(parts)
 

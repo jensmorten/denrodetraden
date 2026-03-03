@@ -1,0 +1,43 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 13/26
+rodt_fremmet: False
+---
+
+Tittel: Anmodning om bosetting av flyktninger i 2026
+
+Vedtak:
+Innstillingens pkt 1 vedtatt.
+Innstillingens pkt 2 og 4 enstemmig vedtatt.
+Alternativ pkt 3 vedtatt.
+Innstillingens pkt 5 vedtatt.
+
+Alternative forslag:
+- Nils Heldal (SV) på vegne av SV, R, MDG, Ap: Trondheim kommune har kapasitet til å ta imot 600 flyktninger hvorav 35 enslige mindreårige, og imøtekommer med dette IMDis anmodning.
+- Nils Heldal (SV) på vegne av SV, R: Ved økt nasjonalt behov og ytterligere anmodninger ber bystyret byrådet fremme en ny sak for bystyret slik at vi kan vurdere bosettinger av flere flyktninger.
+- Elin Marie Andreassen (FrP): Bystyret ber om at byrådet fremover legger til grunn resultater og måloppnåelse gjennom integreringsbarometeret, for vurderingen av hvor mange flyktninger som skal bosettes hvert år.
+- Elin Marie Andreassen (FrP): Bystyret ber byrådet se fremtidige tall for bosetting i sammenheng med hvor mange bosatte flyktninger som klarer seg uten offentlige ytelser etter 5 års opphold.
+- Haakon Gussiaas (H): Å finansiere bosetting av flyktninger er en statlig oppgave. Regjeringen har de siste årene redusert bevilgningene til kommunene og Beregningsutvalgets rapporter (publisert av IMDi) viser at kommunenes kostnader ikke lenger fullfinansieres. Bystyret ber derfor byrådet gå i dialog med regjeringen og IMDi for å vurdere justeringer i integreringstilskudd, slik at det blir bedre samsvar mellom kostnader og statlige overføringer. Etter kommunens vurdering vil økt samsvar bidra til forutsigbarhet, god økonomistyring og bedre kvalitet i integreringsarbeidet.
+
+Voteringer:
+- Alternativ votering mellom innstillingens pkt 1 og 'Alternativ pkt 1'.
+  - Innstillingen pkt 1: 34 stemmer
+  - Alternativ pkt 1: 33 stemmer
+- Alternativ votering mellom innstillingens pkt 3 og 'Alternativ pkt 3'.
+  - Innstillingen pkt 3: 31 stemmer
+  - Alternativ pkt 3: 36 stemmer
+- Votering om innstillingens pkt 5.
+  - For innstillingens pkt 5: 41 stemmer
+  - Mot innstillingens pkt 5: 25 stemmer
+- Votering om innstillingens pkt 2 og 4.
+  - Enstemmig vedtatt: alle
+- Votering om tilleggsforslaget Andreassen 'Legge til grunn integreringsbarometer og handlingsplan'.
+  - For: 5 stemmer
+  - Mot: 62 stemmer
+- Votering om tilleggsforslaget Andreassen 'Bosetting og offentlige ytelser må ses i sammenheng'.
+  - For: 5 stemmer
+  - Mot: 62 stemmer
+- Votering om Gussiaas tilleggsforslag 'Staten bør fullfinansiere bosetting av flyktninger'.
+  - For: 27 stemmer
+  - Mot: 40 stemmer

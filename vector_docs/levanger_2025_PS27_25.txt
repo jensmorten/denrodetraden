@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 27/25
+rodt_fremmet: False
+---
+
+Tittel: PS 27/25 Årsregnskap 2024 Levanger Arena KF
+
+Vedtak:
+Levanger Arena KFs årsregnskap og årsberetning for 2024 vedtas.
+
+Voteringer:
+- Votering over innstilling om å vedta Levanger Arena KFs årsregnskap og årsberetning for 2024
+  - For: 35 stemmer

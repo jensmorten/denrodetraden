@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/073
+rodt_fremmet: False
+---
+
+Tittel: 25/073 Salg av kommunal eiendom på Valsneset til Fosenkraft AS
+
+Vedtak:
+Ordfører gis fullmakt til å signere vedlagt salgskontrakt mellom Ørland kommune og FosenKraft. Salget har verdi på kr 15 724 000 (endelig beløp fastsettes etter oppmåling).
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskap - 08.05.2025
+  - For: 24 stemmer
+  - Mot: 0 stemmer

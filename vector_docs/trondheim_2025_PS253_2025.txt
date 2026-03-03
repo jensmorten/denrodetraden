@@ -1,0 +1,113 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 253/2025
+rodt_fremmet: True
+---
+
+Tittel: Mobilitetsanbud i Trondheim 2029-2039 - utredning og videre arbeid
+
+Vedtak:
+Innstillingen unntatt punkt 1, 2 og 5 ble enstemmig vedtatt.
+Ved alternativ votering mellom innstillingen punkt 1 og forslag fra SP ble SPs forslag vedtatt med 57 stemmer mot 10 stemmer.
+Ved alternativ votering mellom innstillingen punkt 2 og forslag fra FrP ble innstillingen vedtatt med 62 stemmer mot 5 stemmer.
+Aps forslag stryk punkt 5 fikk 21 stemmer mot 46 stemmer og falt.
+Innstillingen punkt 5 a ble vedtatt med 49 stemmer mot 18 stemmer.
+Innstillingens punkt 5 b ble vedtatt med 37 stemmer mot 30 stemmer.
+Nordaunes alternative forslag til punkt 5 b fikk 30 stemmer mot 37 stemmer og falt.
+FrPs forslag punkt 5c strykes fikk 28 stemmer mot 39 stemmer og falt.
+Ramos alternativ punkt 5 c ble vedtatt med 49 stemmer mot 18 stemmer.
+Innstillingens punkt 5 c fikk 12 stemmer mot 55 stemmer og falt.
+Innstillingens punkt 5d ble vedtatt med 37 stemmer mot 30 stemmer.
+Innstilligens punkt 5 andre avsnitt ble enstemmig vedtatt.
+Tømmervolds alternativ forslag "Punkt strykes" fikk 30 stemmer mot 37 stemmer og falt.
+Ved alternativ votering mellom Innstillingen punkt 5 tredje avsnitt og forslag fra R ble innstillingen vedtatt med 52 stemmer mot 15 stemmer.
+Innstillingens punkt 5 fjerde avsnitt fikk 6 stemmer mot 61 stemmer og falt.
+Tillleggsforslag fra Fjørtoft Svarstad ble vedtatt med 37 stemmer mot 30 stemmer.
+Tillleggsforslag fra Nordaune "Skinnegående transport" ble vedtatt med 35 stemmer mot 32 stemmer.
+Tillleggsforslag fra Nordaune "Utvidet nattbuss" fikk 31 stemmer mot 36 stemmer og falt.
+Tillleggsforslag Fjørtoft Svarstad "Bussen i egenregi" fikk 13 stemmer mot 54 stemmer og falt.
+Tillleggsforslag Aastrøm nytt punkt ble enstemmig vedtatt.
+Ramos forslag del 1 første setning ble vedtatt med 37 stemmer mot 30 stemmer.
+Ramos forslag del 2 andre setning ble vedtatt med 49 stemmer mot 18 stemmer.
+
+Alternative forslag:
+- Arild Belsås Svendsli (FrP): Punkt 5c i innstillingen strykes.
+- Kirsti Tømmervold (Ap): Hele punkt 5 strykes.
+- Kirsti Tømmervold (Ap): Følgende punkt strykes: Avtalen om bussdepot på Sorgenfri sies opp umiddelbart, slik at fylkeskommunen har tid til å finne alternativ lokasjon.
+- Magni Fjørtoft Svarstad (R): Trondheim kommune ber om at det når kontraktsstrategien skal legges, vektes at bedriftene har hele faste stillinger og gode løsninger for å rekruttere ansatte. Kontraktsstrategien skal utarbeides med god involvering av berørte parter, spesielt tillitsvalgte og verneombud, når mobilitetstilbudene styrkes og utvikles.
+- Jenny Nordaune (SV): Bystyret ber om at det videre arbeidet med mobilitetsanbudet også inkluderer løsninger for skinnegående kollektivtransport der både muligheten for utvidelse av eksisterende trikketilbud og etablering av nye linjer vurderes.
+- Jenny Nordaune (SV): Bystyret mener at kollektivtransporten skal være økonomisk tilgjengelig for alle. I det videre arbeidet med mobilitetsanbudet må det derfor legges til grunn at billettprisene reduseres.
+- Jenny Nordaune (SV) og Rødt: Bystyret ber om at det i det videre arbeidet med mobilitetsanbudet arbeides for å utvide nattbusstilbudet.
+- Mats Ulseth Ramo (H): Nåværende punkt 5c strykes og erstattes med nytt punkt 5c: Miljøpakken åpner for å bevilge midler fra utvidet bompengeinnkreving til 2033. Dette kan gjøres ved å vurdere å utsette enkeltprosjekter, eller utrede om behov kan løses på andre og rimeligere måter.
+- Mats Ulseth Ramo (H), MDG, V, KrF: Følgende setning strykes: “Avtalen om bussdepot på Sorgenfri sies opp umiddelbart, slik at fylkeskommunen har tid til å finne alternativ lokasjon.” Og erstattes av følgende setning: “Bystyret ber byrådet om å si opp avtalen om leie av bussdepot slik at avtalen er opphørt ved avtaleperiodens utløp. Byrådet kan fornye avtalen for kortere tidsperioder dersom det er reell fremdrift i arbeidet med å etablere et nytt bussdepot på arealmed avsatt arealformål.”
+- Vegard Frøseth Fenes (SP): 1. Kollektivtilbudet er viktig for å styrke verdiskapingen og sikre inkluderende og miljøvennlig mobilitet i Trondheim. Det er også et premiss for at vi skal ha et godt alternativ til privatbilen når vi skal reise i kommunen vår. Bystyret mener det er viktig at kollektivtilbudet ikke forringes i det neste anbudet fra 2029, men at det må styrkes.
+- Arild Belsås Svendsli (FrP): Bystyret ber om at nullalternativet legges til grunn for mobilitetsanbudet 2029.
+- Magni Fjørtoft Svarstad (R): Bystyret mener at å organisere kollektivtilbudet i egenregi styrker kvaliteten og er en mer styringseffektiv organisering enn dagens anbudsrunder.
+- Magnus Aastrøm (Ap) og Rødt: Bystyret ber om at trygghet, sikkerhet, og beredskap er områder som prioriteres i arbeidet med det nye anbudet. Sikkerheten for sjåfører og passasjerer må være ivaretatt, og kollektivtransportens rolle i sivil transportberedskap må hensyntas både med tanke på vognmateriell, tekniske systemer, og i kontraktsutforming.
+- Jenny Nordaune (SV) og Rødt: Bystyret ber om at det legges til grunn for det videre arbeidet med mobilitetsanbudet at Trondheim skal ha to bussdepot.
+
+Voteringer:
+- Votering om innstillingen unntatt punkt 1, 2 og 5
+  - For: enstemmig
+- Alternativ votering mellom innstillingen punkt 1 og forslag fra SP
+  - SPs forslag: 57 stemmer
+  - Innstillingen punkt 1: 10 stemmer
+- Alternativ votering mellom innstillingen punkt 2 og forslag fra FrP
+  - Innstillingen punkt 2: 62 stemmer
+  - FrPs forslag: 5 stemmer
+- Votering om Aps forslag stryk punkt 5
+  - Aps forslag: 21 stemmer
+  - Mot: 46 stemmer
+- Votering om innstillingen punkt 5 a
+  - For: 49 stemmer
+  - Mot: 18 stemmer
+- Votering om innstillingen punkt 5 b
+  - For: 37 stemmer
+  - Mot: 30 stemmer
+- Votering om Nordaunes alternative forslag til punkt 5 b
+  - Nordaunes forslag: 30 stemmer
+  - Mot: 37 stemmer
+- Votering om FrPs forslag punkt 5c strykes
+  - For: 28 stemmer
+  - Mot: 39 stemmer
+- Votering om Ramos alternativ punkt 5 c
+  - For: 49 stemmer
+  - Mot: 18 stemmer
+- Votering om innstillingens punkt 5 c
+  - For: 12 stemmer
+  - Mot: 55 stemmer
+- Votering om innstillingens punkt 5d
+  - For: 37 stemmer
+  - Mot: 30 stemmer
+- Votering om innstillingens punkt 5 andre avsnitt
+  - For: enstemmig
+- Votering om Tømmervolds alternativ forslag "Punkt strykes"
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Alternativ votering mellom Innstillingen punkt 5 tredje avsnitt og forslag fra R
+  - Innstillingen: 52 stemmer
+  - R-forslag: 15 stemmer
+- Votering om innstillingens punkt 5 fjerde avsnitt
+  - For: 6 stemmer
+  - Mot: 61 stemmer
+- Votering om tillleggsforslag fra Fjørtoft Svarstad
+  - For: 37 stemmer
+  - Mot: 30 stemmer
+- Votering om tillleggsforslag fra Nordaune "Skinnegående transport"
+  - For: 35 stemmer
+  - Mot: 32 stemmer
+- Votering om tillleggsforslag fra Nordaune "Utvidet nattbuss"
+  - For: 31 stemmer
+  - Mot: 36 stemmer
+- Votering om tillleggsforslag Fjørtoft Svarstad "Bussen i egenregi"
+  - For: 13 stemmer
+  - Mot: 54 stemmer
+- Votering om tillleggsforslag Aastrøm nytt punkt
+  - For: enstemmig
+- Votering om Ramos forslag del 1 første setning
+  - For: 37 stemmer
+  - Mot: 30 stemmer
+- Votering om Ramos forslag del 2 andre setning
+  - For: 49 stemmer
+  - Mot: 18 stemmer

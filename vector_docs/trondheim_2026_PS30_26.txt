@@ -1,0 +1,284 @@
+METADATA:
+kommune: trondheim
+year: 2026
+saksnummer: PS 30/26
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg til utvalgene
+
+Vedtak:
+Ved alternativ votering mellom innstillingen og Dyrendahls alternative forslag, ble Dyrendahls forslag enstemmig vedtatt.
+
+Alternative forslag:
+- Tore Dyrendahl (MDG): Endringer H og MDG
+Byutviklingsutvalget
+Medlemmer fra (SH+FrP)
+1. Elin Marie Andreassen (FrP) - leder
+2. Berit Tiller (H)
+3. Nina Westad(H)
+4. Radino Mahendra(H)
+5. Jørn Erik Berg (H)
+6. Kjetil Utne (H)
+7. Ola Lund Renolen MDG
+8. Erling Moe (V)
+Medlemmer fra (Ap/SV/R/uavh)
+9. Jørn Arve Flått (Ap)
+10. Roar Aas (Ap)
+11. Trude Basso (Ap)
+12. Edvin Helland (Ap)
+13. Silje Naper Salomonsen (SV) - nestleder
+14. Even Næss Bergseng (SV)
+15. Merethe Letnes Ødegård (uavh)
+Vara fra: (SH+FrP)
+For 1:
+Arild Belsås Svendsli (FrP)
+Viole Stene Grøtte (FrP) Reidar Albertsen (FrP)
+For 2-6: Knut Efskin (H)
+Anna Konstanse Almli (H)
+Trude Sjøhagen Nordgaard (H)
+Daniel Whittle Stensland (H)
+Lindy Jarosch-Von Schweder (H)
+Torkel Ranum (H)
+Lise Remen Horneman Wist (H)
+For 7: Astrid Rem (MDG)
+Thomas Sakshaug (MDG)
+Ivar Henry Larsen (MDG)
+For 8:
+Eric Christian Monsen (V)
+Ståle Gjersvold (V)
+Marie Jacobsen Lauvås (V)
+Vara fra (AP/SV/R/uavh)
+For 9-12:
+Kristian Lian (Ap)
+Peder Winsnes (Ap)
+Astrid Grendstad (Ap)
+Marita Tveit Hansen (Ap)
+For 13-14:
+Bisma Aleem (SV)
+Åshild Tungen (SV)
+Elin Wullum (SV)
+Iben Jonathan Moum (SV)
+Mariel Kjønnøy (R)
+For 15:
+Tarjei Fiske Fjalestad (R)
+Terje Kulvik (U)
+Marianne Tellefsen (U)
+Finans- og organisasjonsutvalget
+Medlemmer fra (SH+FrP)
+1. Morten Kokaas (PP) - leder
+2. Aurora Meland Winger (MDG)
+3. Ellisiv Hårstad Skjei (V),
+4. Therese Bjørstad Karlsen (H)
+5. Sebastian Johansen (H)
+6. Christianne Bauck Larssen (H)
+7. Jomar Aftret (FrP) Medlemmer fra (AP/SV/R/uavh)
+8. Emil Raaen (Ap) Kristin Tinmannsvik (Ap) settemedlem når Raaen er ute
+9. Håkon Einarsve (Ap) Settenestleder når Raaen (Ap) er ute
+10. Maria Storrø (Ap)
+11. Annbjørg Horgar (SV)
+12. Nils Heldal (SV)
+13. Roald Arentz (R)
+Vara fra (SH+FrP)
+For 1:
+Terje Andersen (PP)
+Elizabeth Berg Moan (PP)
+Lise Julianne Sandvik (PP)
+For 2:
+Ingunn Moen (MDG)
+Elise Eikrem Rindarøy (MDG)
+Thomas Sakshaug (MDG)
+For 3:
+Ståle Gjersvold (V)
+Eric Monsen (V)
+Ask Ibsen Lindal (V)
+For: 4-6:
+Ann Karin Larssen (SP)
+Geir Arne Aune Hovd (H)
+Torkel Ranum (H)
+Lise Kaspersen (H)
+Christian Wiig (H)
+For 7:
+Viole Stene Grøtte (FrP)
+Arild Svendsli (FrP)
+Mona Røsnes (FrP)
+Vara fra (AP/SV/R/uavh)
+For 8-10:
+Magnus Aastrøm (Ap)
+Marita Tveit Hansen (Ap)
+Mats Monsen (Ap)
+Dina Marie Hoftsli Flått (Ap) velges inn fra 29.01.2026
+For 11-12:
+Silje Sandum (SV)
+Eirin Holm Rise (SV)
+Henriette Winnberg (SV)
+Guri Greger Nordland Hagen (SV)
+Åshild Tungen (SV)
+For 13:
+Kristin Engan Gylland (R)
+Tarje Fiske Fjalestad (R)
+Anniken Lien van Marion (R)
+Oppvekst- og kulturutvalget (11 medl.)
+Medlemmer fra (SH+FrP)
+1. Majen Sævik (KrF) - leder
+2. Guro Holm Skillingstad (V)
+3. Tone Dorthe Sletten (H)
+4.Olav Noteng (H)
+5. Michael Momyr (H)
+6. Ove Vollan(H)
+Medlemmer fra (Ap/SV/R/uavh)
+7. Sara Shafighi (Ap)
+8. Leon Bafondoko (Ap)
+9. Karim Tahir (Ap)
+10. Efia Marie Damba (SV)
+11. Ottar Michelsen (SV
+Varaer fra (SH+FrP)
+For 1: Solveig Bratseth (KrF)
+Alexander Mentzoni (KrF)
+Arne Ivar Denstad (KrF)
+For 2:
+Hanne Moe Reitan (V)
+Marthe Strickert (V)
+Vera Wigum (V)
+For 3-6:
+Børre Lien (H)
+Lise Wist (FrP)
+Haldor Buan Grendstad (SP)
+Lise Kaspersen (H)
+Daniel Whittle Stensland (H)
+Gerd Wold (H)
+Varaer fra (Ap/SV/R/uavh)
+For 7-9:
+Terje Jentoft Roel (Ap)
+Mads Hoff (Ap)
+Mats Monsen (Ap)
+Irene Renate Aunaas (Ap)
+For 10-11:
+Anny Marethe Vollan (SV)
+Iben Jonathan Moum (SV)
+Isabella Baptista Jørgensen (SV)
+Tarjei Fiske Fjalestad (R)
+Elin Wullum (SV)
+Valgstyret
+1.Ordfører Erling Moe (V)
+2. Varaordfører Gro Eide (H)
+3. Tore Dyrendahl (MDG)
+4. Berit Tiller (H) Mats Ulseth Ramo (H) velges som settemedlem for Tiller (H) 29.01.2026
+5. Emil Raaen (Ap) Flått velges som settemedlem for Raaen (Ap) 29.01.2026
+6. Sara Shafigi (Ap) 7.Silje Salomalsen (SV)
+Varamedlemmer for 1-4:
+Elin Marie Andreassen (FrP)
+Vegard Fenes (SP)
+Morten Kokaas (PP)
+Majen Sævik (KrF)
+Christianne Bauck-Larssen (H)
+Maria Alseth (FrP)
+Varamedlemmer for: 5-6:
+Håkon Einarsve (AP)
+Sigurd Jan Ingvaldsen (AP)
+Sissel Trønsdal (AP)
+Anita Børstad (AP)
+Varamedlemmer for 7:
+Roald Arentz (R)
+Mona Berger (SV)
+Ottar Michelsen (SV)
+Samevalgstyret
+1. Ordfører Erling Moe (V)
+2. Varaordfører Gro Eide (H)
+3. Tore Dyrendahl (MDG)
+4. Berit Tiller (H) Mats Ulseth Ramo (H) velges som settemedlem for Tiller (H) 29.01.2026
+5. Emil Raaen (AP) Her velges Flått som settemedlem 29.01.2026
+6. Sara Shafigi (AP) 7.Silje Salomalsen (SV)
+Varamedlemmer for 1-4:
+Elin Marie Andreassen (FrP)
+Vegard Fenes (SP)
+Morten Kokaas (PP)
+Majen Sævik (KrF)
+Christianne Bauck-Larssen (H)
+Maria Alseth (FrP)
+Varamedlemmer for: 5-6:
+Håkon Einarsve (AP)
+Sigurd Jan Ingvaldsen (AP)
+Sissel Trønsdal (AP)
+Anita Børstad (AP)
+Varamedlemmer for 7:
+Roald Arentz (R)
+Mona Berger (SV)
+Ottar Michelsen (SV)
+Karanteneutvalget
+1. Ordfører Erling Moe (V)
+2. Varaordfører Gro Eide (H)
+3. Tore Dyrendahl (MDG)
+4. Berit Tiller (H) Mats Ulseth Ramo (H) velges som settemedlem for Tiller (H) 29.01.2026
+5. Emil Raaen (Ap) Jørn Arve Flått (Ap) velges som settemedlem for Raaen (Ap) 29.01.2026
+6. Sara Shafigi (Ap)
+7.Silje Salomalsen (SV)
+Varamedlemmer for 1-4:
+Elin Marie Andreassen (FrP)
+Vegard Fenes (SP)
+Morten Kokaas (PP)
+Majen Sævik (KrF)
+Christianne Bauck-Larssen (H)
+Maria Alseth (FrP)
+Varamedlemmer for: 5-6:
+Håkon Einarsve (AP)
+Sigurd Jan Ingvaldsen (AP)
+Sissel Trønsdal (AP)
+Anita Børstad (AP)
+Varamedlemmer for 7:
+Roald Arentz (R)
+Mona Berger (SV)
+Ottar Michelsen (SV)
+Administrasjonsutvalget
+1. Vegard Frøset Fenes (SP) - leder
+2. Varaordfører Gro Eide (H)
+3. Tore Dyrendahl (MDG)
+4. Berit Tiller (H) Mats Ulseth Ramo (H) settemedlem for Tiller 29.01.2026
+5. Emil Raaen (AP) nestleder - her velges Flått (Ap) for Raaen den 29.01.2026
+6. Sara Shafigi (Ap) velges som settenestleder 29.01.2026
+7. Silje Salomalsen (SV)
+Varamedlemmer for 1-4:
+Elin Marie Andreassen (FrP)
+Ann-Karin Larssen (SP)
+Morten Kokaas (PP)
+Majen Sævik (KrF)
+Christianne Bauck-Larssen (H)
+Maria Alseth (FrP)
+Varamedlemmer for: 5-6:
+Håkon Einarsve (AP)
+Sigurd Jan Ingvaldsen (AP)
+Sissel Trønsdal (AP)
+Anita Børstad (AP)
+Varamedlemmer for 7:
+Roald Arentz (R)
+Mona Berger (SV)
+Ottar Michelsen (SV)
+Klageutvalget
+1. Vegard Frøseth Fenes (SP) - leder
+2. Varaordfører Gro Eide (H)
+3. Tore Dyrendahl (MDG)
+4. Berit Tiller (H) Mats Ulseth Ramo (H) settemedlem for Tiller 29.01.2026
+5. Emil Raaen (AP) her velges Flått som settemedlem 29.01.2026
+6. Sara Shafigi (AP)
+7. Silje Naper Salomalsen (SV) nestleder
+Varamedlemmer for 1-4:
+Elin Marie Andreassen (FrP)
+Ann-Karin Larssen (SP)
+Morten Kokaas (PP)
+Majen Sævik (KrF)
+Christianne Bauck-Larssen (H)
+Maria Alseth (FrP)
+Varamedlemmer for: 5-6:
+Håkon Einarsve (AP)
+Sigurd Jan Ingvaldsen (AP)
+Sissel Trønsdal (AP)
+Anita Børstad (AP)
+Varamedlemmer for 7:
+Roald Arentz (R)
+Mona Berger (SV)
+Ottar Michelsen (SV)
+
+Voteringer:
+- Ved alternativ votering mellom innstillingen og Dyrendahls alternative forslag
+  - Innstillingen: 0 stemmer
+  - Dyrendahls alternative forslag: enstemmig

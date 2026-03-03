@@ -1,0 +1,27 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 19/25
+rodt_fremmet: False
+---
+
+Tittel: Framtidas helse i Levanger kommune - konseptvalgutredning
+
+Vedtak:
+Konseptvalgrapporten tas til orientering.
+Kommunedirektøren bes fortsette arbeidet med realisering av Staup 2 (nye Staup helsehus) i tråd med redegjørelsen i konseptvalgrapportens kap. 3 med følgende anbefalinger i kap. 3.6 punkt 1-5:
+Kommunedirektøren bes fortsette arbeidet med realisering av ny omsorgsbase og boliger for personer med nedsatt funksjonsevne i tråd med redegjørelsen i konseptvalgrapportens kap. 4 med følgende anbefalinger i kap. 4.7 punkt 1-6:
+Kommunedirektøren bes fortsette arbeidet med realisering av nye lokaler for dagaktivitetstilbud for et økt antall brukere i lokaler i Skogn helsetun i tråd med redegjørelsen i konseptvalgrapportens kap. 5 med følgende anbefalinger i kap. 5.4 punkt 1-3:
+Kommunedirektøren bes fortsette arbeidet å undersøke muligheten for å etablere nye Staup helsehus som universitetssykehjem i tråd med konseptvalgrapportens kap. 6.
+Kommunedirektøren bes i det videre arbeidet ha tydelig fokus på teknologiske løsninger og undersøke og beregne kost-nytte av slike løsninger.
+Investeringer i helseteknologi må skje i tett samarbeid med DIKO og ses i en regional sammenheng, jf. konseptvalgrapportens kap. 7.
+I arbeidet med Fremtidas helse skal politikerne holdes jevnlig oppdatert om økonomiske konsekvenser. Kommunedirektøren skal sikre kostnadseffektive løsninger som bidrar til å nå målene for gevinst 24/7.
+
+Alternative forslag:
+- Andreas Jenssen Hjelmstad (Høyre): Pkt 7. I arbeidet med Fremtidas helse skal politikerne holdes jevnlig oppdatert om økonomiske konsekvenser. Kommunedirektøren skal sikre kostnadseffektive løsninger som bidrar til å nå målene for gevinst 24/7.
+
+Voteringer:
+- Votering over innstillingen
+  - For: 34 stemmer
+- Votering over tilleggsforslaget fra Andreas Jenssen Hjelmstad (Høyre)
+  - For: 34 stemmer

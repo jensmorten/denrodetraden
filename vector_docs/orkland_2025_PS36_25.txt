@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 36/25
+rodt_fremmet: False
+---
+
+Tittel: Orklandbadet KF - regnskap og årsberetning 2024
+
+Vedtak:
+Kommunestyret vedtar regnskapet for Orklandbadet KF for 2024 med et positivt netto driftsresultat på 2 556 986 kroner. Regnskapet er gjort opp i balanse og netto driftsresultat er disponert i henhold til følgende: Overføring til investering 18 960 kroner, Avsetning til disposisjonsfond 2 556 986 kroner, Bruk av disposisjonsfond -18 960 kroner, Sum disponering av resultat 2 556 986 kroner
+
+Voteringer:
+- Votering i Formannskap 13.05.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 20.05.2025
+  - Formannskapets innstilling: enstemmig

@@ -1,0 +1,33 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/162
+rodt_fremmet: False
+---
+
+Tittel: Valg til styret til Margrethe og Martin Skarets Legat STI
+
+Vedtak:
+Følgende velges som medlemmer i styret:
+Hallgeir Grøntvedt
+Mona Sjøli
+Marit Slett
+Britt Eli Døsvik
+Eirik Lundemo
+Fredrik Sandness
+Ingvild Wik Solberg
+Varamedlemmer:
+Ole Petter Grøntvedt
+Thomas Hovde
+Jan-Inge Standahl
+Ann Elisabeth Solbue Valaas
+Oda Kristine Leth Jøssing
+Gunnar Hofstad
+Therese Mossing Eidsaune
+Harriet Brekstad
+Tina Marie Rødde Paulsen
+Hugo Solheim
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 31 stemmer

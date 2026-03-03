@@ -1,0 +1,24 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 43/25
+rodt_fremmet: False
+---
+
+Tittel: Investeringssaker 2025 - Polititjenestested, Ytterøy skole - gulv, tiltak i Trønderhallen og bolig i Markabygda
+
+Vedtak:
+1.Følgende investeringer vedtas:
+Prosjekt Sum kroner inkl mva
+Polititjeneste sted 2 500 000 Levanger
+Gulv gymsal 500 000 Ytterøy skole/samfunnshus
+Trønderhallen, 4 tiltak:
+-Utbedring 750 000 brannvegg
+-Etablering 250 000 branncelle for lading HC-innebandybiler
+Utbedringer 375 000 dagtilbud helse i Markabygda
+Totalsum 4 375 000
+2.Tiltakene finansieres med ubrukte lånemidler kr. 4 000 000,- og mva-kompensasjon kr. 375.000,-.
+
+Voteringer:
+- Votering over innstillingen til investeringssaker 2025
+  - For: 35 stemmer

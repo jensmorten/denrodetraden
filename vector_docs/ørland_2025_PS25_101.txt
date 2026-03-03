@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/101
+rodt_fremmet: False
+---
+
+Tittel: Uttreden og valg av nytt styremedlem og styreleder for Roret Ørland kulturforetak KF
+
+Vedtak:
+Kirsti Leirtrø foreslås som ny fast styreleder i Roret KF.
+
+Alternative forslag:
+- Fredrik Sandness, Arbeiderpartiet: Kirsti Leirtrø foreslås som ny fast styreleder i Roret KF
+
+Voteringer:
+- Votering over forslag - Nytt forslag fra Ørland Arbeiderparti
+  - For: 29 stemmer
+  - Mot: 0 stemmer

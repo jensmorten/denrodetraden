@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 2/25
+rodt_fremmet: False
+---
+
+Tittel: Revidert samarbeidsavtale mellom kommunene og Helse Nord-Trøndelag
+
+Vedtak:
+Samarbeidsavtalen vedtas slik den foreligger.
+
+Voteringer:
+- Avstemming over innstillingen om å vedta samarbeidsavtalen slik den foreligger.
+  - For: 35 stemmer

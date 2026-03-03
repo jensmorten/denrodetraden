@@ -1,0 +1,35 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 24/25
+rodt_fremmet: True
+---
+
+Tittel: Høringsuttalelse fra Orkland kommune vedrørende energistrategi for Trøndelag mot 2050
+
+Vedtak:
+Kommunestyret gir følgende innspill til energistrategi for Trøndelag mot 2050:
+• Trøndelags energistrategi må ha en klarere ambisjon for omstilling til og utbygging av fornybar energi.
+• Handlingsdelen må omarbeides slik at den kun omfatter konkrete tiltak og ikke målsettinger. Som eksempel er utbygging av 3 TWh ekstra fornybar energi innen 2035 ikke et tiltak, men et mål. Virkemidler for å nå dette målet må spesifiseres i handlingsdelen,
+• Handlingsdelen bør struktureres slik at den skiller mellom tiltak fylkeskommunen skal gjennomføre og tiltak andre skal gjennomføre med fylkeskommunen i en koordinerende eller veiledende rolle. Kraftproduksjon er en oppgave som er større enn den enkelte kommune og en konkret rolle for fylkeskommunen kan være å koordinere mellom kommunene.
+• Flere kommuner, som Orkland, har store ambisjoner for energiomstillingen. Fylkeskommunen bør utfordre kommunene til å gjennomføre konkrete bidrag for å styrke Trøndelags samlede innsats og dermed gi enda bedre oversikt over mulige virkemidler og effekten av disse.
+• Særlig kommuner med høyt energiforbruk per innbygger må oppfordres til å gjennomføre tiltak som støtter opp om et fornybart energisystem. Det kan skje ved å avsette områder for ny produksjon, gjennom å redusere sløsing/forbedre effektivitet og ved å legge til rette for investeringer i infrastruktur som støtter opp om et fornybart energisystem. Kjernekraft anses i denne sammenheng som fornybar.
+• Tilgang på fornybar energi er blitt en knapp ressurs - det er viktig å prioritere hva energien skal brukes til og samtidig prioritere bort hva den ikke skal brukes til. Det er viktig å være bevisst på at fornybar energi som brukes til næring skal gi verdiskapning og arbeidsplasser i Norge.
+
+Alternative forslag:
+- AP, H, SMP, SV og V ved Hans Kringstad: • Trøndelags energistrategi må ha en klarere ambisjon for omstilling til og utbygging av fornybar energi.
+• Handlingsdelen må omarbeides slik at den kun omfatter konkrete tiltak og ikke målsettinger. Som eksempel er utbygging av 3 TWh ekstra fornybar energi innen 2035 ikke et tiltak, men et mål. Virkemidler for å nå dette målet må spesifiseres i handlingsdelen,
+• Handlingsdelen bør struktureres slik at den skiller mellom tiltak fylkeskommunen skal gjennomføre og tiltak andre skal gjennomføre med fylkeskommunen i en koordinerende eller veiledende rolle. Kraftproduksjon er en oppgave som er større enn den enkelte kommune og en konkret rolle for fylkeskommunen kan være å koordinere mellom kommunene.
+• Flere kommuner, som Orkland, har store ambisjoner for energiomstillingen. Fylkeskommunen bør utfordre kommunene til å gjennomføre konkrete bidrag for å styrke Trøndelags samlede innsats og dermed gi enda bedre oversikt over mulige virkemidler og effekten av disse.
+• Særlig kommuner med høyt energiforbruk per innbygger må oppfordres til å gjennomføre tiltak som støtter opp om et fornybart energisystem. Det kan skje ved å avsette områder for ny produksjon, gjennom å redusere sløsing/forbedre effektivitet og ved å legge til rette for investeringer i infrastruktur som støtter opp om et fornybart energisystem. Kjernekraft anses i denne sammenheng som fornybar.
+• Tilgang på fornybar energi er blitt en knapp ressurs - det er viktig å prioritere hva energien skal brukes til og samtidig prioritere bort hva den ikke skal brukes til. Det er viktig å være bevisst på at fornybar energi som brukes til næring skal gi verdiskapning og arbeidsplasser i Norge.
+- Rødt ved Peter Verme: Rødt fremmer flertallets forslag, minus kulepunkt fem:
+• Særlig kommuner med høyt energiforbruk per innbygger må oppfordres til å gjennomføre tiltak som støtter opp om et fornybart energisystem. Det kan skje ved å avsette områder for ny produksjon, gjennom å redusere sløsing/forbedre effektivitet og ved å legge til rette for investeringer i infrastruktur som støtter opp om et fornybart energisystem. Kjernekraft anses i denne sammenheng som fornybar.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling i Formannskapet 18.03.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering over forslag i Kommunestyret 25.03.2025
+  - Formannskapets innstilling: 0 stemmer
+  - Forslag fra AP, H, SMP, SV og V: 33 stemmer
+  - Forslag fra Rødt: 10 stemmer

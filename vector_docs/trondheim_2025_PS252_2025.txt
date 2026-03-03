@@ -1,0 +1,31 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 252/2025
+rodt_fremmet: False
+---
+
+Tittel: Finansieringsmodell for lærlingeordningen i Trondheim kommune
+
+Vedtak:
+1. Trondheim kommune opprettholder måltall på årlig inntak av 200 lærlinger.
+2. Egenandelsordningen videreføres som finansieringsmodell for de gjeldende enhetene. Før økningen av egenandelen belastes enhetene , bør man forsøke å forhandle med fylkeskommune og/ eller andre aktuelle aktører for å finne mulige løsninger for delfinansiering. Dersom dette ikke fører frem økes egenandelen for å dekke finansieringsbehovet for måltallet på 200 lærlinger.
+3. For å sikre et tilstrekkelig antall læreplasser, innføres en lærlingenorm for kommunens virksomhetsområder som omfattes av egenandelsordningen. Lærlingenormen skal gjelde for virksomhetsområdene på overordnet nivå.
+
+Alternative forslag:
+- Majen Helen Sævik (KrF) på vegne av KrF, H, MDG, PP, SP, V: Pkt 2: Egenandelsordningen videreføres som finansieringsmodell for de gjeldende enhetene. Før økningen av egenandelen belastes enhetene , bør man forsøke å forhandle med fylkeskommune og/ eller andre aktuelle aktører for å finne mulige løsninger for delfinansiering. Dersom dette ikke fører frem økes egenandelen for å dekke finansieringsbehovet for måltallet på 200 lærlinger.
+- Erling Eide Hustvedt (Ap) på vegne av Ap, R, SV: 2. Egenandelsordningen videreføres som finansieringsmodell for de gjeldende enhetene. Egenandelen holdes på dagens nivå.
+- Vegard Frøseth Fenes (SP): 3. For å sikre et tilstrekkelig antall læreplasser, innføres en lærlingenorm for kommunens virksomhetsområder som omfattes av egenandelsordningen. Lærlingenormen skal gjelde for virksomhetsområdene på overordnet nivå.
+
+Voteringer:
+- Votering på innstillingens punkt 1
+  - For: enstemmig
+- Votering på innstillingens punkt 2
+  - For innstillingens punkt 2: 24 stemmer
+  - Mot innstillingens punkt 2: 43 stemmer
+- Alternativ votering mellom Sæviks fellesforslag og Eide Hustvedts forslag (pkt 2)
+  - Sæviks fellesforslag: 37 stemmer
+  - Eide Hustvedts forslag: 30 stemmer
+- Alternativ votering mellom innstillingens punkt 3 og SPs forslag
+  - SPs forslag: 36 stemmer
+  - Innstillingens punkt 3: 31 stemmer

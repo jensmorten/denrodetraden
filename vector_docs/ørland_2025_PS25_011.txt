@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/011
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål i forbindelse med kommunestyremøte
+
+Vedtak:
+Svar på spørsmålet ble referert for kommunestyret av ordfører.

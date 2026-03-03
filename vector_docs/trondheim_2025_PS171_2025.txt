@@ -19,6 +19,6 @@ Alternative forslag:
 
 Voteringer:
 - Votering over innstillingen.
-  - Innstillingen: enstemmig stemmer
+  - Innstillingen: enstemmig
 - Votering over tilleggsforslag fra Ramo (H) på vegne av H, R.
-  - Tilleggsforslag fra Ramo: enstemmig stemmer
+  - Tilleggsforslag fra Ramo: enstemmig

@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 312/25
+rodt_fremmet: False
+---
+
+Tittel: PS 312/2025 Fritaksøknad Robert Flataas (H)
+
+Vedtak:
+Bystyret innvilger Robert Flataas (H) fritak for følgende verv ut valgperioden:
+• Medlem bystyret
+• Medlem oppvekst- og kulturutvalget
+• Medlem Skoleutvalg Heimdal vgs
+• Varamedlem Høyre Trøndelag brann- og redningstjeneste, representantskapet
+
+Voteringer:
+- Votering om innstillingen om fritak for Robert Flataas (H)
+  - For innstillingen: enstemmig

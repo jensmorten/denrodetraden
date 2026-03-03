@@ -1,0 +1,37 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 28/25
+rodt_fremmet: False
+---
+
+Tittel: Samarbeidsavtale- St. Olavs hospital HF og kommunene- helsefelleskapet i søndre Trøndelag
+
+Vedtak:
+Kommunestyret i Orkland kommune inngår fremlagte Samarbeidsavtale - St. Olavs hospital HF og kommunene - helsefellesskapet i søndre Trøndelag, med tilhørende retningslinje «Samarbeid om innleggelse og utskrivelse av pasienter med behov for kommunale tjenester».
+I samarbeidsavtalens kapittel 5.1 Grunnleggende prinsipper for samhandlingen er det i siste setning unnlatt å differensiere mellom kommuner som har journalsystemet Helseplattormen og kommuner som ikke har det. Formuleringen der er slik:
+«Kommunene og sykehusene skal bidra i fellesskap til at Helseplattformen utvikles og implementeres på en formålstjenlig måte, med særlig vekt på gevinstrealisering for samhandling og brukeren».
+Samhandlingsavtalen vedtas under forutsetning av at denne formuleringen taes ut i og med at det er mange kommuner som ikke har eller skal ha Helseplattformen som løsning.
+Følgende formulering legges inn i avtalen:
+«Partene må bidra til at samhandlingsfunksjonalitet i nye løsninger blir så bra som mulig. Dette gjelder både elektroniske pasientjournaler, pasientadministrative systemer eller andre digitale løsninger/moduler som vil være hensiktsmessige i samhandlingen mellom kommuner, fastleger og sykehus»
+Begrunnelse:
+Forpliktelsen til å bidra til god pasient- og informasjonsflyt er uavhengig av hvilke systemer kommuner og sykehus velger som EPJ.
+
+Alternative forslag:
+- Hanne Nyhus, AP: I samarbeidsavtalens kapittel 5.1 Grunnleggende prinsipper for samhandlingen er det i siste setning unnlatt å differensiere mellom kommuner som har journalsystemet Helseplattormen og kommuner som ikke har det. Formuleringen der er slik:
+«Kommunene og sykehusene skal bidra i fellesskap til at Helseplattformen utvikles og implementeres på en formålstjenlig måte, med særlig vekt på gevinstrealisering for samhandling og brukeren».
+Samhandlingsavtalen vedtas under forutsetning av at denne formuleringen taes ut i og med at det er mange kommuner som ikke har eller skal ha Helseplattformen som løsning.
+Følgende formulering legges inn i avtalen:
+«Partene må bidra til at samhandlingsfunksjonalitet i nye løsninger blir så bra som mulig. Dette gjelder både elektroniske pasientjournaler, pasientadministrative systemer eller andre digitale løsninger/moduler som vil være hensiktsmessige i samhandlingen mellom kommuner, fastleger og sykehus»
+Begrunnelse:
+Forpliktelsen til å bidra til god pasient- og informasjonsflyt er uavhengig av hvilke systemer kommuner og sykehus velger som EPJ.
+
+Voteringer:
+- Behandling i Eldreråd 03.04.2025: Eldrerådet tar saken til orientering, og støtter innspill fra Kommunalt råd for mennesker med nedsatt funksjonsevne om supplering til punkt 2. Bakgrunn – ønsker pasientsikkerhet inntatt i siste setning.
+  - For: Enstemmig
+- Behandling i Hovedutvalg helse, oppvekst og kultur (2023-2027) 08.04.2025: Kommunedirektørens innstilling enstemmig vedtatt
+  - For: Enstemmig
+- Votering på endringsforslag fra Hanne Nyhus, AP i Kommunestyre 29.04.2025
+  - For endringsforslag: Enstemmig
+- Votering på innstilling fra hovedutvalg helse, oppvekst og kultur med vedtatt endringsforslag i Kommunestyre 29.04.2025
+  - For: Enstemmig

@@ -1,0 +1,31 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 244/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Revidering av kommunens etiske retningslinjer - Gjermund Gorset (AP)
+
+Vedtak:
+Innstillingen punkt 1 og 2 ble enstemmig vedtatt.
+Innstillingen punkt 3 fikk 3 stemmer (3 R) mot 64 stemmer (18 H, 17 Ap, 9 SV, 5 FrP, 4 MDG, 4 V, 3 PP, 2 Uavh. SP, KrF) og falt.
+Meland Winger forslag "Alternativ til punkt 3" ble vedtatt med 41 stemmer (17 Ap, 9 SV, 4 MDG, 4 V, 3 R, 2 PP, 2 Uavh.) mot 26 stemmer (18 H, 5 FrP, 1 PP Kokaas,SP, KrF).
+Horgar "Nytt punkt E om å vise ansvarlighet" ble vedtatt med 42 stemmer (18 H, 9 SV, 1 FrP Remen Horneman Wist, 4 MDG, 3 R, 1 PP Sandsør, Uavh. Letnes Ødegaard, KrF) mot 25 stemmer 17 Ap, 4 FrP, 2 PP, Uavh. Meland Winger, SP).
+
+Alternative forslag:
+- Aurora Meland Winger (Uavh.): Bystyret ber byrådet fortsette arbeidet med et åpenhetsregister.
+- Anbjørg Horgar (SV) på vegne av SV, R: Nytt punkt E: Å ta inn en formulering om å utvise ansvarlighet i forbindelse med alkoholbruk, særlig ved representasjon, sosiale arrangementer og reiser i regi av kommunen, for eksempel i avsnittet om kontakt med andre gjennom arbeid eller arbeidsrelaterte aktiviteter.
+
+Voteringer:
+- Votering over innstillingen punkt 1 og 2
+  - For: enstemmig
+- Votering over innstillingen punkt 3
+  - For: 3 stemmer
+  - Mot: 64 stemmer
+- Votering over Meland Winger forslag "Alternativ til punkt 3"
+  - For: 41 stemmer
+  - Mot: 26 stemmer
+- Votering over Horgar "Nytt punkt E om å vise ansvarlighet"
+  - For: 42 stemmer
+  - Mot: 25 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 80/25
+rodt_fremmet: False
+---
+
+Tittel: PS 80/25 Salg av bygg - Leksdal barnehage
+
+Vedtak:
+Kommunestyret legger bygninger og tomt Gnr. 79 bnr. 7 ut for salg gjennom megler.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

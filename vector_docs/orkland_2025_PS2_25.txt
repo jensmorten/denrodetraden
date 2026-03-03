@@ -1,0 +1,22 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 2/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om Kommunal garanti - Storåshallen AS
+
+Vedtak:
+Kommunestyret vedtar følgende:
+• Orkland kommune innvilger simpel garanti for lån til Storåshallen AS på inntil kr 1 876 500 i Orkla Sparebank. Orkland har allerede innvilget kommunal garanti til majoriteten av dette lånet, og endringen i garantiansvarets beløp erstatter Orkdal kommune sitt tidligere garantivedtak.
+• Garantien gjelder lånets hovedstol, maksimalt kr 1 876 500 med tillegg av 10 % av enhver tid gjeldende hovedstol til dekning av eventuelle renter og omkostninger.
+• Orkland kommune sitt maksimale garantiansvar kan ikke overstige kr 2 064 150.
+• Garantien gjelder et nedbetalingslån med en maksimal løpetid på 5 år og 7 mnd.
+• Garantiansvaret reduseres i takt med nedbetalingen av lånet, og garantiansvaret utløper i sin helhet senest 1. august 2030.
+
+Voteringer:
+- Votering i Formannskap 21.01.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 28.01.2025
+  - Formannskapets innstilling: enstemmig

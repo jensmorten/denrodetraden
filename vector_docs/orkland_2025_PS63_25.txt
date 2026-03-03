@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 63/25
+rodt_fremmet: False
+---
+
+Tittel: Oppnevnelse av representant til styret i Orkland Energi Varme AS
+
+Vedtak:
+Aasmund Lie oppnevnes som representant for Orkland kommune til styret i Orkland Energi Varme AS.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - For: enstemmig

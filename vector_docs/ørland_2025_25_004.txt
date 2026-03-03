@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/004
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til spørretimen - Videre prosess Nedre Internat
+
+Vedtak:
+Svar fra ordfører gjengitt i henhold til punktene i spørsmålstillingen, med informasjon om videre prosess, involvering av ungdomsrådet, tilpasning av arealer for kulturskolen og ungdomsklubben, og planlagt igangsetting av salg av Nedre Internat etter sommerferien.

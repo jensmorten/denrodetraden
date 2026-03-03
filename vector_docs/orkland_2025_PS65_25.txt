@@ -1,0 +1,41 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 65/25
+rodt_fremmet: False
+---
+
+Tittel: Budsjettendringer september 2025
+
+Vedtak:
+Kommunestyret vedtar følgende budsjettendringer:
+Ramme Type endring Endring
+Fellesinntekter Økt rammetilskudd som følge av RNB -21 143 000
+Fellesinntekter Reduserte skatteinntekter i henhold til RNB 692 000
+Fellesinntekter Avskrivninger - inklusive motpost 0
+Kommunedirektør Økte pensjonskostnader på AFP 12 857 000
+Barnehage Redusert foreldrebetaling barnehager i henhold til RNB 3 118 000
+Barnehage Innsparingskrav Grefstad barnehage -206 000
+Grunnskole Innsparingskrav Aa skole og Orkanger barneskole -278 000
+Økt basistilskudd leger og redusert tilskudd vaksinasjon Mestring 662 000
+RNB
+Mestring ØHD og utskrivningsklare pasienter -1 224 000
+Hjemmetjeneste Utskrivningsklare pasienter 513 000
+Institusjon ØHD og utskrivningsklare pasienter 711 000
+Kommunalteknikk Innsparingskrav brann og redning -349 000
+Totalt -4 647 000
+Kommunestyret vedtar følgende finansiering:
+Ramme Finansieringskilde Endring
+Barnehage Avsetning overskuddsfond Grefstad barnehage 206 000
+Avsetning overskuddsfond Aa skole og Orkanger Grunnskole 278 000
+barneskole
+Kommunalteknikk Avsetning overskuddsfond brann og redning 349 000
+Fellesinntekter Avsetning ordinært disposisjonsfond som følge av RNB 3 814 000
+Totalt 4 647 000
+Kommunedirektøren gis fullmakt til å foreta de nødvendige detaljerte budsjettendringer i tråd med saksframlegget.
+
+Voteringer:
+- Votering i Formannskap 02.09.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 16.09.2025
+  - Formannskapets innstilling: enstemmig

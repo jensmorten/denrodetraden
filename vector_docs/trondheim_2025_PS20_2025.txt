@@ -15,5 +15,5 @@ Alternative forslag:
 
 Voteringer:
 - Alternativ votering mellom innstillingen og MDG sitt alternative forslag.
-  - MDG alternative forslag: enstemmig stemmer
-  - Innstillingen: 0 stemmer
+  - MDG alternative forslag: enstemmig
+  - Innstillingen: 0

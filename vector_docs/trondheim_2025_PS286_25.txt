@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 286/25
+rodt_fremmet: False
+---
+
+Tittel: PS 286/2025 Søknad om fritak fra eiendomsskatt 2025 - Dokkgata 2b
+
+Vedtak:
+Bystyret innvilger ikke fritak for eiendomsskatt etter eiendomsskatteloven § 7 a og vedtak PS 162/14 for Dokkgata 2b.
+
+Voteringer:
+- Votering om innstillinga
+  - For: enstemmig

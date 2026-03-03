@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/045
+rodt_fremmet: False
+---
+
+Tittel: Kommunal samarbeidsavtale - Helseplattformen
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Votering om utsettelse av saken
+  - For utsettelse: enstemmig

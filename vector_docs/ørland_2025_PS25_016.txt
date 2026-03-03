@@ -1,0 +1,8 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/016
+rodt_fremmet: False
+---
+
+Tittel: Protokoll fra årsmøtet RMN SA 28.04.2025

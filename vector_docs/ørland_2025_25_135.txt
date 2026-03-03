@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/135
+rodt_fremmet: False
+---
+
+Tittel: Søknad om likviditetslån til Roret KF
+
+Vedtak:
+Roret Ørland kulturforetak KF kan få inntil kr 3 mill. kroner i likviditetslån fra Ørland kommune ved likviditetsproblem.
+Lånet gis som et tillegg til tidligere lån, og overstiger dermed rammen på kr 2 mill. som ble vedtatt i sak 21/057.
+Renten på lånet settes til kommunens innskuddsrente + 0,25% og betales ned over 6 år.
+Midlene tas fra kommunens disposisjonsfond.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskap - 16.10.2025
+  - For: 28 stemmer
+  - Mot: 3 stemmer

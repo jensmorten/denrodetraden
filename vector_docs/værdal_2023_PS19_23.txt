@@ -1,0 +1,8 @@
+METADATA:
+kommune: værdal
+year: 2023
+saksnummer: PS 19/23
+rodt_fremmet: False
+---
+
+Tittel: PS 19/23 Orientering

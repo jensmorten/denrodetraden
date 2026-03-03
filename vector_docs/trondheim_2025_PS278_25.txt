@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 278/25
+rodt_fremmet: False
+---
+
+Tittel: PS 278/2025 Gebyrsatser innenfor det tekniske området 2026
+
+Vedtak:
+Innstillinga ble enstemmig vedtatt
+
+Voteringer:
+- Votering om innstillinga
+  - For: enstemmig

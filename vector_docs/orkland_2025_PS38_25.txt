@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 38/25
+rodt_fremmet: False
+---
+
+Tittel: Orklandbadet KF - valg av styremedlemmer og fastsetting av styrehonorar
+
+Vedtak:
+
+
+Voteringer:
+- Votering over valgkomiteens innstilling
+  - For: 42 stemmer

@@ -1,0 +1,33 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 247/2025
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Væreholmen som handicapvennlig badeplass i Trondheim - Svein Otto Nilsen (PP)
+
+Vedtak:
+Bystyret vedtar innstillingen og tilleggsforslagene fra Morten Kokaas (PP) og Ottar Michelsen (SV) som følger:
+- Fremdriften med handicapvennlig badeplass må prioriteres.
+- Gode skiftemuligheter og toalett.
+- Fullverdige skiftemuligheter og toalettfasiliteter må sikres.
+
+Alternative forslag:
+- Morten Kokaas (PP): Fremdriften med handicapvennlig badeplass må prioriteres
+- Morten Kokaas (PP): Gode skiftemuligheter og toalett: I følge notat til medlemsforslaget kommer det frem at kommunen har utredet ny løsning for badeplassen Væreholmen som skal ivareta nytt servicebygg med stellebenk for voksne og ny HC-atkomst til stranda. Bystyret ber byrådet vurdere et samarbeid med eksterne aktører for å få til et fullverdig toalett.
+- Ottar Michelsen (SV): Fullverdige skiftemuligheter og toalettfasiliteter må sikres.
+
+Voteringer:
+- Votering over innstillingen
+  - For: 67 stemmer
+  - Mot: 0 stemmer
+- Votering over Kokaas forslag "Fremdriften med handicapvennlig badeplass må prioriteres"
+  - For: 37 stemmer
+  - Mot: 30 stemmer
+- Votering over Kokaas forslag "Gode skiftemuligheter og toalett"
+  - For: 55 stemmer
+  - Mot: 12 stemmer
+- Votering over Michelsens forslag "skiftemuligheter"
+  - For: 61 stemmer
+  - Mot: 6 stemmer

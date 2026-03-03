@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 64/25
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport for barnevernstjenesten i Levanger 2024/2025
+
+Vedtak:
+Tilstandsrapport for barnevernstjenesten 2024/2025 tas til orientering.
+
+Voteringer:
+- Votering over innstilling om tilstandsrapport for barnevernstjenesten 2024/2025
+  - For: 35 stemmer

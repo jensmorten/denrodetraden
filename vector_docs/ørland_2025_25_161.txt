@@ -1,0 +1,34 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/161
+rodt_fremmet: False
+---
+
+Tittel: Styrevalg til Legat til verdig trengende formål i Ørland kommune STI
+
+Vedtak:
+Følgende velges som medlemmer i styret:
+Hallgeir Grøntvedt
+Mona Sjøli
+Marit Sletten
+Britt Eli Døsvik
+Eirik Lundemo
+Fredrik Sandness
+Ingvild Wik Solberg
+May Slettan
+Varamedlemmer:
+Ole Petter Grøntvedt
+Thomas Hovde
+Jan-Inge Standahl
+Ann Elisabeth Solbue Valaas
+Oda Kristine Leth-Jøssing
+Gunnar Hofstad
+Therese Mossing Eidsaune
+Harriet Brekstad
+Tina Marie Rødde Paulsen
+Hugo Solheim
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 31 stemmer

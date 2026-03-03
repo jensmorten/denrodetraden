@@ -1,0 +1,18 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 34/25
+rodt_fremmet: False
+---
+
+Tittel: Suppleringsvalg, rådet for mennesker med nedsatt funksjonsevne
+
+Vedtak:
+{'organ': 'Valgutvalg', 'dato': '29.04.2025', 'tekst': 'Nytt medlem i rådet for mennesker med nedsatt funksjonsevne: Olav Dombu, Hørselshemmedes Landsforbund. Nytt varamedlem: Sverre Asbjørn Grandetrø, Norsk Revmatikerforbund.'}
+{'organ': 'Kommunestyre', 'dato': '29.04.2025', 'tekst': 'Nytt medlem i rådet for mennesker med nedsatt funksjonsevne: Olav Dombu, Hørselshemmedes Landsforbund. Nytt varamedlem: Sverre Asbjørn Grandetrø, Norsk Revmatikerforbund.'}
+
+Voteringer:
+- Votering i Valgutvalg om forslag fra FFO Trøndelag
+  - Forslag fra FFO Trøndelag: enstemmig
+- Votering i Kommunestyre om Valgutvalgets innstilling
+  - Valgutvalgets innstilling: enstemmig

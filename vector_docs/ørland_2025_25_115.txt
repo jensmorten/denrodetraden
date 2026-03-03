@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/115
+rodt_fremmet: False
+---
+
+Tittel: Valg av protokollunderskrivere
+
+Vedtak:
+Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:
+• Eirik Lundemo (H)
+• Fredrik Sandness (AP)
+
+Voteringer:
+- Votering over innstillingen om valg av protokollunderskrivere
+  - For: enstemmig

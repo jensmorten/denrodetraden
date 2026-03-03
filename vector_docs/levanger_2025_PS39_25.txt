@@ -1,0 +1,27 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 39/25
+rodt_fremmet: True
+---
+
+Tittel: Utredning skolestruktur
+
+Vedtak:
+Det bes om en helhetlig og grundig utredning av hele skolestrukturen i Levanger. Der bla. faktorer som regulerte tomter, planlagt boligbygging, demografiendringer i de enkelte skolekretsene blir vektlagt og samfunnsøkonomi i eventuelle endringer de neste ti årene blir vurdert. Saken legges fram for politisk behandling så raskt som mulig. For Ekne skole bes det om at det utredes også m.t.p. økonomiske konsekvenser ved en eventuell etablering av privatskole. Utredningen av økonomiske konsekvenser av en eventuell etablering av privat skole legges frem innen utgangen av september 2025.
+
+Alternative forslag:
+- Jostein Trøite (Sosialistisk venstreparti): Det gjennomføres ikke videre utredning av endring i skolestruktur i Levanger
+- Lars Einar Karlsen (Rødt): Der bla. faktorer som regulerte tomter, planlagt boligbygging, demografiendringer i de enkelte skolekretsene blir vektlagt og samfunnsøkonomi i eventuelle endringer de neste ti årene blir vurdert. Saken legges fram for politisk behandling så raskt som mulig.
+- Lars Erik Ertsås (Høyre): 1. Utredningen gjennomføres av eksternt, uavhengig fagmiljø med dokumentert kompetanse på regional demografi inkludert å kunne vurdere skolestruktur, eksempelvis Telemarksforskning eller tilsvarende. 2. Kommunens potensiale for tilflytting, mulighet for ønsket vridning av demografisk sammensetning og best mulig effekt av investeringer må være grundig dokumentert og analysert i utredningen.
+
+Voteringer:
+- Votering på forslag om ikke å gjennomføre videre utredning av endring i skolestruktur i Levanger (forslag fra Jostein Trøite, SV) mot innstilling fra formannskapet.
+  - For forslag 1 (innstilling fra formannskapet): 31 stemmer
+  - For forslag 2 (Jostein Trøite, SV): 4 stemmer
+- Votering på tillegg-/endringsforslag fra Lars Einar Karlsen (Rødt) om at faktorer som regulerte tomter, boligbygging, demografi og samfunnsøkonomi skal vektlegges og at saken legges fram så raskt som mulig.
+  - For tilleggsforslag (Lars Einar Karlsen, Rødt): 31 stemmer
+  - Imot tilleggsforslag (MDG og SV): 4 stemmer
+- Votering på oversendelsesforslag fra Lars Erik Ertsås (Høyre) om at utredningen skal gjennomføres av eksternt, uavhengig fagmiljø med dokumentert kompetanse og at kommunens potensiale for tilflytting og demografisk sammensetning skal dokumenteres og analyseres.
+  - For oversendelsesforslag (Lars Erik Ertsås, Høyre): 15 stemmer
+  - Imot oversendelsesforslag: 20 stemmer

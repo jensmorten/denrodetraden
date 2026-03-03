@@ -1,0 +1,33 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 100/25
+rodt_fremmet: False
+---
+
+Tittel: Første gangs behandling - Kommuneplanens samfunnsdel Orkland 2026-38
+
+Vedtak:
+I medhold av plan- og bygningsloven §11-14 legges forslag til kommuneplanens samfunnsdel for Orkland 2026-2038 ut til høring og offentlig ettersyn i minimum seks uker. Endring av tekst under tema Arealstrategi for Orkland i Kommuneplanens samfunnsdel: Nederst på side 14 under “Vi deler senterstrukturen i tre nivåer” Ordet grendesentre endres til bygdesentre. Nederst på side 15: “Tettstedsentre og grendesentre” I overskriften endres grendesentre til bygdesentre. I teksten under endres grendesentrene til bygdesentrene. Siste avsnittet under overskriften «Boligstruktur og boligbehov». side 16: Siste setning endres til: Vi åpner også for noe spredt boligbygging i grender og bygdesamfunn for å styrke lokalmiljøet. Kommunedirektøren bes utarbeide forslag til ny visjon for Orkland som del av Kommuneplanens Samfunnsdel.
+
+Alternative forslag:
+- Stine Storengen på vegne av Senterpartiet: Avsnittet Områder for fritidsboliger, side 16 i vedlegget endres til følgende: Orkland har rundt 1 550 regulerte, ubebygde hyttetomter fordelt fra kyst til fjell. Vi vurderer nye byggeområder og fortetting innenfor eksisterende byggeområder dersom det ikke går på bekostning av naturverdier, jordvern eller karbonrike arealer.
+- Oddvar Kjøren, AP på vegne av AP, H, SMP, SV og V: Forslag til endring av tekst under tema Arealstrategi for Orkland i Kommuneplanens samfunnsdel: Nederst på side 14 under “Vi deler senterstrukturen i tre nivåer” Ordet grendesentre endres til bygdesentre. Nederst på side 15: “Tettstedsentre og grendesentre” I overskriften endres grendesentre til bygdesentre. I teksten under endres grendesentrene til bygdesentrene. Siste avsnittet under overskriften «Boligstruktur og boligbehov». side 16: Siste setning endres til: Vi åpner også for noe spredt boligbygging i grender og bygdesamfunn for å styrke lokalmiljøet.
+- Ola Bjørkøy på vegne av Senterpartiet: Avsnittet Områder for fritidsboliger, side 16 i vedlegget endres til følgende: Orkland har rundt 1 550 regulerte, ubebygde hyttetomter fordelt fra kyst til fjell. Vi vurderer nye byggeområder og fortetting innenfor eksisterende byggeområder dersom det ikke går på bekostning av naturverdier, jordvern eller karbonrike arealer.
+- Svein Erik Jørgensen, AP: Kommunedirektøren bes utarbeide forslag til ny visjon for Orkland som del av Kommuneplanens Samfunnsdel.
+
+Voteringer:
+- Votering på endringsforslag fra Senterpartiet (Stine Storengen) i Formannskapet 25.11.2025
+  - For: 3 stemmer
+  - Mot: flertall
+- Votering på kommunedirektørens innstilling i Formannskapet 25.11.2025
+  - For: enstemmig
+- Votering på endringsforslag fra AP, H, SMP, SV og V i Kommunestyret 16.12.2025
+  - For: enstemmig
+- Votering på endringsforslag fra Senterpartiet (Ola Bjørkøy) i Kommunestyret 16.12.2025
+  - For: 19 stemmer
+  - Mot: flertall
+- Votering på tilleggsforslag fra AP (Svein Erik Jørgensen) i Kommunestyret 16.12.2025
+  - For: enstemmig
+- Votering på formannskapets innstilling med endringer i Kommunestyret 16.12.2025
+  - For: enstemmig

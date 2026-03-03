@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 10/25
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding Eldrerådet 2024
+
+Vedtak:
+Kommunestyret tar Eldrerådets årsmelding for 2024 til orientering.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak om å ta Eldrerådets årsmelding for 2024 til orientering.
+  - For: 34 stemmer

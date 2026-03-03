@@ -1,0 +1,18 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/080
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv for resten av valgperioden 2023 - 2027 - eventuelt nyvalg
+
+Vedtak:
+Ogne Undertun gis fritak fra alle sine politiske verv fra dd og ut valgperioden.
+
+Alternative forslag:
+- Ingvild Wik Solberg, Arbeiderpartiet: Ogne Undertun gis fritak fra alle sine politiske verv fra dd og ut valgperioden.
+
+Voteringer:
+- Votering over forslag om fritak
+  - TIL - fritak: 29 stemmer

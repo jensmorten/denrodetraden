@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/074
+rodt_fremmet: False
+---
+
+Tittel: Tilbud ombygging og utleie på Ørland medisinske senter (ØMS)
+
+Vedtak:
+Følgende vilkår legges til grunn for tilbud om leiekontrakt:
+1. Forsvarsbygg betaler normal leie for kontor/sykestue
+2. Forsvarsbygg dekker i tillegg inn kostnadene for ombygging med utvidet leiepris i 5 år
+3. Eventuell leie ut over 5 år avklares på et senere tidspunkt når kommunens og forsvarets behov og bruk er avklart
+4. Endelig investeringsbeslutning på 3,95 millioner kroner gjøres i saldering etter forslag til kontrakt er utarbeidet.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 30 stemmer

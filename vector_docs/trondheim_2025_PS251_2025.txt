@@ -1,0 +1,26 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 251/2025
+rodt_fremmet: False
+---
+
+Tittel: Forlenget leieavtale i Trondheim Spektrum
+
+Vedtak:
+Bystyret vedtar å forlenge leieavtalen med Trondheim Spektrum Eiendom AS for leie av halltid til idretten med fem år, til og med april 2040, i henhold til vedlagte leieavtale.
+Bystyret gir byrådet fullmakt til å reforhandle antallet timer Trondheim Spektrum Eiendom AS kan drive utleie av anlegget til andre formål enn idrettsformål., jf. avtalens punkt 3.2.
+Bystyret ber byrådet om å sikre friidretten tilstrekkelig med garderobeplass når det er lokale, regionale og nasjonale stevner/mesterskap, i forbindelse med forlengelsen av leieavtalen med Trondheim spektrum.
+
+Alternative forslag:
+- Kristin Tinmannsvik (Ap): Bystyret ber byrådet om å sikre friidretten tilstrekkelig med garderobeplass når det er lokale, regionale og nasjonale stevner/mesterskap, i forbindelse med forlengelsen av leieavtalen med Trondheim spektrum.
+
+Voteringer:
+- Votering på innstillingens punkt 1
+  - For: Enstemmig
+- Votering på innstillingens punkt 2
+  - For: 54 stemmer
+  - Mot: 13 stemmer
+- Votering på Tinmannsviks forslag om garderobeplass til friidretten
+  - For: 62 stemmer
+  - Mot: 5 stemmer

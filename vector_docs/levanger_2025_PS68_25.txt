@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2025
+saksnummer: PS 68/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra folkevalgte verv - Mats Henriksen.
+
+Vedtak:
+Mats Henriksen fritas fra sine folkevalgte verv i Levanger kommune. Erling Brenne rykker opp som fast medlem for Fremskrittspartiet i kommunestyret. Som nytt medlem til formannskapet velges: Janne Jørstad Larsen. Som ny vararepresentant til Innherred Regionråd velges: Erling Brenne. Som ny vararepresentant til Nord Trøndelag krisesenter IKS velges: Erling Brenne.
+
+Voteringer:
+- Votering over innstilling om fritak for Mats Henriksen og oppnevning av nye medlemmer og vararepresentanter.
+  - For forslaget: 35 stemmer

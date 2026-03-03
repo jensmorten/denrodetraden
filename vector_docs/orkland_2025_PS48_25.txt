@@ -1,0 +1,20 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 48/25
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjonsrapport - kommunale boliger
+
+Vedtak:
+1. Kommunestyret tar forvaltningsrevisjonsrapport om kommunale boliger til orientering.
+2. Kommunestyret ber kommunedirektøren følge opp anbefalingene i rapporten
+A. Benytte vedtaksmal for vedtak om kommunal bolig for å sikre at relevante opplysninger og vurderinger kommer med i vedtaket
+B. Dokumentere relevante opplysninger for saken og vurderinger som er gjort i forbindelse med vedtak om kommunal bolig
+C. Utarbeide en vedlikeholdsplan for kommunale boliger med forslag til tiltak, prioriteringer og beregnede utbedringskostnader
+3. Kommunestyret ber kommunedirektøren gi kontrollutvalget skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 30.09.2025.
+
+Voteringer:
+- Votering over Kontrollutvalgets innstilling
+  - For: 42 stemmer

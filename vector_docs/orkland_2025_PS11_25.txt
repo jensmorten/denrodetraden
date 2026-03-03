@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 11/25
+rodt_fremmet: False
+---
+
+Tittel: Anmodning om bosetting av flyktninger 2025
+
+Vedtak:
+Kommunestyret vedtar å bosette 75 flyktninger i 2025, hvor 1-2 plasser benyttes til bosetting av enslige mindreårige under 15 år uten følge.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 11.02.2025
+  - Kommunedirektørens innstilling: Enstemmig
+- Votering i Kommunestyre 25.02.2025
+  - Hovedutvalg HOKs innstilling: Enstemmig

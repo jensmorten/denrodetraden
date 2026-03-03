@@ -1,0 +1,18 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/020
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjon - Fosen helse IKS
+
+Vedtak:
+Kontrollutvalget legger fram rapport fra forvaltningsrevisjon til kommunestyret med følgende forslag til vedtak:
+1. Kommunestyret ønsker at Fosen helse IKS reviderer avtaler, avklarer organisering og ansvarsforhold.
+2. Kommunestyret ber kommunens eierrepresentant i Fosen Helse IKS legge frem punkt 1 i vedtaket ved første anledning til behandling i representantskapet for Fosen Helse IKS.
+3. Kommunestyret ber om at kontrollutvalget får tilbakemelding for hvordan selskapet har fulgt opp punkt 1 i vedtaket innen utgangen av 2025.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 31 stemmer

@@ -1,0 +1,22 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 276/25
+rodt_fremmet: False
+---
+
+Tittel: PS 276/2025 Egenbetaling for helse- og omsorgstjenester per 1.1.2026
+
+Vedtak:
+Bystyret vedtar innstillingen «Egenbetalingssatser for helse- og omsorgstjenester per 1.1.2026» med unntak av punkt 5 – Egenbetaling for trygghetsalarm. Dette punktet strykes. Manglende økte inntekter som følge av dette, dekkes av disposisjonsfondet.
+
+Alternative forslag:
+- Sigurd Jan Ingvaldsen (Ap): Bystyret vedtar innstillingen med unntak av punkt 5 – Egenbetaling for trygghetsalarm. Dette punktet strykes. Manglende økte inntekter som følge av dette, dekkes av disposisjonsfondet.
+
+Voteringer:
+- Votering over Ingvaldsens forslag om å stryke punkt 5 – Egenbetaling for trygghetsalarm
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Votering over innstillingen med unntak av punkt 5
+  - For: 53 stemmer
+  - Mot: 14 stemmer

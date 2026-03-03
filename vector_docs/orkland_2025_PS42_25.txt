@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 42/25
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding 2024
+
+Vedtak:
+Kommunestyret tar Årsmelding 2024 til etterretning
+
+Voteringer:
+- Votering i Formannskap 13.05.2025
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 20.05.2025
+  - Formannskapets innstilling: enstemmig

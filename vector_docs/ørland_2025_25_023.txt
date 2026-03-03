@@ -1,0 +1,33 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/023
+rodt_fremmet: False
+---
+
+Tittel: Endring av kommunal forskrift til serverings- og alkoholloven - Ørland kommune
+
+Vedtak:
+Forslag til endring på kommunal forskrift til serverings- og alkoholloven i Ørland kommune vedtatt som framlagt.
+• Forskriftens § 1 Avgjørelsesmyndighet i forhold til kontroll av salgs- og skjenkebevillinger tillegges Formannskapet
+• Forskriftens § 3 Åpningstid for serveringsstedene endret tekst:
+Serveringsstedene holdes lukket
+Søndag – torsdag (natt til fredag) kl. 01.30 – kl. 06.00
+Fredag – lørdag (natt til søndag) kl. 02.30 – kl. 06.00
+• Forskriftens § 4 Tidspunkt for skjenking av alkoholholdig drikk.
+tidspunkt for servering av alkohol inne for alle grupper endres tekst til:
+søndag – torsdag (natt til fredag) Gruppe 1 og 2 kl. 06.00 – 01.00
+Gruppe 3 kl. 13.00 – 01.00
+fredag – lørdag (natt til søndag) Gruppe 1 og 2 kl. 06.00 – 02.00
+Gruppe 3 kl. 13.00 – 02.00
+tidspunkt for uteservering for alkohol utvides for alkoholgruppe gruppe 1 og 2 endres til:
+søndag – torsdag Gruppe 1 og 2 kl. 06.00 – 24.00
+Gruppe 3 kl. 13.00 – 24.00
+fredag – lørdag (natt til søndag) Gruppe 1 og 2 kl. 06.00 – 01.00
+Gruppe 3 kl. 13.00 – 01.00
+Endring av forskrift trer i kraft fra kommunestyrets vedtak.
+
+Voteringer:
+- Votering over forslag: Innstilling fra formannskapets møte 06.02.25
+  - For: 31 stemmer
+  - Mot: 0 stemmer

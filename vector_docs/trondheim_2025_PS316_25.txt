@@ -1,0 +1,25 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 316/25
+rodt_fremmet: False
+---
+
+Tittel: PS 316/2025 Lovlighetskontroll av Trondheim bystyres vedtak i Sak: 242/25 | - Medlemsforslag - Forbedring av BPA-tilbudet
+
+Vedtak:
+1. Bystyret opphever sitt vedtak av 20.11.25 i Sak: 242/25 - Medlemsforslag - Forbedring av BPA-tilbudet.
+2. Medlemsforslag - Forbedring av BPA-tilbudet sendes til utvalg for ny behandling.
+3. Saken fremmes for behandling i utvalg og bystyret i januar 2026.
+
+Alternative forslag:
+- Maria Alseth (FrP): Bystyret opprettholder sitt vedtak av 20.11.25 i Sak: 242/25 | - Medlemsforslag - Forbedring av BPA-tilbudet. Med bakgrunn i avkrevd lovlighetskontroll sendes saken til statsforvalter for avgjørelse.
+- Sigurd Jan Ingvaldsen (Ap): Saken fremmes for behandling i utvalg og bystyret i januar 2026.
+
+Voteringer:
+- Votering mellom innstillingen og forslaget fra FrP
+  - Innstillingen: 49 stemmer
+  - Forslaget fra FrP: 198 stemmer
+- Votering om Aps tilleggsforslag
+  - Aps tilleggsforslag: 38 stemmer
+  - Mot tilleggsforslaget: 28 stemmer

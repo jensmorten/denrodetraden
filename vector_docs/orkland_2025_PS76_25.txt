@@ -1,0 +1,26 @@
+METADATA:
+kommune: orkland
+year: 2025
+saksnummer: PS 76/25
+rodt_fremmet: False
+---
+
+Tittel: Videre arbeid med gang- og sykkelveg ved Vormstad
+
+Vedtak:
+{'nivå': 'Hovedutvalg Teknikk', 'dato': '23.09.2025', 'saknr': '13/25', 'tekst': 'For videre framdrift legges alternativ B og C til grunn. Hovedutvalg teknikk anbefaler finansiering ved hjelp av låneopptak. Saken oversendes formannskap og kommunestyre for vedtak om finansiering. Fortau Øyumvegen - Ferjemannsvegen vurderes i arbeidet med trafikksikkerhetsplanen.'}
+{'nivå': 'Formannskap', 'dato': '30.09.2025', 'saknr': '48/25', 'tekst': 'For videre framdrift legges alternativ B og C til grunn. Formannskapet vedtar finansiering ved hjelp av låneopptak. Kommunedirektøren får fullmakt til å gjennomføre budsjettjusteringer. Fortau Øyumvegen - Ferjemannsvegen vurderes i arbeidet med trafikksikkerhetsplanen.'}
+{'nivå': 'Kommunestyre', 'dato': '14.10.2025', 'saknr': '76/25', 'tekst': 'For videre framdrift legges alternativ B og C til grunn. Det vurderes om det er hensiktsmessig å benytte noe av sprengtsteinen som fyllmasse under toppdekke kontra bortkjøring. Finansiering ut over allerede avsatte fondsmidler dekkes ved hjelp av låneopptak. Kommunedirektøren får fullmakt til å gjennomføre budsjettjusteringer. Fortau Øyumvegen - Ferjemannsvegen vurderes i arbeidet med trafikksikkerhetsplanen.'}
+
+Alternative forslag:
+- AP, SMP og H: For videre framdrift legges alternativ B og C til grunn. Hovedutvalg teknikk anbefaler finansiering ved hjelp av låneopptak. Saken oversendes formannskap og kommunestyre for vedtak om finansiering. Fortau Øyumvegen - Ferjemannsvegen vurderes i arbeidet med trafikksikkerhetsplanen.
+- AP, H, SMP, SV, V: For videre framdrift legges alternativ B og C til grunn. Det vurderes om det er hensiktsmessig å benytte noe av sprengtsteinen som fyllmasse under toppdekke kontra bortkjøring. Finansiering ut over allerede avsatte fondsmidler dekkes ved hjelp av låneopptak. Kommunedirektøren får fullmakt til å gjennomføre budsjettjusteringer. Fortau Øyumvegen - Ferjemannsvegen vurderes i arbeidet med trafikksikkerhetsplanen.
+
+Voteringer:
+- Votering i Hovedutvalg Teknikk 23.09.2025 på forslag fra AP, SMP og H
+  - Forslag fra AP, SMP og H: enstemmig
+- Votering i Formannskap 30.09.2025 på innstilling fra hovedutvalg teknikk med finansiering
+  - Innstilling fra hovedutvalg teknikk med finansiering: enstemmig
+- Votering i Kommunestyre 14.10.2025 på formannskapets innstilling og forslag fra AP, H, SMP, SV og V
+  - Formannskapets innstilling: 0 stemmer
+  - Forslag fra AP, H, SMP, SV og V: enstemmig

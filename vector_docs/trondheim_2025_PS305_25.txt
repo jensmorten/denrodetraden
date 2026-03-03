@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 305/25
+rodt_fremmet: False
+---
+
+Tittel: PS 305/2025 Revidert vertskommuneavtale innen miljørettet helsevern mellom kommunene Trondheim, Malvik, Melhus og Midtre Gauldal
+
+Vedtak:
+1. Trondheim kommune tilslutter seg vedlagte reviderte vertskommuneavtale for miljørettet helsevern med Trondheim som vertskommune, jfr. Kommunelovens § 20-2 2. Avtalen trer i kraft fra 1.1.2026
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: værdal
+year: 2025
+saksnummer: PS 94/25
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering Bergsgrav stasjon - sluttbehandling
+
+Vedtak:
+Vedlagt planforslag vedtas iht. plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Votering over innstillingen for plan og samfunn
+  - For innstillingen: enstemmig

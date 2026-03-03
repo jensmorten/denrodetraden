@@ -1,0 +1,41 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: PS 25/089
+rodt_fremmet: False
+---
+
+Tittel: Saldering 2 Investering
+
+Vedtak:
+Investeringsbudsjettet for 2025 salderes som følger:
+Regnskap Budsjett Til Nytt
+Prosjektnavn Saldering
+30/4-2025 2025 disp. budsjett
+50001 Trafikksikkerhetstiltak 172 4 400 4 228 -2 600 1 800
+50002 Fergekai Dybfest og Tarva 12 028 12 400 372 10 000 22 400
+Trafikksikkerhetstiltak Arnfinn
+50012 0 630 630 -400 230
+Astads vei/gang- og sykkelvei
+Grunnundersøkelser gangfelt
+50057 240 500 260 -200 0
+Vallersund
+50060 Plastring Sæterfjæra 0 400 400 -400 0
+10
+55089 Kjøp av omsorgsboliger 0 10 700 -10 700 0
+700
+55074 Takbytte ØMS/Ørland sykehjem 0 1 200 1200 -1 100 100
+Tak Ørland ungdomsskole 1 100 1 100
+Presenning kanonen på Austrått 350 300
+Ombygging og utleie på Ørland
+3 950 3 950
+medisinske senter (ØMS)
+50048 Mebostad pumpestasjon 0 4 000 4 000 -4 000 0
+50040 Oppgradering silanlegg Hovdetåa 2 000 2 000 -2 000 0
+Sum -6 000
+Beløp på presenning kanon, justerer til kr 350 i kolonne for nytt budsjett.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskap - 05.06.2025
+  - For: 30 stemmer
+  - Mot: 1 stemmer

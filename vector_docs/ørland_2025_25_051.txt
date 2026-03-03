@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/051
+rodt_fremmet: False
+---
+
+Tittel: Strategi for oppgradering av kommunale boliger
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Votering om utsettelse av saken
+  - For utsettelse: enstemmig

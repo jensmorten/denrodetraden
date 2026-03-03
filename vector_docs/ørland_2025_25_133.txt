@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2025
+saksnummer: 25/133
+rodt_fremmet: False
+---
+
+Tittel: Valg av nytt styremedlem - Roret Ørland kulturforetak KF
+
+Vedtak:
+Martin Waade erstatter Therese Mossing Eidsaune som vara, for å oppnå riktig kjønnsbalanse.
+
+Alternative forslag:
+- ENF: Valg av nytt styremedlem Roret Ørland kulturforetak KF
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

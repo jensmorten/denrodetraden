@@ -1,0 +1,26 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 308/25
+rodt_fremmet: False
+---
+
+Tittel: PS 308/2025 Medlemsforslag - Støtteordning for kjøp av elsykkel i Trondheim kommune - Merete Letnes Ødegaard (Uavh)
+
+Vedtak:
+Bystyret ber byrådet jobbe for å videreføre støtte til lastesykler i Miljøpakkens handlingsprogram.
+
+Alternative forslag:
+- Merete Letnes Ødegaard (Uavh.): Trondheim bystyre ber Byrådet om innen juni, å utarbeide en konkret modell for en kommunal støtteordning for kjøp av elsykkel til innbyggerne.
+- Tore Dyrendahl (MDG): Bystyret ber byrådet fremme en sak om støtte til el-sykler som kan foreslås inn i Miljøpakkens handlingsprogram. Saken bør belyse hvordan en slik støtte kan og bør innrettes. Saken bør også belyse om støtten kan og bør inneholde en inntektsgrense for å målrettes til de som har mest behov for en slik støtte.
+
+Voteringer:
+- Votering over Uavh. Ødegaards alternative forslag "opprinnelig innstilling"
+  - For: 7 stemmer
+  - Mot: 62 stemmer
+- Votering over innstillingen
+  - For: 60 stemmer
+  - Mot: 7 stemmer
+- Votering over MDGs tilleggsforslag "Sak om støtte til elsykler"
+  - For: 23 stemmer
+  - Mot: 44 stemmer

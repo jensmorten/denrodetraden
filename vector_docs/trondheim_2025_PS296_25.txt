@@ -1,0 +1,64 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: PS 296/25
+rodt_fremmet: False
+---
+
+Tittel: PS 296/2025 Reglement for bystyreutvalgene
+
+Vedtak:
+Bystyret vedtar forslaget til nytt reglement for bystyreutvalgene med de endringer som fremgår i innstillingen, samt følgende tillegg og endringer vedtatt i møtet: Aps forslag om utredning av utvalgenes saksfordeling og ansvarsområder, Aps forslag om medvirkningsråd/utvalg, SVs alternativ til punkt 2.1.1, KrFs alternative forslag til C og D 2.2.1, SVs alternativ til punkt J (3.5), og øvrige punkter i innstillingen som ble enstemmig vedtatt. Alternative forslag som falt er også notert i saksprotokollen.
+
+Alternative forslag:
+- Gjermund Gorset (Ap) på vegne av Ap, H, SV: Bystyret ber ordfører legge frem en sak som drøfter utvalgenes saksfordeling og ansvarsområder med sikte på revidere dette ved konstituering av nytt bystyret i 2027. Saken bør vise antall saker i ulike utvalg i perioden.
+- Gjermund Gorset (Ap) på vegne av Ap, H, SV: Legges til under 2.1: Bystyreutvalgene skal legge til rette for at innspill og initiativ fra ungdommens bystyre, Trondheim eldreråd, Trondheim kommunes studentutvalg, mangfoldsutvalget og rådet for mennesker med funksjonsnedsettelser blir tatt hensyn til, og at rådene blir involvert i behandlingen av relevante spørsmål og saker.
+- Majen Helen Sævik (KrF) på vegne av KrF, SP, MDG, H, SV, V, PP: Alternativ til C 2.2.1 og D 2.2.1 Oppvekst- og kulturutvalget skal beholde sine ansvarsområder.
+- Silje Naper Salomonsen (SV): Alternativ til innstillingas punkt B (ny formulering punkt 2.1.1): 2.1.1- andre avsnitt endres til “Arbeidsutvalg (AU) i innstillende utvalg kan beslutte å sende saker til andre utvalg for uttalelse. Alle utvalg kan på selvstendig initiativ velge å avgi uttalelse i en sak som er til behandling i et annet utvalg. Utvalg og råd kan i god tid be om å få uttale seg i en sak. Dette bør som hovedregel imøtekommes, såfremt en uttalelse ikke forsinker saksbehandlingen unødig eller det er frister som må overholdes.”
+- Majen Helen Sævik (KrF) på vegne av KrF, SP, MDG, H, V, PP: Beholde pkt 1.5 i reglementet: “Hvert utvalg er oppfordret til å etablere et arbeidsutvalg (AU) bestående av leder og nestleder med utvalgssekretær som sekretariat. Utvalget kan suppleres med andre medlemmer. Byrådet har møteplikt og talerett i arbeidsutvalget.“
+- Silje Naper Salomonsen (SV): Alternativ til innstillingas punkt J (nytt tillegg til 3.5): Bedriftsbesøk eller andre aktiviteter kan legges før eller etter saksbehandlingen. Alle møter skal være åpne for offentligheten og gjøres tilgjengelige gjennom strømming, med mindre annet følger av kommuneloven § 11-5.
+
+Voteringer:
+- Votering om punkt A i innstillingen
+  - For: enstemmig
+- Alternativ votering mellom punkt B i innstillingen og SVs alternativ
+  - SVs forslag: 35 stemmer
+  - Innstillingen B: 32 stemmer
+- Alternativ votering mellom innstillingen C 2.2.1 og KrFs forslag
+  - KrFs forslag: 40 stemmer
+  - Innstillingen C 2.2.1: 27 stemmer
+- Alternativ votering mellom innstillingen D og KrFs forslag
+  - KrFs forslag: 40 stemmer
+  - Innstillingen D: 27 stemmer
+- Votering om innstillingen E
+  - For: 65 stemmer
+  - Mot: 2 stemmer
+- Votering om innstillingen F
+  - For: 59 stemmer
+  - Mot: 8 stemmer
+- Votering om innstillingen G
+  - For: enstemmig
+- Votering om innstillingen H
+  - For: enstemmig
+- Votering om innstillingen I
+  - For: enstemmig
+- Votering om SVs alternativ til punkt J (3.5)
+  - For: enstemmig
+- Votering om innstillingen J
+  - For: 0 stemmer
+  - Mot: 67 stemmer
+- Votering om innstillingen K
+  - For: enstemmig
+- Votering om innstillingen L
+  - For: enstemmig
+- Votering om innstillingen M
+  - For: enstemmig
+- Votering om innstillingen N
+  - For: enstemmig
+- Votering om KrFs alternative forslag til pkt 1.5 i reglementet
+  - KrFs forslag: 32 stemmer
+  - Mot (Innstillingen): 35 stemmer
+- Votering om Aps forslag 2.1 Medvirkningsråd/utvalg
+  - For: enstemmig
+- Votering om Aps forslag Utredning - utvalgenes saksfordeling
+  - For: enstemmig

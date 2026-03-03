@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2025
+saksnummer: FO 47/25
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Folkeavstemning om sektorisert kjøremønster - Elin Marie Andreassen (FrP)
+
+Vedtak:
+Bystyret vedtar å oversende saken til forretningsutvalget for innstilling til bystyret.
+
+Voteringer:
+- Votering om medlemsforslaget om folkeavstemning om sektorisert kjøremønster
+  - Forslaget: enstemmig
