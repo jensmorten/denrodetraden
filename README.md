@@ -1,19 +1,14 @@
 # Den Røde Tråden
 Den Røde Tråden er et analyseverktøy som bruker språkmodeller (LLM) og semantisk søk for å systematisere og sammenligne kommunestyresaker på tvers av kommuner.
 
-Målet er å gjøre det enklere å:
--finne lignende saker behandlet i andre kommuner
--se hvilke forslag som ble fremmet
--analysere voteringer
--identifisere når og hvordan Rødt har fremmet alternative forslag
--lære av tidligere behandlinger
+Målet er å gjøre det enklere å finne lignende saker behandlet i andre kommuner, se hvilke forslag som ble fremmet, analysere voteringer, identifisere når og hvordan Rødt har fremmet alternative forslag, lære av tidligere behandlinger
 
 ## App: Den Røde Tråden
 Streamlit-app: 👉 https://denrodetraden.streamlit.app/
 
-Appen lar brukeren laste opp en saksliste eller enkeltsak (PDF) og identifisere relevante saker fra andre kommuner. Appen gir brukeren mulighet til å se: tidligere vedtak, alternative forslag, voteringer, hva Rødt foreslo, om Rødt var på vinner- eller taper-side
+Appen lar brukeren laste opp en saksliste eller enkeltsak (PDF) og identifisere relevante saker fra andre kommuner. Appen gir brukeren mulighet til å se: tidligere vedtak, alternative forslag, voteringer, hva Rødt foreslo, om Rødt var på vinner- eller taper-side. 
 
-Dette gjør det mulig å koordinere politikk på tvers av kommuner, lære av andre, utvikle bedre forslag, forberede alternative forslag raskt
+Dette gjør det mulig å koordinere politikk på tvers av kommuner, lære av andre, utvikle bedre forslag, forberede alternative forslag raskt. 
 
 ## Teknisk løsning
 
