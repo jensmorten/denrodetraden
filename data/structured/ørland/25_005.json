@@ -1,11 +1,82 @@
 {
-  "tittel": "Spørsmål til spørretimen 20.02.25 - Ulsetmyran Næringspark",
-  "innstilling": null,
-  "vedtak": "Svar fra ordfører: I prosjektet Vipetangen boligområde er rivetillatelsene betinget ombruk/gjenbruk av materialer. Dette er særlig vindu, heltredører både innerdører, ytterdører og dører fra fjøs og uthus, tømmermateraler, handlaga murstein, takskifer med mer. Dette måtte lagres i en periode. Den rimeligste og mest effektive løsningen var leie fra BN Entreprenør AS som har ledig areal i en egnet hall med betongdekke på Ullsetmyran. Prosjektet Vipetangen dekker kostnadene innenfor prosjektets rammer.",
-  "alternative_forslag": [],
-  "voteringer": [],
+  "tittel": "Interpellasjon - Trekk Ørland sine penger ut av Israels folkemord!",
+  "innstilling": "Kommunestyret tar administrasjonen sin redegjøring til orientering.",
+  "vedtak": "Kommunestyret tar administrasjonen sin redegjøring til orientering.\nDet skal og fremlegges dokumentasjon på at handel og næringsvirksomhet ikke ikke bidrar til folkemord eller å opprettholde folkerettsstridige bosetninger.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Øyvind Næss, Sosialistisk Venstreparti",
+      "tekst": "Det skal og fremlegges dokumentasjon på at handel og næringsvirksomhet ikke ikke bidrar til folkemord eller å opprettholde folkerettsstridige bosetninger"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": [
+            "AP 7",
+            "FRP 1",
+            "H 6",
+            "INP 2",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "UAVHENGIG 2",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "AP 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoetter": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: TIL - Innkjøpsreglement (Øyvind Næss, SV)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 18,
+          "partier": [
+            "AP 6",
+            "FRP 1",
+            "H 2",
+            "MDG 1",
+            "Rødt 1",
+            "SP 5",
+            "SV 1",
+            "UAVHENGIG 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 12,
+          "partier": [
+            "AP 2",
+            "H 4",
+            "INP 2",
+            "SP 2",
+            "UAVHENGIG 1",
+            "V 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoetter": "For",
+      "roedt_side": "vinner"
+    }
+  ],
   "kommune": "ørland",
-  "dato": "20.02.2025",
+  "dato": "18.09.2025",
   "saksnummer_ps": "25/005",
   "rodt_fremmet_forslag": false
 }

@@ -1,0 +1,33 @@
+{
+  "tittel": "Samlesak for referatsaker",
+  "innstilling": "Kommunestyret tar administrasjonen sin redegjøring til orientering.",
+  "vedtak": "Sakene tas til orientering.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Opprinnelig forslag",
+      "tekst": "Sakene tas til orientering"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoettet": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "25/117",
+  "rodt_fremmet_forslag": false
+}

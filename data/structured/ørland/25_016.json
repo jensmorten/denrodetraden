@@ -1,24 +1,19 @@
 {
-  "tittel": "Godkjenning av innkalling og saksliste",
-  "innstilling": "Innkalling og saksliste med merknader godkjent.",
-  "vedtak": "Innkalling og saksliste med merknader ble enstemmig vedtatt ved manuell votering.",
-  "alternative_forslag": [
-    {
-      "forslagsstiller": "Ole Edvard Antonsen (R)",
-      "tekst": "Saken 25/026 Prosjektforslag fremtidens Helsebygg skal ikke flyttes frem på sakslisten."
-    },
-    {
-      "forslagsstiller": "Øyvind Næss (SV)",
-      "tekst": "Saken 25/026 Prosjektforslag fremtidens Helsebygg skal behandles rett etter lunsj."
-    }
-  ],
+  "tittel": "Innspill spørretimen kommunestyret - Gullvika",
+  "innstilling": "Kommunestyret tok svaret på spørsmål til spørretimen til orientering.",
+  "vedtak": "Kommunestyret tok svaret på spørsmål til spørretimen til orientering.",
+  "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Godkjenning av innkalling og saksliste med merknader",
+      "beskrivelse": "Votering over innstilling om å ta svaret til orientering",
       "alternativer": [
         {
           "navn": "For",
-          "stemmer": "Enstemmig"
+          "stemmer": null
+        },
+        {
+          "navn": "Imot",
+          "stemmer": null
         }
       ],
       "hvem_vant": "For",
@@ -27,7 +22,7 @@
     }
   ],
   "kommune": "ørland",
-  "dato": "20.02.2025",
+  "dato": "18.09.2025",
   "saksnummer_ps": "25/016",
-  "rodt_fremmet_forslag": true
+  "rodt_fremmet_forslag": false
 }

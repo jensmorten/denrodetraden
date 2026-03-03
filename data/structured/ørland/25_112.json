@@ -1,0 +1,45 @@
+{
+  "tittel": "Endring av Forskrift for reguleringsplan, bygge- og delesaksbehandling, oppmåling og eierseksjonering, Ørland kommune",
+  "innstilling": [
+    "Administrasjonen utarbeider forslag til endring av «forskrift for reguleringsplan, bygge- og delesaksbehandling, oppmåling og eierseksjonering, Ørland kommune» og sender det på høring.",
+    "Endringen skal legge til rette for:",
+    "a) Utarbeide forslag til flere kategorier under «utfylling og endring av plan»",
+    "b) Vurdering av innføring av nye gebyrkategorier, som blant annet for garasjer over 70 m²",
+    "c) Legge til rette for digital byggesøknadsløsning",
+    "d) Legge til rette for økt gebyr for søknader som kommer inn utenom elektronisk søknadsløsning."
+  ],
+  "vedtak": {
+    "sak": "KST - 25/112",
+    "tekst": [
+      "Administrasjonen utarbeider forslag til endring av «forskrift for reguleringsplan, bygge- og delesaksbehandling, oppmåling og eierseksjonering, Ørland kommune» og sender det på høring.",
+      "Endringen skal legge til rette for:",
+      "a) Utarbeide forslag til flere kategorier under «utfylling og endring av plan»",
+      "b) Vurdering av innføring av nye gebyrkategorier, som blant annet for garasjer over 70 m²",
+      "c) Legge til rette for digital byggesøknadsløsning",
+      "d) Legge til rette for økt gebyr for søknader som kommer inn utenom elektronisk søknadsløsning."
+    ]
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "For",
+      "rodt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.08.2025",
+  "saksnummer_ps": "25/112",
+  "rodt_fremmet_forslag": false
+}

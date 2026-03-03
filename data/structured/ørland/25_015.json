@@ -1,159 +1,107 @@
 {
-  "tittel": "Salg av eiendom - Meieriveien 4",
+  "tittel": "Interpellasjon til kommunestyremøte 21. august 2025 - Trekk Ørland sine penger ut av Israels folkemord!",
   "innstilling": [
-    "1. Meieriveien 4 selges til høyeste bud: 5,0 millioner kroner, ved AHA Eiendom AS",
-    "2. Salget sluttføres ved bruk av Eiendomsmegler 1 sin standard salgskontrakt",
-    "3. Kommunedirektøren gis fullmakt til å sluttføre salget."
+    "1. Kommunedirektøren undersøker om Ørland kommune i dag har investeringer i selskaper som bidrar til Israels ulovlige okkupasjon og folkemord.",
+    "2. Kommunen inntar kontraktskrav i sine fremtidige konkurranser om at handel og næringsvirksomhet ikke skal bidra til å opprettholde folkerettsstridige israelske bosetninger.",
+    "3. Kommunen kartlegger relevante eksisterende avtaler/rammeavtaler for å identifisere hvorvidt produksjon/delproduksjon av bestanddeler/varer skjer i områder med folkerettsstridige israelske bosetninger.",
+    "4. Kommunedirektøren rapporterer tilbake til kommunestyret om hvordan oppdraget er løst og hvorvidt det i dag finnes avtaler som etter dette bør avvikles."
   ],
   "vedtak": [
-    "1. Meieriveien 4 selges til høyeste bud: 5,0 millioner kroner, ved AHA Eiendom AS",
-    "2. Salget sluttføres ved bruk av Eiendomsmegler 1 sin standard salgskontrakt",
-    "3. Kommunedirektøren gis fullmakt til å sluttføre salget.",
-    "4. Selges med en klausul om at det må oppstartes arbeid innen 3-5 år. Om ikke kan Ørland kommune gjenkjøpe eiendommen for samme salgssum pluss evt. indeksregulering. Klausulen tinglyses.",
-    "5. Tomta ved Meieriveien 4 må måles opp og størrelsen på denne må være omforent mellom kjøper og selger før kontrakt inngås."
+    "1. Kommunedirektøren undersøker om Ørland kommune i dag har investeringer i selskaper som bidrar til Israels ulovlige okkupasjon og folkemord.",
+    "2. Kommunen inntar kontraktskrav i sine fremtidige konkurranser om at handel og næringsvirksomhet ikke skal bidra til å opprettholde folkerettsstridige israelske bosetninger.",
+    "3. Kommunen kartlegger relevante eksisterende avtaler/rammeavtaler for å identifisere hvorvidt produksjon/delproduksjon av bestanddeler/varer skjer i områder med folkerettsstridige israelske bosetninger.",
+    "4. Kommunedirektøren rapporterer tilbake til kommunestyret om hvordan oppdraget er løst og hvorvidt det i dag finnes avtaler som etter dette bør avvikles."
   ],
   "alternative_forslag": [
     {
-      "forslagsstiller": "Marit Sletten, Industri- og Næringspartiet",
-      "tekst": "Ved videresalg av eiendommen, skal Ørland kommune ha forkjøpsrett til samme kjøpesum med eventuelt dokumenterte utbedringer."
-    },
-    {
-      "forslagsstiller": "Fredrik Sandness, Arbeiderpartiet",
-      "tekst": "Selges med en klausul om at det må oppstartes arbeid innen 3-5 år. Om ikke kan Ørland kommune gjenkjøpe eiendommen for samme salgssum pluss evt. indeksregulering. Klausulen tinglyses."
-    },
-    {
-      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
-      "tekst": "Tomta ved Meieriveien 4 må måles opp og størrelsen på denne må være omforent mellom kjøper og selger før kontrakt inngås."
-    },
-    {
-      "forslagsstiller": "Harriet Brekstad, Fremskrittspartiet",
-      "tekst": "1. Kommunestyret aksepterer ikke budet fra AHA Eiendom AS\n2. Kommunestyret ber om at administrasjonen bruker mer tid på salget og jobber aktivt for å finne investorer og ikke bare overlater salget til megler."
+      "forslagsstiller": "Gert Gabrielsen, Miljøpartiet De Grønne",
+      "tekst": "1. Ørland kommune skal få en fullstendig oversikt over hvilke investeringer kommunen har gjort.\n2. Ørland kommune skal ikke investere i land som bryter folkeretten.\n3. Det bes om punktvis votering over alle forslag i saken."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering nr 1 - Votering over forslag fra Ørland Frp",
+      "beskrivelse": "Votering over forslag - ekstra forslag",
       "alternativer": [
         {
-          "navn": "For",
-          "stemmer": 7,
-          "partier": [
-            "AP 2",
-            "FRP 2",
-            "INP 3"
-          ]
+          "navn": "TIL - ekstra forslag",
+          "stemmer": 9
         },
         {
-          "navn": "Mot",
-          "stemmer": 23,
-          "partier": [
-            "AP 6",
-            "H 5",
-            "INP 1",
-            "MDG 1",
-            "Rødt 1",
-            "SP 7",
-            "SV 1",
-            "V 1"
-          ]
+          "navn": "MOT - ekstra forslag",
+          "stemmer": 22
         }
       ],
-      "hvem_vant": "Mot",
-      "rodt_stoette": "Mot",
-      "rodt_side": "vinner"
+      "hvem_vant": "MOT - ekstra forslag",
+      "roedt_stoette": "TIL - ekstra forslag",
+      "roedt_side": "taper"
     },
     {
-      "beskrivelse": "Votering nr 2 - Votering over forslag Gjennkjøp (Marit Sletten) og Nytt punkt 4 (Fredrik Sandness)",
+      "beskrivelse": "Votering over forslag - Forslag til vedtak - punkt 1",
       "alternativer": [
         {
-          "navn": "Gjennkjøp, forslag Marit Sletten",
-          "stemmer": 2,
-          "partier": [
-            "INP 2"
-          ]
+          "navn": "ENF - Forslag til vedtak - punkt 1",
+          "stemmer": 26
         },
         {
-          "navn": "Nytt punkt 4",
-          "stemmer": 28,
-          "partier": [
-            "AP 8",
-            "FRP 2",
-            "H 5",
-            "INP 2",
-            "MDG 1",
-            "Rødt 1",
-            "SP 7",
-            "SV 1",
-            "V 1"
-          ]
+          "navn": "MOT - Forslag til vedtak - punkt 1",
+          "stemmer": 5
         }
       ],
-      "hvem_vant": "Nytt punkt 4",
-      "rodt_stoette": "Nytt punkt 4",
-      "rodt_side": "vinner"
+      "hvem_vant": "ENF - Forslag til vedtak - punkt 1",
+      "roedt_stoette": "ENF - Forslag til vedtak - punkt 1",
+      "roedt_side": "vinner"
     },
     {
-      "beskrivelse": "Votering nr 3 - Votering over forslag Nytt punkt 5 (Hallgeir Grøntvedt)",
+      "beskrivelse": "Votering over forslag - Forslag til vedtak - punkt 2",
       "alternativer": [
         {
-          "navn": "For",
-          "stemmer": 30,
-          "partier": [
-            "AP 8",
-            "FRP 2",
-            "H 5",
-            "INP 4",
-            "MDG 1",
-            "Rødt 1",
-            "SP 7",
-            "SV 1",
-            "V 1"
-          ]
+          "navn": "ENF - Forslag til vedtak - punkt 2",
+          "stemmer": 16
         },
         {
-          "navn": "Mot",
-          "stemmer": 0,
-          "partier": []
+          "navn": "MOT - Forslag til vedtak - punkt 2",
+          "stemmer": 15
         }
       ],
-      "hvem_vant": "For",
-      "rodt_stoette": "For",
-      "rodt_side": "vinner"
+      "hvem_vant": "ENF - Forslag til vedtak - punkt 2",
+      "roedt_stoette": "ENF - Forslag til vedtak - punkt 2",
+      "roedt_side": "vinner"
     },
     {
-      "beskrivelse": "Votering nr 4 - Votering over opprinnelig forslag",
+      "beskrivelse": "Votering over forslag - Forslag til vedtak - punkt 3",
       "alternativer": [
         {
-          "navn": "For",
-          "stemmer": 25,
-          "partier": [
-            "AP 8",
-            "H 5",
-            "INP 2",
-            "MDG 1",
-            "Rødt 1",
-            "SP 6",
-            "SV 1",
-            "V 1"
-          ]
+          "navn": "ENF - Forslag til vedtak - punkt 3",
+          "stemmer": 16
         },
         {
-          "navn": "Mot",
-          "stemmer": 5,
-          "partier": [
-            "FRP 2",
-            "INP 2",
-            "SP 1"
-          ]
+          "navn": "MOT - Forslag til vedtak - punkt 3",
+          "stemmer": 15
         }
       ],
-      "hvem_vant": "For",
-      "rodt_stoette": "For",
-      "rodt_side": "vinner"
+      "hvem_vant": "ENF - Forslag til vedtak - punkt 3",
+      "roedt_stoette": "ENF - Forslag til vedtak - punkt 3",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag - Forslag til vedtak - punkt 4",
+      "alternativer": [
+        {
+          "navn": "ENF - Forslag til vedtak - punkt 4",
+          "stemmer": 24
+        },
+        {
+          "navn": "MOT - Forslag til vedtak - punkt 4",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "ENF - Forslag til vedtak - punkt 4",
+      "roedt_stoette": "ENF - Forslag til vedtak - punkt 4",
+      "roedt_side": "vinner"
     }
   ],
   "kommune": "ørland",
-  "dato": "23.01.2025",
+  "dato": "21.08.2025",
   "saksnummer_ps": "25/015",
   "rodt_fremmet_forslag": false
 }

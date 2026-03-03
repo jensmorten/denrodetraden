@@ -1,0 +1,33 @@
+{
+  "tittel": "Opprykk og nyvalg ifm fritak fra faste verv som folkevalgt for resten av valgperioden 2023 - 2027",
+  "innstilling": "Kommunedirektørens innstilling",
+  "vedtak": "Saken utsettes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "ENF",
+      "tekst": "Forslag om utsettelse"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om utsettelse",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.08.2025",
+  "saksnummer_ps": "25/109",
+  "rodt_fremmet_forslag": false
+}

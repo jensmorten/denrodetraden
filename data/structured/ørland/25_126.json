@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av protokollunderskrivere",
+  "innstilling": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Therese M. Eidsaune (H)\n• Fredrik Sandness (AP)",
+  "vedtak": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Therese M. Eidsaune (H)\n• Fredrik Sandness (AP)",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen ble enstemmig vedtatt ved manuell votering.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "25/126",
+  "rodt_fremmet_forslag": false
+}

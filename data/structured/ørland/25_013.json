@@ -1,117 +1,28 @@
 {
-  "tittel": "Salg av eiendom - Fru Ingers vei 300",
-  "innstilling": [
-    "1. Ørland kommunestyret godkjenner avtale til leiekontrakt fra Forsvarsbygg",
-    "2. Kommunedirektøren gis fullmakt til å sluttføre forhandlingene"
-  ],
-  "vedtak": [
-    "1. Fru Ingers vei 300 selges til høyeste bud: 4,9 mill ved Bygg Team Fosen AS",
-    "2. Salget sluttføres ved bruk av Eiendomsmegler 1 sin standard salgskontrakt.",
-    "3. Det innarbeides i kjøpekontrakten at Ørland kommune har tinglyst forkjøpsrett til eiendommen ved et eventuelt videresalg.",
-    "4. Kommunedirektøren gis fullmakt til å sluttføre salget"
-  ],
-  "alternative_forslag": [
-    {
-      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
-      "tekst": "1. Fru Ingers vei 300 selges til høyeste bud: 4,9 mill ved Bygg Team Fosen AS"
-    },
-    {
-      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
-      "tekst": "2. Salget sluttføres ved bruk av Eiendomsmegler 1 sin standard salgskontrakt."
-    },
-    {
-      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
-      "tekst": "3. Det innarbeides i kjøpekontrakten at Ørland kommune har tinglyst forkjøpsrett til eiendommen ved et eventuelt videresalg."
-    },
-    {
-      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
-      "tekst": "4. Kommunedirektøren gis fullmakt til å sluttføre salget."
-    }
-  ],
+  "tittel": "Spørsmål til ordfører - Redusert kulturskoletilbud",
+  "innstilling": null,
+  "vedtak": "Kommunestyret tok svaret på spørsmål til spørretimen til orientering.",
+  "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over forslag: Nytt forslag punkt 4.",
+      "beskrivelse": "Vedtak av svar på spørsmål til spørretimen om redusert kulturskoletilbud",
       "alternativer": [
         {
           "navn": "For",
-          "stemmer": 30
+          "stemmer": null
         },
         {
           "navn": "Mot",
-          "stemmer": 0
+          "stemmer": null
         }
       ],
       "hvem_vant": "For",
       "roedt_stoettet": "For",
-      "roedt_side": "vinner"
-    },
-    {
-      "beskrivelse": "Votering over forslag: Nytt forslag punkt 3.",
-      "alternativer": [
-        {
-          "navn": "For",
-          "stemmer": 29
-        },
-        {
-          "navn": "Mot",
-          "stemmer": 1
-        }
-      ],
-      "hvem_vant": "For",
-      "roedt_stoettet": "For",
-      "roedt_side": "vinner"
-    },
-    {
-      "beskrivelse": "Votering over forslag: Nytt forslag punkt 2.",
-      "alternativer": [
-        {
-          "navn": "For",
-          "stemmer": 30
-        },
-        {
-          "navn": "Mot",
-          "stemmer": 0
-        }
-      ],
-      "hvem_vant": "For",
-      "roedt_stoettet": "For",
-      "roedt_side": "vinner"
-    },
-    {
-      "beskrivelse": "Votering over forslag: Nytt forslag punkt 1.",
-      "alternativer": [
-        {
-          "navn": "For",
-          "stemmer": 29
-        },
-        {
-          "navn": "Mot",
-          "stemmer": 1
-        }
-      ],
-      "hvem_vant": "For",
-      "roedt_stoettet": "For",
-      "roedt_side": "vinner"
-    },
-    {
-      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
-      "alternativer": [
-        {
-          "navn": "For",
-          "stemmer": 1
-        },
-        {
-          "navn": "Mot",
-          "stemmer": 29
-        }
-      ],
-      "hvem_vant": "Mot",
-      "roedt_stoettet": "Mot",
-      "roedt_side": "taper"
+      "roedt_paa_vinner_side": true
     }
   ],
   "kommune": "ørland",
-  "dato": "23.01.2025",
+  "dato": "21.08.2025",
   "saksnummer_ps": "25/013",
   "rodt_fremmet_forslag": false
 }

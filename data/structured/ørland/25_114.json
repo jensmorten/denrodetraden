@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og saksliste godkjent uten merknad.",
+  "vedtak": "Innkalling og saksliste ble vedtatt med følgende merknader.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innkalling og saksliste med merknader ble enstemmig vedtatt ved manuell votering.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stottet": "For",
+      "rodt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "25/114",
+  "rodt_fremmet_forslag": false
+}

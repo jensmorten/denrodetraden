@@ -1,28 +1,44 @@
 {
-  "tittel": "Interpellasjon neste kommunestyremøte - mangelen på hender innen helse og omsorg",
-  "innstilling": "Kommunestyret ber kommunedirektøren om å se på muligheten for å inngå en avtale med forsvaret hvor førstegangstjenestegjørende som avtjener verneplikten ved Ørland Flystasjon kan tilbys deltidsarbeide innen helse og omsorg.",
-  "vedtak": "Kommunestyret ber kommunedirektøren om å se på muligheten for å inngå en avtale med forsvaret hvor førstegangstjenestegjørende som avtjener verneplikten ved Ørland Flystasjon kan tilbys deltidsarbeide innen helse og omsorg.",
+  "tittel": null,
+  "innstilling": "Saken tas til orientering.",
+  "vedtak": "Saken tas til orientering.",
   "alternative_forslag": [],
   "voteringer": [
     {
-      "beskrivelse": "Votering over forslag til vedtak",
+      "beskrivelse": "Votering over forslag - Innstilling fra Formannskap - 04.09.2025",
       "alternativer": [
         {
           "navn": "For",
-          "stemmer": 26
+          "stemmer": 30
         },
         {
           "navn": "Mot",
-          "stemmer": 4
+          "stemmer": 0
         }
       ],
       "hvem_vant": "For",
-      "roedt_stoettet": "Mot",
-      "roedt_paa_vinner_side": false
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag - Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
     }
   ],
   "kommune": "ørland",
-  "dato": "27.03.2025",
+  "dato": "18.09.2025",
   "saksnummer_ps": "25/006",
   "rodt_fremmet_forslag": false
 }

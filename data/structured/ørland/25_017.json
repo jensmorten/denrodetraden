@@ -1,24 +1,11 @@
 {
-  "tittel": "Valg av protokollunderskrivere",
-  "innstilling": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Therese M. Eidsaune (H)\n• Fredrik Sandness (AP)",
-  "vedtak": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Therese M. Eidsaune (H)\n• Fredrik Sandness (AP)",
+  "tittel": "Spørsmål til spørretimen - status økonomi og innspill til budsjettarbeidet fra flertallet",
+  "innstilling": null,
+  "vedtak": "Det ble gitt svar fra ordfører på spørsmål om praksis rundt føringer til kommunedirektøren før budsjettprosessen, med henvisning til kommuneloven og god forvaltningsskikk. Det ble understreket at styring skal skje gjennom formelle vedtak i folkevalgte organer, og at direkte føringer fra enkeltgrupperinger utenom vedtak ikke er vanlig praksis eller innenfor loven. Innspill fra flertallet i formannskapet ble gitt som innspill uten vedtak, og prosessen har foregått i åpenhet. Alle partier er velkomne til å bruke innspillene i sitt budsjettarbeid.",
   "alternative_forslag": [],
-  "voteringer": [
-    {
-      "beskrivelse": "Innstillingen ble enstemmig vedtatt ved manuell votering.",
-      "alternativer": [
-        {
-          "navn": "For",
-          "stemmer": "enstemmig"
-        }
-      ],
-      "hvem_vant": "For",
-      "roedt_stoettet": "For",
-      "roedt_paa_vinner_side": true
-    }
-  ],
+  "voteringer": [],
   "kommune": "ørland",
-  "dato": "20.02.2025",
+  "dato": "30.10.2025",
   "saksnummer_ps": "25/017",
   "rodt_fremmet_forslag": false
 }

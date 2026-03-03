@@ -1,11 +1,53 @@
 {
-  "tittel": "Spørretimen/Interpellasjoner",
-  "innstilling": "Spørsmål til spørretimen ble svart ut av ordfører i møte. Svarene er protokollert i sakene FI 25/003, 25/004 og 25/005.",
-  "vedtak": "Kommunestyret tok sakene til informasjon.",
-  "alternative_forslag": [],
-  "voteringer": [],
+  "tittel": "Interpellasjon - endring av ordlyd i vedtak i sak 25/3756 - 2. Høring barnehage- og skolestruktur i Ørland",
+  "innstilling": {
+    "forslagsstiller": "Oda Kristine Leth-Jøssing, Miljøpartiet De Grønne",
+    "tekst": "Kommunestyret vedtar å endre ordlyden i vedtaket i sak 25/3756 - 2 til: «I tråd med kommunestyrevedtaket den 21.08.25 sendes forslag til endringer i barnehageog skolestrukturen for Ørland kommune på offentlig høring.»"
+  },
+  "vedtak": {
+    "tekst": "Kommunestyret vedtar å endre ordlyden i vedtaket i sak 25/3756 - 2 til: «I tråd med kommunestyrevedtaket den 21.08.25 sendes forslag til endringer i barnehageog skolestrukturen for Ørland kommune på offentlig høring.»"
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Oda Kristine Leth-Jøssing (MDG)",
+      "tekst": "Kommunestyret vedtar å endre ordlyden i vedtaket i sak 25/3756 - 2 til: «I tråd med kommunestyrevedtaket den 21.08.25 sendes forslag til endringer i barnehageog skolestrukturen for Ørland kommune på offentlig høring.»"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 2",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "UAVHENGIG 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "INP 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
   "kommune": "ørland",
-  "dato": "20.02.2025",
+  "dato": "30.10.2025",
   "saksnummer_ps": "25/018",
   "rodt_fremmet_forslag": false
 }

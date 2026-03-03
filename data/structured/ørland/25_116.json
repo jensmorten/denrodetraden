@@ -1,0 +1,28 @@
+{
+  "tittel": "Spørretimen/Interpellasjoner",
+  "innstilling": null,
+  "vedtak": "Kommunestyret tok spørsmål og svar til informasjon.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om å ta spørsmål og svar til informasjon",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": null
+        },
+        {
+          "navn": "Mot",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoettet": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "25/116",
+  "rodt_fremmet_forslag": false
+}

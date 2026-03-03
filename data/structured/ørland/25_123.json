@@ -1,0 +1,86 @@
+{
+  "tittel": "Kommunedelplan for avløp og vannmiljø - Planprogram",
+  "innstilling": [
+    "I medhold av pbl. §11-12 blir vedlagte planprogram vedtatt.",
+    "I medhold av pbl. §11-12 blir arbeidet med kommunedelplan for avløp og vannmiljø startet."
+  ],
+  "vedtak": [
+    "I medhold av pbl. §11-12 blir vedlagte planprogram vedtatt.",
+    "I medhold av pbl. §11-12 blir arbeidet med kommunedelplan for avløp og vannmiljø startet.",
+    "Kommunestyret ber om at det etableres en fast og rettferdig kompensasjonsordning fra staten som dekker de merkostnadene kommunen har for å drifte og vedlikeholde infrastruktur tilknyttet forsvarsbasen.",
+    "Kompensasjonsordningen bør være øremerket midler til vann, kloakk, veivedlikehold og annen nødvendig infrastruktur brukt av forsvarsbasen.",
+    "Kompensasjonsordningen bør baseres på kapasitet og bruk, fastsatt etter basens maksimale kapasitet under øvelser.",
+    "Kompensasjonen må dekke både drift og investering i oppgradering og vedlikehold av infrastrukturen.",
+    "Kommunestyret ber Kommunedirektøren om å styrke kontakt med relevante statlige myndigheter for å presentere saken og starte forhandlinger om kompensasjonsordningen."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Gunnar Hofstad (Industri- og Næringspartiet)",
+      "tekst": "Kommunestyret ber om at det etableres en fast og rettferdig kompensasjonsordning fra staten som dekker de merkostnadene kommunen har for å drifte og vedlikeholde infrastruktur tilknyttet forsvarsbasen. Kompensasjonsordningen bør være øremerket, basert på kapasitet og bruk, og dekke både drift og investering."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over opprinnelig forslag til kommunedelplan for avløp og vannmiljø - Planprogram",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 1",
+            "H 6",
+            "INP 2",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "UAVHENGIG 2",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag om behov for statlig kompensasjon for drift av infrastruktur knyttet til forsvarsanlegg (forslag fra Gunnar Hofstad, INP)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 1",
+            "H 6",
+            "INP 2",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "UAVHENGIG 2",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "25/123",
+  "rodt_fremmet_forslag": false
+}

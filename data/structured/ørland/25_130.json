@@ -1,0 +1,28 @@
+{
+  "tittel": "Møteplan 2026 for Formannskap, Partssammensatt utvalg og Kommunestyret",
+  "innstilling": "Møteplan 2026 for Formannskap, Partssammensatt utvalg og Kommunestyret, vedtas som framlagt.",
+  "vedtak": "Møteplan 2026 for Formannskap, Partssammensatt utvalg og Kommunestyret, vedtas som framlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Formannskap - 16.10.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "25/130",
+  "rodt_fremmet_forslag": false
+}

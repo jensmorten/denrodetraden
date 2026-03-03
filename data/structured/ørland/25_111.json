@@ -1,0 +1,53 @@
+{
+  "tittel": "Vurdering av bygg for barnehagen i Lysøysundet og Botngård Barneskole",
+  "innstilling": "Ørland kommunestyre tar saken til orientering",
+  "vedtak": "Rapport - forslag til strukturendring oppvekst til høring som ble lagt frem i kommunestyret mars 2025, i sak 25/039 sendes ut på høring. Rapporten sendes ut på høring i september, med en høringsperiode på tre måneder. Tilbakemeldingene fra høringene skal behandles i komite for oppvekst og utdanning før jul og i kommunestyret i januar 2026.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Fredrik Sandness, Arbeiderpartiet",
+      "tekst": "Kommunestyret ber om at kommunedirektøren iverksetter et arbeid for å erstatte midlertidig løsning i Lysøysund, og ønsker et prisoverslag så snart som mulig slik at man får jobbet det inn i budsjettprossesen for 2026."
+    },
+    {
+      "forslagsstiller": "Therese Mossing Eidsaune, Høyre",
+      "tekst": "Rapport - forslag til strukturendring oppvekst til høring som ble lagt frem i kommunestyret mars 2025, i sak 25/039 sendes ut på høring. Rapporten sendes ut på høring i september, med en høringsperiode på tre måneder. Tilbakemeldingene fra høringene skal behandles i komite for oppvekst og utdanning før jul og i kommunestyret i januar 2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 3
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over forslag - Rapport - forslag til strukturendring oppvekst til høring",
+      "alternativer": [
+        {
+          "navn": "ENF - Rapport - forslag til strukturendring oppvekst til høring",
+          "stemmer": 19
+        },
+        {
+          "navn": "ENF - Nytt forslag",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "ENF - Rapport - forslag til strukturendring oppvekst til høring",
+      "roedt_stoettet": "ENF - Nytt forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.08.2025",
+  "saksnummer_ps": "25/111",
+  "rodt_fremmet_forslag": false
+}

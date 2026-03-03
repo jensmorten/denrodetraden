@@ -1,0 +1,81 @@
+{
+  "tittel": "Søknad fra kirkelig fellesråd om økt driftstilskudd",
+  "innstilling": "Saken tas til orientering.",
+  "vedtak": {
+    "id": "25/120",
+    "dato": "18.09.2025",
+    "tekst": [
+      "Kommunestyret i Ørland bevilger kr. 150.000,- til Ørland kirkelige fellesråd (Fellesrådet) for å holde alle kirker i Ørland åpne ut 2025.",
+      "Beløpet bevilges fra disposisjonsfondet.",
+      "Kommunestyret ber Fellesrådet utforme et budsjett for 2026 som skal leveres kommunedirektøren innen utgangen av september 2025. Dette for at kirkens økonomi skal kunne vurderes i sammenheng med Ørland kommunes totalbudsjett.",
+      "Kommunestyret ber Fellesrådet se på eventuelle ytterligere innsparinger eller inntektsmuligheter i budsjett for 2026 og beskrive konsekvensene av disse."
+    ]
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marit Sletten (INP)",
+      "tekst": "Opprinnelig forslag"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Innstilling fra Formannskap - 04.09.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": [
+            "AP 7",
+            "FRP 1",
+            "H 6",
+            "INP 2",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "UAVHENGIG 2",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "AP 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "For",
+      "rodt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag - Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "ENF - Søknad fra kirkelig fellesråd om økt driftstilskudd",
+          "stemmer": 5,
+          "partier": [
+            "AP 2",
+            "H 2",
+            "SP 1"
+          ]
+        },
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 1,
+          "partier": [
+            "INP 1"
+          ]
+        }
+      ],
+      "hvem_vant": "ENF - Søknad fra kirkelig fellesråd om økt driftstilskudd",
+      "rodt_stoette": null,
+      "rodt_side": "ukjent"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "25/120",
+  "rodt_fremmet_forslag": false
+}

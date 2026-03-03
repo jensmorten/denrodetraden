@@ -1,58 +1,39 @@
 {
-  "tittel": "Salg av eiendom - Alf Nebbs gate 2",
+  "tittel": "Interpellasjon - Økonomisk støtte til å dekke 50 % av forsikringspremie - Uthaugsgården",
   "innstilling": [
-    "Alf Nebbs gate 2 selges til høyeste bud: 3,5 millioner kroner, ved Ritro Eiendom AS",
-    "Salget sluttføres ved bruk av Eiendomsmegler 1 sin standard salgskontrakt",
-    "Kommunedirektøren gis fullmakt til å sluttføre salget."
+    "Ørland kommunestyre oppfordrer Uthaugsgården til å vurdere sine nåværende forsikringsordninger, med tanke på om det finnes mer fordelaktige alternativer.",
+    "Kommunestyret vil ta stilling til tilskuddets størrelse til museer for 2026 i forbindelse med den kommende budsjettprosessen."
   ],
   "vedtak": [
-    "Alf Nebbs gate 2 selges til høyeste bud: 3,5 millioner kroner, ved Ritro Eiendom AS",
-    "Salget sluttføres ved bruk av Eiendomsmegler 1 sin standard salgskontrakt",
-    "Kommunedirektøren gis fullmakt til å sluttføre salget.",
-    "Selges med en klausul om at det må oppstartes arbeid innen 3-5 år. Om ikke kan Ørland kommune gjenkjøpe eiendommen for samme salgssum pluss evt. indeksregulering. Klausulen tinglyses"
+    "Ørland kommunestyre oppfordrer Uthaugsgården til å vurdere sine nåværende forsikringsordninger, med tanke på om det finnes mer fordelaktige alternativer.",
+    "Kommunestyret vil ta stilling til tilskuddets størrelse til museer for 2026 i forbindelse med den kommende budsjettprosessen."
   ],
   "alternative_forslag": [
     {
-      "forslagsstiller": "Fredrik Sandness, Arbeiderpartiet",
-      "tekst": "Selges med en klausul om at det må oppstartes arbeid innen 3-5 år. Om ikke kan Ørland kommune gjenkjøpe eiendommen for samme salgssum pluss evt. indeksregulering. Klausulen tinglyses"
+      "forslagsstiller": "Bjørn Glørstad, Høyre",
+      "tekst": "Ørland Kommune bidrar og forplikter seg til å dekke 50% av forsikringspremien årlig for Stiftelsen Uthaugsgården."
     }
   ],
   "voteringer": [
     {
-      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "beskrivelse": "Votering over forslag",
       "alternativer": [
         {
-          "navn": "For",
-          "stemmer": 30
+          "navn": "ENF - Økonomisk støtte til 50% av forsikringspremien",
+          "stemmer": 29
         },
         {
-          "navn": "Mot",
-          "stemmer": 0
+          "navn": "ENF - Forslag til vedtak",
+          "stemmer": 2
         }
       ],
-      "hvem_vant": "For",
-      "rodt_stoettet": "For",
-      "rodt_paa_vinner_side": true
-    },
-    {
-      "beskrivelse": "Votering over forslag: Forslag nytt punkt 4",
-      "alternativer": [
-        {
-          "navn": "For",
-          "stemmer": 30
-        },
-        {
-          "navn": "Mot",
-          "stemmer": 0
-        }
-      ],
-      "hvem_vant": "For",
-      "rodt_stoettet": "For",
-      "rodt_paa_vinner_side": true
+      "hvem_vant": "ENF - Økonomisk støtte til 50% av forsikringspremien",
+      "roedt_stoettet": "ENF - Økonomisk støtte til 50% av forsikringspremien",
+      "roedt_paa_vinner_side": true
     }
   ],
   "kommune": "ørland",
-  "dato": "23.01.2025",
+  "dato": "21.08.2025",
   "saksnummer_ps": "25/014",
   "rodt_fremmet_forslag": false
 }
