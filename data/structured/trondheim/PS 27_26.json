@@ -1,0 +1,30 @@
+{
+  "tittel": "Nyvalg - utflytting Hege Rovik (Ap)",
+  "innstilling": {
+    "1. vara helse- og velferdsutvalget": "Heidi Leistad (Ap)",
+    "4. vara finans- og organisasjon": "Dina Marie Hofsli Flått (Ap)"
+  },
+  "vedtak": {
+    "1. vara helse- og velferdsutvalget": "Heidi Leistad (Ap)",
+    "4. vara finans- og organisasjon": "Dina Marie Hofsli Flått (Ap)"
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.01.2026",
+  "saksnummer_ps": "PS 27/26",
+  "rodt_fremmet_forslag": false
+}

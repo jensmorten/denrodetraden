@@ -1,0 +1,45 @@
+{
+  "tittel": "Cecilie Løvøs veg 10-14 og Moholtsvingen 36, detaljregulering - sluttbehandling",
+  "innstilling": "Bystyret vedtar forslag til detaljregulering som vist på kart i målestokk 1:1000, merket Pir2, senest datert 17.10.2025, med bestemmelser senest datert 28.11.2025, og beskrevet i planbeskrivelsen, senest datert 16.10.2025. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "vedtak": "Bystyret vedtar forslag til detaljregulering som vist på kart i målestokk 1:1000, merket Pir2, senest datert 17.10.2025, med bestemmelser senest datert 28.11.2025, og beskrevet i planbeskrivelsen, senest datert 16.10.2025. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV) på vegne av SV, R, Uavh. Ødegaard",
+      "tekst": "Endre første setning i paragraf 3.1.3.4 Tetthet, antall og boligsammensetning/størrelse. Minimum 20 % av samlet antall boenheter skal være 4-roms leiligheter eller større."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Næss Bergsengs tilleggsforslag om å øke andelen 4-romsleiligheter",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 54
+        }
+      ],
+      "hvem_vant": "Mot tilleggsforslaget",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.01.2026",
+  "saksnummer_ps": "PS 11/26",
+  "rodt_fremmet_forslag": false
+}

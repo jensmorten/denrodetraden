@@ -1,0 +1,44 @@
+{
+  "tittel": "Opphør av stiftelsen Nidaros Pilegrimsgård",
+  "innstilling": "Bystyret støtter byrådet i å avvikle stiftelsen Nidaros Pilgrimsgård, og ber byrådet jobbe for videre med å styrke Trondheim som pilegrimsby",
+  "vedtak": [
+    "Bystyret støtter byrådet i å avvikle stiftelsen Nidaros Pilgrimsgård, og ber byrådet jobbe for videre med å styrke Trondheim som pilegrimsby",
+    "Bystyret ber byrådet fremme en sak om ny modell for pilegrimssenteret, og spesielt hvordan kommunen vil forvalte Kjøpmannsgata 1 for å understøtte satsingen mot 2030."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sigurd Jan Ingvaldsen (Ap)",
+      "tekst": "Bystyret ber byrådet fremme en sak om ny modell for pilegrimssenteret, og spesielt hvordan kommunen vil forvalte Kjøpmannsgata 1 for å understøtte satsingen mot 2030."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Ingvaldsens tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.01.2026",
+  "saksnummer_ps": "PS 14/26",
+  "rodt_fremmet_forslag": false
+}

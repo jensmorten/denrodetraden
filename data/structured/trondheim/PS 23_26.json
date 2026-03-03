@@ -1,0 +1,24 @@
+{
+  "tittel": "Fritakssøknad og nyvalg for SV",
+  "innstilling": "Bystyret innvilger Mona Berger (SV) fritak fra sitt verv som medlem i Fylkesmøtet KS. Bystyret velger Jenny Nordaune (SV) som nytt medlem i Fylkesmøtet KS.",
+  "vedtak": "Bystyret innvilger Mona Berger (SV) fritak fra sitt verv som medlem i Fylkesmøtet KS. Bystyret velger Jenny Nordaune (SV) som nytt medlem i Fylkesmøtet KS.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.01.2026",
+  "saksnummer_ps": "PS 23/26",
+  "rodt_fremmet_forslag": false
+}

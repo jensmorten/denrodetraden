@@ -1,0 +1,70 @@
+{
+  "tittel": "Flytting av autismetilbudet ved Tonstad skole",
+  "innstilling": [
+    "Bystyret beslutter at autismetilbudet som i dag er lokalisert ved Tonstad skole, økes til 15 plasser.",
+    "Bystyret vedtar at Brundalen skole og Ranheim skole utredes videre og at byrådet legger fram sak til investeringsbeslutning for det alternativet som viser seg best.",
+    "Bystyret vedtar at løsning for tilleggskostnadene behandles i forbindelse med 1. økonomirapport."
+  ],
+  "vedtak": [
+    "Bystyret beslutter at autismetilbudet som i dag er lokalisert ved Tonstad skole, økes til 15 plasser.",
+    "Bystyret vedtar at Brundalen skole og Ranheim skole utredes videre og at byrådet legger fram sak til investeringsbeslutning for det alternativet som viser seg best.",
+    "Bystyret vedtar at løsning for tilleggskostnadene behandles i forbindelse med 1. økonomirapport.",
+    "Bystyret forutsetter at berørte parter er tett involvert i den videre planleggingen."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ottar Michelsen (SV)",
+      "tekst": "Bystyret forutsetter at berørte parter er tett involvert i den videre planleggingen."
+    },
+    {
+      "forslagsstiller": "Sara Shafigighi (Ap)",
+      "tekst": "Bystyret ber om at Nidarvoll/Sunnland skole tas med som et aktuelt alternativ i den videre prosessen fram mot endelig investeringsbeslutning, på lik linje med Brundalen og Ranheim. Det er ønskelig å fremheve viktigheten av integrasjon mellom elever ved barneskole og ungdomsskole ved Nidarvoll og Sunnland og elever ved autismetilbudet. Ved dette alternativet er et videre arbeidet knyttet til økt trafikksikkerhet for elever en viktig faktor."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Michelsens tilleggsforslag om involvering av berørte parter",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Shafighis tilleggsforslag om å inkludere Nidarvoll/Sunnland skole i videre utredning",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.01.2026",
+  "saksnummer_ps": "PS 29/26",
+  "rodt_fremmet_forslag": false
+}

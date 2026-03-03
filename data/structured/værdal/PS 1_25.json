@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av møteprotokoll",
+  "innstilling": "Protokoll fra møte 16. desember 2024 godkjennes.",
+  "vedtak": "Protokoll fra møte 16. desember 2024 godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordførers forslag til vedtak om godkjenning av protokoll fra møte 16. desember 2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "27.01.2025",
+  "saksnummer_ps": "PS 1/25",
+  "rodt_fremmet_forslag": false
+}

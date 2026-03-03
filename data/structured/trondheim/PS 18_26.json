@@ -1,0 +1,70 @@
+{
+  "tittel": "Innbyggerinitiativ - Buran bibliotek må holdes åpent",
+  "innstilling": [
+    "Bystyret ber byråden komme med et notat til bystyret som opplyser om hvordan et midlertidig lavterskel møtested med en nedskalert bibliotekfunksjon kan fungere i perioden Buran bibliotek pusses opp.",
+    "Det er positivt at Buran bibliotek har funnet løsninger for å holde åpent et par dager i uken.",
+    "Bystyret ber byrådet finne alternative løsninger for å sikre at Buran bibliotek kan ha åpent flere dager i oppussingsperioden."
+  ],
+  "vedtak": [
+    "Bystyret ber byråden komme med et notat til bystyret som opplyser om hvordan et midlertidig lavterskel møtested med en nedskalert bibliotekfunksjon kan fungere i perioden Buran bibliotek pusses opp.",
+    "Det er positivt at Buran bibliotek har funnet løsninger for å holde åpent et par dager i uken.",
+    "Bystyret ber byrådet finne alternative løsninger for å sikre at Buran bibliotek kan ha åpent flere dager i oppussingsperioden.",
+    "Bystyret bevilger 200 000 kroner fra disposisjonsfondet til oppgraderinger av Buranhus i samråd med AKKs og biblioteket."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV) på vegne av SV, MDG, Ap, FrP, R, Uavh. Ødegaard",
+      "tekst": "Bystyret bevilger 200 000 kroner fra disposisjonsfondet til oppgraderinger av Buranhus i samråd med AKKs og biblioteket."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på innstillingens første avsnitt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 55
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på innstillingens andre avsnitt",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": 61
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på tilleggsforslag fra Naper Salomonsen om oppgradering Buranhus",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 66
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.01.2026",
+  "saksnummer_ps": "PS 18/26",
+  "rodt_fremmet_forslag": false
+}
