@@ -1,0 +1,33 @@
+{
+  "tittel": "PS 5/23 Mulighetsstudie - Framtidig offentlig parkering i Verdal",
+  "innstilling": "Vedlagte mulighetsstudie om framtidige løsninger for offentlig parkering i Verdal sentrum tas til orientering.",
+  "vedtak": "Vedlagte mulighetsstudie om framtidige løsninger for offentlig parkering i Verdal sentrum tas til orientering.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sven-Øyvind Bern (SV)",
+      "tekst": "Vedlagte mulighetsstudie for framtidige løsninger for offentlig parkering i Verdal sentrum tas til orientering. Før videre arbeid med løsninger for bilparkering i Verdal sentrum kan fortsette, skal behovet for sykkelparkering i Verdal kommune være utredet på samme måte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling og forslaget fra SV",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 32
+        },
+        {
+          "navn": "Forslaget fra SV",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "30.01.2023",
+  "saksnummer_ps": "PS 5/23",
+  "rodt_fremmet_forslag": false
+}

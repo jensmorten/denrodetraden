@@ -1,0 +1,49 @@
+{
+  "tittel": "Forslag til flaggreglement for Ørland kommune",
+  "innstilling": "Kommunestyret vedtar vedlagt flaggreglement for Ørland kommune datert 16.01.25",
+  "vedtak": "Kommunestyret vedtar vedlagt flaggreglement for Ørland kommune datert 16.01.25.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "Setningen “Forbudet gjelder ikke i forbindelse med arrangement, markering eller merkedag av allmenn interesse.” endres til: “Forbudet gjelder ikke i forbindelse med arrangement, markering, FN-dager eller merkedag av allmenn interesse.” Setningen: “Kommunedirektør tar avgjørelse om flagging ved øvrige arrangement, markering eller merkedag i samråd med Ordfører” endres til: “Kommunedirektør tar avgjørelse om flagging ved øvrige arrangement, markering, FN-dag eller merkedag i samråd med Ordfører”"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om endringsforslag",
+      "alternativer": [
+        {
+          "navn": "Endringsforslag",
+          "stemmer": 6
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Endringsforslag",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Opprinnelig forslag",
+      "roedt_stoettet": "Opprinnelig forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "23.01.2025",
+  "saksnummer_ps": "25/010",
+  "rodt_fremmet_forslag": true
+}

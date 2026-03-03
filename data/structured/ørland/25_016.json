@@ -1,0 +1,33 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og saksliste med merknader godkjent.",
+  "vedtak": "Innkalling og saksliste med merknader ble enstemmig vedtatt ved manuell votering.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole Edvard Antonsen (R)",
+      "tekst": "Saken 25/026 Prosjektforslag fremtidens Helsebygg skal ikke flyttes frem på sakslisten."
+    },
+    {
+      "forslagsstiller": "Øyvind Næss (SV)",
+      "tekst": "Saken 25/026 Prosjektforslag fremtidens Helsebygg skal behandles rett etter lunsj."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av innkalling og saksliste med merknader",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.02.2025",
+  "saksnummer_ps": "25/016",
+  "rodt_fremmet_forslag": true
+}

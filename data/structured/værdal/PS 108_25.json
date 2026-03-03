@@ -1,0 +1,37 @@
+{
+  "tittel": "PS 108/25 Anmodning om bosetting av flyktninger 2026",
+  "innstilling": "Formannskapets innstilling (kommunedirektørens opprinnelige innstilling) ikke spesifisert i detalj i teksten, men alternativt forslag fra SP ble fremmet som endring.",
+  "vedtak": [
+    "Verdal kommune er positiv til å bosette 75 flyktninger i 2026.",
+    "Dersom behovet for bosetting øker i 2026, kan ikke kommunen bosette flere flyktninger.",
+    "Kommunedirektøren bes sikre at faktisk bosetting baserer seg på tilgjengelig kapasitet innenfor tjenestene, forsvarlighet innenfor økonomiske betingelser og fortsatt kunne gi et godt integreringstilbud i kommunen."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "SP v/Daleng",
+      "tekst": "1. Verdal kommune er positiv til å bosette 75 flyktninger i 2026. Åtte av disse plassene benyttes til bosetting av enslige mindreårige uten følgeperson.\n2. Dersom behovet for bosetting øker i 2026, kan ikke kommunen bosette flere flyktninger, og ikke flere enslige mindreårige uten følgepersoner.\n3. Kommunedirektøren bes sikre at faktisk bosetting baserer seg på tilgjengelig kapasitet innenfor tjenestene, forsvarlighet innenfor økonomiske betingelser og fortsatt kunne gi et godt integreringstilbud i kommunen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling og forslaget fra SP",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 22
+        },
+        {
+          "navn": "Forslaget fra SP",
+          "stemmer": 13
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_side": "vinner"
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "24.11.2025",
+  "saksnummer_ps": "PS 108/25",
+  "rodt_fremmet_forslag": false
+}

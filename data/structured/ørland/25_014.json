@@ -1,0 +1,58 @@
+{
+  "tittel": "Salg av eiendom - Alf Nebbs gate 2",
+  "innstilling": [
+    "Alf Nebbs gate 2 selges til høyeste bud: 3,5 millioner kroner, ved Ritro Eiendom AS",
+    "Salget sluttføres ved bruk av Eiendomsmegler 1 sin standard salgskontrakt",
+    "Kommunedirektøren gis fullmakt til å sluttføre salget."
+  ],
+  "vedtak": [
+    "Alf Nebbs gate 2 selges til høyeste bud: 3,5 millioner kroner, ved Ritro Eiendom AS",
+    "Salget sluttføres ved bruk av Eiendomsmegler 1 sin standard salgskontrakt",
+    "Kommunedirektøren gis fullmakt til å sluttføre salget.",
+    "Selges med en klausul om at det må oppstartes arbeid innen 3-5 år. Om ikke kan Ørland kommune gjenkjøpe eiendommen for samme salgssum pluss evt. indeksregulering. Klausulen tinglyses"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Fredrik Sandness, Arbeiderpartiet",
+      "tekst": "Selges med en klausul om at det må oppstartes arbeid innen 3-5 år. Om ikke kan Ørland kommune gjenkjøpe eiendommen for samme salgssum pluss evt. indeksregulering. Klausulen tinglyses"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoettet": "For",
+      "rodt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag: Forslag nytt punkt 4",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoettet": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "23.01.2025",
+  "saksnummer_ps": "25/014",
+  "rodt_fremmet_forslag": false
+}

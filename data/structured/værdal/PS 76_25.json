@@ -1,0 +1,104 @@
+{
+  "tittel": "PS 76/25 Delårsrapport 3/2025",
+  "innstilling": "Kommunedirektørens innstilling pkt. 1, 2, 3 og 5 samt pkt. 4 om ikke å tilby barnehageplass til barn uten lovfestet rett, og prioritering av norm- og lovkrav innenfor budsjettrammer.",
+  "vedtak": [
+    "1. Kommunestyret tar delårsrapporten til orientering.",
+    "2. Investeringsbudsjett endres som spesifisert i saken med total reduksjon på 36,3 mill kroner.",
+    "3. Driftsbudsjett endres med økning på 0,691 mill kroner til helsestasjon og lege, og tilsvarende økning i rammetilskudd.",
+    "4. Kommunestyret vil at det fortsatt skal praktiseres løpende inntak i barnehagen uavhengig av rett til barnehageplass.",
+    "4b. Det legges fram politisk sak så snart som mulig som belyser kapasitet i barnehagene, mulighet for lokal rett til plass samme måned som barnet fyller 1 år, og eventuelt behov for revisjon av forskrift/retningslinjer.",
+    "5. Administrative budsjettendringer vedtas i samsvar med kommunedirektørens fullmakt."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP v/Fredrik Grevskott",
+      "tekst": "Kommunestyret vil at det fortsatt skal praktiseres løpende inntak i barnehagen. Uavhengig av rett til barnehageplass."
+    },
+    {
+      "forslagsstiller": "Oddleiv Aksnes (H)",
+      "tekst": "Kommunestyret slutter seg til kommunedirektørens vurdering om ikke å tilby barnehageplass til barn uten lovfestet rett, og prioriterer å sikre oppfyllelse av norm- og lovkrav innenfor gjeldende budsjettrammer."
+    },
+    {
+      "forslagsstiller": "Einar Olav Larsen (SP)",
+      "tekst": "Det legges fram politisk sak så snart som mulig som belyser: kapasiteten i barnehagene i Verdal jmf. utvikling i barnetallet, muligheten for en lokal rett i Verdal til plass i barnehage samme måned som barnet fyller 1 år, og eventuelt behov for å revidere forskrift/retningslinjer for tildeling av plass."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på formannskapets innstilling pkt. 1, 2, 3 og 5",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på forslag fra Oddleiv Aksnes (H) til pkt. 4",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 2
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på formannskapets innstilling pkt. 4",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 0
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på forslag fra AP til pkt. 4",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på forslag fra Einar Olav Larsen (SP) til nytt pkt. 4b",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "29.09.2025",
+  "saksnummer_ps": "PS 76/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,33 @@
+{
+  "tittel": "Mandat for utredning av eventuelt vertskommunesamarbeid mellom Verdal og Levanger om NAV",
+  "innstilling": "Utarbeidet mandat for utredning av vertskommunesamarbeid mellom Verdal og Levanger godkjennes.",
+  "vedtak": "Utarbeidet mandat for utredning av vertskommunesamarbeid mellom Verdal og Levanger godkjennes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP v/Trine Reitan",
+      "tekst": "Lokasjon av Vertskommunesamarbeidet skal være på Verdal."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling og APs tilleggsforslag om lokasjon for vertskommunesamarbeidet",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 34
+        },
+        {
+          "navn": "APs tilleggsforslag",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "APs tilleggsforslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "27.10.2025",
+  "saksnummer_ps": "PS 93/25",
+  "rodt_fremmet_forslag": false
+}

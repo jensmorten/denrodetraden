@@ -1,0 +1,72 @@
+{
+  "tittel": "Forslag til endring av vedtekter for barnehagene",
+  "innstilling": "Forslaget til endring av vedtekter i barnehage sendes ut på høring med høringsfrist 5. mars 2025",
+  "vedtak": "Forslaget til endring av vedtekter i barnehage sendes ut på høring med høringsfrist 5. mars 2025",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Utvalg for oppvekst og utdanning 20.01.25",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": {
+            "AP": 6,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2,
+          "partier": {
+            "AP": 2
+          }
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Utvalg for oppvekst og utdanning 20.01.25",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": {
+            "AP": 6,
+            "FRP": 2,
+            "H": 7,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2,
+          "partier": {
+            "AP": 2
+          }
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "23.01.2025",
+  "saksnummer_ps": "25/007",
+  "rodt_fremmet_forslag": false
+}

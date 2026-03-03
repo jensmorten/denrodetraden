@@ -1,0 +1,47 @@
+{
+  "tittel": "Saldering 1/2025 Investering",
+  "innstilling": [
+    "Investeringsbudsjettet salderes som følger:",
+    "Det opptas et nytt lån på kr 141.684.000."
+  ],
+  "vedtak": [
+    "Investeringsbudsjettet salderes som følger:",
+    "Det opptas et nytt lån på kr 141.684.000.",
+    "Formannskapet ber administrasjon om å sette på fargekodene rødt, gult og grønt i forhold til om investeringer som ikke er påstartet, påbegynt og ferdig. Dette for å sikre et bedre grunnlag for beslutningstakerne. Ønsker at det blir tatt med i sak til kommunestyremøte 23.01.25."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Formannskapet 09.01.25",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stottet": "For",
+      "rodt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "23.01.2025",
+  "saksnummer_ps": "25/009",
+  "rodt_fremmet_forslag": false
+}

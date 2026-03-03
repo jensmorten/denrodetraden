@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 106/25 Oppfølging av politisk vedtak i PS 76/2025 - opptak barnehager",
+  "innstilling": "Formannskapets innstilling (ikke spesifisert i teksten, men motforslaget fra SP var alternativet)",
+  "vedtak": [
+    "Kommunestyret ber om sak som belyser muligheten for å øke kapasiteten i barnehagene i Verdal, både private og kommunale.",
+    "Kommunestyret ser at det er et handlingsrom når det gjelder fordeling av plasser mellom private og kommunale, og forutsetter at man er fleksibel ovenfor private barnehager som har mulighet til å ta inn barn."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Einar Olav Larsen (SP)",
+      "tekst": "1. Kommunestyret ber om sak som belyser muligheten for å øke kapasiteten i barnehagene i Verdal, både private og kommunale.\n2. Kommunestyret ser at det er et handlingsrom når det gjelder fordeling av plasser mellom private og kommunale, og forutsetter at man er fleksibel ovenfor private barnehager som har mulighet til å ta inn barn."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling og forslag fra SP",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra SP",
+          "stemmer": 21
+        },
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Forslaget fra SP",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "24.11.2025",
+  "saksnummer_ps": "PS 106/25",
+  "rodt_fremmet_forslag": false
+}

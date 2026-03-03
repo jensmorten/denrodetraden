@@ -1,0 +1,108 @@
+{
+  "tittel": "Debatthefte 2025 - \"Fra forventning til virkelighet - om forventningsgapet\"",
+  "innstilling": "Formannskapet utarbeider etter workshop et forslag for Ørland kommune til svar på KS debatthefte 2025 punkt nummer 1-4.",
+  "vedtak": [
+    {
+      "tekst": "Kommunestyret ber administrasjonen bearbeide innspill framkommet i workshop og legge dette fram for formannskapet til behandling den 6. februar.",
+      "referanse": "KST - 25/011"
+    },
+    {
+      "tekst": "Saken utsettes og behandles i neste formannskapsmøte.",
+      "referanse": "FSK - 25/004"
+    },
+    {
+      "tekst": "Saken utsettes og behandles i neste formannskapsmøte.",
+      "referanse": "FSK - 24/081"
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
+      "tekst": "Kommunestyret ber administrasjonen bearbeide innspill framkommet i workshop og legge dette fram for formannskapet til behandling den 6. februar."
+    },
+    {
+      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
+      "tekst": "Saken utsettes og behandles i neste formannskapsmøte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag til vedtak i kommunestyret 23.01.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag om utsettelse i formannskapet 09.01.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 9,
+          "partier": [
+            "AP",
+            "FRP",
+            "H",
+            "INP",
+            "MDG",
+            "Rødt",
+            "SP",
+            "SV",
+            "V"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag i formannskapet 05.12.2024",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 0,
+          "partier": []
+        },
+        {
+          "navn": "Nytt forslag",
+          "stemmer": 7,
+          "partier": [
+            "AP 2",
+            "H 2",
+            "INP 1",
+            "SP 2"
+          ]
+        }
+      ],
+      "hvem_vant": "Nytt forslag",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "23.01.2025",
+  "saksnummer_ps": "25/011",
+  "rodt_fremmet_forslag": false
+}

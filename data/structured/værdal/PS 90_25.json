@@ -1,0 +1,51 @@
+{
+  "tittel": "PS 90/25 Oppfølging av politisk vedtak - konsekvensutredning skolekretsgrenser",
+  "innstilling": "Formannskapets innstilling pkt. 1 og pkt. 2 (tidligere pkt. 4), med unntak av pkt. 2 og 3 som er svart ut med eget notat og ikke lenger del av innstillingen.",
+  "vedtak": [
+    "1. Saken tas til orientering.",
+    "2. Kommunestyret ber kommunedirektøren henvende seg direkte til Utdanningsdirektoratet med spørsmål om skriftlig bekreftelse på følgende to påstander:",
+    "   1. Kapasitet kan først tas med i vurderingen når en skole er full, når en kommune skal fastsette forskrift for skolekretsgrenser for bo-områdene i en kommune.",
+    "   2. En kommune er pliktig til å utvide eksisterende skoleanlegg, hvis det blir flere elever i en skolekrets enn det er plass til på skolen, hvis det f.eks. bygges et nytt boligfelt i skolekretsen, jmf. sak PS 65/25 til kommunestyret.",
+    "Før spørsmål sendes legges det fram sak med spørsmålene."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "SP v/Einar Olav Larsen",
+      "tekst": "Kommunestyret ber kommunedirektøren henvende seg direkte til Utdanningsdirektoratet med spørsmål om skriftlig bekreftelse på følgende to påstander:\n1. Kapasitet kan først tas med i vurderingen når en skole er full, når en kommune skal fastsette forskrift for skolekretsgrenser for bo-områdene i en kommune.\n2. En kommune er pliktig til å utvide eksisterende skoleanlegg, hvis det blir flere elever i en skolekrets enn det er plass til på skolen, hvis det f.eks. bygges et nytt boligfelt i skolekretsen, jmf. sak PS 65/25 til kommunestyret.\nFør spørsmål sendes legges det fram sak med spørsmålene."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling pkt. 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling pkt. 2 (tidligere pkt. 4) alternativt mot forslag fra SP",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "tapt"
+        },
+        {
+          "navn": "Forslaget fra SP",
+          "stemmer": "enstemmig vedtatt"
+        }
+      ],
+      "hvem_vant": "Forslaget fra SP",
+      "roedt_stoette": "Forslaget fra SP",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "27.10.2025",
+  "saksnummer_ps": "PS 90/25",
+  "rodt_fremmet_forslag": false
+}

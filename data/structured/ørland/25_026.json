@@ -1,0 +1,153 @@
+{
+  "tittel": "Prosjektforslag fremtidens helsebygg",
+  "innstilling": {
+    "1": "Investeringsrammen på helsebygg økes fra 250 millioner kroner (MNOK) til 370 millioner kroner (MNOK) inkludert merverdiavgift.",
+    "2": "Kommunestyret i Ørland vedtar bygging av nytt helsebygg, i tråd med løsningsforslaget beskrevet i kapittel 4 i prosjektforslaget Fremtidens helsebygg.",
+    "2a": "Prosjektet skal gjennomføres i henhold til de beskrevne rammer og tidsplan.",
+    "2b": "Prosjektet skal ha fokus på bærekraftige løsninger og effektiv ressursbruk."
+  },
+  "vedtak": {
+    "KST-25/026": "Kommunestyret vedtar å starte arbeidet med realisering av ett helsehus, hvor alle helsetjenester samles i én enhet. Dagens legekontor i Bjugn beholdes. Legekontoret på Brekstad skal inn i nytt helsebygg. Kommunestyret ber administrasjonen utrede to løsningsforslag (sammenslåing av scenario 2 fra WSPs utredning og gjenbruk av dagens bygg kombinert med nybygg). Kommunestyret bevilger 1 000 000 kroner til forprosjektet. Kommunestyret ber administrasjonen finne mest hensiktsmessig entreprisemodell. Prosjektet skal ha høye miljøambisjoner. Administrasjonen skal vurdere gjenbruk eller avhending av nåværende bygg og tomter. Forslag til vedtak skal komme innen utgangen av mai 2025.",
+    "KST-24/137": "Saken utsettes. Administrasjonen bes arrangere et folkemøte i januar 2025 med tema nytt helsebygg. Saken behandles i første kommunestyremøte etter folkemøtet.",
+    "KST-24/123": "Saken ble utsatt. Folkemøte om «Prosjektforslag fremtidens helsebygg» ble gjennomført 23.01.2025."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eirik Lundemo, Høyre (på vegne av flertallet SP, H, INP, FRP & V)",
+      "tekst": "Kommunestyret vedtar å starte arbeidet med realisering av ett helsehus hvor alle helsetjenester samles i én enhet. Dagens legekontor i Bjugn beholdes, Brekstad legekontor inn i nytt bygg. To løsningsforslag skal utredes: 1) Sammenslåing av scenario 2 fra WSPs utredning med tomtevalg på Brekstad og leietakere vurdert. 2) Gjenbruk av dagens bygg kombinert med nybygg med trinnvis utbygging. Bevilgning på 1 000 000 kroner til forprosjekt. Administrasjonen skal finne entreprisemodell. Høye miljøambisjoner skal integreres. Vurdering av gjenbruk/avhending av bygg og tomter skal starte. Forslag til vedtak innen mai 2025."
+    },
+    {
+      "forslagsstiller": "Hilde Kristin Sandvik, Industri- og Næringspartiet (INP)",
+      "tekst": "Kommunestyret vedtar å starte arbeidet med realisering av ett helsehus basert på sammenslåing av scenario 2 fra WSPs utredning. Prosjektet skal gjennomføres med egnet modell som sikrer helhetlige løsninger og bærekraftig økonomi. Bevilgning på 1 000 000 kroner til forprosjekt inkludert gjennomføringsstrategi. Administrasjonen skal legge frem sak innen mars 2025 om prosjektgjennomføring og finansiering, og sak innen april 2025 om tomtevalg på Brekstad. Høye miljøambisjoner skal reflekteres i konkurransegrunnlaget. Vurdering av gjenbruk/avhending av bygg og tomter skal starte."
+    },
+    {
+      "forslagsstiller": "Fredrik Sandness, Arbeiderpartiet (AP), Ørland MDG, Ørland SV og Ørland Rødt",
+      "tekst": "Dagens struktur/organisering i helsetjenestene videreføres, prosjektet med nytt helsehus videreføres ikke. Legekontoret i Bjugn videreføres med samme omfang og kvalitet. Kommunedirektøren skal komme med sak før sommeren om vedlikehold/rehabilitering av helsehus på Brekstad og Bjugn med finansieringsforslag. Administrasjonen skal finne løsning for minimum 20 langtidsplasser med prioritet på gjenbruk av arealer. Forprosjekt ferdig til februar 2026, ønskelig med samspillkontrakt. Årlig 10 mill. kroner avsettes til vedlikehold i budsjett 2026-2030. Kommunedirektøren skal re-starte prosessen med nytt helsehus med fokus på økonomisk bærekraft og innovative løsninger, ønskelig med samspillkontrakt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag til vedtak prosjekt nytt helsehus (flertallet SP, H, INP, FRP & V) mot nytt forslag fra AP, MDG, SV og Rødt",
+      "alternativer": [
+        {
+          "navn": "Forslag til vedtak prosjekt nytt helsehus (flertallet SP, H, INP, FRP & V)",
+          "stemmer": 19,
+          "partier": {
+            "FRP": 2,
+            "H": 6,
+            "INP": 3,
+            "SP": 7,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Nytt forslag fra Ørland Arbeiderparti, Ørland MDG, Ørland SV og Ørland Rødt",
+          "stemmer": 12,
+          "partier": {
+            "AP": 8,
+            "INP": 1,
+            "MDG": 1,
+            "Rødt": 1,
+            "SV": 1
+          }
+        }
+      ],
+      "hvem_vant": "Forslag til vedtak prosjekt nytt helsehus (flertallet SP, H, INP, FRP & V)",
+      "roedt_stoette": "Nytt forslag fra Ørland Arbeiderparti, Ørland MDG, Ørland SV og Ørland Rødt",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslag fremmet av Hilde Kristin Sandvik INP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 8,
+          "partier": {
+            "FRP": 1,
+            "H": 4,
+            "INP": 2,
+            "SP": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 23,
+          "partier": {
+            "AP": 8,
+            "FRP": 1,
+            "H": 2,
+            "INP": 2,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 6,
+            "SV": 1,
+            "V": 1
+          }
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 0,
+          "partier": {}
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 31,
+          "partier": {
+            "AP": 8,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over utsettelsesforslag på vegne av FRP, SP, INP, V og H",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": {
+            "AP": 8,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": {}
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.02.2025",
+  "saksnummer_ps": "25/026",
+  "rodt_fremmet_forslag": true
+}

@@ -1,0 +1,34 @@
+{
+  "tittel": "PS 119/25 Anne Kolstad (SV) - uttreden av folkevalgte verv grunnet flytting fra kommunen",
+  "innstilling": "Formannskapets innstilling med forslag fremmet i møte",
+  "vedtak": [
+    "Kommunestyret tar melding om flytting til etterretning. Anne Kolstad har rett til å tre inn i sine verv om hun flytter tilbake til Verdal innen konstituerende møte i kommunestyret oktober 2027.",
+    "Varamedlemmer på SVs liste i kommunestyret rykker opp i uforandret rekkefølge.",
+    "Nytt 5. varamedlem i skatteutvalget: Else B. Hildrum (R)",
+    "Nytt 5. varamedlem i klagenemnd for eiendomsskatt: Else B. Hildrum (R)"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anne Kolstad (SV)",
+      "tekst": "Else B. Hildrum (R) foreslått til pkt. 3 og pkt. 4"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om formannskapets innstilling med forslag fremmet i møte",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling med forslag fremmet i møte",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "15.12.2025",
+  "saksnummer_ps": "PS 119/25",
+  "rodt_fremmet_forslag": false
+}

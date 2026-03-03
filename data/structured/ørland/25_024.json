@@ -1,0 +1,60 @@
+{
+  "tittel": "Kommunal medfinansiering - bredbåndsutbygging",
+  "innstilling": [
+    "Ørland kommune går inn med medfinansiering til bredbåndsprosjektene Djupfest og Gjølga/Elveng på til sammen ca kr 2,3 mill.",
+    "Finansiering gjøres av tilgjengelige midler på kr 1,3 mill og en omdisponering av investeringsmidler avsatt til mobil mast på kr 1 mill."
+  ],
+  "vedtak": [
+    "Ørland kommune går inn med medfinansiering til bredbåndsprosjektene Djupfest og Gjølga/Elveng på til sammen ca kr 2,3 mill.",
+    "Finansiering gjøres av tilgjengelige midler på kr 1,3 mill og en omdisponering av investeringsmidler avsatt til mobil mast på kr 1 mill."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Oda Kristine Leth-Jøssing, Miljøpartiet De Grønne",
+      "tekst": [
+        "Ørland kommune går inn med medfinansiering til bredbåndsprosjektet på Djupfest.",
+        "Dersom folk i Gjølga/Elveng som er berørt av dårlig mobildekning skal avspises med mobil over WiFi, bør de forespørres om dette er godt nok. Hvis ikke, bør arbeidet med å få oppført ei mobilmast opprettholdes på Gjølga.",
+        "Finansiering gjøres av tilgjengelige midler på kr 1,3 mill og en eventuell omdisponering av investeringsmidler avsatt til mobil mast på kr 1 mill (avhengig av utfallet i punkt 2)."
+      ]
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "Innstilling fra formannskapets møte 06.02.25",
+          "stemmer": 16,
+          "partier": {
+            "AP": 6,
+            "H": 4,
+            "INP": 3,
+            "SP": 2,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Endringsforlag",
+          "stemmer": 15,
+          "partier": {
+            "AP": 2,
+            "FRP": 2,
+            "H": 2,
+            "INP": 1,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 5,
+            "SV": 1
+          }
+        }
+      ],
+      "hvem_vant": "Innstilling fra formannskapets møte 06.02.25",
+      "roedt_stoette": "Endringsforlag",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.02.2025",
+  "saksnummer_ps": "25/024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,45 @@
+{
+  "tittel": "PS 77/25 Strateginotater - Handlings- og økonomiplan 2026-2029",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Saken tas til orientering",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP v/Trine Reitan",
+      "tekst": "Strateginotatet tas til orientering, med følgende tillegg/ styringssignal:\n• Større ambisjoner for Verdal: Verdal kommune må ta mer kraftfulle, konkrete strategiske grep innen arealpolitikk og næringsutvikling. Dette er nødvendig for å nå uttalte mål for 2040.\n• Forebygging først: Forebygging og tidlig innsats må være en gjennomgående strategi innenfor både oppvekst og helseområdet. Dette vil være nøkkelen til å begrense kostnadsveksten på disse tunge tjenesteområder. Kommuneplanen for neste periode må tydeliggjøre hvordan denne strategien foreslås operasjonalisert.\n• Økonomisk handlekraft: Strateginotatet er tydelig på at gjeldende budsjett og økonomiplan svekker kommunens økonomiske bærekraft. Det må være et klart mål at ny økonomiplan kommer ut med et en utvikling i driftsresultat og lånegjeld som gir kommunen trygghet for en framtidig stabil tjenesteutvikling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 34
+        }
+      ],
+      "vinner": "Formannskapets innstilling",
+      "roedt_stoette": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag fra AP v/Trine Reitan",
+      "alternativer": [
+        {
+          "navn": "Forslag fra AP v/Trine Reitan",
+          "stemmer": 11
+        },
+        {
+          "navn": "Mot forslag fra AP v/Trine Reitan",
+          "stemmer": 23
+        }
+      ],
+      "vinner": "Mot forslag fra AP v/Trine Reitan",
+      "roedt_stoette": "Forslag fra AP v/Trine Reitan",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "29.09.2025",
+  "saksnummer_ps": "PS 77/25",
+  "rodt_fremmet_forslag": false
+}

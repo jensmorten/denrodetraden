@@ -1,0 +1,56 @@
+{
+  "tittel": "Innbyggerforslag - Bevar furuskogen på Ørin",
+  "innstilling": null,
+  "vedtak": [
+    "Kommunestyret tar Innbyggerforslaget til orientering",
+    "Kommunestyret ber om at det igangsettes forhåndsvurdering for detaljreguleringsplan"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Høyre v/Oddleiv Aksnes",
+      "tekst": "1. Kommunestyret tar Innbyggerforslaget til orientering\n2. Kommunestyret ber om at det igangsettes forhåndsvurdering for detaljreguleringsplan"
+    },
+    {
+      "forslagsstiller": "Anne Kolstad på vegne av SV og R",
+      "tekst": "1. I forberedelse av sak om forhåndsvurdering tas det med vurderinger rundt endring av arealformål til LNF med hensynssone grønnstruktur og opprettelse av statlig sikra friluftsområde på skogen på Ørin Nord."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming av forslag fra SV/R punktvis",
+      "alternativer": [
+        {
+          "navn": "Forslag fra SV/R",
+          "stemmer": 9
+        },
+        {
+          "navn": "Motforslag",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "Motforslag",
+      "roedt_stoettet": "Forslag fra SV/R",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom kommunedirektørens forslag til vedtak og Høyre sitt forslag",
+      "alternativer": [
+        {
+          "navn": "Høyre sitt forslag",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Kommunedirektørens forslag",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Høyre sitt forslag",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "29.09.2025",
+  "saksnummer_ps": "PS 75/25",
+  "rodt_fremmet_forslag": false
+}

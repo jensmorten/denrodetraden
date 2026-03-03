@@ -1,0 +1,91 @@
+{
+  "tittel": "Debatthefte 2025 - Fra forventning til virkelighet - mellomoppgjøret 2025 og strategisk utvikling av avtaleverket",
+  "innstilling": "Formannskapet utarbeider forslag til svar fra Ørland kommune på KS debatthefte 2025 som deretter behandles i Kommunestyret.",
+  "vedtak": [
+    {
+      "id": "KST - 25/012",
+      "tekst": "Kommunestyret ber administrasjonen bearbeide innspill framkommet i workshop og legge dette fram for formannskapet til behandling den 6. februar."
+    },
+    {
+      "id": "FSK - 25/005",
+      "tekst": "Formannskapet ber om at det arrangeres en Workshop i neste kommunestyret den 23.01.25. før endelig vedtak i saken."
+    },
+    {
+      "id": "FSK - 24/080",
+      "tekst": "Saken utsettes og behandles i neste formannskapsmøte."
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
+      "tekst": "Kommunestyret ber administrasjonen bearbeide innspill framkommet i workshop og legge dette fram for formannskapet til behandling den 6. februar."
+    },
+    {
+      "forslagsstiller": "Hallgeir Grøntvedt, Senterpartiet",
+      "tekst": "Saken utsettes og behandles i neste formannskapsmøte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag til vedtak i kommunestyret 23.01.2025",
+      "alternativer": [
+        {
+          "navn": "Forslag til vedtak",
+          "stemmer": 31,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        }
+      ],
+      "vinner": "Forslag til vedtak",
+      "roedt_stoette": "Forslag til vedtak",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag i formannskapet 05.12.2024",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 0
+        },
+        {
+          "navn": "Nytt forslag til vedtak",
+          "stemmer": 7,
+          "partier": [
+            "AP 2",
+            "H 2",
+            "INP 1",
+            "SP 2"
+          ]
+        }
+      ],
+      "vinner": "Nytt forslag til vedtak",
+      "roedt_stoette": null,
+      "roedt_side": "ukjent"
+    },
+    {
+      "beskrivelse": "Votering i formannskapet 09.01.2025",
+      "alternativer": [
+        {
+          "navn": "Formannskapets forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Formannskapets forslag",
+      "roedt_stoette": null,
+      "roedt_side": "ukjent"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "23.01.2025",
+  "saksnummer_ps": "25/012",
+  "rodt_fremmet_forslag": false
+}

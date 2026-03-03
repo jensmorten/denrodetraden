@@ -1,0 +1,42 @@
+{
+  "tittel": "Høring Revidert forskrift for vedtekter for SFO i Ørland kommune",
+  "innstilling": "Forslaget til revidert forskrift for vedtekter i SFO sendes ut på høring med høringsfrist 7.mars 2025.",
+  "vedtak": "Forslaget til revidert forskrift for vedtekter i SFO sendes ut på høring med høringsfrist 7.mars 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Utvalg for oppvekst og utdanning 20.01.25",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": {
+            "AP": 6,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2,
+          "partier": {
+            "AP": 2
+          }
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "23.01.2025",
+  "saksnummer_ps": "25/008",
+  "rodt_fremmet_forslag": false
+}

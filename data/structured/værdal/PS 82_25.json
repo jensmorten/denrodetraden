@@ -1,0 +1,28 @@
+{
+  "tittel": "Detaljregulering Nestvoldjordet II, del av 16/1 - Sluttbehandling",
+  "innstilling": "Innstillingen fra utvalg plan og samfunn",
+  "vedtak": "Detaljregulering for Nestvoldjordet II vedtas iht. plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra utvalg plan og samfunn",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 27
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "rodt_stoettet": "Mot innstillingen",
+      "rodt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "29.09.2025",
+  "saksnummer_ps": "PS 82/25",
+  "rodt_fremmet_forslag": false
+}

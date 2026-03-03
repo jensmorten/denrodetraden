@@ -1,0 +1,36 @@
+{
+  "tittel": "Tilsynsstrategi 2025-2029 for Ørland kommune",
+  "innstilling": "Ørland kommunestyre vedtar foreslått “Tilsynsstrategi 2025 - 2029 for Ørland kommune” med tilhørende tilsynsplan. Planutvalget i Ørland kommune delegeres myndighet til å vedta revidering av tilsynsstrategien",
+  "vedtak": "Ørland kommunestyre vedtar foreslått “Tilsynsstrategi 2025 - 2029 for Ørland kommune” med tilhørende tilsynsplan. Planutvalget i Ørland kommune delegeres myndighet til å vedta revidering av tilsynsstrategien.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag i kommunestyret 20.02.2025",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "Opprinnelig forslag",
+      "roedt_stoettet": "Opprinnelig forslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag i planutvalget 18.02.2025",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "Opprinnelig forslag",
+      "roedt_stoettet": "Opprinnelig forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.02.2025",
+  "saksnummer_ps": "25/027",
+  "rodt_fremmet_forslag": false
+}

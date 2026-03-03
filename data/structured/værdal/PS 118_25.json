@@ -1,0 +1,29 @@
+{
+  "tittel": "Revidering vedtekter for Kommunale barnehager",
+  "innstilling": null,
+  "vedtak": "Saken utsettes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører",
+      "tekst": "Saken utsettes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordførers forslag om utsettelse",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "værdal",
+  "dato": "15.12.2025",
+  "saksnummer_ps": "PS 118/25",
+  "rodt_fremmet_forslag": false
+}
