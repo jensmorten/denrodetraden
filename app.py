@@ -210,13 +210,6 @@ def search_similar_cases(tekst, kommune):
     - Bruk korte avsnitt og maks 3–5 punktlister totalt.
     - Referer alltid filnavn hvis du bruker en sak. Format: Kommune – sak – votering (kilde: filnavn)
 
-    VIKTIG REGEL:
-    Du har KUN lov til å referere til saker som finnes i konteksten under. Hvis en sak ikke finnes eksplisitt i konteksten, er det forbudt å nevne den.
-    Ikke bruk egen kunnskap. Ikke oppfinn saker fra andre kommuner.
-
-    Hvis du ikke finner relevante saker i konteksten,
-    skriv: "Ingen relevante saker funnet i databasen."
-
     Oppgaver (ikke referer til oppgavene direkte, men svar sømløst):
     1. Gi en kort oppsummering (maks 5–6 linjer) av saken eller sakene.
     2. Dersom det ikke framstår som en kommunal sak (brukeren har ved en feil lasta opp noe annet), si dette og avslutt behandling. Om det er en kommunal sak, gå videre uten å nevne at det er sjekka. 
