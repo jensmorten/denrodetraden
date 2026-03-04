@@ -123,17 +123,22 @@ def split_cases_with_llm(full_text):
 
 def retrieve_candidates(query):
 
-    results = client.vector_stores.search(
-        vector_store_id=VECTOR_STORE_ID,
-        query=query,
-        limit=20
+    response = client.responses.create(
+        model="gpt-4.1-mini",
+        input=query,
+        tools=[{
+            "type": "file_search",
+            "vector_store_ids": [VECTOR_STORE_ID],
+            "max_num_results": 20
+        }]
     )
 
     docs = []
 
-    for r in results.data:
-        text = r.content[0].text
-        docs.append(text)
+    for item in response.output:
+        if item.type == "tool_call":
+            for r in item.results:
+                docs.append(r.content)
 
     return docs
 
