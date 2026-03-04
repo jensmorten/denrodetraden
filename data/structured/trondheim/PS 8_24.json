@@ -1,0 +1,66 @@
+{
+  "tittel": "Organisering av markering av samenes nasjonaldag 6.februar",
+  "innstilling": [
+    "Bystyret oppretter en komité med ansvar for planlegging og gjennomføring av den offisielle markeringen av samenes nasjonaldag 6.februar.",
+    "Komiteen består av to representanter fra bystyret, og fire representanter fra organisasjoner som representerer det samiske miljøet i Trondheim.",
+    "Komiteen velges for hele bystyreperioden."
+  ],
+  "vedtak": [
+    "Bystyret oppretter en komité med ansvar for planlegging og gjennomføring av den offisielle markeringen av samenes nasjonaldag 6.februar.",
+    "Komiteen består av to representanter fra bystyret, og fire representanter fra organisasjoner som representerer det samiske miljøet i Trondheim.",
+    "Elisiv Hårstad Skjei (V) og Sara Shafighi (Ap), medlemer i komiteen for Orgranisering av samenes nasjonaldag 6. februar 2025.",
+    "Komiteen velges for hele bystyreperioden."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Berit Tiller (H) på vegne av H, KrF, MDG, PP, SP, V, Ap, SV",
+      "tekst": "Elisiv Hårstad Skjei (V) og Sara Shafighi (Ap), medlemer i komiteen for Orgranisering av samenes nasjonaldag 6. februar 2025."
+    },
+    {
+      "forslagsstiller": "Aurora Meland Winger (MDG)",
+      "tekst": "3. Komiteen velges for hele bystyreperioden."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Tillers fellesforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Wingers forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "01.02.2024",
+  "saksnummer_ps": "PS 8/24",
+  "rodt_fremmet_forslag": false
+}

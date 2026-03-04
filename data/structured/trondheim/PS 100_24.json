@@ -1,0 +1,45 @@
+{
+  "tittel": "PS 100/2024 Forskrift om permisjon for elever i Trondheim kommune",
+  "innstilling": "Bystyret vedtar forskrift om permisjon for elever i grunnskolene i Trondheim kommune slik den framgår av vedlegget.\nFølgende endring av § 6:\n§ 6 Forsvarlighetsvurderingen\nInnvilgelse av en søknad om permisjon forutsetter at skolen finner det forsvarlig at eleven er borte fra skolen i et kortere tidsrom (se § 4). Skolen skal basere forsvarlighetsvurderingen på ulike forhold som har betydning for elevens opplæring, som for eksempel:\n● Hva som skal skje på skolen i permisjonstiden (jf. § 7.)\n● Hva som er til det beste for eleven/hva eleven selv mener\n● Elevens fraværshistorikk (f.eks. mange tidligere permisjoner eller stort fravær)\nDet mest tungtveiende hensynet bør alltid vurderes ut fra hva som er det beste for eleven.",
+  "vedtak": "Bystyret vedtar forskrift om permisjon for elever i grunnskolene i Trondheim kommune slik den framgår av vedlegget med unntak av § 6. § 6 vedtas i henhold til alternativt forslag \"Endring av § 6\" fremmet av Mats Ramo (H).",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mats Ramo (H)",
+      "tekst": "§ 6 Forsvarlighetsvurderingen\nInnvilgelse av en søknad om permisjon forutsetter at skolen finner det forsvarlig at eleven er borte fra skolen i et kortere tidsrom (se § 4). Skolen skal basere forsvarlighetsvurderingen på ulike forhold som har betydning for elevens opplæring, som for eksempel:\n● Hva som skal skje på skolen i permisjonstiden (jf. § 7.)\n● Hva som er til det beste for eleven/hva eleven selv mener\n● Elevens fraværshistorikk (f.eks. mange tidligere permisjoner eller stort fravær)\nDet mest tungtveiende hensynet bør alltid vurderes ut fra hva som er det beste for eleven."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen med unntak av § 6",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen med unntak av § 6",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingens § 6 og alternativt forslag \"Endring av § 6\" fra H",
+      "alternativer": [
+        {
+          "navn": "Innstillingens § 6",
+          "stemmer": 11
+        },
+        {
+          "navn": "Alternativt forslag \"Endring av § 6\" fra H",
+          "stemmer": 56
+        }
+      ],
+      "hvem_vant": "Alternativt forslag \"Endring av § 6\" fra H",
+      "roedt_stoettet": "Innstillingens § 6",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.05.2024",
+  "saksnummer_ps": "PS 100/24",
+  "rodt_fremmet_forslag": false
+}

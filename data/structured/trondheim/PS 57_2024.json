@@ -1,0 +1,157 @@
+{
+  "tittel": "Forskrift om folkevalgtes rett til godtgjøring, samt reglement for støtte til partigrupper i bystyret",
+  "innstilling": "Bystyret vedtar Forskrift om folkevalgtes rett til godtgjøring, Trondheim kommune, slik det fremgår av vedlegg 1, med de angitte endringer i Del A, Del B og Del C, samt Reglement for støtte til partigrupper i bystyret med angitte endringer.",
+  "vedtak": "Del A Bystyret vedtar Forskrift om folkevalgtes rett til godtgjøring, Trondheim kommune, med angitte endringer. Del B Bystyret vedtar Reglement for støtte til partigrupper i bystyret med angitte endringer. Del C Endringer trer i kraft fra 13. juni 2024 og gjelder til nytt bystyre konstitueres etter kommunevalget 2027. Manglende inndekning for 2024 dekkes av disposisjonsfondet og behandles i budsjettrevisjon mai 2024. Forskrift og reglement revideres i 2025 med virkning fra 2027.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roar Aas (Ap)",
+      "tekst": "Tilleggsforslag ny 14.4b: Partier som ikke er representert i byråd gis i tillegg et grunnbeløp tilsvarende 20% av beregningsgrunnlaget, samt en representantstøtte per bystyrerepresentant tilsvarende 10% av beregningsgrunnlaget jf punkt 3.2."
+    },
+    {
+      "forslagsstiller": "Roar Aas (Ap)",
+      "tekst": "Forslag 'Konsekvenser av endringer' med detaljer om økonomisk støtte til partigrupper og uavhengige i bystyret, inkludert grunnbeløp og representantstøtte."
+    },
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV)",
+      "tekst": "Tilleggsforslag 'Endre satsene for ordfører, varaordfører og rep.støtte' med endringer i godtgjøringssatser for ordfører, byrådsleder, byråder, varaordfører og representantstøtte."
+    },
+    {
+      "forslagsstiller": "Mats Ulseth Ramo (H)",
+      "tekst": "Tilleggsforslag 'Frikjøp Stavne KF kobles til beregningsgrunnlaget' med endringer i godtgjøringssatser for leder, nestleder og medlem i Felles styre for Stavne KF."
+    },
+    {
+      "forslagsstiller": "Mats Ulseth Ramo (H)",
+      "tekst": "Tilleggsforslag 'Definisjon av heltidspolitiker' med ny definisjon av heltidspolitiker i forskriftens punkt 14.1.d."
+    },
+    {
+      "forslagsstiller": "Mats Ulseth Ramo (H)",
+      "tekst": "Tilleggsforslag 'IKS' med ny linje i tabellen punkt 14.6 for representantskap IKS med godtgjøring for medlemmer og varamedlemmer som ikke er heltidspolitikere."
+    },
+    {
+      "forslagsstiller": "Emil Raaen (Ap)",
+      "tekst": "Tilleggsforslag 'Ny 14.4 a)' med grunnbeløp og representantstøtte til partigruppene i bystyret, inkludert mulighet for overføring av representantstøtte mellom år."
+    },
+    {
+      "forslagsstiller": "Emil Raaen (Ap)",
+      "tekst": "Merknad om at fordeling av ledere og nestledere til utvalgene bør skje etter valgoppslutning, slik praksis er i Bergen og Oslo."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over Salomonsens forslag 'Endre satsene for ordfører, varaordfører og rep.støtte'",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 12
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 55
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over Ramos forslag 'Definisjon av heltidspolitiker'",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over Raaens forslag 'Ny 14.4 a)'",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over Aas forslag 'Ny 14.4 b)'",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 18
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 49
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over Ramos forslag 'Frikjøp Stavne KF kobles til beregningsgrunnlaget'",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "ukjent",
+      "roedt_side": "ukjent"
+    },
+    {
+      "beskrivelse": "Votering over Ramos forslag 'Tilleggsforslag ny linje i tabellen punkt 14.6'",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "ukjent",
+      "roedt_side": "ukjent"
+    },
+    {
+      "beskrivelse": "Votering over Aas forslag 'Konsekvenser av endring'",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 18
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 49
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "02.05.2024",
+  "saksnummer_ps": "PS 57/2024",
+  "rodt_fremmet_forslag": false
+}

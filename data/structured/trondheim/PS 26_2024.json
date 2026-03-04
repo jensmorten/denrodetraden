@@ -1,0 +1,118 @@
+{
+  "tittel": "Utvidelse av virkeområde for hyblifiseringsbestemmelse - sluttvedtak",
+  "innstilling": "Bystyret vedtar at virkeområdet til bestemmelse § 29.2 i kommuneplanens arealdel utvides, og at bestemmelsen lyder: Innenfor områdene Rosenborg, Møllenberg, Singsaker, Kalvskinnet, Øya, Elgeseter, Lademoen, Berg, Bakklandet, Ila og Midtbyen, nærmere avgrenset på vedlagt kart som viser virkeområdet, kreves tillatelse fra kommunen for å dele opp bolig til hybler. Ved avgjørelsen av om tillatelse skal gis, skal det tas hensyn til om det etter kommunens skjønn er en forsvarlig utnytting av boligmassen. Dersom bolig er oppdelt til hybler i strid med bestemmelsen her, kan kommunen påby at den settes i stand slik at den kan tjene sitt opprinnelige formål. Kart over virkeområdet tas inn som vedlegg til kommuneplanens arealdel. Vedtaket fattes i medhold av plan- og bygningsloven § 11-15. jf. § 11-17",
+  "vedtak": "Bystyret vedtar at virkeområdet til bestemmelse § 29.2 i kommuneplanens arealdel utvides, og at bestemmelsen lyder som i innstillingen. Kart over virkeområdet tas inn som vedlegg til kommuneplanens arealdel. Vedtaket fattes i medhold av plan- og bygningsloven § 11-15. jf. § 11-17",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Magni Fjørtoft Svarstad (R)",
+      "tekst": "Inkludere Moholt i listen over områder som skal inn under virkeområde for hyblifiseringsbestemmelse."
+    },
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV)",
+      "tekst": "Bystyret ber kommunedirektøren høre en utvidelse av virkeområdet til bestemmelse § 29.2 i kommuneplanens arealdel som omfatter boligsone 1, 2 og 3."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret vedtar å oppheve hyblifiseringsbestemmelsen i kommuneplanens arealdel."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillinga og Andreassens alternative forslag om å oppheve bestemmelsen",
+      "alternativer": [
+        {
+          "navn": "Innstillinga",
+          "stemmer": 63,
+          "partier": [
+            "20 H",
+            "17 Ap",
+            "9 SV",
+            "4 MDG",
+            "4 V",
+            "3 PP",
+            "3 R",
+            "KrF",
+            "SP",
+            "INP"
+          ]
+        },
+        {
+          "navn": "Opphev bestemmelsen (Andreassen, FrP)",
+          "stemmer": 4,
+          "partier": [
+            "4 FrP"
+          ]
+        }
+      ],
+      "vinner": "Innstillinga",
+      "roedt_stoette": "Innstillinga",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på Naper Salomonsens (SV) tilleggsforslag om å høre utvidelse til boligsone 1, 2 og 3",
+      "alternativer": [
+        {
+          "navn": "Naper Salomonsens tilleggsforslag",
+          "stemmer": 9,
+          "partier": [
+            "9 SV"
+          ]
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 58,
+          "partier": [
+            "20 H",
+            "17 Ap",
+            "4 MDG",
+            "4 FrP",
+            "4 V",
+            "3 PP",
+            "3 R",
+            "KrF",
+            "SP",
+            "INP"
+          ]
+        }
+      ],
+      "vinner": "Mot tilleggsforslaget",
+      "roedt_stoette": "Mot tilleggsforslaget",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på Fjørtoft Svarstads (R) tilleggsforslag om å inkludere Moholt i virkeområdet",
+      "alternativer": [
+        {
+          "navn": "Fjørtoft Svarstads tilleggsforslag",
+          "stemmer": 3,
+          "partier": [
+            "3 R"
+          ]
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 64,
+          "partier": [
+            "20 H",
+            "17 Ap",
+            "9 SV",
+            "4 MDG",
+            "4 FrP",
+            "4 V",
+            "3 PP",
+            "KrF",
+            "SP",
+            "INP"
+          ]
+        }
+      ],
+      "vinner": "Mot tilleggsforslaget",
+      "roedt_stoette": "Fjørtoft Svarstads tilleggsforslag",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "07.03.2024",
+  "saksnummer_ps": "PS 26/2024",
+  "rodt_fremmet_forslag": true
+}

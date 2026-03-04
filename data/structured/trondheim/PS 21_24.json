@@ -1,0 +1,47 @@
+{
+  "tittel": "Oppnevning av komite med oppgave å fremlegge forslag på navn til nye meddommere",
+  "innstilling": [
+    "Bystyret oppnevner følgende medlemmer til en komite med oppgave å fremlegge forslag på navn til nye meddommere: Erling Moe, Magnus Aastrøm, Mona Berger, Aurora Meland Winger",
+    "Erling Moe (V) foreslås som leder av utvalget"
+  ],
+  "vedtak": [
+    "Bystyret oppnevner følgende medlemmer til en komite med oppgave å fremlegge forslag på navn til nye meddommere: Erling Moe, Magnus Aastrøm, Mona Berger, Aurora Meland Winger",
+    "Erling Moe (V) foreslås som leder av utvalget"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Berit Tiller (H) på vegne av H, KrF, MDG, PP, SP, V",
+      "tekst": "Erling Moe (V) foreslås som leder av utvalget"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Berit Tiller (H) på vegne av H, KrF, MDG, PP, SP, V om leder av utvalget",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Tilleggsforslag",
+      "roedt_stoettet": "Tilleggsforslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "01.02.2024",
+  "saksnummer_ps": "PS 21/24",
+  "rodt_fremmet_forslag": false
+}

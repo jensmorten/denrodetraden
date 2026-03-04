@@ -1,0 +1,83 @@
+{
+  "tittel": "PS 41/2024 Representantforslag - Helhetlig tros- og livssynspolitikk - Ottar Michelsen (SV)",
+  "innstilling": "Bystyret mener det ikke er behov for en omfattende ny plan for en helhetlig tros- og livssynspolitikk. De lange linjene ivaretas i stor grad i den forrige planen fra 2017.",
+  "vedtak": "Bystyret mener det ikke er behov for en omfattende ny plan for en helhetlig tros- og livssynspolitikk. De lange linjene ivaretas i stor grad i den forrige planen fra 2017.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ottar Michelsen (SV)",
+      "tekst": "Bystyret ber kommunedirektøren fremme forslag til hvordan Trondheim kan utarbeide en oppdatert og helhetlig tros- og livssynspolitikk. Forslaget må inkludere økonomiske anslag for en slik prosess."
+    },
+    {
+      "forslagsstiller": "Ottar Michelsen (SV)",
+      "tekst": "Bystyret ber kommunedirektøren fremme en sak for å sikre likebehandling av ulike tros- og livssynssamfunn når det gjelder tilgang til lokaler. Saken må vise behovet for leie av lokaler for tros- og livssynssamfunn som ikke har egne, f.eks. i forbindelse med konfirmasjonsundervisning og ulike seremonier, og tilskuddsordninger for tros- og livssynssamfunn som har egne lokaler."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillingen og SVs forslag om helhetlig tros- og livssynspolitikk",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 38,
+          "partier": [
+            "20 H",
+            "4 MDG",
+            "4 V",
+            "4 FrP",
+            "3 PP",
+            "KrF",
+            "SP",
+            "U"
+          ]
+        },
+        {
+          "navn": "SVs forslag",
+          "stemmer": 29,
+          "partier": [
+            "17 Ap",
+            "9 SV",
+            "3 R"
+          ]
+        }
+      ],
+      "vinner": "Innstillingen",
+      "roedt_stoette": "SVs forslag",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om Michelsens forslag 'Likebehandling av lokaler'",
+      "alternativer": [
+        {
+          "navn": "Michelsens forslag 'Likebehandling av lokaler'",
+          "stemmer": 29,
+          "partier": [
+            "17 Ap",
+            "9 SV",
+            "3 R"
+          ]
+        },
+        {
+          "navn": "Motforslag",
+          "stemmer": 38,
+          "partier": [
+            "20 H",
+            "4 MDG",
+            "4 V",
+            "4 FrP",
+            "3 PP",
+            "KrF",
+            "SP",
+            "U"
+          ]
+        }
+      ],
+      "vinner": "Motforslag",
+      "roedt_stoette": "Michelsens forslag 'Likebehandling av lokaler'",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "04.04.2024",
+  "saksnummer_ps": "PS 41/24",
+  "rodt_fremmet_forslag": false
+}

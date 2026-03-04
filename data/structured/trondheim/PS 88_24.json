@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 88/2024 Årsrapportering kontrollutvalget 2023",
+  "innstilling": "Bystyret tar kontrollutvalgets årsrapport for 2023 til orientering.",
+  "vedtak": "Bystyret tar kontrollutvalgets årsrapport for 2023 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.05.2024",
+  "saksnummer_ps": "PS 88/24",
+  "rodt_fremmet_forslag": false
+}

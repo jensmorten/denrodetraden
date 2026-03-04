@@ -1,0 +1,48 @@
+{
+  "tittel": "PS 78/2024 Vedtaksoppfølging våren 2023 - melding til bystyret",
+  "innstilling": [
+    "Bystyret tar saken om vedtaksoppfølging for våren 2023 til orientering.",
+    "Saken om vedtaksoppfølging gir få muligheter for politisk ledelse til å gjøre vurderinger av oppfølgingen. Bystyret ber kommunedirektøren komme tilbake med en rutine for hvordan politisk behandling av saken kan gjøre vurderinger og prioriteringer om saker skal strykes fra lista, eller prioriteres høyere."
+  ],
+  "vedtak": [
+    "Bystyret tar saken om vedtaksoppfølging for våren 2023 til orientering.",
+    "Saken om vedtaksoppfølging gir få muligheter for politisk ledelse til å gjøre vurderinger av oppfølgingen. Bystyret ber kommunedirektøren komme tilbake med en rutine for hvordan politisk behandling av saken kan gjøre vurderinger og prioriteringer om saker skal strykes fra lista, eller prioriteres høyere.",
+    "Bystyret ber kommunedirektøren komme tilbake med en sak som er en vedtaksoppfølging for saker behandlet av kommunestyret i Klæbu og fellesnemnda i perioden 2016 - 2020."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kirsti Tømmervold (Ap)",
+      "tekst": "Bystyret ber kommunedirektøren komme tilbake med en sak som er en vedtaksoppfølging for saker behandlet av kommunestyret i Klæbu og fellesnemnda i perioden 2016 - 2020."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Tømmervolds tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.05.2024",
+  "saksnummer_ps": "PS 78/24",
+  "rodt_fremmet_forslag": false
+}

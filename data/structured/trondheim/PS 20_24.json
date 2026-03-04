@@ -1,0 +1,29 @@
+{
+  "tittel": "Innbyggerforslag - bevar brua/kulverten over Leirelva for gående",
+  "innstilling": null,
+  "vedtak": "Pga ønske om ytterligere opplysninger vedr konsekvenser av avbøtende tiltak, bes det om at saken utsettes og delegeres til snarlig behandling i Formannskapet. Formannskapet må da settes som Bystyre.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Trude Basso (Ap)",
+      "tekst": "Pga ønske om ytterligere opplysninger vedr konsekvenser av avbøtende tiltak, bes det om at saken utsettes og delegeres til snarlig behandling i Formannskapet. Formannskapet må da settes som Bystyre."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Bassos utsettelsesforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Bassos utsettelsesforslag",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "01.02.2024",
+  "saksnummer_ps": "PS 20/24",
+  "rodt_fremmet_forslag": false
+}

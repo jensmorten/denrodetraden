@@ -1,0 +1,69 @@
+{
+  "tittel": "PS 47/2024 Plan for HC-parkering",
+  "innstilling": "Bystyret følger opp mål om at byen skal være tilrettelagt for mangfoldet i befolkningen, og vedtar at for HC-parkeringsplasser skal dette følges opp gjennom følgende tre delmål og åtte strategier:\nDelmål 1:\nKommunen har tilstrekkelig med tilgjengelige plasser til HC-parkering.\nStrategier:\n1.1 Krav til anleggelse av HC-parkeringsplasser skal i plan- og byggesaker beregnes ut ifra den høyeste summen av andel av annen parkering og byggetiltakets størrelse.\n1.2 Kommunen skal ha en digital oversikt over offentlige HC-parkeringsplasser, og være oppdatert på om det på sikt kan etableres sanntidsinformasjon over hvilke HC-parkeringsplasser som er ledige til enhver tid.\n1.3 Ved arrangementer hvor det forventes en høyere andel enn normalt med HC-bevis, skal det tilrettelegges for midlertidige HC-parkeringsplasser.\n1.4 Det skal vurderes muligheten for å etablere ladepunkter på flere HC-parkeringsplasser.\n1.5 I Midtbyen skal det settes av flere HC-parkeringsplasser for å øke tilgjengeligheten.\n1.6 Etablering av flere HC-parkeringsplasser bør ikke skje ved at antall øvrige parkeringsplasser reduseres.\nDelmål 2:\nHC-parkeringsplassene er lokalisert i nærheten av viktige målpunkt.\nStrategier:\n2.1 HC-parkering skal anlegges maksimalt 25 meter fra hovedinngang til målpunkt.\n2.2 Når en HC-plass blir berørt av bygge- og anleggsarbeid, arrangementer eller andre tiltak som hindrer faste HC-plasser, skal det etableres en midlertidig HC-plass i umiddelbar nærhet.\nDelmål 3:\nHC-parkeringsplasser er universelt utformet og vedlikeholdt.\nStrategier:\n3.1 Utforming av nye HC-parkeringsplasser skal sikre tilstrekkelig med plass for parkering og trygg inn- og utstigning.\n3.2 Eksisterende HC-parkeringsplasser skal vedlikeholdes slik at de er i tråd med forskrift.",
+  "vedtak": "Bystyret følger opp mål om at byen skal være tilrettelagt for mangfoldet i befolkningen, og vedtar at for HC-parkeringsplasser skal dette følges opp gjennom følgende tre delmål og åtte strategier med endringer:\n- Punkt 1.4 endres til: \"Det skal etableres ladepunkter på flere HC-parkeringsplasser.\"\n- Punkt 1.6 opprettholdes med vedtak om at etablering av flere HC-parkeringsplasser ikke bør skje ved at antall øvrige parkeringsplasser reduseres.\nØvrige punkter i innstillingen ble enstemmig vedtatt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tore Dyrendahl (MDG)",
+      "tekst": "Endre punkt 1.4 fra 'Det skal vurderes muligheten for å etablere ladepunkter på flere HC-parkeringsplasser.' til 'Det skal etableres ladepunkter på flere HC-parkeringsplasser.'"
+    },
+    {
+      "forslagsstiller": "Tore Dyrendahl (MDG)",
+      "tekst": "Stryke punkt 1.6"
+    },
+    {
+      "forslagsstiller": "Haakon Gussiaas (H)",
+      "tekst": "1.6 Etablering av flere HC-parkeringsplasser bør ikke skje ved at antall øvrige parkeringsplasser reduseres."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen unntatt pkt. 1.4 og 1.6",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen unntatt pkt. 1.4 og 1.6",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen pkt 1.4 og MDGs forslag om å endre til 'skal etablere ladepunkter'",
+      "alternativer": [
+        {
+          "navn": "MDGs forslag",
+          "stemmer": 63
+        },
+        {
+          "navn": "Innstillingen pkt 1.4",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "MDGs forslag",
+      "roedt_stoettet": "MDGs forslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Gussiaas forslag om punkt 1.6",
+      "alternativer": [
+        {
+          "navn": "Gussiaas forslag",
+          "stemmer": 43
+        },
+        {
+          "navn": "Motforslag (stryke punkt 1.6)",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "Gussiaas forslag",
+      "roedt_stoettet": "Motforslag (stryke punkt 1.6)",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "04.04.2024",
+  "saksnummer_ps": "PS 47/24",
+  "rodt_fremmet_forslag": false
+}

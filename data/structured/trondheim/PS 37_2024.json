@@ -1,0 +1,67 @@
+{
+  "tittel": "Representantforslag - Fremtiden til Den kulturelle spaserstokken og Kulturkarusellen i Trondheim. - Svein Otto Nilsen (PP)",
+  "innstilling": [
+    "Bystyret ber kommunedirektøren legge fram en sak som konkretiserer målene for kunst- og kultursatsing for seniorer i eksisterende planer, foreslår aktuelle prioriteringer i årene framover, og synliggjør økonomiske konsekvenser. Det er viktig å få frem at Trondheim kommune opererer med en 11.5 % økning i antall seniorer over 67 år fra 2023 - 2027 og at Seniorkulturen har som mål å øke antall arrangementer tilsvarende befolkningsøkningen for denne gruppen.",
+    "Bystyret ber om at behovet for et godt kulturtilbud i bydelene i Trondheim synliggjøres på en god måte i saken."
+  ],
+  "vedtak": [
+    "Bystyret ber kommunedirektøren legge fram en sak som konkretiserer målene for kunst- og kultursatsing for seniorer i eksisterende planer, foreslår aktuelle prioriteringer i årene framover, og synliggjør økonomiske konsekvenser. Det er viktig å få frem at Trondheim kommune opererer med en 11.5 % økning i antall seniorer over 67 år fra 2023 - 2027 og at Seniorkulturen har som mål å øke antall arrangementer tilsvarende befolkningsøkningen for denne gruppen.",
+    "Bystyret ber om at behovet for et godt kulturtilbud i bydelene i Trondheim synliggjøres på en god måte i saken."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sara Shafighi (Ap)",
+      "tekst": "2. Saken må skissere løsninger for en opptrapping av kulturtilbud i alle bydeler i Trondheim, for å kunne nå ut til flest mulig i målgruppen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på innstillingas punkt 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingas punkt 1 vedtatt enstemmig",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering mellom innstillingas punkt 2 og Shafighis alternative forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingas punkt 2",
+          "stemmer": 36,
+          "partier": [
+            "20 H",
+            "4 MDG",
+            "4 FrP",
+            "4 V",
+            "2 PP",
+            "KrF",
+            "SP"
+          ]
+        },
+        {
+          "navn": "Shafighis forslag",
+          "stemmer": 31,
+          "partier": [
+            "17 Ap",
+            "9 SV",
+            "1 PP",
+            "3 R",
+            "INP"
+          ]
+        }
+      ],
+      "hvem_vant": "Innstillingas punkt 2",
+      "roedt_stoettet": "Shafighis forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "07.03.2024",
+  "saksnummer_ps": "PS 37/2024",
+  "rodt_fremmet_forslag": false
+}

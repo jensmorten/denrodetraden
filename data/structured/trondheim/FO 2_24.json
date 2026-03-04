@@ -1,0 +1,24 @@
+{
+  "tittel": "Representantforslag - Nye botilbud for eldre i Trondheim - Maria Alseth (FrP)",
+  "innstilling": "Bystyret sender representantforslaget fra Maria Alseth (FrP) til helse- og velferdskomiteen for behandling.",
+  "vedtak": "Bystyret sender representantforslaget fra Maria Alseth (FrP) til helse- og velferdskomiteen for behandling.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen ble enstemmig vedtatt.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "01.02.2024",
+  "saksnummer_ps": "FO 2/24",
+  "rodt_fremmet_forslag": false
+}

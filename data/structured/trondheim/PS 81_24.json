@@ -1,0 +1,125 @@
+{
+  "tittel": "PS 81/2024 Representantforslag - Positive tiltak for sjøfugl - Aurora Meland Winger (MDG)",
+  "innstilling": "Bystyret ber kommunedirektøren gjøre positive tiltak for sjøfugl i Trondheim. Tiltak som skal vurderes er:\n1) spredning av faktakunnskap om lokalt hekkende sjøfugl, for eksempel ved bruk av informasjonsskilt\n2) holdningsskapende arbeid som øker forståelsen for måker i byen og bidrar til å dempe konfliktnivået mellom fugler og mennesker\n3) bevaring, restaurering og etablering av flere trygge hekkeplasser\n4) tilrettelegging for ønska kontakt med fugler på steder med lav konfliktgrad\n5) fjerning av fuglepigger\n6) utredning av tiltak som kan bedre sjøfuglenes tilgang til mat, for å få sjøfuglene til å trekke lenger bort fra områder med mange mennesker.\n7) Informasjonsarbeid må også inkludere informasjon om at fugler ikke skal mates, i tråd med informasjon som oppgis på kommunens nettsider.\n8) Utrede et forbud mot mating av fugler og vilt i sentrumsområder hjemlet i kommunal forskrift. Det bes innhentes erfaringer fra Bergen kommune sitt forbud, og om dette har gitt ønsket effekt. Geografisk og tidsmessig avgrensning av et slikt forbud bør vurderes i saken.",
+  "vedtak": "Bystyret vedtok positive tiltak for sjøfugl i Trondheim med følgende punkter:\n- Alle punkter i innstillingen unntatt pkt. 2 og 5 ble enstemmig vedtatt.\n- Pkt. 2 (holdningsskapende arbeid) ble vedtatt med 45 stemmer mot 22.\n- Pkt. 5 (fjerning av fuglepigger) ble vedtatt mot FrPs forslag om å stryke dette punktet med 45 stemmer mot 22.\n- FrPs tilleggsforslag om informasjonsarbeid om at fugler ikke skal mates ble vedtatt med 60 stemmer mot 7.\n- Gorsets tilleggsforslag om å utrede forbud mot mating av fugler og vilt i sentrumsområder ble vedtatt med 59 stemmer mot 8.\n- Næss Bergsengs forslag om forbud mot eggsanking falt med 17 stemmer mot 50.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Nest siste kulepunkt strykes (fuglepigger)."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Informasjonsarbeid må også inkludere informasjon om at fugler ikke skal mates, i tråd med informasjon som oppgis på kommunens nettsider."
+    },
+    {
+      "forslagsstiller": "Gjermund Gorset (Ap) på vegne av Ap, SV",
+      "tekst": "- Utrede et forbud mot mating av fugler og vilt i sentrumsområder hjemlet i kommunal forskrift. Det bes innhentes erfaringer fra Bergen kommune sitt forbud, og om dette har gitt ønsket effekt. Geografisk og tidsmessig avgrensning av et slikt forbud bør vurderes i saken."
+    },
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV) på vegne av SV, Ap",
+      "tekst": "Bystyret ber også kommunedirektøren arbeide opp mot nasjonale myndigheter om å utrede et lovforbud mot sanking av sjøfuglegg."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på innstillingen unntatt pkt. 2 og 5",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på innstillingens pkt. 2 (holdningsskapende arbeid)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 45
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 22
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingens pkt. 5 (fjerning av fuglepigger) og FrPs forslag om å stryke dette punktet",
+      "alternativer": [
+        {
+          "navn": "Innstillingens pkt. 5",
+          "stemmer": 45
+        },
+        {
+          "navn": "FrPs forslag (stryke fuglepigger)",
+          "stemmer": 22
+        }
+      ],
+      "vinner": "Innstillingens pkt. 5",
+      "roedt_stoette": "Innstillingens pkt. 5",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på FrPs tilleggsforslag om informasjonsarbeid om at fugler ikke skal mates",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 60
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 7
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering på Gorsets tilleggsforslag om å utrede forbud mot mating av fugler og vilt i sentrumsområder",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 59
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 8
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering på Næss Bergsengs forslag om forbud mot eggsanking",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 17
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 50
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.05.2024",
+  "saksnummer_ps": "PS 81/24",
+  "rodt_fremmet_forslag": false
+}

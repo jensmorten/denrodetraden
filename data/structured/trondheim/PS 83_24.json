@@ -1,0 +1,29 @@
+{
+  "tittel": "PS 83/2024 1. økonomirapport 2024",
+  "innstilling": null,
+  "vedtak": "Saken utsettes til 30. mai.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kent Ranum (H)",
+      "tekst": "Saken utsettes til 30. mai."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslaget fremmet av Kent Ranum (H)",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.05.2024",
+  "saksnummer_ps": "PS 83/24",
+  "rodt_fremmet_forslag": false
+}

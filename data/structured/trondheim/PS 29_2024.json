@@ -1,0 +1,55 @@
+{
+  "tittel": "Lovlighetskontroll av bystyrets vedtak i sak 237/23 - kjønnsbalanse",
+  "innstilling": "Bystyret opprettholder sine vedtak av 26.10.23 og 14.12.23 i sak 237/23 Valg i det konstituerende bystyremøtet. Saken sendes til statsforvalteren for avgjørelse.",
+  "vedtak": "Bystyret opprettholder sine vedtak av 26.10.23 og 14.12.23 i sak 237/23 Valg i det konstituerende bystyremøtet. Saken sendes til statsforvalteren for avgjørelse.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingens første del",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 38,
+          "partier": [
+            "H",
+            "MDG",
+            "FrP",
+            "V",
+            "PP",
+            "KrF",
+            "SP",
+            "INP"
+          ]
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 29,
+          "partier": [
+            "Ap",
+            "SV",
+            "R"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "Imot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over innstillingens andre del",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": 67
+        }
+      ],
+      "vinner": "Enstemmig vedtatt",
+      "roedt_stoette": "Enstemmig vedtatt",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "07.03.2024",
+  "saksnummer_ps": "PS 29/2024",
+  "rodt_fremmet_forslag": false
+}

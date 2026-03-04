@@ -1,0 +1,57 @@
+{
+  "tittel": "Trøndelag brann- og redningstjeneste IKS - representantskapet",
+  "innstilling": "Bystyret oppnevner følgende til representantskapet i Trøndelag brann- og redningstjeneste IKS:\n- Representant: Roar Aas (Ap).\n- 2 personlige vararepresentanter: Silje Salomonsen (SV) og Magni Fjørtoft Svarstad (Rødt).",
+  "vedtak": "Bystyret oppnevner følgende til representantskapet i Trøndelag brann- og redningstjeneste IKS:\n- Representant: Roar Aas (Ap).\n- 2 personlige vararepresentanter: Silje Salomonsen (SV) og Magni Fjørtoft Svarstad (Rødt).\nNytt varamedlem for Sara Shafighi: Emil Raaen",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Berit Tiller (H) på vegne av H, Ap, FrP, KrF, MDG, PP, R, SP, SV, V",
+      "tekst": "Fast representant Roar Aas (Ap). Vararepresentanter Silje Salomonsen (SV) og Magni Fjørtoft Svarstad (Rødt)."
+    },
+    {
+      "forslagsstiller": "Sara Shafighi (Ap)",
+      "tekst": "Nytt varamedlem for Sara Shafighi: Emil Raaen"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen ble enstemmig vedtatt",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over Tillers tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Tillers tilleggsforslag ble enstemmig vedtatt",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over Shafighis tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Shafighis tilleggsforslag ble enstemmig vedtatt",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "01.02.2024",
+  "saksnummer_ps": "PS 18/24",
+  "rodt_fremmet_forslag": false
+}

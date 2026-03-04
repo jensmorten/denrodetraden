@@ -1,0 +1,73 @@
+{
+  "tittel": "Representantforslag - Tak på antall passeringer i bommene på E6 Øst (Ranheim-Værnes) - Haakon Gussiaas (H)",
+  "innstilling": "Bystyret ønsker å få innført et passeringstak for bommene på E6 Øst (Ranheim-Værnes) så snart som mulig. Nivået på passeringstaket bør motvirke unødig stor belastning på næringstrafikk og lokaltrafikk. Kommunedirektøren bes orientere formannskapet før sommeren om fremdriftsplan for innføring.",
+  "vedtak": "Bystyret ønsker å få innført et passeringstak for bommene på E6 Øst (Ranheim-Værnes) så snart som mulig. Nivået på passeringstaket bør motvirke unødig stor belastning på næringstrafikk og lokaltrafikk. Kommunedirektøren bes orientere formannskapet før sommeren om fremdriftsplan for innføring.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kirsti Tømmervold (Ap) på vegne av Ap, H",
+      "tekst": "Bystyret ønsker å få innført et passeringstak for bommene på E6 Øst (Ranheim - Værnes) så snart som mulig. Nivået på passeringstaket bør motvirke unødig stor belastning på næringstrafikk og lokaltrafikk. Kommunedirektøren bes orientere formannskapet før sommeren om fremdriftsplan for innføring."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Tak på antall passeringer skal ikke føre til økte bomtakster eller forlenget innkrevingstid."
+    },
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV) på vegne av SV, R",
+      "tekst": "Bystyret avviser representantforslaget."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om Næss Bergsengs forslag om å avvise representantforslaget",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 16
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 51
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om Tømmervolds forslag om innføring av passeringstak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 51
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 16
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om Andreassens tilleggsforslag om at tak på antall passeringer ikke skal føre til økte bomtakster eller forlenget innkrevingstid",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 6
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 61
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "07.03.2024",
+  "saksnummer_ps": "PS 28/2024",
+  "rodt_fremmet_forslag": false
+}

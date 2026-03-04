@@ -1,0 +1,24 @@
+{
+  "tittel": "Årsmelding for Trondheim eldreråd 2023",
+  "innstilling": null,
+  "vedtak": "Saken utsettes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av årsmelding for Trondheim eldreråd 2023",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Utsettelse",
+      "rodt_stoettet": null,
+      "rodt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "02.05.2024",
+  "saksnummer_ps": "PS 70/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,33 @@
+{
+  "tittel": "PS 43/2024 Tredje økonomirapport 2023",
+  "innstilling": "Innstillingen slik den frem går av saksutredningen.",
+  "vedtak": "Innstillingen slik den frem går av saksutredningen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Nils Heldal (SV)",
+      "tekst": "Bystyret rebevilger midlene til Samisk hus i Øvre Bakklandet 52 i henhold til ny kostnadsramme på 31,3 millioner. Bystyret ber kommunedirektøren å benytte allerede avsatte midler på 19,5 millioner, samt supplere 11,8 millioner fra underforbruket på posten «formålstomt»."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen og tilleggsforslaget fra Nils Heldal (SV)",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 38
+        },
+        {
+          "navn": "Heldals forslag",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoette": "Heldals forslag",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "04.04.2024",
+  "saksnummer_ps": "PS 43/24",
+  "rodt_fremmet_forslag": false
+}

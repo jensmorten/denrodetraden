@@ -1,0 +1,135 @@
+{
+  "tittel": "PS 73/2024 Representantforslag - Nye botilbud for eldre i Trondheim - Maria Alseth (FrP)",
+  "innstilling": [
+    "Bystyret ber kommunedirektøren gå i dialog med utbyggere og andre aktuelle samfunnsaktører med sikte på opprettelse av botilbud, herunder bofelleskap, samt lede det overordnede arbeidet med å opprette slike tilbud i kommunen.",
+    "Bystyret ber kommunedirektøren se på muligheten for å tilrettelegge slik at utskrivningsklare pasienter kan benytte seg av slike botilbud, herunder muligheten for å etablere baser for hjemmetjenesten ved botilbudet, for å sikre et bedre tilbud for utskrivningsklare som grunnet sin helsesituasjon ikke kan flytte til eget hjem.",
+    "Kom.munedirektøren bes om å fasilitere for at faglig kompetanse i kommunen gjøres tilgjengelig for entreprenørene ved bygging av botilbud, slik at boligene sikres en egnet utforming for eldre.",
+    "Kommunedirektøren bes, i samarbeid med entreprenørene, å involvere lokalsamfunnet og aktuelle råd og organisasjoner i arbeidet med planlegging av botilbudene.",
+    "Bystyret ber om at det legges til rette for at botilbudene kan bygges i tilknytning til servicetjenester, kafeer, butikker og andre tjenestetilbud.",
+    "Bystyret ber kommunedirektøren i arbeidet med boligmatrisen for omsorgstjenestene inngå dialog med Norges Døveforbund Trondheim om hvordan vi kan ivareta ulike boligbehov hos tegnspråklige eldre.",
+    "Bystyret ber kommunedirektøren vurdere ulike boformer for eldre som gjør at eldre kan bo lengre hjemme. I arbeidet skal det i større grad vurderes at boliger bygges i tilknytning til barnehage og boligtyper for studenter og barnefamilier for å legge til rette for generasjonsmøter og forhindre ensomhet."
+  ],
+  "vedtak": [
+    "Innstillingen unntatt pkt 3 ble vedtatt.",
+    "Innstilligens punkt 3 ble vedtatt.",
+    "Andreassens forslag \"Botilbud i nærheten av tjenestetilbud\" ble vedtatt.",
+    "Horgars tilleggsforslag \"Boligbehov hos tegnspråklige eldre\" ble enstemmig vedtatt.",
+    "Dambas fellesforslag \"Boliger for eldre i tilknytning til barnehage, studenter og barnefamilier\" ble enstemmig vedtatt."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mia Småvik Rørdal (R)",
+      "tekst": "Bystyret ber kommunedirektøren øke kapasiteten i botilbudene for eldre, i forbindelse med boligmatrisen for omsorgstjenestene, som er under utarbeidelse."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret ber om at det legges til rette for at botilbudene kan bygges i tilknytning til servicetjenester, kafeer, butikker og andre tjenestetilbud."
+    },
+    {
+      "forslagsstiller": "Anbjørg Horgar (SV)",
+      "tekst": "Bystyret ber kommunedirektøren i arbeidet med boligmatrisen for omsorgstjenestene inngå dialog med Norges Døveforbund Trondheim om hvordan vi kan ivareta ulike boligbehov hos tegnspråklige eldre."
+    },
+    {
+      "forslagsstiller": "Efia Marie Damba (SV) på vegne av SV, R, Ap, FrP",
+      "tekst": "Bystyret ber kommunedirektøren vurdere ulike boformer for eldre som gjør at eldre kan bo lengre hjemme. I arbeidet skal det i større grad vurderes at boliger bygges i tilknytning til barnehage og boligtyper for studenter og barnefamilier for å legge til rette for generasjonsmøter og forhindre ensomhet."
+    },
+    {
+      "forslagsstiller": "Mia Småvik Rørdal (R)",
+      "tekst": "Entreprenører som benytter kommunens faglige kompetanse skal faktureres for kommunens totale kostnader ved å tilby konsulenttjenester."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på Småvik Rørdals forslag \"Økt kapasitet i boligtibudet for eldre\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering på innstillingen unntatt pkt 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 55
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 13
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering på innstillingens punkt 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering på Andreassens forslag \"Botilbud i nærheten av tjenestetilbud\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 66
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering på Horgars tilleggsforslag \"Boligbehov hos tegnspråklige eldre\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering på Dambas fellesforslag \"Boliger for eldre i tilknytning til barnehage, studenter og barnefamilier\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.05.2024",
+  "saksnummer_ps": "PS 73/24",
+  "rodt_fremmet_forslag": true
+}

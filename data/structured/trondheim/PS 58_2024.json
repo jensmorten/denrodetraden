@@ -1,0 +1,24 @@
+{
+  "tittel": "Forvaltningsrevisjon av barnevernet i Østbyen - oppfølgingsundersøkelse",
+  "innstilling": null,
+  "vedtak": "Saken ble utsatt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av saken",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Utsettelse",
+      "roedt_stoettet": "Utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "02.05.2024",
+  "saksnummer_ps": "PS 58/2024",
+  "rodt_fremmet_forslag": false
+}

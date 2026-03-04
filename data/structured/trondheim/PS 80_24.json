@@ -1,0 +1,45 @@
+{
+  "tittel": "PS 80/2024 Årsmelding for Trondheim eldreråd 2023",
+  "innstilling": "Bystyret godkjenner framlagte årsmelding for Trondheim eldreråds virksomhet i 2023.",
+  "vedtak": "Bystyret godkjenner framlagte årsmelding for Trondheim eldreråds virksomhet i 2023.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Efia Marie Damba (SV)",
+      "tekst": "Bystyret mener at bevissthet rundt minoritetsrepresentasjon må økes. Minoritetene bærer på kunnskap som majoriteten mangler, som kan bidra til bedre tjenester for alle og spesielt de med minoritetsbakgrunn. Kunnskaper innen språk, kultur og historie er styrker vi trenger."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over merknaden fra SV",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "SV, Uavh, FrP, R, PP, V, H, SP, KrF"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "ingen oppgitt"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.05.2024",
+  "saksnummer_ps": "PS 80/24",
+  "rodt_fremmet_forslag": false
+}

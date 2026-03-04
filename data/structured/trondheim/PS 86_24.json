@@ -1,0 +1,44 @@
+{
+  "tittel": "PS 86/2024 Årsrapport 2023 for Stavne Inkludering Trondheim KF",
+  "innstilling": "Bystyret fastsetter årsrapport 2023 for Stavne Inkludering Trondheim KF.",
+  "vedtak": "Bystyret fastsetter årsrapport 2023 for Stavne Inkludering Trondheim KF.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen til årsrapport 2023 for Stavne Inkludering Trondheim KF",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 66,
+          "partier": [
+            "H",
+            "ap",
+            "SV",
+            "MDG",
+            "FrP",
+            "V",
+            "R",
+            "PP",
+            "KrF",
+            "Uavh.",
+            "SP"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "H"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.05.2024",
+  "saksnummer_ps": "PS 86/24",
+  "rodt_fremmet_forslag": false
+}

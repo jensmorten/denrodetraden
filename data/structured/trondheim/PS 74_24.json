@@ -1,0 +1,85 @@
+{
+  "tittel": "PS 74/2024 Representantforslag - Boligsosialt samarbeid som en del av folkehelsearbeidet - Svein Otto Nilsen (PP)",
+  "innstilling": "Bystyret forutsetter at Trondheim kommune intensiverer arbeidet for et bedre boligsosialt tilbud.\nBystyret viser til vedtak om bedre bomiljø i Østersundsgate oktober 2021 der bystyret ba kommunedirektøren vise hvordan utleie av de kommunale boligene i Østersunds gate nr 4, 6 og 8 kan organiseres for å gi en trygg og variert beboersammensetning som bidrar til gode fellesområder og bedre bomiljø. Bystyret ber om at ordninger med boligsosiale nettverk og bofellesskap med eldre inngår i vurderingene for disse kommunale bygårdene.",
+  "vedtak": "Bystyret forutsetter at Trondheim kommune intensiverer arbeidet for et bedre boligsosialt tilbud.\nBystyret viser til vedtak om bedre bomiljø i Østersundsgate oktober 2021 der bystyret ba kommunedirektøren vise hvordan utleie av de kommunale boligene i Østersunds gate nr 4, 6 og 8 kan organiseres for å gi en trygg og variert beboersammensetning som bidrar til gode fellesområder og bedre bomiljø. Bystyret ber om at ordninger med boligsosiale nettverk og bofellesskap med eldre inngår i vurderingene for disse kommunale bygårdene.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Kokaas (PP) på vegne av PP, H, V, MDG, SP, KrF, SV, R, Ap",
+      "tekst": "Bystyret forutsetter at Trondheim kommune intensiverer arbeidet for et bedre boligsosialt tilbud."
+    },
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV) på vegne av SV, PP, R, Ap",
+      "tekst": "Bystyret viser til vedtak om bedre bomiljø i Østersundsgate oktober 2021 der bystyret ba kommunedirektøren vise hvordan utleie av de kommunale boligene i Østersunds gate nr 4, 6 og 8 kan organiseres for å gi en trygg og variert beboersammensetning som bidrar til gode fellesområder og bedre bomiljø. Bystyret ber om at ordninger med boligsosiale nettverk og bofellesskap med eldre inngår i vurderingene for disse kommunale bygårdene."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillingen og fellesforslag \"Boligsosialt tilbud\"",
+      "alternativer": [
+        {
+          "navn": "Fellesforslaget \"Boligsosialt tilbud\"",
+          "stemmer": 66,
+          "partier": [
+            "19 H",
+            "17 Ap",
+            "9 SV",
+            "4 MDG",
+            "4 FrP",
+            "4 V",
+            "3 R",
+            "3 PP",
+            "KrF",
+            "Uavh.",
+            "SP"
+          ]
+        },
+        {
+          "navn": "Innstillingen",
+          "stemmer": 1,
+          "partier": [
+            "1 H"
+          ]
+        }
+      ],
+      "vinner": "Fellesforslaget \"Boligsosialt tilbud\"",
+      "roedt_stoette": "Fellesforslaget \"Boligsosialt tilbud\"",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering om Naper Salomsens tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "Naper Salomsens forslag",
+          "stemmer": 40,
+          "partier": [
+            "17 Ap",
+            "9 SV",
+            "4 MDG",
+            "1 V",
+            "3 R",
+            "3 PP",
+            "KrF",
+            "Uavh.",
+            "SP"
+          ]
+        },
+        {
+          "navn": "Motforslag",
+          "stemmer": 27,
+          "partier": [
+            "20 H",
+            "4 FrP",
+            "3 V"
+          ]
+        }
+      ],
+      "vinner": "Naper Salomsens forslag",
+      "roedt_stoette": "Naper Salomsens forslag",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.05.2024",
+  "saksnummer_ps": "PS 74/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,71 @@
+{
+  "tittel": "Korrigeringer til sak PS 245/2023 Betalingssatser for barnehage, skolefritidsordning og Trondheim kulturskole fra 1.1.2024",
+  "innstilling": {
+    "SFO_og_kulturskole_satser_1_jan_2024_30_jun_2024": {
+      "SFO": {
+        "Inntil_12_timer_1_og_2_klasse": "Gratis",
+        "Fra_og_med_12_timer_1_og_2_klasse": "1710 kroner",
+        "Inntil_12_timer_3_4_klasse": "2290 kroner",
+        "Fra_og_med_12_timer_3_4_klasse": "3420 kroner"
+      },
+      "Kulturskoleplass": {
+        "Pris_plass_1": "4570 kroner",
+        "Pris_plass_2": "5490 kroner"
+      }
+    },
+    "SFO_og_kulturskole_satser_1_jul_2024_31_des_2024": {
+      "SFO": {
+        "Inntil_12_timer_1_2_og_3_klasse": "Gratis",
+        "Fra_og_med_12_timer_1_2_og_3_klasse": "1710 kroner",
+        "Inntil_12_timer_4_klasse": "2290 kroner",
+        "Fra_og_med_12_timer_4_klasse": "3420 kroner",
+        "Juli_fritatt_egenbetaling_SFO": true
+      },
+      "Kulturskoleplass": {
+        "Pris_plass_1": "4570 kroner",
+        "Pris_plass_2": "5490 kroner"
+      }
+    }
+  },
+  "vedtak": "Bystyret vedtar betalingssatser for SFO og kulturskolen som angitt i innstillingen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV) på vegne av SV, Ap, InP, R",
+      "tekst": "Kun en pris for kulturskoleplass: Kulturskoleplass, betaling per år Pris for plass: 4570 kroner."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen untatt kulturskoleplass",
+      "alternativer": [
+        {
+          "navn": "Innstillingen untatt kulturskoleplass",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen untatt kulturskoleplass",
+      "roedt_stoettet": "Innstillingen untatt kulturskoleplass",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering mellom innstillingen og Salomonsens forslag om kulturskoleplass",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 37
+        },
+        {
+          "navn": "Salomonsens forslag",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Salomonsens forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "01.02.2024",
+  "saksnummer_ps": "PS 2/24",
+  "rodt_fremmet_forslag": false
+}

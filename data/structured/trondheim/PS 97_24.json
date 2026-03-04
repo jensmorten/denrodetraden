@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 97/2024 Kvalitetsmelding skole 2023",
+  "innstilling": null,
+  "vedtak": "Saken utsettes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av utsettelse av saken",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Utsettelse",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.05.2024",
+  "saksnummer_ps": "PS 97/24",
+  "rodt_fremmet_forslag": false
+}

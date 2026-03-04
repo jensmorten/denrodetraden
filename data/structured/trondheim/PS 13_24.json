@@ -1,0 +1,49 @@
+{
+  "tittel": "Gudruns gate 9, detaljregulering, r20210035, sluttbehandling",
+  "innstilling": "Bystyret vedtar forslag til detaljregulering av Gudruns gate 9 som vist på kart i målestokk 1:500, merket Bergersen arkitekter AS senest datert 22.11.2023 med bestemmelser senest datert 27.11.2023 og beskrevet i planbeskrivelsen, senest datert 27.11.2023. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12",
+  "vedtak": "Bystyret vedtar forslag til detaljregulering av Gudruns gate 9 som vist på kart i målestokk 1:500, merket Bergersen arkitekter AS senest datert 22.11.2023 med bestemmelser senest datert 27.11.2023 og beskrevet i planbeskrivelsen, senest datert 27.11.2023. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jenny Nordaune (SV)",
+      "tekst": "Bystyret avviser reguleringsplanen: Bystyret avviser forslag til detaljregulering av Gudruns gate 9 som vist på kart i målestokk 1:500, merket Bergersen arkitekter AS senest datert 22.11.2023 med bestemmelser senest datert 27.11.2023 og beskrevet i planbeskrivelsen, senest datert 27.11.2023. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Ved alternativ votering mellom innstillingen og Nordaunes fellesforslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 53,
+          "partier": [
+            "H",
+            "Ap",
+            "MDG",
+            "FrP",
+            "V",
+            "PP",
+            "KrF",
+            "SP"
+          ]
+        },
+        {
+          "navn": "Nordaunes fellesforslag",
+          "stemmer": 14,
+          "partier": [
+            "SV",
+            "PP",
+            "R",
+            "INP"
+          ]
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Nordaunes fellesforslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "01.02.2024",
+  "saksnummer_ps": "PS 13/24",
+  "rodt_fremmet_forslag": false
+}

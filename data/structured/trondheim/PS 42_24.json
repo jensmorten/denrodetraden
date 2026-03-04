@@ -1,0 +1,205 @@
+{
+  "tittel": "PS 42/2024 Miljøledelse og tiltak for utslippskutt innen veitrafikk",
+  "innstilling": [
+    "Bystyret er positiv til at forvaltningsrevisjonen viser at ISO-standardens krav til forbedringer, avvik og korrigerende tiltak i all hovedsak er ivaretatt.",
+    "Bystyret er bekymret for tilgangen på drivstoff/energi for nullutslippskjøretøy, og ber kommunedirektøren prioritere videre utbygging av infrastruktur for tilrettelegging for tunge nullutslippskjøretøy.",
+    "Bystyret er bekymret for at målsettingen om 80 prosent kutt i klimagasser innen 2030 ikke er mulig å nå med dagens tiltak."
+  ],
+  "vedtak": [
+    "Bystyret er positiv til at forvaltningsrevisjonen viser at ISO-standardens krav til forbedringer, avvik og korrigerende tiltak i all hovedsak er ivaretatt.",
+    "Bystyret er bekymret for tilgangen på drivstoff/energi for nullutslippskjøretøy, og ber kommunedirektøren prioritere videre utbygging av infrastruktur for tilrettelegging for tunge nullutslippskjøretøy.",
+    "Bystyret er bekymret for at målsettingen om 80 prosent kutt i klimagasser innen 2030 ikke er mulig å nå med dagens tiltak."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roald Arentz (R)",
+      "tekst": "Bystyret mener det er uheldig at store veiutbygginger i og rundt Trondheim har hatt, og kommer til å ha, negativ innvirkning på målet om nullvekst i privatbiltrafikken."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret er bekymret for tilgangen på drivstoff/energi for nullutslippskjøretøy, og ber kommunedirektøren legge til rette for rask utbygging av nødvendig infrastruktur."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret ber om at utskifting av kommunens bil- og utstyrspark må være knyttet til behov for fornying av materiell, der det dårligste utstyret prioriteres utskiftet først."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret forventer at innkjøp av nytt materiell gjøres på bakgrunn av behovet i organisasjonen, slik at kommunens enheter har biler og utstyr som er egnet til jobben som skal utføres."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen pkt. 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom Innstillingens pkt. 2 og FrPs alternative forslag pkt. 2",
+      "alternativer": [
+        {
+          "navn": "Innstillingen pkt. 2",
+          "stemmer": 34,
+          "partier": [
+            "20 H",
+            "4 MDG",
+            "4 V",
+            "3 PP",
+            "KrF",
+            "U",
+            "SP"
+          ]
+        },
+        {
+          "navn": "FrPs alternative forslag pkt. 2",
+          "stemmer": 33,
+          "partier": [
+            "17 Ap",
+            "9 SV",
+            "4 FrP",
+            "3 R"
+          ]
+        }
+      ],
+      "hvem_vant": "Innstillingen pkt. 2",
+      "roedt_stoettet": "FrPs alternative forslag pkt. 2",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Innstillingen pkt. 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 63,
+          "partier": [
+            "20 H",
+            "17 Ap",
+            "9 SV",
+            "4 MDG",
+            "4 V",
+            "3 R",
+            "3 PP",
+            "KrF",
+            "U",
+            "SP"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 4,
+          "partier": [
+            "4 FrP"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Innstillingen pkt. 4",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "1 H",
+            "17 Ap",
+            "9 SV",
+            "3 R"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 37,
+          "partier": [
+            "19 H",
+            "4 MDG",
+            "4 V",
+            "4 FrP",
+            "3 PP",
+            "KrF",
+            "U",
+            "SP"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Andreassens forslag 'Utskifting knyttes til behov og tilstand'",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24,
+          "partier": [
+            "17 Ap",
+            "4 FrP",
+            "3 R"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 43,
+          "partier": [
+            "20 H",
+            "9 SV",
+            "4 MDG",
+            "4 V",
+            "3 PP",
+            "KrF",
+            "U",
+            "SP"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Andreassens forslag 'Legge til rette for rask utbygging'",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24,
+          "partier": [
+            "17 Ap",
+            "4 FrP",
+            "3 R"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 43,
+          "partier": [
+            "20 H",
+            "9 SV",
+            "4 MDG",
+            "4 V",
+            "3 PP",
+            "KrF",
+            "U",
+            "SP"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "04.04.2024",
+  "saksnummer_ps": "PS 42/24",
+  "rodt_fremmet_forslag": true
+}

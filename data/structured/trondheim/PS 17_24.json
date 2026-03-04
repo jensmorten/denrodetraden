@@ -1,0 +1,33 @@
+{
+  "tittel": "Representantforslag - Tak på antall passeringer i bommene på E6 Øst (Ranheim-Værnes) - Haakon Gussiaas (H)",
+  "innstilling": null,
+  "vedtak": "Saken utsatt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kirsti Tømmervold (Ap)",
+      "tekst": "Komme tilbake med en ny sak: Bystyret ber kommunedirektøren legge fram en sak som viser handlingsrommet bystyret har når det gjelder å innføre et tak på antall passeringer per måned i bommene på E6 Øst (Ranheim-Værnes)."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Skal ikke føre til økte bomtakster eller forlenget innkrevingstid: Tak på antall passeringer skal ikke føre til økte bomtakster eller forlenget innkrevingstid."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om utsatt behandling av saken",
+      "alternativer": [
+        {
+          "navn": "Saken utsatt",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Saken utsatt",
+      "roedt_stoettet": "Saken utsatt",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "01.02.2024",
+  "saksnummer_ps": "PS 17/24",
+  "rodt_fremmet_forslag": false
+}

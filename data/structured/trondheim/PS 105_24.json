@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 105/2024 Årsmelding 2023 - Trondheim studentråd",
+  "innstilling": "Bystyret godkjenner årsmelding for 2023 for Trondheim studentråd.",
+  "vedtak": "Bystyret godkjenner årsmelding for 2023 for Trondheim studentråd.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen ble enstemmig vedtatt.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "23.05.2024",
+  "saksnummer_ps": "PS 105/24",
+  "rodt_fremmet_forslag": false
+}
