@@ -35,7 +35,18 @@ uploaded_file = st.file_uploader(
     type=["pdf"]
 )
 
-analyse_knapp = st.button("🔍 Analyser sak/ sakliste")
+password = st.text_input(
+    "Passord for analyse",
+    type="password"
+)
+
+authenticated = password == st.secrets["ANALYSE_PASSWORD"]
+
+if password and not authenticated:
+    st.warning("Feil passord")
+
+analyse_knapp = st.button("🔍 Analyser sak/ sakliste", disabled=not authenticated)
+
 
 # ============================================
 # PDF → TEXT
