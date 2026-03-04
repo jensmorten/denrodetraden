@@ -1,0 +1,48 @@
+{
+  "tittel": "Representantforslag - En mer kraftfull forbedringsprosess i BOA med god forankring blant berørte parter - Kjetil Utne (H)",
+  "innstilling": "Bystyret ber om at det etableres en rådgivende gruppe med deltagelse fra berørte parter som kan sikre god forankring av den omstillingsprosessen som er igang innen BOA.",
+  "vedtak": "Bystyret ber om at det etableres en rådgivende gruppe med deltagelse fra berørte parter som kan sikre god forankring av den omstillingsprosessen som er igang innen BOA.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjetil Utne (H)",
+      "tekst": "Bystyret ber om at det etableres en rådgivende gruppe med deltagelse fra berørte parter som kan sikre god forankring av den omstillingsprosessen som er igang innen BOA."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Ved alternativ votering mellom innstillingen og H alternative forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 30,
+          "partier": [
+            "17 Ap",
+            "9 SV",
+            "3 R",
+            "Uavh."
+          ]
+        },
+        {
+          "navn": "H alternative forslag",
+          "stemmer": 37,
+          "partier": [
+            "20 H",
+            "4 MDG",
+            "4 FrP",
+            "4 V",
+            "3 PP",
+            "KrF",
+            "SP"
+          ]
+        }
+      ],
+      "vinner": "H alternative forslag",
+      "roedt_stoette": "Innstillingen",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 120/2024",
+  "rodt_fremmet_forslag": false
+}

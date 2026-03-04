@@ -1,0 +1,46 @@
+{
+  "tittel": "Forutsigbarhet for tunge nullutslipps- og biogasskjøretøy i bomringen",
+  "innstilling": [
+    "Det innføres nulltakst for tunge nullutslipps- og biogasskjøretøy i Miljøpakkens bompasseringer i minst fem år, frem til 2029.",
+    "Hvis det innføres betaling for tunge nullutslipps- og biogasskjøretøy etter 2029, skal miljødifferensiering videreføres slik at tunge nullutslipps- og biogasskjøretøy har lavere takst enn tilsvarende fossile kjøretøy."
+  ],
+  "vedtak": [
+    "Det innføres nulltakst for tunge nullutslipps- og biogasskjøretøy i Miljøpakkens bompasseringer i minst fem år, frem til 2029.",
+    "Hvis det innføres betaling for tunge nullutslipps- og biogasskjøretøy etter 2029, skal miljødifferensiering videreføres slik at tunge nullutslipps- og biogasskjøretøy har lavere takst enn tilsvarende fossile kjøretøy."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingens punkt 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstillingens punkt 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 62
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 118/2024",
+  "rodt_fremmet_forslag": false
+}

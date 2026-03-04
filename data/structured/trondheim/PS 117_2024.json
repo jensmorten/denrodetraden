@@ -1,0 +1,49 @@
+{
+  "tittel": "Etablering av et ideelt aksjeselskap som kan bidra til en vellykket feiring av Nasjonaljubileet i 2030",
+  "innstilling": "Bystyret vedtar at det opprettes et ideelt aksjeselskap som kan arbeide for en vellykket gjennomføring av Nasjonaljubileet i 2030. Bystyret ber kommunedirektøren om å etablere selskapet.",
+  "vedtak": "Bystyret vedtar at det opprettes et ideelt aksjeselskap som kan arbeide for en vellykket gjennomføring av Nasjonaljubileet i 2030. Bystyret ber kommunedirektøren om å etablere selskapet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret anser finansiering av Nasjonaljubileet 2030 for å være en statlig oppgave. Bystyret mener at finansiering av tiltaket ikke skal belastes kommunebudsjettet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om opprettelse av ideelt aksjeselskap for Nasjonaljubileet 2030",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 64
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "Mot innstillingen",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over FrPs tilleggsforslag om statlig finansiering",
+      "alternativer": [
+        {
+          "navn": "For FrPs forslag",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot FrPs forslag",
+          "stemmer": 36
+        }
+      ],
+      "hvem_vant": "Mot FrPs forslag",
+      "roedt_stoettet": "For FrPs forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 117/2024",
+  "rodt_fremmet_forslag": false
+}

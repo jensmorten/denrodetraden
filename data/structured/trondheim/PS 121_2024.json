@@ -1,0 +1,33 @@
+{
+  "tittel": "Representantforslag - Lokal beredskap uten klasseskiller - Mona Berger (SV)",
+  "innstilling": "Bystyret ber om at det i kommunens beredskapsplaner også inkluderes tiltak for å sørge for egenberedskap til de som ikke kan sørge for dette selv.",
+  "vedtak": "Bystyret ber om at det i kommunens beredskapsplaner også inkluderes tiltak for å sørge for egenberedskap til de som ikke kan sørge for dette selv.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Inkluderes i kommunens beredskapsplaner"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Ved alternativ votering mellom innstillingen og forslag fra FrP",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 29
+        },
+        {
+          "navn": "Forslag fra FrP",
+          "stemmer": 38
+        }
+      ],
+      "hvem_vant": "Forslag fra FrP",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 121/2024",
+  "rodt_fremmet_forslag": false
+}
