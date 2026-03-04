@@ -188,12 +188,12 @@ def rerank_documents(query, docs):
 def search_similar_cases(tekst, kommune):
 
     # 1 hent kandidater
-    candidates = retrieve_candidates(tekst)
+    #candidates = retrieve_candidates(tekst)
 
     # 2 rerank
-    best_docs = rerank_documents(tekst, candidates)
+    #best_docs = rerank_documents(tekst, candidates)
 
-    context = "\n\n---\n\n".join(best_docs)
+    #context = "\n\n---\n\n".join(best_docs)
 
     prompt = f"""
     Du er en politisk assistent for partiet Rødt. Du skal gi et kort, strukturert, nøkternt og endelig svar uten å be brukeren om mer. 
@@ -225,20 +225,17 @@ def search_similar_cases(tekst, kommune):
 
     Saken som er lastet opp følger:
     {tekst}
-
-    Relevante saker:
-    {context}
     """
 
     response = client.responses.create(
         model=MODEL,
         input=prompt,
-        #tools=[
-        #    {
-        #        "type": "file_search",
-        #        "vector_store_ids": [VECTOR_STORE_ID]
-        #    }
-        #]
+        tools=[
+            {
+                "type": "file_search",
+                "vector_store_ids": [VECTOR_STORE_ID]
+            }
+        ]
     )
 
     return response.output_text
