@@ -1,0 +1,29 @@
+{
+  "tittel": "075/25 Fritak fra politiske verv - Tonje Tronsvang-Sandnes",
+  "innstilling": null,
+  "vedtak": "På grunn av flytting ut av kommunen gis Tonje Tronsvang-Sandnes fritak fra sine politiske verv i Røros kommune for resten av valgperioden.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Per Erik Sandnes (Ap)",
+      "tekst": "På grunn av flytting ut av kommunen gis Tonje Tronsvang-Sandnes fritak fra sine politiske verv i Røros kommune for resten av valgperioden."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslaget fra repr. Per E. Sandnes",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget fra repr. Per E. Sandnes",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "PS 075/25",
+  "rodt_fremmet_forslag": false
+}

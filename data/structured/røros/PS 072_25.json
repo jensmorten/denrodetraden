@@ -1,0 +1,24 @@
+{
+  "tittel": "072/25 Rapport Trøndersk Matmanifest, en kartlegging av status",
+  "innstilling": "Rapporten tas til orientering.",
+  "vedtak": "Rapporten tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om at rapporten tas til orientering.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoettet": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "PS 072/25",
+  "rodt_fremmet_forslag": false
+}

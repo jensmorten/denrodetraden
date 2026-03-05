@@ -1,0 +1,29 @@
+{
+  "tittel": "Valg av representanter til stiftelsen Rørosmuseet - krav til kjønnsrepresentasjon",
+  "innstilling": null,
+  "vedtak": "Elin Silderen Tamnes velges som medlem. Christer Tronsmed velges som varamedlem.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Isak Veierud Busch (Ap)",
+      "tekst": "Elin Silderen Tamnes velges som medlem. Christer Tronsmed velges som varamedlem."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra repr. I. Busch",
+      "alternativer": [
+        {
+          "navn": "I. Busch sitt forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "I. Busch sitt forslag",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 057/25",
+  "rodt_fremmet_forslag": false
+}

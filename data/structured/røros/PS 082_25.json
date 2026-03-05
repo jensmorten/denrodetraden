@@ -1,0 +1,37 @@
+{
+  "tittel": "Endring av skolestruktur 2025",
+  "innstilling": [
+    "Glåmos skole legges ned fra 1. januar 2026.",
+    "Kommunedirektøren bes sørge for gode og involverende prosesser for å sikre et godt skole- og arbeidsmiljø.",
+    "Kommunedirektøren bes sørge for et fortsatt godt samarbeid med AtB for å sikre et godt skysstilbud til alle elever."
+  ],
+  "vedtak": "Saken utsettes frem til den tas opp igjen til behandling.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Røros Arbeiderparti",
+      "tekst": "Saken utsettes frem til den tas opp igjen til behandling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslaget fra Røros Arbeiderparti",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": 16
+        },
+        {
+          "navn": "Mot utsettelse",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 082/25",
+  "rodt_fremmet_forslag": false
+}

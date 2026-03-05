@@ -1,0 +1,85 @@
+{
+  "tittel": "Innkjøpspolitikk for Røros kommune",
+  "innstilling": "Innkjøpspolitikk for Røros kommune vedtas.",
+  "vedtak": "Innkjøpspolitikk for Røros kommune vedtas.\nTilleggspunkt til kulepunkt 1.7: Der det er hensiktsmessig bør det vurderes bruk av reserverte kontrakter\nTilleggspunkt til kulepunkt 1.3: Velger leverandører som har landsdekkende tariffavtaler for sine ansatte, dersom det er relevant.\nTilleggspunkt til kulepunkt 1.7: Røros kommune skal så langt det lar seg gjøre ikke handle varer og tjenester som har opprinnelse fra Israel og Russland.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sadmira Buljubasic (Ap)",
+      "tekst": "Tileggspunkt til 1.7 Kommunen som en etisk samfunnsaktør - Der det er hensiktsmessig bør det vurderes bruk av reserverte kontrakter"
+    },
+    {
+      "forslagsstiller": "Oskar Tørres Lindstad (Ap)",
+      "tekst": "Sosial bærekraft 1.3 - velger leverandører som har landsdekkende tariffavtaler for sine ansatte, dersom det er relevant."
+    },
+    {
+      "forslagsstiller": "Stein Petter Haugen (Uavh) på vegne av seg selv, Rødt og Sv",
+      "tekst": "Røros kommune skal så langt det lar seg gjøre ikke handle varer og tjenester som har opprinnelse fra Israel og Russland."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen i saken",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslaget fra repr. Sadmira Buljubasic (Ap)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 22
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslaget fra repr. Oskar Tørres Lindstad (Ap)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 22
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslaget fra repr. Stein Petter Haugen (Uavh) på vegne av seg selv, Rødt og Sv",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 059/25",
+  "rodt_fremmet_forslag": true
+}

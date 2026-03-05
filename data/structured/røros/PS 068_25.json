@@ -1,0 +1,36 @@
+{
+  "tittel": "Detaljregulering for Strømmehagaen - Sluttbehandling",
+  "innstilling": [
+    "Røros kommune vedtar forslag til Detaljregulering for Strømmehagen med PlanID 20200014 (jf. Plan og bygningsloven § 12-12).",
+    "De deler av reguleringsplanene Skoleområde (PlanID 19560001) og Sentrum (PlanID 19820002) som blir berørt av ny detaljregulering for Strømmehagaen (PlanID 20200014), inkludert alle senere planendringer, delplaner og tilhørende bestemmelser, oppheves."
+  ],
+  "vedtak": "Planen sendes tilbake til kommunedirektøren, for omarbeiding og forenkling av bestemmelser om tilbygg, og innarbeiding av lysbegrensninger.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Repr. Rune Tørresvold (Ap)",
+      "tekst": "Planen sendes tilbake til kommunedirektøren, for omarbeiding og forenkling av bestemmelser om tilbygg, og innarbeiding av lysbegrensninger."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen fra planutvalget ble satt opp i mot endringsforslaget fra repr. Tørresvold.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen fra planutvalget",
+          "stemmer": 2
+        },
+        {
+          "navn": "Endringsforslaget fra repr. Tørresvold",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "Endringsforslaget fra repr. Tørresvold",
+      "roedt_stoettet": "Endringsforslaget fra repr. Tørresvold",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "28.08.2025",
+  "saksnummer_ps": "PS 068/25",
+  "rodt_fremmet_forslag": false
+}

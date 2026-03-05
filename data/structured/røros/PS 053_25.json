@@ -1,0 +1,24 @@
+{
+  "tittel": "Endring av områdeplan for Røros sentrum - sluttbehandling",
+  "innstilling": "Røros kommune vedtar forslag til endring av områdeplan for Røros sentrum med planID 20230002. (jf. Plan og bygningsloven § 12-12).",
+  "vedtak": "Røros kommune vedtar forslag til endring av områdeplan for Røros sentrum med planID 20230002. (jf. Plan og bygningsloven § 12-12).",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen i saken ble enstemmig vedtatt.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 053/25",
+  "rodt_fremmet_forslag": false
+}
