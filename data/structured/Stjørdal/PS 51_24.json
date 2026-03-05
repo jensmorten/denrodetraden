@@ -1,0 +1,74 @@
+{
+  "tittel": "Reglement for folkevalgtes arbeidsvilkår i 2024/3012",
+  "innstilling": [
+    "1. Nytt «Reglement for folkevalgtes arbeidsvilkår i Stjørdal kommune 2023-2027» vedtas.",
+    "2. Nytt reglement, sist revidert i K-sak 51/24, gjøres gjeldende fra 01.05.2024.",
+    "3. Ordfører får fullmakt til å innarbeide redaksjonelle endringer."
+  ],
+  "vedtak": [
+    "1. Nytt «Reglement for folkevalgtes arbeidsvilkår i Stjørdal kommune 2023-2027» vedtas.",
+    "2. Nytt reglement, sist revidert i K-sak 51/24, gjøres gjeldende fra 01.05.2024.",
+    "3. Ordfører får fullmakt til å innarbeide redaksjonelle endringer.",
+    "I punkt 2.10 Møteleder – Åpne eller stengte dører – Taushetsplikt, tredje avsnitt legges det til ordene med store bokstaver: «Blir det vedtatt å behandle en sak for stengte dører, plikter kommunestyrets representanter, de kommunale tjenestemenn og andre som måtte være til stede, å bevare taushet om TAUSHETSBELAGTE OPPLYSNINGER I forhandlingene. Taushetsplikten varer til annet måtte bli bestemt.»"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "Følgende setning tas vekk i punkt 2.20 Åpen spørretime: «Det er ikke anledning til å reise spørsmål som berører saker kommunestyret skal behandle på sitt møte samme dag.»"
+    },
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "I punkt 2.10 Møteleder – Åpne eller stengte dører – Taushetsplikt, tredje avsnitt legges det til ordene med store bokstaver: «Blir det vedtatt å behandle en sak for stengte dører, plikter kommunestyrets representanter, de kommunale tjenestemenn og andre som måtte være til stede, å bevare taushet om TAUSHETSBELAGTE OPPLYSNINGER I forhandlingene. Taushetsplikten varer til annet måtte bli bestemt.»"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over Morten Harpers tilleggsforslag om å fjerne setning i punkt 2.20 Åpen spørretime",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 16
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Avstemning over Morten Harpers tilleggsforslag til punkt 2.10 Møteleder – Åpne eller stengte dører – Taushetsplikt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Imot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Avstemning over innstilling fra Formannskapet 18.04.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 51/24",
+  "rodt_fremmet_forslag": false
+}

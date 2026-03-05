@@ -1,0 +1,24 @@
+{
+  "tittel": "Stjørdal Eldreråd - årsmelding 2023",
+  "innstilling": "Årsmelding 2023 for Stjørdal Eldreråd tas til orientering.",
+  "vedtak": "Årsmelding 2023 for Stjørdal Eldreråd tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstilling: Årsmelding 2023 for Stjørdal Eldreråd tas til orientering.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 36/24",
+  "rodt_fremmet_forslag": false
+}

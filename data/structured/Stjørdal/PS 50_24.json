@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av møteprotokoll",
+  "innstilling": "Møteprotokoll godkjent.",
+  "vedtak": "Møteprotokoll godkjent.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om godkjenning av møteprotokoll",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 50/24",
+  "rodt_fremmet_forslag": false
+}

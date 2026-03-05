@@ -1,0 +1,24 @@
+{
+  "tittel": "Ung Arena Stjørdal - Rapport fra forprosjekt",
+  "innstilling": "Rapport fra forprosjekt til Ung Arena tas til orientering.",
+  "vedtak": "Rapport fra forprosjekt til Ung Arena tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling om rapport fra forprosjekt til Ung Arena",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 38/24",
+  "rodt_fremmet_forslag": false
+}

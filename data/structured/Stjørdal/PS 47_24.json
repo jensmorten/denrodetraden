@@ -1,0 +1,76 @@
+{
+  "tittel": "Svar på søknad om kommunalt tilskudd til oppføring av innendørs skytebane på Hegra - Skytterlagene Hegra, Floren og Stjørdal",
+  "innstilling": {
+    "1": "Hegra, Floren og Stjørdal skytterlag innvilges kommunalt tilskudd på kr. 5 000 000,- til bygging av ny innendørs skytehall på Hegra",
+    "2": "Beløpet finansieres gjennom kommunens disposisjonsfond"
+  },
+  "vedtak": {
+    "1": "Hegra, Floren og Stjørdal skytterlag innvilges kommunalt tilskudd på kr. 5 000 000,- til bygging av ny innendørs skytehall på Hegra",
+    "2": "Beløpet finansieres gjennom kommunens disposisjonsfond",
+    "3": "Skytterlagene tilbys festet tomt i 40 år satt til kr. 0,-. Det skal inngås avtale med skytterlagene om tilgang til bruk av lokalene, samt rammer for forvaltning av tomten slik at det ikke kan inngås heftelser eller transporteres uten samtykke fra tomteeier."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stian Flobergseter (Arbeiderpartiet)",
+      "tekst": "Skytterlagene tilbys festet tomt i 40 år satt til kr. 0,-."
+    },
+    {
+      "forslagsstiller": "Johan Aarbu (Fremskrittspartiet)",
+      "tekst": "Skytterlagene tilbys festet tomt i 40 år satt til kr. 0,-. Det skal inngås avtale med skytterlagene om tilgang til bruk av lokalene, samt rammer for forvaltning av tomten slik at det ikke kan inngås heftelser eller transporteres uten samtykke fra tomteeier."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over Stian Flobergseters (Ap) alternative forslag om å tilby skytterlagene festet tomt i 40 år satt til kr. 0,-.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 12
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "Imot forslaget",
+      "roedt_stoette": "For forslaget",
+      "roedt_paa_side": "taper"
+    },
+    {
+      "beskrivelse": "Avstemning over innstillingen fra formannskapet 14.03.2024 om kommunalt tilskudd på kr. 5 000 000,- til bygging av ny innendørs skytehall på Hegra og finansiering gjennom kommunens disposisjonsfond.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 33
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoette": "Imot forslaget",
+      "roedt_paa_side": "taper"
+    },
+    {
+      "beskrivelse": "Avstemning mellom innstillingens pkt. 3 om tomtevalg basert på 3 skisserte alternativer og Johan Aarbus (Frp) alternative forslag om festet tomt i 40 år satt til kr. 0,- med avtalevilkår.",
+      "alternativer": [
+        {
+          "navn": "Innstillingens pkt. 3",
+          "stemmer": 0
+        },
+        {
+          "navn": "Johan Aarbus alternative forslag",
+          "stemmer": 36
+        }
+      ],
+      "hvem_vant": "Johan Aarbus alternative forslag",
+      "roedt_stoette": "Johan Aarbus alternative forslag",
+      "roedt_paa_side": "vinner"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 47/24",
+  "rodt_fremmet_forslag": false
+}

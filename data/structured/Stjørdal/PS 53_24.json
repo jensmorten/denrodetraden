@@ -1,0 +1,24 @@
+{
+  "tittel": "Ikke iverksatte formannskapsvedtak og kommunestyrevedtak, statusrapport pr. 04.04.2024",
+  "innstilling": "Kommunestyret tar statusrapporten til orientering.",
+  "vedtak": "Kommunestyret tar statusrapporten til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstilling fra formannskapet 18.04.2024 om å ta statusrapporten til orientering.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 53/24",
+  "rodt_fremmet_forslag": false
+}

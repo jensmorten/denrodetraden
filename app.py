@@ -20,7 +20,7 @@ st.set_page_config(page_title="Den Røde Tråden", layout="wide")
 st.title("🔴 Den Røde Tråden")
 st.markdown("Dette er en app som hjelper Rødts kommunestyrerepresentater finne lignende saker i andre kommuner.")  
 st.markdown("Last opp enkelt sak eller sakliste og finn lignende saker i andre kommuner.")
-st.markdown("Appen søker i en database med saker som per idag inneholder behandlede saker fra 1. januar 2025 fram til februar 2026")
+st.markdown("Appen søker i en database med saker som per idag inneholder behandlede saker fra 1. januar 2025 fram til februar 2026 for kommunenen Levanger, Malvik, Melhus, Orkland, Ørland, Stjørdal, Trondheim og Verdal")
 
 # ============================================
 # INPUT
@@ -271,6 +271,6 @@ with st.expander("ℹ️ Hva er Den Røde tråden?"):
 
     kildekoden ligger fritt tilgjengelig på Github: https://github.com/jensmorten/denrodetraden
              
-    Appen er utvikla av Jens Morten Nilsen, Rødt Malvik. For å få passord for bruk, send mail til jens.morten.nilsen@gmail.com. Kommentarer og innspill er også svært velkomment. 
+    Appen er utvikla av Jens Morten Nilsen, Rødt Malvik. For å få passord for bruk, send mail til jens.morten.nilsen@gmail.com. Kommentarer og innspill er også svært velkomment.  
 
     """)

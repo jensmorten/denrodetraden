@@ -1,0 +1,33 @@
+{
+  "tittel": "Sluttbehandling av detaljreguleringsplan for Sætnan deponi, plan-ID 5011",
+  "innstilling": "Stjørdal kommune vedtar detaljreguleringsplan for Sætnan deponi, med plan-ID 5011, som vist på kart datert 16.02.2024, bestemmelser datert 16.02.2024 og beskrivelse datert 16.02.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "vedtak": "Stjørdal kommune vedtar detaljreguleringsplan for Sætnan deponi, med plan-ID 5011, som vist på kart datert 16.02.2024, bestemmelser datert 16.02.2024 og beskrivelse datert 16.02.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marit Vikan Sævareid (Rødt)",
+      "tekst": "PS 33/24 Sluttbehandling av detaljreguleringplan for Sætnan deponi utsettes i påventede av ny KPA. Dette for bedre å kunne sikre en helhetlig planlegging mht lokalisering av massedeponi i kommunen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstilling og alternativt forslag om utsettelse av sluttbehandling av detaljreguleringsplan for Sætnan deponi.",
+      "alternativer": [
+        {
+          "navn": "For forslag 1 (innstilling)",
+          "stemmer": 36
+        },
+        {
+          "navn": "For forslag 2 (alternativt forslag fra Rødt)",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For forslag 1 (innstilling)",
+      "roedt_stoette": "For forslag 2 (alternativt forslag fra Rødt)",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 33/24",
+  "rodt_fremmet_forslag": true
+}
