@@ -267,7 +267,7 @@ with st.expander("ℹ️ Hva er Den Røde tråden?"):
     st.write("""
     Den Røde Tråden er et analyseverktøy som bruker språkmodeller (LLM) og semantisk søk for å systematisere og sammenligne kommunestyresaker på tvers av kommuner.
 
-    Målet med appen er å gjøre det enklere å finne lignende saker behandlet i andre kommuner, se hvilke forslag som ble fremmet, analysere voteringer, identifisere når og hvordan Rødt har fremmet alternative forslag, lære av tidligere behandlinger
+    Målet med appen er å gjøre det enklere å finne lignende saker behandlet i andre kommuner, se hvilke forslag som ble fremmet, analysere voteringer, identifisere når og hvordan Rødt har fremmet alternative forslag og lære av tidligere behandlinger. Som med all generativ KI kan den gjøre feil og du må alltid sjekke svara før du bruker det. 
 
     kildekoden ligger fritt tilgjengelig på Github: https://github.com/jensmorten/denrodetraden
              
