@@ -262,3 +262,15 @@ if analyse_knapp:
                 )
 
             st.markdown(resultat)
+
+with st.expander("ℹ️ Hva er Den Røde tråden?"):
+    st.write("""
+    Den Røde Tråden er et analyseverktøy som bruker språkmodeller (LLM) og semantisk søk for å systematisere og sammenligne kommunestyresaker på tvers av kommuner.
+
+    Målet med appen er å gjøre det enklere å finne lignende saker behandlet i andre kommuner, se hvilke forslag som ble fremmet, analysere voteringer, identifisere når og hvordan Rødt har fremmet alternative forslag, lære av tidligere behandlinger
+
+    kildekoden ligger fritt tilgjengelig på <a href="https://github.com/jensmorten/denrodetraden">Github</a> 
+             
+    Appen er utvikla av Jens Morten Nilsen, Rødt Malvik. For å få passord for bruk, send mail til jens.morten.nilsen@gmail.com. Kommentarer og innspill er også svært velkomment. 
+
+    """)
