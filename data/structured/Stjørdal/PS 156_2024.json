@@ -1,0 +1,24 @@
+{
+  "tittel": "Økonomirapportering pr. oktober 2024",
+  "innstilling": "Kommunestyret tar vedlagte økonomirapport til orientering.",
+  "vedtak": "Kommunestyret tar vedlagte økonomirapport til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling fra formannskapet om å ta vedlagte økonomirapport til orientering",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "19.12.2024",
+  "saksnummer_ps": "PS 156/2024",
+  "rodt_fremmet_forslag": false
+}
