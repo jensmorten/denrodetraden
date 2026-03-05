@@ -1,0 +1,33 @@
+{
+  "tittel": "Åremål i Stjørdal kommune",
+  "innstilling": "Formannskapet 18.01.2024\n1. Åremålskontrakten evalueres og oppdateres med blant annet mulighet for flere kontraktsperioder, økt åremålstillegg og en retrettstilling som ikke er bundet til alder.\n2. Mal for medarbeidersamtaler og ledersamtaler evalueres og oppdateres, og samtalene skal gjennomføres slik at det ikke er grunnlag for tvil om fremtiden.\n3. Åremålsløsningen vurderes på ny når evaluering og oppdatering er gjennomført.",
+  "vedtak": "1. Åremålskontrakten evalueres og oppdateres med blant annet mulighet for flere kontraktsperioder, økt åremålstillegg og en retrettstilling som ikke er bundet til alder.\n2. Mal for medarbeidersamtaler og ledersamtaler evalueres og oppdateres, og samtalene skal gjennomføres slik at det ikke er grunnlag for tvil om fremtiden.\n3. Åremålsløsningen vurderes på ny når evaluering og oppdatering er gjennomført.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anne Karin Veisetaune (Arbeiderpartiet)",
+      "tekst": "1. Stjørdal kommune vedtar at åremål på enhetsledere i styringsnivå 4, herunder rektorstillinger avskaffes, og at det ved nyansettelser innføres faste ansettelser\n2. Stjørdal kommune vedtar at åremål på enhetsledere i styringsnivå 2, herunder kommunalsjefer avskaffes, og at det ved nyansettelser innføres faste ansettelser."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstilling og Anne Karin Veisetaunes alternative forslag (forslag 1 og 2).",
+      "alternativer": [
+        {
+          "navn": "Forslag 1 (avskaffe åremål på enhetsledere i styringsnivå 4, faste ansettelser ved nyansettelser)",
+          "stemmer": 21
+        },
+        {
+          "navn": "Forslag 2 (avskaffe åremål på enhetsledere i styringsnivå 2, faste ansettelser ved nyansettelser)",
+          "stemmer": 16
+        }
+      ],
+      "vinner": "Forslag 1 (avskaffe åremål på enhetsledere i styringsnivå 4, faste ansettelser ved nyansettelser)",
+      "roedt_stoette": "Forslag 2 (avskaffe åremål på enhetsledere i styringsnivå 2, faste ansettelser ved nyansettelser)",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "25.01.2024",
+  "saksnummer_ps": "PS 4/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,119 @@
+{
+  "tittel": "Anmodning om bosetting av flyktninger i 2024",
+  "innstilling": {
+    "1": "Basert på vedtatt budsjett 2024 og økonomiplan 2024-2027 stiller Stjørdal kommune seg positive til å bosette 100 nye flyktninger i 2024. Eventuelle enslige mindreårige med følgeperson inngår i kvoten.",
+    "2": "Dersom nasjonalt bosettingsbehov øker i løpet av året skal en eventuell økning for Stjørdal behandles som egen sak.",
+    "3": "Fra og med 2024 ønsker KD å legge statlige integreringstilskudd til velferdsområdet da inntektene skal være refusjon fra staten knyttet til økte kostnader og øking midlertidige årsverk knyttet til integreringen."
+  },
+  "vedtak": {
+    "1": "På bakgrunn av situasjonen med krigen i Ukraina stiller Stjørdal kommune seg positive til å bosette maksimalt 204 nye flyktninger i 2024 i tråd med Integrerings- og mangfoldsdirektoratets (IMDi) anmodning. Eventuelle enslige mindreårige med følgeperson inngår i kvoten.",
+    "2": "Dersom nasjonalt bosettingsbehov øker i løpet av året skal Stjørdal kommune ikke ta inn flere nye flyktninger i 2024.",
+    "3": "Fra og med 2024 vurderes det å legge deler av det statlige integreringstilskudd til velferdsområdet da inntektene skal være refusjon fra staten knyttet til økte kostnader og økning i midlertidige årsverk knyttet til integreringen.",
+    "4": "Kommunestyret ber om en evaluering av status i bosetting av flyktninger i forkant av strateginotat og saldering i 2024. Det må kartlegges om nyankomne i 2024 har alvorligere utfordringer enn tidligere ankomne, samt at det skal hentes inn erfaringer fra NAV.",
+    "5": "Det kan ikke påregnes at Stjørdal kommune kan ta imot like mange nye flyktninger i 2025."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Johan Aarbu (Fremskrittspartiet)",
+      "tekst": "På bakgrunn av situasjonen med krigen i Ukraina stiller Stjørdal kommune seg positive til å bosette maksimalt 204 nye flyktninger i 2024 i tråd med Integrerings- og mangfoldsdirektoratets (IMDi) anmodning. Eventuelle enslige mindreårige med følgeperson inngår i kvoten."
+    },
+    {
+      "forslagsstiller": "Johan Aarbu (Fremskrittspartiet)",
+      "tekst": "Dersom nasjonalt bosettingsbehov øker i løpet av året skal Stjørdal kommune ikke ta inn flere nye flyktninger i 2024."
+    },
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Dersom nasjonalt bosettingsbehov øker i løpet av året skal en eventuell økning for Stjørdal behandles som egen sak."
+    },
+    {
+      "forslagsstiller": "Johan Aarbu (Fremskrittspartiet)",
+      "tekst": "Fra og med 2024 vurderes det å legge deler av det statlige integreringstilskudd til velferdsområdet da inntektene skal være refusjon fra staten knyttet til økte kostnader og økning i midlertidige årsverk knyttet til integreringen. Kommunestyret ber om en evaluering av status i bosetting av flyktninger i forkant av strateginotat og saldering i 2024. Det må kartlegges om nyankomne i 2024 har alvorligere utfordringer enn tidligere ankomne, samt at det skal hentes inn erfaringer fra NAV."
+    },
+    {
+      "forslagsstiller": "Johan Aarbu (Fremskrittspartiet)",
+      "tekst": "Det kan ikke påregnes at Stjørdal kommune kan ta imot like mange nye flyktninger i 2025."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling fra formannskapet 18.01.2024 om bosetting av 100 nye flyktninger i 2024.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 1
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 36
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoette": "Imot",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Avstemning over Johan Aarbu (Frp) sitt alternative forslag om bosetting av maksimalt 204 nye flyktninger i 2024.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "A/B votering mellom Johan Aarbu (Frp) sitt forslag om at Stjørdal kommune ikke skal ta inn flere flyktninger ved økt nasjonalt behov, mot Jan Inge Kaspensen (Ap) sitt forslag om at økning skal behandles som egen sak.",
+      "alternativer": [
+        {
+          "navn": "Johan Aarbu (Frp) sitt forslag",
+          "stemmer": 24
+        },
+        {
+          "navn": "Jan Inge Kaspensen (Ap) sitt forslag",
+          "stemmer": 13
+        }
+      ],
+      "hvem_vant": "Johan Aarbu (Frp) sitt forslag",
+      "roedt_stoette": "Johan Aarbu (Frp) sitt forslag",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Avstemning over Johan Aarbu (Frp) sitt forslag om å legge deler av statlige integreringstilskudd til velferdsområdet og evaluering av bosetting i 2024.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Avstemning over Johan Aarbu (Frp) sitt forslag om at det ikke kan påregnes at Stjørdal kommune kan ta imot like mange nye flyktninger i 2025.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 25
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "25.01.2024",
+  "saksnummer_ps": "PS 14/2024",
+  "rodt_fremmet_forslag": false
+}

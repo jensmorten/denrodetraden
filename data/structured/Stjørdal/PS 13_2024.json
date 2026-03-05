@@ -1,0 +1,33 @@
+{
+  "tittel": "Valg av representant og vararepresentant til felles klagenemd for Innherred Renovasjon IKS",
+  "innstilling": "Som representant til klagenemda i Innherred Renovasjon IKS velges:……………………\nSom varamedlemmer velges:…………………………\nFormannskapet 18.01.2024\nValg utsettes til kommunestyret 25.01.2024",
+  "vedtak": "Som representant til klagenemda i Innherred Renovasjon IKS velges: Rolf Charles Berg (SP)\nSom varamedlem velges: Stian Flobergseter (AP)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tor Helge Forbord Slind (Senterpartiet)",
+      "tekst": "Som representant til klagenemda i Innherred Renovasjon IKS velges: Rolf Charles Berg (SP)\nSom varamedlem velges: Stian Flobergseter (AP)"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av representant og vararepresentant til felles klagenemd for Innherred Renovasjon IKS",
+      "alternativer": [
+        {
+          "navn": "Innstilling",
+          "stemmer": null
+        },
+        {
+          "navn": "Tor Helge Forbord Slind (Senterpartiet) forslag",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Tor Helge Forbord Slind (Senterpartiet) forslag",
+      "roedt_stoettet": "Tor Helge Forbord Slind (Senterpartiet) forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "25.01.2024",
+  "saksnummer_ps": "PS 13/2024",
+  "rodt_fremmet_forslag": false
+}
