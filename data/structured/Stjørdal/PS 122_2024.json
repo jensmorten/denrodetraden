@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av møteprotokoll",
+  "innstilling": "Møteprotokoll godkjent.",
+  "vedtak": "Møteprotokoll godkjent.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av møteprotokoll",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "03.10.2024",
+  "saksnummer_ps": "PS 122/2024",
+  "rodt_fremmet_forslag": false
+}

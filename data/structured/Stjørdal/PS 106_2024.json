@@ -1,0 +1,74 @@
+{
+  "tittel": "Sak 106/2024 - Kommunestyrets behandling",
+  "innstilling": "Saken tas til orientering.",
+  "vedtak": "Saken tas til orientering.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "Saken sendes tilbake til kommunedirektøren. Kommunestyret etterlyser en mer konkret redegjørelse for tiltak som svarer på de manglene forvaltningsrevisjonen «Riktig hjelp til riktig tid» identifiserte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstilling og Morten Harpers alternative forslag",
+      "alternativer": [
+        {
+          "navn": "Innstilling",
+          "stemmer": 24,
+          "representanter": [
+            "Siw Mæhre (Ap)",
+            "Arild Gressetvold (Frp)",
+            "Johan Aarbu (Frp)",
+            "Tor Anders Halle (Frp)",
+            "Berit Anette Elvertrø (H)",
+            "Geir Falck Anderssen (H)",
+            "Ole Hermod Sandvik (H)",
+            "Renate Trøan Bjørshol (H)",
+            "Rune Larsen (H)",
+            "Annette T. Jensen (KrF)",
+            "Anna Wesche Kvål (Sp)",
+            "Eli Arnstad (Sp)",
+            "Erik Bjørgum (Sp)",
+            "Henrik Josteinsson Myhr (Sp)",
+            "Knut Egil Kvarving (Sp)",
+            "Maria Kristoffersen (Sp)",
+            "Mona Raaen (Sp)",
+            "Otelie Almli (Sp)",
+            "Roar Brekken (Sp)",
+            "Rolf Charles Berg (Sp)",
+            "Sigurd Bakheim (Sp)",
+            "Tor Helge Forbord Slind (Sp)",
+            "Ann Elisabeth Monsen Èli (UA)",
+            "Hanne Sterten (V)"
+          ]
+        },
+        {
+          "navn": "Morten Harpers alternative forslag",
+          "stemmer": 13,
+          "representanter": [
+            "Anne Karin Veisetaune (Ap)",
+            "Frøydis Skjervold (Ap)",
+            "Idar Aspmodal (Ap)",
+            "Inger Johanne Overvik Uthus (Ap)",
+            "Jan Inge Kaspersen (Ap)",
+            "Kristin Almhjell Jenssen (Ap)",
+            "Per Erik Moen (Ap)",
+            "Veronika Stoum (Ap)",
+            "Gunnar Uglem (MDG)",
+            "Geirr Tjash Hagen (Pp)",
+            "Johannes Fagervold (R)",
+            "Gudrun Lidal (SV)",
+            "Morten Harper (SV)"
+          ]
+        }
+      ],
+      "hvem_vant": "Innstilling",
+      "roedt_stoettet": "Morten Harpers alternative forslag",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "05.09.2024",
+  "saksnummer_ps": "PS 106/2024",
+  "rodt_fremmet_forslag": false
+}

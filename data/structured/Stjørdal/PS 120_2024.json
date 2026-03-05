@@ -1,0 +1,46 @@
+{
+  "tittel": "Tertialrapport nr. 2 2024. Tekniske VVA investeringsprosjekter.",
+  "innstilling": [
+    "Kommunestyret tar statusrapporten for større tekniske VVA investeringsprosjekter for 2. tertial 2024 til orientering.",
+    "Skatval høydebasseng. Før endelig vedtak om beliggenhet og bestilling av utredning gjøres, må det forelegges en sak til politisk behandling - ref sak i kommunestyret i januar PS 15/24 reservevannforsyning - forslag til løsning."
+  ],
+  "vedtak": [
+    "Kommunestyret tar statusrapporten for større tekniske VVA investeringsprosjekter for 2. tertial 2024 til orientering.",
+    "Skatval høydebasseng. Før endelig vedtak om beliggenhet og bestilling av utredning gjøres, må det forelegges en sak til politisk behandling - ref sak i kommunestyret i januar PS 15/24 reservevannforsyning - forslag til løsning."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om å ta statusrapporten for større tekniske VVA investeringsprosjekter for 2. tertial 2024 til orientering.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning om Skatval høydebasseng - før endelig vedtak om beliggenhet og bestilling av utredning gjøres, må det forelegges en sak til politisk behandling.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "03.10.2024",
+  "saksnummer_ps": "PS 120/2024",
+  "rodt_fremmet_forslag": false
+}

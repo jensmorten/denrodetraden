@@ -1,0 +1,63 @@
+{
+  "tittel": "Kommunestyrets behandling av sak 111/2024 i møte den 05.09.2024",
+  "innstilling": "Møteprotokoll godkjent.",
+  "vedtak": "Møteprotokoll godkjent.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstilling: Møteprotokoll godkjent.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 37,
+          "representanter": [
+            "Anne Karin Veisetaune (Ap)",
+            "Frøydis Skjervold (Ap)",
+            "Idar Aspmodal (Ap)",
+            "Inger Johanne Overvik Uthus (Ap)",
+            "Jan Inge Kaspersen (Ap)",
+            "Kristin Almhjell Jenssen (Ap)",
+            "Per Erik Moen (Ap)",
+            "Siw Mæhre (Ap)",
+            "Veronika Stoum (Ap)",
+            "Arild Gressetvold (Frp)",
+            "Johan Aarbu (Frp)",
+            "Tor Anders Halle (Frp)",
+            "Berit Anette Elvertrø (H)",
+            "Geir Falck Anderssen (H)",
+            "Ole Hermod Sandvik (H)",
+            "Renate Trøan Bjørshol (H)",
+            "Rune Larsen (H)",
+            "Annette T. Jensen (KrF)",
+            "Gunnar Uglem (MDG)",
+            "Geirr Tjash Hagen (Pp)",
+            "Johannes Fagervold (R)",
+            "Anna Wesche Kvål (Sp)",
+            "Eli Arnstad (Sp)",
+            "Erik Bjørgum (Sp)",
+            "Henrik Josteinsson Myhr (Sp)",
+            "Knut Egil Kvarving (Sp)",
+            "Maria Kristoffersen (Sp)",
+            "Mona Raaen (Sp)",
+            "Otelie Almli (Sp)",
+            "Roar Brekken (Sp)",
+            "Rolf Charles Berg (Sp)",
+            "Sigurd Bakheim (Sp)",
+            "Tor Helge Forbord Slind (Sp)",
+            "Gudrun Lidal (SV)",
+            "Morten Harper (SV)",
+            "Ann Elisabeth Monsen Èli (UA)",
+            "Hanne Sterten (V)"
+          ]
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "05.09.2024",
+  "saksnummer_ps": "PS 111/2024",
+  "rodt_fremmet_forslag": false
+}

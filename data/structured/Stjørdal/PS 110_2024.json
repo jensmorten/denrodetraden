@@ -1,0 +1,45 @@
+{
+  "tittel": "Fritak av Anne Karin Veisetaune fra verv som folkevalgt",
+  "innstilling": "Kommunedirektøren viser til lovens bestemmelser og vurderer at vilkårene er til stede for å frita Anne Karin Veisetaune fra sitt verv som folkevalgt.",
+  "vedtak": "Kommunedirektøren viser til lovens bestemmelser og vurderer at vilkårene er til stede for å frita Anne Karin Veisetaune fra sitt verv som folkevalgt.\nDet må gjennomføres nyvalg på følgende verv jfr. Kommuneloven § 7-10, 3 ledd:\n• Til supplering av varaliste til Formannskapet velges Siw Mæhre (AP)\n• Som medlem i Utvalg Kultur og Levekår velges Anne Margrethe Bang-Larsen (AP)\n• Som vara i Klagenemda velges Siw Mæhre (AP)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Det må gjennomføres nyvalg på følgende verv jfr. Kommuneloven § 7-10, 3 ledd:\n• Til supplering av varaliste til Formannskapet velges Siw Mæhre (AP)\n• Som medlem i Utvalg Kultur og Levekår velges Anne Margrethe Bang-Larsen (AP)\n• Som vara i Klagenemda velges Siw Mæhre (AP)"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstilling om fritak av Anne Karin Veisetaune fra verv som folkevalgt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "A/B votering mellom formannskapets innstilling og Jan Inge Kaspersens endringsforslag",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 0
+        },
+        {
+          "navn": "Jan Inge Kaspersens endringsforslag",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Jan Inge Kaspersens endringsforslag",
+      "roedt_stoettet": "Jan Inge Kaspersens endringsforslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "05.09.2024",
+  "saksnummer_ps": "PS 110/2024",
+  "rodt_fremmet_forslag": false
+}

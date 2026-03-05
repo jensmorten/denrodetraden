@@ -1,0 +1,52 @@
+{
+  "tittel": "Intern forvaltningsrevisjon - Enhet kompetanse og koordinering \"Forvaltningskontoret\"",
+  "innstilling": [
+    "Kommunedirektøren bes om å følge opp de forbedringspunkter rapporten beskriver.",
+    "Rapporten tas for øvrig til orientering"
+  ],
+  "vedtak": [
+    "Kommunedirektøren bes om å følge opp de forbedringspunkter rapporten beskriver.",
+    "Det bes spesielt om at den juridiske kompetansen ved Forvaltningskontoret vurderes styrket, men dog innenfor vedtatte budsjettrammer.",
+    "Rapporten tas for øvrig til orientering"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": null,
+      "tekst": "Det bes spesielt om at den juridiske kompetansen ved Forvaltningskontoret vurderes styrket, men dog innenfor vedtatte budsjettrammer."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling: Kommunedirektøren bes om å følge opp de forbedringspunkter rapporten beskriver. Rapporten tas for øvrig til orientering.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over forslag: Det bes spesielt om at den juridiske kompetansen ved Forvaltningskontoret vurderes styrket, men dog innenfor vedtatte budsjettrammer.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 26
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Imot",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "03.10.2024",
+  "saksnummer_ps": "PS 115/2024",
+  "rodt_fremmet_forslag": false
+}

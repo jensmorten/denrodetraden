@@ -1,0 +1,73 @@
+{
+  "tittel": "Sak 108/2024 - Salg av aksjer i TrønderEnergi Vekst Holding AS",
+  "innstilling": "Stjørdal kommune selger aksjene i TrønderEnergi Vekst Holding AS.",
+  "vedtak": "Stjørdal kommune selger ikke aksjene i TrønderEnergi Vekst Holding AS.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Johan Aarbu (Fremskrittspartiet)",
+      "tekst": "Stjørdal kommune selger ikke aksjene i TrønderEnergi Vekst Holding AS."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming mellom formannskapets innstilling om salg av aksjer og Fremskrittspartiets alternative forslag om å ikke selge aksjene.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling: Selge aksjene",
+          "stemmer": 4,
+          "stemmegivere": [
+            "Gunnar Uglem (MDG)",
+            "Johannes Fagervold (R)",
+            "Morten Harper (SV)",
+            "Ann Elisabeth Monsen Èli (UA)"
+          ]
+        },
+        {
+          "navn": "Johan Aarbu (Frp): Ikke selge aksjene",
+          "stemmer": 32,
+          "stemmegivere": [
+            "Anne Karin Veisetaune (Ap)",
+            "Frøydis Skjervold (Ap)",
+            "Idar Aspmodal (Ap)",
+            "Inger Johanne Overvik Uthus (Ap)",
+            "Jan Inge Kaspersen (Ap)",
+            "Kristin Almhjell Jenssen (Ap)",
+            "Per Erik Moen (Ap)",
+            "Siw Mæhre (Ap)",
+            "Veronika Stoum (Ap)",
+            "Arild Gressetvold (Frp)",
+            "Johan Aarbu (Frp)",
+            "Tor Anders Halle (Frp)",
+            "Berit Anette Elvertrø (H)",
+            "Geir Falck Anderssen (H)",
+            "Ole Hermod Sandvik (H)",
+            "Renate Trøan Bjørshol (H)",
+            "Rune Larsen (H)",
+            "Annette T. Jensen (KrF)",
+            "Geirr Tjash Hagen (Pp)",
+            "Anna Wesche Kvål (Sp)",
+            "Erik Bjørgum (Sp)",
+            "Henrik Josteinsson Myhr (Sp)",
+            "Knut Egil Kvarving (Sp)",
+            "Maria Kristoffersen (Sp)",
+            "Mona Raaen (Sp)",
+            "Otelie Almli (Sp)",
+            "Roar Brekken (Sp)",
+            "Rolf Charles Berg (Sp)",
+            "Sigurd Bakheim (Sp)",
+            "Tor Helge Forbord Slind (Sp)",
+            "Gudrun Lidal (SV)",
+            "Hanne Sterten (V)"
+          ]
+        }
+      ],
+      "hvem_vant": "Johan Aarbu (Frp): Ikke selge aksjene",
+      "roedt_stoettet": "Formannskapets innstilling: Selge aksjene",
+      "roedt_paa_side": "taper"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "05.09.2024",
+  "saksnummer_ps": "PS 108/2024",
+  "rodt_fremmet_forslag": false
+}

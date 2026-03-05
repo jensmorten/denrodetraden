@@ -1,0 +1,81 @@
+{
+  "tittel": "Samferdselspolitiske prioriteringer for Stjørdal",
+  "innstilling": "Kommunestyret slutter seg til det Samferdselspolitiske fundamentet hvor dets prioriteringer skal gi en bærekraftig og effektiv utvikling av bo- og arbeidsmarkedsregionen. For Stjørdal er det viktig at spesielt følgende prioriteringer er ivaretatt:\n• to tog i timen Melhus-Steinkjer\n• dobbeltspor Trondheim-Stjørdal\n• sikre utbygging av gang- og sykkelveger gjennom byvekstavtalen\n• opprustning Meråkerbanen for sivil godstransport og militært materiell\n• oppgradere E14\n• styrke finansiering av vedlikehold av fylkesveier.",
+  "vedtak": "Kommunestyret slutter seg til det Samferdselspolitiske fundamentet hvor dets prioriteringer skal gi en bærekraftig og effektiv utvikling av bo- og arbeidsmarkedsregionen.\nFor Stjørdal er det viktig at spesielt følgende prioriteringer er ivaretatt:\n• to tog i timen Melhus-Steinkjer\n• dobbeltspor Trondheim-Stjørdal\n• sikre utbygging av gang- og sykkelveger gjennom byvekstavtalen\n• opprustning Meråkerbanen for sivil godstransport og militært materiell\n• oppgradere E14\nStyrke finansiering av vedlikehold av fylkesveier.\nSikre finansiering av E6-utbygging for å sikre planlagt fremdrift\nSom punkt i listen over prioriteringer tilføyes:\n• Opprettholde Hell stasjon som stoppested på Trønderbanen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "Som punkt i listen over prioriteringer tilføyes:\n• Opprettholde Hell stasjon som stoppested på Trønderbanen."
+    },
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Nytt kulepunkt:\nJobbe for 4 tog i timen mellom Trondheim - Stjørdal"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstilling fra formannskapet 29.08.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning om sikre finansiering av E6-utbygging for å sikre planlagt fremdrift",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning om Morten Harpers (SV) tilleggsforslag om å opprettholde Hell stasjon som stoppested på Trønderbanen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 19
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 18
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning om Jan Inge Kaspersens (Ap) tilleggsforslag om å jobbe for 4 tog i timen mellom Trondheim - Stjørdal",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 16
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "For",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "05.09.2024",
+  "saksnummer_ps": "PS 100/2024",
+  "rodt_fremmet_forslag": false
+}

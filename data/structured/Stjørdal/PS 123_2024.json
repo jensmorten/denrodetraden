@@ -1,0 +1,48 @@
+{
+  "tittel": "Politisk møteplan 2025",
+  "innstilling": [
+    "Politisk møteplan for 2025 vedtas som framlagt",
+    "Ledere av politiske utvalg gis fullmakt til å avlyse og kalle inn til ekstra møter. Varsling av endringene skal skje etter vanlige rutiner."
+  ],
+  "vedtak": [
+    "Politisk møteplan for 2025 vedtas som framlagt",
+    "Ledere av politiske utvalg gis fullmakt til å avlyse og kalle inn til ekstra møter. Varsling av endringene skal skje etter vanlige rutiner.",
+    "Tidspunkt for møter i Eldrerådet og Rådet for mennesker med nedsatt funksjonsevne settes til kl. 12."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Renate Trøan Bjørshol (Høyre)",
+      "tekst": "Tidspunkt for møter i Eldrerådet og Rådet for mennesker med nedsatt funksjonsevne settes til kl. 12."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling fra formannskapet 24.10.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over tilleggsforslag fra Renate Trøan Bjørshol (Høyre)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 123/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,53 @@
+{
+  "tittel": "Intern forvaltningsrevisjon - VR NAV \"NAV sosial\"",
+  "innstilling": "1. Kommunestyret stadfester at det er Trondheim sine satser som skal brukes på utbetaling av sosialstønad",
+  "vedtak": "1. Kommunestyret tar til etterretning sosialhjelpssatser for Stjørdal 2024 og ber kommunedirektøren innarbeide satser for 2025 i budsjettdokumentet som legges fram for kommunestyret til behandling. Kommunestyret ber videre om at fremtidige justeringer innarbeides i årlige budsjettdokumenter.\n2. Det innføres et tak på økonomisk støtte på husleie\n3. Det bes om at det innføres rutiner som sikrer dokumentasjon med kvittering på at økonomisk støtte til husleie blir brukt til dette formålet.\nFor øvrig tas rapporten til orientering",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eli Arnstad (Senterpartiet)",
+      "tekst": "1. Kommunestyret tar til etterretning sosialhjelpssatser for Stjørdal 2024 og ber kommunedirektøren innarbeide satser for 2025 i budsjettdokumentet som legges fram for kommunestyret til behandling. Kommunestyret ber videre om at fremtidige justeringer innarbeides i årlige budsjettdokumenter."
+    },
+    {
+      "forslagsstiller": "Gudrun Lidal (Sosialistisk venstreparti)",
+      "tekst": "1. Kommunestyret tar rapporten til orientering.\n2. Kommunestyret ber kommunedirektøren komme tilbake med en egen og gjennomarbeidet sak angående gjeldende og foreslåtte sosialhjelpssatser for Stjørdal kommune slik at disse kan vedtas."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Foreløpig votering av Formannskapets innstilling punkt 1 og Eli Arnstads (SP) alternative forslag til punkt 1",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 1
+        },
+        {
+          "navn": "Eli Arnstads alternative forslag",
+          "stemmer": 36
+        }
+      ],
+      "hvem_vant": "Eli Arnstads alternative forslag",
+      "roedt_stoette": "Eli Arnstads alternative forslag",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Endelig votering over det foreløpige vedtatte punkt 1 og Formannskapets innstilling punkt 2 og 3 mot Gudrun Lidals (SV) alternative forslag",
+      "alternativer": [
+        {
+          "navn": "Foreløpig vedtatte punkt 1 + Formannskapets innstilling punkt 2 og 3",
+          "stemmer": 23
+        },
+        {
+          "navn": "Gudrun Lidals alternative forslag",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Foreløpig vedtatte punkt 1 + Formannskapets innstilling punkt 2 og 3",
+      "roedt_stoette": "Gudrun Lidals alternative forslag",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "03.10.2024",
+  "saksnummer_ps": "PS 116/2024",
+  "rodt_fremmet_forslag": false
+}

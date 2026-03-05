@@ -1,0 +1,24 @@
+{
+  "tittel": "Sak 105/2024",
+  "innstilling": "Saken tas til orientering.",
+  "vedtak": "Saken tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling fra Utvalg Kultur og Levekår 27.08.2024",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stottet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "05.09.2024",
+  "saksnummer_ps": "PS 105/2024",
+  "rodt_fremmet_forslag": false
+}
