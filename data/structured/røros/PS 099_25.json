@@ -1,0 +1,33 @@
+{
+  "tittel": "Klage på vedtatt reguleringsplan for Rødbekkegga masseuttak, PlanID 20200003",
+  "innstilling": "Kommunestyret opprettholder kommunens vedtak i sak Detaljregulering av Rødbekkegga masseuttak fra den 18.09.25. Det foreligger ikke momenter i saken som tilsier en endring av vedtaket. Saken oversendes Statsforvalteren for endelig avgjørelse.",
+  "vedtak": "1. Kommunestyret opphever tidligere vedtak om reguleringsplan for Rødbekkegga masseuttak, jf. plan- og bygningsloven § 12-12, jf. § 1-9 og forvaltningsloven § 33.\n2. Saken sendes tilbake til kommunedirektøren for videre bearbeiding.\n3. Administrasjonen bes om å innlede ny dialog med forslagstiller, med sikte på å avklare og eventuelt justere planforslaget, slik at klagepunkter og innspill fra berørte parter blir tilstrekkelig vurdert og dokumentert.\n4. Det skal legges særlig vekt på å sikre at planprosessen oppfyller kravene til medvirkning, forsvarlig saksbehandling og kontradiksjon, jf. plan- og bygningsloven § 5-1 og forvaltningsloven § 17.\n5. Revidert planforslag legges frem for ny politisk behandling når dialogen og nødvendige utredninger er gjennomført.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kristoffer Tamnes (Sp)",
+      "tekst": "1. Kommunestyret opphever tidligere vedtak om reguleringsplan for Rødbekkegga masseuttak, jf. plan- og bygningsloven § 12-12, jf. § 1-9 og forvaltningsloven § 33.\n2. Saken sendes tilbake til kommunedirektøren for videre bearbeiding.\n3. Administrasjonen bes om å innlede ny dialog med forslagstiller, med sikte på å avklare og eventuelt justere planforslaget, slik at klagepunkter og innspill fra berørte parter blir tilstrekkelig vurdert og dokumentert.\n4. Det skal legges særlig vekt på å sikre at planprosessen oppfyller kravene til medvirkning, forsvarlig saksbehandling og kontradiksjon, jf. plan- og bygningsloven § 5-1 og forvaltningsloven § 17.\n5. Revidert planforslag legges frem for ny politisk behandling når dialogen og nødvendige utredninger er gjennomført."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom kommunedirektørens innstilling og endringsforslaget fremmet av Kristoffer Tamnes (Sp).",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 8
+        },
+        {
+          "navn": "Endringsforslaget",
+          "stemmer": 19
+        }
+      ],
+      "hvem_vant": "Endringsforslaget",
+      "roedt_stoette": "Endringsforslaget",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.11.2025",
+  "saksnummer_ps": "PS 099/25",
+  "rodt_fremmet_forslag": false
+}

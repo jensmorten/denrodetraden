@@ -1,0 +1,36 @@
+{
+  "tittel": "Søknad om fritak fra verv - Isak Veierud Busch",
+  "innstilling": "Isak Veierud Busch innvilges fritak fra sine verv som ordfører og formannskapsmedlem i Røros kommune for resten av valgperioden.",
+  "vedtak": "Isak Veierud Busch innvilges fritak fra sine verv som ordfører og formannskapsmedlem i Røros kommune for resten av valgperioden.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for representant E.S. Busch",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om fritak for Isak Veierud Busch fra verv som ordfører og formannskapsmedlem",
+      "alternativer": [
+        {
+          "navn": "Innvilge fritak",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "Innvilge fritak",
+      "roedt_stoettet": "Innvilge fritak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 088/25",
+  "rodt_fremmet_forslag": false
+}

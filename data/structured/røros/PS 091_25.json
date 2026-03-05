@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og sakliste godkjennes.",
+  "vedtak": "Innkalling og sakliste godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordfører sitt forslag til vedtak om godkjenning av innkalling og saksliste",
+      "alternativer": [
+        {
+          "navn": "Ordførers forslag",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "Ordførers forslag",
+      "roedt_stoettet": "Ordførers forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.11.2025",
+  "saksnummer_ps": "PS 091/25",
+  "rodt_fremmet_forslag": false
+}

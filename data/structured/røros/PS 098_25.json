@@ -1,0 +1,24 @@
+{
+  "tittel": "Klage på områdeplan for Røros sentrum",
+  "innstilling": "Røros kommune gir ikke medhold i klage på kommunestyrets vedtak av områdeplan for Røros sentrum den 20.6.2024. Røros kommune kan ikke se at det har kommet fram nye momenter som skulle tilsi at vedtaket bør omgjøres. Klagen sendes Statsforvalteren i Trøndelag for klagebehandling.",
+  "vedtak": "Røros kommune gir ikke medhold i klage på kommunestyrets vedtak av områdeplan for Røros sentrum den 20.6.2024. Røros kommune kan ikke se at det har kommet fram nye momenter som skulle tilsi at vedtaket bør omgjøres. Klagen sendes Statsforvalteren i Trøndelag for klagebehandling.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Utvalg for plansaker sin innstilling ble enstemmig vedtatt.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.11.2025",
+  "saksnummer_ps": "PS 098/25",
+  "rodt_fremmet_forslag": false
+}

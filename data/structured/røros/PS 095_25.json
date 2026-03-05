@@ -1,0 +1,24 @@
+{
+  "tittel": "095/25 Referatsaker",
+  "innstilling": "Referatsak tas til orientering",
+  "vedtak": "Referatsak tas til orientering",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens forslag",
+      "roedt_stoettet": "Kommunedirektørens forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.11.2025",
+  "saksnummer_ps": "PS 095/25",
+  "rodt_fremmet_forslag": false
+}

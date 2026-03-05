@@ -1,0 +1,29 @@
+{
+  "tittel": "Valg av nytt medlem til formannskapet",
+  "innstilling": "For resten av perioden velges Henrik Grønn som nytt formannskapsmedlem. Som ny siste varamedlem velges Ingvild Feragen Sæther",
+  "vedtak": "For resten av perioden velges Henrik Grønn som nytt formannskapsmedlem. Som ny siste varamedlem velges Ingvild Feragen Sæther",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Louise Silderen Tamnes (Ap)",
+      "tekst": "For resten av perioden velges Henrik Grønn som nytt formannskapsmedlem. Som ny siste varamedlem velges Ingvild Feragen Sæther"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslaget fra Røros Arbeiderparti",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget fra Røros Arbeiderparti",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 089/25",
+  "rodt_fremmet_forslag": false
+}

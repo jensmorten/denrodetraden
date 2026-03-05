@@ -1,0 +1,29 @@
+{
+  "tittel": "Valg av ordfører for resten av valgperioden",
+  "innstilling": "Som ordfører for resten av perioden velges Sadmira Buljubasic",
+  "vedtak": "Som ordfører for resten av perioden velges Sadmira Buljubasic",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Louise Silderen Tamnes (Ap)",
+      "tekst": "Som ordfører for resten av perioden velges Sadmira Buljubasic"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslaget fra Røros Arbeiderparti om valg av ordfører",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Røros Arbeiderparti",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget fra Røros Arbeiderparti",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 090/25",
+  "rodt_fremmet_forslag": false
+}

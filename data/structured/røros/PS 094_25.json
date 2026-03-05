@@ -1,0 +1,37 @@
+{
+  "tittel": "Interpellasjon til kommunestyret 27.11.2025 - Håndhevelse av boplikt",
+  "innstilling": null,
+  "vedtak": "Kommunedirektøren bes legge fram en sak om oppfølging av boplikt i løpet av første halvår 2026, samt holde orientering i kommunestyret i forkant.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Christian Elgaaen (SV)",
+      "tekst": "Kommunedirektøren bes legge fram en sak om oppfølging av boplikt i løpet av første halvår 2026, samt holde orientering i kommunestyret i forkant."
+    },
+    {
+      "forslagsstiller": "Leinum",
+      "tekst": "Interpellant Leinum fremmet et forslag som ble trukket før votering."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslaget fra repr. Elgaaen (SV)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 16
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.11.2025",
+  "saksnummer_ps": "PS 094/25",
+  "rodt_fremmet_forslag": false
+}
