@@ -1,0 +1,32 @@
+{
+  "tittel": "Godkjenning av helhetlig risiko- og sårbarhetsanalyse",
+  "innstilling": [
+    "Kommunestyret vedtar revidering av helhetlig ROS-analyse for Frøya kommune som fremlagt.",
+    "Kommunestyret gir kommunedirektøren myndighet til å foreta mindre endringer/justeringer/rettinger, etter innkomne høringsinnspill, etter at analysen er vedtatt i kommunestyret.",
+    "Kommunedirektøren skal starte opp arbeidet med å iverksette nye tiltak, samt utarbeide en plan for oppfølging, etter kommunestyrets behandling."
+  ],
+  "vedtak": [
+    "Kommunestyret vedtar revidering av helhetlig ROS-analyse for Frøya kommune som fremlagt.",
+    "Kommunestyret gir kommunedirektøren myndighet til å foreta mindre endringer/justeringer/rettinger, etter innkomne høringsinnspill, etter at analysen er vedtatt i kommunestyret.",
+    "Kommunedirektøren skal starte opp arbeidet med å iverksette nye tiltak, samt utarbeide en plan for oppfølging, etter kommunestyrets behandling."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av revidering av helhetlig ROS-analyse for Frøya kommune",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig",
+      "roedt_stoettet": "Enstemmig",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 8/2025",
+  "rodt_fremmet_forslag": false
+}

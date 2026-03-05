@@ -1,0 +1,53 @@
+{
+  "tittel": "Søknad om tilvirknings- og salgsbevilling - Rødhammer stasjon Stene",
+  "innstilling": {
+    "tekst": "Formannskapets forslag til vedtak:\n1. Saken sendes til kommunestyret hvor Alkoholpolitiske plan 2025-2028 justeres med et tillegg som åpner for tilvirkning og salg av alkoholdig drikk i gruppe 2 i tråd med regelverket.\n2. Søknaden fra Rødhammer stasjon Stene, org.nr. 933 563 804, om tilvirknings- og salgsbevilling for alkoholholdig drikk gruppe 2, innvilges."
+  },
+  "vedtak": {
+    "tekst": "Namsos kommune starter en prosess for å justere Alkoholpolitisk plan 2025–2028, inkludert lokal forskrift, slik at den åpner for tilvirkning og salg av alkoholholdig drikk i gruppe 2, i tråd med gjeldende regelverk.\nSøknaden fra Rødhammer stasjon Stene (org.nr. 933 563 804) om tilvirknings- og salgsbevilling for alkoholholdig drikk i gruppe 2 utsettes.\nSøknaden fremlegges til ny behandling når den reviderte Alkoholpolitiske planen, inkludert lokal forskrift, er politisk behandlet og vedtatt."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hege Bjørgum Skillingstad (Høyre)",
+      "tekst": "1. Namsos kommune starter en prosess for å justere Alkoholpolitisk plan 2025–2028, inkludert lokal forskrift, slik at den åpner for tilvirkning og salg av alkoholholdig drikk i gruppe 2, i tråd med gjeldende regelverk.\n2. Søknaden fra Rødhammer stasjon Stene (org.nr. 933 563 804) om tilvirknings- og salgsbevilling for alkoholholdig drikk i gruppe 2 utsettes.\n3. Søknaden fremlegges til ny behandling når den reviderte Alkoholpolitiske planen, inkludert lokal forskrift, er politisk behandlet og vedtatt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming mellom formannskapets forslag om innvilgelse og Hege Bjørgum Skillingstads forslag om utsettelse.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets forslag",
+          "stemmer": 0
+        },
+        {
+          "navn": "Hege Bjørgum Skillingstads forslag",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "Hege Bjørgum Skillingstads forslag",
+      "roedt_stoettet": "Hege Bjørgum Skillingstads forslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemming over alternativt forslag fra Hege Bjørgum Skillingstad med 3 punkter (nummerert 6-8 i teksten).",
+      "alternativer": [
+        {
+          "navn": "Hege Bjørgum Skillingstads alternative forslag",
+          "stemmer": 30
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Hege Bjørgum Skillingstads alternative forslag",
+      "roedt_stoettet": "Hege Bjørgum Skillingstads alternative forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 8/2026",
+  "rodt_fremmet_forslag": false
+}

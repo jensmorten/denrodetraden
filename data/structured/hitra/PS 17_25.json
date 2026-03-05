@@ -1,0 +1,36 @@
+{
+  "tittel": "Ny selskapsavtale for ReMidt IKS",
+  "innstilling": "Hitra kommunestyre vedtar reviderte selskapsavtale for ReMidt IKS, datert 18.11.24.",
+  "vedtak": "Hitra kommunestyre vedtar revidert selskapsavtale for ReMidt IKS, datert 18.11.24.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling i Hitra kommunestyre av sak 17/2025",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling i Hitra formannskap av sak 14/2025",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 17/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,44 @@
+{
+  "tittel": "Bosetting av flyktninger i Hitra kommune 2025",
+  "innstilling": "Hitra kommune vedtar å bosette 35 flyktninger i 2025.",
+  "vedtak": [
+    "Hitra kommune vedtar å bosette 35 flyktninger i 2025.",
+    "Bosetting av flyktninger berører alle deler av kommunenes virksomhet, og bør forankres bredt. Behandling av bosetting av flyktninger i Hitra kommune skal også behandles i utvalg oppvekst, og utvalg for helse og omsorg, før det kommer til formannskap, og kommunestyre."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marcus Helsesson Svenning (SV)",
+      "tekst": "Bosetting av flyktninger berører alle deler av kommunenes virksomhet, og bør forankres bredt. Behandling av bosetting av flyktninger i Hitra kommune skal også behandles i utvalg oppvekst, og utvalg for helse og omsorg, før det kommer til formannskap, og kommunestyre."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen fra formannskapet",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fremmet av Marcus Helsesson Svenning (SV)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget fra Marcus Helsesson Svenning (SV)",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 6/25",
+  "rodt_fremmet_forslag": false
+}

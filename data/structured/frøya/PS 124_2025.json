@@ -1,0 +1,27 @@
+{
+  "tittel": "Fastsetting av planprogram for kommuneplanens samfunns- og arealdel",
+  "innstilling": null,
+  "vedtak": [
+    "Kommunestyret fastsetter planprogram for kommuneplanens samfunns- og arealdel 2025-2040 med de justeringene som fremgår i saksframlegget.",
+    "Planprogrammet vedtas med følgende endringer: Formannskapet fungerer som prosjektgruppe i arbeidet og holdes jevnlig informert og involvert i arbeidet."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av planprogram for kommuneplanens samfunns- og arealdel 2025-2040",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "02.10.2025",
+  "saksnummer_ps": "PS 124/2025",
+  "rodt_fremmet_forslag": false
+}

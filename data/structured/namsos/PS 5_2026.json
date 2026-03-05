@@ -1,0 +1,53 @@
+{
+  "tittel": "253/7 - Søknad om omdisponering av innmarksbeite til etablering av nytt tun og søknad om fradeling av eksisterende tun",
+  "innstilling": "Namsos kommune imøtekommer klager og tar klagene til følge, med begrunnelse økt bolyst og en vurdering av verdien av oppføring av bygg på gammelt tun anses som vesentlig større enn verdien og avkastningen på dagens innmarksbeite på 1,7 daa.",
+  "vedtak": "Namsos kommune imøtekommer klager og tar klagene til følge, med begrunnelse økt bolyst og en vurdering av verdien av oppføring av bygg på gammelt tun anses som vesentlig større enn verdien og avkastningen på dagens innmarksbeite på 1,7 daa. Før tillatelse til igangsettelse gis, skal det være utarbeidete matjordplan, som ivaretar flytting av innmarksjorda til egnet mottaksareal.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marit Haukø (Arbeiderpartiet)",
+      "tekst": "Kommunestyret vedtar at det administrative vedtaket av 21.11.2025 opprettholdes. Søknaden avslås. Kommunestyret kan ikke se at det i klagen er framkommet nye opplysninger som tilsier at det opprinnelige avslaget skal endres."
+    },
+    {
+      "forslagsstiller": "Nils Sigurd Klykken (Høyre)",
+      "tekst": "Før tillatelse til igangsettelse gis, skal det være utarbeidete matjordplan, som ivaretar flytting av innmarksjorda til egnet mottaksareal."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming mellom utvalg for plan sitt forslag til vedtak (forslag 1) og Marit Haukøs forslag (forslag 2) om å opprettholde administrativt vedtak og avslå søknaden.",
+      "alternativer": [
+        {
+          "navn": "Forslag 1 - Imøtekomme klager",
+          "stemmer": 23
+        },
+        {
+          "navn": "Forslag 2 - Opprettholde administrativt vedtak, avslå søknad",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "Forslag 1 - Imøtekomme klager",
+      "roedt_stoettet": "Forslag 1 - Imøtekomme klager",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Avstemming om tilleggsforslag fra Nils Sigurd Klykken (Høyre) om krav om matjordplan før igangsettelse.",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslag",
+          "stemmer": 30
+        },
+        {
+          "navn": "Imot tilleggsforslag",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For tilleggsforslag",
+      "roedt_stoettet": "Imot tilleggsforslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 5/2026",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,33 @@
+{
+  "tittel": "Montering av et kors på Korsholmen – gnr 64 bnr 1, Sula",
+  "innstilling": "Kommunestyret godkjenner søknad fra organisasjonen Sulværingen om å sette opp et kors på Korsholm, gnr 64 bnr 1 Sula.",
+  "vedtak": "Kommunestyret godkjenner søknad fra organisasjonen Sulværingen om å sette opp et kors på Korsholm, gnr 64 bnr 1 Sula. Vedtatt med 13 mot 9 stemmer avgitt av AP, SP, Sv, Rødt og PP.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Borgerlig gruppe",
+      "tekst": "Kommunestyret godkjenner søknad fra organisasjonen Sulværingen om å sette opp et kors på Korsholm, gnr 64 bnr 1 Sula."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over godkjenning av søknad fra Sulværingen om oppsett av kors på Korsholmen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "13.11.2025",
+  "saksnummer_ps": "PS 145/2025",
+  "rodt_fremmet_forslag": false
+}

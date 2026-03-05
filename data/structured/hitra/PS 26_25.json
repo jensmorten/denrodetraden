@@ -1,0 +1,81 @@
+{
+  "tittel": "PS 26/25 Anmodning om tilleggsfinansiering investeringer kirkebygg",
+  "innstilling": {
+    "1": "Hitra kommunestyre innvilger søknad fra Hitra kirkelige fellesråd om en tilleggsfinansiering på kr 3.132.023 til prosjekt 6574 Oppgradering og rehabilitering av kirkebygg. Tiltaket finansieres ved økt låneopptak.",
+    "2": "Som i innstillingen.",
+    "3": "Som i innstillingen."
+  },
+  "vedtak": {
+    "1": "Hitra kommunestyre innvilger ikke søknad fra Hitra Kirkelige Fellesråd om tilleggsfinansiering på kr. 3.132.023 til prosjekt 6574 Oppgradering og rehabilitering av kirkebygg.",
+    "2": "Dersom Hitra Kirkelige Fellesråd vurderer at det fortsatt foreligger behov for finansiering av uforutsette og nødvendige vedlikeholdstiltak, eller for tiltak som er igangsatt, men ennå ikke ferdigstilt, skal det fremmes en særskilt søknad til Hitra kommunestyre. Søknaden må baseres på en konkret beskrivelse av det enkelte tiltak, inkludert kostnadsoverslag og annen relevant dokumentasjon som kan underbygge behovet for midlene.",
+    "3": "Hitra kommunestyre forventer at Hitra kirkelige fellesråd sikrer nødvendig budsjettoppfølging i investeringsprosjekter, og holder investeringene på kirkebygg og kirkegårder innenfor de rammer som kommunestyret til enhver tid har bevilget."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Bjørn Jensen på vegne av gruppen Ap, SV, Sp, R",
+      "tekst": "1. Hitra kommunestyre innvilger ikke søknad fra Hitra Kirkelige Fellesråd om tilleggsfinansiering på kr. 3.132.023 til prosjekt 6574 Oppgradering og rehabilitering av kirkebygg.\n2. Dersom Hitra Kirkelige Fellesråd vurderer at det fortsatt foreligger behov for finansiering av uforutsette og nødvendige vedlikeholdstiltak, eller for tiltak som er igangsatt, men ennå ikke ferdigstilt, skal det fremmes en særskilt søknad til Hitra kommunestyre. Søknaden må baseres på en konkret beskrivelse av det enkelte tiltak, inkludert kostnadsoverslag og annen relevant dokumentasjon som kan underbygge behovet for midlene.\n3. Som i innstillingen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingens punkt 1 mot forslag fra gruppen Ap, SV, Sp, R",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 11
+        },
+        {
+          "navn": "Forslag fra gruppen Ap, SV, Sp, R",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Forslag fra gruppen Ap, SV, Sp, R",
+      "roedt_stoette": "Forslag fra gruppen Ap, SV, Sp, R",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over punkt 2 i opprinnelig innstilling",
+      "alternativer": [
+        {
+          "navn": "Punkt 2 i opprinnelig innstilling",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Punkt 2 i opprinnelig innstilling ble nedstemt",
+      "roedt_stoette": "Ikke relevant (nedstemt)",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over nytt punkt 2, forslag fra H, FrP, Pp mot forslag fra Ap, SV, Sp, R",
+      "alternativer": [
+        {
+          "navn": "Forslag fra H, FrP, Pp",
+          "stemmer": 11
+        },
+        {
+          "navn": "Forslag fra Ap, SV, Sp, R",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Forslag fra Ap, SV, Sp, R",
+      "roedt_stoette": "Forslag fra Ap, SV, Sp, R",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen punkt 3",
+      "alternativer": [
+        {
+          "navn": "Innstillingen punkt 3",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen punkt 3 enstemmig vedtatt",
+      "roedt_stoette": "Innstillingen punkt 3",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 26/25",
+  "rodt_fremmet_forslag": false
+}

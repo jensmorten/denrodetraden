@@ -1,0 +1,36 @@
+{
+  "tittel": "Søknad om fritak fra styreverv - Hitra Storkjøkken KF",
+  "innstilling": "Hitra kommunestyre avslår søknad fra Lena Kristine Nilsen om fritak fra vervet som styremedlem i Hitra Storkjøkken KF. Avslaget begrunnes med at mulig utfordringer med arbeidstid ikke er tilstrekkelig til å få innvilget fritak fra vervet. I disse tilfeller vil varamedlemmene kunne tre inn i møtene.",
+  "vedtak": "Hitra kommunestyre avslår søknad fra Lena Kristine Nilsen om fritak fra vervet som styremedlem i Hitra Storkjøkken KF. Avslaget begrunnes med at mulig utfordringer med arbeidstid ikke er tilstrekkelig til å få innvilget fritak fra vervet. I disse tilfeller vil varamedlemmene kunne tre inn i møtene.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Terje Herfjord (PP) og Sara Lea Svensdottir (H)",
+      "alternativer": [
+        {
+          "navn": "Enstemmig erklært inhabile",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Enstemmig erklært inhabile",
+      "roedt_stoettet": "Enstemmig erklært inhabile",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak om søknad om fritak fra vervet som styremedlem i Hitra Storkjøkken KF",
+      "alternativer": [
+        {
+          "navn": "Avslag på søknad",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Avslag på søknad",
+      "roedt_stoettet": "Avslag på søknad",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "PS 62/25",
+  "rodt_fremmet_forslag": false
+}

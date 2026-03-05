@@ -1,0 +1,33 @@
+{
+  "tittel": "Behandling av planinitiativ for detaljreguleringsplan for Nordhammaren B7",
+  "innstilling": "I henhold til Plan- og bygningsloven § 12-8 har Kommunestyret ingen innvendinger mot videre planprosess for detaljreguleringsplanen Nordhammaren B7",
+  "vedtak": "I henhold til Plan- og bygningsloven § 12-8 har Kommunestyret ingen innvendinger mot videre planprosess for detaljreguleringsplanen Nordhammaren B7",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Borgerlig gruppe",
+      "tekst": "I henhold til Plan- og bygningsloven § 12-8 har Kommunestyret ingen innvendinger mot videre planprosess for detaljreguleringsplanen Nordhammaren B7"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling/nytt forslag til vedtak fra Borgerlig gruppe",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 8
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoettet": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "05.02.2026",
+  "saksnummer_ps": "PS 12/2026",
+  "rodt_fremmet_forslag": false
+}

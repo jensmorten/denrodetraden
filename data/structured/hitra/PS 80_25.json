@@ -1,0 +1,74 @@
+{
+  "tittel": "Leieavtale Hitra Idrettspark - Hitra fotballklubb",
+  "innstilling": {
+    "1": "Hitra kommunestyre vedtar at det inngås egen avtale med Hitra FK om leie av deres areal i Hitra Idrettspark og egen avtale med Hitra IL om deres arealer i Idrettsparken gjeldende fra 01.05.2026.",
+    "2": "Budsjettrammen fordeles etter følgende fordelingsnøkkel: 75% til Hitra FK, 25% til Hitra IL. Det totale avtalebeløpet fastsettes i behandling av årets budsjettprosess. Avtalebeløpet justeres videre årlig i forhold til konsumprisindeks.",
+    "3": "Fordelingsnøkkelen skrives inn i begge avtalene.",
+    "4": "Kommunedirektøren gis i oppdrag å inngå avtale med hver av de to lagene Hitra FK og Hitra IL."
+  },
+  "vedtak": {
+    "11.12.2025": {
+      "1": "Hitra kommunestyre vedtar at det inngås egen avtale med Hitra FK om leie av deres areal i Hitra Idrettspark og egen avtale med Hitra IL om deres arealer i Idrettsparken gjeldende fra 01.05.2026.",
+      "2": "Budsjettrammen fordeles etter følgende fordelingsnøkkel: 75% til Hitra FK, 25% til Hitra IL. Det totale avtalebeløpet fastsettes i behandling av årets budsjettprosess. Avtalebeløpet justeres videre årlig i forhold til konsumprisindeks.",
+      "3": "Fordelingsnøkkelen skrives inn i begge avtalene.",
+      "4": "Kommunedirektøren gis i oppdrag å inngå avtale med hver av de to lagene Hitra FK og Hitra IL."
+    },
+    "25.11.2025": {
+      "1": "Hitra kommunestyre vedtar at det inngås egen avtale med Hitra FK om leie av deres areal i Hitra Idrettspark og egen avtale med Hitra IL om deres arealer i Idrettsparken gjeldende fra 01.05.2026.",
+      "2": "Budsjettrammen fordeles etter følgende fordelingsnøkkel: 75% til Hitra FK, 25% til Hitra IL. Det totale avtalebeløpet fastsettes i behandling av årets budsjettprosess. Avtalebeløpet justeres videre årlig i forhold til konsumprisindeks.",
+      "3": "Fordelingsnøkkelen skrives inn i begge avtalene.",
+      "4": "Kommunedirektøren gis i oppdrag å inngå avtale med hver av de to lagene Hitra FK og Hitra IL."
+    },
+    "21.10.2025": {
+      "1": "Saken utsettes til neste møte."
+    }
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tom Skare (FrP)",
+      "tekst": "Forslag om å utsette saken."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelsesforslag fremmet av Tom Skare (FrP) i møte 21.10.2025",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om innstilling fra formannskapet i møte 25.11.2025",
+      "alternativer": [
+        {
+          "navn": "For innstilling",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstilling",
+      "roedt_stoettet": "For innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om innstilling fra formannskapet i møte 11.12.2025",
+      "alternativer": [
+        {
+          "navn": "For innstilling",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstilling",
+      "roedt_stoettet": "For innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 80/25",
+  "rodt_fremmet_forslag": false
+}

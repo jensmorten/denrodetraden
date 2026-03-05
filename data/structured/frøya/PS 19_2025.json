@@ -1,0 +1,49 @@
+{
+  "tittel": "DAGSTURHYTTEN - TOMTEVALG, FINANSIERING OG DRIFT/VEDLIKEHOLD",
+  "innstilling": [
+    "Kommunestyret vedtar foreslått prioriteringsrekkefølge av tomtevalg til Dagsturhytta: 1. Nesset 2. Flatval 3. Uttian.",
+    "Kommunestyret gir kommunedirektøren fullmakt til å inngå avtale med grunneier(e) om en grunneieravtale på plassering av Dagsturhytta på inntil 30 år.",
+    "Kommunestyret vedtar en fullfinansiering av prosjektet Dagsturhytta med kr 185 000,- under forutsetning av at det gis spillemidler til tiltaket. Midlene tas fra kommunens disposisjonsfond.",
+    "Kommunestyret vedtar forskuttering av spillemidler på kr 500 000,-. Midlene tas fra kommunens disposisjonsfond.",
+    "Kommunestyret vedtar kr 20 000,- til årlig drift og vedlikehold av Dagsturhytta. Driftskostnader innarbeides i budsjett- og økonomiplan for perioden 2026-2030."
+  ],
+  "vedtak": [
+    "Kommunestyret vedtar foreslått prioriteringsrekkefølge av tomtevalg til Dagsturhytta: Uttian, Flatval, Dyrøya.",
+    "Kommunestyret gir kommunedirektøren fullmakt til å inngå avtale med grunneier(e) om en grunneieravtale på plassering av Dagsturhytta på inntil 30 år.",
+    "Kommunestyret vedtar en fullfinansiering av prosjektet Dagsturhytta med kr 185 000,- under forutsetning av at det gis spillemidler til tiltaket. Midlene tas fra kommunens disposisjonsfond.",
+    "Kommunestyret vedtar forskuttering av spillemidler på kr 500 000,-. Midlene tas fra kommunens disposisjonsfond.",
+    "Kommunestyret vedtar kr 20 000,- til årlig drift og vedlikehold av Dagsturhytta. Driftskostnader innarbeides i budsjett- og økonomiplan for perioden 2026-2030."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Olaf Reppe",
+      "tekst": "Kommunestyret vedtar foreslått prioriteringsrekkefølge av tomtevalg til Dagsturhytta: Uttian, Flatval, Dyrøya."
+    },
+    {
+      "forslagsstiller": "Ap og R",
+      "tekst": "Kommunestyret vedtar foreslått prioriteringsrekkefølge av tomtevalg til Dagsturhytta: 1. Nesset. 2. Flatval 3. Uttian"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om prioriteringsrekkefølge av tomtevalg til Dagsturhytta i kommunestyrets møte 13.03.2025",
+      "alternativer": [
+        {
+          "navn": "Uttian, Flatval, Dyrøya",
+          "stemmer": 11
+        },
+        {
+          "navn": "Nesset, Flatval, Uttian",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "Uttian, Flatval, Dyrøya",
+      "roedt_stoettet": "Nesset, Flatval, Uttian",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 19/2025",
+  "rodt_fremmet_forslag": false
+}

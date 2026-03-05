@@ -1,0 +1,24 @@
+{
+  "tittel": "Hitra kommune kontrollutvalg - Årsmelding 2024",
+  "innstilling": "Kontrollutvalgets innstilling Kommunestyret tar kontrollutvalgets årsmelding for 2024 til orientering.",
+  "vedtak": "Kommunestyret tar kontrollutvalgets årsmelding for 2024 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 21/25",
+  "rodt_fremmet_forslag": false
+}

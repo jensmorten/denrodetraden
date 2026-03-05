@@ -1,0 +1,45 @@
+{
+  "tittel": "Temaplan for klima og miljø 2025 - 2030",
+  "innstilling": "Temaplan for klima og miljø 2025 – 2030 vedtas i tråd med fremlagte forslag, samt to innspill fra tabellen som innarbeides i planen. Hjemmel for vedtaket er: • Kommuneplanens samfunnsdel, vedtatt i Namsos kommunestyre 13.02.2020 • Kommunal planstrategi, vedtatt i Namsos kommunestyre 20.06.2024",
+  "vedtak": "Temaplan for klima og miljø 2025 – 2030 vedtas i tråd med fremlagte forslag, samt to innspill fra tabellen som innarbeides i planen. Hjemmel for vedtaket er: • Kommuneplanens samfunnsdel, vedtatt i Namsos kommunestyre 13.02.2020 • Kommunal planstrategi, vedtatt i Namsos kommunestyre 20.06.2024",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Geir Olav Knappe (Venstre)",
+      "tekst": "Temaplan for klima- og miljø 2025 - 2030 legges ut til høring ut oktober 2025. Planen tas opp til politisk behandling i utvalg, formannskap og kommunestyret i januar 2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over alternativt forslag fra Geir Olav Knappe (Venstre)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 18
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over innstilling i formannskapet som innstilling til kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "PS 43/2025",
+  "rodt_fremmet_forslag": false
+}

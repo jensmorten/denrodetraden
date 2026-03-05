@@ -1,0 +1,53 @@
+{
+  "tittel": "Nyvalg - varamedlem i styret for Hitra Storkjøkken KF",
+  "innstilling": "Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne _________ som nytt varamedlem nummer 2 i styret for Hitra Storkjøkken KF. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.",
+  "vedtak": "Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Trond Larsen som nytt varamedlem nummer 2 i styret for Hitra Storkjøkken KF. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører John Lernes (Ap)",
+      "tekst": "Forslag på følgende kandidat til vervet som nytt varamedlem nummer 2 i styret for Hitra Storkjøkken KF: Trond Larsen."
+    },
+    {
+      "forslagsstiller": "Ordfører John Lernes (Ap)",
+      "tekst": "Forslag om at saken utsettes til formannskapsmøte 04.12.2025."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslag om at saken utsettes til formannskapsmøte 04.12.2025.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag på kandidat Trond Larsen som nytt varamedlem nummer 2 i styret for Hitra Storkjøkken KF.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 93/25",
+  "rodt_fremmet_forslag": false
+}

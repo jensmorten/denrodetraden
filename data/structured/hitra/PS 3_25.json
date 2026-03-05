@@ -1,0 +1,36 @@
+{
+  "tittel": "Merknadsbehandling og egengodkjenning av Reguleringsplan for Kvenvær sentrum gnr 48 bnr 2 m.fl. PlanID 201919",
+  "innstilling": "1.Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven § 12-12, detaljregulering og VA-plan for Kvenvær sentrum - gnr. 48 bnr. 2.\n2.Kommunedirektøren pålegges å kunngjøre godkjenningen på foreskreven måte.",
+  "vedtak": "1. Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven § 12-12, detaljregulering og VA-plan for Kvenvær sentrum - gnr. 48 bnr. 2 m.fl.\n2. Kommunedirektøren pålegges å kunngjøre godkjenningen på foreskreven måte.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstilling fra teknisk utvalg - plan, landbruk og miljø",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling av innstilling i teknisk utvalg - plan, landbruk og miljø",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 3/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,59 @@
+{
+  "tittel": "Oppnevnelse av politiske styrerepresentanter til Namdalseid og Jøa frivilligsentral og Namsos frivilligsentral",
+  "innstilling": {
+    "Avdeling Jøa": {
+      "leder": "Svein Storø",
+      "vara": "Rune Wik"
+    },
+    "Avdeling Namsos": "Frode Båtnes",
+    "Avdeling Namdalseid": {
+      "gjenvalg": [
+        "Steinar Lyngstad",
+        "Nina Edel Damås",
+        "Agnar Forbord (vara)"
+      ]
+    }
+  },
+  "vedtak": {
+    "Namdalseid": {
+      "leder": "Steinar Lyngstad (1 år)",
+      "styremedlem": "Nina Edel Damås (2 år)",
+      "varamedlem": "Agnar Forbord (1 år)"
+    },
+    "Jøa": {
+      "leder": "Svein Storø (1 år)",
+      "varamedlem": "Rune Wik (1 år)"
+    },
+    "Namsos": {
+      "styremedlem": "Frode Båtnes (1 år)"
+    }
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Henrik Aleksander Devik (Høyre)",
+      "tekst": "Namdalseid: Leder: Steinar Lyngstad (1 år), Styremedlem: Nina Edel Damås (2 år), Varamedlem: Agnar Forbord (1 år). Jøa: Leder: Svein Storø (1 år), Varamedlem: Rune Wik (1 år). Namsos: Styremedlem: Frode Båtnes (1 år)."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming mellom utvalgets forslag og forslag 2 fra Henrik Aleksander Devik (Høyre)",
+      "alternativer": [
+        {
+          "navn": "Forslag 2 (Henrik Aleksander Devik)",
+          "stemmer": 34
+        },
+        {
+          "navn": "Utvalgets forslag",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Forslag 2 (Henrik Aleksander Devik)",
+      "roedt_stoettet": "Forslag 2 (Henrik Aleksander Devik)",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 9/2026",
+  "rodt_fremmet_forslag": false
+}

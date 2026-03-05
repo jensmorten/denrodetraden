@@ -1,0 +1,24 @@
+{
+  "tittel": "Utviklingsfelleskap helse (Universitetsykehjem)",
+  "innstilling": "Formannskapets forslag til vedtak:\nRedegjørelse tas til orientering.\nKommunestyret ser at en videre utvikling i tråd med beskrivelsene og retningsvalg bidrar til å understøtte både Namsos og Namdalsregionen godt.",
+  "vedtak": "Redegjørelse tas til orientering.\nKommunestyret ser at en videre utvikling i tråd med beskrivelsene og retningsvalg bidrar til å understøtte både Namsos og Namdalsregionen godt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "20.02.2025",
+  "saksnummer_ps": "PS 2/2025",
+  "rodt_fremmet_forslag": false
+}

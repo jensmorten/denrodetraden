@@ -1,0 +1,56 @@
+{
+  "tittel": "Klagebehandling - Fastsetting av minsteareal for jakt på hjortevilt i lokal forskrift",
+  "innstilling": [
+    "Hitra kommunestyre imøtekommer ikke klagen på vedtak om fastsetting av minsteareal for elg, hjort og rådyr i sak 1/2025 den 30.01.2025.",
+    "Klagen tilfører ikke saken nye momenter som ikke lå til grunn for vedtaket av 30.01.2025.",
+    "Vedtaket gjøres i medhold av Forskrift om forvaltning av hjortevilt § 36 og forvaltningsloven § 28."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre imøtekommer ikke klagen på vedtak om fastsetting av minsteareal for elg, hjort og rådyr i sak 1/2025 den 30.01.2025.",
+    "Klagen tilfører ikke saken nye momenter som ikke lå til grunn for vedtaket av 30.01.2025.",
+    "Vedtaket gjøres i medhold av Forskrift om forvaltning av hjortevilt § 36 og forvaltningsloven § 28."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Stig Atle Lervåg",
+      "alternativer": [
+        {
+          "navn": "Enstemmig habil",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig habil",
+      "roedt_stoettet": "Enstemmig habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vurdering av habilitet for Sigrid Hanssen",
+      "alternativer": [
+        {
+          "navn": "Enstemmig habil",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig habil",
+      "roedt_stoettet": "Enstemmig habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av innstilling",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "28.05.2025",
+  "saksnummer_ps": "PS 37/25",
+  "rodt_fremmet_forslag": false
+}

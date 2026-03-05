@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 52/25 Økonomirapport 1. tertial 2025 - Hitra Storkjøkken KF",
+  "innstilling": "Hitra kommunestyre godkjenner Økonomirapport 1. tertial 2025 for Hitra Storkjøkken KF slik den er fremlagt.",
+  "vedtak": "Hitra kommunestyre godkjenner Økonomirapport 1. tertial 2025 for Hitra Storkjøkken KF slik den er fremlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av habilitet for Terje Herfjord (Pp)",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av innstilling for Økonomirapport 1. tertial 2025",
+      "alternativer": [
+        {
+          "navn": "Godkjenne innstilling",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Godkjenne innstilling",
+      "roedt_stoettet": "Godkjenne innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 52/25",
+  "rodt_fremmet_forslag": false
+}

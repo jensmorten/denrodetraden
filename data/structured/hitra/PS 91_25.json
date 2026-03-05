@@ -1,0 +1,41 @@
+{
+  "tittel": "Nyvalg - varamedlem til formannskapet, valgstyret og valgutvalget 2023-2027",
+  "innstilling": "Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne _________ som nytt varamedlem nummer 4 for gruppen Ap, R, Sp og SV i Hitra formannskap. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne _________ som nytt varamedlem nummer 4 for gruppen Ap, R, Sp og SV i Hitra valgstyre. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne _________ som nytt varamedlem nummer 4 for gruppen Ap, R, Sp og SV i Hitra valgutvalg. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.",
+  "vedtak": "Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Tor Johan Sagøy (Ap) som nytt varamedlem nummer 4 for gruppen Ap, R, Sp og SV i Hitra formannskap. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Tor Johan Sagøy (Ap) som nytt varamedlem nummer 4 for gruppen Ap, R, Sp og SV i Hitra valgstyre. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Tor Johan Sagøy (Ap) som nytt varamedlem nummer 4 for gruppen Ap, R, Sp og SV i Hitra valgutvalg. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ingrid Kathrine Schanche (Sp)",
+      "tekst": "Tor Johan Sagøy (Ap) oppnevnes som nytt varamedlem i formannskapet, valgstyret og valgutvalget."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslaget fra Ingrid Kathrine Schanche (Sp)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 91/25",
+  "rodt_fremmet_forslag": false
+}

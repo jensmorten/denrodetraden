@@ -1,0 +1,41 @@
+{
+  "tittel": "Nyvalg - medlem av rådet for stiftelsen Aunøya",
+  "innstilling": "Hitra kommunestyre å oppnevne _________ som nytt medlem av rådet for stiftelsen Aunøya. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.",
+  "vedtak": "Hitra kommunestyre å oppnevne Einar Brendboe (R) som nytt medlem av rådet for stiftelsen Aunøya. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jann O. Krangnes (R)",
+      "tekst": "Einar Brendboe (R) som nytt medlem av rådet for stiftelsen Aunøya."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Jann O. Krangnes (R)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 92/25",
+  "rodt_fremmet_forslag": true
+}

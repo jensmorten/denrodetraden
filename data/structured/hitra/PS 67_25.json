@@ -1,0 +1,36 @@
+{
+  "tittel": "Økonomirapport 2. tertial 2025 - Hitra Storkjøkken KF",
+  "innstilling": "Hitra kommunestyre godkjenner Økonomirapport 2. tertial 2025 for Hitra Storkjøkken KF slik den er fremlagt.",
+  "vedtak": "Hitra kommunestyre godkjenner Økonomirapport 2. tertial 2025 for Hitra Storkjøkken KF slik den er fremlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Innstillingen i formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 67/25",
+  "rodt_fremmet_forslag": false
+}

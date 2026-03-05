@@ -1,0 +1,24 @@
+{
+  "tittel": "Meldingssak - Avtale om tiltredelse, gnr 92, bnr 1",
+  "innstilling": "Hitra kommunestyre tar saken til orientering.",
+  "vedtak": "Hitra kommunestyre tar saken til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 98/25",
+  "rodt_fremmet_forslag": false
+}

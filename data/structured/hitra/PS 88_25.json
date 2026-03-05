@@ -1,0 +1,69 @@
+{
+  "tittel": "Fritak fra folkevalgte verv i Hitra kommune - Kommunestyrerepresentant og leder og medlem av utvalg helse og omsorg",
+  "innstilling": "Hitra kommunestyre innvilger, etter kommuneloven § 7-9, andre ledd, søknad fra Lise Krangnes (R) om fritak fra verv som kommunestyrerepresentant og leder og medlem av utvalg helse og omsorg. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne _________ som nytt medlem av utvalg helse og omsorg. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 5-7, andre ledd, å oppnevne _________ som ny leder av utvalg helse og omsorg. Vedtaket er gjeldende fra dagens dato og ut inneværende valgperiode.",
+  "vedtak": "Hitra kommunestyre innvilger, etter kommuneloven § 7-9, andre ledd, søknad fra Lise Krangnes (R) om fritak fra verv som kommunestyrerepresentant og leder og medlem av utvalg helse og omsorg. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Bjørn Jensen (Ap) som nytt medlem av utvalg helse og omsorg. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 5-7, andre ledd, å oppnevne Bjørn Jensen (Ap) som ny leder av utvalg helse og omsorg. Hitra kommunestyre vedtar at Bjørn Jensen (Ap) utgår som medlem av utvalg oppvekst. Hitra kommunestyre vedtar at May Elise Jamtøy Stolpnes (Sp) oppnevnes som nytt fast medlem av utvalg oppvekst. Vedtaket er gjeldende fra 12.12.2025 og ut inneværende valgperiode.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører John Lernes (Ap)",
+      "tekst": "Endre vedtaksdato til 12.12.2025."
+    },
+    {
+      "forslagsstiller": "Ingrid Kathrine Schanche (Sp)",
+      "tekst": "Bjørn Jensen (Ap) oppnevnes som nytt medlem av utvalg helse og omsorg; Bjørn Jensen (Ap) utgår som medlem av utvalg oppvekst; Bjørn Jensen (Ap) velges som ny leder av utvalg helse og omsorg; May Elise Jamtøy Stolpnes (Sp) velges som nytt fast medlem av utvalg oppvekst."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om endring av vedtaksdato til 12.12.2025 fremmet av ordfører John Lernes (Ap).",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering om innstilling fra formannskapet med endret vedtaksdato.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i formannskapet om innvilgelse av fritak for Lise Krangnes (R).",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i formannskapet om forslag fra Ingrid Kathrine Schanche (Sp) om oppnevning og endringer i utvalg.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Ikke relevant (Rødt ikke nevnt som støtter eller motstander)",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 88/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Etablering av Studiesenter Trøndelag Sørvest AS",
+  "innstilling": null,
+  "vedtak": "Realitetsbehandling utsettes enstemmig etter Kommuneloven §11.3",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om utsettelse av realitetsbehandling",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "14.08.2025",
+  "saksnummer_ps": "PS 95/2025",
+  "rodt_fremmet_forslag": false
+}

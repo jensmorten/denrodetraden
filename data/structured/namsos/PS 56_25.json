@@ -1,0 +1,41 @@
+{
+  "tittel": "PS 56/2025 Billettpriser Oasen 2026",
+  "innstilling": "Vedtak i formannskapet som innstilling til kommunestyret:\nBillettpriser for inngang til Oasen gjeldende fra reåpning av badeanlegget vedtas slik:\nBillett type Sats 2022 Sats 2026\nAvtalegiro honnør/student/ungdom pr. mnd. 255 300\nAvtalegiro pr. mnd 299 355\nBarn til og med 4. klasse 0 0\nBarnebillett 80 95\nChip/kort 110 150 (nullkost)\nEnkeltbillett voksen 130 155\nFamiliebillett 355 420\nHonnør/student/ungdom 105 125\nKlippekort 12 klipp 1400 1650\nKlippekort 12 klipp barn 10 - 15 år 770 910\nKlippekort 12 klipp honnør/student/ungdom 1125 1350\nKlubbleie Namsos Svømmeklubb og Namsos vannpolo pr. mnd. 3785 4500\nMånedskort barn 310 365\nMånedskort honnør/student/ungdom 325 385\nMånedskort voksen 375 455\nTimesleie utenom åpningstid med 2 badevakter 2860 3400\nOasen - Årskort honnør/student/ungdom 3400 4000\nOasen - Årskort voksen 4010 4750",
+  "vedtak": "Billettpriser for inngang til Oasen gjeldende fra reåpning av badeanlegget vedtas slik:\nBillett type Sats 2022 Sats 2026\nAvtalegiro honnør/student/ungdom pr. mnd. 255 300\nAvtalegiro pr. mnd 299 355\nBarn til og med 4. klasse 0 0\nBarnebillett 80 95\nChip/kort 110 150 (nullkost)\nEnkeltbillett voksen 130 155\nFamiliebillett 355 420\nHonnør/student/ungdom 105 125\nKlippekort 12 klipp 1400 1650\nKlippekort 12 klipp barn 10 - 15 år 770 910\nKlippekort 12 klipp honnør/student/ungdom 1125 1350\nKlubbleie Namsos Svømmeklubb og Namsos vannpolo pr. mnd. 3785 4500\nMånedskort barn 310 365\nMånedskort honnør/student/ungdom 325 385\nMånedskort voksen 375 455\nTimesleie utenom åpningstid med 2 badevakter 2860 3400",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Arnhild Holstad (Arbeiderpartiet)",
+      "tekst": "De to siste linjene i forslaget strykes (årskort voksne, honnør, student, ungdom)."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Arnhild Holstad (AP) om å stryke de to siste linjene i forslaget (årskort voksne, honnør, student, ungdom).",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "Forslaget ble vedtatt",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over innstilling om billettpriser for inngang til Oasen gjeldende fra reåpning av badeanlegget.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "Innstillingen ble vedtatt",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "23.10.2025",
+  "saksnummer_ps": "PS 56/25",
+  "rodt_fremmet_forslag": false
+}

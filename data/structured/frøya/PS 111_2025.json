@@ -1,0 +1,27 @@
+{
+  "tittel": "Revidering av VA-Norm Frøya Kommune",
+  "innstilling": null,
+  "vedtak": [
+    "Frøya kommunestyre vedtar den fremlagte reviderte VA-norm for kommunaltekniske anlegg.",
+    "Kommunedirektøren gis fullmakt til å justere mindre endringer i VA-normen ved behov."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av revidert VA-norm og fullmakt til kommunedirektør",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "04.09.2025",
+  "saksnummer_ps": "PS 111/2025",
+  "rodt_fremmet_forslag": false
+}

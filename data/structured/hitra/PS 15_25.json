@@ -1,0 +1,153 @@
+{
+  "tittel": "Uttalelse til Energistrategi for Trøndelag mot 2050",
+  "innstilling": "Hitra kommunestyre vedtar å sende følgende uttalelse til Trøndelag fylkeskommune sin høring av «Energistrategi for Trøndelag mot 2050» med 7 punkter som beskriver kommunens vurderinger og anbefalinger til strategien, inkludert behov for tydeligere mål, ansvarsfordeling, arealstrategiske grep og avventing av elektrifisering av sokkelen inntil forsyning er sikret.",
+  "vedtak": "Hitra kommunestyre vedtar å sende følgende uttalelse til Trøndelag fylkeskommune sin høring av «Energistrategi for Trøndelag mot 2050» med de samme punktene som i innstillingen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører John Lernes",
+      "tekst": "Tillegg i punkt 7: Staten pålegger olje og gass-sektoren å skaffe seg elektrisk kraft selv gjennom tilgjengelig teknologi for rensing og karbonfangst."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over punkt 1 i uttalelsen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering over punkt 2 i uttalelsen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering over punkt 3 i uttalelsen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering over punkt 4 i uttalelsen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering over punkt 5 i uttalelsen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering over punkt 6 i uttalelsen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering over punkt 7 i uttalelsen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering over tillegg i punkt 7 fremmet av ordfører John Lernes",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen samlet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 15/25",
+  "rodt_fremmet_forslag": false
+}

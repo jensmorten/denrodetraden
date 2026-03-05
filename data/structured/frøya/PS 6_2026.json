@@ -1,0 +1,24 @@
+{
+  "tittel": "Årsmelding fra Frøya ungdomsråd 2024-2025",
+  "innstilling": null,
+  "vedtak": "Kommunestyret tar Frøya ungdomsråds årsmelding til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om å ta Frøya ungdomsråds årsmelding til orientering",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "05.02.2026",
+  "saksnummer_ps": "PS 6/2026",
+  "rodt_fremmet_forslag": false
+}

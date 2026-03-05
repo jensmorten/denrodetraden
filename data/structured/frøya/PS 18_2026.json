@@ -1,0 +1,27 @@
+{
+  "tittel": "KS-debatthefte 2026 - Tid for taktskifte",
+  "innstilling": "Kommunedirektørens prioriterte områder innen bærekraftig velferd og skjerpet beredskap.",
+  "vedtak": [
+    "Kommunestyret vedtar kommunedirektørens prioriterte områder innen bærekraftig velferd og skjerpet beredskap.",
+    "Kommunestyrets vedtatte innspill til Tid for taktskifte, oversendes KS."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av kommunedirektørens prioriterte områder og oversendelse av innspill til KS",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "05.02.2026",
+  "saksnummer_ps": "PS 18/2026",
+  "rodt_fremmet_forslag": false
+}

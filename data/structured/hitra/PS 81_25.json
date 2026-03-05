@@ -1,0 +1,48 @@
+{
+  "tittel": "Prioritering spillemiddelsøknader for 2026",
+  "innstilling": "Hitra kommunestyre vedtar følgende prioritering for spillemidler 2025/2026:\nNærmiljøanlegg\nPrioritet Søknad Søknads- Søker Søknads- Søknadssum\nnummer type\n1 2 tiltak på Uteområde 172456 Hitra Ny 650 000\n- Ny Fillan skole ved kommune\nFillan barne- og\nungdomsskole",
+  "vedtak": "Hitra kommunestyre vedtar følgende prioritering for spillemidler 2025/2026:\nNærmiljøanlegg\nSøknads- Søknads-\nPrioritet Søknad Søker Søknadssum\nnummer type\n2 tiltak på Uteområde - Ny Fillan\nHitra\n1 skole ved Fillan barne- og 172456 Ny 650 000\nkommune",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Ann Bodil Kosberg Wingan (Ap)",
+      "alternativer": [
+        {
+          "navn": "Enstemmig habil",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig habil",
+      "roedt_stoettet": "Enstemmig habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av innstilling fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av innstilling i formannskapets møte 04.12.2025",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 81/25",
+  "rodt_fremmet_forslag": false
+}

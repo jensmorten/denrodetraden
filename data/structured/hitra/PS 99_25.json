@@ -1,0 +1,24 @@
+{
+  "tittel": "Meldingssak - Økonomisk mellomrapportering pr. okt 2025",
+  "innstilling": "Hitra kommunestyre tar meldingen om økonomisk mellomrapportering per oktober 2025 til orientering.",
+  "vedtak": "Hitra kommunestyre tar meldingen om økonomisk mellomrapportering per oktober 2025 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om økonomisk mellomrapportering per oktober 2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 99/25",
+  "rodt_fremmet_forslag": false
+}

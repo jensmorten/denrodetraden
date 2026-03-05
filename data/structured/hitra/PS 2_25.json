@@ -1,0 +1,60 @@
+{
+  "tittel": "Merknadsbehandling og egengodkjenning av temaplan Mål og retningslinjer for forvaltning av hjorteviltet i Hitra kommune 2025-2027",
+  "innstilling": "Hitra kommunestyre egengodkjenner temaplanen Mål og retningslinjer for forvaltning av Hjorteviltet i Hitra kommune 2025-2027.",
+  "vedtak": "Hitra kommunestyre egengodkjenner temaplanen Mål og retningslinjer for forvaltning av Hjorteviltet i Hitra kommune 2025-2027.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av habilitet for Ingrid Kathrine Schanche (SP)",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Ingrid Kathrine Schanche ble vedtatt habil",
+      "roedt_stoettet": "Ingrid Kathrine Schanche habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av habilitet for Bjørg Reitan Bjørgvik (FrP)",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Bjørg Reitan Bjørgvik ble vedtatt habil",
+      "roedt_stoettet": "Bjørg Reitan Bjørgvik habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av habilitet for Per Ervik (FrP)",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Per Ervik ble vedtatt habil",
+      "roedt_stoettet": "Per Ervik habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av innstilling fra teknisk utvalg - plan, landbruk og miljø",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Innstillingen ble enstemmig vedtatt",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 2/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,85 @@
+{
+  "tittel": "Skillet drift og investering",
+  "innstilling": "Kommunestyret ber kommunedirektøren om å følge gjeldende regelverk på skillet drift og investering på digitale løsninger.",
+  "vedtak": [
+    "Hitra kommunestyre ber kommunedirektøren om å videreføre praksisen for bokføring av utgifter til innkjøp og etablering av skybaserte IT-programvare (SaaS)",
+    "Det presiseres at dette kun gjelder engangskostnader knyttet til SaaS-utgifter, og ikke løpende utgifter som lisenser og lignende.",
+    "Kommunestyret ber kommunedirektøren forberede en sak om prinsipper for skille mellom drift og investering knyttet til digitale løsninger til første møte i kommunestyret 2026"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tom Skare (FrP)",
+      "tekst": "1. Hitra kommunestyre ber kommunedirektøren om å videreføre praksisen for bokføring av utgifter til innkjøp og etablering av skybaserte IT-programvare (SaaS)\n2. Det presiseres at dette kun gjelder engangskostnader knyttet til SaaS-utgifter, og ikke løpende utgifter som lisenser og lignende."
+    },
+    {
+      "forslagsstiller": "Bjørn Jensen (Ap)",
+      "tekst": "Kommunestyret ber kommunedirektøren forberede en sak om prinsipper for skille mellom drift og investering knyttet til digitale løsninger til første møte i kommunestyret 2026"
+    },
+    {
+      "forslagsstiller": "Jann O. Krangnes (R)",
+      "tekst": "Utsettelsesforslag"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Bjørg Reitan Bjørgvik (FrP)",
+      "alternativer": [
+        {
+          "navn": "Enstemmig habil",
+          "stemmer": "alle"
+        },
+        {
+          "navn": "Ikke habil",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Enstemmig habil",
+      "roedt_stoette": "Enstemmig habil",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på utsettelsesforslag fremmet av Jann O. Krangnes (R)",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": 8
+        },
+        {
+          "navn": "Imot utsettelse",
+          "stemmer": 17
+        }
+      ],
+      "hvem_vant": "Imot utsettelse",
+      "roedt_stoette": "For utsettelse",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering mellom kontrollutvalgets innstilling og forslag fremmet av Tom Skare (FrP) med tilleggspunkt fra Bjørn Jensen (Ap)",
+      "alternativer": [
+        {
+          "navn": "Kontrollutvalgets innstilling",
+          "stemmer": 6,
+          "representanter": [
+            "Arnt J. Breivoll (Ap)",
+            "Heidi Kristine Fugelsøy (Ap)",
+            "Jann O. Krangnes (R)",
+            "Lise Krangnes (R)",
+            "Bjørg Reitan Bjørgvik (FrP)",
+            "Ivar Bjarne Kværnø (H)"
+          ]
+        },
+        {
+          "navn": "Forslag fra Tom Skare (FrP) med tilleggspunkt fra Bjørn Jensen (Ap)",
+          "stemmer": 19
+        }
+      ],
+      "hvem_vant": "Forslag fra Tom Skare (FrP) med tilleggspunkt fra Bjørn Jensen (Ap)",
+      "roedt_stoette": "Kontrollutvalgets innstilling",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 76/25",
+  "rodt_fremmet_forslag": true
+}

@@ -1,0 +1,75 @@
+{
+  "tittel": "Rapport fra undersøkelser av bevilgninger gitt til kirkelig fellesråd",
+  "innstilling": [
+    "1. Kommunestyret tar rapport fra undersøkelse av bevilgninger til drift og prosjekter gitt til kirkelig fellesråd for årene 2021-2024 til orientering.",
+    "2. Kommunestyret ber kommunedirektøren følge opp anbefalingene i rapporten:",
+    "a. Innarbeide en rutine der kommunestyret får framlagt soknet sitt regnskap og revisors beretning som en referatsak når dette foreligger.",
+    "b. Utbetale hele bevilgningen til soknet etter vedtak i kommunestyret.",
+    "c. Være tydelig på hva som bevilges beløpsmessig i vedtak og i tildelingsbrev som sendes til soknet.",
+    "d. Sette klare betingelser for bruken i både vedtak og tildelingsbrev, i tilfeller der kommunestyret har dette.",
+    "e. Vurdere om det er hensiktsmessig å tilby soknet at kommunen yter tjenester og gjennomfører investeringsprosjekt i stedet for å gi tilskudd til dette.",
+    "3. Kommunestyret ber kommunedirektøren om gi kontrollutvalget skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 01.11.2025."
+  ],
+  "vedtak": [
+    "1. Kommunestyret tar rapport fra undersøkelse av bevilgninger til drift og prosjekter gitt til kirkelig fellesråd for årene 2021-2024 til orientering.",
+    "2. Kommunestyret ber kommunedirektøren følge opp anbefalingene i rapporten:",
+    "a. Innarbeide en rutine der kommunestyret får framlagt soknet sitt regnskap og revisors beretning som en referatsak når dette foreligger.",
+    "b. Være tydelig på hva som bevilges beløpsmessig i vedtak og i tildelingsbrev som sendes til soknet.",
+    "c. Sette klare betingelser for bruken i både vedtak og tildelingsbrev, i tilfeller der kommunestyret har dette.",
+    "d. Vurdere om det er hensiktsmessig å tilby soknet at kommunen yter tjenester og gjennomfører investeringsprosjekt i stedet for å gi tilskudd til dette.",
+    "3. Kommunestyret ber kommunedirektøren om gi kontrollutvalget skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 01.11.2025.",
+    "4. Kommunestyret forholder seg til kommunedirektørens oversikt over vedtatte investeringsmidlet i vedlagte oversikt."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jann O. Krangnes (R) på vegne av flertallsgruppa",
+      "tekst": "Kommunestyret vedtar innstillingen bortsett fra punkt 2 b, som strykes i innstillingen."
+    },
+    {
+      "forslagsstiller": "Ordfører John Lernes (H)",
+      "tekst": "Kommunestyret forholder seg til kommunedirektørens oversikt over vedtatte investeringsmidlet i vedlagte oversikt (nytt punkt 4)."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Jann O. Krangnes (R) på vegne av flertallsgruppa om å vedta innstillingen bortsett fra punkt 2 b som strykes.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fra ordfører John Lernes (H) om nytt punkt 4 i innstillingen.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    },
+    {
+      "beskrivelse": "Votering over innstillingen med overnevnte endringer.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 20/25",
+  "rodt_fremmet_forslag": true
+}

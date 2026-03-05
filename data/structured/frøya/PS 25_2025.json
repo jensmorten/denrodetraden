@@ -1,0 +1,85 @@
+{
+  "tittel": "Depositum i kommunale utleieboliger",
+  "innstilling": [
+    "Frøya kommune innfører depositum for kommunale utleieboliger med tre ganger husleie. jfr Husleielovens § 3-5 med virkning fra 01.01.2025.",
+    "Det innføres ikke depositum for tidsubestemte leieavtaler."
+  ],
+  "vedtak": [
+    {
+      "organ": "Hovedutvalg for samfunn",
+      "dato": "21.01.2025",
+      "tekst": [
+        "Frøya kommune innfører depositum for kommunale utleieboliger med tre ganger husleie .jfr Husleielovens § 3-5 med virkning fra kommunestyrets vedtak.",
+        "Det innføres ikke depositum for tidsubestemte leieavtaler.",
+        "Saken sende FEB til høring før den behandles i kommunestyret"
+      ],
+      "votering": {
+        "beskrivelse": "Vedtak i Hovedutvalg for samfunn",
+        "alternativer": [
+          {
+            "navn": "For",
+            "stemmer": "Enstemmig"
+          }
+        ],
+        "vinner": "For",
+        "roedt_stoette": "For",
+        "roedt_side": "vinner"
+      }
+    },
+    {
+      "organ": "Kommunestyret",
+      "dato": "13.03.2025",
+      "tekst": [
+        "Saken utsettes til det har vært på høring i FEB"
+      ],
+      "votering": {
+        "beskrivelse": "Vedtak i kommunestyret om utsettelse",
+        "alternativer": [
+          {
+            "navn": "For utsettelse",
+            "stemmer": "Enstemmig"
+          }
+        ],
+        "vinner": "For utsettelse",
+        "roedt_stoette": "For utsettelse",
+        "roedt_side": "vinner"
+      }
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kristin Furunes Strømskag",
+      "tekst": "Saken utsettes til det har vært på høring i FEB"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i Hovedutvalg for samfunn",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Vedtak i kommunestyret om utsettelse",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For utsettelse",
+      "roedt_stoette": "For utsettelse",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 25/2025",
+  "rodt_fremmet_forslag": false
+}

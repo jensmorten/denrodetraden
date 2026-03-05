@@ -1,0 +1,45 @@
+{
+  "tittel": "PS 167/2025 Hamarvik vannverk - videre prosess",
+  "innstilling": null,
+  "vedtak": [
+    "Forhandlingsutvalget viderefører forhandlingene med Hamarvik vannverk",
+    "Forhandlingsresultatet legges frem til politisk behandling i ett kommende kommunestyremøte",
+    "Kommunestyret ber om en redegjørelse fra forhandlingsutvalget i kommunestyremøte i februar 2026"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "INP",
+      "tekst": "Kommunestyret ber om en redegjørelse fra forhandlingsutvalget i kommunestyremøte i februar 2026"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for representant Arvid Hammernes",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av sak 167/2025 inkl. nytt punkt 3 fra INP",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "15.12.2025",
+  "saksnummer_ps": "PS 167/2025",
+  "rodt_fremmet_forslag": false
+}

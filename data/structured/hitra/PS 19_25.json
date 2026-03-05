@@ -1,0 +1,41 @@
+{
+  "tittel": "Merknadsbehandling og egengodkjenning - Ruspolitisk handlingsplan 2025-2028",
+  "innstilling": "Hitra kommunestyre vedtar ruspolitisk handlingsplan 2025-2028 som fremlagt.",
+  "vedtak": "Hitra kommunestyre vedtar ruspolitisk handlingsplan 2025-2028 som fremlagt med følgende tillegg:\n• Det skal etableres konstruktiv dialog mellom kommune, avgangselever og politi.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rutt Janne S. Lystad (Ap)",
+      "tekst": "Det skal etableres konstruktiv dialog mellom kommune, avgangselever og politi."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggspunkt fra Arbeiderpartiet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 19/25",
+  "rodt_fremmet_forslag": false
+}

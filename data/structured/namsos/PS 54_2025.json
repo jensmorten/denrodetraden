@@ -1,0 +1,81 @@
+{
+  "tittel": "Rekruttering av kommunedirektør",
+  "innstilling": {
+    "tekst": "Ordførerens forslag til vedtak\n1.Kommunestyre vedtar å nedsette et rekrutteringsutvalg for ny kommunedirektør i Namsos kommune.\nUtvalget får følgende sammensetning:\n• Amund Sjue Lein\n• Steinar Lyngstad\n• Trine Fagerhaug\n• To politikere fra kommunestyret (velges særskilt)\n• Arbeidstakerorganisasjonene kan oppnevne inntil to representanter med møte- og talerett.\n2.Rekrutteringsutvalget delegeres myndighet til å utarbeide forslag til rekrutteringsprosess, gjennomføre prosessen og innstille til formannskapet på forslag til ny kommunedirektør.\n3.Kostnadene med prosessen finansieres innenfor vedtatt budsjett til politisk virksomhet.",
+    "stemmer": 33,
+    "for": [
+      "Arnhild Holstad (AP)",
+      "Frode Båtnes (AP)",
+      "Hans Haugum (AP)",
+      "Marit Haukø (AP)",
+      "Nils Jørgen Jørgensen (AP)",
+      "Svein Storø (AP)",
+      "Tor Erik Bjerkestrand (AP)",
+      "Trine Fagerhaug (AP)",
+      "Venke Heimdal (AP)",
+      "Anita Volden (Frp)",
+      "Stein Tore Wolff (Frp)",
+      "Arnt Skillingstad Rørvik (H)",
+      "Christina Kvernland (H)",
+      "Henrik Aleksander Devik (H)",
+      "Håkon Aglen Fredriksen (H)",
+      "Joar Olav Grøtting (H)",
+      "Kåre Jarle Devik (H)",
+      "Mari Kristine Storhaug Brattgjerd (H)",
+      "Mathis Heibert (H)",
+      "Nils Sigurd Klykken (H)",
+      "Conrad Henriksen (INP)",
+      "Per Olav Mork (KrF)",
+      "Bjørn Dag Derås (SP)",
+      "Bjørnar Schei (SP)",
+      "Kristine Altin (SP)",
+      "Randi Dille (SP)",
+      "Sissel Stormo Holtan (SP)",
+      "Steinar Lyngstad (SP)",
+      "Geir Strøm Aalberg (SV)",
+      "Hilde Guddingsmo (SV)",
+      "Margreet Sloot (SV)",
+      "Geir Olav Knappe (V)",
+      "Gro Olden Jørgensen (V)"
+    ]
+  },
+  "vedtak": {
+    "tekst": "1.Kommunestyre vedtar å nedsette et rekrutteringsutvalg for ny kommunedirektør i Namsos kommune.\nUtvalget får følgende sammensetning:\n• Amund Sjue Lein\n• Steinar Lyngstad\n• Trine Fagerhaug\n• Geir Aalberg\n• Gro Olden Jørgensen\n• Arbeidstakerorganisasjonene kan oppnevne inntil to representanter med møte- og talerett.\n2.Rekrutteringsutvalget delegeres myndighet til å utarbeide forslag til rekrutteringsprosess, gjennomføre prosessen og innstille til formannskapet på forslag til ny kommunedirektør.\n3.Kostnadene med prosessen finansieres innenfor vedtatt budsjett til politisk virksomhet."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Nils Sigurd Klykken (Høyre)",
+      "tekst": "Til Politiske representanter fra kommunestyret, forslås følgende personer til å delta i arbeidet:\nGeir Aalberg\nGro Olden Jørgensen"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Nils Sigurd Klykken (Høyre) om politiske representanter til rekrutteringsutvalget",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over ordførerens innstilling til vedtak om nedsetting av rekrutteringsutvalg for ny kommunedirektør",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "PS 54/2025",
+  "rodt_fremmet_forslag": false
+}

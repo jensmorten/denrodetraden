@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 38/2025 Referatsaker",
+  "innstilling": null,
+  "vedtak": "Referatene tas til orientering",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om at referatene tas til orientering",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 38/2025",
+  "rodt_fremmet_forslag": false
+}

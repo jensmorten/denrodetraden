@@ -1,0 +1,41 @@
+{
+  "tittel": "Nyvalg - medlem til utvalg helse og omsorg 2023-2027",
+  "innstilling": "Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne _________ som nytt medlem av utvalg helse og omsorg. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.",
+  "vedtak": "Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Heidi Kristine Fugelsøy (Ap) som nytt medlem av utvalg helse og omsorg. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ingrid Kathrine Schanche (Sp)",
+      "tekst": "Heidi Kristine Fugelsøy (Ap) som nytt medlem av utvalg helse og omsorg."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet om oppnevning av Heidi Kristine Fugelsøy (Ap) som nytt medlem av utvalg helse og omsorg.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Ingrid Kathrine Schanche (Sp) om oppnevning av Heidi Kristine Fugelsøy (Ap) som nytt medlem av utvalg helse og omsorg.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 89/25",
+  "rodt_fremmet_forslag": false
+}

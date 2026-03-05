@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av ny meddommer til Tingretten",
+  "innstilling": null,
+  "vedtak": "Emil Krokan f. 28.03.1992 velges som ny meddommer til Tingretten for perioden 2025 -2028.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av ny meddommer til Tingretten",
+      "alternativer": [
+        {
+          "navn": "Emil Krokan",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Emil Krokan",
+      "roedt_stoettet": "Emil Krokan",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "14.08.2025",
+  "saksnummer_ps": "PS 98/2025",
+  "rodt_fremmet_forslag": false
+}

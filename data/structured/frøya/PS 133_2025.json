@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av protokoll fra møtet 02.10.25",
+  "innstilling": null,
+  "vedtak": "Godkjenning av protokoll fra møtet 02.10.25 godkjennes som fremlagt",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av protokoll fra møtet 02.10.25",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "13.11.2025",
+  "saksnummer_ps": "PS 133/2025",
+  "rodt_fremmet_forslag": false
+}

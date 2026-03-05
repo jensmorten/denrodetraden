@@ -1,0 +1,33 @@
+{
+  "tittel": "Områderegulering Sævik - veien videre",
+  "innstilling": "Kommunedirektøren anbefaler kommunestyret å avslutte arbeidet med områderegulering for Sævik. Kommunestyret ber kommunedirektøren vurdere ulike alternativer og midler avsatt til områderegulering for Sævik benyttes til å fortsette arbeidet med å finne nye nærings- og industriarealer.",
+  "vedtak": "Kommunestyret vedtar å avslutte arbeidet med områderegulering for Sævik. Kommunestyret ber kommunedirektøren vurdere ulike alternativer og midler avsatt til områderegulering for Sævik benyttes til å fortsette arbeidet med å finne nye nærings- og industriarealer.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Nils Sigurd Klykken (Høyre)",
+      "tekst": "Kommunestyret vedtar å avslutte arbeidet med områderegulering for Sævik. Kommunestyret ber kommunedirektøren vurdere ulike alternativer og midler avsatt til områderegulering for Sævik benyttes til å fortsette arbeidet med å finne nye nærings- og industriarealer."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming mellom formannskapets innstilling og Nils Sigurd Klykkens endringsforslag om avslutning av arbeidet med områderegulering for Sævik.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 0
+        },
+        {
+          "navn": "Nils Sigurd Klykkens forslag",
+          "stemmer": 32
+        }
+      ],
+      "hvem_vant": "Nils Sigurd Klykkens forslag",
+      "roedt_stoettet": "Nils Sigurd Klykkens forslag",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "26.02.2026",
+  "saksnummer_ps": "PS 7/2026",
+  "rodt_fremmet_forslag": false
+}

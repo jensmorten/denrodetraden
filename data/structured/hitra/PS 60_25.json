@@ -1,0 +1,100 @@
+{
+  "tittel": "Ny søknad om investeringstilskudd i 2025 og dekning av tidligere merforbruk fra Hitra kirkelige fellesråd",
+  "innstilling": {
+    "1": "Hitra kommunestyre bevilger kr 4.397.000 i investeringstilskudd til Hitra kirkelig fellesråd i 2025.",
+    "1a": "Av dette er: kr 2.200.000 for gjennomføring av beskrevne tiltak i mottatt søknad og kr 2.197.000 for kompensasjon av tidligere merforbruk",
+    "2": "Hitra kommunestyre forventer at Hitra kirkelige fellesråd sikrer nødvendig budsjettoppfølging i investeringsprosjekter, og holder investeringene på kirkebygg og kirkegårder innenfor de rammer som kommunestyret til enhver tid har bevilget.",
+    "3": "Kirkelig fellesråd skal jevnlig rapportere om status og framdrift i investeringsprosjektene til Hitra kommune. Rapporteringen oversendes kommunedirektøren for hvert tertial. Rapporteringen forelegges kommunestyret samtidig med behandlingen av kommunens tertialrapporter."
+  },
+  "vedtak": {
+    "1": "Hitra kommunestyre bevilger kr 2.200.000 i investeringstilskudd til Hitra kirkelig fellesråd i 2025.",
+    "1a": "Av dette er: kr 2.200.000 for gjennomføring av beskrevne tiltak i mottatt søknad. Midlene finansieres med låneopptak.",
+    "2": "Hitra kommunestyre forventer at Hitra kirkelige fellesråd sikrer nødvendig budsjettoppfølging i investeringsprosjekter, og holder investeringene på kirkebygg og kirkegårder innenfor de rammer som kommunestyret til enhver tid har bevilget.",
+    "3": "Kirkelig fellesråd skal jevnlig rapportere om status og framdrift i investeringsprosjektene til Hitra kommune. Rapporteringen oversendes kommunedirektøren for hvert tertial. Rapporteringen forelegges kommunestyret samtidig med behandlingen av kommunens tertialrapporter.",
+    "4": "Investeringsmidlene utbetales fra Hitra kommune til Hitra kirkelige fellesråd i henhold til etablert praksis. Det vil si når investeringsprosjektene faktisk gjennomføres."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Terje Herfjord (PP)",
+      "tekst": "Utsettelsesforslag om å utsette behandlingen av saken."
+    },
+    {
+      "forslagsstiller": "Jann O. Krangnes (R)",
+      "tekst": "Forslag om å stryke kulepunktet: 'kr 2.197.000 for kompensasjon av tidligere merforbruk.'"
+    },
+    {
+      "forslagsstiller": "Ordfører John Lernes (AP)",
+      "tekst": "Forslag til nytt punkt 4: Investeringsmidlene utbetales fra Hitra kommune til Hitra kirkelige fellesråd i henhold til etablert praksis. Det vil si når investeringsprosjektene faktisk gjennomføres."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslaget fremmet av Terje Herfjord (PP).",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 2
+        },
+        {
+          "navn": "Imot utsettelsesforslaget",
+          "stemmer": 22
+        }
+      ],
+      "hvem_vant": "Imot utsettelsesforslaget",
+      "roedt_stoettet": "Imot utsettelsesforslaget",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslaget fra Jann O. Krangnes (R) om å stryke kulepunktet om kompensasjon av tidligere merforbruk.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslaget fra ordfører John Lernes (AP) om nytt punkt 4 om utbetaling av investeringsmidler.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "Imot forslaget",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen med vedtatte endringer i formannskapet.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen i kommunestyret etter avvisning av utsettelsesforslaget.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "PS 60/25",
+  "rodt_fremmet_forslag": true
+}

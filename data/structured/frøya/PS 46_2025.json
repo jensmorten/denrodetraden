@@ -1,0 +1,24 @@
+{
+  "tittel": "Opprettelse av ny fastlegehjemmel",
+  "innstilling": null,
+  "vedtak": "Kommunestyret vedtar å opprette en ny fastlegehjemmel i Frøya kommune med kapasitet på 1000 listepasienter. Hjemmelen kan organiseres enten som kommunalt ansatt fastlege eller som privatpraktiserende lege.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om opprettelse av ny fastlegehjemmel",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 46/2025",
+  "rodt_fremmet_forslag": false
+}

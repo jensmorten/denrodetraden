@@ -1,0 +1,92 @@
+{
+  "tittel": "Klagebehandling - Søknad om konsesjon på eiendommene gnr 207, bnr 5, 6, 9 og gnr 208, bnr 1.",
+  "innstilling": [
+    "Hitra kommunestyre imøtekommer ikke klage på avslag i delegert vedtak i sak 154/25D - søknad om konsesjon på eiendommene gnr 207, bnr 5, 6, 9 og gnr 208, bnr 1.",
+    "Klagen tilfører ikke saken nye momenter som ikke lå til grunn for vedtaket av konsesjonssøknaden.",
+    "Søknad om utsatt boplikt på 5 år, må søkes særskilt i ny konsesjonssøknad.",
+    "Vedtaket gjøres i medhold av forvaltningsloven §33.",
+    "Saken oversendes Statsforvalteren i Trøndelag for endelig avgjørelse, jf. konsesjonsloven §2."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre imøtekommer ikke klage på avslag i delegert vedtak i sak 154/25D - søknad om konsesjon på eiendommene gnr 207, bnr 5, 6, 9 og gnr 208, bnr 1.",
+    "Klagen tilfører ikke saken nye momenter som ikke lå til grunn for vedtaket av konsesjonssøknaden.",
+    "Søknad om utsatt boplikt på 5 år, må søkes særskilt i ny konsesjonssøknad.",
+    "Vedtaket gjøres i medhold av forvaltningsloven §33."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kommunedirektør",
+      "tekst": "Innstilling med nytt punkt lagt inn som punkt 3: 1. Hitra kommunestyre imøtekommer ikke klage på avslag i delegert vedtak i sak 154/25D - søknad om konsesjon på eiendommene gnr 207, bnr 5, 6, 9 og gnr 208, bnr 1. 2. Klagen tilfører ikke saken nye momenter som ikke lå til grunn for vedtaket av konsesjonssøknaden. 3. Søknad om utsatt boplikt på 5 år, må søkes særskilt i ny konsesjonssøknad. 4. Vedtaket gjøres i medhold av forvaltningsloven §33. 5. Saken oversendes Statsforvalteren i Trøndelag for endelig avgjørelse, jf. konsesjonsloven §2."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om å erklære ordfører John Lernes (Ap) inhabil i saken.",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 24
+        },
+        {
+          "navn": "Ikke inhabil",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak om å stryke punkt 5 i innstillingen fra teknisk utvalg - plan, landbruk og miljø.",
+      "alternativer": [
+        {
+          "navn": "Stryke punkt 5",
+          "stemmer": 25
+        },
+        {
+          "navn": "Beholde punkt 5",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Stryke punkt 5",
+      "roedt_stoettet": "Stryke punkt 5",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak om innstillingen fra teknisk utvalg - plan, landbruk og miljø med endring (uten punkt 5).",
+      "alternativer": [
+        {
+          "navn": "Vedta innstilling med endring",
+          "stemmer": 25
+        },
+        {
+          "navn": "Avvise innstilling",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Vedta innstilling med endring",
+      "roedt_stoettet": "Vedta innstilling med endring",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak i teknisk utvalg - plan, landbruk og miljø om innstilling med nytt punkt 3 og oversendelse til Statsforvalteren.",
+      "alternativer": [
+        {
+          "navn": "Vedta innstilling med nytt punkt 3 og oversendelse",
+          "stemmer": 6
+        },
+        {
+          "navn": "Avvise innstilling",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Vedta innstilling med nytt punkt 3 og oversendelse",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 82/25",
+  "rodt_fremmet_forslag": false
+}

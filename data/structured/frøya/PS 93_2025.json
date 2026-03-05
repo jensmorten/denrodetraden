@@ -1,0 +1,54 @@
+{
+  "tittel": "Frøyapakken – revidering",
+  "innstilling": "Kommunedirektørens forslag til revidering av Frøyapakken",
+  "vedtak": [
+    "Kommunestyret støtter kommunedirektørens forslag til revidering av Frøyapakken.",
+    "Endringene trer i kraft med virkning fra 1. januar 2026, og gis ikke tilbakevirkende kraft.",
+    "Tidligere vedtak i KST sak 192/22 og ASU sak 15/22 oppheves.",
+    "Kostnadene knyttet til den reviderte Frøyapakken skal innarbeides i kommunens budsjett og handlingsplan for perioden 2026–2029."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mindretallet (Borgerlig gruppe)",
+      "tekst": "Kommunestyret støtter kommunedirektørens forslag til revidering av Frøyapakken med følgende endring: Signeringsbonusen tas ut. Midlene brukes til tiltak som bidrar til å beholde ansatte og til tiltak for sosial integrering for å styrke nyansattes tilknytning. Rammen reduseres i tråd med forslag, og total ramme settes til 1,5 millioner kroner."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens forslag til revidering av Frøyapakken",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Imot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over nytt forslag fra mindretallet (Borgerlig gruppe)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 13
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoette": "Imot",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "14.08.2025",
+  "saksnummer_ps": "PS 93/2025",
+  "rodt_fremmet_forslag": false
+}

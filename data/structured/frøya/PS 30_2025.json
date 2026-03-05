@@ -1,0 +1,36 @@
+{
+  "tittel": "Ny selskapsavtale ReMidt IKS - 2025",
+  "innstilling": "Revidert selskapsavtale for ReMidt IKS, datert 18.11.2024 vedtas",
+  "vedtak": "Revidert selskapsavtale for ReMidt IKS, datert 18.11.2024 vedtas",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Formannskapets behandling av sak 13/2025 i møte den 04.02.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunestyrets behandling av sak 30/2025 i møte den 13.03.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 30/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 42/2025 Konstituering av kommunedirektør",
+  "innstilling": "Kommunestyre konstituerer Rønnaug Aaring som kommunedirektør.",
+  "vedtak": "Kommunestyre konstituerer Rønnaug Aaring som kommunedirektør.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forhandlingsutvalgets innstilling om konstituering av Rønnaug Aaring som kommunedirektør.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 32
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoette": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "27.06.2025",
+  "saksnummer_ps": "PS 42/25",
+  "rodt_fremmet_forslag": false
+}

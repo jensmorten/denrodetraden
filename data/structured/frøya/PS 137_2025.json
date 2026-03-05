@@ -1,0 +1,29 @@
+{
+  "tittel": "Møteplan for hele 2026",
+  "innstilling": null,
+  "vedtak": "Møteplan for 2026 med angitte møtedatoer og tidspunkt for Kommunestyret, Formannskapet, Hovedutvalg for samfunn, Trafikksikkerhetsutvalget, Frøya eldre- og brukerråd, Hovedutvalg for levekår, Frøya ungdomsråd og Kontrollutvalget. Møtene er plassert for best mulig saksflyt, med mulighet for avlysning ved få saker, og justering av møtestart ved spesielle tema. Ingen møter i juli pga sommerferie.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Aleksander Søreng",
+      "tekst": "Tilleggspunkt fra Hovedutvalg for samfunn strykes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag til endring i vedtak fremmet av Aleksander Søreng",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "13.11.2025",
+  "saksnummer_ps": "PS 137/2025",
+  "rodt_fremmet_forslag": false
+}

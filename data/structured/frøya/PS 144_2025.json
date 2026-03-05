@@ -1,0 +1,32 @@
+{
+  "tittel": "Sluttregnskap - P 551495, Bygging av omsorgsboliger Heia 2",
+  "innstilling": null,
+  "vedtak": [
+    "Kommunestyret vedtar sluttregnskap for prosjekt 551495- Heia 2 omsorgsboliger som fremlagt med en totalkostnad på kr 28 871 338,- inklusiv mva.",
+    "Ubrukte midler avsettes til utbedring av Mellomveien i henhold til ny omregulering."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Borgerlig gruppe",
+      "tekst": "Nytt punkt 2. Ubrukte midler avsettes til utbedring av Mellomveien i henhold til ny omregulering."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Borgerlig gruppe om nytt punkt 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "13.11.2025",
+  "saksnummer_ps": "PS 144/2025",
+  "rodt_fremmet_forslag": false
+}

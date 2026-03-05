@@ -1,0 +1,24 @@
+{
+  "tittel": "Tid og sted for stemmegivning - Stortings- og sametingsvalget 2025",
+  "innstilling": "Valgstyret vedtar følgende valglokaler og åpningstider for stortings- og sametingsvalget 2025:\nSøndag 7. september 2025 kl 15.00 -18.00:\n•Sistranda Krets: Kommunestyresalen, Frøya herredshus\n•Øyrekka stemmekrets: Mausund oppvekstsenter\nMandag 8. september 2025, kl. 11.00 – 18.00:\n•Øyrekka stemmekrets: Mausund oppvekstsenter\nMandag 8. september 2025, kl. 10.00 – 20.00:\n•Nordskag krets: Nordskag oppvekstsenter\n•Nabeita krets: Nabeita skole\n•Sistranda krets: Kommunestyresalen, Frøya herredshus\n•Dyrøy krets: Dyrøy oppvekstsenter\nNesset og Klubben valgkrets legges ned.",
+  "vedtak": "Valgstyret vedtar følgende valglokaler og åpningstider for stortings- og sametingsvalget 2025:\nSøndag 7. september 2025 kl 15.00 -18.00:\nSistranda Krets: Kommunestyresalen, Frøya herredshus\nØyrekka stemmekrets: Mausund oppvekstsenter\nMandag 8. september 2025, kl. 11.00 – 18.00:\nØyrekka stemmekrets: Mausund oppvekstsenter\nMandag 8. september 2025, kl. 10.00 – 20.00:\nNordskag krets: Nordskag oppvekstsenter\nNabeita krets: Nabeita skole\nSistranda krets: Kommunestyresalen, Frøya herredshus\nDyrøy krets: Dyrøy oppvekstsenter\nNesset og Klubben valgkrets legges ned.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om valglokaler og åpningstider for stortings- og sametingsvalget 2025 i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stottet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 29/2025",
+  "rodt_fremmet_forslag": false
+}

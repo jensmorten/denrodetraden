@@ -1,0 +1,44 @@
+{
+  "tittel": "Vertskommuneavtale for legevakten i Orkdalsregionen",
+  "innstilling": [
+    "Hitra Kommunestyre slutter seg til den framlagte vertskommuneavtalen mellom Orkland kommune (vertskommune) og kommunene i Orklandsregionen om drift av legevakt.",
+    "Utgiftene innarbeides i handlings og økonomiplan (HØP).",
+    "Avtalen trer i kraft 01.01.2026, forutsatt aksept fra alle kommunene i samarbeidet."
+  ],
+  "vedtak": [
+    "Hitra Kommunestyre slutter seg til den framlagte vertskommuneavtalen mellom Orkland kommune (vertskommune) og kommunene i Orklandsregionen om drift av legevakt.",
+    "Utgiftene innarbeides i handlings og økonomiplan (HØP).",
+    "Avtalen trer i kraft 01.01.2026, forutsatt aksept fra alle kommunene i samarbeidet."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstilling fra utvalg helse og omsorg i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Behandling av innstilling i Utvalg for Helse og Omsorg",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.10.2025",
+  "saksnummer_ps": "PS 70/25",
+  "rodt_fremmet_forslag": false
+}

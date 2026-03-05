@@ -1,0 +1,45 @@
+{
+  "tittel": "PS 57/2025 Temaplan for landbruk 2026-2031",
+  "innstilling": "Vedtak i formannskapet som innstilling til kommunestyret: Temaplan for landbruk 2026-2031 vedtas som fremlagt. Under 3.1.1 • Legge til rette for opprusting og nybygging av skogsbilveger.",
+  "vedtak": "Vedtak i kommunestyret: Temaplan for landbruk 2026-2031 vedtas som fremlagt. Under 3.1.1 • Legge til rette for opprusting og nybygging av skogsbilveger.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Margreet Sloot (Sosialistisk Venstreparti)",
+      "tekst": "Ved bygging av nye skogsbilveier må hensynet til tap av natur og negative konsekvenser for klimagass utslipp, ivaretas."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Margreet Sloot (SV) om hensyn til tap av natur og klimagassutslipp ved bygging av nye skogsbilveier.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over innstilling om Temaplan for landbruk 2026-2031 med tiltak om opprusting og nybygging av skogsbilveger.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "23.10.2025",
+  "saksnummer_ps": "PS 57/25",
+  "rodt_fremmet_forslag": false
+}

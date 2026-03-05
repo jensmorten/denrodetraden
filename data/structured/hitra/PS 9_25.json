@@ -1,0 +1,41 @@
+{
+  "tittel": "Nyvalg av varamedlem til utvalg oppvekst for valgperioden 2023-2027",
+  "innstilling": "Med hjemmel i kommuneloven § 7-10 vedtar Hitra kommunestyre følgende:\n•_________ blir nytt varamedlem nummer 1 av utvalg oppvekst for valgperioden 2023-2027.",
+  "vedtak": "Med hjemmel i kommuneloven § 7-10 vedtar Hitra kommunestyre følgende:\n• Monica Wang Olsen (AP) blir nytt varamedlem nummer 1 for gruppen AP, R, SV og SP i utvalg oppvekst for valgperioden 2023-2027.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører John Lernes (AP)",
+      "tekst": "Monica Wang Olsen (AP) som ny vararepresentant nr. 1 for gruppen AP, R, SV og SP i utvalg oppvekst for valgperioden 2023-2027."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling fra formannskapet om valg av nytt varamedlem nr. 1 for gruppen AP, R, SV og SP i utvalg oppvekst.",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fra ordfører John Lernes (AP) om Monica Wang Olsen som nytt varamedlem nr. 1 for gruppen AP, R, SV og SP i utvalg oppvekst.",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 9/25",
+  "rodt_fremmet_forslag": false
+}

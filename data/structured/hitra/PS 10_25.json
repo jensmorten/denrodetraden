@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg 2025 - Stortings- og sametingsvalg - To valgtingsdager og stemmekretser",
+  "innstilling": "Hitra kommunestyre vedtar i henhold til valgloven § 9-1, fjerde ledd, at det skal avholdes valgting søndag 7. september ved valglokalet for Fillan stemmekrets. Kommunestyret vedtar å videreføre eksisterende stemmekretser: Akset/Kvammen/Strand, Helsøysund, Asmundvåg/Hopsjø, Dolmøy/Barman, Fjellværsøy/Knarrlagsund, Ansnes/Fillan, Sundlandet.",
+  "vedtak": "Hitra kommunestyre vedtar i henhold til valgloven § 9-1, fjerde ledd, at det skal avholdes valgting søndag 7. september ved valglokalet for Fillan stemmekrets. Kommunestyret vedtar å videreføre eksisterende stemmekretser: Akset/Kvammen/Strand, Helsøysund, Asmundvåg/Hopsjø, Dolmøy/Barman, Fjellværsøy/Knarrlagsund, Ansnes/Fillan, Sundlandet.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra valgstyret",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 10/25",
+  "rodt_fremmet_forslag": false
+}

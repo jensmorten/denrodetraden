@@ -1,0 +1,81 @@
+{
+  "tittel": "Reiselivsstrategi Frøya Kommune",
+  "innstilling": [
+    "Reiselivsstrategien godkjennes som strategi for satsingen på reiselivet.",
+    "Strategien skal være et levende dokument som kan justeres ved behov.",
+    "Strategien benyttes tverrfaglig og blir lagt inn i overordnet kommunedelplan."
+  ],
+  "vedtak": [
+    {
+      "organ": "Hovedutvalg for levekår",
+      "sak": "10/2025",
+      "dato": "13.02.2025",
+      "vedtakstekst": [
+        "Reiselivsstrategien godkjennes som strategi for satsingen på reiselivet.",
+        "Strategien skal være et levende dokument som kan justeres ved behov.",
+        "Strategien benyttes tverrfaglig og blir lagt inn i overordnet kommunedelplan."
+      ],
+      "votering": {
+        "beskrivelse": "Vedtak i Hovedutvalg for levekår",
+        "alternativer": [
+          {
+            "navn": "For",
+            "stemmer": "Enstemmig"
+          }
+        ],
+        "vinner": "For",
+        "roedt_stoette": "For",
+        "roedt_side": "Vinner"
+      }
+    },
+    {
+      "organ": "Formannskapet",
+      "sak": "29/2025",
+      "dato": "25.02.2025",
+      "vedtakstekst": [
+        "Reiselivsstrategien godkjennes som strategi for satsingen på reiselivet.",
+        "Strategien skal være et levende dokument som kan justeres ved behov.",
+        "Strategien benyttes tverrfaglig og blir lagt inn i overordnet kommunedelplan."
+      ],
+      "votering": {
+        "beskrivelse": "Vedtak i Formannskapet",
+        "alternativer": [
+          {
+            "navn": "For",
+            "stemmer": "Enstemmig"
+          }
+        ],
+        "vinner": "For",
+        "roedt_stoette": "For",
+        "roedt_side": "Vinner"
+      }
+    },
+    {
+      "organ": "Kommunestyret",
+      "sak": "23/2025",
+      "dato": "13.03.2025",
+      "vedtakstekst": [
+        "Reiselivsstrategien godkjennes som strategi for satsingen på reiselivet.",
+        "Strategien skal være et levende dokument som kan justeres ved behov.",
+        "Strategien benyttes tverrfaglig og blir lagt inn i overordnet kommunedelplan."
+      ],
+      "votering": {
+        "beskrivelse": "Vedtak i Kommunestyret",
+        "alternativer": [
+          {
+            "navn": "For",
+            "stemmer": "Enstemmig"
+          }
+        ],
+        "vinner": "For",
+        "roedt_stoette": "For",
+        "roedt_side": "Vinner"
+      }
+    }
+  ],
+  "alternative_forslag": [],
+  "kommune": "frøya",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 23/2025",
+  "rodt_fremmet_forslag": false
+}

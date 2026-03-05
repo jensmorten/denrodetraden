@@ -1,0 +1,59 @@
+{
+  "tittel": "Salg av kommunale skogeiendommer",
+  "innstilling": [
+    "Skavika kan selges med minstepris på 572.100kr etter at man har sikret forsvarets interesser gjennom en tinglyst heftelse, før eventuelt salg.",
+    "Kjølsøya kan selges med minstepris 640.000kr.",
+    "Ekorndalen selges ikke. Kommunedirektør bes gå i dialog med Staten med tanke på å gjennomføre et frivillig vern av eiendommen. Kommunedirektør holder Formannskapet orientert underveis i prosessen.",
+    "Ramsvika kan selges etter at område avsatt til bolig i kommuneplanens arealdel er fradelt. Minstepris 1.708.334.",
+    "Salstranda kan selges med minstepris 4.585.100.",
+    "Kjelbotnet selges ikke."
+  ],
+  "vedtak": [
+    "Skavika kan selges med minstepris på 572.100kr etter at man har sikret forsvarets interesser gjennom en tinglyst heftelse, før eventuelt salg.",
+    "Kjølsøya kan selges med minstepris 640.000kr.",
+    "Ekorndalen selges ikke. Kommunedirektør bes gå i dialog med Staten med tanke på å gjennomføre et frivillig vern av eiendommen. Kommunedirektør holder Formannskapet orientert underveis i prosessen. Vernes under forutsetning av at grustak unntas.",
+    "Ramsvika kan selges etter at område avsatt til bolig i kommuneplanens arealdel er fradelt. Minstepris 1.708.334.",
+    "Salstranda kan selges med minstepris 4.585.100.",
+    "Kjelbotnet selges ikke."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Randi Dille (Senterpartiet)",
+      "tekst": "Tillegg til pkt. 3. Vernes under forutsetning av at grustak unntas."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling til kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Imot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag til pkt. 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 28/2025",
+  "rodt_fremmet_forslag": false
+}

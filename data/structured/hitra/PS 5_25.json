@@ -1,0 +1,81 @@
+{
+  "tittel": "Undersøkelse av bevilgninger gitt til kirkelig fellesråd",
+  "innstilling": {
+    "1": "Kommunestyret bevilger inntil kr. 150.000,- til en undersøkelse av bevilgninger til drift og prosjekter gitt til kirkelig fellesråd for årene 2021-2024. Kommunestyret ber om innsyn i regnskapene til kirkelig fellesråd.",
+    "2": {
+      "a": "Hvilke rutiner har Hitra kirkelig fellesråd når det gjelder regnskapsføring?",
+      "b": "Hvordan er tildelte midler brukt jf. kommunestyrets vedtak om tildeling?",
+      "c": "Er skillet mellom drift og investering fulgt etter lov og forskrift?",
+      "d": "Revisjonsrapport for 2024 oversendelse kommunestyrets medlemmer."
+    },
+    "3": "Kommunestyret ber kontrollutvalget om å bestille undersøkelsen av Revisjon Midt-Norge SA snarest, slik at ferdig rapport kan behandles på kontrollutvalgets møte 3. mars og på kommunestyrets mote 13. mars 2025.",
+    "4": "Det forventes at ordinær revisjon gjennomføres i henhold til avtale."
+  },
+  "vedtak": {
+    "1": "Kommunestyret bevilger inntil kr. 150.000,- til en undersøkelse av bevilgninger til drift og prosjekter gitt til kirkelig fellesråd for årene 2021-2024. Kommunestyret ber om innsyn i regnskapene til kirkelig fellesråd.",
+    "2": {
+      "a": "Hvilke rutiner har Hitra kirkelig fellesråd når det gjelder regnskapsføring?",
+      "b": "Hvordan er tildelte midler brukt jf. kommunestyrets vedtak om tildeling?",
+      "c": "Er skillet mellom drift og investering fulgt etter lov og forskrift?",
+      "d": "Revisjonsrapport for 2024 oversendelse kommunestyrets medlemmer."
+    },
+    "3": "Kommunestyret ber kontrollutvalget om å bestille undersøkelsen av Revisjon Midt-Norge SA snarest, slik at ferdig rapport kan behandles på kontrollutvalgets møte 3. mars og på kommunestyrets mote 13. mars 2025.",
+    "4": "Det forventes at ordinær revisjon gjennomføres i henhold til avtale."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Geir Samdahl (FrP, H, Pp)",
+      "tekst": "Kommunestyret bevilger inntil kr. 100 000,- til en undersøkelse av bevilgninger til drift og prosjekter gitt til Hitra Kirkelige fellesråd for årene 2023 og 2024. Kommunestyret ber om innsyn i regnskapet til Hitra Kirkelige Fellesråd."
+    },
+    {
+      "forslagsstiller": "Bjørn Jensen (Ap)",
+      "tekst": "Endring i punkt 2.a: 'Hvilke rutiner har Hitra Kirkelige Fellesråd når det gjelder regnskapsføring for kirkelig fellesråd?'"
+    },
+    {
+      "forslagsstiller": "Dag Willmann (H) på vegne av H, FrP og Pp",
+      "tekst": "Forslag om å avvise hele saken."
+    },
+    {
+      "forslagsstiller": "Bjørn Jensen (Ap) på vegne av AP, R, SP og Sv",
+      "tekst": "1. Kommunestyret bevilger inntil kr. 150.000,- til en undersøkelse av bevilgninger til drift og prosjekter gitt til kirkelig fellesråd for årene 2021-2024. Kommunestyret ber om innsyn i regnskapene til kirkelig fellesråd.\n2. Kommunestyret ønsker svar på følgende spørsmål:\n  a. Hvilke rutiner har Hitra kirkelig fellesråd når det gjelder regnskapsføring?\n  b. Hvordan er tildelte midler brukt jf. kommunestyrets vedtak om tildeling?\n  c. Er skillet mellom drift og investering fulgt etter lov og forskrift?\n  d. Revisjonsrapport for 2024 oversendelse kommunestyrets medlemmer.\n3. Kommunestyret ber kontrollutvalget om å bestille undersøkelsen av Revisjon Midt-Norge SA snarest, slik at ferdig rapport kan behandles på kontrollutvalgets møte 3. mars og på kommunestyrets mote 13. mars 2025.\n4. Det forventes at ordinær revisjon gjennomføres i henhold til avtale."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslaget fremmet av Dag Willmann (H) om å avvise hele saken.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 12
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 13
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "Imot",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Punktvis votering mellom kontrollutvalgets innstilling og forslag fremmet av Bjørn Jensen (Ap) på vegne av AP, R, SP og Sv.",
+      "alternativer": [
+        {
+          "navn": "Kontrollutvalgets innstilling med vedtatte endringer",
+          "stemmer": "Enstemmig"
+        },
+        {
+          "navn": "Forslag fra Bjørn Jensen (Ap) på vegne av AP, R, SP og Sv",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Kontrollutvalgets innstilling med vedtatte endringer",
+      "roedt_stoettet": "Forslag fra Bjørn Jensen (Ap) på vegne av AP, R, SP og Sv",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 5/25",
+  "rodt_fremmet_forslag": false
+}

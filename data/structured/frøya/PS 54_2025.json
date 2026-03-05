@@ -1,0 +1,33 @@
+{
+  "tittel": "ROP-boliger - Lovlighetskontroll",
+  "innstilling": null,
+  "vedtak": "Kommunestyret tar begjæring om lovlighetskontroll til etterretning. Saken sendes tilbake til Kommunedirektøren som bes besvare de angitte punktene i saken. Ny behandling av saken skal skje i neste kommunestyre 5. juni 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Olaf Reppe",
+      "tekst": "Kommunestyret tar begjæring om lovlighetskontroll til etterretning. Saken sendes tilbake til Kommunedirektøren som bes besvare de angitte punktene i saken. Ny behandling av saken skal skje i neste kommunestyre 5. juni 2025."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Olaf Reppe",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 22
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 54/2025",
+  "rodt_fremmet_forslag": false
+}

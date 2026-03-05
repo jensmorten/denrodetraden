@@ -1,0 +1,24 @@
+{
+  "tittel": "Meldingssak - møteprotokoll fra kontrollutvalgets møte 01.09.2025",
+  "innstilling": "Møteprotokoll fra kontrollutvalgets møte 01.09.2025 tas til orientering.",
+  "vedtak": "Møteprotokoll fra kontrollutvalgets møte 01.09.2025 tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "PS 65/25",
+  "rodt_fremmet_forslag": false
+}

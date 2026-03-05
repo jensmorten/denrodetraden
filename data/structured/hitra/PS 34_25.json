@@ -1,0 +1,44 @@
+{
+  "tittel": "Bolig- og utviklingsfond - Retningslinjer og statutter for bruk av fondet",
+  "innstilling": [
+    "Hitra kommunestyre vedtar vedlagte forslag til vedtekter for kommunens bolig- og utviklingsfond.",
+    "Hitra formannskap gis fullmakt til å bevilge midler fra fondet iht. vedtatte beløpsgrense, i til enhver tid gjeldende delegeringsreglement, så lenge dette er i tråd med fondets retningslinjer.",
+    "I forbindelse med avleggelse av årsresultatet gis det en økonomisk status for fondet med saldo og bevegelser gjennom foregående år."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre vedtar vedlagte forslag til vedtekter for kommunens bolig- og utviklingsfond.",
+    "Hitra formannskap gis fullmakt til å bevilge midler fra fondet iht. vedtatte beløpsgrense, i til enhver tid gjeldende delegeringsreglement, så lenge dette er i tråd med fondets retningslinjer.",
+    "I forbindelse med avleggelse av årsresultatet gis det en økonomisk status for fondet med saldo og bevegelser gjennom foregående år."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstillingen i kommunestyret 28.05.2025",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling av innstillingen i formannskapet 13.05.2025",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "28.05.2025",
+  "saksnummer_ps": "PS 34/25",
+  "rodt_fremmet_forslag": false
+}

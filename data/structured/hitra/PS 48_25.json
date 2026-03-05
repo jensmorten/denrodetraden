@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 48/25 Samarbeidsavtale - kommunalt oppgavefellesskap mellom eierkommuner i Helseplattformen (Kommunal samarbeidsavtale)",
+  "innstilling": "1.Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres.\n2.Kommunestyret utnevner ordfører som kommunens faste representant i oppgavefellesskapets representantskap, med varaordfører som varamedlem.\n3.Finansiering: Kommunestyret godkjenner finansieringsmodellen som innebærer en årlig kostnadsfordeling basert på innbyggertall pr 1.1.2024. For Hitra kommune innebærer dette en årlig kostnad i 2025 på 107 352 NOK.\n4.Tilslutning forutsetter at alle eierkommuner slutter seg til avtalen.",
+  "vedtak": "1. Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres.\n2. Kommunestyret utnevner ordfører som kommunens faste representant i oppgavefellesskapets representantskap, med varaordfører som varamedlem.\n3. Finansiering: Kommunestyret godkjenner finansieringsmodellen som innebærer en årlig kostnadsfordeling basert på innbyggertall pr 1.1.2024. For Hitra kommune innebærer dette en årlig kostnad i 2025 på 107 352 NOK.\n4. Tilslutning forutsetter at alle eierkommuner slutter seg til avtalen.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstillingen i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Behandling av innstillingen i Utvalg for Helse og Omsorg",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 48/25",
+  "rodt_fremmet_forslag": false
+}

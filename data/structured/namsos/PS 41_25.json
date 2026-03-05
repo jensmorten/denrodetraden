@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 41/2025 Fratredelsesavtale",
+  "innstilling": "Kommunestyret vedtar framlagt fratredelsesavtale mellom Namsos kommune og Jostein Grimstad.",
+  "vedtak": "Kommunestyret vedtar framlagt fratredelsesavtale mellom Namsos kommune og Jostein Grimstad.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forhandlingsutvalgets innstilling om fratredelsesavtale mellom Namsos kommune og Jostein Grimstad.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 32
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "27.06.2025",
+  "saksnummer_ps": "PS 41/25",
+  "rodt_fremmet_forslag": false
+}

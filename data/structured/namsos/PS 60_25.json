@@ -1,0 +1,41 @@
+{
+  "tittel": "17. mai 2026 - oppnevnelse av hovedkomité",
+  "innstilling": "Kristin Sedeniussen Selnes som innbygger-representant i 17. mai komiteen 2026-2027\nVegard Busse som innbygger-representant i 17.mai komiteen.\nMari Kristine S. Brattgjerd som fast",
+  "vedtak": "Kristin Sedeniussen Selnes som innbygger-representant i 17. mai komiteen 2026-2027\nVegard Busse som innbygger-representant i 17.mai komiteen.\nMari Kristine S. Brattgjerd som fast\nSom fast medlem politisk Hans Martin Flasnes for 2026 og 2027\nVaramedlem politisk Nils Sigurd Klykken, for 2026 og 2027",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Steinar Lyngstad (Senterpartiet)",
+      "tekst": "På vegne av H og Sp\nSom fast medlem politisk Hans Martin Flasnes for 2026 og 2027\nVaramedlem politisk Nils Sigurd Klykken, for 2026 og 2027"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling til kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Steinar Lyngstad (Senterpartiet)",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "23.10.2025",
+  "saksnummer_ps": "PS 60/25",
+  "rodt_fremmet_forslag": false
+}

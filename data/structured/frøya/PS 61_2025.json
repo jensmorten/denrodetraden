@@ -1,0 +1,49 @@
+{
+  "tittel": "ROP boligene - Lovlighetskontroll",
+  "innstilling": null,
+  "vedtak": [
+    "1. Beslutningen i sak 54/2025 om å sende saken tilbake til kommunedirektøren, opprettholdes.",
+    "2. Kommunestyret opprettholder vedtak i sak 20/2025",
+    "3. Sakskomplekset oversendes Statsforvalteren for endelig behandling"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "borgerlig gruppe",
+      "tekst": "1. Beslutningen i sak 54/2025 om å sende saken tilbake til kommunedirektøren, opprettholdes.\n2. Kommunestyret opprettholder vedtak i sak 20/2025\n4. Sakskomplekset oversendes Statsforvalteren for endelig behandling"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over vedtakspunktene 1 og 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 19
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over vedtakspunkt 3",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": 22
+        }
+      ],
+      "hvem_vant": "Enstemmig",
+      "roedt_stoette": "Enstemmig",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "05.06.2025",
+  "saksnummer_ps": "PS 61/2025",
+  "rodt_fremmet_forslag": false
+}

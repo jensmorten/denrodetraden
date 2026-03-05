@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 31/25 Meldingssak - økonomisk mellomrapportering pr. februar 2025",
+  "innstilling": "Innstillingen ble enstemmig vedtatt.",
+  "vedtak": "Hitra kommunestyre tar meldingen om økonomisk mellomrapportering per februar 2025 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 31/25",
+  "rodt_fremmet_forslag": false
+}

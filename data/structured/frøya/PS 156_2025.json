@@ -1,0 +1,24 @@
+{
+  "tittel": "Søknad om fritak fra politiske verv - Sigurd Elias Hestnes Vie",
+  "innstilling": null,
+  "vedtak": "Saken realitetsbehandles ikke og utsettes til februar møtet.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om utsettelse av saken",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig",
+      "roedt_stoettet": "Enstemmig",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "15.12.2025",
+  "saksnummer_ps": "PS 156/2025",
+  "rodt_fremmet_forslag": false
+}

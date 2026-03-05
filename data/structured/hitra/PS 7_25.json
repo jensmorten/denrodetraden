@@ -1,0 +1,41 @@
+{
+  "tittel": "Oppnevning av nytt varamedlem til råd for personer med funksjonsnedsettelse 2023-2027",
+  "innstilling": "Hitra kommunestyre vedtar __________. som ny vararepresentant nummer 5 av Hitras råd for personer med funksjonsnedsettelse. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode.",
+  "vedtak": "Hitra kommunestyre vedtar Gunn Irene Edvardsen som ny vararepresentant nummer 5 av Hitras råd for personer med funksjonsnedsettelse. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ingrid Kathrine Schanche (SP)",
+      "tekst": "Gunn Irene Edvardsen som ny vararepresentant nr. 5 i Hitra råd for personer med funksjonsnedsettelse 2023-2027"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Innstillingen ble enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Ingrid Kathrine Schanche (SP) om ny vararepresentant nr. 5",
+      "alternativer": [
+        {
+          "navn": "Gunn Irene Edvardsen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget ble enstemmig vedtatt",
+      "roedt_stoettet": "Gunn Irene Edvardsen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 7/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,85 @@
+{
+  "tittel": "Valg til Hitra kirkelige fellesråd for perioden 2023-2027 - valg av ny kommunal representant",
+  "innstilling": "Hitra kommunestyre oppnevner ________ som ny fast representant for Hitra kommune i Hitra kirkelige fellesråd. Vedtaket gjelder fra dagens dato og ut valgperioden 2023-2027.",
+  "vedtak": "Hitra kommune kan etter bestemmelsene i kirkeordningen § 15, andre ledd, oppnevne en representant til å delta i Hitra kirkelige fellesråd. Hitra kommune takker nei til videre representant i Hitra kirkelige fellesråd og foretar derfor ikke nyvalg på representant i denne saken. Som en konsekvens av dette opphører også vervet som 1. vara til nevne råd med virkning fra vedtaksdato.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører John Lernes (Ap) på vegne av Ap, R, Sp og SV",
+      "tekst": "Hitra kommune kan etter bestemmelsene i kirkeordningen § 15, andre ledd, oppnevne en representant til å delta i Hitra kirkelige fellesråd. Hitra kommune takker nei til videre representant i Hitra kirkelige fellesråd og foretar derfor ikke nyvalg på representant i denne saken. Som en konsekvens av dette opphører også vervet som 1. vara til nevne råd med virkning fra vedtaksdato."
+    },
+    {
+      "forslagsstiller": "Ingrid Kathrine Schanche (Sp)",
+      "tekst": "Oppnevne Jann O. Krangnes (R) som kommunens faste representant i Hitra kirkelige fellesråd."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over habilitet for Tom Skare (FrP)",
+      "alternativer": [
+        {
+          "navn": "Habil",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Inhabil",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Habil",
+      "roedt_sto_paa_vinner_side": true,
+      "roedt_sto_paa_alternativ": "Habil"
+    },
+    {
+      "beskrivelse": "Votering over habilitet for Heidi Kristine Fugelsøy (Ap)",
+      "alternativer": [
+        {
+          "navn": "Habil",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Inhabil",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Habil",
+      "roedt_sto_paa_vinner_side": true,
+      "roedt_sto_paa_alternativ": "Habil"
+    },
+    {
+      "beskrivelse": "Votering over forslag fra ordfører John Lernes (Ap) på vegne av Ap, R, Sp og SV om å takke nei til videre representant i Hitra kirkelige fellesråd",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 24
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_sto_paa_vinner_side": true,
+      "roedt_sto_paa_alternativ": "For forslaget"
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Ingrid Kathrine Schanche (Sp) om å oppnevne Jann O. Krangnes (R) som kommunens faste representant i Hitra kirkelige fellesråd",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_sto_paa_vinner_side": true,
+      "roedt_sto_paa_alternativ": "For forslaget"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 94/25",
+  "rodt_fremmet_forslag": false
+}

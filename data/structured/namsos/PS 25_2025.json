@@ -1,0 +1,92 @@
+{
+  "tittel": "PS 25/2025 Årsberetning, regnskap og årsmelding 2024",
+  "innstilling": {
+    "1": "Driftsregnskap for 2024 vedtas.",
+    "2": "Investeringsregnskap for 2024 vedtas. Investeringsregnskapet viser et regnskapsmessig merforbruk på kr. 16 813 499. Beløpet dekkes av ubrukte lånemidler til disposisjon. Følgende budsjettjustering gjøres i investeringsbudsjettet for 2025: K/09100 8900 87000 9999 kr. 16 813 499 Bruk av lån. D/05303 8900 88000 9999 kr. 16 813 499 Dekning av tidligere års merforbruk.",
+    "3": "Årsberetning for 2024 vedtas.",
+    "4": "Årsmelding for 2024 tas til orientering."
+  },
+  "vedtak": {
+    "1": "Driftsregnskap for 2024 vedtas.",
+    "2": "Investeringsregnskap for 2024 vedtas. Investeringsregnskapet viser et regnskapsmessig merforbruk på kr. 16 813 499. Beløpet dekkes av ubrukte lånemidler til disposisjon. Følgende budsjettjustering gjøres i investeringsbudsjettet for 2025: K/09100 8900 87000 9999 kr. 16 813 499 Bruk av lån. D/05303 8900 88000 9999 kr. 16 813 499 Dekning av tidligere års merforbruk.",
+    "3": "Årsberetning for 2024 vedtas.",
+    "4": "Årsmelding for 2024 tas til orientering.",
+    "5": "Kommunestyret uttrykker sterk bekymring for en stadig forverring av kommunens økonomiske handlingsevne, som har som konsekvens at det kommunale selvstyre er truet."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Geir Strøm Aalberg (Sosialistisk Venstreparti)",
+      "tekst": "Kommunestyret uttrykker sterk bekymring for en stadig forverring av kommunens økonomiske handlingsevne, som har som konsekvens at det kommunale selvstyre er truet."
+    },
+    {
+      "forslagsstiller": "Geir Strøm Aalberg (Sosialistisk Venstreparti)",
+      "tekst": "Kommunedirektøren skal før behandling av HPØP 2026-2029 framlegge en «stress-test» av kommunens økonomiske bæreevne de nærmeste fem årene, for å oppfylle egne måltall for økonomisk bærekraft."
+    },
+    {
+      "forslagsstiller": "Geir Strøm Aalberg (Sosialistisk Venstreparti)",
+      "tekst": "Det skal bla. synliggjøre behovet for nødvendige omstillinger, kostnadseffektiviseringer og samtidig vurdere handlingsrommet for nye investeringer bl.a. i helsebygg, ungdomsskole og Samfunnshuset."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag: Kommunestyret uttrykker sterk bekymring for en stadig forverring av kommunens økonomiske handlingsevne",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag: Kommunedirektøren skal før behandling av HPØP 2026-2029 framlegge en «stress-test» av kommunens økonomiske bæreevne",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 6
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag: Synliggjøre behov for nødvendige omstillinger, kostnadseffektiviseringer og vurdere handlingsrommet for nye investeringer",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 28
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "15.05.2025",
+  "saksnummer_ps": "PS 25/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Kontrollutvalgets årsrapport 2024",
+  "innstilling": "Kommunestyret tar Kontrollutvalgets årsrapport for 2024 til orientering",
+  "vedtak": "Kommunestyret tar Kontrollutvalgets årsrapport for 2024 til orientering",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling om å ta Kontrollutvalgets årsrapport for 2024 til orientering",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "20.02.2025",
+  "saksnummer_ps": "PS 13/2025",
+  "rodt_fremmet_forslag": false
+}

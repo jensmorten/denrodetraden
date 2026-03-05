@@ -1,0 +1,24 @@
+{
+  "tittel": "Navnesak - Adressenavn",
+  "innstilling": "Kommunedirektørens forslag til vedtak\nNamsos kommunestyre vedtar følgende adressenavn:\n• Altøya\n• Groftlitjønna\n• Steinan\n• Skrøyvdalsvegen\nHjemmel for vedtaket er:\n2. Lov om eiendomsregistrering (matrikkellova) kapittel 4 § 21.\n3. Forskrift om eiendomsregistrering (matrikkelforskriften) kapittel 12 §§ 50 og 51.\n4. Lov om Stadnamn (Stadnamnlova) § 5.\n5. Forskrift for adressetildeling og adresseforvaltning, Namsos kommune § 2.",
+  "vedtak": "Namsos kommunestyre vedtar følgende adressenavn:\n• Altøya\n• Groftlitjønna\n• Steinan\n• Skrøyvdalsvegen",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming over kommunedirektørens forslag til vedtak om adressenavn",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "19.06.2025",
+  "saksnummer_ps": "PS 32/2025",
+  "rodt_fremmet_forslag": false
+}

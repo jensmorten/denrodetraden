@@ -1,0 +1,36 @@
+{
+  "tittel": "Søknad om selgerkreditt på gjenværende beløp",
+  "innstilling": "Hitra kommunestyre avviser søknad om selgerkreditt fra KI Eiendommer AS og forholder seg dermed til eksisterende betingelser i vedtatte kjøpekontrakt fra 2019. Siste avbetaling på kr 6.360.000 vil da måtte betales til forfall den 02.12.2025.",
+  "vedtak": "Hitra kommunestyre avviser søknad om selgerkreditt fra KI Eiendommer AS og forholder seg dermed til eksisterende betingelser i vedtatte kjøpekontrakt fra 2019. Siste avbetaling på kr 6.360.000 vil da måtte betales til forfall den 02.12.2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av innstilling fra formannskapet i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stottet": "For",
+      "rodt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Vedtak av innstilling i formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stottet": "For",
+      "rodt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "18.09.2025",
+  "saksnummer_ps": "PS 59/25",
+  "rodt_fremmet_forslag": false
+}

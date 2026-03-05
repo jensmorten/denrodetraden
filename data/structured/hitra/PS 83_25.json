@@ -1,0 +1,48 @@
+{
+  "tittel": "Legevakt - endring av lokal åpningstid",
+  "innstilling": "Hitra kommunestyre vedtar følgende endringer i åpningstid for lokal legevakt:\n• Hverdager: Endres fra kl. 08.00–18.00 til kl. 08.00–16.00\n• Helg og helligdager: Endres fra kl. 10.00–20.00 til kl. 10.00–16.00\n• Interkommunal legevakt i Orkdalsregionen (LiO) ivaretar legevakttjenesten utenom disse tidene\n• Endringen trer i kraft fra 01.01.2026.",
+  "vedtak": "Hitra kommunestyre vedtar følgende endringer i åpningstid for lokal legevakt:\n• Hverdager: Endres fra kl. 08.00–18.00 til kl. 08.00–16.00\n• Helg og helligdager: Endres fra kl. 10.00–20.00 til kl. 10.00–16.00\n• Interkommunal legevakt i Orkdalsregionen (LiO) ivaretar legevakttjenesten utenom disse tidene\n• Endringen trer i kraft fra 01.01.2026.\nUtvalg helse og omsorg får en evaluering av status etter første halvår med endrede åpningstider.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for varaordfører Ingrid Kathrine Schanche (Sp)",
+      "alternativer": [
+        {
+          "navn": "Schanche erklæres inhabil",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "Schanche erklæres inhabil",
+      "roedt_stoettet": "Schanche erklæres inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vurdering av habilitet for Arnt Julius Breivoll (Ap)",
+      "alternativer": [
+        {
+          "navn": "Breivoll erklæres habil",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "Breivoll erklæres habil",
+      "roedt_stoettet": "Breivoll erklæres habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av innstilling fra utvalg helse og omsorg",
+      "alternativer": [
+        {
+          "navn": "Innstillingen vedtas",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "Innstillingen vedtas",
+      "roedt_stoettet": "Innstillingen vedtas",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 83/25",
+  "rodt_fremmet_forslag": false
+}

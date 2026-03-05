@@ -1,0 +1,24 @@
+{
+  "tittel": "Hitra kontrollutvalgs års- og møteplan 2026",
+  "innstilling": "Kommunestyret tar kontrollutvalgets års- og møteplan 2026 til orientering.",
+  "vedtak": "Kommunestyret tar kontrollutvalgets års- og møteplan 2026 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstillingen fra kontrollutvalget",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 96/25",
+  "rodt_fremmet_forslag": false
+}

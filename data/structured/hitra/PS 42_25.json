@@ -1,0 +1,42 @@
+{
+  "tittel": "Årsregnskap og årsberetning 2024 for Hitra kommune",
+  "innstilling": [
+    "Hitra kommunestyre godkjenner Hitra kommunes Årsregnskap 2024 og Årsberetning for 2024 som vist i den digitale årsrapporten 2024.",
+    "Driftsregnskapet er avlagt med en netto avsetning til disposisjonsfond med kr 11,3 mill., mot budsjettert kr 38,8 mill. Regnskapet er oppgjort i balanse."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre godkjenner Hitra kommunes Årsregnskap 2024 og Årsberetning for 2024 som vist i den digitale årsrapporten 2024.",
+    "Driftsregnskapet er avlagt med en netto avsetning til disposisjonsfond med kr 11,3 mill., mot budsjettert kr 38,8 mill. Regnskapet er oppgjort i balanse."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstillingen i Hitra kommunestyre",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling av innstillingen i Hitra formannskap",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "28.05.2025",
+  "saksnummer_ps": "PS 42/25",
+  "rodt_fremmet_forslag": false
+}

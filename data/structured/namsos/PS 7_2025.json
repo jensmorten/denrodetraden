@@ -1,0 +1,41 @@
+{
+  "tittel": "Utvalg folkevalgtes arbeidsvilkår - 2025-2027",
+  "innstilling": "Formannskapets forslag til vedtak:\nTil Utvalg folkevalgte foreslås følgende medlemmer:\n1. Leder....\n2. Nestleder.....\n3. Trine Fagerhaug\n4. Hilde Guddingsmo\n5. Geir Olav Knappe",
+  "vedtak": "Til Utvalg folkevalgte foreslås følgende medlemmer:\n1. Leder Arnt Skillingstad Rørvik\n2. Nestleder Randi Dille\n3. Trine Fagerhaug\n4. Hilde Guddingsmo\n5. Geir Olav Knappe",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hege Bjørgum Skillingstad (Høyre)",
+      "tekst": "Som leder foreslås Arnt Skillingstad Rørvik\nSom nestleder foreslås Randi Dille"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Hege Bjørgum Skillingstad (Høyre)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "20.02.2025",
+  "saksnummer_ps": "PS 7/2025",
+  "rodt_fremmet_forslag": false
+}

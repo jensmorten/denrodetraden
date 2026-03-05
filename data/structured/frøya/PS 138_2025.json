@@ -1,0 +1,24 @@
+{
+  "tittel": "Reduksjon av antall medlemmer i i politiske utvalg",
+  "innstilling": null,
+  "vedtak": "Antall medlemmer i politiske utvalg i Frøya kommune beholdes på dagens nivå.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om antall medlemmer i politiske utvalg i Frøya kommune",
+      "alternativer": [
+        {
+          "navn": "Beholde dagens nivå",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Beholde dagens nivå",
+      "roedt_stoettet": "Beholde dagens nivå",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "13.11.2025",
+  "saksnummer_ps": "PS 138/2025",
+  "rodt_fremmet_forslag": false
+}

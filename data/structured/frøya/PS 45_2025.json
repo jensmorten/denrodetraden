@@ -1,0 +1,27 @@
+{
+  "tittel": "Evaluering av pilot videolegevakt",
+  "innstilling": null,
+  "vedtak": [
+    "Kommunestyret vedtar å videreføre videolegevakt som en permanent ordning basert på de positive resultatene fra pilotprosjektet.",
+    "Kommunedirektøren bes legge til rette for skjermingsmuligheter for pasientene før konsultasjon. Venterom med tilgang til toalett. Viser til evalueringsrapporten."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om videreføring av videolegevakt som permanent ordning og tilrettelegging for pasientene",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 45/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,53 @@
+{
+  "tittel": "PS 64/2025 Vurdering av konkurranseutsetting Namsos kino",
+  "innstilling": [
+    "Namsos Kino videreføres med dagens organisering og kommunal drift.",
+    "Det arbeides videre med tiltak for å styrke kinoens økonomi og publikumsgrunnlag, herunder flerbruk av lokalene, forbedret kioskløsning og samordning med andre kommunale tjenester.",
+    "Saken tas opp til ny vurdering forut for utløp av kommunens leieavtale av Rock City, november 2031."
+  ],
+  "vedtak": [
+    "Namsos Kino videreføres med kommunal drift.",
+    "Det arbeides videre med tiltak for å styrke kinoens økonomi og publikumsgrunnlag, herunder flerbruk av lokalene, forbedret kioskløsning, nytenkning i kinodrift for å fylle salene og samordning med andre kommunale tjenester.",
+    "Saken tas opp til ny vurdering i god tid forut for utløp av kommunens leieavtale av Rock City, november 2031."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Nils Sigurd Klykken (Høyre)",
+      "tekst": "Punkt 1. fjernes «dagens organisering og»; Punkt 2. legger til «nytenkning i kinodrift for å fylle salene,»; Punkt 3. Legg til «i god tid før»"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslaget fra Nils Sigurd Klykken (Høyre)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Imot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen i formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "27.11.2025",
+  "saksnummer_ps": "PS 64/2025",
+  "rodt_fremmet_forslag": false
+}

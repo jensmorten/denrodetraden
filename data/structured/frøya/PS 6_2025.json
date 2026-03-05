@@ -1,0 +1,80 @@
+{
+  "tittel": "Reetablering av interkommunalt samarbeid om barnevern mellom Frøya og Hitra kommuner",
+  "innstilling": [
+    "Kommunestyret vedtar å gå videre i dialog med Hitra kommune om å etablere et nytt interkommunalt samarbeid for å styrke tjenestetilbudet i begge kommuner.",
+    "Samarbeidet organiseres som en vertskommunemodell, med Hitra kommune som vertskommune.",
+    "Kommunedirektøren utarbeider et utkast til samarbeidsavtale i dialog med Hitra kommune, som legges frem for politisk behandling.",
+    "Kommunestyret understreker viktigheten av at erfaringene fra tidligere samarbeid legges til grunn for å sikre god organisering og styring av det nye samarbeidet."
+  ],
+  "vedtak": [
+    {
+      "tekst": [
+        "Kommunestyret vedtar å gå videre i dialog med Hitra kommune om å etablere et nytt interkommunalt samarbeid for å styrke tjenestetilbudet i begge kommuner.",
+        "Samarbeidet organiseres som en vertskommunemodell, med Hitra kommune som vertskommune.",
+        "Kommunedirektøren utarbeider et utkast til samarbeidsavtale i dialog med Hitra kommune, som legges frem for politisk behandling.",
+        "Kommunestyret understreker viktigheten av at erfaringene fra tidligere samarbeid legges til grunn for å sikre god organisering og styring av det nye samarbeidet."
+      ],
+      "enstemmig": true,
+      "kilde": "Hovedutvalg for levekårs behandling av sak 4/2025 i møte den 21.01.2025"
+    },
+    {
+      "tekst": [
+        "Kommunestyret vedtar å gå videre i dialog med Hitra kommune om å etablere et nytt interkommunalt samarbeid for å styrke tjenestetilbudet i begge kommuner.",
+        "Samarbeidet organiseres som en vertskommunemodell, med Hitra kommune som vertskommune.",
+        "Kommunedirektøren utarbeider et utkast til samarbeidsavtale i dialog med Hitra kommune, som legges frem for politisk behandling.",
+        "Kommunestyret understreker viktigheten av at erfaringene fra tidligere samarbeid legges til grunn for å sikre god organisering og styring av det nye samarbeidet.",
+        "Kommunedirektør bes ta med seg inn i dialogen at det skal være lokaler for barneverntjenesten også i Frøya kommune om Hitra kommune blir vertskommune"
+      ],
+      "enstemmig": true,
+      "kilde": "Kommunestyrets behandling av sak 6/2025 i møte den 30.01.2025"
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole-Morten Sørvig",
+      "tekst": "Kommunedirektør bes ta med seg inn i dialogen at det skal være lokaler for barneverntjenesten også i Frøya kommune om Hitra kommune blir vertskommune"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i Hovedutvalg for levekårs behandling av sak 4/2025 i møte den 21.01.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Vedtak i Kommunestyrets behandling av sak 6/2025 i møte den 30.01.2025",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på tilleggspunkt fra Ole-Morten Sørvig",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 6/2025",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,48 @@
+{
+  "tittel": "PS 23/2025 Skoleruta for skoleåret 2025/26",
+  "innstilling": "Kommunestyret vedtar skoleruta for skoleåret 2025/26 som vedlagt.",
+  "vedtak": [
+    "Kommunestyret vedtar skoleruta for skoleåret 2025/26 som vedlagt.",
+    "Kommunestyret ber om at FAU blir tettere involvert før forslag til skolerute legges fram til politisk behandling."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Geir Strøm Aalberg (Sosialistisk Venstreparti)",
+      "tekst": "Kommunestyret ber om at FAU blir tettere involvert før forslag til skolerute legges fram til politisk behandling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling om å vedta skoleruta for skoleåret 2025/26.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Geir Strøm Aalberg (SV) om at FAU skal bli tettere involvert før forslag til skolerute legges fram til politisk behandling.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "15.05.2025",
+  "saksnummer_ps": "PS 23/2025",
+  "rodt_fremmet_forslag": false
+}

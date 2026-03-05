@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av protokoll fra dagens møte",
+  "innstilling": null,
+  "vedtak": "Protokollen ble enstemmig godkjent.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av protokoll fra dagens møte",
+      "alternativer": [
+        {
+          "navn": "Godkjent",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Godkjent",
+      "roedt_stoettet": "Godkjent",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 24/25",
+  "rodt_fremmet_forslag": false
+}

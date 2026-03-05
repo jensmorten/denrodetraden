@@ -1,0 +1,92 @@
+{
+  "tittel": "Etablering av ROP-boliger",
+  "innstilling": [
+    "Tomt til kommunens bofellesskap for mennesker med utfordringer innen rus og psykisk helse – ROP-boliger – legges til Beinskardet – gbnr 20/42",
+    "Kommunedirektøren bes igangsette nødvendige plan- og byggeprosesser",
+    "Kommunedirektøren bes innhente anbud på byggingen",
+    "Kommunedirektøren bes søke midler fra Husbanken"
+  ],
+  "vedtak": [
+    "Tomt til kommunens bofellesskap for mennesker med utfordringer innen rus og psykisk helse – Rop boliger legges til Fredagsvika gnr bnr 24/25 og 24/10",
+    "Kommunedirektøren bes igangsette nødvendige plan- og byggeprosesser",
+    "Kommunedirektøren bes innhente anbud på byggingen",
+    "Kommunedirektøren bes søke midler fra Husbanken",
+    "Kommunen inngår avtale om erverv av gnr bnr 24/25 og 24/10"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Geir Egil Meland",
+      "tekst": "Saken utsettes da vi har fått nye opplysninger som gjør tidsperspektivet i for realisering av ROP-boliger i Fredagsvika usikkert. Ekstraordinært formannskapsmøte avholdes i tide til behandling i kommunestyret 13.03.2025."
+    },
+    {
+      "forslagsstiller": "Ap og R",
+      "tekst": "1. Tomt til kommunens bofellesskap for mennesker med utfordringer innen rus og psykisk helse – ROP-boliger – legges til Myra - Gbnr 22/32 og 22/33\n2. Kommunedirektøren bes igangsette nødvendige plan- og byggeprosesser\n3. Kommunedirektøren bes innhente anbud på byggingen\n4. Kommunedirektøren bes søke midler fra Husbanken"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om tomt til ROP-boliger legges til Fredagsvika gnr bnr 24/25 og 24/10 i formannskapet",
+      "alternativer": [
+        {
+          "navn": "Fredagsvika gnr bnr 24/25 og 24/10",
+          "stemmer": 4
+        },
+        {
+          "navn": "Beinskardet – gbnr 20/42",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "Fredagsvika gnr bnr 24/25 og 24/10",
+      "roedt_stoettet": "Beinskardet – gbnr 20/42",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Vedtak om kommunens inngår avtale om erverv av gnr bnr 24/25 og 24/10 i formannskapet",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering om utsettelse av saken i formannskapet",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": 3
+        },
+        {
+          "navn": "Ikke utsettelse",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "Ikke utsettelse",
+      "roedt_stoettet": "Utsettelse",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Vedtak i kommunestyret om tomt til ROP-boliger legges til Fredagsvika gnr bnr 24/25 og 24/10",
+      "alternativer": [
+        {
+          "navn": "Fredagsvika gnr bnr 24/25 og 24/10",
+          "stemmer": 18
+        },
+        {
+          "navn": "Myra - Gbnr 22/32 og 22/33 (forslag fra Ap og R)",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "Fredagsvika gnr bnr 24/25 og 24/10",
+      "roedt_stoettet": "Myra - Gbnr 22/32 og 22/33 (forslag fra Ap og R)",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "13.03.2025",
+  "saksnummer_ps": "PS 20/2025",
+  "rodt_fremmet_forslag": false
+}
