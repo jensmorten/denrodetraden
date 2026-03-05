@@ -1,0 +1,20 @@
+METADATA:
+kommune: røros
+year: 2026
+saksnummer: PS-004/26
+rodt_fremmet: True
+---
+
+Tittel: 004/26 Søknad om fritak fra politisk verv - Johnny Johansen
+
+Vedtak:
+1. På grunn av flytting ut av kommunen gis Johnny Johansen fritak fra sine politiske verv i Røros kommune for resten av valgperioden.
+2. Rødt forslår som ny vararepresentant til Styringsgruppa til Aajege Mattis Danielsen som erstatter til Johnny Johansen.
+
+Alternative forslag:
+- Stig-Arvid Leinum (R): 1. På grunn av flytting ut av kommunen gis Johnny Johansen fritak fra sine politiske verv i Røros kommune for resten av valgperioden.
+2. Rødt forslår som ny vararepresentant til Styringsgruppa til Aajege Mattis Danielsen som erstatter til Johnny Johansen.
+
+Voteringer:
+- Votering over forslaget fra repr. Leinum
+  - For: enstemmig

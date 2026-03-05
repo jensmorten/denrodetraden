@@ -1,0 +1,21 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 181/24
+rodt_fremmet: False
+---
+
+Tittel: PS 181/2024 Retningslinjer for forfall
+
+Vedtak:
+Bystyret vedtar vedlagte retningslinjer for forfall, vedlegg 1. Bystyret ber ordfører sørge for at politiske møter organiseres og tilrettelegges på en god måte for bystyremedlemmene. Møtekalenderen publiseres for hele valgperioden med de muligheter for justeringer underveis som ligger i bystyrets reglement. Bystyret orienteres deretter om nødvendige justeringer i forkant av hvert halvår.
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV): Bystyret ber ordfører sørge for at politiske møter organiseres og tilrettelegges på en god måte for bystyremedlemmene. Møtekalenderen publiseres for hele valgperioden med de muligheter for justeringer underveis som ligger i bystyrets reglement. Bystyret orienteres deretter om nødvendige justeringer i forkant av hvert halvår.
+
+Voteringer:
+- Votering over innstillingen
+  - For: 67 stemmer
+- Votering over Naper Salomonsens tilleggsforslag
+  - For: 34 stemmer
+  - Mot: 33 stemmer

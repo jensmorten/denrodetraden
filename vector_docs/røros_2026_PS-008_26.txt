@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2026
+saksnummer: PS-008/26
+rodt_fremmet: False
+---
+
+Tittel: 008/26 Sak fra kontrollutvalget til behandling i kommunestyret - kontrollutvalgets års- og møteplan
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets års- og møteplan for 2026 til orientering
+
+Voteringer:
+- Votering over innstillingen fra kontrollutvalget
+  - For: enstemmig

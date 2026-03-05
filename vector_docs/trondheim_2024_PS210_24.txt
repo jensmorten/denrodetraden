@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 210/24
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg til utvalgene
+
+Vedtak:
+Innstillingen ble enstemmig vedtatt.
+
+Voteringer:
+- Votering om innstillingen til valg av medlemmer og ledere i utvalgene.
+  - For: Enstemmig

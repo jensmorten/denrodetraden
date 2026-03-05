@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 97/2025
+rodt_fremmet: False
+---
+
+Tittel: Reduksjon av antall medlemmer i kommunestyret fra valgperioden 2028
+
+Vedtak:
+Saken sendes til de politiske partiene for drøfting og uttalelse.
+Frist for innspill settes til 01.10.2025
+Kommunedirektøren bes utarbeide et notat som synliggjør økonomiske konsekvenser av å redusere antall utvalgs- og kommunestyremedlemmer. Notatet legges ved når saken sendes ut på høring.
+
+Voteringer:
+- Vedtak av sak 97/2025
+  - Enstemmig: alle

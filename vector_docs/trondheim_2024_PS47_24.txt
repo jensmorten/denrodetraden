@@ -1,0 +1,29 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 47/24
+rodt_fremmet: False
+---
+
+Tittel: PS 47/2024 Plan for HC-parkering
+
+Vedtak:
+Bystyret følger opp mål om at byen skal være tilrettelagt for mangfoldet i befolkningen, og vedtar at for HC-parkeringsplasser skal dette følges opp gjennom følgende tre delmål og åtte strategier med endringer:
+- Punkt 1.4 endres til: "Det skal etableres ladepunkter på flere HC-parkeringsplasser."
+- Punkt 1.6 opprettholdes med vedtak om at etablering av flere HC-parkeringsplasser ikke bør skje ved at antall øvrige parkeringsplasser reduseres.
+Øvrige punkter i innstillingen ble enstemmig vedtatt.
+
+Alternative forslag:
+- Tore Dyrendahl (MDG): Endre punkt 1.4 fra 'Det skal vurderes muligheten for å etablere ladepunkter på flere HC-parkeringsplasser.' til 'Det skal etableres ladepunkter på flere HC-parkeringsplasser.'
+- Tore Dyrendahl (MDG): Stryke punkt 1.6
+- Haakon Gussiaas (H): 1.6 Etablering av flere HC-parkeringsplasser bør ikke skje ved at antall øvrige parkeringsplasser reduseres.
+
+Voteringer:
+- Votering over innstillingen unntatt pkt. 1.4 og 1.6
+  - For: enstemmig
+- Alternativ votering mellom innstillingen pkt 1.4 og MDGs forslag om å endre til 'skal etablere ladepunkter'
+  - MDGs forslag: 63 stemmer
+  - Innstillingen pkt 1.4: 4 stemmer
+- Votering over Gussiaas forslag om punkt 1.6
+  - Gussiaas forslag: 43 stemmer
+  - Motforslag (stryke punkt 1.6): 24 stemmer

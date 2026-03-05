@@ -1,0 +1,23 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 80/2025
+rodt_fremmet: False
+---
+
+Tittel: Eiendomsskattevedtak 2026 for Namsos kommune
+
+Vedtak:
+1.I 2026 skrives det ut eiendomsskatt på fast eiendom i hele Namsos kommune (eigedomsskattelova (esktl.) – §§ 2 og 3 bokstav a).
+2.Eiendomsskattesats for 2026 settes til 3,9 promille (esktl. § 13).
+3.Følgende eiendommer/bygninger fritas for eiendomsskatt (esktl. § 7):
+§ 7 a: Eigedom åt stiftingar eller institusjoner som tek sikte på og gagna ein kommune, eit fylke eller staten.
+§ 7 b: Bygninger som har historisk verde. Jamfør vedlagt liste over eiendommer.
+4.Eiendomsskatten skal betales i tre terminer (esktl. § 25): 20. mars, 20. juni og 20. oktober i skatteåret. Skatten kan betales ved månedlige terminer ved inngåelse av avtale om digital betaling.
+Hjemmel for vedtaket er:
+Eigedomsskattelova §§ 2, 3, 7a,7b og 13
+
+Voteringer:
+- Votering over formannskapet sitt forslag til vedtak om eiendomsskatt 2026
+  - For: 32 stemmer
+  - Imot: 3 stemmer

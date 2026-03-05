@@ -1,0 +1,23 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 41/24
+rodt_fremmet: False
+---
+
+Tittel: PS 41/2024 Representantforslag - Helhetlig tros- og livssynspolitikk - Ottar Michelsen (SV)
+
+Vedtak:
+Bystyret mener det ikke er behov for en omfattende ny plan for en helhetlig tros- og livssynspolitikk. De lange linjene ivaretas i stor grad i den forrige planen fra 2017.
+
+Alternative forslag:
+- Ottar Michelsen (SV): Bystyret ber kommunedirektøren fremme forslag til hvordan Trondheim kan utarbeide en oppdatert og helhetlig tros- og livssynspolitikk. Forslaget må inkludere økonomiske anslag for en slik prosess.
+- Ottar Michelsen (SV): Bystyret ber kommunedirektøren fremme en sak for å sikre likebehandling av ulike tros- og livssynssamfunn når det gjelder tilgang til lokaler. Saken må vise behovet for leie av lokaler for tros- og livssynssamfunn som ikke har egne, f.eks. i forbindelse med konfirmasjonsundervisning og ulike seremonier, og tilskuddsordninger for tros- og livssynssamfunn som har egne lokaler.
+
+Voteringer:
+- Votering mellom innstillingen og SVs forslag om helhetlig tros- og livssynspolitikk
+  - Innstillingen: 38 stemmer
+  - SVs forslag: 29 stemmer
+- Votering om Michelsens forslag 'Likebehandling av lokaler'
+  - Michelsens forslag 'Likebehandling av lokaler': 29 stemmer
+  - Motforslag: 38 stemmer

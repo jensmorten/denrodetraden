@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 63/2025
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling - detaljreguleringsplan Inntian havn
+
+Vedtak:
+I henhold til Plan- og bygningsloven §12-12, vedtar Frøya kommunestyre egengodkjenning av detaljreguleringsplanen for Inntian havn (PLANID: 5014202008), som vist på planbeskrivelse datert 02.05.2025, planbestemmelser datert 02.05.2025 og plankart datert 21.06.2024. Kommunedirektøren skal etter at saken er egengodkjent forsikre seg om at planen blir digitalisert og gjøre evt. mindre rettinger.
+
+Voteringer:
+- Vedtak av egengodkjenning av detaljreguleringsplanen for Inntian havn
+  - For: Enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 50/2025
+rodt_fremmet: False
+---
+
+Tittel: Wenche Elisabeth Johansen og hennes foreldres minne - årsberetning 2024
+
+Vedtak:
+Namsos kommune godkjenner framlagte regnskap for Wenche Elisabeth Johansen og hennes foreldres minne for 2024.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling om godkjenning av regnskap for Wenche Elisabeth Johansen og hennes foreldres minne for 2024.
+  - For: 33 stemmer

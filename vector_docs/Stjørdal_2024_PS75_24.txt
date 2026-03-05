@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 75/24
+rodt_fremmet: False
+---
+
+Tittel: PS 75/2024 Godkjenning av møteprotokoll
+
+Vedtak:
+Møteprotokoll godkjent.
+
+Voteringer:
+- Godkjenning av møteprotokoll
+  - For forslaget: 37 stemmer

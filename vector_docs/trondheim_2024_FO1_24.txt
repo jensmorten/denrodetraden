@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: FO 1/24
+rodt_fremmet: False
+---
+
+Tittel: Representantforslag - Boligsosialt samarbeid som en del av folkehelsearbeidet - Svein Otto Nilsen (PP)
+
+Vedtak:
+Representantforslag fra Svein Otto Nilsen (PP) sendes helse- og velferdskomiteen for behandling og innlemming i pågående prosesser uten at det belaster ytterligere utredningskapasitet.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 161/24
+rodt_fremmet: False
+---
+
+Tittel: PS 161/2024 Østre Rosten borettslag - søknad om kommunal garanti for låneopptak
+
+Vedtak:
+
+
+Voteringer:
+- Votering om innstillingen til kommunal garanti for låneopptak for Østre Rosten borettslag
+  - For: 66 stemmer
+  - Mot: 1 stemmer

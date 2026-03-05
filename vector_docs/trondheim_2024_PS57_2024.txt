@@ -1,0 +1,43 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 57/2024
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om folkevalgtes rett til godtgjøring, samt reglement for støtte til partigrupper i bystyret
+
+Vedtak:
+Del A Bystyret vedtar Forskrift om folkevalgtes rett til godtgjøring, Trondheim kommune, med angitte endringer. Del B Bystyret vedtar Reglement for støtte til partigrupper i bystyret med angitte endringer. Del C Endringer trer i kraft fra 13. juni 2024 og gjelder til nytt bystyre konstitueres etter kommunevalget 2027. Manglende inndekning for 2024 dekkes av disposisjonsfondet og behandles i budsjettrevisjon mai 2024. Forskrift og reglement revideres i 2025 med virkning fra 2027.
+
+Alternative forslag:
+- Roar Aas (Ap): Tilleggsforslag ny 14.4b: Partier som ikke er representert i byråd gis i tillegg et grunnbeløp tilsvarende 20% av beregningsgrunnlaget, samt en representantstøtte per bystyrerepresentant tilsvarende 10% av beregningsgrunnlaget jf punkt 3.2.
+- Roar Aas (Ap): Forslag 'Konsekvenser av endringer' med detaljer om økonomisk støtte til partigrupper og uavhengige i bystyret, inkludert grunnbeløp og representantstøtte.
+- Silje Naper Salomonsen (SV): Tilleggsforslag 'Endre satsene for ordfører, varaordfører og rep.støtte' med endringer i godtgjøringssatser for ordfører, byrådsleder, byråder, varaordfører og representantstøtte.
+- Mats Ulseth Ramo (H): Tilleggsforslag 'Frikjøp Stavne KF kobles til beregningsgrunnlaget' med endringer i godtgjøringssatser for leder, nestleder og medlem i Felles styre for Stavne KF.
+- Mats Ulseth Ramo (H): Tilleggsforslag 'Definisjon av heltidspolitiker' med ny definisjon av heltidspolitiker i forskriftens punkt 14.1.d.
+- Mats Ulseth Ramo (H): Tilleggsforslag 'IKS' med ny linje i tabellen punkt 14.6 for representantskap IKS med godtgjøring for medlemmer og varamedlemmer som ikke er heltidspolitikere.
+- Emil Raaen (Ap): Tilleggsforslag 'Ny 14.4 a)' med grunnbeløp og representantstøtte til partigruppene i bystyret, inkludert mulighet for overføring av representantstøtte mellom år.
+- Emil Raaen (Ap): Merknad om at fordeling av ledere og nestledere til utvalgene bør skje etter valgoppslutning, slik praksis er i Bergen og Oslo.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig
+- Votering over Salomonsens forslag 'Endre satsene for ordfører, varaordfører og rep.støtte'
+  - For: 12 stemmer
+  - Mot: 55 stemmer
+- Votering over Ramos forslag 'Definisjon av heltidspolitiker'
+  - For: enstemmig
+- Votering over Raaens forslag 'Ny 14.4 a)'
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Votering over Aas forslag 'Ny 14.4 b)'
+  - For: 18 stemmer
+  - Mot: 49 stemmer
+- Votering over Ramos forslag 'Frikjøp Stavne KF kobles til beregningsgrunnlaget'
+  - For: enstemmig
+- Votering over Ramos forslag 'Tilleggsforslag ny linje i tabellen punkt 14.6'
+  - For: enstemmig
+- Votering over Aas forslag 'Konsekvenser av endring'
+  - For: 18 stemmer
+  - Mot: 49 stemmer

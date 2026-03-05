@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 118/2024
+rodt_fremmet: False
+---
+
+Tittel: Forutsigbarhet for tunge nullutslipps- og biogasskjøretøy i bomringen
+
+Vedtak:
+Det innføres nulltakst for tunge nullutslipps- og biogasskjøretøy i Miljøpakkens bompasseringer i minst fem år, frem til 2029.
+Hvis det innføres betaling for tunge nullutslipps- og biogasskjøretøy etter 2029, skal miljødifferensiering videreføres slik at tunge nullutslipps- og biogasskjøretøy har lavere takst enn tilsvarende fossile kjøretøy.
+
+Voteringer:
+- Votering over innstillingens punkt 1
+  - For: Enstemmig
+- Votering over innstillingens punkt 2
+  - For: 62 stemmer
+  - Mot: 5 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 030/25
+rodt_fremmet: False
+---
+
+Tittel: Samarbeidsavtale - St. Olavs hospital HF og kommunene - helsefellesskapet i søndre Trøndelag
+
+Vedtak:
+Kommunestyret inngår fremlagte Samarbeidsavtale - St. Olavs hospital HF og kommunene - helsefellesskapet i søndre Trøndelag, med tilhørende retningslinje «Samarbeid om innleggelse og utskrivelse av pasienter med behov for kommunale tjenester».
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

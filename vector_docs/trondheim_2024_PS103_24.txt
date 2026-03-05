@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 103/24
+rodt_fremmet: False
+---
+
+Tittel: Deltakelse i European Coalition of Cities Against Racism (ECCAR), oppfølging av bystyrevedtak 8/22
+
+Vedtak:
+Saken utsettes.

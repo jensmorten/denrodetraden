@@ -1,0 +1,23 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 217/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 217/2024 Egenbetaling for helse- og omsorgstjenester
+
+Vedtak:
+Bystyret vedtar følgende egenbetalingssatser for helse- og omsorgstjenester per 1.1.2025 som beskrevet i innstillingen.
+
+Alternative forslag:
+- Mona Berger (SV) på vegne av SV, R, Uavh.: Bystyret vedtar innstillingen med unntak av følgende punkt:
+- Egenbetaling på trygghetsalarm og velferdsteknologi.
+- Innføre "ikke-møtt gebyr" til kommunal fysioterapi.
+- Økt egenbetaling på praktisk bistand.
+Manglende økte inntekter som følge av dette, dekkes av disposisjonsfondet.
+
+Voteringer:
+- Alternativ votering mellom innstillingen og SVs fellesforslag "Mindre egenbetaling".
+  - Innstillingen: 37 stemmer
+  - SVs fellesforslag: 30 stemmer

@@ -1,0 +1,25 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 88/25
+rodt_fremmet: False
+---
+
+Tittel: Fritak fra folkevalgte verv i Hitra kommune - Kommunestyrerepresentant og leder og medlem av utvalg helse og omsorg
+
+Vedtak:
+Hitra kommunestyre innvilger, etter kommuneloven § 7-9, andre ledd, søknad fra Lise Krangnes (R) om fritak fra verv som kommunestyrerepresentant og leder og medlem av utvalg helse og omsorg. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Bjørn Jensen (Ap) som nytt medlem av utvalg helse og omsorg. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 5-7, andre ledd, å oppnevne Bjørn Jensen (Ap) som ny leder av utvalg helse og omsorg. Hitra kommunestyre vedtar at Bjørn Jensen (Ap) utgår som medlem av utvalg oppvekst. Hitra kommunestyre vedtar at May Elise Jamtøy Stolpnes (Sp) oppnevnes som nytt fast medlem av utvalg oppvekst. Vedtaket er gjeldende fra 12.12.2025 og ut inneværende valgperiode.
+
+Alternative forslag:
+- Ordfører John Lernes (Ap): Endre vedtaksdato til 12.12.2025.
+- Ingrid Kathrine Schanche (Sp): Bjørn Jensen (Ap) oppnevnes som nytt medlem av utvalg helse og omsorg; Bjørn Jensen (Ap) utgår som medlem av utvalg oppvekst; Bjørn Jensen (Ap) velges som ny leder av utvalg helse og omsorg; May Elise Jamtøy Stolpnes (Sp) velges som nytt fast medlem av utvalg oppvekst.
+
+Voteringer:
+- Votering om endring av vedtaksdato til 12.12.2025 fremmet av ordfører John Lernes (Ap).
+  - For: 25 stemmer
+- Votering om innstilling fra formannskapet med endret vedtaksdato.
+  - For: 23 stemmer
+- Votering i formannskapet om innvilgelse av fritak for Lise Krangnes (R).
+  - For: 6 stemmer
+- Votering i formannskapet om forslag fra Ingrid Kathrine Schanche (Sp) om oppnevning og endringer i utvalg.
+  - For: 7 stemmer

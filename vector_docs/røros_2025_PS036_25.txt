@@ -1,0 +1,8 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 036/25
+rodt_fremmet: False
+---
+
+Tittel: Grunngitt spørsmål - Rørosgårdveien - 22.05.2025

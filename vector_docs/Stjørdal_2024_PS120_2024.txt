@@ -1,0 +1,19 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 120/2024
+rodt_fremmet: False
+---
+
+Tittel: Tertialrapport nr. 2 2024. Tekniske VVA investeringsprosjekter.
+
+Vedtak:
+Kommunestyret tar statusrapporten for større tekniske VVA investeringsprosjekter for 2. tertial 2024 til orientering.
+Skatval høydebasseng. Før endelig vedtak om beliggenhet og bestilling av utredning gjøres, må det forelegges en sak til politisk behandling - ref sak i kommunestyret i januar PS 15/24 reservevannforsyning - forslag til løsning.
+
+Voteringer:
+- Avstemning om å ta statusrapporten for større tekniske VVA investeringsprosjekter for 2. tertial 2024 til orientering.
+  - For: 37 stemmer
+- Avstemning om Skatval høydebasseng - før endelig vedtak om beliggenhet og bestilling av utredning gjøres, må det forelegges en sak til politisk behandling.
+  - For: 35 stemmer
+  - Imot: 2 stemmer

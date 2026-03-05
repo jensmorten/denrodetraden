@@ -1,0 +1,11 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 14/2025
+rodt_fremmet: False
+---
+
+Tittel: Grunngitt spørsmål til ordføreren fra Arvid Hammernes, Venstre, i kommunestyremøte 30.01.25
+
+Vedtak:
+Kommunedirektørens svar på spørsmål om boligfeltet Beinskardet del 3 og Nabeita avløpsrenseanlegg ble tatt til orientering.

@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 98/24
+rodt_fremmet: False
+---
+
+Tittel: PS 98/2024 Forskrift om hovedmål ved grunnskolene i Trondheim kommune
+
+Vedtak:
+Bystyret vedtar forskrift om hovedmål ved grunnskolene i Trondheim kommune slik den framgår av vedlegget.
+
+Alternative forslag:
+- Anbjørg Horgar (SV): Bystyret ber kommunedirektøren sørge for å følge opp elever med nynorsk som hovedmål på en god måte, med som mål å motvirke ufrivillig språkbytte fra nynorsk til bokmål.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

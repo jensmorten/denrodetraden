@@ -1,0 +1,24 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 19/25
+rodt_fremmet: False
+---
+
+Tittel: PS 19/2025 Tomtevalg for nytt helsebygg
+
+Vedtak:
+1. Kommunestyret ber kommunedirektøren fremforhandle avtale med Høknes Eiendom AS om kjøp av tomt beliggende på Høkneshylla.
+2. Den fremforhandlede avtalen må inneha en gjensalgsklausul uten betingelser.
+
+Alternative forslag:
+- Hege Bjørgum Skillingstad (Høyre) på vegne av Høyre, Senterpartiet, Frp, Krf, Sv, Venstre og Inp: 1. Kommunestyret ber kommunedirektøren fremforhandle avtale med Høknes Eiendom AS om kjøp av tomt beliggende på Høkneshylla.
+2. Den fremforhandlede avtalen må inneha en gjensalgsklausul uten betingelser.
+
+Voteringer:
+- Avstemming mellom kommunedirektørens forslag og alternativt forslag fra Hege Bjørgum Skillingstad (Høyre) m.fl.
+  - Kommunedirektørens forslag: 0 stemmer
+  - Alternativt forslag om kjøp av tomt på Høkneshylla med gjensalgsklausul: 33 stemmer
+- Avstemming over det alternative forslaget fra Hege Bjørgum Skillingstad (Høyre) m.fl. med justert stemmetall
+  - For alternativt forslag: 28 stemmer
+  - Imot alternativt forslag: 5 stemmer

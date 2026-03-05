@@ -1,0 +1,17 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 85/25
+rodt_fremmet: False
+---
+
+Tittel: Revisjon av kommunalteknisk VA-norm for Hitra kommune
+
+Vedtak:
+1. Hitra kommunestyre godkjenner Kommunalteknisk VA-norm, datert 30. april 2025. VA-normen blir gjeldende fra 01.01.2026 og erstatter eksisterende VA-norm vedtatt av kommunestyret i gamle Hitra kommune i 2018. VA-normen vil ikke ha tilbakevirkende kraft. 2. Ved kommunale vann- og avløpsanlegg som blir overtatt til kommunal drift fra private utbyggere, skal VA-normen legges til grunn. 3. Kommunedirektøren gis fullmakt til å gjennomføre oppdateringer av teknisk karakter etter hvert som det er nødvendig.
+
+Voteringer:
+- Behandling av innstillingen fra formannskapet i kommunestyret 11.12.2025
+  - For: Enstemmig
+- Behandling av innstillingen i formannskapet 25.11.2025
+  - For: Enstemmig

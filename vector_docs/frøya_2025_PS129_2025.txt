@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 129/2025
+rodt_fremmet: False
+---
+
+Tittel: Møteplan for hele 2026
+
+Vedtak:
+Saken utsettes. Før ny behandling må det gjennomføres evaluering av ny møtestruktur, ihht budsjettvedtak. Saken må også behandles i hovedutvalg og FEB før den kommer opp i formannskapet og kommunestyret.
+
+Voteringer:
+- Vedtak om utsettelse av saken
+  - For utsettelse: enstemmig

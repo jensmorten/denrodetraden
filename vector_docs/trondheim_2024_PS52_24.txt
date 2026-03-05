@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 52/24
+rodt_fremmet: False
+---
+
+Tittel: PS 52/2024 Representantforslag - Boligsosialt samarbeid som en del av folkehelsearbeidet - Svein Otto Nilsen (PP)
+
+Vedtak:
+Saken ble utsatt i møtet 4. april 2024.

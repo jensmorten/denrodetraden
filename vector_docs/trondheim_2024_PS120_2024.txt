@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 120/2024
+rodt_fremmet: False
+---
+
+Tittel: Representantforslag - En mer kraftfull forbedringsprosess i BOA med god forankring blant berørte parter - Kjetil Utne (H)
+
+Vedtak:
+Bystyret ber om at det etableres en rådgivende gruppe med deltagelse fra berørte parter som kan sikre god forankring av den omstillingsprosessen som er igang innen BOA.
+
+Alternative forslag:
+- Kjetil Utne (H): Bystyret ber om at det etableres en rådgivende gruppe med deltagelse fra berørte parter som kan sikre god forankring av den omstillingsprosessen som er igang innen BOA.
+
+Voteringer:
+- Ved alternativ votering mellom innstillingen og H alternative forslag
+  - Innstillingen: 30 stemmer
+  - H alternative forslag: 37 stemmer

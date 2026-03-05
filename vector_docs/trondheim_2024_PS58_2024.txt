@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 58/2024
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjon av barnevernet i Østbyen - oppfølgingsundersøkelse
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Behandling av saken
+  - Utsettelse: ukjent

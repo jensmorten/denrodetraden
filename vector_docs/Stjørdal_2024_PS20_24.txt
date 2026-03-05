@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 20/24
+rodt_fremmet: False
+---
+
+Tittel: Kunnskapsgrunnlag klimaplan - klimagassutslipp, energi, karbonbinding og opptak 2023/11235
+
+Vedtak:
+Kunnskapsgrunnlag klimaplan Stjørdal kommune tar for seg temaene klimagassutslipp, energi, karbonbinding og opptak. Kunnskapsgrunnlag klimaplan Stjørdal kommune tas til orientering.
+
+Voteringer:
+- Avstemning om innstilling fra Formannskapet 18.01.2024
+  - For: 34 stemmer

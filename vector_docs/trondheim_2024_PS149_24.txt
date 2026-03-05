@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 149/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av settemedlemmer- og midlertidige ledere/nestledere i utvalg
+
+Vedtak:
+
+
+Alternative forslag:
+- Berit Tiller (H), på vegne av H, Ap, FrP, KrF, MDG, PP, R, Sp, SV, U, V: Forslag til settemedlemmer og vara i utvalg som listet i vedtaket
+
+Voteringer:
+- Votering over Tillers forslag til settemedlemmer og vara i utvalg
+  - Tillers forslag: enstemmig

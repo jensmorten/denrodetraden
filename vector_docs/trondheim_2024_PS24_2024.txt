@@ -1,0 +1,36 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 24/2024
+rodt_fremmet: True
+---
+
+Tittel: Omklassifisering av fylkesveier til kommunale veier i Trondheim kommune
+
+Vedtak:
+1. Bystyret ber kommunedirektør og ordfører gå i dialog med fylkeskommunen om mulighet for omklassifisering av fylkesveger innenfor Trondheim kommunes grenser til kommunal veg. Bystyret mener dette kan gi bedre og mer helhetlig byutvikling, samt mer effektiv drift og vedlikehold av vegene. Vegene i tabell 3 skal prioriteres før veger i tabell 1 og 2.
+2. Bystyret vedtar at fylkesveger i Trondheim som er aktuelle for en omklassifisering får en individuell vurdering av tilstand og økonomi, samt en plan for finansiering før prosessen med overføring av hvert enkelt vegeierskap gjennomføres.
+3. Før omklassifisering av fylkesveger kan bli aktuelt må finansieringsmodellen endres, slik at kommunen kompenseres for vedlikeholdsetterslep og tilføres midler som reflekterer økt behov for vegvedlikehold.
+4. Bystyret ber om at kommunedirektøren orienterer om framdrift i saken før sommeren.
+5. Bystyret ber ordfører anmode Stortinget om å endre inntektssystemet for kommuner slik at kommunene får minimum det samme som fylkeskommunene får for drift og vedlikehold av fylkesvegene etter en omklassifisering. Vedlikeholdsetterslep bør sees på ved sikring av kommunens økonomi ved omklassifisering av fylkesveger til kommunale veger.
+
+Alternative forslag:
+- Haakon Gussiaas (H) på vegne av H, V: 1. Bystyret ber kommunedirektør og ordfører gå i dialog med fylkeskommunen om mulighet for omklassifisering av fylkesveger innenfor Trondheim kommunes grenser til kommunal veg. Bystyret mener dette kan gi bedre og mer helhetlig byutvikling, samt mer effektiv drift og vedlikehold av vegene. Vegene i tabell 3 skal prioriteres før veger i tabell 1 og 2.
+2. Bystyret vedtar at fylkesveger i Trondheim som er aktuelle for en omklassifisering får en individuell vurdering av tilstand og økonomi, samt en plan for finansiering før prosessen med overføring av hvert enkelt vegeierskap gjennomføres.
+- Roald Arentz (R) på vegne av R, Ap, SV: Før omklassifisering av fylkesveger kan bli aktuelt må finansieringsmodellen endres, slik at kommunen kompenseres for vedlikeholdsetterslep og tilføres midler som reflekterer økt behov for vegvedlikehold.
+- Tore Dyrendahl (MDG) på vegne av MDG, H, V: Bystyret ber om at kommunedirektøren orienterer om framdrift i saken før sommeren.
+- Haakon Gussiaas (H) på vegne av H, V: Bystyret ber ordfører anmode Stortinget om å endre inntektssystemet for kommuner slik at kommunene får minimum det samme som fylkeskommunene får for drift og vedlikehold av fylkesvegene etter en omklassifisering. Vedlikeholdsetterslep bør sees på ved sikring av kommunens økonomi ved omklassifisering av fylkesveger til kommunale veger.
+
+Voteringer:
+- Ved alternativ votering mellom innstillinga og Gussiaas forslag
+  - Gussiaas forslag: 38 stemmer
+  - Innstillinga: 29 stemmer
+- Votering på Arentz forslag "Endring av finansieringsmodell"
+  - Arentz forslag: 35 stemmer
+  - Motforslag: 32 stemmer
+- Votering på Dyrendahls forslag "Orientering om formannskapet"
+  - Dyrendahls forslag: 66 stemmer
+  - Motforslag: 1 stemmer
+- Votering på Gussiaas forslag "Finansiering"
+  - Gussiaas forslag: 37 stemmer
+  - Motforslag: 30 stemmer

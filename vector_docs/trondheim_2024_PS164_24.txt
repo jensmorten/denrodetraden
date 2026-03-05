@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 164/24
+rodt_fremmet: False
+---
+
+Tittel: PS 164/2024 Mangfoldspriskomiteen - valg av settemedlem
+
+Vedtak:
+Settemedlem til mangfoldspriskomiteen: Aurora Meland Winger (MDG)
+
+Voteringer:
+- Votering om innstilling til settemedlem til mangfoldspriskomiteen
+  - Innstilling: enstemmig

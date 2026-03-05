@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 245/2024
+rodt_fremmet: False
+---
+
+Tittel: Samarbeidsavtale mellom Trondheim kommune og Råd for kunst og kultur i Trondheim
+
+Vedtak:
+Saken ble utsatt i bystyrets møte 19. desember 2024.

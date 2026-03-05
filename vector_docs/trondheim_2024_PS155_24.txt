@@ -1,0 +1,8 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 155/24
+rodt_fremmet: False
+---
+
+Tittel: Byrådets tiltredelseserklæring - politisk plattform for byråd Høyre, MDG og Venstre

@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 113/2024
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport - Kvalitetsmelding fra Værnesregionen barneverntjeneste 2023
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 26.09.2024 om at saken tas til orientering.
+  - For forslaget: 37 stemmer

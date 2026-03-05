@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 074/25
+rodt_fremmet: False
+---
+
+Tittel: 074/25 Lokal forskrift om skolerute i Rossen tjïelte- Røros kommune 2026-2027
+
+Vedtak:
+Forskriften vedtas.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - Forskriften vedtas: enstemmig

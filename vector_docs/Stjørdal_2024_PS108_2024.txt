@@ -1,0 +1,19 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 108/2024
+rodt_fremmet: False
+---
+
+Tittel: Sak 108/2024 - Salg av aksjer i TrønderEnergi Vekst Holding AS
+
+Vedtak:
+Stjørdal kommune selger ikke aksjene i TrønderEnergi Vekst Holding AS.
+
+Alternative forslag:
+- Johan Aarbu (Fremskrittspartiet): Stjørdal kommune selger ikke aksjene i TrønderEnergi Vekst Holding AS.
+
+Voteringer:
+- Avstemming mellom formannskapets innstilling om salg av aksjer og Fremskrittspartiets alternative forslag om å ikke selge aksjene.
+  - Formannskapets innstilling: Selge aksjene: 4 stemmer
+  - Johan Aarbu (Frp): Ikke selge aksjene: 32 stemmer

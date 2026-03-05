@@ -1,0 +1,20 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 018/25
+rodt_fremmet: False
+---
+
+Tittel: 018/25 Klagebehandling- reguleringsplan Ysterhagaen barnehage
+
+Vedtak:
+1. Klagene tas ikke til følge. Saken sendes til Statsforvalteren til sluttbehandling
+2. Klagene gis ikke utsettende virkning etter forvaltningslovens § 42.
+3. Kommunestyret ber kommunedirektøren varsle oppstart av arbeid med endring av reguleringsplan for Ysterhagaen barnehage (planid 20220008). Formålet med planarbeidet skal være å vurdere en omregulering av o_P3 til grøntareal samt skjermingstiltak for Ysterhagveien nr. 17.
+
+Alternative forslag:
+- Repr. Jon Anders Kokkvoll (Ap): …. samt skjermingstiltak for Ysterhagveien nr. 17.
+
+Voteringer:
+- Innstillingen i saken og tilleggspunkt fra repr. Kokkvoll til pkt 3 i innstillingen
+  - Enstemmig vedtatt: alle

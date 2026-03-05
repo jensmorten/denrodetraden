@@ -1,0 +1,20 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 99/2024
+rodt_fremmet: False
+---
+
+Tittel: Sak 99/2024 - Endringsforslag fra Kontaktutvalget i sak 24/24
+
+Vedtak:
+Stjørdal kommunen slutter seg til endringsforslagene som ble foreslått av Kontaktutvalget i sak 24/24, 7. juni 2024:
+• kontaktutvalgets fullmakt til å foreta økonomiske omdisponeringer i prosjekter må behandles politisk dersom prosjekter overstiger en ramme på 30 millioner kroner.
+• håndtering av gateprosjektene skal framover håndteres i det ordinære styringssystemet i Miljøpakken og ikke av en egen styringsgruppe
+• endringer i svart i punkt 5 og 7 i retningslinjer for sekretariatet:
+  o 5 Nærmere om oppfølging av måleindikatorer: Sekretariatet har ansvar for at rapporteringen av indikatorer inngår i byvekstavtalens årsrapport og/eller evalueringsrapport.
+  o 7 Dokumenthåndtering: Sekretariatet har ansvar for at alle saksdokumenter og referater fra programråd og kontaktutvalg arkiveres etter gjeldende lover for offentlig forvaltning.
+
+Voteringer:
+- Avstemning om innstilling fra formannskapet 29.08.2024
+  - For: 37 stemmer

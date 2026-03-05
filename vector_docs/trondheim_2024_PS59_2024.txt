@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 59/2024
+rodt_fremmet: False
+---
+
+Tittel: Kvalitetsmelding for eldreomsorgen
+
+Vedtak:
+Saken utsettes.

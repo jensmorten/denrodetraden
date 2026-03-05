@@ -1,0 +1,21 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 80/24
+rodt_fremmet: False
+---
+
+Tittel: PS 80/2024 Årsmelding for Trondheim eldreråd 2023
+
+Vedtak:
+Bystyret godkjenner framlagte årsmelding for Trondheim eldreråds virksomhet i 2023.
+
+Alternative forslag:
+- Efia Marie Damba (SV): Bystyret mener at bevissthet rundt minoritetsrepresentasjon må økes. Minoritetene bærer på kunnskap som majoriteten mangler, som kan bidra til bedre tjenester for alle og spesielt de med minoritetsbakgrunn. Kunnskaper innen språk, kultur og historie er styrker vi trenger.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig
+- Votering over merknaden fra SV
+  - For: SV, Uavh, FrP, R, PP, V, H, SP, KrF
+  - Mot: ingen oppgitt

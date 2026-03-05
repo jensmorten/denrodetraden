@@ -1,0 +1,16 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 150/2024
+rodt_fremmet: False
+---
+
+Tittel: Fullmakt - Oppløsning av Trondheimsregionen interkommunale råd
+
+Vedtak:
+Kommunestyret delegerer ordføreren fullmakt til å stemme for oppløsning av interkommunalt politisk råd for Trondheimsregionen.
+Kommunestyret ber ordføreren innlede samtaler med kommunene i samarbeidet om en ny organisering av regionrådssamarbeidet, med fokus på et tydeligere formål og reduserte kostnader.
+
+Voteringer:
+- Votering over innstillingen om fullmakt til ordføreren for oppløsning av Trondheimsregionen interkommunale råd
+  - For: 37 stemmer

@@ -1,0 +1,22 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 007/25
+rodt_fremmet: True
+---
+
+Tittel: 007/25 Kommunal eiendomsportefølje
+
+Vedtak:
+Status på kommunale eiendommer og boliger tas til orientering.
+Kommunedirektøren bes starte en utredning knyttet til framtidige behov for bygg og lokaliteter innenfor omsorgstjenestene, og orientere om dette på dialogkonferanse 1.
+Kommunestyret ber kommunedirektøren starer en prosess for å selge ledige tomter og eiendommer som er regulert for bolig i Brekken som er i kommunens eie.
+Kommunestyret ber kommunedirektøren utarbeide tydeligere budsjett/vedlikeholdsplan for kommunalt eide bygg som benyttes til utleie med den hensikt at de i mest mulig grad skal leies ut.
+
+Alternative forslag:
+- Kristoffer Tamnes (Sp): Kommunestyret ber kommunedirektøren starer en prosess for å selge ledige tomter og eiendommer som er regulert for bolig i Brekken som er i kommunens eie.
+- Stig-Arvid Leinum (R): Kommunestyret ber kommunedirektøren utarbeide tydeligere budsjett/vedlikeholdsplan for kommunalt eide bygg som benyttes til utleie med den hensikt at de i mest mulig grad skal leies ut.
+
+Voteringer:
+- Vedtak av innstilling med tilleggsforslag fra Kristoffer Tamnes og Stig-Arvid Leinum
+  - Enstemmig vedtatt: alle

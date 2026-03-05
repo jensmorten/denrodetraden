@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: FO 3/24
+rodt_fremmet: False
+---
+
+Tittel: Kortspørsmål - Bussholdeplasser Olav Tryggvasons gate - Svein Otto Nilsen (PP)
+
+Vedtak:
+Behandling: Svein Otto Nilsen (PP) spurte, ordfører Kent Ranum (H) svarte.

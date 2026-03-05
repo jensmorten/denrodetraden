@@ -1,0 +1,27 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 26/2024
+rodt_fremmet: True
+---
+
+Tittel: Utvidelse av virkeområde for hyblifiseringsbestemmelse - sluttvedtak
+
+Vedtak:
+Bystyret vedtar at virkeområdet til bestemmelse § 29.2 i kommuneplanens arealdel utvides, og at bestemmelsen lyder som i innstillingen. Kart over virkeområdet tas inn som vedlegg til kommuneplanens arealdel. Vedtaket fattes i medhold av plan- og bygningsloven § 11-15. jf. § 11-17
+
+Alternative forslag:
+- Magni Fjørtoft Svarstad (R): Inkludere Moholt i listen over områder som skal inn under virkeområde for hyblifiseringsbestemmelse.
+- Silje Naper Salomonsen (SV): Bystyret ber kommunedirektøren høre en utvidelse av virkeområdet til bestemmelse § 29.2 i kommuneplanens arealdel som omfatter boligsone 1, 2 og 3.
+- Elin Marie Andreassen (FrP): Bystyret vedtar å oppheve hyblifiseringsbestemmelsen i kommuneplanens arealdel.
+
+Voteringer:
+- Votering mellom innstillinga og Andreassens alternative forslag om å oppheve bestemmelsen
+  - Innstillinga: 63 stemmer
+  - Opphev bestemmelsen (Andreassen, FrP): 4 stemmer
+- Votering på Naper Salomonsens (SV) tilleggsforslag om å høre utvidelse til boligsone 1, 2 og 3
+  - Naper Salomonsens tilleggsforslag: 9 stemmer
+  - Mot tilleggsforslaget: 58 stemmer
+- Votering på Fjørtoft Svarstads (R) tilleggsforslag om å inkludere Moholt i virkeområdet
+  - Fjørtoft Svarstads tilleggsforslag: 3 stemmer
+  - Mot tilleggsforslaget: 64 stemmer

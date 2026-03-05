@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 042/25
+rodt_fremmet: False
+---
+
+Tittel: Fremtidig helse og omsorgstjenester og brukere som ressurs i eget liv
+
+Vedtak:
+Kommunestyret tar kunnskapsgrunnlag om robuste innbyggere og fremtidige helse og omsorgstjenester til orientering.
+
+Voteringer:
+- Votering over Utvalg for helse og omsorg sitt forslag til vedtak
+  - For: enstemmig

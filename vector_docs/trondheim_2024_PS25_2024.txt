@@ -1,0 +1,231 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 25/2024
+rodt_fremmet: False
+---
+
+Tittel: Verbale forslag, Trondheim kommunes budsjett for 2024
+
+Vedtak:
+{'nr': 2, 'tekst': 'Bystyret ber kommunedirektøren i løpet av våren 2024 komme tilbake med en sak som viser hvordan Trondheim kommune kan gi prioritet til Studentsamskipnaden på egnede tomter/kommunale bygg nært campus eller sentrum til bygging av studentboliger, slik at dekningsgraden kan nå det nasjonale målet på 20 prosent for hvor stor andel av studentene som har anledning til å bo i en studentbolig som eies av studentsamskipnaden.'}
+{'nr': 4, 'tekst': 'Verbalt forslag nr. 4 avvises.'}
+{'nr': 54, 'tekst': 'Bystyret ber kommunedirektøren legge fram en plan for hvordan kulturaktørene på og rundt Nyhavna kan sikres framtidig lokalisering med lave leiekostnader når området skal omformes. Eierform av denne typen lokaler må være en del av vurderingen.'}
+{'nr': 59, 'tekst': 'Bystyret opprettholder sin bevilgning til Rosendal Teater for 2024, som er i tråd med økningen i tidligere statlige og kommunale tilskudd.'}
+{'nr': 71, 'tekst': 'Verbalt forslag 71 støttes.'}
+{'nr': 72, 'tekst': 'Verbalt forslag 72 avvises.'}
+{'nr': 73, 'tekst': 'Verbalt forslag 73 avvises.'}
+{'nr': 74, 'tekst': 'Verbalt forslag 74 støttes.'}
+{'nr': 75, 'tekst': 'Verbalt forslag 75 støttes.'}
+{'nr': 76, 'tekst': 'I forbindelse med revidering av funksjons- og arealprogrammene bes kommunedirektøren vurdere hvordan kostnadene ved kommunens prosjekter kan begrenses gjennom effektiv utnyttelse av bygningsvolum som likevel ivaretar de viktigste kvalitetene. Videre bes kommunedirektøren om å vurdere hvordan formålsbygg kan utformes på en måte slik at man enkelt kan bygge om, dersom det er behov for andre typer formålsbygg. Innmaten må være enkel å endre, og det må være stort handlingsrom i “skallet”.'}
+{'nr': 77, 'tekst': 'Verbalt forslag 77 støttes.'}
+{'nr': 78, 'tekst': 'Verbalt forslag 78 støttes.'}
+{'nr': 79, 'tekst': 'Verbalt forslag 79 støttes.'}
+{'nr': 80, 'tekst': 'Verbalt forslag 80 støttes.'}
+{'nr': 81, 'tekst': 'Verbalt forslag 81 støttes.'}
+{'nr': 82, 'tekst': 'Verbalt forslag 82 støttes.'}
+{'nr': 83, 'tekst': 'Verbalt forslag 83 støttes.'}
+{'nr': 84, 'tekst': 'Verbalt forslag 84 støttes.'}
+{'nr': 85, 'tekst': 'Verbalt forslag 85 avvises.'}
+{'nr': 86, 'tekst': 'Verbalt forslag 86 avvises.'}
+{'nr': 87, 'tekst': 'Verbalt forslag 87 avvises.'}
+{'nr': 88, 'tekst': 'Verbalt forslag 88 støttes.'}
+{'nr': 89, 'tekst': 'Verbalt forslag 89 avvises.'}
+{'nr': 90, 'tekst': 'Verbalt forslag 90 avvises.'}
+{'nr': 91, 'tekst': 'Verbalt forslag 91 avvises.'}
+{'nr': 92, 'tekst': 'Verbalt forslag 92 støttes.'}
+{'nr': 93, 'tekst': 'Verbalt forslag 93 avvises.'}
+{'nr': 94, 'tekst': 'Verbalt forslag 94 avvises.'}
+{'nr': 95, 'tekst': 'Verbalt forslag 95 støttes.'}
+{'nr': 96, 'tekst': 'Verbalt forslag 96 avvises.'}
+{'nr': 97, 'tekst': 'Verbalforslag 97: Vedtas.'}
+{'nr': 98, 'tekst': 'Verbalforslag 98: Vedtas.'}
+{'nr': 99, 'tekst': 'Verbalforslag 99: Forslaget avvises med henvisning til at kommunedirektøren drøfter arbeidstidsforsøk med tillitsvalgte jamfør vedtak i administrasjonsutvalget.'}
+{'nr': 100, 'tekst': 'Verbalforslag 100: Avvises.'}
+{'nr': 101, 'tekst': 'Innstillinga 101: Avvises.'}
+{'nr': 101, 'tekst': 'Verbalforslag 101 Shafighi: Avvises.'}
+{'nr': 102, 'tekst': 'Lærlinger Trondheim skal videreutvikles som en foregangskommune som lærlingearena. Kommunen skal tilstrebe at lærlinger innen helsefag, og som har tilfredsstillende attest, tilbys full stilling første år etter avlagt fagbrev. Kommunedirektøren bes komme tilbake med en sak til formannskapet som beskriver hvor mange lærlinger som får jobbtilbud av kommunen etter endt fagbrev, og hva kostnadene er med og tilby stilling til alle etter avlagt fagbrev.'}
+{'nr': 103, 'tekst': 'Verbalforslag 103: Vedtas.'}
+{'nr': 104, 'tekst': 'Verbalforslag 104: Avvises.'}
+{'nr': 105, 'tekst': 'Verbalforslag 105: Avvises.'}
+{'nr': 107, 'tekst': 'Verbalforslag 107: Avvises.'}
+{'nr': 108, 'tekst': 'Verbalforslag 108: Avvises.'}
+{'nr': 109, 'tekst': 'Bystyret ber om at det etter overgang til parlamentarisk styreform foretas en gjennomgang av ikke lovpålagte oppgaver, herunder ulike nettverk og samarbeid som kommunen tar del i, for å synliggjøre kostnader og identifisere tiltak for å redusere kommunens utgifter.'}
+{'nr': 110, 'tekst': 'Bystyret ber kommunedirektøren legge frem en sak hvor det redegjøres for ulike tiltak for å øke Trondheim kommunes attraktivitet som arbeidsgiver. Blant tiltak som bør vurderes er signeringsbonus med bindingstid, bonus til lærlinger underveis i lærlingeløpet og lojalitetsbonus for ansatte med lang fartstid i kommunen.'}
+{'nr': 111, 'tekst': 'Verbalforslag 111 Fritt skolevalg: forslaget avvises.'}
+{'nr': 112, 'tekst': 'Verbalforslag 112 videregående opplæring: forslaget avvises.'}
+{'nr': 113, 'tekst': 'Verbalforslag 113 Anonym retting av prøver: forslaget avvises.'}
+{'nr': 114, 'tekst': 'Verbalforslag 114 Lærerevaluering: forslaget avvises.'}
+{'nr': 115, 'tekst': 'Verbalforslag 115 frivillig filming av muntlig eksamen: forslaget avvises.'}
+
+Alternative forslag:
+- Elin Marie Andrassen (FrP): Verbalforslag 85: Bystyret ber kommunedirektøren forberede sak om anbudsutsetting av tjenester som i dag utføres av Trondheim bydrift.
+- Elin Marie Andrassen (FrP): Verbalforslag 86: Bystyret ber kommunedirektøren forberede sak om anbudsutsetting av tjenester som i dag utføres av Trondheim eiendom.
+- Elin Marie Andrassen (FrP): Verbalforslag 87: Bystyret ber kommunedirektøren legge frem en sak som redegjør for hvordan kommunen kan innføre en ordning med kommunal lånegaranti for rehabilitering og oppussing av private barnehager.
+- Elin Marie Andrassen (FrP): Verbalforslag 89: Bystyret ber kommunaldirektøren om en sak som vurderer hvilke tjenesteområder som er aktuelle for innføring av fritt brukervalg, samt en redegjørelse for hvordan dette kan gjennomføres på de ulike områdene.
+- Elin Marie Andrassen (FrP): Verbalforslag 90: Bystyret ber kommunaldirektøren om at det innføres en prøveordning med utfordringsrett på ett eller flere områder i Trondheim kommune, for å sikre innbyggerne best mulig tjenestetilbud til riktig pris.
+- Elin Marie Andrassen (FrP): Verbalforslag 91: Bystyret ber kommunedirektøren legge frem en sak om nedtrapping og avvikling av eiendomsskatten, der målet er å fase ut skatten over en fireårsperiode.
+- Elin Marie Andrassen (FrP): Verbalforslag 93: Bystyret ber kommunedirektøren forberede salg av Trondheim Kino AS, og komme tilbake til bystyret med en sak om dette innen utgangen av 2024.
+- Elin Marie Andrassen (FrP): Verbalforslag 94: Bystyret ber kommunedirektøren legge frem en sak som gjennomgår alt kommunalt eierskap, med tanke på verdivurdering og potensial for salg.
+- Elin Marie Andrassen (FrP): Verbalforslag 107: Bystyret ber kommunedirektøren gjennomgå kommunens tjenesteområder, med tanke på å frigjøre midler til økt bemanning i eldreomsorgen.
+- Elin Marie Andrassen (FrP): Verbalforslag 108: Bystyret ber kommunedirektøren legge frem en sak som redegjør for hvordan en endring i tilsettingsvilkår kan gjennomføres, slik at åremålstilsetting blir gjeldende for flere lederstillinger i Trondheim kommune.
+- Elin Marie Andrassen (FrP): Verbalforslag 109: Bystyret ber om at det etter overgang til parlamentarisk styreform foretas en gjennomgang av ikke lovpålagte oppgaver, herunder ulike nettverk og samarbeid som kommunen tar del i, for å synliggjøre kostnader og identifisere tiltak for å redusere kommunens utgifter.
+- Elin Marie Andrassen (FrP): Verbalforslag 110: Bystyret ber kommunedirektøren legge frem en sak hvor det redegjøres for ulike tiltak for å øke Trondheim kommunes attraktivitet som arbeidsgiver. Blant tiltak som bør vurderes er signeringsbonus med bindingstid, bonus til lærlinger underveis i lærlingeløpet og lojalitetsbonus for ansatte med lang fartstid i kommunen.
+- Elin Marie Andrassen (FrP): Verbalforslag 111: Bystyret ber om at det innføres fritt skolevalg i Trondheim kommune.
+- Elin Marie Andrassen (FrP): Verbalforslag 112: Bystyret ber kommunedirektøren legge frem en sak for bystyret om at kommunen søker til Kunnskapsdepartementet om å få overta ansvaret for de videregående skolene i Trondheim kommune.
+- Elin Marie Andrassen (FrP): Verbalforslag 113: Bystyret ber om at det innføres en forsøksordning med anonym retting av prøver på minimum to skoler i Trondheim.
+- Elin Marie Andrassen (FrP): Verbalforslag 114: Bystyret ber om at elever i Trondheimsskolen hvert år får tilbud om å sende inn en anonym evaluering av læreren sin.
+- Elin Marie Andrassen (FrP): Verbalforslag 115: Bystyret ber kommunedirektøren legge til rette for utprøving av filming av muntlig eksamen, for å sikre at elever har reell klagerett på eksamenskarakteren.
+- Ottar Michelsen (SV) på vegne av SV, R: Verbalforslag 54: Bystyret ber kommunedirektøren legge fram en plan for hvordan kulturaktørene på og rundt Nyhavna kan sikres framtidig lokalisering med lave leiekostnader når området skal omformes. Eierform av denne typen lokaler må være en del av vurderingen.
+- Ottar Michelsen (SV) på vegne av SV, R: Verbalforslag 59: Bystyret ønsker å videreføre praksisen med 60/40 fordeling av statlige og lokale tilskudd til Rosendal Teater og ber om at dette videreføres i budsjett for 2025.
+- Mona Berger (SV) på vegne av SV, R: Verbalforslag 99: Vi ønsker å sette av ressurser til ulike forsøk med 30 timers arbeidsuke i helsesektoren og forsøk på deltagende turnusplanlegging for å gjøre omsorgssektoren mer attraktiv.
+- Mona Berger (SV) på vegne av SV, R: Verbalforslag 100: Kommunedirektøren skal utrede hvordan en bemanningsnorm innen eldreomsorgen bør utformes lokalt i Trondheim, med god involvering av fagforeninger og brukerorganisasjoner.
+- Sara Shafighi (Ap): Verbalforslag 72: Uten tilstrekkelig utbygging av fornybar energi kan vi få kraftunderskudd. Kommunedirektøren bes komme tilbake med sak om utnyttelse av solenergi og grunnvarme.
+- Sara Shafighi (Ap): Verbalforslag 73: Kommunedirektøren bes opprette et økonomisk visningspanel for løpende økonomisk utvikling og nøkkeltall.
+- Sara Shafighi (Ap): Verbalforslag 101: Trondheim skal være en kommune der ansatte tilbys hele og faste stillinger. Kommunedirektøren bes om en opptrappingsplan for å øke heltidsandelen.
+- Sara Shafighi (Ap): Verbalforslag 104: Prosjekter over en gitt størrelse bør ha definert prosjektleder, fremdriftsplan, klare prosjektmål og sertifisering av prosjektledere.
+- Sara Shafighi (Ap): Verbalforslag 105: Alle definerte prosjekt med kostnadsramme over 0,5 mill. skal vises i digital fremvisning for økt åpenhet og politisk forståelse.
+- Sara Shafighi (Ap): Verbalforslag 106: Kommunedirektøren bes utrede organisatoriske endringer for TROVO, NAV, INN og helsestasjoner, samt muligheter for felles strukturer med St.Olavs.
+- Sara Shafighi (Ap): Verbalforslag 110: Kommunen har utfordringer med rekruttering og vikarbruk. Kommunedirektøren bes legge frem sak om erfaringer med stimuleringsordninger og nye tiltak.
+
+Voteringer:
+- Verbalt forslag nr. 2
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Verbalt forslag nr. 4
+  - For: 18 stemmer
+  - Mot: 49 stemmer
+- Alternativ votering verbalt forslag nr. 54 mellom innstillinga og Michelsens forslag
+  - Michelsens forslag: 35 stemmer
+  - Innstillinga: 32 stemmer
+- Alternativ votering verbalt forslag nr. 59 mellom innstillinga og Michelsens forslag
+  - Innstillinga: 37 stemmer
+  - Michelsens forslag: 30 stemmer
+- Verbalt forslag nr. 71
+  - Enstemmig vedtatt: 67 stemmer
+- Alternativ votering verbalt forslag nr. 72 mellom innstillinga og Shafighis forslag
+  - Innstillinga: 37 stemmer
+  - Shafighis forslag: 30 stemmer
+- Alternativ votering verbalt forslag nr. 73 mellom innstillinga og Shafighis forslag
+  - Innstillinga: 37 stemmer
+  - Shafighis forslag: 30 stemmer
+- Verbalt forslag nr. 74
+  - Enstemmig vedtatt: 67 stemmer
+- Verbalt forslag nr. 75
+  - Enstemmig vedtatt: 67 stemmer
+- Verbalt forslag nr. 76
+  - Enstemmig vedtatt: 67 stemmer
+- Verbalt forslag nr. 77
+  - For: 37 stemmer
+  - Mot: 30 stemmer
+- Verbalt forslag nr. 78
+  - For: 58 stemmer
+  - Mot: 9 stemmer
+- Verbalt forslag nr. 79
+  - Enstemmig vedtatt: 67 stemmer
+- Verbalt forslag nr. 80
+  - For: 63 stemmer
+  - Mot: 4 stemmer
+- Verbalt forslag nr. 81
+  - For: 62 stemmer
+  - Mot: 4 stemmer
+- Verbalt forslag nr. 82
+  - Enstemmig vedtatt: 67 stemmer
+- Verbalt forslag nr. 83
+  - Enstemmig vedtatt: 67 stemmer
+- Verbalt forslag nr. 84
+  - Enstemmig vedtatt: 67 stemmer
+- Alternativ votering verbalt forslag nr. 85 mellom innstillinga og Andreassens forslag
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer
+- Alternativ votering verbalt forslag nr. 86 mellom innstillinga og Andreassens forslag
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer
+- Alternativ votering verbalt forslag nr. 87 mellom innstillinga og Andreassens forslag
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer
+- Verbalt forslag nr. 88
+  - For: 46 stemmer
+  - Mot: 21 stemmer
+- Alternativ votering verbalt forslag nr. 89 mellom innstillinga og Andreassens forslag
+  - Innstillingen: 62 stemmer
+  - Andreassens forslag: 5 stemmer
+- Alternativ votering verbalt forslag nr. 90 mellom innstillinga og Andreassens forslag
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer
+- Alternativ votering verbalt forslag nr. 91 mellom innstillinga og Andreassens forslag
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer
+- Verbalt forslag nr. 92
+  - For: 46 stemmer
+  - Mot: 21 stemmer
+- Alternativ votering verbalt forslag nr. 93 mellom innstillinga og Andreassens forslag
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer
+- Verbalt forslag nr. 94
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer
+- Verbalt forslag nr. 95
+  - Enstemmig vedtatt: 67 stemmer
+- Verbalt forslag nr. 96
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Verbalt forslag nr. 97
+  - Enstemmig vedtatt: 67 stemmer
+- Verbalt forslag nr. 98
+  - Enstemmig vedtatt: 67 stemmer
+- Alternativ votering verbalt forslag nr. 99 mellom innstillinga og Bergers forslag
+  - Innstillingen: 54 stemmer
+  - Bergers forslag: 13 stemmer
+- Alternativ votering verbalt forslag nr. 100 mellom innstillinga og Bergers forslag
+  - Innstillingen: 54 stemmer
+  - Bergers forslag: 13 stemmer
+- Verbalt forslag nr. 101 innstilligen
+  - For: 13 stemmer
+  - Mot: 54 stemmer
+- Verbalt forslag nr. 101 Shafighis forslag
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Verbalt forslag nr. 102
+  - Enstemmig vedtatt: 67 stemmer
+- Verbalt forslag nr. 103
+  - Enstemmig vedtatt: 67 stemmer
+- Alternativ votering verbalt forslag nr. 104 mellom innstillingen og Shafighis forslag
+  - Innstillingen: 49 stemmer
+  - Shafighis forslag: 18 stemmer
+- Alternativ votering verbalt forslag nr. 105 mellom innstillingen og Shafighis forslag
+  - Innstillingen: 48 stemmer
+  - Shafighis forslag: 19 stemmer
+- Alternativ votering verbalt forslag nr. 106 mellom innstillingen og Shafighis forslag
+  - Innstillingen: 45 stemmer
+  - Shafighis forslag: 22 stemmer
+- Alternativ votering verbalt forslag nr. 107 mellom innstillingen og Andreassens forslag
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer
+- Alternativ votering verbalt forslag nr. 108 mellom innstillingen og Andreassens forslag
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer
+- Alternativ votering verbalt forslag nr. 109 mellom innstillingen og Andreassens forslag
+  - Andreassens forslag: 49 stemmer
+  - Innstillingen: 18 stemmer
+- Alternativ votering verbalt forslag nr. 110 mellom innstillingen og Andreassens forslag
+  - Innstillingen: 62 stemmer
+  - Andreassens forslag: 5 stemmer
+- Verbalt forslag nr. 110 fra Shafighi "Stimuleringsordning for ansatte"
+  - For: 35 stemmer
+  - Mot: 32 stemmer
+- Alternativ votering verbalt forslag nr. 111 mellom innstillingen og Andreassens forslag
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer
+- Alternativ votering verbalt forslag nr. 112 mellom innstillingen og Andreassens forslag
+  - Innstillingen: 62 stemmer
+  - Andreassens forslag: 5 stemmer
+- Alternativ votering verbalt forslag nr. 113 mellom innstillingen og Andreassens forslag
+  - Innstillingen: 62 stemmer
+  - Andreassens forslag: 5 stemmer
+- Alternativ votering verbalt forslag nr. 114 mellom innstillingen og Andreassens forslag
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer
+- Alternativ votering verbalt forslag nr. 115 mellom innstillingen og Andreassens forslag
+  - Innstillingen: 63 stemmer
+  - Andreassens forslag: 4 stemmer

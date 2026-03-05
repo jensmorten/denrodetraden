@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 147/2025
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjonsrapport for arbeidsgiverpolitikk og ledelse
+
+Vedtak:
+Kontrollutvalget tar rapporten til orientering og legger den fram for kommunestyret med følgende innstilling: Kommunestyret tar rapporten til orientering og ber kommunedirektøren om å følge opp anbefalingene som beskrevet. Kommunestyret ber kommunedirektøren gi kontrollutvalget skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 20. mars 2026.
+
+Voteringer:
+- Vedtak av innstilling til rapporten
+  - For: Enstemmig

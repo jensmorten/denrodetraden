@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 145/24
+rodt_fremmet: False
+---
+
+Tittel: Skal Trondheim kommune støtte oppropet for en ikke-spredningsavtale for fossile brensel?
+
+Vedtak:
+Innstillinga falt med 22 stemmer for og 45 stemmer mot.
+
+Voteringer:
+- Votering om støtte til oppropet for en ikke-spredningsavtale for fossile brensel
+  - For innstillinga: 22 stemmer
+  - Mot innstillinga: 45 stemmer

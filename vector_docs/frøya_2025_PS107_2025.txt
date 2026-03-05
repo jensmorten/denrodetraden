@@ -1,0 +1,12 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 107/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 107/2025 Hovedutvalg ledernes orintering
+
+Vedtak:
+Hovedutvalget for Levekår:
+- Orientering fra høsten første møte

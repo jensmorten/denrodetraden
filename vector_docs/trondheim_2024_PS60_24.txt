@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 60/24
+rodt_fremmet: False
+---
+
+Tittel: Vollabakken vann og avløp - investeringsbeslutning
+
+Vedtak:
+Saken utsettes.
+
+Voteringer:
+- Behandling av utsettelse av saken
+  - Utsettelse: ukjent

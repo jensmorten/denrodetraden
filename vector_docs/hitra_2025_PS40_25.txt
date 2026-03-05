@@ -1,0 +1,48 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 40/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av ungdomsråd for perioden 2025-2027
+
+Vedtak:
+Hitra kommunestyre oppnevner følgende faste medlemmer og vararepresentanter til ungdomsrådet for perioden 2025 - 2027:
+Faste medlemmer:
+1. Andreas Tranås (ikke på valg - valgt for periode 2024 - 2026)
+2. Anna Lervik (ikke på valg - valgt for periode 2024 - 2026)
+3. Karl Brevik (ikke på valg - valgt for periode 2024 - 2026)
+4. Sara El Yamani (ikke på valg - valgt for periode 2024 - 2026)
+5. Anne Isabel Helsø Telnes (ny - 2025 - 2027)
+6. Adam Abou Hassan (ny - 2025 - 2027
+7. Ariel Andersson (ny - 2025 - 2027
+Vararepresentanter:
+1. Mali Akseth (2025-2026)
+2. Arijus Puidokas (2025-2026)
+3. Sigrid Aukan
+4. Mohammed Logman
+5. Ole Jacop Handberg
+6. Joakim Skarpnes (2025-2026)
+
+Alternative forslag:
+- Marcus Helgesson Svenning (SV): Hitra kommunestyre oppnevner følgende faste medlemmer og vararepresentanter til ungdomsrådet for perioden 2025 - 2027:
+Faste medlemmer:
+1. Andreas Tranås (ikke på valg - valgt for periode 2024 - 2026)
+2. Anna Lervik (ikke på valg - valgt for periode 2024 - 2026)
+3. Karl Brevik (ikke på valg - valgt for periode 2024 - 2026)
+4. Sara El Yamani (ikke på valg - valgt for periode 2024 - 2026)
+5. Anne Isabel Helsø Telnes (ny - 2025 - 2027)
+6. Adam Abou Hassan (ny - 2025 - 2027
+7. Ariel Andersson (ny - 2025 - 2027
+Vararepresentanter:
+1. Mali Akseth (2025-2026)
+2. Arijus Puidokas (2025-2026)
+3. Sigrid Aukan
+4. Mohammed Logman
+5. Ole Jacop Handberg
+6. Joakim Skarpnes (2025-2026)
+
+Voteringer:
+- Votering over forslaget fra Marcus Helgesson Svenning (SV) til valg av ungdomsråd for perioden 2025-2027
+  - For: Enstemmig

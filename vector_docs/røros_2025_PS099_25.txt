@@ -1,0 +1,27 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 099/25
+rodt_fremmet: False
+---
+
+Tittel: Klage på vedtatt reguleringsplan for Rødbekkegga masseuttak, PlanID 20200003
+
+Vedtak:
+1. Kommunestyret opphever tidligere vedtak om reguleringsplan for Rødbekkegga masseuttak, jf. plan- og bygningsloven § 12-12, jf. § 1-9 og forvaltningsloven § 33.
+2. Saken sendes tilbake til kommunedirektøren for videre bearbeiding.
+3. Administrasjonen bes om å innlede ny dialog med forslagstiller, med sikte på å avklare og eventuelt justere planforslaget, slik at klagepunkter og innspill fra berørte parter blir tilstrekkelig vurdert og dokumentert.
+4. Det skal legges særlig vekt på å sikre at planprosessen oppfyller kravene til medvirkning, forsvarlig saksbehandling og kontradiksjon, jf. plan- og bygningsloven § 5-1 og forvaltningsloven § 17.
+5. Revidert planforslag legges frem for ny politisk behandling når dialogen og nødvendige utredninger er gjennomført.
+
+Alternative forslag:
+- Kristoffer Tamnes (Sp): 1. Kommunestyret opphever tidligere vedtak om reguleringsplan for Rødbekkegga masseuttak, jf. plan- og bygningsloven § 12-12, jf. § 1-9 og forvaltningsloven § 33.
+2. Saken sendes tilbake til kommunedirektøren for videre bearbeiding.
+3. Administrasjonen bes om å innlede ny dialog med forslagstiller, med sikte på å avklare og eventuelt justere planforslaget, slik at klagepunkter og innspill fra berørte parter blir tilstrekkelig vurdert og dokumentert.
+4. Det skal legges særlig vekt på å sikre at planprosessen oppfyller kravene til medvirkning, forsvarlig saksbehandling og kontradiksjon, jf. plan- og bygningsloven § 5-1 og forvaltningsloven § 17.
+5. Revidert planforslag legges frem for ny politisk behandling når dialogen og nødvendige utredninger er gjennomført.
+
+Voteringer:
+- Votering mellom kommunedirektørens innstilling og endringsforslaget fremmet av Kristoffer Tamnes (Sp).
+  - Innstillingen: 8 stemmer
+  - Endringsforslaget: 19 stemmer

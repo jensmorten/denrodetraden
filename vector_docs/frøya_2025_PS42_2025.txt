@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 42/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 42/2025 Disponering havbruksfondet 2024
+
+Vedtak:
+Kommunestyret vedtar disponering av havbruksfondet 2024 slik det er beskrevet i tabellen under med følgende endringer:
+
+Voteringer:
+- Vedtak om disponering av havbruksfondet 2024
+  - For: Enstemmig

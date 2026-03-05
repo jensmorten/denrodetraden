@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 13/2026
+rodt_fremmet: False
+---
+
+Tittel: Vedtekter for barnehager og vedtekter for SFO - revidering
+
+Vedtak:
+
+
+Alternative forslag:
+- Borgerlig gruppe: Forslaget er identisk med innstillingen og omhandler åpningstider, ferie og planleggingsdager for barnehage og SFO, samt evaluering. Vedtektene er som i innstillingen.
+- Mindretallet (Kommunedirektørens innstilling): 1. Alle barnehager har åpningstid fra kl. 07.00 til 16.30. Unntak kan forekomme ut fra lokale behov ved Mausund oppvekstsenter. 2. Barna skal ha minst fire ukers ferie i løpet av barnehageåret, hvorav tre uker skal være sammenhengende sommerferie i tidsrommet 1.juni til 14.august. Barn som skal begynne på skolen, skal ha fire uker ferie før 15. august. Barnehagens fem planleggingsdager utgjør barnets femte ferieuke, og barnehagen holdes stengt disse dagene. Den sjette planleggingsdagen refunderes på faktura i august. Foreldre skal melde inn barnets ferieperiode så snart som mulig, og senest innen 2. mai. Frøya kommune har feriestengt barnehage onsdag i påskeuken og alle dagene i julen – fra og med julaften, mellomjula og til og med 1.nyttårsdag. Det tilbys barnehageplass i Sistranda kystbarnehage i uke 29 og 30. Dersom barnehagen har 8 eller færre barn med tildelt plass, kan barnehagen holde stengt 4 hele uker i juli. Det foretas telling av barn 01.01., og dersom man er under barnetallet for feriestengning, informeres foreldrene om hvilke uker barnehagen holder steng innen utgangen av januar. 3. SFO holder som hovedregel åpent mandag til fredag kl. 07.00–16.30. Åpningstiden beregnes til å gjelde før og etter ordinær undervisningstid. På heldager er oppmøtetid senest kl. 09.30. Virksomhetsleder kan endre åpningstider dersom dette er hensiktsmessig. 4. Det skal gjennomføres en evaluering av bestemmelsen om at Frøya kommune gir tilbud ved kun en barnehage i ukene 29 og 30. Evalueringen skal legges frem for Hovedutvalg for levekår innen utgangen av 2026.
+
+Voteringer:
+- Votering over vedtekter for barnehager og SFO - revidering
+  - For innstillingen (og borgerlig forslag): 15 stemmer
+  - Mot innstillingen (mindretallets forslag): 7 stemmer

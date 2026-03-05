@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 71/24
+rodt_fremmet: False
+---
+
+Tittel: PS 71/2024 Tilvisningsavtaler som boligsosialt virkemiddel
+
+Vedtak:
+Tilvisningsmodellen implementeres som et boligsosialt virkemiddel i Stjørdal kommune og kommunedirektøren gis fullmakt til å gå videre med markedsdialog, behovsutredning og utlysning av aktuelle tilvisningsprosjekt.
+
+Voteringer:
+- Avstemning om innstillingen fra formannskapet om implementering av tilvisningsmodellen som boligsosialt virkemiddel
+  - For: 37 stemmer

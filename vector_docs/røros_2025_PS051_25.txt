@@ -1,0 +1,19 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 051/25
+rodt_fremmet: False
+---
+
+Tittel: 051/25 Interpellasjon til kommunestyret 19.06.2025 - Renovasjon
+
+Vedtak:
+Røros Kommunestyret bestiller en orientering av FIAS i løpet av høsten i forkant av revidering av renovasjonsforskriften i Røros Kommune.
+
+Alternative forslag:
+- Repr. Stein Petter Haugen (Uavh): Røros Kommunestyret bestiller en orientering av FIAS i løpet av høsten i forkant av revidering av renovasjonsforskriften i Røros Kommune.
+
+Voteringer:
+- Votering over forslaget fra repr. Haugen om å bestille en orientering av FIAS i løpet av høsten i forkant av revidering av renovasjonsforskriften.
+  - For: 26 stemmer
+  - Imot: 1 stemmer

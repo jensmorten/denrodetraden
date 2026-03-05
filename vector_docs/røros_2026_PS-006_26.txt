@@ -1,0 +1,23 @@
+METADATA:
+kommune: røros
+year: 2026
+saksnummer: PS-006/26
+rodt_fremmet: False
+---
+
+Tittel: Planinitiativ detaljregulering An-Magrittveien 117 m.fl.
+
+Vedtak:
+Det åpnes for detaljregulering av nevnte område til fritidsboliger.
+
+Alternative forslag:
+- Per Arne Gjelsvik (V): 1 Det gis tillatelse til oppstart av reguleringsarbeid med formål bolig. 2 Inntil 25% kan være fritidsboliger. 3 Saken sendes tilbake til kommunedirektøren for videre tiltak.
+- Christian Elgaaen (SV): Beslutningen om å stoppe planinitiativet for detaljregulering av An-Magrittveien 117 m.fl. opprettholdes.
+
+Voteringer:
+- Votering over endringsforslaget fra repr. Gjelsvik
+  - For: 2 stemmer
+  - Mot: 24 stemmer
+- Votering over innstillingen fra planutvalget mot endringsforslaget fra repr. Elgaaen
+  - Innstillingen fra planutvalget: 14 stemmer
+  - Endringsforslaget fra repr. Elgaaen: 13 stemmer

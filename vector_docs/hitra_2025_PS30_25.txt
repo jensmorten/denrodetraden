@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 30/25
+rodt_fremmet: False
+---
+
+Tittel: Innføring av lokal forskrift vedrørende fyrverkeri (pyroteknisk vare)
+
+Vedtak:
+Hitra kommunestyre vedtar i samsvar med forskrift av 26.juni nr. 922 om håndtering av eksplosjonsfarlig stoff §9-2 andre ledd «forskrift om gebyr for saksbehandling av søknad om tillatelse til handel med fyrverkeri (pyroteknisk vare) og for gjennomføring av tilsyn i Hitra kommune».
+
+Voteringer:
+- Votering over innstilling om innføring av lokal forskrift vedrørende fyrverkeri
+  - For: 24 stemmer

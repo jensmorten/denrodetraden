@@ -1,0 +1,16 @@
+METADATA:
+kommune: røros
+year: 2026
+saksnummer: PS-005/26
+rodt_fremmet: False
+---
+
+Tittel: Årshjul for Handlings- og økonomiplan 2027-2030, budsjett 2027
+
+Vedtak:
+Årshjul 2026 for arbeid med budsjett og handlings- og økonomiplan vedtas
+Kommunedirektøren bes om å innarbeide de markerte endringer i prosessen i gjeldende økonomireglement
+
+Voteringer:
+- Innstillingen i saken ble enstemmig vedtatt.
+  - For: alle

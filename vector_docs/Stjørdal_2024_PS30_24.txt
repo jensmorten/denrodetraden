@@ -1,0 +1,35 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 30/24
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg til Representantskapet Revisjon Midt-Norge SA og Representantskapet KonSek Trøndelag IKS 2023 - 2027
+
+Vedtak:
+Kommunestyret opphever tidligere vedtak i kommunestyre sak 117/2023 vedrørende oppnevning til representantskapene i KONSEK Trøndelag og KOMREV.
+Representantskapet KonSek Trøndelag IKS:
+Som medlem velges: Eli Arnstad (Sp)
+Som varamedlem velges: Renate Trøan Bjørshol (H)
+Som varamedlem velges: Idar Aspmodal (Ap)
+Representantskapet Revisjon Midt-Norge SA:
+Som medlem velges: Eli Arnstad (Sp)
+Som varamedlem velges: Renate Trøan Bjørshol (H)
+Som varamedlem velges: Idar Aspmodal (Ap)
+
+Alternative forslag:
+- Tor Helge Forbord Slind (Senterpartiet): Representantskapet KonSek Trøndelag IKS:
+Som medlem velges: Eli Arnstad (Sp)
+Som varamedlem velges: Renate Trøan Bjørshol (H)
+Som varamedlem velges: Idar Aspmodal (Ap)
+Representantskapet Revisjon Midt-Norge SA:
+Som medlem velges: Eli Arnstad (Sp)
+Som varamedlem velges: Renate Trøan Bjørshol (H)
+Som varamedlem velges: Idar Aspmodal (Ap)
+
+Voteringer:
+- Avstemning over innstilling om oppheving av tidligere vedtak i kommunestyre sak 117/2023 vedrørende oppnevning til representantskapene i KONSEK Trøndelag og KOMREV.
+  - For: 36 stemmer
+- Avstemning over forslag fra Tor Helge Forbord Slind (Senterpartiet) om valg til representantskapene KonSek Trøndelag IKS og Revisjon Midt-Norge SA.
+  - For: 36 stemmer

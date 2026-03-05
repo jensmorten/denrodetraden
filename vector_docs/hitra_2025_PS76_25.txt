@@ -1,0 +1,30 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 76/25
+rodt_fremmet: True
+---
+
+Tittel: Skillet drift og investering
+
+Vedtak:
+Hitra kommunestyre ber kommunedirektøren om å videreføre praksisen for bokføring av utgifter til innkjøp og etablering av skybaserte IT-programvare (SaaS)
+Det presiseres at dette kun gjelder engangskostnader knyttet til SaaS-utgifter, og ikke løpende utgifter som lisenser og lignende.
+Kommunestyret ber kommunedirektøren forberede en sak om prinsipper for skille mellom drift og investering knyttet til digitale løsninger til første møte i kommunestyret 2026
+
+Alternative forslag:
+- Tom Skare (FrP): 1. Hitra kommunestyre ber kommunedirektøren om å videreføre praksisen for bokføring av utgifter til innkjøp og etablering av skybaserte IT-programvare (SaaS)
+2. Det presiseres at dette kun gjelder engangskostnader knyttet til SaaS-utgifter, og ikke løpende utgifter som lisenser og lignende.
+- Bjørn Jensen (Ap): Kommunestyret ber kommunedirektøren forberede en sak om prinsipper for skille mellom drift og investering knyttet til digitale løsninger til første møte i kommunestyret 2026
+- Jann O. Krangnes (R): Utsettelsesforslag
+
+Voteringer:
+- Vurdering av habilitet for Bjørg Reitan Bjørgvik (FrP)
+  - Enstemmig habil: alle
+  - Ikke habil: 0 stemmer
+- Votering på utsettelsesforslag fremmet av Jann O. Krangnes (R)
+  - For utsettelse: 8 stemmer
+  - Imot utsettelse: 17 stemmer
+- Votering mellom kontrollutvalgets innstilling og forslag fremmet av Tom Skare (FrP) med tilleggspunkt fra Bjørn Jensen (Ap)
+  - Kontrollutvalgets innstilling: 6 stemmer
+  - Forslag fra Tom Skare (FrP) med tilleggspunkt fra Bjørn Jensen (Ap): 19 stemmer

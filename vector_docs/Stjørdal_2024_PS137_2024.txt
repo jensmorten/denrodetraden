@@ -1,0 +1,23 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 137/2024
+rodt_fremmet: False
+---
+
+Tittel: Valg av forliksrådsmedlemmer for perioden 2025 - 2028
+
+Vedtak:
+Som forliksråd for perioden 2025 – 2028 velges:
+• Venke Reiten
+• Grete Bogen
+• Nils Nordbotn
+Som leder velges: Venke Reiten
+Varamedlemmer:
+• Tom Espen Andersen
+• Gunnar Uglem
+• Gudrun Lidal
+
+Voteringer:
+- Avstemning om innstillingen fra formannskapet om valg av forliksrådsmedlemmer for perioden 2025 – 2028
+  - For innstillingen: 36 stemmer

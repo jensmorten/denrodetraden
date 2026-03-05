@@ -1,0 +1,20 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 027/25
+rodt_fremmet: False
+---
+
+Tittel: Helseplattformen: Samarbeidsavtale om kommunalt oppgavefellesskap mellom eierkommunene
+
+Vedtak:
+Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres. Tiltredelse forutsetter at alle Helseplattformens eierkommuner slutter seg til oppgavefellesskapet.
+Kommunestyret utnevner ordfører Isak Busch som kommunens faste representant i oppgavefellesskapets representantskap, med varaordfører Christian Elgaaen som varamedlem.
+
+Alternative forslag:
+- Per Arne Gjelsvik (V): Kommunestyret takker nei til deltagelse i oppgavefellesskapet og avstår fra å undertegne samarbeidsavtalen.
+
+Voteringer:
+- Votering mellom endringsforslaget fra repr. Gjelsvik og innstillingen fra formannskapet
+  - Endringsforslaget fra repr. Gjelsvik: 4 stemmer
+  - Innstillingen fra formannskapet: 23 stemmer

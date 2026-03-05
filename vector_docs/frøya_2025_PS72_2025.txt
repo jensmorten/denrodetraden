@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 72/2025
+rodt_fremmet: False
+---
+
+Tittel: Inndekning av premieavvik fra regnskapet 2024
+
+Vedtak:
+Premieavvik fra 2024 foreslås å dekke fra disposisjonsfond ved følgende budsjettmessige endringer:
+D 10907.1100.171 Premieavvik - KLP Kr. 23.714.717
+D 10997.1100.171 Arbeidsgiver avg. Premieavvik - KLP Kr. 1.517.742
+D 10908.1100.171 Premieavvik - SPK Kr. 928.044
+D 10998.1100.171 Arbeidsgiver avg. Premieavvik - SPK Kr. 59.395
+K 19400.9000.880 Bruk av disposisjonsfond Kr. 26.219.898
+
+Voteringer:
+- Vedtak om inndekning av premieavvik fra regnskapet 2024
+  - Enstemmig vedtak: alle

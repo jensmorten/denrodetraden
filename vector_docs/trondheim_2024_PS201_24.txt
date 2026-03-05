@@ -1,0 +1,24 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 201/24
+rodt_fremmet: False
+---
+
+Tittel: Det videre samarbeidet med Stiftelsen Livsglede for Eldre
+
+Vedtak:
+Det inngås en ny avtale med stiftelsen Livsglede for eldre der arbeidet med å rekruttering og legge tilrette for frivilligheten innen eldreomsorgen gis større fokus.
+I videre dialog mellom Trondheim kommune og stiftelsen Livsglede for eldre skal man se på hvordan man ivaretar rutiner og intensjoner, samtidig som man ikke legger for store beslag på ansatteressursene. Avtalen evalueres etter to år.
+Bystyret understreker betydningen av forebygging mot demenssykdom, og ber om at dette vurderes som et tema i avtalen. Antall personer som rammes av demens er økende, og forebyggende tiltak vil både ha stor positiv effekt på den enkelte og for samfunnet som helhet.
+
+Alternative forslag:
+- Vegard Frøseth Fenes (SP): Bystyret understreker betydningen av forebygging mot demenssykdom, og ber om at dette vurderes som et tema i avtalen. Antall personer som rammes av demens er økende, og forebyggende tiltak vil både ha stor positiv effekt på den enkelte og for samfunnet som helhet.
+
+Voteringer:
+- Votering over innstillingen
+  - For innstillingen: 64 stemmer
+  - Mot innstillingen: 3 stemmer
+- Votering over Frøseth Fenes (SP) sitt tilleggsforslag om forebygging mot demenssykdom
+  - For forslaget: 64 stemmer
+  - Mot forslaget: 3 stemmer

@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 65/2025
+rodt_fremmet: False
+---
+
+Tittel: Vedlikeholdsplan kommunale bygg - revidert tiltaksliste
+
+Vedtak:
+Kommunestyret slutter seg til det framlagte forslag til prioritering av tiltak på kommunale bygg for 2025 med totalt kapitalbehov på Kr 6 500 000.
+Midlene tas fra investeringsprosjekt 551311 «påkostning kommunale bygg» med saldo 2 750 000 samt tildelte midler fra havbruksfond med saldo 7 500 000. Total disponibel ramme 10 250 000.
+Udisponerte midler avsettes til løpende vedlikeholdsoppgaver ved lukking av avvik og uforutsette hendelser/løpende oppdrag.
+
+Voteringer:
+- Vedtak av forslag til prioritering av tiltak på kommunale bygg for 2025
+  - For: Enstemmig

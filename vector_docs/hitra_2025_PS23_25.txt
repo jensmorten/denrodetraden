@@ -1,0 +1,8 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 23/25
+rodt_fremmet: False
+---
+
+Tittel: Ekspropriasjon av areal til kommunale tjenester for framtida - u.off.

@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 33/2024
+rodt_fremmet: False
+---
+
+Tittel: Heimdal Fotball - søknad om kommunal lånegaranti
+
+Vedtak:
+Bystyret vedtar å stille garanti for et lån på kroner 19.412.166 til ny kunstgressbane med de angitte betingelser.
+
+Voteringer:
+- Votering over innstillingen om å stille garanti for lån til ny kunstgressbane
+  - For: Enstemmig

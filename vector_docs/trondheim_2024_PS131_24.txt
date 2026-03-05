@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 131/24
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering av Fredlybekken, øvre del, Utleirvegen - Klæbuveien, detaljregulering, sluttbehandling
+
+Vedtak:
+Saken utsettes.
+
+Alternative forslag:
+- Aurora Meland Winger (MDG): Saken utsettes.
+
+Voteringer:
+- Votering over Wingers utsettelsesforslag
+  - For utsettelsesforslaget: 40 stemmer
+  - Mot utsettelsesforslaget: 26 stemmer

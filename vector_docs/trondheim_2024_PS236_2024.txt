@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 236/2024
+rodt_fremmet: False
+---
+
+Tittel: Torbjørn Bratts veg, detaljregulering
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Torbjørn Bratts veg som vist på plankart r20230037 i målestokk 1:1000 (A1), merket Trøndelag Fylkeskommune og Multiconsult senest datert 14.10.2024 med reguleringsbestemmelser senest datert 21.10.2024 og beskrevet i planbeskrivelsen, senest datert 21.10.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: alle

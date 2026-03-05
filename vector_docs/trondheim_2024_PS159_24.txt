@@ -1,0 +1,37 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 159/24
+rodt_fremmet: False
+---
+
+Tittel: PS 159/2024 Del av Brøset med tilliggende veger, detaljregulering, sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Del av Brøset med tilliggende veger, som vist på kart i målestokk 1:1000, merket Norconsult og Add arkitekter senest datert 15.5.2024 med bestemmelser senest datert 15.5.2024 og beskrevet i planbeskrivelsen, senest datert 15.5.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12. Nytt punkt legges til: • Der normen gir krav om minst 10 sykkelparkeringsplasser skal det for virksomheter være garderobe med dusjfasiliteter for ansatte.
+
+Alternative forslag:
+- Even Næss Bergseng (SV) på vegne av SV, R, Uavh.: Reguleringsbestemmelse § 4.1.8 Boligsammensetning får følgende tillegg: Ettromsleilighetene skal være på minst 30 m².
+- Even Næss Bergseng (SV) på vegne av SV, R: 4.1.14 Følgende punkter endres til følgende: Parkeringsdekning for bil skal være: • Bolig, felt BS1, BS2, BS3, BS4, BS5: Maksimum 0,3 p-plasser pr. 70 m² BRA eller boenhet • Bolig, felt B1, B4: Maksimum 0,5 p-plasser pr. 70 m² BRA eller boenhet • Bolig, felt B2, B3: Maksimum 0,5 p-plasser pr. 70 m² BRA eller boenhet
+- Even Næss Bergseng (SV) på vegne av SV, R: 4.1.14 Følgende punkter endres til følgende: • Kontor: maks. 1 p-plasser per påbegynt 1000 m² BRA. • Forretning: Maks. 1 p-plasser pr. 100 m² BRA • Privat tjenesteyting: Maks. 0,5 p-plasser pr. 100 m² BRA
+- Even Næss Bergseng (SV) på vegne av SV, R: 4.1.14 Følgende punkt endres: • Minst 12,5 prosent av sykkelparkeringen skal være for sykkelvogner og lastesykler, og være minst 1 m x 2,6 m
+- Even Næss Bergseng (SV) på vegne av SV, R: 4.1.14 Nytt punkt legges til: • Der normen gir krav om minst 10 sykkelparkeringsplasser skal det for virksomheter være garderobe med dusjfasiliteter for ansatte.
+
+Voteringer:
+- Votering over innstillingen
+  - For: 67 stemmer
+- Votering over Næss Bergsengs forslag "Krav til minstestørrelse på ettromsleilighetene"
+  - For: 14 stemmer
+  - Mot: 53 stemmer
+- Votering over Næss Bergsengs forslag "Endret forslag til privatparkering"
+  - For: 13 stemmer
+  - Mot: 54 stemmer
+- Votering over Næss Bergsengs forslag "Endret forslag til bilparkering for kontor, forretning og tjenesteyting"
+  - For: 13 stemmer
+  - Mot: 54 stemmer
+- Votering over Næss Bergsengs forslag "Økt andel plasser for sykkelvogner og lastesykler"
+  - For: 23 stemmer
+  - Mot: 44 stemmer
+- Votering over Næss Bergsengs forslag "Punkt om garderobe"
+  - For: 43 stemmer
+  - Mot: 24 stemmer

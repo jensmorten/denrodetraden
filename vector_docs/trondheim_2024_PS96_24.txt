@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 96/24
+rodt_fremmet: False
+---
+
+Tittel: PS 96/2024 Kvalitetsmelding barnehage 2023
+
+Vedtak:
+Saken utsettes.

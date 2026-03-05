@@ -1,0 +1,40 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 73/24
+rodt_fremmet: True
+---
+
+Tittel: PS 73/2024 Representantforslag - Nye botilbud for eldre i Trondheim - Maria Alseth (FrP)
+
+Vedtak:
+Innstillingen unntatt pkt 3 ble vedtatt.
+Innstilligens punkt 3 ble vedtatt.
+Andreassens forslag "Botilbud i nærheten av tjenestetilbud" ble vedtatt.
+Horgars tilleggsforslag "Boligbehov hos tegnspråklige eldre" ble enstemmig vedtatt.
+Dambas fellesforslag "Boliger for eldre i tilknytning til barnehage, studenter og barnefamilier" ble enstemmig vedtatt.
+
+Alternative forslag:
+- Mia Småvik Rørdal (R): Bystyret ber kommunedirektøren øke kapasiteten i botilbudene for eldre, i forbindelse med boligmatrisen for omsorgstjenestene, som er under utarbeidelse.
+- Elin Marie Andreassen (FrP): Bystyret ber om at det legges til rette for at botilbudene kan bygges i tilknytning til servicetjenester, kafeer, butikker og andre tjenestetilbud.
+- Anbjørg Horgar (SV): Bystyret ber kommunedirektøren i arbeidet med boligmatrisen for omsorgstjenestene inngå dialog med Norges Døveforbund Trondheim om hvordan vi kan ivareta ulike boligbehov hos tegnspråklige eldre.
+- Efia Marie Damba (SV) på vegne av SV, R, Ap, FrP: Bystyret ber kommunedirektøren vurdere ulike boformer for eldre som gjør at eldre kan bo lengre hjemme. I arbeidet skal det i større grad vurderes at boliger bygges i tilknytning til barnehage og boligtyper for studenter og barnefamilier for å legge til rette for generasjonsmøter og forhindre ensomhet.
+- Mia Småvik Rørdal (R): Entreprenører som benytter kommunens faglige kompetanse skal faktureres for kommunens totale kostnader ved å tilby konsulenttjenester.
+
+Voteringer:
+- Votering på Småvik Rørdals forslag "Økt kapasitet i boligtibudet for eldre"
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Votering på innstillingen unntatt pkt 3
+  - For: 55 stemmer
+  - Mot: 13 stemmer
+- Votering på innstillingens punkt 3
+  - For: 37 stemmer
+  - Mot: 30 stemmer
+- Votering på Andreassens forslag "Botilbud i nærheten av tjenestetilbud"
+  - For: 66 stemmer
+  - Mot: 1 stemmer
+- Votering på Horgars tilleggsforslag "Boligbehov hos tegnspråklige eldre"
+  - For: Enstemmig
+- Votering på Dambas fellesforslag "Boliger for eldre i tilknytning til barnehage, studenter og barnefamilier"
+  - For: Enstemmig

@@ -1,0 +1,31 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 124/24
+rodt_fremmet: False
+---
+
+Tittel: Delegeringsreglementet
+
+Vedtak:
+1. Bystyret delegerer sin avgjørelsesmyndighet etter lover der kommunen har avgjørelsesmyndighet, til byrådet med unntak som angitt.
+2. Følgende saker unntas fra delegering til byrådet som spesifisert.
+3. Byrådet kan videredelegere saker som ikke er av prinsipiell betydning med unntak som angitt.
+4. Byrådet gis myndighet til å treffe hastevedtak jf. kommuneloven § 11-8.
+5. Bystyret delegerer avgjørelsesmyndighet etter plan- og bygningsloven til bygningsutvalget.
+6. Bystyret delegerer avgjørelsesmyndighet i spesifiserte saker til byutviklingsutvalget.
+7. Valgloven delegeres til valgstyret med unntak som angitt.
+8. Bystyret delegerer avgjørelsesmyndighet i spesifiserte saker til oppvekst- og kulturutvalget.
+9. Bystyret delegerer avgjørelsesmyndighet for handlingsdeler tilhørende kommunedelplaner og temaplaner til flere utvalg som angitt.
+
+Alternative forslag:
+- Majen Helen Sævik (KrF): Bystyret delegerer avgjørelsesmyndigheten for handlingsdeler tilhørende kommunedelplaner og temaplaner vedtatt i bystyret til oppvekst- og kulturutvalget, finans- og organisasjonsutvalget, byutviklingsutvalget, helse- og velferdsutvalget og miljø-, næring- og samferdselsutvalget. Forretningsutvalget kan avgjøre at saker bare sendes for innstilling til utvalgene om saken er av avgjørende prinsipiell karakter eller om kommunedelplanene kan anses å falle under flere av utvalgenes virkeområde.
+
+Voteringer:
+- Votering på innstillinga unntatt pkt 8
+  - For: 67 stemmer
+- Votering på innstillingas pkt 8
+  - For: 48 stemmer
+  - Mot: 19 stemmer
+- Votering på Sæviks tilleggsforslag
+  - For: 67 stemmer

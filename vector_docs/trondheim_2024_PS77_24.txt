@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 77/24
+rodt_fremmet: False
+---
+
+Tittel: PS 77/2024 Vollabakken vann og avløp - investeringsbeslutning
+
+Vedtak:
+Bystyret vedtar at Kommunedirektøren gjennomfører anlegget Vollabakken vann og avløp med en total kostnadsramme på 44 millioner kroner. Tiltaket finansieres innenfor vedtatt investeringsramme for vann og avløp i perioden 2024 - 2027.
+
+Voteringer:
+- Votering om innstillingen til gjennomføring av anlegget Vollabakken vann og avløp med kostnadsramme på 44 millioner kroner.
+  - For: enstemmig

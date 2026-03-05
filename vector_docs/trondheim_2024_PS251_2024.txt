@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 251/2024
+rodt_fremmet: False
+---
+
+Tittel: Oppnevning til styre i Stavne Arbeid Trondheim KF og Stavne Inkludering Trondheim KF
+
+Vedtak:
+
+
+Voteringer:
+- Votering om innstillingen til styre i Stavne Arbeid Trondheim KF og Stavne Inkludering Trondheim KF
+  - Innstillingen: enstemmig

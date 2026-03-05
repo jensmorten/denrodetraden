@@ -1,0 +1,23 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 72/24
+rodt_fremmet: False
+---
+
+Tittel: PS 72/2024 Statusorientering på bosettings- og kvalifiseringsarbeidet pr 03 mai 2024
+
+Vedtak:
+Saken tas til orientering.
+Stjørdal kommune ønsker å tilby introduksjonskurs til alle flyktninger, uavhengig av alder.
+Kommunedirektøren bes utrede og legge frem sak snarest mulig, med det formål å få flest mulig ut i arbeid.
+
+Alternative forslag:
+- Idar Aspmodal (Arbeiderpartiet): Stjørdal kommune ønsker å tilby introduksjonskurs til alle flyktninger, uavhengig av alder.
+Kommunedirektøren bes utrede og legge frem sak snarest mulig, med det formål å få flest mulig ut i arbeid.
+
+Voteringer:
+- Avstemning over innstilling: Saken tas til orientering.
+  - For: 37 stemmer
+- Avstemning over tilleggsforslag fra Idar Aspmodal (Ap): Tilby introduksjonskurs til alle flyktninger uavhengig av alder.
+  - For: 37 stemmer

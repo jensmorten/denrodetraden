@@ -1,0 +1,20 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 90/25
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg - varamedlem til teknisk utvalg - plan, landbruk og miljø 2023-2027
+
+Vedtak:
+Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Kristoffer Einvik (Ap) som nytt varamedlem av teknisk utvalg – plan, landbruk og miljø. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.
+
+Alternative forslag:
+- John Lernes (Ap): Kristoffer Einvik (Ap) oppnevnes som nytt varamedlem.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet om oppnevning av Kristoffer Einvik som nytt varamedlem.
+  - For: enstemmig
+- Votering over John Lernes sitt forslag om oppnevning av Kristoffer Einvik som nytt varamedlem.
+  - For: enstemmig

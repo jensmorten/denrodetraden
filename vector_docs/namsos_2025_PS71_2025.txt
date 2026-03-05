@@ -1,0 +1,21 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 71/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 71/2025 Møteplan folkevalgte organer 2026
+
+Vedtak:
+Kommunestyret vedtar møteplan for folkevalgte organer for 2026
+Formannskapet skal starte kl 10.00
+
+Alternative forslag:
+- Randi Dille (Senterpartiet): Formannskapet skal starte kl 10.00
+
+Voteringer:
+- Votering over kommunedirektørens innstilling om møteplan for folkevalgte organer for 2026
+  - For: 35 stemmer
+- Votering over tilleggsforslag fra Randi Dille (SP) om at formannskapet skal starte kl 10.00
+  - For: 35 stemmer

@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 9/2025
+rodt_fremmet: False
+---
+
+Tittel: Søknad om lån til unge fiskere - Vågagutt AS - Truls Johansen
+
+Vedtak:
+Det innvilges et lån til Vågagutt AS v/Truls Johansen på 1.000.000,- for investering i kvote
+Det tilbys en løpetid på inntil 10 år
+Lånerente fastsettes av Intrum
+Det tas pant i kvote – effektueres av Intrum
+
+Voteringer:
+- Formannskapets behandling av sak 5/2025 i møte den 14.01.2025
+  - Enstemmig: alle
+- Kommunestyrets behandling av sak 9/2025 i møte den 30.01.2025
+  - Enstemmig: alle

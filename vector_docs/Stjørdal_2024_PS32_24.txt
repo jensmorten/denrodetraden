@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 32/24
+rodt_fremmet: False
+---
+
+Tittel: Revisjon av handlingsplan for arrangementsbyen Stjørdal
+
+Vedtak:
+Revidert handlingsplan for arrangementsbyen Stjørdal tas til orientering.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 14.03.2024 om revidert handlingsplan for arrangementsbyen Stjørdal
+  - For forslaget: 37 stemmer

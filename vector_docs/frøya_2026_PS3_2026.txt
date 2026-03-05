@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 3/2026
+rodt_fremmet: False
+---
+
+Tittel: Referatsaker
+
+Vedtak:
+Referatene tas til orientering
+
+Voteringer:
+- Vedtak om at referatene tas til orientering
+  - For: Enstemmig

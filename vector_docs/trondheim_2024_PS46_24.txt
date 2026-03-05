@@ -1,0 +1,64 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 46/24
+rodt_fremmet: True
+---
+
+Tittel: PS 46/2024 Kommunedelplan energi og klima 2024-2030
+
+Vedtak:
+Innstillingen pkt 1 - 4 unntatt pkt 2b ii ble vedtatt med 63 stemmer mot 4 stemmer.
+Innstillingens pkt. 5 ble vedtatt med 60 stemmer mot 7 stemmer.
+Heldals forslag "Vi skal først søke å bevare før vi river og bygger nytt" ble vedtatt med 42 stemmer mot 25 stemmer.
+Bassos forslag "Tillegg til måloppnåelse : b. Trondheim er energismart" ble vedtatt med 62 stemmer mot 5 stemmer.
+Meland Wingers "Tillegg punkt 3E" ble vedtatt med 62 stemmer mot 5 stemmer.
+
+Alternative forslag:
+- Roald Arentzen (R): Alternativt punkt 5: Trondheim kommune skal være en pådriver for at staten gir kommunen de virkemidlene den trenger for å nå klimamålene. Dette innebærer å jobbe opp mot nasjonale myndigheter for å få virkemidler og nødvendige lovhjemler til å stille krav om utslippsfri bygge- og anleggsvirksomhet i privat regi, samt endringer i energiregelverket og nødvendige lovhjemler som muliggjør mer lokal energiproduksjon og -deling.
+- Roald Arentzen (R): Omlasting mellom bane og båt: Nytt strekpunkt under kapitlet Mobilitet og transport (side 49 i planen): Muligheten for å omlaste mellom tog og båt sentralt i byen er et viktig bidrag til å nå klimamålene.
+- Trude Basso (Ap): Endringsforslag måloppnåelse b pkt ii: Nytt forslag med stryking av "fornybare": ii) Energiressurser utnyttes smart og fleksibelt, for å sikre nok energi og effekt til klimaomstillingen og samtidig begrense tapet av natur.
+- Trude Basso (Ap): Tillegg til måloppnåelse: b. Trondheim er energismart: iv. Kommunen tilrettelegger areal for energi-infrastruktur som er nødvendig for det grønne skiftet.
+- Magni Fjørtoft Svarstad (R): Nytt underpunkt under punkt 3f: i. Karbonfangst og lagring på renseanlegget: Trondheim kommune skal aktivt jobbe for realiseringen av karbonfangst og lagring (CCS) på renseanlegget på Heimdal. Kommunen forutsetter at finansieringen skal fordeles mellom statlige organer og Statkraft.
+- Efia Marie Damba (SV): Klimavennlig kosthold: Nytt strekpunkt under kapitlet Forbruk og avfall (side 59 i planen): Legge til rette for et mer klimavennlig kosthold i kommunale kantiner og kjøkken i tråd med offisielle kostholdsråd. “Kjøtt, ja takk”, altså vegetarisk mat som standard, skal innføres i kommunale kantiner og på enheter som er egna.
+- Nils Heldal (SV): Tillegg til punkt 5: Det skal arbeides for å erstatte dagens bomring med et veiprisingssystem som bidrar til reduserte utslipp og veitrafikk.
+- Nils Heldal (SV): Vi skal først søke å bevare før vi river og bygger nytt: Tillegg til Klimaplanens satsinger mot 2030 - 4.2 Vi skal først søke å bevare før vi river og bygger nytt.
+- Jomar Andre Aftret (FrP): Kjernekraft: Bystyret ber om at det i fremtidige versjoner av kommunedelplan for energi og klima, også vurderes om/hvordan Trondheim kommune kan bidra til, og/eller legge til rette for, utvikling og etablering av kjernekraftverk som en del av behovet for økt strømproduksjon i regionen.
+
+Voteringer:
+- Votering om innstillingen pkt 1 - 4 unntatt pkt 2b ii
+  - For: 63 stemmer
+  - Mot: 4 stemmer
+- Alternativ votering mellom Innstillingen pkt 2b ii og Bassos forslag
+  - Innstillingen pkt 2b ii: 33 stemmer
+  - Bassos forslag: 34 stemmer
+- Votering om Arentz forslag punkt 5
+  - Arentz forslag: 12 stemmer
+  - Innstillingens pkt. 5: 55 stemmer
+- Votering om innstillingens pkt. 5
+  - For: 60 stemmer
+  - Mot: 7 stemmer
+- Votering om Arentz forslag "Omlasting mellom bane og båt"
+  - For: 4 stemmer
+  - Mot: 63 stemmer
+- Votering om Heldals forslag "Vi skal først søke å bevare før vi river og bygger nytt"
+  - For: 42 stemmer
+  - Mot: 25 stemmer
+- Votering om Aftrets forslag "Kjernekraft"
+  - For: 6 stemmer
+  - Mot: 61 stemmer
+- Votering om Bassos forslag "Tillegg til måloppnåelse : b. Trondheim er energismart"
+  - For: 62 stemmer
+  - Mot: 5 stemmer
+- Votering om Meland Wingers forslag "Tillegg punkt 3E"
+  - For: 62 stemmer
+  - Mot: 5 stemmer
+- Votering om Fjørtoft Svarstads forslag "Karbonfangst og lagring"
+  - For: 29 stemmer
+  - Mot: 38 stemmer
+- Votering om Heldals "Tillegg til punkt 5"
+  - For: 12 stemmer
+  - Mot: 55 stemmer
+- Votering om Dambas forslag "Klimavennlig kosthold"
+  - For: 13 stemmer
+  - Mot: 54 stemmer

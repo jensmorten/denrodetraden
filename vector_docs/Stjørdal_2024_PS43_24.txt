@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 43/24
+rodt_fremmet: False
+---
+
+Tittel: Tertialrapport nr. 3 - Kommunale byggeprosjekter
+
+Vedtak:
+Kommunestyret tar statusrapporten for «større» byggeprosjekter for 3. tertial 2023 til orientering.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 14.03.2024 om å ta statusrapporten for «større» byggeprosjekter for 3. tertial 2023 til orientering.
+  - For: 37 stemmer

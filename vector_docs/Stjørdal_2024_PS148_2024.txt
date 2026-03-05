@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 148/2024
+rodt_fremmet: False
+---
+
+Tittel: Slam – inndekning av negativt fond, Stjørdal kommune
+
+Vedtak:
+Det vedtas et engangsgebyr i 2025 for dekning av negativt selvkostfond for slam i Stjørdal kommune. Gebyrsats for husholdningsabonnement fastsettes til kroner 785,- inkl mva, og for hytte/fritidsabonnement kroner 392,50 inkl mva.
+
+Voteringer:
+- Votering over innstilling om engangsgebyr for dekning av negativt selvkostfond for slam
+  - For: 37 stemmer

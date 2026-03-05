@@ -1,0 +1,8 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 079/25
+rodt_fremmet: False
+---
+
+Tittel: 079/25 Grunngitt spørsmål - strømberedskap etter Amy

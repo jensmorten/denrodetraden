@@ -1,0 +1,28 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 167/24
+rodt_fremmet: False
+---
+
+Tittel: PS 167/2024 Fritakssøknad Stine Hostad (H)
+
+Vedtak:
+Stine Hostad sin fritakssøknad fra bystyret innvilges.
+1.Medlem i miljø-, nærings- og samferdselsutvalget for Høyre: Jacob Brox
+2. Medlem i Nordenfjeldske kunstindustrimuseum Karl Erik Haug
+3.Varamedlem styret i Trondheim kunstmuseum Karl Erik Haug
+4. Varamedlem representantskapet i Trondheim Havn IKS - Tone Dorthe Sletten
+
+Alternative forslag:
+- Berit Tiller (H): 1.Medlem i miljø-, nærings- og samferdselsutvalget for Høyre: Jacob Brox
+2. Medlem i Nordenfjeldske kunstindustrimuseum Karl Erik Haug
+3.Varamedlem styret i Trondheim kunstmuseum Karl Erik Haug
+4. varamedlem representantskapet i Trondheim Havn IKS - Tone Dorthe Sletten
+
+Voteringer:
+- Votering over innstillingen
+  - For innstillingen: 38 stemmer
+  - Mot innstillingen: 29 stemmer
+- Votering over Tillers tilleggsforslag
+  - For tilleggsforslaget: 67 stemmer

@@ -1,0 +1,32 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 31/2024
+rodt_fremmet: True
+---
+
+Tittel: Kommunedelplan landbruk - sluttbehandling
+
+Vedtak:
+Bystyret vedtar kommunedelplanen “Landbruksplan for Trondheim 2024-2034” med de endringer som fremkom i behandlingen, herunder: - Endring av punkt 5 i mål 5 i tråd med Fjørtoft Svarstads forslag. - Endring av mål 6 ved å stryke ordet “bynært” i tråd med Dyrendahls forslag. - Endring av mål 6 med tillegg og endring av strategier/tiltak i mål 6 og 8 i tråd med Dyrendahls forslag. - Tilleggsforslag “Bybonden” ble enstemmig vedtatt. Flertallsmerknader fra MDG, H, Ap, INP, KrF, SP, SV, V, PP, R og andre ble tatt til følge som beskrevet i saksfremlegget.
+
+Alternative forslag:
+- Tor Dyrendahl (MDG) på vegne av MDG, H, V, KrF: Endre mål 6 ved å stryke ordet “bynært”, slik at målet blir: “Trondheim kommune skaper felles faglige og sosiale arenaer for samarbeid for både landbruk og urban matproduksjon.”
+- Tor Dyrendahl (MDG) på vegne av MDG, H, V, KrF: Tilllegg og endring av strategier/tiltak i mål 6 og 8: 1. Mål 6 a. Stryke “ved behov” slik at tiltak 17.1 blir slik: Følge opp og bidra til å skape nye møteplasser for landbruksnettverk b. Legge til ny strategi 19 og tilhørende tiltak (nummerering forskyves på etterfølgende strategier og tiltak): - Strategi 19: Økt kunnskap og samarbeid om urban dyrking - Tiltak 19.1: Videreføre støtte til urban dyrking og bidra til å skape møteplasser for urban dyrking. 2) Mål 8 - Legge til nytt tiltak 22.7: Bidra til økt kunnskap om karbonbinding og legge til rette for flere prosjekter med jordoppbyggende prinsipper.
+- Magni Fjørtoft Svarstad (R): Endre punkt 5: Landbruket i Trondheim kommune har et godt omdømme med stor grad av tillit gjennom oppdatert kunnskap og høy etisk standard.
+- Roar Aas (Ap): Landbruket i Trondheim skal - bidra til å fremsnakke norsk og trøndersk matproduksjon, - øke areal og bidra med kompetanse til urban dyrking i Trondheim, - bidra til økt rekruttering til naturbaserte næringer - Legge til rette for et samarbeid med skoler gjennom å stille utstyr areal og kompetanse til disposisjon
+
+Voteringer:
+- Votering over innstillinga unntatt pkt 5 og 6
+  - For: Enstemmig
+- Alternativ votering mellom innstillinga pkt 5 og Fjørtoft Svarstads forslag
+  - Fjørtoft Svarstads forslag: 63 stemmer
+  - Innstillinga pkt 5: 4 stemmer
+- Votering over Dyrendahls forslag "Stryke ordet bynært"
+  - Dyrendahls forslag: 63 stemmer
+  - Motforslag: 4 stemmer
+- Votering over Dyrendahls forslag "Endre mål 6"
+  - Dyrendahls forslag: 42 stemmer
+  - Motforslag: 25 stemmer
+- Votering over Aas forslag "Bybonden"
+  - For: Enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 218/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 218/2024 Takster for gravplasser og leie av kirkebygg 2025
+
+Vedtak:
+Bystyret vedtar følgende takster for gravplasser og leie av kirkebygg fra 1.1.2025: (beløp i kroner per år) Gravplasstakster Diverse tjenester på gravplassene
+
+Voteringer:
+- Votering om innstillingen til takster for gravplasser og leie av kirkebygg 2025
+  - Innstillingen: enstemmig

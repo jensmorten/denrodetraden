@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 125/24
+rodt_fremmet: False
+---
+
+Tittel: Rettsinstruks for Trondheim kommune
+
+Vedtak:
+Bystyret vedtar Trondheim kommunes rettsinstruks jf. vedlegg 1.
+
+Voteringer:
+- Innstillinga ble enstemmig vedtatt.
+  - For: alle

@@ -1,0 +1,31 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 126/24
+rodt_fremmet: True
+---
+
+Tittel: Reglement for byrådet
+
+Vedtak:
+Bystyret vedtar vedlagte reglement for byrådet.
+Reglementet gjelder fra 13. juni 2024 og inntil nytt reglement vedtas.
+
+Alternative forslag:
+- Arve Sletten (R): Alternativt andre avsnitt pkt. 3.2: Byrådet har myndighet til å avgjøre prinsipielle saker, men likevel slik at det er bystyret som skal avgjøre større prinsipielle saker. Dersom det er uklart om en sak er av større prinsipiell betydning skal forretningsutvalget avgjøre om saken er av en slik art at den skal legges fram for bystyret. Det skjønn som utøves kan etterprøves av bystyret.
+- Arve Sletten (R) og SV: Alternativt pkt. 3.8: Byrådet avgir normalt høringsuttalelser på vegne av Trondheim kommune. I prinsipielle saker skal disse imidlertid behandles i bystyret eller relevant bystyreutvalg.
+- Arve Sletten (R): Alternativt første avsnitt pkt. 3.9: Byrådet skal i første etterfølgende bystyremøte rapportere til bystyret om vedtak i saker som har prinsipiell betydning, jf. kommuneloven §10-2 siste ledd.
+
+Voteringer:
+- Votering om innstillinga unntatt det som berøres av forslaga fra Rødt
+  - Innstillinga unntatt det som berøres av forslaga fra Rødt: flertall
+  - Mot: 1 stemmer
+- Alternativ votering mellom innstillinga pkt 3.2 og Slettens forslag
+  - Innstillinga pkt 3.2: 52 stemmer
+  - Slettens forslag pkt 3.2: 15 stemmer
+- Alternativ votering mellom innstillinga pkt 3.8 og Slettens forslag
+  - Innstillinga pkt 3.8: 54 stemmer
+  - Slettens forslag pkt 3.8: 13 stemmer
+- Alternativ votering mellom innstillinga pkt 3.9 første avsnitt og Slettens forslag
+  - Innstillinga pkt 3.9 første avsnitt: 52 stemmer
+  - Slettens forslag pkt 3.9: 15 stemmer

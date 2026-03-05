@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 23/2026
+rodt_fremmet: False
+---
+
+Tittel: Ordførerens orientering
+
+Vedtak:
+Lederverv Partnerskapsutvalget St.Olav
+Interkommunalt politisk råd Trøndelag sørvest
+Oppstartsmøte referansegruppe Sularevet
+Yrkes- og utdanningsmessa
+Møte ang Norsk havbruksmuseum
+Felles politiråd
+Møte med Kontrollutvalget
+Kontaktmøte Frøya kommune og MOWI
+Equinor og oljeutslipp
+Fylkes og trafikksikkerhetstiltak

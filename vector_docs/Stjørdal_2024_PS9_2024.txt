@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 9/2024
+rodt_fremmet: False
+---
+
+Tittel: Orientering om konsekvenser av løpende barnehageopptak
+
+Vedtak:
+Kommunestyret ber kommunedirektøren grundig utrede løpende barnehageopptak med hensyn til utfordringer knyttet til blant annet kapasitetsbygging, økonomi, tilgang på kompetanse, demografi, tilvenning, den pedagogiske virksomheten, organisering og stabilitet i barnegruppen, brukernes ønsker og likebehandling av barn og barnehager.
+
+Voteringer:
+- Avstemning over innstilling om utredning av løpende barnehageopptak
+  - For: 37 stemmer

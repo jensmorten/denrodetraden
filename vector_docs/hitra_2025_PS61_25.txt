@@ -1,0 +1,35 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 61/25
+rodt_fremmet: True
+---
+
+Tittel: Merknadsbehandling og egengodkjenning - Barnehage- og skolebruksplan 2025 - 2035
+
+Vedtak:
+
+
+Alternative forslag:
+- Jann O. Krangnes (R): Kommunestyret ber om at kommunedirektør fremlegger egen sak for å at sikre at Kvenværet grendesamfunn vil ha mulighet til framtidig bruk av skolebygningene.
+- Terje Herfjord (PP): Hitra kommunestyre vedtar framlagte Barnehage- og skolebruksplan 2025/2035 for Hitra kommune, med følgende endringer:
+1. Nytt avsnitt i planen med definering av barns beste fastsettes.
+2. Ny barnehage plasseres i Fillan. Kommunedirektøren bes om å fremme utredning av sted og omfang i egen sak.
+3. Hemnskjela oppvekstsenter oppgraderes for å kunne møte fremskrevet vekst.
+4. Kommunedirektørens skolestruktur vedtas som beskrevet i alternativ 0.
+5. For og kontinuerlig sikre fleksibilitet i utnyttelse av kapasiteten i grendeskolene, gis kommunedirektøren i oppdrag å utrede framtidige skolekretsgrenser når endrede behov oppstår.
+- Dag Willmann (H): Hitra kommunestyre vedtar alternativ 0 for skolestruktur i Hitra kommune.
+- Bjørn Jensen (AP): I kommunedirektørens innstilling strykes punkt 6 i sin helhet.
+- Bjørn Jensen (AP): Med unntak av det som fremgår i kommunedirektørens innstilling punkt 1 og 2, vedtas skolestruktur som beskrevet i alternativ 0.
+
+Voteringer:
+- Kommunestyret voterte mellom innstillingen fra formannskapet og forslag fremmet av Terje Herfjord (PP).
+  - Innstillingen fra formannskapet: 19 stemmer
+  - Forslag fremmet av Terje Herfjord (PP): 6 stemmer
+- Kommunestyret voterte over forslag om tilleggspunkt nummer 8 fremmet av Jann O. Krangnes (R).
+  - Tilleggspunkt nummer 8: Enstemmig
+- Utvalget for Oppvekst voterte over punktene 1-5 i kommunedirektørens innstilling.
+  - Punktene 1-5 i kommunedirektørens innstilling: Enstemmig
+- Utvalget for Oppvekst voterte mellom forslag til nytt punkt 6 fremmet av Bjørn Jensen (AP) og punkt 6 i kommunedirektørens innstilling.
+  - Forslag til nytt punkt 6 fremmet av Bjørn Jensen (AP): Enstemmig
+  - Punkt 6 i kommunedirektørens innstilling: 0 stemmer

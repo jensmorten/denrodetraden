@@ -1,0 +1,18 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 11/2025
+rodt_fremmet: False
+---
+
+Tittel: KS spør - Debattheftet 2025
+
+Vedtak:
+{'tekst': 'Kommunestyret tar debatten til orientering og sender forslagene til KS', 'enstemmig': True, 'signatur': 'Lars Nordgård'}
+{'tekst': 'Avsnitt 2 i punkt 7 tas bort, dvs. avsnittet som starter med "Frøya kommune oppfordrer derfor til en evaluering av eksisterende bestemmelser som gjelder utdanningskrav, pedagogisk norm og krav til undervisningspersonell, da disse er krevende å oppfylle, spesielt i distriktskommuner som vår, hvor arbeidskraftmangel er et økende problem."', 'enstemmig': True, 'signatur': 'Elin Karpinski Strandheim'}
+
+Voteringer:
+- Vedtak om å ta debatten til orientering og sende forslagene til KS
+  - For: Enstemmig
+- Vedtak om å ta bort avsnitt 2 i punkt 7
+  - For: Enstemmig

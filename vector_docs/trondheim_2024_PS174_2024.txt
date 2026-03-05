@@ -1,0 +1,37 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 174/2024
+rodt_fremmet: False
+---
+
+Tittel: Valg til politiske organer etter innføring av parlamentarisme - settevalg og nyvalg
+
+Vedtak:
+
+
+Alternative forslag:
+- Berit Tiller (H) på vegne av H, KrF, MDG, PP, SP, SV, V: Bystyret oppnevner følgende settemedlemmer for den perioden medlemmer er byråd eller byrådssekretær.
+17.mai-utvalget 2023 - 27 Medlem: Lise Andersen Wiseth (H)
+Kulturpriskomite 2023 - 27 Medlem: Erling Moe (V)
+Representantskapet i Trondheim Havn IKS 2023 -27 Representant: Aurora Meland Winger (MDG) Vararepresentant: Guro Holm Skillingstad (V) Vararepresentant: Jonas Ali Ghanizadeh (MDG)
+Representantskapet TBRT IKS 2023 - 27 Representant: Nora Malini Sætherhø (MDG) Vararepresentant: Jonas Ali Ghanizadeh (MDG)
+Samenes nasjonaldag - komite 2024 - 27 Medlem: Marthe Stricert (V)
+
+Bystyret oppnevner følgende medlemmer for resten av perioden som følge av at byråder eller byrådssekretærer ihht. Byrådets reglement, og reglement for byrådssekretærer, har gått ut av vervet.
+Strinda fjellstyre 2023-27 Varamedlem: Jonas Ali Ghanizadeh (MDG)
+Midtbyen Management AS – styret 2023-27 Medlem: Berit Norseth (H)
+Partnerskap Atlantbanan 2023-27 Representant: Jonas Ali Ghanizadeh (MDG)
+Samarbeidsutvalg (forum) for samferdsel i Midt-Norge 2023-27 Medlem: Nora Malini Sætherhø (MDG) – også arbeidsutvalget
+Samarbeidsnettverk Punktum Trondheim Fagnettverk mot vold i nære relasjoner 2023-27 Medlem: Henriette L. Winnberg (SV)
+Singsaker studenthjem, rådet 2023-27 Varamedlem: Magnus Gilje (V)
+Skoleutvalg Strinda vgs 2023-27 Medlem: Ivar Henry Larsen (MDG)
+Trondheimsregionens friluftsråd 2023-27 Vara: Nora Malini Sætherhø (MDG)
+Vitensenteret 2023-27 Medlem. Aurora Meland Winger (MDG)
+Thonning Owesens legat Stiftelsen Christi Kjærlighet 2023-27 Varamedlem: Jonas Ali Ghanizadeh (MDG)
+Thonning Owesens legat for håndgjerningsskole for piker og gutter 2023-27 Varamedlem: Jonas Ali Ghanizadeh (MDG)
+Kaare Romulslis legat til kunstnerisk utsmykning 2023 - 27 Medlem: Majen Helen Sævik (KrF)
+
+Voteringer:
+- Votering over Tillers forslag på vegne av H, KrF, MDG, PP, SP, SV, V
+  - Tillers forslag: enstemmig

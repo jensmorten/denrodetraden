@@ -1,0 +1,23 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 93/25
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg - varamedlem i styret for Hitra Storkjøkken KF
+
+Vedtak:
+Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Trond Larsen som nytt varamedlem nummer 2 i styret for Hitra Storkjøkken KF. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.
+
+Alternative forslag:
+- Ordfører John Lernes (Ap): Forslag på følgende kandidat til vervet som nytt varamedlem nummer 2 i styret for Hitra Storkjøkken KF: Trond Larsen.
+- Ordfører John Lernes (Ap): Forslag om at saken utsettes til formannskapsmøte 04.12.2025.
+
+Voteringer:
+- Votering over utsettelsesforslag om at saken utsettes til formannskapsmøte 04.12.2025.
+  - For: enstemmig
+  - Mot: 0 stemmer
+- Votering over forslag på kandidat Trond Larsen som nytt varamedlem nummer 2 i styret for Hitra Storkjøkken KF.
+  - For: enstemmig
+  - Mot: 0 stemmer

@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 128/24
+rodt_fremmet: False
+---
+
+Tittel: Revidering av eierskapsmelding del I, økonomi-, finans- og garantireglement
+
+Vedtak:
+Bystyret vedtar forslag til økonomireglement for Trondheim kommune gjeldende fra 13. juni 2024, jf. vedlegg 1.
+Bystyret vedtar forslag til finansreglement for Trondheim kommune gjeldende fra 13. juni 2024, jf. vedlegg 2.
+Bystyret vedtar forslag til garantireglement for Trondheim kommune gjeldende fra 13. juni 2024, jf. vedlegg 3.
+Bystyret vedtar forslag til eierskapsmelding del I for Trondheim kommune gjeldende fra 13. juni 2024, jf. vedlegg 4.
+
+Voteringer:
+- Innstillinga ble enstemmig vedtatt.
+  - For: alle

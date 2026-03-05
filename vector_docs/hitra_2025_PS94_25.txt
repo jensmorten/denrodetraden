@@ -1,0 +1,29 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 94/25
+rodt_fremmet: False
+---
+
+Tittel: Valg til Hitra kirkelige fellesråd for perioden 2023-2027 - valg av ny kommunal representant
+
+Vedtak:
+Hitra kommune kan etter bestemmelsene i kirkeordningen § 15, andre ledd, oppnevne en representant til å delta i Hitra kirkelige fellesråd. Hitra kommune takker nei til videre representant i Hitra kirkelige fellesråd og foretar derfor ikke nyvalg på representant i denne saken. Som en konsekvens av dette opphører også vervet som 1. vara til nevne råd med virkning fra vedtaksdato.
+
+Alternative forslag:
+- Ordfører John Lernes (Ap) på vegne av Ap, R, Sp og SV: Hitra kommune kan etter bestemmelsene i kirkeordningen § 15, andre ledd, oppnevne en representant til å delta i Hitra kirkelige fellesråd. Hitra kommune takker nei til videre representant i Hitra kirkelige fellesråd og foretar derfor ikke nyvalg på representant i denne saken. Som en konsekvens av dette opphører også vervet som 1. vara til nevne råd med virkning fra vedtaksdato.
+- Ingrid Kathrine Schanche (Sp): Oppnevne Jann O. Krangnes (R) som kommunens faste representant i Hitra kirkelige fellesråd.
+
+Voteringer:
+- Votering over habilitet for Tom Skare (FrP)
+  - Habil: enstemmig
+  - Inhabil: 0 stemmer
+- Votering over habilitet for Heidi Kristine Fugelsøy (Ap)
+  - Habil: enstemmig
+  - Inhabil: 0 stemmer
+- Votering over forslag fra ordfører John Lernes (Ap) på vegne av Ap, R, Sp og SV om å takke nei til videre representant i Hitra kirkelige fellesråd
+  - For forslaget: 24 stemmer
+  - Imot forslaget: 1 stemmer
+- Votering over forslag fra Ingrid Kathrine Schanche (Sp) om å oppnevne Jann O. Krangnes (R) som kommunens faste representant i Hitra kirkelige fellesråd
+  - For forslaget: enstemmig
+  - Imot forslaget: 0 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 098/25
+rodt_fremmet: False
+---
+
+Tittel: Klage på områdeplan for Røros sentrum
+
+Vedtak:
+Røros kommune gir ikke medhold i klage på kommunestyrets vedtak av områdeplan for Røros sentrum den 20.6.2024. Røros kommune kan ikke se at det har kommet fram nye momenter som skulle tilsi at vedtaket bør omgjøres. Klagen sendes Statsforvalteren i Trøndelag for klagebehandling.
+
+Voteringer:
+- Utvalg for plansaker sin innstilling ble enstemmig vedtatt.
+  - For: alle

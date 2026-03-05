@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 005/25
+rodt_fremmet: False
+---
+
+Tittel: 005/25 Suppleringsvalg Røroslista 30.1.2025
+
+Vedtak:
+Til utvalg for kultur og samfunnsutvikling for Røroslista velges Rune Kurås som 1. vara og Marit Ose som 2. vara. Til kommunestyret for Røroslista velges Nils Morten Jonassen inn som 4. vara. Ny varaliste for Røroslista i kommunestyret blir dermed følgende: 1. Rune Kurås, 2. Marit Ose, 3. Idar Brandsfjell, 4. Nils Morten Jonassen.
+
+Voteringer:
+- Kommunedirektørens forslag til vedtak
+  - For: enstemmig

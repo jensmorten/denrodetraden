@@ -1,0 +1,26 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 7/2025
+rodt_fremmet: False
+---
+
+Tittel: Utvalg folkevalgtes arbeidsvilkår - 2025-2027
+
+Vedtak:
+Til Utvalg folkevalgte foreslås følgende medlemmer:
+1. Leder Arnt Skillingstad Rørvik
+2. Nestleder Randi Dille
+3. Trine Fagerhaug
+4. Hilde Guddingsmo
+5. Geir Olav Knappe
+
+Alternative forslag:
+- Hege Bjørgum Skillingstad (Høyre): Som leder foreslås Arnt Skillingstad Rørvik
+Som nestleder foreslås Randi Dille
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak
+  - For: 34 stemmer
+- Votering over tilleggsforslag fra Hege Bjørgum Skillingstad (Høyre)
+  - For: 34 stemmer

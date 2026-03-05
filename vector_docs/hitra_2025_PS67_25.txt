@@ -1,0 +1,17 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 67/25
+rodt_fremmet: False
+---
+
+Tittel: Økonomirapport 2. tertial 2025 - Hitra Storkjøkken KF
+
+Vedtak:
+Hitra kommunestyre godkjenner Økonomirapport 2. tertial 2025 for Hitra Storkjøkken KF slik den er fremlagt.
+
+Voteringer:
+- Innstillingen fra formannskapet
+  - For: enstemmig
+- Innstillingen i formannskapet
+  - For: enstemmig

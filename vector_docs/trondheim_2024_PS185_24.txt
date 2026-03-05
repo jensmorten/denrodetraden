@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 185/24
+rodt_fremmet: True
+---
+
+Tittel: Forlengelse av garanti for driftskreditt til Ski VM AS
+
+Vedtak:
+Saken sendes til finans- og organisasjonsutvalget for innstilling til bystyret.
+
+Alternative forslag:
+- Roald Arentz (R): Sendes til utvalg: Saken sendes til finans- og organisasjonsutvalget for innstilling til bystyret.
+
+Voteringer:
+- Votering over Roald Arentz (R) sitt forslag 'Sendes til utvalg'
+  - Arentz forslag: enstemmig

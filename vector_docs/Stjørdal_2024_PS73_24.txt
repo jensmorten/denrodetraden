@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 73/24
+rodt_fremmet: False
+---
+
+Tittel: PS 73/2024 Årsrapport 2023 inklusive årsmeldinger per sektor og Værnesregionen
+
+Vedtak:
+Vedlagte årsrapport/årsmeldinger for 2023 tas til orientering.
+
+Voteringer:
+- Avstemning over innstilling om årsrapport/årsmeldinger for 2023
+  - For: 37 stemmer

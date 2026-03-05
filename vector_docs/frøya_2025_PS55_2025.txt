@@ -1,0 +1,18 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 55/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 55/2025 Kommunedirektørens orientering
+
+Vedtak:
+Kjapp presentasjon av ny KD - hvordan har oppstarteren vært
+Kommunemøte med Statsforvalter
+Opptak i Oppfølgingsordningen av svake skoleresultater
+Status Frøyatunnelen
+Innbrudd pumpestasjon
+Status svømmehall Mausund
+Sula branndepo
+Hamarvik vannverk

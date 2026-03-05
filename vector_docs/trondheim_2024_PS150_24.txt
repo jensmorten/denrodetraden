@@ -1,0 +1,22 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 150/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av jordskiftemeddommere til Trøndelag jordskifterett for perioden 2025 - 2028
+
+Vedtak:
+Bystyret vedtar valg av følgende 6 jordskiftemeddommere til Trøndelag jordskifterett for perioden 01.01.2025 - 31.12.2028:
+Kjønn Født Fornavn Etternavn
+K 1963 Johanne Storler
+K 1988 Gro Helene Lerflaten
+K 1988 Marit Kviseth
+M 1962 Haldor Buan Grendstad
+M 1964 Kolbjørn Frøseth
+M 1956 Kiel Jan-Yngvar
+
+Voteringer:
+- Innstillinga ble enstemmig vedtatt.
+  - For: alle

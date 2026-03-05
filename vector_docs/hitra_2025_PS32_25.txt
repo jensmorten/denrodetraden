@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 32/25
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding for Hitras råd for personer med funksjonsnedsettelse
+
+Vedtak:
+Hitra kommunestyre tar årsmelding for Hitras råd for personer med funksjonsnedsettelse 2024 til orientering.
+
+Voteringer:
+- Votering over innstillingen til årsmelding for Hitras råd for personer med funksjonsnedsettelse
+  - For: enstemmig

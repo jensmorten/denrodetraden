@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 74/24
+rodt_fremmet: False
+---
+
+Tittel: PS 74/2024 Årsoppgjør 2023 - årsregnskap
+
+Vedtak:
+Årsregnskapet 2023 vedtas.
+
+Voteringer:
+- Avstemning om innstilling fra formannskapet om årsregnskapet 2023
+  - For forslaget: 37 stemmer

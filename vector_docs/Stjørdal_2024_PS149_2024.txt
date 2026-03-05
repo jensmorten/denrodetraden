@@ -1,0 +1,16 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 149/2024
+rodt_fremmet: False
+---
+
+Tittel: Fastsetting av forskrift om saksbehandlingsgebyr etter havne- og farvannsloven
+
+Vedtak:
+Kommunestyret vedtar forskrift om saksbehandlingsgebyr etter havne- og farvannsloven for kommunene Namsos, Steinkjer, Inderøy, Indre Fosen, Verdal, Levanger, Frosta, Stjørdal, Malvik, Trondheim, Skaun, Orkland, Hitra og Frøya.
+Kommunestyret vedtar vedlagt gebyrregulativ for 2025 for saksbehandlingsgebyr etter havne- og farvannsloven.
+
+Voteringer:
+- Avstemming over innstillingen om vedtak av forskrift og gebyrregulativ for 2025
+  - For: 37 stemmer

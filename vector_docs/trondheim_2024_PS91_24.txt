@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 91/24
+rodt_fremmet: False
+---
+
+Tittel: Nidarvoll skole og Sunnland skole med flerbrukshall - behov for tilleggsfinansiering
+
+Vedtak:
+Bystyret vedtar at investeringsrammen for prosjektet Nidarvoll skole og Sunnland skole med flerbrukshall økes med 17,8 mnok, fra 919,4 mnok til 937,2 mnok.
+Bystyret vedtar at lånerammen for prosjektet Nidarvoll skole og Sunnland skole med flerbrukshall økes med 5,4 mnok fra 715,6 mnok til 721 mnok.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: alle

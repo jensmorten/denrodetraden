@@ -1,0 +1,25 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 221/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 221/2024 Nye avgiftssatser for gateparkering, leie av grunn mv. for 2025
+
+Vedtak:
+Bystyret vedtar følgende betalingssatser for gateparkering fra 1.1.2025.
+Bystyret vedtar følgende betalingssatser for leie av grunn til basestasjoner og antenner fra 1.1.2025.
+Bystyret vedtar følgende betalingssats for flagging og oppheng av bannere på kommunale flaggstenger/gatelysmaster fra 1.1.2025.
+Bystyret vedtar følgende betalingssats for leie av offentlige eide strømskap fra 1.1.2025.
+Bystyret vedtar følgende betalingssatser for tap av nøkler til strømskap fra 1.1.2025.
+Bystyret vedtar følgende betalingssatser for leie av offentlig grunn til uteservering, fra 1.1.2025.
+Bystyret vedtar følgende betalingssatser for leie av offentlig grunn til salgsplasser 1.1.2025.
+Bystyret vedtar følgende betalingssatser for leie av offentlig grunn til arrangement fra 1.1.2025.
+Bystyret vedtar følgende betalingssatser for leie av offentlig grunn til andre tiltak fra 1.1.2025.
+Bystyret vedtar følgende betalingssatser for behandling av gravesøknader fra 1.1.2025.
+Bystyret vedtar følgende betalingssatser for gategrunnsleie ved overflatearbeid fra 1.1.2025.
+
+Voteringer:
+- Votering over innstillingen om nye avgiftssatser for 2025
+  - For: Enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 79/24
+rodt_fremmet: False
+---
+
+Tittel: Veteranplan for Stjørdaldalsføret 2024 - 2027
+
+Vedtak:
+Kommunestyret vedtar veteranplan for Stjørdal kommune og Meråker kommunen.
+
+Voteringer:
+- Avstemning over innstilling om veteranplan for Stjørdal kommune og Meråker kommunen
+  - For forslaget: 35 stemmer

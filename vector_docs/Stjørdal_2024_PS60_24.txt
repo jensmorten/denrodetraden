@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 60/24
+rodt_fremmet: False
+---
+
+Tittel: Konkurranseutsetting av førstelinjetjeneste og næringsutvikling
+
+Vedtak:
+Det gjennomføres intensjonskunngjøring i henhold til lov om offentlig anskaffelse for kjøp av førstelinjetjeneste og næringsutvikling. Intensjonskunngjøringen forutsetter 3-årig avtale med en opsjon på 1+1 år og videreføring av kjøp av 800 timer årlig.
+
+Voteringer:
+- Avstemning over innstilling om intensjonskunngjøring for kjøp av førstelinjetjeneste og næringsutvikling
+  - For: 36 stemmer

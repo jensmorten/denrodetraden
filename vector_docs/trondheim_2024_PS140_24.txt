@@ -1,0 +1,35 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 140/24
+rodt_fremmet: False
+---
+
+Tittel: Tiltaksplan mot vold i nære relasjoner
+
+Vedtak:
+Bystyret vedtar Tiltaksplan mot vold i nære relasjoner 2024-2027 med tilhørende punkter om medvirkningsrådenes innspill, prioritering av eldre som målgruppe og omtale av Punktum Trondheim Fagnettverk mot vold i nære relasjoner.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Bystyret ber om at det utarbeides et helhetlig oppfølgingsløp for mennesker som opplever vold i nære relasjoner, med koordinator for samordning av tjenester fra ulike etater. Bystyret ber om at dette vurderes etablert som et pakkeforløp, etter modell fra spesialisthelsetjenesten. Bystyret ber om å få en sak til behandling, med forslag til hvordan et slikt helhetlig oppfølgingsløp/pakkeforløp kan se ut.
+- Kjetil Utne (H) på vegne av H, SV: Bystyret peker på at innspillene fra medvirkningsrådene må ivaretas: Planen legger opp til at arbeidet mot vold i nære relasjoner skal ha en sterk ledelsesforankring og at hver enkelt enhet skal tilpasse hjelpen til sin målgruppe. Dette blir særlig viktig på de områdene i kommunen hvor man yter tjenester til ekstra sårbare grupper som for eksempel personer med nedsatt helse, førlighet eller utviklingshemning. Denne gruppen må særlig ivaretas på grunn av sin sterke avhengighet av pårørende og andre hjelpere. Det samme vil gjelde for mennesker med utfordringer knyttet til migrasjon, flukt fra krig samt kulturforskjeller. Her kreves det særlig oppmerksomhet og bruk av likepersonsarbeid og rollemodeller med tillit i ulike miljø. Kommunen bes inngå et formelt samarbeid med SiT som bør omhandle kompetanseheving på feltet vold i nære relasjoner og at det utarbeides strategier for samhandling.
+- Sara Shafighi (Ap): Bystyret ber om at eldre personer føres opp som en prioritert målgruppe i tiltaksplanen og ivaretas i voldsarbeidet. Med en økende andel eldre i befolkningen og for lite erfaring med å arbeide med forebygging og hjelp til denne gruppa, må gruppen prioriteres i større grad enn i dag.
+- Sara Shafighi (Ap): Punktum Trondheim Fagnettverk mot vold i nære relasjoner (tidligere Samråd vold mot kvinner) bør nevnes i planen. Punktum er et fagnettverk av ledere i instanser som møter brukergruppa. Nettverket har som målsetting å bygge relasjoner mellom fagenheter på ledernivå og gjennom gjensidig informasjon og kompetanseutvikling bidra til at barn, unge og voksne som opplever vold i nære relasjoner får et helhetlig og godt tilbud i Trondheim kommune.
+
+Voteringer:
+- Votering over innstillinga
+  - For: 67 stemmer
+- Votering over Andreassens tilleggsforslag
+  - For: 9 stemmer
+  - Mot: 58 stemmer
+- Votering over Utnes tilleggsforslag del 1
+  - For: 58 stemmer
+  - Mot: 9 stemmer
+- Votering over Utnes tilleggsforslag del 2
+  - For: 64 stemmer
+  - Mot: 3 stemmer
+- Votering over Shafighis tilleggsforslag (eldre)
+  - For: 46 stemmer
+  - Mot: 21 stemmer
+- Votering over Shafigis tilleggsforslag (punktum)
+  - For: 67 stemmer

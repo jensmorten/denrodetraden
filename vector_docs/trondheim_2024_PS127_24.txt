@@ -1,0 +1,17 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 127/24
+rodt_fremmet: False
+---
+
+Tittel: Reglement for informasjonsplikt, karantene og saksforbud
+
+Vedtak:
+Bystyret vedtar vedlagte reglement for informasjonsplikt, karantene og saksforbud (Vedlegg 1).
+Bystyret vedtar vedlagte reglement for karanteneutvalg (Vedlegg 2).
+Reglementet gjelder fra 13. juni 2024 og inntil nytt reglement vedtatt.
+
+Voteringer:
+- Votering over innstillinga
+  - For: enstemmig

@@ -1,0 +1,21 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 37/25
+rodt_fremmet: False
+---
+
+Tittel: Klagebehandling - Fastsetting av minsteareal for jakt på hjortevilt i lokal forskrift
+
+Vedtak:
+Hitra kommunestyre imøtekommer ikke klagen på vedtak om fastsetting av minsteareal for elg, hjort og rådyr i sak 1/2025 den 30.01.2025.
+Klagen tilfører ikke saken nye momenter som ikke lå til grunn for vedtaket av 30.01.2025.
+Vedtaket gjøres i medhold av Forskrift om forvaltning av hjortevilt § 36 og forvaltningsloven § 28.
+
+Voteringer:
+- Vurdering av habilitet for Stig Atle Lervåg
+  - Enstemmig habil: alle
+- Vurdering av habilitet for Sigrid Hanssen
+  - Enstemmig habil: alle
+- Vedtak av innstilling
+  - Enstemmig vedtak: alle

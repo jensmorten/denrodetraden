@@ -1,0 +1,21 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 21/24
+rodt_fremmet: False
+---
+
+Tittel: Oppnevning av komite med oppgave å fremlegge forslag på navn til nye meddommere
+
+Vedtak:
+Bystyret oppnevner følgende medlemmer til en komite med oppgave å fremlegge forslag på navn til nye meddommere: Erling Moe, Magnus Aastrøm, Mona Berger, Aurora Meland Winger
+Erling Moe (V) foreslås som leder av utvalget
+
+Alternative forslag:
+- Berit Tiller (H) på vegne av H, KrF, MDG, PP, SP, V: Erling Moe (V) foreslås som leder av utvalget
+
+Voteringer:
+- Votering over innstillingen
+  - Innstillingen: enstemmig
+- Votering over tilleggsforslag fra Berit Tiller (H) på vegne av H, KrF, MDG, PP, SP, V om leder av utvalget
+  - Tilleggsforslag: enstemmig

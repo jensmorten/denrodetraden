@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 124/2024
+rodt_fremmet: False
+---
+
+Tittel: Endring av partitilhørighet - Gunnar Uglem
+
+Vedtak:
+Gunnar Uglem benevnes som representant for Venstre i møteinnkallinger, protokoller og lignende fra november 2024.
+
+Voteringer:
+- Avstemning om ordførers forslag til vedtak/innstilling om at Gunnar Uglem benevnes som representant for Venstre.
+  - For: 36 stemmer

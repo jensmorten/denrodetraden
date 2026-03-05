@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 67/24
+rodt_fremmet: False
+---
+
+Tittel: PS 67/2024 Søknad om permisjon som folkevalgt - Ketil Einar Nilsen
+
+Vedtak:
+Kommunestyret viser til lovens bestemmelser og vurderer at vilkårene er til stede for å innvilge Ketil Einar Nilsen permisjon fra sitt verv som folkevalgt frem til helsesituasjonen er avklart.
+
+Voteringer:
+- Avstemning om innstilling om permisjon for Ketil Einar Nilsen
+  - For: 37 stemmer

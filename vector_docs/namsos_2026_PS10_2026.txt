@@ -1,0 +1,16 @@
+METADATA:
+kommune: namsos
+year: 2026
+saksnummer: PS 10/2026
+rodt_fremmet: False
+---
+
+Tittel: Donasjon av brannbil til Ukraina
+
+Vedtak:
+1. Namsos kommune donerer Mercedes 1426 1991-modell brannbil, registreringsnummer CK 3826 til brannvesen i Ukraina.
+2. Kommunedirektøren gis fullmakt til å overføre eierskapet av bilen kostnadsfritt til Norsk ukrainsk brann- og ambulansestøtte, som leverer bilen til brannvesen i Ukraina.
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak om donasjon av brannbil til Ukraina
+  - For: 34 stemmer

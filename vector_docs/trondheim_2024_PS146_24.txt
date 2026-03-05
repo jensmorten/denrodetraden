@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 146/24
+rodt_fremmet: False
+---
+
+Tittel: Etablering av administrativt vertskommunesamarbeid om DigiTrøndelag
+
+Vedtak:
+Bystyret utsetter saken til arbeidet med gjennomgang av kommunens deltakelse og medlemskap i nettverk og samarbeid er ferdig.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Bystyret utsetter saken til arbeidet med gjennomgang av kommunens deltakelse og medlemskap i nettverk og samarbeid er ferdig.
+
+Voteringer:
+- Votering over Andreassens utsettelsesforslag
+  - For: 53 stemmer
+  - Imot: 13 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 44/25
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding for Hitra eldreråd 2024
+
+Vedtak:
+Hitra kommunestyre tar årsmelding for Hitra eldreråd 2024 til orientering.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

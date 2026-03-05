@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 228/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 228/2024 Budsjett for kontroll og revisjon 2025
+
+Vedtak:
+Bystyret vedtar det fremlagte forslaget til budsjett 2025 for kontroll og revisjon i Trondheim kommune.
+
+Voteringer:
+- Votering om innstillingen til budsjett 2025 for kontroll og revisjon
+  - For innstillingen: enstemmig

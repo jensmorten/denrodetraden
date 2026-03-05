@@ -1,0 +1,8 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 011/25
+rodt_fremmet: False
+---
+
+Tittel: Grunngitt spørsmål - kommunestyret 27.03.2025

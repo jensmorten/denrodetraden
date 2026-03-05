@@ -1,0 +1,19 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 32/2025
+rodt_fremmet: False
+---
+
+Tittel: Navnesak - Adressenavn
+
+Vedtak:
+Namsos kommunestyre vedtar følgende adressenavn:
+• Altøya
+• Groftlitjønna
+• Steinan
+• Skrøyvdalsvegen
+
+Voteringer:
+- Avstemming over kommunedirektørens forslag til vedtak om adressenavn
+  - For: 34 stemmer

@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 204/24
+rodt_fremmet: False
+---
+
+Tittel: Opprettelse av æresborgerutvalg og tilhørende reglement
+
+Vedtak:
+Saken ble utsatt i møtet 21. november 2024.

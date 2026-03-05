@@ -1,0 +1,54 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 148/24
+rodt_fremmet: False
+---
+
+Tittel: Valg til politiske organer etter innføring av parlamentarisme
+
+Vedtak:
+Bystyret oppnevner følgende ledere og nestledere:
+Kontrollutvalget:
+Leder: Jørn Arve Flått (Ap)
+Nestleder: Solveig Sandsør (PP)
+Oppvekst- og kultur:
+Leder: Majen Sævik (KrF)
+Nestleder: Sara Shafighi (Ap)
+Helse og velferd:
+Leder: Vegard Fenes (Sp)
+Nestleder: Mona Berger (SV)
+Miljø- næring og samferdsel:
+Leder: Niklaus Haugrønning
+Nestleder: Kirsti Tømmervold (Ap)
+Finans og organisasjon:
+Leder: Morten Kokaas (PP)
+Nestleder: Emil Raaen (Ap)
+Byutvikling:
+Leder: Elin Marie Andreassen (FrP)
+Nestleder: Silje Naper Salomonsen (SV)
+
+Alternative forslag:
+- Berit Tiller (H): Forslag på vegne av H, FrP, KrF, MDG, Ap, PP, R, Sp, SV, U, V: Bystyret oppnevner følgende ledere og nestledere:
+Kontrollutvalget:
+Leder: Jørn Arve Flått (Ap)
+Nestleder: Solveig Sandsør (PP)
+Oppvekst- og kultur:
+Leder: Majen Sævik (KrF)
+Nestleder: Sara Shafighi (Ap)
+Helse og velferd:
+Leder: Vegard Fenes (Sp)
+Nestleder: Mona Berger (SV)
+Miljø- næring og samferdsel:
+Leder: Niklaus Haugrønning
+Nestleder: Kirsti Tømmervold (Ap)
+Finans og organisasjon:
+Leder: Morten Kokaas (PP)
+Nestleder: Emil Raaen (Ap)
+Byutvikling:
+Leder: Elin Marie Andreassen (FrP)
+Nestleder: Silje Naper Salomonsen (SV)
+
+Voteringer:
+- Votering over Tillers forslag
+  - For: enstemmig

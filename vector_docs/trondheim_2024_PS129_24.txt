@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 129/24
+rodt_fremmet: False
+---
+
+Tittel: Kommuneplanens arealdel 2022-2034 - Sluttbehandling
+
+Vedtak:
+Saken utsettes
+
+Alternative forslag:
+- Berit Tiller (H): Saken utsettes
+
+Voteringer:
+- Votering over Tillers utsettelsesforslag
+  - For utsettelsesforslaget: 55 stemmer
+  - Mot utsettelsesforslaget: 12 stemmer

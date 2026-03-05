@@ -1,0 +1,33 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 5/2025
+rodt_fremmet: False
+---
+
+Tittel: Anmodning bosetting av flyktninger i 2025
+
+Vedtak:
+Kommunestyret imøtekommer IMDIs anmodning om å bosette 20 flyktninger i 2025.
+Kommunedirektøren bes utarbeide en strategi for bosetting og integrering som balanserer behovet for kommunale tjenester, boligtilgang og arbeidsrettet integrering.
+Status og fremdrift for bosettingsarbeidet skal rapporteres i tertialrapportene for 2025.
+Kommunedirektøren bes utnytte barnehage- og boligkapasitet i hele kommunen når flyktningene skal bosettes.
+Frøya kommune må være en foregangskommune for å ta i mot flyktninger for språkpraksis innenfor kommunens virksomheter.
+
+Alternative forslag:
+- Frøya FRP: Kommunestyret har mottatt IMDIS anmodning om å bosette 20 flyktninger i 2025. Men Frøya FRP ønsker å ta imot kun 10 flyktninger i 2025.
+- Olaf Reppe (FrP): Med de utfordringene vi allerede har med språkpraksis og arbeidspraksis, samt at staten ikke dekker hele regninga ønsker Frøya FrP ikke å imøtekomme IMDIs anmodning om å bosette 20 flyktninger i 2025. Vi mener at Frøya kommune tar imot 10 flyktninger i 2025.
+
+Voteringer:
+- Vedtak i Hovedutvalg for levekår 21.01.2025 om bosetting av 20 flyktninger
+  - For: 5 stemmer
+  - Mot: 1 stemmer
+- Votering om forslag fra Frøya FRP om å ta imot kun 10 flyktninger i 2025 i Hovedutvalg for levekår
+  - For (FrP sitt forslag om 10 flyktninger): 1 stemmer
+  - Mot: 5 stemmer
+- Kommunestyrets vedtak 30.01.2025 om bosetting av 20 flyktninger
+  - For: 19 stemmer
+  - Mot: 3 stemmer
+- Votering om forslag fra Frøya FrP om å ikke imøtekomme IMDIs anmodning om 20 flyktninger, men kun 10
+  - For (FrP sitt forslag om 10 flyktninger): 3 stemmer
+  - Mot: 19 stemmer

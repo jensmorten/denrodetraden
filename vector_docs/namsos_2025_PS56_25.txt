@@ -1,0 +1,37 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 56/25
+rodt_fremmet: False
+---
+
+Tittel: PS 56/2025 Billettpriser Oasen 2026
+
+Vedtak:
+Billettpriser for inngang til Oasen gjeldende fra reåpning av badeanlegget vedtas slik:
+Billett type Sats 2022 Sats 2026
+Avtalegiro honnør/student/ungdom pr. mnd. 255 300
+Avtalegiro pr. mnd 299 355
+Barn til og med 4. klasse 0 0
+Barnebillett 80 95
+Chip/kort 110 150 (nullkost)
+Enkeltbillett voksen 130 155
+Familiebillett 355 420
+Honnør/student/ungdom 105 125
+Klippekort 12 klipp 1400 1650
+Klippekort 12 klipp barn 10 - 15 år 770 910
+Klippekort 12 klipp honnør/student/ungdom 1125 1350
+Klubbleie Namsos Svømmeklubb og Namsos vannpolo pr. mnd. 3785 4500
+Månedskort barn 310 365
+Månedskort honnør/student/ungdom 325 385
+Månedskort voksen 375 455
+Timesleie utenom åpningstid med 2 badevakter 2860 3400
+
+Alternative forslag:
+- Arnhild Holstad (Arbeiderpartiet): De to siste linjene i forslaget strykes (årskort voksne, honnør, student, ungdom).
+
+Voteringer:
+- Votering over forslag fra Arnhild Holstad (AP) om å stryke de to siste linjene i forslaget (årskort voksne, honnør, student, ungdom).
+  - For: 35 stemmer
+- Votering over innstilling om billettpriser for inngang til Oasen gjeldende fra reåpning av badeanlegget.
+  - For: 35 stemmer

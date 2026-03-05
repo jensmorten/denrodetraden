@@ -1,0 +1,19 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 082/25
+rodt_fremmet: False
+---
+
+Tittel: Endring av skolestruktur 2025
+
+Vedtak:
+Saken utsettes frem til den tas opp igjen til behandling.
+
+Alternative forslag:
+- Røros Arbeiderparti: Saken utsettes frem til den tas opp igjen til behandling.
+
+Voteringer:
+- Votering over utsettelsesforslaget fra Røros Arbeiderparti
+  - For utsettelse: 16 stemmer
+  - Mot utsettelse: 11 stemmer

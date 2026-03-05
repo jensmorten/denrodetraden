@@ -1,0 +1,19 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 54/24
+rodt_fremmet: False
+---
+
+Tittel: Utviklingsprosjekt velferd - Nytt bo- og velferdssenter
+
+Vedtak:
+Kommunestyret tar konklusjonene i rapporten fra Utviklingsprosjekt Velferd til etterretning, og godkjenner at prosjektet tas videre til neste utviklingsfase, med konseptvalgutredning og videre planlegging og utredninger, jfr. rapportens anbefalinger. Parallelt med konseptvalgutredningen etableres et program for utvikling av organisasjonen som skal drifte tjenestene når nye helsebygg blir etablert. Kommunedirektøren kommer tilbake i salderingssaken med kostnadsdekning for arbeidet med konseptvalgutredningen. Kommunestyret vedtar en målsetning om at dekningsgrad for heldøgns omsorgsplasser for personer over 80 år reduseres fra dagens nivå på 27% ned til 22% eller 20%, og at dette nivået nås innen 2030. Dekningsgraden er en viktig premiss for optimal dimensjonering av både bygninger og driftsorganisasjon.
+
+Alternative forslag:
+- Kristin Almhjell Jenssen (Arbeiderpartiet): Kommunestyret vedtar en målsetning om at dekningsgrad for heldøgns omsorgsplasser for personer over 80 år opprettholdes på dagens nivå. Dekningsgraden er en viktig premiss for optimal dimensjonering av både bygninger og driftsorganisasjon.
+
+Voteringer:
+- Kommunestyret vedtar en målsetning om at dekningsgrad for heldøgns omsorgsplasser for personer over 80 år reduseres fra dagens nivå på 27% ned til 22% eller 20%, og at dette nivået nås innen 2030. Dette ble satt opp mot et alternativt forslag om å opprettholde dagens nivå.
+  - Forslag 1 (redusere dekningsgrad): 23 stemmer
+  - Forslag 2 (opprettholde dagens nivå): 14 stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 004/25
+rodt_fremmet: False
+---
+
+Tittel: 004/25 Interpellasjon til kommunestyremøte den 30.1.25
+
+Vedtak:
+Forslaget fra repr. Haugen falt med 5 mot 21 stemmer. Mindretallet utgjort representantene Sandnes, Kurås, Prytz, Gjelsvik og Haugen.
+
+Alternative forslag:
+- Repr. Stein Petter Haugen (Uavh): Ordfører legger frem en sak for kommunestyret med en skissert løsning på hvordan avfallshåndteringen kan løses på best mulig måte for innbyggerne og kommunestyret får en sak for revidering av kriteriene for avfallshåndtering i Røros kommune.
+
+Voteringer:
+- Votering over forslag i saken
+  - Forslaget fra repr. Haugen: 5 stemmer
+  - Mot: 21 stemmer

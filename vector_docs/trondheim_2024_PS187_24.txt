@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 187/24
+rodt_fremmet: False
+---
+
+Tittel: Innføring av digital områdesikring på kommunale barnehager og skoler
+
+Vedtak:
+Saken ble utsatt i bystyrets møte 24. oktober 2024.

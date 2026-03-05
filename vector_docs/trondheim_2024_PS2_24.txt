@@ -1,0 +1,21 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 2/24
+rodt_fremmet: False
+---
+
+Tittel: Korrigeringer til sak PS 245/2023 Betalingssatser for barnehage, skolefritidsordning og Trondheim kulturskole fra 1.1.2024
+
+Vedtak:
+Bystyret vedtar betalingssatser for SFO og kulturskolen som angitt i innstillingen.
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV) på vegne av SV, Ap, InP, R: Kun en pris for kulturskoleplass: Kulturskoleplass, betaling per år Pris for plass: 4570 kroner.
+
+Voteringer:
+- Votering over innstillingen untatt kulturskoleplass
+  - Innstillingen untatt kulturskoleplass: enstemmig
+- Votering mellom innstillingen og Salomonsens forslag om kulturskoleplass
+  - Innstillingen: 37 stemmer
+  - Salomonsens forslag: 30 stemmer

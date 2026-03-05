@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 90/24
+rodt_fremmet: False
+---
+
+Tittel: PS 90/2024 Produksjonskjøkkenet - tilleggsbevilgning
+
+Vedtak:
+Bystyret vedtar å øke investeringsrammen for produksjonskjøkkenet fra 105,2 millioner kroner til 133,4 millioner kroner. Den økte investeringsrammen finansieres med økt låneopptak og merverdiavgiftskompensasjon.
+
+Voteringer:
+- Votering om innstillingen til økt investeringsramme for produksjonskjøkkenet
+  - For: enstemmig

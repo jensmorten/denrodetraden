@@ -1,0 +1,8 @@
+METADATA:
+kommune: namsos
+year: 2026
+saksnummer: PS 1/2026
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon, Jøa Helsehus - 26.02.2026 - fra Sv ved Margreet Sloot

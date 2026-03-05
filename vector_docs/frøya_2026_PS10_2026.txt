@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 10/2026
+rodt_fremmet: False
+---
+
+Tittel: Politisk oppfølgingskalender 2023-2025
+
+Vedtak:
+Kommunestyret tar politisk oppfølgingskalender for 2023-2024 og oppfølgingskalender 2025 til orientering.
+
+Voteringer:
+- Vedtak om å ta politisk oppfølgingskalender for 2023-2024 og 2025 til orientering
+  - For: Enstemmig

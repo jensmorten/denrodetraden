@@ -1,0 +1,20 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 48/25
+rodt_fremmet: False
+---
+
+Tittel: PS 48/25 Samarbeidsavtale - kommunalt oppgavefellesskap mellom eierkommuner i Helseplattformen (Kommunal samarbeidsavtale)
+
+Vedtak:
+1. Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres.
+2. Kommunestyret utnevner ordfører som kommunens faste representant i oppgavefellesskapets representantskap, med varaordfører som varamedlem.
+3. Finansiering: Kommunestyret godkjenner finansieringsmodellen som innebærer en årlig kostnadsfordeling basert på innbyggertall pr 1.1.2024. For Hitra kommune innebærer dette en årlig kostnad i 2025 på 107 352 NOK.
+4. Tilslutning forutsetter at alle eierkommuner slutter seg til avtalen.
+
+Voteringer:
+- Behandling av innstillingen i kommunestyret
+  - For: Enstemmig
+- Behandling av innstillingen i Utvalg for Helse og Omsorg
+  - For: Enstemmig

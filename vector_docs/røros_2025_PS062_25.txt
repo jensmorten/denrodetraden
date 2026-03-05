@@ -1,0 +1,8 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 062/25
+rodt_fremmet: False
+---
+
+Tittel: 062/25 Grunngitt spørsmål - forvaltningsplan Hådalsvassdraget - kommunestyret 19.06.2025

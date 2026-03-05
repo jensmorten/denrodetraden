@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 223/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 223/2024 Fritak eiendomsskatt 2024
+
+Vedtak:
+Bystyret innvilger fritak for eiendomsskatt etter eiendomsskatteloven § 7 bokstav a for eiendommene som er vist i vedlegget “fritaksliste_7a_2024”.
+Bystyret fjerner vedtak om fritak for eiendomsskatt etter eiendomsskatteloven § 7 a for eiendommene som er vist i vedlegget «Ikke_fritak_7a_2024».
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

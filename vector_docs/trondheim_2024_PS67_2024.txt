@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 67/2024
+rodt_fremmet: False
+---
+
+Tittel: Ny sluttbehandling - detaljregulering for Otto Nielsens veg 12 og 16
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Otto Nielsens veg 12 og 16 som vist på kart i målestokk 1:1000, merket Asplan Viak AS senest datert 01.09.2023, med bestemmelser senest datert 07.03.2024 og beskrevet i planbeskrivelsen, senest datert 07.03.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: alle

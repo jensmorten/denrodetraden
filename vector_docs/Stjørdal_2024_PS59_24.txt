@@ -1,0 +1,21 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 59/24
+rodt_fremmet: False
+---
+
+Tittel: Retningslinjer utleie av kommunale bygg - overnatting
+
+Vedtak:
+Retningslinjene for overnatting på skoler og idrettshaller vedtas. Saken sendes på bakgrunn av Idrettsrådets innspill tilbake til Utvalg Kultur og Levekår med en fullmakt til å tilpasse og sluttbehandle saken.
+
+Alternative forslag:
+- Rune Larsen (Høyre): Saken sendes på bakgrunn av Idrettsrådets innspill tilbake til Utvalg Kultur og Levekår med en fullmakt til å tilpasse og sluttbehandle saken.
+
+Voteringer:
+- Avstemning over innstilling: Retningslinjene for overnatting på skoler og idrettshaller vedtas.
+  - For: 37 stemmer
+- Avstemning over tilleggsforslag fra Rune Larsen (Høyre): Saken sendes tilbake til Utvalg Kultur og Levekår med fullmakt til å tilpasse og sluttbehandle saken.
+  - For: 35 stemmer
+  - Imot: 2 stemmer

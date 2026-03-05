@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 69/2025
+rodt_fremmet: False
+---
+
+Tittel: Budsjettregulering - Drift, 1-2025
+
+Vedtak:
+Frøya kommunestyre vedtar budsjettjustering – drift 01/2025 som vist i tabell
+3 320 000 kr finansieres over Disposisjonsfondet
+360 000 kr overføres fra rammeområde RO 2 BHG til RO 5 EKU
+
+Voteringer:
+- Vedtak av budsjettregulering - Drift, 1-2025
+  - Enstemmig: alle

@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 70/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 70/2025 Veileder og rutiner - habilitet for folkevalgte i Namsos kommune
+
+Vedtak:
+Det har framkommet informasjon om at en ny forvaltningslov trer i kraft i 2026, etter at saken ble publisert. Det foreslåes derfor at saken trekkes i påvente av ny lov.
+
+Voteringer:
+- Votering over innstilling om å trekke saken i påvente av ny forvaltningslov
+  - For: 35 stemmer

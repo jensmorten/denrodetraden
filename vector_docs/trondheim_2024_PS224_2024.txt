@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 224/2024
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra eiendomsskatt 2024 - Sandgata 30 B
+
+Vedtak:
+Bystyret innvilger ikke fritak for eiendomsskatt etter eiendomsskatteloven § 7 a og vedtak PS 162/14 for eiendommen gbnr. 402/309, Trondhjems Turistforening (heretter TT), org. nr. 911 184 354. Det innvilges ikke fritak eller tilbakebetaling av eiendomsskatt for 2023.
+
+Voteringer:
+- Votering over innstillingen om fritak fra eiendomsskatt
+  - For innstillingen: enstemmig

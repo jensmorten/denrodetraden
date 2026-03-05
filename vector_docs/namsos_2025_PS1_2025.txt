@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 1/2025
+rodt_fremmet: False
+---
+
+Tittel: Revisjonsprosess og sluttbehandling av samarbeidsavtalen mellom Helse Nord-Trøndelag og kommunene i nordre Trøndelag - 2025
+
+Vedtak:
+Kommunestyret vedtar vedlagte samarbeidsavtale, med tilhørende retningslinjer. Hjemmel for vedtaket er: Lov om kommunale helse- og omsorgstjenester av 24. juni 2011 § 6-1 mfl. og lov om spesialisthelsetjenester av 2.juli 1999 § 2 -1 e.
+
+Voteringer:
+- Avstemming over kommunedirektørens forslag til vedtak om samarbeidsavtalen
+  - For: 35 stemmer

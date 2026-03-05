@@ -1,0 +1,49 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 56/2024
+rodt_fremmet: False
+---
+
+Tittel: Bystyrets organer mv, fra innføringa av den parlamentariske modellen
+
+Vedtak:
+Bystyret organiseres med en utvalgsmodell ihht kommunelovens § 5-7, fra 13. juni 2024
+Bystyret organiseres i hht modell vist i kapittel 2 i saksutredninga, og oppretter følgende utvalg: Oppvekst- og kulturutvalget (11 medlemmer), Helse-og velferdsutvalget (11 medlemmer), Miljø-, næring- og samferdselsutvalget (11 medlemmer), Finans- og organisasjonsutvalget (13 medlemmer), Byutviklingsutvalget (15 medlemmer), Kontrollutvalget (5 medlemmer + eksterne), Arbeidsområder fastlegges som vist i matrise i kap 2.3 med tre endringer, Forretningsutvalg som beskrevet under kap 2.4
+Medvirkningsråda plasseres på bystyresida også etter innføringa av parlamentarisme, Kommunalt råd for mennesker med nedsatt funksjonsevne endrer navnet til "Rådet for personer med funksjonsnedsettelser" (funkisrådet)
+Bystyresekretariatet forankres organisatorisk hos ordføreren, som ivaretar den formelle arbeidsgiverfunksjonen
+Både utvalgenes faste- og varaposisjoner skal bemannes av henholdsvis bystyrets faste medlemmer og varamedlemmer. Alle kommunestyrerepresentantene unntatt ordfører skal fordeles på utvalg. (Gjelder ikke kontrollutvalget, som har egen forskrift)
+
+Alternative forslag:
+- Jenny Nordaune (SV): Medvirkningsrådene plasseres på byrådssiden etter innføring av parlamentarisme.
+- Annbjørg Horgar (SV): Kommunalt råd for mennesker med nedsatt funksjonsevne endrer navnet til tilsvarende språklig form som i kommuneloven. Det foreslås å ta inn funkisrådet i parentes som alternativt navn med samme form som de andre rådene. Nytt punkt: Kommunalt råd for mennesker med nedsatt funksjonsevne endrer navnet til "Rådet for personer med funksjonsnedsettelser (Funkisrådet)".
+- Mona Berger (SV) på vegne av SV, R, Ap: Administrasjonsutvalget fortsetter som nå, i samsvar med den avklaringa som er gjort med de hovedtillitsvalgte. Sammensetninga beholdes som i dag.
+- Aurora Meland Winger (MDG): Medvirkningsrådene plasseres på byrådssiden etter innføring av parlamentarisme.
+- Mona Berger (SV) på vegne av SV, R, Ap: Bystyret organiseres i hht modell vist i kapittel 2 i saksutredninga, og oppretter følgende utvalg med arbeidsområder fastlagt som vist i matrise i kap 2.3: b) Helse og velferdsutvalget, med 11 medlemmer d) Finans og organisasjonsutvalget, 13 medlemmer
+- Aurora Meland Winger (MDG) på vegne av MDG, H, KrF, SP, PP, V: Bystyret organiseres i hht modell vist i kapittel 2 i saksutredninga, og oppretter følgende utvalg med arbeidsområder fastlagt som vist i matrise i kap 2.3: b) Helse og velferdsutvalget, med 11 medlemmer d) Finans og organisasjonsutvalget, 13 medlemmer Organisasjonssaker går i all hovedsak til finans- og organisasjonsutvalget med unntak av saker som angår organsiering av innenfor helseområdet.
+
+Voteringer:
+- Votering om innstillingens pkt. 1, 4 og 5
+  - For: Enstemmig
+- Votering om innstillingens pkt 2 unntatt pkt b og d
+  - For: Enstemmig
+- Votering om Bergers fellesforslag (SV, R, Ap)
+  - Bergers fellesforslag: 30 stemmer
+  - Innstillingen: 37 stemmer
+- Votering om innstillingens pkt. 2 b og d
+  - Innstillingens pkt. 2 b og d: 30 stemmer
+  - Alternativt forslag: 37 stemmer
+- Votering om Wingers forslag punkt 2 b og d
+  - Wingers forslag: 37 stemmer
+  - Motforslag: 30 stemmer
+- Votering mellom innstillingens pkt. 3 og SVs alternative forslag
+  - Innstillingen: 41 stemmer
+  - SVs alternative forslag: 26 stemmer
+- Votering om Horgars forslag del 1 "navneendring"
+  - For: Enstemmig
+- Votering om Horgars forslag "Funkisrådet"
+  - For: 39 stemmer
+  - Mot: 28 stemmer
+- Votering om Bergers forslag "2. 5 Andre utvalg, 2.5.4 administrasjonsutvalget"
+  - Bergers forslag: 30 stemmer
+  - Motforslag: 37 stemmer

@@ -1,0 +1,20 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 89/25
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg - medlem til utvalg helse og omsorg 2023-2027
+
+Vedtak:
+Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Heidi Kristine Fugelsøy (Ap) som nytt medlem av utvalg helse og omsorg. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.
+
+Alternative forslag:
+- Ingrid Kathrine Schanche (Sp): Heidi Kristine Fugelsøy (Ap) som nytt medlem av utvalg helse og omsorg.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet om oppnevning av Heidi Kristine Fugelsøy (Ap) som nytt medlem av utvalg helse og omsorg.
+  - For: enstemmig
+- Votering over forslag fra Ingrid Kathrine Schanche (Sp) om oppnevning av Heidi Kristine Fugelsøy (Ap) som nytt medlem av utvalg helse og omsorg.
+  - For: enstemmig

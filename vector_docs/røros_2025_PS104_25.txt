@@ -1,0 +1,16 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 104/25
+rodt_fremmet: False
+---
+
+Tittel: 104/25 Politivedtekter Røros kommune
+
+Vedtak:
+Forskrift om politivedtekt Røros Kommune, Trøndelag skal lyde: [full tekst av forskriften som angitt i dokumentet]
+Politivedtekten trer i kraft en måned etter godkjenning av Politidirektoratet. Fra samme tidspunkt oppheves FOR-1998-04-28-421 Forskrift om politivedtekt, Røros kommune, Sør-Trøndelag.
+
+Voteringer:
+- Votering over utvalgets forslag til vedtak
+  - For: enstemmig

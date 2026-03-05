@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 073/25
+rodt_fremmet: False
+---
+
+Tittel: Forslag til detaljregulering for Rødbekkegga masseuttak, PlanID 20200003 – 2. gangs behandling
+
+Vedtak:
+Røros kommune vedtar forslag til detaljregulering for Rødbekkegga masseuttak med PlanID 20200003 (jf. plan- og bygningsloven § 12-12), med tilhørende plandokumenter:
+- Planbeskrivelse datert 01.09.25
+- Reguleringsbestemmelser datert 01.09.25
+- Plankart datert 30.07.25
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

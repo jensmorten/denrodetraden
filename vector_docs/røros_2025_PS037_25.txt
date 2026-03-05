@@ -1,0 +1,8 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 037/25
+rodt_fremmet: False
+---
+
+Tittel: Grunngitt spørsmål - skogbruksplaner - 22.05.2025

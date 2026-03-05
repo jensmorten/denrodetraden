@@ -1,0 +1,31 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 32/2024
+rodt_fremmet: True
+---
+
+Tittel: Kommunedelplan energi og klima 2024-2030
+
+Vedtak:
+Sak Kommunedelpan ernergi og klima 2024 - 2030 sendes tilbake til Finans- og næringskomiteen.
+
+Alternative forslag:
+- Roald Arentz (R): Nytt strekpunkt under kapitlet Mobilitet og transport (side 49 i planen): Muligheten for å omlaste mellom tog og båt sentralt i byen er et viktig bidrag til å nå klimamålene.
+- Aurora Meland Winger (MDG) på vegne av MDG, H, V, SP, PP: Trondheim Kommune skal være en pådriver for at staten gir kommunen de virkemidlene byen trenger for å nå klimamålene. Dette innebærer å jobbe opp mot nasjonale myndigheter for å få virkemidler og nødvendige lovhjemler til å stille krav om utslippsfri bygge- og anleggsvirksomhet i privat regi samt endringer i energiregelverket og nødvendige lovhjemler som muliggjør mer lokal energiproduksjon og -deling. Det skal også jobbes opp mot staten for å innføre forsøk med nullutslippssoner i nye utbyggingsområder.
+- Roald Arentz (R): Virksomheter som bidrar til sirkulærøkonomi i praksis, og som er avhengige av båttransport, må sikres tilgang på industrihavn.
+- Trude Basso (Ap): iii. Eksisterende bygningsmasse rehabiliteres for å redusere energibehov og effektuttak.
+- Trude Basso (Ap): iv. Kommunen tilrettelegger areal for energi-infrastruktur som er nødvendig for det grønne skiftet.
+- Trude Basso (Ap): ii. Fornybare energiressurser utnyttes smart og fleksibelt, for å sikre nok energi og effekt til klimaomstillingen og samtidig begrense tapet av natur. (Nytt forslag med stryking av "fornybare")
+- Trude Basso (Ap): Det må etableres analyseverktøy som bedrer styring og overvåking av energibruk i kommunale bygg. Utvikling i energiforbruk og effektuttak presenteres som del av klimabudsjettet.
+- Magni Fjørstad Svarstad (R): Karbonfangst og lagring: Trondheim kommune skal aktivt jobbe for realiseringen av karbonfangst og lagring (CCS) på renseanlegget. Kommunen forutsetter at finansieringen skal fordeles mellom statlige organer og Statkraft.
+- Efia Marie Damba (SV): Nytt strekpunkt under kapitlet Forbruk og avfall (side 59 i planen): Legge til rette for et mer klimavennlig kosthold i kommunale kantiner og kjøkken i tråd med offisielle kostholdsråd. “Kjøtt, ja takk”, altså vegetarisk mat som standard, skal innføres i kommunale kantiner og på enheter som er egna.
+- Roald Arentz (R): Trondheim Kommune skal være en pådriver for at staten gir kommunen de virkemidlene byen trenger for å nå klimamålene. Dette innebærer å jobbe opp mot nasjonale myndigheter for å få virkemidler og nødvendige lovhjemler til å stille krav om utslippsfri bygge- og anleggsvirksomhet i privat regi samt endringer i energiregelverket og nødvendige lovhjemler som muliggjør mer lokal energiproduksjon og -deling.
+- Nils Heldal (SV): Vi skal være pådrivere for å utvikle en sirkulær bygge- og anleggsbransje, der klimafotavtrykk og massedeponering reduseres og ressurseffektiviteten økes. Vi skal først søke å bevare før vi river og bygger nytt.
+- Ottar Michelsen (SV): Dagens bomring erstattes med et veiprisingssystem.
+- Mona Berger (SV): Sendes tilbake til Finans- og næringskomiteen.
+
+Voteringer:
+- Votering om Mona Bergers forslag om å sende forslaget tilbake til Finans- og næringskomiteen.
+  - For: enstemmig
+  - Imot: 0 stemmer

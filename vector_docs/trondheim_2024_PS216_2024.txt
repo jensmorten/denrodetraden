@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 216/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 216/2024 Betalingssatser for barnehage og skolefritidsordning fra 1.1.2025
+
+Vedtak:
+Bystyret vedtar nye satser for foreldrebetaling i skolefritidsordningen fra og med 1. januar 2025.
+
+Voteringer:
+- Votering om innstillingen til nye satser for foreldrebetaling i skolefritidsordningen
+  - Innstillingen: enstemmig

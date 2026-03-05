@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 017/25
+rodt_fremmet: False
+---
+
+Tittel: 017/25 Felles forliksråd - valg av leder
+
+Vedtak:
+Rune Mortensen velges som leder av felles forliksråd i Røros og Holtålen for perioden 2025-2028.
+
+Alternative forslag:
+- Isak Veierud Busch (Ap): Rune Mortensen velges som leder av felles forliksråd i Røros og Holtålen for perioden 2025-2028.
+
+Voteringer:
+- Votering over forslag fra repr. Isak Veierud Busch (Ap) om valg av leder for felles forliksråd
+  - Rune Mortensen som leder: enstemmig

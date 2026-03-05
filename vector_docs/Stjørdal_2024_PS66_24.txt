@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 66/24
+rodt_fremmet: False
+---
+
+Tittel: PS 66/2024 Kontrollutvalgets årsmelding 2023
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsrapport for 2023 til orientering.
+
+Voteringer:
+- Avstemning om innstilling: Kommunestyret tar kontrollutvalgets årsrapport for 2023 til orientering.
+  - For: 37 stemmer

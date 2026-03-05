@@ -1,0 +1,17 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 17/25
+rodt_fremmet: False
+---
+
+Tittel: Ny selskapsavtale for ReMidt IKS
+
+Vedtak:
+Hitra kommunestyre vedtar revidert selskapsavtale for ReMidt IKS, datert 18.11.24.
+
+Voteringer:
+- Behandling i Hitra kommunestyre av sak 17/2025
+  - Enstemmig vedtak: alle
+- Behandling i Hitra formannskap av sak 14/2025
+  - Enstemmig vedtak: alle

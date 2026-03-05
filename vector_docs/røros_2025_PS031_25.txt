@@ -1,0 +1,21 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 031/25
+rodt_fremmet: False
+---
+
+Tittel: Ren Røros As: innstilling av 1 medlem til valgkomiteen
+
+Vedtak:
+Som medlem til valgkomiteen i Ren Røros AS innstilles:
+Hans Vintervold (3 års tjenestetid, på valg 2027)
+
+Alternative forslag:
+- Henrik Grønn (Ap): Gjenvalg på Hans Vintervold for tre år
+- Mona Waldahl Slettum (H): Kjell Magnus Krog foreslås som medlem av valgkomiteen for Ren Røros
+
+Voteringer:
+- Forslaget fra repr. Grønn ble satt opp i mot forslaget fra repr. Slettum
+  - Forslag fra repr. Grønn (Ap): 17 stemmer
+  - Forslag fra repr. Slettum (H): 10 stemmer

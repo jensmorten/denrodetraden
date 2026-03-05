@@ -1,0 +1,38 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 9/24
+rodt_fremmet: False
+---
+
+Tittel: Vassfjellet Vinterpark - søknad om kommunal lånegaranti til sommerdrift
+
+Vedtak:
+Bystyret vedtar å stille garanti for et lån på inntil 11 000 000 kroner som Vassfjellet Vinterpark AS ønsker å ta opp hos SpareBank 1 for å kunne videreutvikle Vassfjellet for sommerdrift. Det stilles følgende betingelser for garantien:
+1. Garantiansvaret utgjør inntil 11 000 000 kroner.
+2. Garantien gis ved en simpel kausjon.
+3. Lånets løpetid er på maksimalt 10 år, og starter når gjeldende garanti på 11 millioner kroner opphører i juli 2025, eller tidligst når selskapets lån til mellomfinansiering av spillemidler opphører og garanti stilt for dette lånet kan slettes.
+4. Det er en forutsetning at kommunale tilskudd og kompensasjon for merverdiavgift i sin helhet benyttes til nedbetaling av lånet.
+5. Garantien nedtrappes i takt med forutsatt utvikling i hovedforholdet, som serie- eller annuitetslån. Garantiansvaret opphører i sin helhet 6 måneder etter det tidspunktet lånet er forutsatt å være nedbetalt.
+6. Det påhviler mottaker av garantien et ansvar med å sikre at garantien ikke er i strid med kommuneloven. Garantien er ugyldig hvis mottakeren forsto eller burde forstått at den er i strid med kommunelovens § 14- 19 første ledd første punktum.
+7. Bystyret forutsetter at Vassfjellet Vinterpark AS gjør alle nødvendige formelle avklaringer etter plan- og bygningsloven før tiltak igangsettes.
+8. Bystyret ser det som en forutsetning at oppgradering av anlegg til sommerdrift gjøres på en skånsom måte som ivaretar natur og lokalt dyreliv, og at nødvendig kartlegging av naturverdiene gjøres før inngrep gjennomføres.
+
+Alternative forslag:
+- Sindre Nilsskog (H) på vegne av H, KrF, SP, V, PP, FrP: Bystyret vedtar å stille garanti for et lån på inntil 11 000 000 kroner som Vassfjellet Vinterpark AS ønsker å ta opp hos SpareBank 1 for å kunne videreutvikle Vassfjellet for sommerdrift. Det stilles følgende betingelser for garantien:
+1. Garantiansvaret utgjør inntil 11 000 000 kroner.
+2. Garantien gis ved en simpel kausjon.
+3. Lånets løpetid er på maksimalt 10 år, og starter når gjeldende garanti på 11 millioner kroner opphører i juli 2025, eller tidligst når selskapets lån til mellomfinansiering av spillemidler opphører og garanti stilt for dette lånet kan slettes.
+4. Det er en forutsetning at kommunale tilskudd og kompensasjon for merverdiavgift i sin helhet benyttes til nedbetaling av lånet.
+5. Garantien nedtrappes i takt med forutsatt utvikling i hovedforholdet, som serie- eller annuitetslån. Garantiansvaret opphører i sin helhet 6 måneder etter det tidspunktet lånet er forutsatt å være nedbetalt.
+6. Det påhviler mottaker av garantien et ansvar med å sikre at garantien ikke er i strid med kommuneloven. Garantien er ugyldig hvis mottakeren forsto eller burde forstått at den er i strid med kommunelovens § 14- 19 første ledd første punktum.
+7. Bystyret forutsetter at Vassfjellet Vinterpark AS gjør alle nødvendige formelle avklaringer etter plan- og bygningsloven før tiltak igangsettes.
+- Aurora Meland Winger (MDG) på vegne av MDG, H, SP, KrF, PP, V, R, Ap: Bystyret ser det som en forutsetning at oppgradering av anlegg til sommerdrift gjøres på en skånsom måte som ivaretar natur og lokalt dyreliv, og at nødvendig kartlegging av naturverdiene gjøres før inngrep gjennomføres.
+
+Voteringer:
+- Votering mellom innstillingen og Nilsskogs fellesforslag
+  - Innstillingen: 0 stemmer
+  - Nilsskogs fellesforslag: enstemmig
+- Votering om Meland Vingers tilleggsforslag "Ivaretakelse av natur og dyreliv"
+  - For: 63 stemmer
+  - Mot: 4 stemmer

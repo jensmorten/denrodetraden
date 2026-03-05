@@ -1,0 +1,22 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 89/24
+rodt_fremmet: False
+---
+
+Tittel: Revidering investeringsbudsjett 2024
+
+Vedtak:
+Kommunestyret vedtar kommunedirektørens forslag til revidering av Stjørdal kommunes investeringsbudsjett for 2024 i henhold til tabell og konklusjon under saksopplysninger. Økt investeringsbudsjett med kr 10 918 000,- finansieres med rest av ubrukte lånemidler (kr 10 951 000,-).
+For prosjektet "Ny brannstasjon/blålyshus" bevilges ikke ytterligere investeringsmidler nå.
+Det skal fremmes en sak for Utvalg Plan og Miljø, som vil ta stilling til saken. Det skal framgå av saken hvilke kostnader som er påløpt hittil, og hva disse kostnadene er benyttet til. Det skal også framgå hva tilleggsbevilgningen ønskes benyttet til. Utvalg Plan og Miljø gis fullmakt til å innvilge tilleggsbevilgningen i sin politiske behandling av saken.
+
+Alternative forslag:
+- Renate Trøan Bjørshol (Høyre): For prosjektet "Ny brannstasjon/blålyshus" bevilges ikke ytterligere investeringsmidler nå. Det skal fremmes en sak for Utvalg Plan og Miljø, som vil ta stilling til saken. Det skal framgå av saken hvilke kostnader som er påløpt hittil, og hva disse kostnadene er benyttet til. Det skal også framgå hva tilleggsbevilgningen ønskes benyttet til. Utvalg Plan og Miljø gis fullmakt til å innvilge tilleggsbevilgningen i sin politiske behandling av saken.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 06.06.2024 om revidering av investeringsbudsjett 2024
+  - For: 34 stemmer
+- Avstemning over tilleggsforslag fra Renate Trøan Bjørshol (Høyre) om ikke å bevilge ytterligere midler til prosjektet "Ny brannstasjon/blålyshus" nå
+  - For: 34 stemmer

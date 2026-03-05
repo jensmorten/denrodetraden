@@ -1,0 +1,17 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 80/24
+rodt_fremmet: False
+---
+
+Tittel: Orientering om status i dialogen med Helse Nord-Trøndelag angående DMS
+
+Vedtak:
+Kommunestyret tar saken til orientering.
+Kommunestyret ber kommunedirektøren arbeide for å sikre at Helse Nord-Trøndelag opprettholder og eventuelt øker sin ressursinnsats for distriktsmedisinsk senter på Stjørdal.
+Kommunestyret stiller seg positiv til kommunedirektørens gjennomgang av de kommunale helsetjenestene innen helse og omsorg, og ber om jevnlige orienteringer om fremdriften i prosjektgruppa og forhandlingene med Helse Nord-Trøndelag.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 06.06.2024
+  - For: 35 stemmer

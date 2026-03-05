@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 18/2026
+rodt_fremmet: False
+---
+
+Tittel: KS-debatthefte 2026 - Tid for taktskifte
+
+Vedtak:
+Kommunestyret vedtar kommunedirektørens prioriterte områder innen bærekraftig velferd og skjerpet beredskap.
+Kommunestyrets vedtatte innspill til Tid for taktskifte, oversendes KS.
+
+Voteringer:
+- Vedtak av kommunedirektørens prioriterte områder og oversendelse av innspill til KS
+  - For: Enstemmig

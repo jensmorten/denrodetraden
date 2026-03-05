@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 55/25
+rodt_fremmet: False
+---
+
+Tittel: PS 55/2025 Klage på vedtak - Detaljregulering Solvang park
+
+Vedtak:
+Klage tas ikke til følge. Som begrunnelse vises det til saksutredningen. Saken oversendes Statsforvalteren i Trøndelag som klageinstans.
+
+Voteringer:
+- Avstemming over kommunedirektørens innstilling om å ikke ta klagen til følge
+  - For: 35 stemmer

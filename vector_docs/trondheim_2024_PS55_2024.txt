@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 55/2024
+rodt_fremmet: False
+---
+
+Tittel: Representantforslag - Boligsosialt samarbeid som en del av folkehelsearbeidet - Svein Otto Nilsen (PP)
+
+Vedtak:
+Saken utsettes.
+
+Voteringer:
+- Behandling av representantforslag om boligsosialt samarbeid som en del av folkehelsearbeidet
+  - Utsettelse: ukjent

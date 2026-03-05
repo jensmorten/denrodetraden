@@ -1,0 +1,38 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 42/24
+rodt_fremmet: True
+---
+
+Tittel: PS 42/2024 Miljøledelse og tiltak for utslippskutt innen veitrafikk
+
+Vedtak:
+Bystyret er positiv til at forvaltningsrevisjonen viser at ISO-standardens krav til forbedringer, avvik og korrigerende tiltak i all hovedsak er ivaretatt.
+Bystyret er bekymret for tilgangen på drivstoff/energi for nullutslippskjøretøy, og ber kommunedirektøren prioritere videre utbygging av infrastruktur for tilrettelegging for tunge nullutslippskjøretøy.
+Bystyret er bekymret for at målsettingen om 80 prosent kutt i klimagasser innen 2030 ikke er mulig å nå med dagens tiltak.
+
+Alternative forslag:
+- Roald Arentz (R): Bystyret mener det er uheldig at store veiutbygginger i og rundt Trondheim har hatt, og kommer til å ha, negativ innvirkning på målet om nullvekst i privatbiltrafikken.
+- Elin Marie Andreassen (FrP): Bystyret er bekymret for tilgangen på drivstoff/energi for nullutslippskjøretøy, og ber kommunedirektøren legge til rette for rask utbygging av nødvendig infrastruktur.
+- Elin Marie Andreassen (FrP): Bystyret ber om at utskifting av kommunens bil- og utstyrspark må være knyttet til behov for fornying av materiell, der det dårligste utstyret prioriteres utskiftet først.
+- Elin Marie Andreassen (FrP): Bystyret forventer at innkjøp av nytt materiell gjøres på bakgrunn av behovet i organisasjonen, slik at kommunens enheter har biler og utstyr som er egnet til jobben som skal utføres.
+
+Voteringer:
+- Innstillingen pkt. 1
+  - For: enstemmig
+- Alternativ votering mellom Innstillingens pkt. 2 og FrPs alternative forslag pkt. 2
+  - Innstillingen pkt. 2: 34 stemmer
+  - FrPs alternative forslag pkt. 2: 33 stemmer
+- Innstillingen pkt. 3
+  - For: 63 stemmer
+  - Mot: 4 stemmer
+- Innstillingen pkt. 4
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Andreassens forslag 'Utskifting knyttes til behov og tilstand'
+  - For: 24 stemmer
+  - Mot: 43 stemmer
+- Andreassens forslag 'Legge til rette for rask utbygging'
+  - For: 24 stemmer
+  - Mot: 43 stemmer

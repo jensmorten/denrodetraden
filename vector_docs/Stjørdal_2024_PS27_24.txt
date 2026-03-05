@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 27/24
+rodt_fremmet: False
+---
+
+Tittel: Retningslinjer for kommunale priser - endring 2024/789
+
+Vedtak:
+Endring av retningslinjer for frivilligpris, idrettspris, kulturpris og miljøpris vedtas, og gjelder fra 2024.
+
+Voteringer:
+- Avstemning over innstilling om endring av retningslinjer for frivilligpris, idrettspris, kulturpris og miljøpris
+  - For: 35 stemmer

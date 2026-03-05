@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 107/2024
+rodt_fremmet: False
+---
+
+Tittel: Sak 107/2024 - Stiftelse av Smart Agri Park AS
+
+Vedtak:
+Stjørdal kommune vedtar å stifte Smart Agri Park AS, sammen med Norsk Landbruksrådgivning. Kapital til selskapet er kr 2 MNOK, kr 1 MNOK på hver av partene. Fra kommunens side er dette finansiert gjennom bruk av midler i det kommunale næringsfondet. Selskapets formål er å utvikle tidligere Kvithammer forskningsstasjon i tråd med kommunestyrevedtak ved kjøp av eiendommen.
+
+Voteringer:
+- Avstemning om innstilling om stiftelse av Smart Agri Park AS
+  - For: 37 stemmer

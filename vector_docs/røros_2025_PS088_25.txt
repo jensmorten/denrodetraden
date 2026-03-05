@@ -1,0 +1,17 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 088/25
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra verv - Isak Veierud Busch
+
+Vedtak:
+Isak Veierud Busch innvilges fritak fra sine verv som ordfører og formannskapsmedlem i Røros kommune for resten av valgperioden.
+
+Voteringer:
+- Votering om habilitet for representant E.S. Busch
+  - Inhabil: 26 stemmer
+- Votering om fritak for Isak Veierud Busch fra verv som ordfører og formannskapsmedlem
+  - Innvilge fritak: 26 stemmer

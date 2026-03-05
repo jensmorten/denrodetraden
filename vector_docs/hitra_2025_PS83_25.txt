@@ -1,0 +1,24 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 83/25
+rodt_fremmet: False
+---
+
+Tittel: Legevakt - endring av lokal åpningstid
+
+Vedtak:
+Hitra kommunestyre vedtar følgende endringer i åpningstid for lokal legevakt:
+• Hverdager: Endres fra kl. 08.00–18.00 til kl. 08.00–16.00
+• Helg og helligdager: Endres fra kl. 10.00–20.00 til kl. 10.00–16.00
+• Interkommunal legevakt i Orkdalsregionen (LiO) ivaretar legevakttjenesten utenom disse tidene
+• Endringen trer i kraft fra 01.01.2026.
+Utvalg helse og omsorg får en evaluering av status etter første halvår med endrede åpningstider.
+
+Voteringer:
+- Vurdering av habilitet for varaordfører Ingrid Kathrine Schanche (Sp)
+  - Schanche erklæres inhabil: 25 stemmer
+- Vurdering av habilitet for Arnt Julius Breivoll (Ap)
+  - Breivoll erklæres habil: 25 stemmer
+- Vedtak av innstilling fra utvalg helse og omsorg
+  - Innstillingen vedtas: 24 stemmer

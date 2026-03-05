@@ -1,0 +1,37 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 30/2025
+rodt_fremmet: False
+---
+
+Tittel: Fellesprosjektet: Sluttrapport fra skisseprosjekt og veien videre
+
+Vedtak:
+Kommunestyret tar fylkestingets vedtak om å ikke gå videre med fellesprosjektet til etterretning.
+Kommunestyret ber kommunedirektøren sette i gang arbeidet med videreutvikling av Nexanstomten.
+Det skal avklares muligheten for offentlig/ privat samarbeid gjennom etablering av OPS.
+Det skal avklares muligheter for makeskifter der kommunen kan ha strategiske interesser i nærliggende tomter.
+
+Alternative forslag:
+- Henrik Aleksander Devik (Høyre) på vegne av Høyre, Senterpartiet, KrF, FrP og INP: ['Kommunestyret tar fylkestingets vedtak om å ikke gå videre med fellesprosjektet til etterretning.', 'Kommunestyret ber kommunedirektøren sette i gang arbeidet med videreutvikling av Nexanstomten.', 'A. Det skal avklares muligheten for offentlig/ privat samarbeid gjennom etablering av OPS.', 'B. Det skal avklares muligheter for makeskifter der kommunen kan ha strategiske interesser i nærliggende tomter.']
+- Gro Olden Jørgensen (Venstre): Kommunestyret imøteser vurderinger knyttet til alternativ 4; redusert ambisjonsnivå for å redusere kostnader. Vurderinger bes presentert i kommende budsjettplan.
+
+Voteringer:
+- Votering på forslag 1 (Kommunestyret tar fylkestingets vedtak til etterretning)
+  - For: 6 stemmer
+- Votering på forslag 2 (Kommunestyret ber kommunedirektøren sette i gang arbeidet med videreutvikling av Nexanstomten)
+  - For: 28 stemmer
+- Votering på alternativt forslag 1 (Kommunestyret tar fylkestingets vedtak til etterretning)
+  - For: 34 stemmer
+- Votering på alternativt forslag 2 (Kommunestyret ber kommunedirektøren sette i gang arbeidet med videreutvikling av Nexanstomten)
+  - For: 34 stemmer
+- Votering på alternativt forslag 2A (Avklaring av offentlig/privat samarbeid gjennom OPS)
+  - For: 20 stemmer
+  - Imot: 14 stemmer
+- Votering på alternativt forslag 2B (Avklaring av muligheter for makeskifter)
+  - For: 25 stemmer
+  - Imot: 9 stemmer
+- Votering på tilleggsforslag fra Gro Olden Jørgensen (Venstre) om vurderinger knyttet til redusert ambisjonsnivå
+  - For: 14 stemmer
+  - Imot: 20 stemmer

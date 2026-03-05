@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 107/24
+rodt_fremmet: False
+---
+
+Tittel: PS 107/2024 Representantforslag - Lokal beredskap uten klasseskiller - Mona Berger (SV)
+
+Vedtak:
+Saken utsettes.
+
+Voteringer:
+- Behandling av saken
+  - Utsettelse: ukjent

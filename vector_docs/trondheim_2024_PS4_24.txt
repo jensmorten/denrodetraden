@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 4/24
+rodt_fremmet: False
+---
+
+Tittel: Omklassifisering av fylkesveier til kommunale veier i Trondheim kommune
+
+Vedtak:
+Saken ble utsatt

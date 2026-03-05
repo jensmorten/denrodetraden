@@ -1,0 +1,16 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 93/2024
+rodt_fremmet: False
+---
+
+Tittel: Sak 93/2024 - Plan for eierskapskontroll 2024-2028
+
+Vedtak:
+1. Kommunestyret vedtar plan for eierskapskontroll 2024-2028 og slutter seg til kontrollutvalgets prioriteringer.
+2. Kontrollutvalget gis fullmakt til å gjøre endringer i planen.
+
+Voteringer:
+- Avstemning over kontrollutvalgets forslag til vedtak
+  - For: 37 stemmer

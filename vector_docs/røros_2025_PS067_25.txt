@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 067/25
+rodt_fremmet: False
+---
+
+Tittel: 067/25 Søknad om fritak fra politiske verv - Hanne Hauge
+
+Vedtak:
+På grunn av flytting ut av kommunen gis Hanne Hauge fritak fra sine politiske verv i Røros kommune for resten av valgperioden.
+
+Alternative forslag:
+- Christian Elgaaen (SV): På grunn av flytting ut av kommunen gis Hanne Hauge fritak fra sine politiske verv i Røros kommune for resten av valgperioden.
+
+Voteringer:
+- Votering over forslaget fra repr. Elgaaen
+  - For: enstemmig

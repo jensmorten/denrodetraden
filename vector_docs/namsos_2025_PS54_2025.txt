@@ -1,0 +1,22 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 54/2025
+rodt_fremmet: False
+---
+
+Tittel: Rekruttering av kommunedirektør
+
+Vedtak:
+
+
+Alternative forslag:
+- Nils Sigurd Klykken (Høyre): Til Politiske representanter fra kommunestyret, forslås følgende personer til å delta i arbeidet:
+Geir Aalberg
+Gro Olden Jørgensen
+
+Voteringer:
+- Votering over forslag fra Nils Sigurd Klykken (Høyre) om politiske representanter til rekrutteringsutvalget
+  - For: 33 stemmer
+- Votering over ordførerens innstilling til vedtak om nedsetting av rekrutteringsutvalg for ny kommunedirektør
+  - For: 33 stemmer

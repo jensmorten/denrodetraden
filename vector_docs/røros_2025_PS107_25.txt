@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 107/25
+rodt_fremmet: False
+---
+
+Tittel: 107/25 Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og sakliste godkjennes.
+
+Voteringer:
+- Votering over ordførerens forslag til vedtak om godkjenning av innkalling og saksliste
+  - Ordførers forslag: enstemmig

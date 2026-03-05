@@ -1,0 +1,17 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 86/25
+rodt_fremmet: False
+---
+
+Tittel: Kommuneplanens samfunnsdel 2026-2038 - varsel om oppstart og offentlig ettersyn av planprogram
+
+Vedtak:
+Hitra kommunestyre vedtar oppstart for kommuneplanens samfunnsdel i Hitra kommune og utlegging av forslag til planprogram på høring og offentlig ettersyn. Høringsperioden skal være minst seks uker. Vedtaket fattes i medhold av plan- og bygningslovens §§ 4-1, 11-4, 11-12 og 11-13.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For: enstemmig
+- Votering over innstillingen i kommunestyret
+  - For: enstemmig

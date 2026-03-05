@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 19/24
+rodt_fremmet: False
+---
+
+Tittel: Lovlighetskontroll av bystyrets vedtak i sak 237/23 - kjønnsbalanse
+
+Vedtak:
+Saken utsatt.

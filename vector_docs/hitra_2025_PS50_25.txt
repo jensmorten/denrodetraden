@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 50/25
+rodt_fremmet: False
+---
+
+Tittel: Nedsettelse av fartsgrense i Vingvågen - Kommunal veg
+
+Vedtak:
+Hitra kommunestyre vedtar, med hjemmel i skiltforskriftens § 26, at kommunal veg i Vingvågen skiltes med fartsgrense 40 km/t i henhold til kartskisse (skiltplan) vedlagt saken.
+
+Voteringer:
+- Behandling av innstilling om nedsettelse av fartsgrense i Vingvågen
+  - For innstilling: enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 205/24
+rodt_fremmet: False
+---
+
+Tittel: Stortings- og sametingsvalget 2025. Valg av valgstyre og samevalgstyre. Fastsetting av valgdag.
+
+Vedtak:
+Bystyret velger forretningsutvalgets medlemmer som medlemmer av valgstyret ved stortingsvalget 2025. Som valgstyrets leder velges ordfører Kent Ranum. Som valgstyrets nestleder velges varaordfører Erling Moe. Bystyret velger valgstyrets medlemmer som medlemmer av samevalgstyret ved sametingsvalget 2025. Som samevalgstyrets leder velges ordfører Kent Ranum. Som samevalgstyrets nestleder velges varaordfører Erling Moe. Bystyret vedtar at det skal holdes valg til stortings- og sametingsvalget 2025 søndag 7. september 2025. Stemmegivningen skal foregå på Hovedbiblioteket mellom kl 1300 og kl 1800.
+
+Voteringer:
+- Votering om innstillingen til valgstyre, samevalgstyre og valgdag for stortings- og sametingsvalget 2025.
+  - Innstillingen: enstemmig

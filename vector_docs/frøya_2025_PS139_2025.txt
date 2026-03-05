@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 139/2025
+rodt_fremmet: False
+---
+
+Tittel: Evaluering av ny organisering av frisklivssentralen
+
+Vedtak:
+Frisklivssentralen i Frøya videreføres som en del av ordinær drift. En videreføring vil kreve en årlig driftsramme på ca. kr 1 285 000,-, noe som foreslås innarbeidet i kommende økonomiplan.
+I lys av effektiviseringstiltak og Robust 26, hvor organisasjonsmodeller for helse og mestring skal vurderes, er det naturlig at organisering og lokasjon av frisklivssentral evalueres for å sikre effektiv ressursutnyttelse og tverrfaglig samarbeid.
+
+Voteringer:
+- Vedtak om videreføring av frisklivssentralen som en del av ordinær drift og evaluering av organisering og lokasjon.
+  - For: Enstemmig

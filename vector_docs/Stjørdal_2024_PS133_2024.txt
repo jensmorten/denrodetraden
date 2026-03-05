@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 133/2024
+rodt_fremmet: False
+---
+
+Tittel: Tertialrapport nr. 2 - 2024 - Kommunale byggeprosjekter
+
+Vedtak:
+Kommunestyret tar statusrapporten for «større» byggeprosjekter for 2. tertial 2024 til orientering.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 24.10.2024 om å ta statusrapporten for «større» byggeprosjekter for 2. tertial 2024 til orientering.
+  - For: 37 stemmer

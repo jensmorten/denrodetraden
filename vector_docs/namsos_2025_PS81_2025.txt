@@ -1,0 +1,66 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 81/2025
+rodt_fremmet: False
+---
+
+Tittel: Handlings- og økonomiplan 2026-2029 med årsbudsjett 2026
+
+Vedtak:
+Kommunestyret i Namsos vedtar Formannskapets forslag til vedtak, med de allerede vedtatte endringene og tilleggene, herunder handlings- og økonomiplan 2026-2029 og årsbudsjett 2026 med tilhørende økonomiske oversikter og tiltak som beskrevet i innstillingen og tilleggene.
+
+Alternative forslag:
+- Svein Storø (Arbeiderpartiet): Alternativt forslag 4. Økonomi: Pkt. 4.1 siste del endres til politisk behandling etter vedtak av nyeierskapsmelding i NTE i 2027.
+- Svein Storø (Arbeiderpartiet): Pkt. 4.2 strykes.
+- Arnt Skillingstad Rørvik (Høyre) med støtte fra Høyre, Senterpartiet, Kristelig folkeparti, Fremskrittspartiet, Industri- og næringspartiet og Venstre: Kommunestyret ber kommunedirektøren intensivere arbeidet med å redusere antallet bygg som ikke lenger er i bruk, eller bare delvis i bruk, og komme tilbake med oversikt og konkrete forslag innen juni 2026.
+- Geir Olav Knappe (Venstre) med støtte fra Venstre, Høyre og Sp: Kommunestyret vedtar å styrke kommunens arbeid med energistyring for å redusere energikostnader, utrede energiledelsessystem, pilotprosjekt for energifleksibilitet, konvertering til bergvarme, og legge fram status før budsjettbehandlingen i 2026.
+- Frode Båtnes (Arbeiderpartiet): Avvente oppgradering av kommunehuset på Namdalseid, med kutt på 200 000 i 2026 og 12,5 mill i 2027.
+- Stein Tore Wolff (Fremskrittspartiet): Kommunestyret ber om utvidet utredning for posten for pumping av avløpsvann til Tiendeholmen Renseanlegg i Klinga rensedistrikt på kr 3+4 mill i 2026 og 2027.
+
+Voteringer:
+- Vedtak om oppdatering av vedtektene for kommunens NTE-fond (pkt. 4.1)
+  - Innstilling: 25 stemmer
+  - Alternativt forslag fra Svein Storø (Ap): 10 stemmer
+- Vedtak om opptjente rentemidler på NTE-fondet for 2025 (pkt. 4.2)
+  - Innstilling: 25 stemmer
+  - Alternativt forslag fra Svein Storø (Ap) om å stryke pkt. 4.2: 10 stemmer
+- Vedtak om omdømmeprosjekt for Namsos kommune (pkt. 5.1)
+  - Innstilling: 35 stemmer
+- Vedtak om tildeling av hall- og gymsaltid (pkt. 5.2)
+  - Innstilling: 0 stemmer
+  - Endringsforslag fra Nils Sigurd Klykken (Høyre): 35 stemmer
+- Vedtak om transport- og ruteplanlegging i hjemmetjenesten (pkt. 6.1)
+  - Innstilling: 24 stemmer
+  - Imot: 11 stemmer
+- Vedtak om prediksjon av sykefravær i turnusplanlegging (pkt. 6.2)
+  - Innstilling: 21 stemmer
+  - Imot: 14 stemmer
+- Vedtak om digital hjemmehjelp (pkt. 6.3)
+  - Innstilling: 21 stemmer
+  - Imot: 14 stemmer
+- Vedtak om økt barnehagekapasitet i utsatte kretser (pkt. 7.1)
+  - Innstilling: 26 stemmer
+  - Imot: 9 stemmer
+- Vedtak om dialog med private barnehager for økt kapasitet (pkt. 7.2)
+  - Innstilling: 26 stemmer
+  - Imot: 9 stemmer
+- Vedtak om oversikt over ledig barnehagekapasitet (pkt. 7.3)
+  - Innstilling: 35 stemmer
+- Vedtak om konseptutredning for skolestruktur i Namsos-skolen (pkt. 8.1)
+  - Innstilling: 35 stemmer
+- Vedtak om konsept og omfang for ny ungdomsskole (pkt. 8.2)
+  - Innstilling: 35 stemmer
+- Vedtak om tilleggsforslag om bygningsmasse (pkt. 9)
+  - Tilleggsforslag fra Høyre, Senterpartiet, KrF, FrP, INP og Venstre: 35 stemmer
+- Vedtak om tilleggsforslag om energistyring (pkt. 10)
+  - Tilleggsforslag fra Venstre, Høyre og Sp: 34 stemmer
+  - Imot (Nils Sigurd Klykken, Høyre): 1 stemmer
+- Vedtak om forslag om å avvente oppgradering av kommunehuset på Namdalseid (pkt. 12)
+  - Forslag fra Frode Båtnes (Ap): 13 stemmer
+  - Imot: 22 stemmer
+- Vedtak om forslag om utvidet utredning for pumping av avløpsvann til Tiendeholmen Renseanlegg (pkt. 13)
+  - Forslag fra Stein Tore Wolff (FrP): 26 stemmer
+  - Imot: 9 stemmer
+- Endelig vedtak av handlings- og økonomiplan 2026-2029 med årsbudsjett 2026
+  - Formannskapets forslag med vedtatte endringer og tillegg: 35 stemmer

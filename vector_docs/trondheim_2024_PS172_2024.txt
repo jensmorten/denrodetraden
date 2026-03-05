@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 172/2024
+rodt_fremmet: False
+---
+
+Tittel: Representantforslag - Innføre en sømløs og vedtaksfri "omsorgstrapp" for personer med ALS - Tone Dorthe Sletten (H)
+
+Vedtak:
+Saken ble utsatt i bystyrets møte 26. september 2024.
+
+Voteringer:
+- Votering om utsatt behandling av saken
+  - For utsatt: enstemmig

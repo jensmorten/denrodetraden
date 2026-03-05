@@ -1,0 +1,42 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 6/24
+rodt_fremmet: False
+---
+
+Tittel: Bosetting av flyktninger 2024
+
+Vedtak:
+Innstillingens punkt 1 vedtatt med 62 stemmer mot 5 stemmer.
+Innstillingens punkt 2 - 6 enstemmig vedtatt.
+Innstillingens punkt 7 vedtatt med 58 stemmer mot 9 stemmer.
+Innstillingens punkt 8 vedtatt med 58 stemmer mot 9 stemmer.
+Tilleggsforslag om foreldreansvar falt med 12 stemmer mot 55 stemmer.
+Tilleggsforslag om arbeidsretting av introduksjonsprogram falt med 18 stemmer mot 49 stemmer.
+Flertallsmerknad 1, 2 og Flataas (H) merknad ble vedtatt som flertallsmerknader.
+
+Alternative forslag:
+- Maria Alseth (FrP): 1. Kommunen forplikter seg til å bosette 790 flyktninger i 2024, hvorav totalt 30 enslige mindreårige (med eller uten følgepersoner).
+- Mona Berger (SV) på vegne av SV, R: Trondheim kommune opplever at voksne som kommer alene til landet med egne barn, ofte mangler dokumentasjon på foreldreansvar, den type dokumentasjon er ikke vanlig i alle land. Disse blir, etter dagens praksis, registrert uten foreldreansvar for egne barn i folkeregisteret. Dette fører til at foreldrene ikke får ordnet pass, åpnet bankkonto, melde flytting på vegne av barna eller søkt lånekassen om studielån for å nevne noe. Trondheim kommune foreslår derfor at man endrer praksis på dette området og registrerer alle enslige foreldre som kommer med fullt foreldreansvar på mottakstidspunkt.
+- Mona Berger (SV) på vegne av SV, R: Arbeidsrettingen av introduksjonsprogrammet for de med kollektivt opphold som foreslås innført vil gjøre det vanskelig, særlig for flyktninger med helseutfordringer, å få forlenget introduksjonsprogrammet utover 3-6 måneder. Flere vil ikke klare å oppfylle vilkår om at 50 % av aktivitet i introduksjonsprogram etter 3 måneder skal være arbeidsrettet. Dette innebærer en overføring av oppfølging og kvalifiseringsarbeid fra flyktningefeltet til andre tjenester i kommunen uten nødvendig spisskompetanse på målgruppen. Styrkingen av de andre tjenestene må forutsettes dekket av integreringstilskudd. Ordningen bør evalueres etter kort tid.
+- Robert Flataas (H): Bystyret er bekymret for at kapasiteten på ungdomsskolene som er mottaksskoler er i ferd med å nå kapasitetstaket. En økt flyktningestrøm kan derfor føre til et behov for økt kapasitet og en fordeling av ressursene som dekker et økt behov.
+
+Voteringer:
+- Votering mellom Innstillingens pkt.1 vs alternativ forslag fra FrP
+  - Innstillingens pkt. 1: 62 stemmer
+  - Alternativ forslag fra FrP: 5 stemmer
+- Votering Innstillingens pkt. 2 - 6
+  - Innstillingens pkt. 2 - 6: enstemmig
+- Votering Innstillingens pkt. 7
+  - For Innstillingens pkt. 7: 58 stemmer
+  - Mot Innstillingens pkt. 7: 9 stemmer
+- Votering Innstillingens pkt. 8
+  - For Innstillingens pkt. 8: 58 stemmer
+  - Mot Innstillingens pkt. 8: 9 stemmer
+- Votering Tilleggsforslag om foreldreansvar
+  - For tilleggsforslag om foreldreansvar: 12 stemmer
+  - Mot tilleggsforslag om foreldreansvar: 55 stemmer
+- Votering Tilleggsforslag om arbeidsretting av introduksjonsprogram
+  - For tilleggsforslag om arbeidsretting av introduksjonsprogram: 18 stemmer
+  - Mot tilleggsforslag om arbeidsretting av introduksjonsprogram: 49 stemmer

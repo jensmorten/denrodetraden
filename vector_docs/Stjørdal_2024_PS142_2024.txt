@@ -1,0 +1,16 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 142/2024
+rodt_fremmet: False
+---
+
+Tittel: Forespørsel om samtykke til flytting av bryggeanlegg | Stjørdal småbåthavn - Naustberget friluftsområde
+
+Vedtak:
+Kommunestyret som grunneier og bortfester gir ikke samtykke til flytting av omsøkt bryggeanlegg på gnr. 82 bnr. 33 fnr. 5 innenfor Naustberget friluftsområde.
+
+Voteringer:
+- Avstemning om innstilling fra formannskapet om å ikke gi samtykke til flytting av bryggeanlegg
+  - For forslaget: 35 stemmer
+  - Imot forslaget: 2 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: FO 2/24
+rodt_fremmet: False
+---
+
+Tittel: Representantforslag - Nye botilbud for eldre i Trondheim - Maria Alseth (FrP)
+
+Vedtak:
+Bystyret sender representantforslaget fra Maria Alseth (FrP) til helse- og velferdskomiteen for behandling.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: enstemmig

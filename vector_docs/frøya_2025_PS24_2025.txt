@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 24/2025
+rodt_fremmet: False
+---
+
+Tittel: Innkommet bud på næringseiendom - Hamarvikringen - Gnr. 9 - Bnr. 204
+
+Vedtak:
+Frøya kommunestyre godkjenner innkommet bud på næringseiendom i Hamarvikringen, Gnr. 9/Bnr. 204, fra Lervåg Eiendom AS, på kr 5.000.000,- + omkostninger
+Det forutsettes at det utstedes bankgaranti fra kjøpers bank
+Administrasjonen bes utforme avtale med kjøper
+Salgsinntektene føres på budsjettkonto: Tomtesalg - 551332
+
+Voteringer:
+- Vedtak i formannskapets behandling av sak 35/2025 den 25.02.2025
+  - Enstemmig: alle
+- Vedtak i kommunestyrets behandling av sak 24/2025 den 13.03.2025
+  - Enstemmig: alle

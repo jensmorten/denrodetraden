@@ -1,0 +1,22 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 80/25
+rodt_fremmet: False
+---
+
+Tittel: Leieavtale Hitra Idrettspark - Hitra fotballklubb
+
+Vedtak:
+
+
+Alternative forslag:
+- Tom Skare (FrP): Forslag om å utsette saken.
+
+Voteringer:
+- Votering om utsettelsesforslag fremmet av Tom Skare (FrP) i møte 21.10.2025
+  - For utsettelse: Enstemmig
+- Votering om innstilling fra formannskapet i møte 25.11.2025
+  - For innstilling: Enstemmig
+- Votering om innstilling fra formannskapet i møte 11.12.2025
+  - For innstilling: Enstemmig

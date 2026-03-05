@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 114/2024
+rodt_fremmet: False
+---
+
+Tittel: Revidert samarbeidsavtale for Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge
+
+Vedtak:
+Kommunestyret vedtar revidert samarbeidsavtale om Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge
+
+Voteringer:
+- Avstemning over innstilling om revidert samarbeidsavtale for Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge
+  - For: 37 stemmer

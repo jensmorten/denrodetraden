@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 64/25
+rodt_fremmet: False
+---
+
+Tittel: Meldingssak - møteprotokoll fra kontrollutvalget 16.06.2025
+
+Vedtak:
+Hitra kommunestyre tar møteprotokoll fra kontrollutvalgsmøtet 06.05.2025 til orientering.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

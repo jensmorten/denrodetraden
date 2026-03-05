@@ -1,0 +1,25 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 29/24
+rodt_fremmet: False
+---
+
+Tittel: Finansiering av kommunalt fallviltarbeid 2023/9172
+
+Vedtak:
+I henhold til vedtatte prinsipper for vedtak i saker med budsjettmessige konsekvenser vil kommunestyret ta stilling til premissene i en ny fallviltavtale først ved saldering av budsjett 2024.
+Inntil behandling av salderingen finansieres fallviltarbeidet innenfor rammen av fellingsavgiftene.
+Kommunedirektøren går i dialog med ettersøksringen med sikte på å utforme en avtale.
+Ettersøksringen skal rapportere antall timer og oppdragstyper til Utvalg plan og miljø årlig.
+Kommunestyret ber kommunedirektøren gå i dialog med grunneierne for å redusere rådyrbestanden i Stjørdal kommune.
+
+Alternative forslag:
+- Arild Gressetvold (Fremskrittspartiet): ['Ettersøksringen skal rapportere antall timer og oppdragstyper til Utvalg plan og miljø årlig.', 'Kommunestyret ber kommunedirektøren gå i dialog med grunneierne for å redusere rådyrbestanden i Stjørdal kommune.']
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 08.02.2024
+  - For: 36 stemmer
+- Avstemning over tilleggsforslag fra Arild Gressetvold (Frp)
+  - For: 35 stemmer
+  - Imot: 1 stemmer

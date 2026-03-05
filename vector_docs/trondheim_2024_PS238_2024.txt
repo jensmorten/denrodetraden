@@ -1,0 +1,40 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 238/2024
+rodt_fremmet: False
+---
+
+Tittel: Brundalsforbindelsen - utforming av Brundalsforbindelsen og framtidig trafikkmønster på Charlottenlund og Jakobsli
+
+Vedtak:
+Flåtts helhetlig alternativ forslag ble vedtatt med 51 stemmer (20 H, 17 Ap, 4 FrP, 4 V, 3 PP, SP, KrF, Uavh.) mot 16 stemmer (9 SV, 4 MDG, 3 R).
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Bystyret vedtar følgende for endelig utforming av Brundalsforbindelsen: - Gjennomgående fire kjørefelt, der ett felt i hver retning forbeholdes kollektivtrafikk. - Holdeplassutforming som ikke er til hinder for god trafikkflyt. Kantstopp kan aksepteres, når bussene har eget felt. - Eksisterende veger må i størst mulig grad holdes åpne, slik at trafikken fordeler seg og trafikkbelastningen ikke blir uforholdsmessig høy i enkeltområder.
+- Jørn Arve Flått (Ap) på vegne av Ap, V, SP, PP, H: 1. Bystyret vedtar at Brundalsforbindelsen utformes med fire felt, inkludert kollektivfelt, holdeplasser, lysregulerte kryss og innsnevringer, i tråd med prinsippskisse av 291124. Vegen utvides med ett kjørefelt langs holdeplassene i begge retninger, slik at det blir to kjørefelt i hver retning langs holdeplassene.
+2. Bystyret vedtar å gå videre med trafikkdempende tiltak på Charlottenlund og Jakobsli. Det skal avgjøres hvor og hvordan personbiltrafikken skal begrenses i samråd med næringsdrivende, skolene og beboerne i området. Det skal sikres at mindre boliggater ikke blir belastet ytterligere som følge av dette.
+3. Bystyret vedtar at nordlig arm i krysset mellom Brundalsforbindelsen og Tunvegen ikke bygges i denne omgang, men at adkomst nordover følger dagens Hørløcks veg fra Tunvegen. Tunvegen stenges ved skolen slik som fastsatt i områdeplanen.
+4. Bystyret vedtar at adkomst til utbyggingsområde B14 og B14#1 ivaretas ved at det tillates innkjøring på lokalvegen fra østgående kjørefelt på Brundalsforbindelsen og tillatt utkjøring på østgående kjørefelt på Brundalsforbindelsen fra lokalvegen. Det vil si en atkomstløsning med tillatt kjøremønster, høyre av og høyre på. Brundalsforbindelsen forutsettes finansiert av Miljøpakken og av utbyggingsprosjektene. Bystyret vedtar at arbeidet på Brundalsforbindelsen igangsettes når finansiering er avklart.
+5. Bystyret vil komme tilbake til videre utbygging av del 2 etter at del 1 er ferdig. (Jf bystyrets vedtak 25.5.2023).
+6. Bystyret ber Miljøpakken om å vurdere fordeler og ulemper med planfri kryssing, undergang eller bro, opp mot lysregulering i Brundalsforbindelsen. Den beste løsningen som ikke krever ny reguleringsplan velges. Saken legges fram for Bystyret/Kontaktutvalget for endelig beslutning.
+7. Byrådet får i fullmakt til å forhandle med partene i Miljøpakken om Brundalsforbindelsen.
+- Jenny Nordaune (SV) på vegne av SV, R: Bystyret vedtar at Brundalsforbindelsen skal bygges som en ren kollektivtrase.
+- Jenny Nordaune (SV) på vegne av SV, R: Bystyret vedtar at Brundalsforbindelsen skal bygges som en tofelts veg.
+
+Voteringer:
+- Votering på Nordaunes forslag 'Ren kollektivtrase'
+  - For: 16 stemmer
+  - Mot: 51 stemmer
+- Votering på Nordaunes forslag 'Tofelts veg'
+  - For: 16 stemmer
+  - Mot: 51 stemmer
+- Votering på Andreassens forslag 'Fire felt, god trafikkflyt, eksisterende veger'
+  - For: 5 stemmer
+  - Mot: 62 stemmer
+- Votering på innstillingen
+  - For: 0 stemmer
+  - Mot: 67 stemmer
+- Votering på Flåtts helhetlig alternativ forslag
+  - For: 51 stemmer
+  - Mot: 16 stemmer

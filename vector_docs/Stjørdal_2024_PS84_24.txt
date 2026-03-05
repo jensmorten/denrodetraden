@@ -1,0 +1,19 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 84/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av nytt medlem til representantskapet Innherred Renovasjon IKS
+
+Vedtak:
+Som ny representant til representantskapet Innherred renovasjon IKS velges: Rolf Charles Berg (SP)
+
+Alternative forslag:
+- Tor Helge Forbord Slind (Senterpartiet): Som ny representant til representantskapet Innherred renovasjon IKS velges: Rolf Charles Berg (SP)
+
+Voteringer:
+- Valg av nytt medlem til representantskapet Innherred Renovasjon IKS
+  - Innstilling: ukjent
+  - Tor Helge Forbord Slind (Senterpartiet) forslag: Rolf Charles Berg (SP): 35 stemmer

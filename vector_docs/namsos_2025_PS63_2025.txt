@@ -1,0 +1,21 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 63/2025
+rodt_fremmet: True
+---
+
+Tittel: Evaluering av fritidskonto
+
+Vedtak:
+Namsos kommune opprettholder tilbudet om fritidskonto for at flest mulig barn og unge skal ha mulighet til å delta på minst én fritidsaktivitet.
+Ordningene med gavekort til utstyr og tilbudet om treningssenter som del av fritidskontoordningen avsluttes fra 01.01.2026.
+Reviderte retningslinjer for fritidskonto vedtas som fremlagt med virkning fra 01.01.2026.
+
+Alternative forslag:
+- Kim-Gunnar Amundsen Moland (Rødt): ['Namsos kommune opprettholder tilbudet om fritidskonto for at flest mulig barn og unge skal ha mulighet til å delta på minst én fritidsaktivitet.', 'Ordningene med gavekort til utstyr videreføres', 'Tilbudet om treningssenter som del av fritidskontoordningen avsluttes fra 01.01.2026.', 'Reviderte retningslinjer for fritidskonto vedtas som fremlagt med virkning fra 01.01.2026.']
+
+Voteringer:
+- Avstemming mellom innstilling (forslag 1) og Rødts alternative forslag (forslag 2)
+  - Forslag 1 (Innstilling): 29 stemmer
+  - Forslag 2 (Rødts forslag): 6 stemmer

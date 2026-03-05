@@ -1,0 +1,23 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 91/2025
+rodt_fremmet: False
+---
+
+Tittel: Uttalelse angående ferge-/hurtigbåtsambandet i Øyrekka
+
+Vedtak:
+AtB må ta helhetlig grep om situasjonen for ferge- og hurtigbåtsambandet i Øyrekka.
+Torghatten må sørge for å ha fartøy som kan trafikkere området i tråd med anbud.
+Trøndelag fylkeskommune må oppgradere fergeleiene slik at de er tilpasset alle fartøy som skal trafikkere området.
+For å ivareta kapasitet og regularitet, må det forberedes og settes inn avbøtende tiltak i de tilfeller fartøy faller ut/ikke trafikkerer. Dette må fungere automatisk og uten at Frøya kommune må initiere løsning.
+Det må sørges for ryddig og informativ kommunikasjon ut til publikum når endringer/problemer oppstår.
+Frøya kommune ber om differansen mellom optimal løsning og tenkt løsning for fergeleiet på Mausund. Ønsker oversikt over merkostnaden ved å gå for den beste løsningen, eller om optimal løsning ikke lar seg gjennomføre pga dybdeforhold?
+
+Alternative forslag:
+- ['AP', 'SP', 'Rødt']: Frøya kommune ber om differansen mellom optimal løsning og tenkt løsning for fergeleiet på Mausund. Ønsker oversikt over merkostnaden ved å gå for den beste løsningen, eller om optimal løsning ikke lar seg gjennomføre pga dybdeforhold?
+
+Voteringer:
+- Votering over forslag fra AP, SP og Rødt om nytt punkt 6
+  - For: Enstemmig

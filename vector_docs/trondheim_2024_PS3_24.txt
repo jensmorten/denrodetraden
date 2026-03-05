@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 3/24
+rodt_fremmet: False
+---
+
+Tittel: Investeringsbeslutning Vann og avløp i Kongens gate
+
+Vedtak:
+Bystyret vedtar at Kommunedirektøren gjennomfører anlegget Vann og avløp i Kongens gate med en total kostnadsramme på 97 millioner kroner. Tiltaket finansieres innenfor vedtatt investeringsramme for vann og avløp i perioden 2024-2027.
+
+Alternative forslag:
+- Haakon Gussiaas (H): Bystyret ber kommunedirektøren legge frem en detaljert oversikt over kostnadene i tilsvarende prosjekter.
+
+Voteringer:
+- Votering over innstillingen om gjennomføring av anlegget Vann og avløp i Kongens gate med kostnadsramme på 97 millioner kroner.
+  - For: Enstemmig

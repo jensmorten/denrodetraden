@@ -1,0 +1,16 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 96/2024
+rodt_fremmet: False
+---
+
+Tittel: Sak 96/2024 - Etablering av nytt bergkunstsenter i Stjørdal
+
+Vedtak:
+Stjørdal kommune forplikter seg til å bidra økonomisk oppad begrenset til 8,9 mill., for etableringen av nytt bergkunstsenter i Stjørdal.
+Stjørdal kommune forplikter seg til å bidra med økte driftsutgifter til et bergkunstsenter etter en 16% fordeling (stat 60%, fylke 24%, kommune 16%), oppad begrenset til kr. 500.000.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 29.08.2024 om økonomisk bidrag til nytt bergkunstsenter i Stjørdal
+  - For: 37 stemmer

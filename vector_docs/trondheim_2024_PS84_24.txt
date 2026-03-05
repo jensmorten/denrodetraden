@@ -1,0 +1,17 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 84/24
+rodt_fremmet: False
+---
+
+Tittel: PS 84/2024 Årsregnskap og årsberetning 2023
+
+Vedtak:
+Bystyret godkjenner Trondheim kommunes årsregnskap og konsolidert årsregnskap for 2023.
+Bystyret godkjenner kommunedirektørens årsberetning for 2023.
+Bystyret tar kommunedirektørens finansrapport for 2023 til orientering.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

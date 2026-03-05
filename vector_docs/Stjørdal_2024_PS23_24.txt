@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 23/24
+rodt_fremmet: False
+---
+
+Tittel: Vertskommuneavtale for Stjørdalsvassdraget vannområde 2022/12095
+
+Vedtak:
+Kommunestyret godkjenner med hjemmel i kommunelovens § 20-2 vedlagte vertskommuneavtale for Stjørdalsvassdraget vannområde, vedlegg 1. Denne avtalen avløser avtale om tjenestekjøp av 08.09.2017 og vannområdeutvalg i nåværende form opphører.
+
+Voteringer:
+- Avstemning om innstilling til vertskommuneavtale for Stjørdalsvassdraget vannområde
+  - For: 35 stemmer

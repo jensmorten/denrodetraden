@@ -1,0 +1,17 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 40/24
+rodt_fremmet: False
+---
+
+Tittel: Videreutvikling av Værnesregion DMS
+
+Vedtak:
+Kommunestyre tar saken til orientering
+Kommunestyret ber kommunedirektøren gå i dialog med Helse Nord-Trøndelag med sikte på å opprettholde tilbudet med tanke på intermediære senger ved DMS basert på de behov disse fyller.
+Som et ledd i dialogen med Helse Nord-Trøndelag bør det kartlegges hva som er praksis ved øvrige helseforetak i forhold til lignende felles finansierte tilbud.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet
+  - For: 37 stemmer

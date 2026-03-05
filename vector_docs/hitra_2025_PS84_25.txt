@@ -1,0 +1,26 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 84/25
+rodt_fremmet: False
+---
+
+Tittel: Endring i vedtekter til "AlleMed-fondet"
+
+Vedtak:
+1. Hitra kommunestyre vedtar følgende endringer i vedtektene i «AlleMed-fondet» punkt 1,2,3,5 og 7 som vist i kursiv:
+Punkt 1: De viktige, felles hendelsene er med på å skape samhold på øya vår.
+Endres til: Felles aktiviteter er med å skape samhold i kommunen vår.
+Punkt 2: Allemed-fondet skal initiere til, og støtte opp slik at alle kan delta i fritidsaktiviteter – og felles opplevelser, uavhengig av familiens økonomiske situasjon.
+Endres til: Allemed-fondet skal initiere til, og støtte opp slik at alle kan delta i fritidsaktiviteter – og felles opplevelser, uavhengig av familiens økonomiske eller sosiale situasjon.
+Punkt 3: Mailadressen endres til: post@hitra.frivilligsentral.no
+Punkt 5: Tillegg: Ungdom over 13 år kan søke om inntil 1 aktivitet.
+Punkt 7: Daglig leder på Frivilligsentralen avgjør søknader inntil kr 1.000,-.
+Endres til Daglig leder på Frivilligsentralen avgjør søknader inntil kr 2.000,-.
+2. Endringer i fondet fremmes i fortsettelsen frem for Formannskapet som er kommunens utvalg for kultur, dvs en endring i punkt 9 slik
+Punkt 9: Endringer i fondets vedtekter krever vedtak i Hitra kommunestyre.
+Endres til: Endringer i fondets vedtekter krever vedtak i Hitra Formannskap
+
+Voteringer:
+- Vedtak av endring i vedtekter til "AlleMed-fondet" med endring av ordlyd fra "øya vår" til "kommunen vår"
+  - For: Enstemmig

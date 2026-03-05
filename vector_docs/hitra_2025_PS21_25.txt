@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 21/25
+rodt_fremmet: False
+---
+
+Tittel: Hitra kommune kontrollutvalg - Årsmelding 2024
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsmelding for 2024 til orientering.
+
+Voteringer:
+- Behandling av innstilling
+  - For: enstemmig

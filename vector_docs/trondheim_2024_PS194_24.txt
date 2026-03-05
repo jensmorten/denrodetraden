@@ -1,0 +1,34 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 194/24
+rodt_fremmet: False
+---
+
+Tittel: Innføring av digital områdesikring på kommunale barnehager og skoler
+
+Vedtak:
+Bystyret vedtar at digital områdesikring utenfor arbeidstid innføres som pilot på 10 barnehager og skoler i Trondheim.
+Bystyret vil vurdere videre bruk av digital områdesikring på barnehager og skoler etter gjennomført pilotering.
+Bystyret ber byrådet sørge for at digital områdesikring som hovedregel ikke starter før de faste brukerne av bygget har forlatt området, også for de aktivitetene som foregår etter arbeidstid.
+Piloten skal evalueres etter to år, fra tidspunktet hvor systemene er operative på alle enhetene som inngår i prosjektet.
+Bystyret ber om at evaluering av piloten også inkluderer en vurdering av hvordan digital områdesikring påvirker bruken og opplevelsen av uteområder og lekeplasser.
+
+Alternative forslag:
+- Erling Eide Hustvedt (Ap) på vegne av Ap, R: Bystyret mener det i tillegg må satses mer på forebygging og et sterkt lag rundt barn og unge, og ber derfor byrådet fremme en sak for bystyret med en parallell pilot med fokus på andre forebyggende tiltak.
+- Erling Eide Hustvedt (Ap): Bystyret ber om at evaluering av piloten også inkluderer en vurdering av hvordan digital områdesikring påvirker bruken og opplevelsen av uteområder og lekeplasser.
+- Vegard Frøseth Fenes (SP): Piloten skal evalueres etter to år, fra tidspunktet hvor systemene er operative på alle enhetene som inngår i prosjektet.
+
+Voteringer:
+- Votering på innstillingen
+  - For: 58 stemmer
+  - Mot: 9 stemmer
+- Votering på tilleggsforslag 'Parallell pilot med forebyggende tiltak' fra Eide Hustvedt (Ap) på vegne av Ap, R
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Votering på tilleggsforslag 'Påvirkning på uteområder og lekeplasser' fra Eide Hustvedt (Ap)
+  - For: 54 stemmer
+  - Mot: 13 stemmer
+- Votering på tilleggsforslag 'Pilotens varighet' fra Frøseth Fenes (SP)
+  - For: 56 stemmer
+  - Mot: 11 stemmer

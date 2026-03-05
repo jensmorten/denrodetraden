@@ -1,0 +1,17 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 206/24
+rodt_fremmet: False
+---
+
+Tittel: Reglement for valgstyret og samevalgstyret
+
+Vedtak:
+Bystyret vedtar vedlagte reglement for valgstyret (Vedlegg 1).
+Bystyret vedtar vedlagte reglement for samevalgstyret (Vedlegg 2).
+Reglementene gjelder fra 21. november 2024 og inntil nye reglement vedtas.
+
+Voteringer:
+- Votering over innstillingen
+  - For: Enstemmig

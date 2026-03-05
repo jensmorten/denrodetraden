@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 026/25
+rodt_fremmet: False
+---
+
+Tittel: Referatsaker
+
+Vedtak:
+Referatsak tas til orientering
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

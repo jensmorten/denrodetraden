@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 106/24
+rodt_fremmet: False
+---
+
+Tittel: PS 106/2024 Representantforslag - En mer kraftfull forbedringsprosess i BOA med god forankring blant berørte parter - Kjetil Utne (H)
+
+Vedtak:
+Saken utsettes.

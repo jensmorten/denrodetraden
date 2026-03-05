@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 42/25
+rodt_fremmet: False
+---
+
+Tittel: PS 42/2025 Konstituering av kommunedirektør
+
+Vedtak:
+Kommunestyre konstituerer Rønnaug Aaring som kommunedirektør.
+
+Voteringer:
+- Votering over forhandlingsutvalgets innstilling om konstituering av Rønnaug Aaring som kommunedirektør.
+  - For forslaget: 32 stemmer

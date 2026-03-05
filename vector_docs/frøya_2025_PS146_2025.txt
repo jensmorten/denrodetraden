@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 146/2025
+rodt_fremmet: False
+---
+
+Tittel: Revidering av plan for samfunnssikkerhet og beredskap
+
+Vedtak:
+Kommunestyret tar revidering av plan for samfunnssikkerhet og beredskap til orientering.
+Ledelse av beredskapsmøter endres fra ordfører til kommunedirektør.
+Formannskapet gir kommunedirektøren fullmakt til å disponere inntil kr. 1,5 millioner i en krisesituasjon.
+
+Voteringer:
+- Vedtak av revidering av plan for samfunnssikkerhet og beredskap
+  - For: Enstemmig

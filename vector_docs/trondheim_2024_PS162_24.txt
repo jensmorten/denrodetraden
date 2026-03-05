@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 162/24
+rodt_fremmet: False
+---
+
+Tittel: PS 162/2024 Valg av forliksrådsmedlemmer og møtefullmektiger for forliksrådet for perioden 01.01.2025 - 31.12.2028
+
+Vedtak:
+Saken utsettes.
+
+Alternative forslag:
+- Mona Berger (SV): Utsettes til bystyremøtet 26.9
+
+Voteringer:
+- Votering over Bergers utsettelsesforslag
+  - For utsettelsesforslaget: enstemmig

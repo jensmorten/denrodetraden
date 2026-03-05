@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 32/2025
+rodt_fremmet: False
+---
+
+Tittel: Forliksrådet 2025-2029
+
+Vedtak:
+Som andre varamedlem i Forliksrådet i perioden 2025 – 2029, velges: Lars Christian Larsen
+
+Voteringer:
+- Valg av andre varamedlem i Forliksrådet i perioden 2025 – 2029
+  - Lars Christian Larsen: enstemmig

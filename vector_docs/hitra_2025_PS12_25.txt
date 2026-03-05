@@ -1,0 +1,20 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 12/25
+rodt_fremmet: False
+---
+
+Tittel: Høringsuttalelse til forslag til ny delingsordning for fornybar kraft tilpasset næringsområder
+
+Vedtak:
+Hitra kommunestyre vedtar følgende forslag til høringsuttalelse til ny delingsordning for fornybar kraft tilpasset næringsområder:
+Hitra kommunestyre imøteser forslaget til ny delingsordning for fornybar kraft tilpasset næringsområder med stor interesse. Det er svært positivt at forslaget åpner for å bygge «Energisamfunn» der bedrifter med store takarealer og beskjedent eget forbruk kan dele sin produksjon med andre bedrifter på næringsområdet, og slik at lokal produksjon av fornybar kraft kan etableres. Slik produksjon vil kunne etableres uten nevneverdige inngrep i naturen og vil ha liten negativ virkning på kraftsystemet siden kraften kan deles innenfor allerede etablert nettverk. Investeringskostnadene på slike anlegg er imidlertid høy og lønnsomheten er helt avhengig av de unntak fra el-avgift og nettleie det legges opp til. Det er viktig at en slik ordning er teknologinøytral.
+Hitra kommunestyre mener imidlertid at forslag ikke går langt nok når anledningen til deling begrenses til 5 MW. På store næringsarealer med stort potensiale bør begrensningen i større grad ligge på hva behovet for kraft innenfor næringsområdet kan nyttiggjøre seg. Å legge en begrensning på 5 MW vil gjøre at de store effektene ved å tenke stort og effektivt for både produsent og kjøper av kraften vil redusere lønnsomheten i prosjektene og dermed ikke gjøre de realiserbare. Dessuten vil man ikke utnytte det maksimale potensialet i anlegget.
+Hitra kommunestyre mener videre at det bør vurderes om avgrensingen til «produksjonsanlegg på bebygd areal som er bebygd for et annet formål enn produksjonsanlegget selv» kan utvides til også gjelde tilhørende areal som parkeringsplass til bygget. Gode løsninger for overbygde parkeringsområder med produksjon av solenergi bør ikke utelukkes i ordningen der parkeringen allerede er etablert i tilknytning til bygningen.
+I de fleste tilfeller vil energilagring i kombinasjon med solkraft øke mulighetene for utnyttelse og de ordninger som er foreslått i høringen vedrørende begrensninger for hvilke energilagringsløsninger som kan tilknyttes ordningen tilsluttes fra kommunens side.
+Med bakgrunn i store sesongvariasjoner vil forslaget til ny delingsordning bidra til kraftforsyningen kun i deler av året hvor solprodusert kraft kan utgjøre en betydelig del av kraftforsyningen. Hitra kommunestyre understreker at denne nye delingsordningen, slik det er foreslått fra Energidepartementet og Finansdepartementet, dermed ikke vil bidra til å tilfredsstille behovet for kapasitetsøkning i nettet for tilførsel av kraft til næringsområdene for å møte fremtidens behov med grønn omstilling, og arbeidet med å øke tilgang til kraft til våre viktige næringsområder må på ingen måte svekkes av en slik ny delingsløsning.
+
+Voteringer:
+- Votering over innstillingen til høringsuttalelse til ny delingsordning for fornybar kraft tilpasset næringsområder
+  - For innstillingen: enstemmig

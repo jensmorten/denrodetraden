@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 53/24
+rodt_fremmet: False
+---
+
+Tittel: PS 53/2024 Representantforslag - Nye botilbud for eldre i Trondheim - Maria Alseth (FrP)
+
+Vedtak:
+Saken ble utsatt i møtet 4. april 2024.

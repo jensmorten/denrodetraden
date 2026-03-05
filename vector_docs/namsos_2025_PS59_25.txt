@@ -1,0 +1,18 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 59/25
+rodt_fremmet: False
+---
+
+Tittel: PS 59/2025 Fremtidens legetjeneste oppfølging sak PS21/2025
+
+Vedtak:
+Kommunestyret tar saken til orientering.
+Kommunestyret tar til etterretning behovet for andre permanente lokaler til legevakt før det nye helsebygget realiseres.
+Kommunedirektøren får fullmakt til å vurdere alternative løsninger for permanent samlokalisering av legevakt og andre aktuelle helsetjenester gjennom å gjennomføre en ide og konseptfase med relevante interessenter.
+Forslag til løsning legges fram til politisk behandling. Utgifter for denne fasen innarbeides i økonomiplanen.
+
+Voteringer:
+- Votering over innstilling fra formannskapet til kommunestyret
+  - For: 34 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 19/2026
+rodt_fremmet: False
+---
+
+Tittel: Kontrollutvalgets års- og møteplan for 2026
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets års- og møteplan for 2026 til orientering
+
+Voteringer:
+- Vedtak om å ta kontrollutvalgets års- og møteplan for 2026 til orientering
+  - For: Enstemmig

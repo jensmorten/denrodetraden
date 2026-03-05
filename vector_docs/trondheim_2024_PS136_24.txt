@@ -1,0 +1,25 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 136/24
+rodt_fremmet: False
+---
+
+Tittel: Næringsprogram for Nyhavna
+
+Vedtak:
+Bystyret vedtar næringsprogrammet for Nyhavna, datert 12.04.2024
+Det sikres nødvendig tilkomst til Transittkaia for tyngre kjøretøy, slik at transportbehov i forbindelse med havnevirksomheten ivaretas.
+
+Alternative forslag:
+- Vegard Frøseth Fenes (SP): Det er en forutsetning at det sikres nødvendig tilkomst til Transittkaia for tyngre kjøretøy, slik at transportbehov i forbindelse med havnevirksomheten ivaretas.
+- Nils Heldal (SV): Kaikantene skal ha flerbruk, men næring skal ha forrang der det oppstår konflikt. Riktig arealbruk er en forutsetning for utvikling av næringsvirksomhet på Nyhavna. Tilgang til kaikant og dokk, samt behov for næringsbebyggelse og adkomst for tungtransport og store volum må ivaretas.
+
+Voteringer:
+- Votering over innstillinga
+  - For: 67 stemmer
+- Votering over Fenes tilleggsforslag
+  - For: 67 stemmer
+- Votering over Heldals tilleggsforslag
+  - For: 32 stemmer
+  - Imot: 35 stemmer

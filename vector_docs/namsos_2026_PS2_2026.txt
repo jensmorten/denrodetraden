@@ -1,0 +1,22 @@
+METADATA:
+kommune: namsos
+year: 2026
+saksnummer: PS 2/2026
+rodt_fremmet: False
+---
+
+Tittel: Tilsetting av kommunedirektør i Namsos kommune - 2026
+
+Vedtak:
+Sigrid T. Angen, født 6. januar 1975, tilsettes som kommunedirektør i Namsos kommune.
+Oppstartsdato: 06.05.2026.
+Ordfører gis fullmakt til å inngå arbeidskontrakt.
+
+Alternative forslag:
+- Amund Lein (Høyre): Rekrutteringsutvalget/tilsettingsutvalget innstiller sitt forslag til ny kommunedirektør til kommunestyret i Namsos.
+
+Voteringer:
+- Votering over Amund Leins forslag om at Rekrutteringsutvalget/tilsettingsutvalget innstiller sitt forslag til ny kommunedirektør til kommunestyret i Namsos.
+  - For: 34 stemmer
+- Votering over innstillingen om tilsetting av Sigrid T. Angen som kommunedirektør.
+  - For: 34 stemmer

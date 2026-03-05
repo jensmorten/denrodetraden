@@ -1,0 +1,20 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 88/24
+rodt_fremmet: False
+---
+
+Tittel: 1.tertial 2024. Økonomirapportering inklusive finansforvaltning
+
+Vedtak:
+1. Kommunestyret tar vedlagte tertialrapport til orientering.
+2. Kommunestyret er tilfreds med at de iverksatte tiltak har ønsket effekt, slik at vi gjennom første halvår 2024 har håndtert merforbruket fra 2023 i henhold til bestemmelsene i kommunelovens § 14-11.
+3. Kommunestyret ber kommunedirektøren følge situasjonen rundt skolene nøye, og tar til etterretning at kommunedirektøren finner de vedtatte budsjettrammene forsvarlige både økonomisk og faglig. Kommunestyret har tillit til at kommunedirektøren gjør løpende vurderinger basert på elevtall, vedtak om spesialundervisning og endringer inn mot skolestart på en slik måte at eventuelle behov for endringer i budsjett og rammer blir framlagt for kommunestyret.
+
+Voteringer:
+- Avstemning om innstilling pkt. 1: Kommunestyret tar vedlagte tertialrapport til orientering.
+  - For: 35 stemmer
+- Avstemning om innstilling pkt. 2 og 3: Kommunestyret er tilfreds med tiltakene og ber kommunedirektøren følge situasjonen rundt skolene.
+  - For: 22 stemmer
+  - Imot: 13 stemmer

@@ -1,0 +1,54 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 15/2024
+rodt_fremmet: False
+---
+
+Tittel: Reservevannforsyning - forslag til løsning
+
+Vedtak:
+
+
+Alternative forslag:
+- Stian Flobergseter (Arbeiderpartiet): Kommunedirektøren gis fullmakt til å gå videre med og signere en intensjonsavtale med Frosta Vassverk SA for å forprosjektere en sjøledning rundt Skatval som gjensidig reservevannløsning. Det tas alminnelig forbehold om at man kan enes om en endelig samarbeidsavtale som skal vedtas av kommunestyrene og årsmøte i Frosta Vassverk SA.
+- Geir Falck Anderssen (Høyre): 1. Kommunestyrets vedtak i PS99/18 vedr Ausetvatnet som reservevannkilde er å betrakte som det gjeldende vedtak.
+- Geir Falck Anderssen (Høyre): 2. Kommunedirektøren gis ikke fullmakt til å gå videre med å signere en intensjonsavtale med Frosta Vassverk SA. Frosta som alternativ reservevannforsyning for Stjørdal legges bort.
+- Geir Falck Anderssen (Høyre): 3. Bygging av høydebasseng på Skatval, lokasjon utredes og Tiller toppen skal være et alternativ.
+- Geir Falck Anderssen (Høyre): 4. Frosta Vassverk SA tilbys å koble seg på høydebassenget på Tiller eller et annet egnet sted på vårt vannledningsnett som reservevannkilde for egen regning.
+- Geir Falck Anderssen (Høyre): 5. Kommunestyret ber kommunedirektøren utrede ny kostnad ved realisering av vedtatt plan. Her bes det spesifikt å utrede minste nødvendig tekniske løsning for rensing.
+- Geir Falck Anderssen (Høyre): 6. Den skal legges slik at beboere på strekningen fra Okkelberg, gjennom Vassbygda til Kvislabakken kan koble seg på vannledningen. Det skal samtidig planlegges for et avløpssystem på hele strekningen, som dimensjoneres for ny boligbygging i området samt om nødvendig også for området mellom Vassbygda og golfbanen.
+- Geir Falck Anderssen (Høyre): 7. Plan og kostnader legges frem for politisk behandling.
+- Geir Falck Anderssen (Høyre): 8. I prosjektering og utbygging av ny reservevannforsyning skal en ta hensyn til en mest mulig jevn endring av gebyrsatsene over år innenfor vann og avløp.
+
+Voteringer:
+- Avstemning om innstillingen fra Formannskapet 18.01.2024
+  - For innstillingen: 0 stemmer
+  - Imot innstillingen: 37 stemmer
+- Avstemning om alternativt forslag fra Stian Flobergseter (Ap)
+  - For forslaget: 12 stemmer
+  - Imot forslaget: 25 stemmer
+- Avstemning om forslag 1 fra Geir Falck Anderssen (Høyre)
+  - For forslaget: 26 stemmer
+  - Imot forslaget: 11 stemmer
+- Avstemning om forslag 2 fra Geir Falck Anderssen (Høyre)
+  - For forslaget: 24 stemmer
+  - Imot forslaget: 13 stemmer
+- Avstemning om forslag 3 fra Geir Falck Anderssen (Høyre)
+  - For forslaget: 23 stemmer
+  - Imot forslaget: 14 stemmer
+- Avstemning om forslag 4 fra Geir Falck Anderssen (Høyre)
+  - For forslaget: 26 stemmer
+  - Imot forslaget: 11 stemmer
+- Avstemning om forslag 5 fra Geir Falck Anderssen (Høyre)
+  - For forslaget: 26 stemmer
+  - Imot forslaget: 11 stemmer
+- Avstemning om forslag 6 fra Geir Falck Anderssen (Høyre)
+  - For forslaget: 22 stemmer
+  - Imot forslaget: 15 stemmer
+- Avstemning om forslag 7 fra Geir Falck Anderssen (Høyre)
+  - For forslaget: 35 stemmer
+  - Imot forslaget: 2 stemmer
+- Avstemning om forslag 8 fra Geir Falck Anderssen (Høyre)
+  - For forslaget: 28 stemmer
+  - Imot forslaget: 9 stemmer

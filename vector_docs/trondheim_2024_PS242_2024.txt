@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 242/2024
+rodt_fremmet: False
+---
+
+Tittel: Verftsbrua - valg av alternativ for videre prosjektering
+
+Vedtak:
+Saken ble utsatt i bystyrets møte 19. desember 2024.

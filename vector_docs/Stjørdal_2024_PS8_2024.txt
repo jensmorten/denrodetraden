@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 8/2024
+rodt_fremmet: False
+---
+
+Tittel: Analyse av ressursbruk og omfang av brukerstyrt personlig assistanse
+
+Vedtak:
+Kommunestyret tar saken til orientering, og ber kommunedirektøren komme tilbake med statusoppdatering i løpet av våren – senest innen juni 2024.
+
+Voteringer:
+- Avstemning over innstilling fra Utvalg Kultur og Levekår 16.01.2024
+  - For: 37 stemmer

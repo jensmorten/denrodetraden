@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 249/2024
+rodt_fremmet: False
+---
+
+Tittel: Ufordelte kostnader Helseplattformen AS - Trondheim kommune sin andel
+
+Vedtak:
+Bystyret bevilger 23,2 millioner til inndekning av påløpte kostnader i perioden 2021-2024. Bevilgningen finansieres ved bruk av disposisjonsfondet.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

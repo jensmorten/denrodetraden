@@ -1,0 +1,20 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 36/25
+rodt_fremmet: False
+---
+
+Tittel: Merknadsbehandling og fastsetting av planprogram for nye Hitra 1 vindkraftverk
+
+Vedtak:
+Hitra kommunestyre fastsetter Kombinert planprogram og melding for nye Hitra 1 vindkraftverk med følgende endringer:
+1. Temaet folkehelse inkluderes i planprogrammets kapittel 6.2, med krav om å gjøre en overordnet vurdering av antatte helsekonsekvenser for lokalbefolkningen.
+2. Planprogrammets kapittel 6.2 oppdateres iht. til opplysninger gitt om drikkevann og vannmiljø tilknyttet planområdet.
+3. Planprogrammets kapittel 6.2 oppdateres med tema for naturmangfold i vann. Beskrivelse tas inn i utredningen.
+4. Øvrige tekstoppdateringer merket rødt i vedlegg Kombinert planprogram og melding for nye Hitra 1 vindkraftverk godkjennes.
+Endringene vurderes ikke å utløse behov for ny høring. Vedtaket fattes iht. plan- og bygningslovens §§4-1 og 12-9.
+
+Voteringer:
+- Votering over innstillingen i kommunestyret
+  - For: Enstemmig

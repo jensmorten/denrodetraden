@@ -1,0 +1,26 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 18/24
+rodt_fremmet: False
+---
+
+Tittel: Trøndelag brann- og redningstjeneste IKS - representantskapet
+
+Vedtak:
+Bystyret oppnevner følgende til representantskapet i Trøndelag brann- og redningstjeneste IKS:
+- Representant: Roar Aas (Ap).
+- 2 personlige vararepresentanter: Silje Salomonsen (SV) og Magni Fjørtoft Svarstad (Rødt).
+Nytt varamedlem for Sara Shafighi: Emil Raaen
+
+Alternative forslag:
+- Berit Tiller (H) på vegne av H, Ap, FrP, KrF, MDG, PP, R, SP, SV, V: Fast representant Roar Aas (Ap). Vararepresentanter Silje Salomonsen (SV) og Magni Fjørtoft Svarstad (Rødt).
+- Sara Shafighi (Ap): Nytt varamedlem for Sara Shafighi: Emil Raaen
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig
+- Votering over Tillers tilleggsforslag
+  - For: enstemmig
+- Votering over Shafighis tilleggsforslag
+  - For: enstemmig

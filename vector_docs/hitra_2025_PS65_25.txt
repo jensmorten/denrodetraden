@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 65/25
+rodt_fremmet: False
+---
+
+Tittel: Meldingssak - møteprotokoll fra kontrollutvalgets møte 01.09.2025
+
+Vedtak:
+Møteprotokoll fra kontrollutvalgets møte 01.09.2025 tas til orientering.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 214/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 214/2024 Startlån til førstegangsetablerere
+
+Vedtak:
+Bystyret vedtar å ta opp lån for videreutlån til startlånsordningen til førstegangsetablerere på inntil 50 millioner kroner i 2024. Innlånet forutsetter at søknaden i forsøksordningen innvilges av Husbanken.
+
+Voteringer:
+- Votering om innstillingen til startlån for førstegangsetablerere
+  - For: enstemmig

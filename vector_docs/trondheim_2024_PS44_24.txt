@@ -1,0 +1,35 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 44/24
+rodt_fremmet: True
+---
+
+Tittel: PS 44/2024 Endring i ordning med påpluss/inntrekk
+
+Vedtak:
+
+
+Alternative forslag:
+- Mona Berger (SV) på vegne av SV, R: Saken sendes tilbake til kommunedirektøren som bes om å sørge for at endringene i økonomireglementet og de konsekvenser de medfører drøftes med hovedtillitsvalgte. Det som kommer frem i drøftingen innarbeides i saken før den kommer tilbake til komite og bystyrebehandling.
+- Maria Alseth (FrP): Nytt punkt 4: Bystyret vedtar å ikke foreta inntrekk i 2024 fra kommunens helse- og velferdssenter, basert på enhetenes regnskapsresultater i 2023. Kostnaden ved dette belastes disposisjonsfondet. Dette gjøres for å unngå uønskede effekter som f. eks nedbemanning, da det er bred politisk enighet om at bemanningen skal styrkes og ikke svekkes.
+- Maria Alseth (FrP): Alternativt forslag pkt. 2: Bystyret vedtar å endre inntrekk i 2024, basert på enhetenes regnskapsresultater i 2023, fra tre til en prosent. Dette medfører at disposisjonsfondet svekkes med tilsvarende, og at enhetenes budsjetter styrkes tilsvarende.
+- Nils Heldal (SV): Lovpålagte tjenester ikke belastes med inntrekk av budsjettrammen påfølgende år: Bystyret vedtar at økonomireglementet endres slik at enheter som yter lovpålagte tjenester og det kan dokumenteres at merforbruket skyldes manglende statlig finansiering eller et økende behov hos innbyggerne, ikke belastes med inntrekk av budsjettrammen påfølgende år.
+- Roald Arentz (R): Avvikle ordninga: Dagens system med påpluss og inntrekk reflekterer i for liten grad de faktiske behovene ute på enhetene. Tilskudd må gis basert på faktiske behov og oppgaver. Bystyret vedtar at ordninga avvikles.
+
+Voteringer:
+- Votering på Bergers forslag om tilbakesending av saken
+  - For: 28 stemmer
+  - Mot: 38 stemmer
+- Votering på Arentz forslag om å avvikle ordninga
+  - For: 12 stemmer
+  - Mot: 55 stemmer
+- Votering på Alseths forslag nytt pkt 4
+  - For: 17 stemmer
+  - Mot: 50 stemmer
+- Votering på Heldals forslag
+  - For: 12 stemmer
+  - Mot: 55 stemmer
+- Alternativ votering mellom innstillingens pkt. 2 og Alseths alternative forslag til pkt. 2
+  - Innstillingens pkt. 2: 51 stemmer
+  - Alseths alternative forslag pkt. 2: 16 stemmer

@@ -1,0 +1,116 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 157/2024
+rodt_fremmet: False
+---
+
+Tittel: Budsjett og økonomiplan 2025-2028
+
+Vedtak:
+{'tekst': 'Tor Helge Forbord (Senterpartiet) fremmet følgende forslag:\nFor forslaget stemte 25: Arild Gressetvold (Frp), Johan Aarbu (Frp), Tor Anders Halle (Frp), Berit Anette Elvertrø (H), Geir Falck Anderssen (H), Ole Hermod Sandvik (H), Renate Trøan Bjørshol (H), Rune Larsen (H), Annette T. Jensen (KrF), Geirr Tjash Hagen (Pp), Anna Wesche Kvål (Sp), Eli Arnstad (Sp), Henrik Josteinsson Myhr (Sp), Jan Borge Larsen (Sp), Knut Egil Kvarving (Sp), Maria Kristoffersen (Sp), Mona Raaen (Sp), Nils Nordbotn (Sp), Otelie Almli (Sp), Roar Brekken (Sp), Rolf Charles Berg (Sp), Tor Helge Forbord Slind (Sp), Ann Elisabeth Monsen Èli (UA), Gunnar Uglem (V), Torgrim Hallem (V)\nImot forslaget stemte 12: Ann-Inger Leirtrø (Ap), Elisabeth Suzen (Ap), Idar Aspmodal (Ap), Inger Johanne Overvik Uthus (Ap), Jan Inge Kaspersen (Ap), Kristin Almhjell Jenssen (Ap), Per Erik Moen (Ap), Siw Mæhre (Ap), Stian Flobergseter (Ap), Marit Vikan Sævareid (R), Gudrun Lidal (SV), Morten Harper (SV)\nDermed ble forslaget vedtatt.', 'vedtatt': True}
+{'tekst': 'Tor Helge Forbord fremmet følgende forslag til vedtak på vegne av SP, H, FrP, KrF, V:\n1. I Stjørdal kommune skal det aktivt arbeides for god og stabil tjenesteyting for kommunenes innbyggere innenfor tilgjengelige økonomiske rammer hensyntatt lovpålagte føringer.\n2. Det skal i Stjørdal kommunes budsjett og økonomiplan arbeides for at de vedtatte nøkkeltall - netto driftsresultat (korrigert) skal være på minimum 1,5 % av driftsbudsjett, netto låneopptak (eks. selvfinansierende investeringer) i økonomiplanperioden ikke skal overstige 4% av driftsinntektene og at disposisjonsfondet skal være over 8% av driftsinntektene - nås i løpet av økonomiplanperioden og at man for hvert år er dokumenterbart på vei for å nå dette målet. Dette er grunnlag for at man over tid kan gi stabile og solide tjenester til innbyggerne i Stjørdal.\n3. Det presiseres at prinsipper for dekning av merforbruk vedtatt i budsjett for 2024, økonomiplan 2024-27, skal følges.\n4. Det skal ikke innføres eller forberedes innført eiendomsskatt, hverken på boliger-, fritids eller næringseiendom.\n5. Alle eventuelle endringer i budsjettet skal ta utgangspunkt i opprinnelig vedtatt budsjett for inneværende år og all rapportering gjennom året skal også ta utgangspunktet i opprinnelig budsjett. Det skal i 2025 rapporteres på økonomiutvikling på lignende måte som i 2024 med månedlige rapporter i formannskapet.\n6. Det skal ikke ansettes i faste eller midlertidige stillinger i Stjørdal kommune uten budsjetthjemmel. Budsjetthjemmel skal være forankret i årsbudsjett som vedtas av kommunestyret. Det vises til vedtak i strategidebatt 2023. Det igangsettes et program for strategisk styring etter årsverk. Når en ansatt slutter, skal det foretas en grundig vurdering av om stillingen skal videreføres eller ikke, herunder hvorvidt man har andre ansatte som ønsker nye oppgaver som ledd i ønsket faglig utvikling.\n7. Gitt de utfordringer som Stjørdal kommune har fått ved oppsigelse av avtale fra St. Olav om kjøp av plasser ved Helsehuset i brev datert den 15.11. 2024 skal det fremmes en sak for revidering av budsjett så raskt som mulig i 2025. I dialogen med St Olav må det tas inn at sykehuset i nysalderingen av statsbudsjettet i etterkant av den 15.11 2024 fikk tilført 447 mill. kr. og at det ikke kan legges til grunn at sykehuset kan overføre eventuelle økonomiske utfordringer til samarbeidende kommuner. Det må likevel legges en plan for hvordan 10 millioner som St. Olav planlegger å trekke inn fra 1. januar skal dekkes inn med nødvendig justering og reduksjon av aktivitet og kommunestyret ber KD komme tilbake med egen sak om dette. Det bes om at det i budsjettrevideringen tas inn effekter av budsjettenigheten i Stortinget ved sluttbehandling av budsjettet.\n8. Stjørdal kommune skal etterstrebe å ha samme avtaleprinsipper i forhold til tjenesteavtaler som man har i Værnesregionen med en fast oppsigelsesdato og deretter et års deltakelse for å sikre at kommunen har mulighet for omstilling.\n9. Det vises til seneste GSI rapportering hvor gapet mellom lærertetthet og lærertetthet i ordinær undervisning øker fra 2023 til 2024. Kommunedirektøren bes gjennomgå og legge en plan for hvordan man i Stjørdal skal nå en bedre balanse mellom individuell tilpasset opplæring og ordinær undervisning. Det skal sammenlignes praksis med andre sammenlignbare kommuner, ikke minst innenfor Kostra gruppe 9. Videre skal det vurderes å se på beslutningsprosess og vurdere alternative måter å budsjettere på slik at ordinær undervisning prioriteres og lærernorm i skolene kan nås.\n10. Kommunedirektøren legger, så raskt som det er mulig, til rette for et prøveprosjekt med et tverrfaglig team ved en utvalgt skole som kommunedirektøren vurderer som godt egnet for dette formålet. Det tverrfaglige teamet skal styrke laget rundt eleven og være fysisk tilstede i skolen og jobbe direkte med elever som har særskilt behov for oppfølging fra skolehelsetjenesten, PPT, barnevern og andre aktuelle fagressurser som kommunedirektøren mener bør delta i et slikt team. Teamet skal jobbe forebyggende med utfordringsområder i skolen som skolefravær, mobbing, elever med helseutfordringer, elever med adferds utfordringer og elever som krever oppfølging fra politi og barnevern. Teamet skal jobbe direkte med elevene, deres familier, lærere og skolens øvrige samarbeidspartnere. Før det tverrfaglige teamet etableres skal endelig mandat for prosjektet behandles og godkjennes av utvalg kultur og levekår. Utvalget skal også holdes løpende orientert om prosjektet underveis. Prosjektet skal finansieres innenfor vedtatte budsjettrammer innenfor de enhetene som deltar i prosjektet og med de fagressursene kommunen allerede har i sin organisasjon. Resultatene i prosjektet skal evalueres senest høsten 2026 etter involvering av alle berørte parter i skolen og blant skolens samarbeidspartnere. Resultatene av evalueringen legges fram for politisk behandling så fort den foreligger, senest våren 2027.\n11. Barnefamilier skal sikres at når barn fyller 1 år vil de kunne få barnehageplass i Stjørdal, enten foreldrene velger kommunal eller privat barnehage.\n12. Det legges til grunn at investeringer som forslått i budsjettet for riving av gamle Hegra barneskole og rassikring i Hegra sentrum gjennomføres. Dette vil sikre at framtidig sentrumsutvikling i Hegra får et helt nødvendig og viktig steg framover. Herunder avsettes det penger til etablering av tre ekstra rom ved Hegra Bosenter. Disse kan ikke bygges før det er foretatt rassikring men om det skulle skje i løpet av 2025 vil det være et viktig supplement for vår eldreomsorg å realisere dette så raskt som mulig.\n13. Husbyvegen Park etableres innenfor de rammer som er foreslått og forskyves til 2026 for å bidra til å sikre lærernorm våren 2025.\n14. Hjemmetjenestene må de nærmeste årene søkes styrket for å ivareta de demografiske endringene i befolkningen. I 2025 styrkes det innenfor de rammer som er foreslått.\n15. Konsulentbruk i Stjørdal kommune skal gjennomgås og reduseres. Basert på erfaringstall fra siste år skal en reduksjon fordeles mellom administrasjon, samfunn og velferd.\n16. Gebyrsatser for klatrehallen, herunder rabattordning justeres for å tilpasses øvrig halleie.\n17. Kjøkken og kantine ved idrettshallene kan tilbys til bruk for foreldre ved treninger for å kunne skape en trivelig ramme og engasjere foreldre i forhold til treninger og fellesskap.\n18. Det skal samarbeides tettere mellom Idrettsrådet og Stjørdal kommune innenfor en politisk vedtatt samarbeidsavtale.\n19. Penger avsatt til energieffektivisering og klima og miljø skal i første rekke brukes som egeninnsats når man søker støtte fra andre som bla Enova, Husbanken, Klimasmart mm. slik at man kan gjøre beløpet og dermed innsatsen større.\n20. Kommunedirektøren bes undersøke nærmere, og hvis aktuelt, søke om midler fra potten som Utdanningsdirektoratet har til skolemiljøteam og beredskapsteam mot ungdomskriminalitet og utrygge skolemiljø. Kommunedirektøren bes også kartlegge nærmere om det er andre aktuelle tilskuddsordninger man kan søke på til områder som yter kommunale tjenester.\n21. Kommunestyret ber kommunedirektøren vurdere om det skal opprettes en frivillighetspool med mennesker som kan bistå i tjenestene i Stjørdal kommune, som f.eks barnehager, skoler, bosentre og Fides.\n22. Kommunens bilpark skal gjennomgås med sikte på effektiv drift og reduksjon i antall. Makspris på innkjøp av bil vurderes, og den totale bilparken skal reduseres samt brukes og forvaltes effektivt. Det legges fram en sak for politisk behandling.\n23. Forslag på effektiviseringer fra ansatte og innbyggere skal tas godt imot og utredes.\n24. UNGdata undersøkelsen viser en markant økning av rusbruk blant ungdom i Norge. Dette er utfordrende også for Stjørdal. Det legges derfor til rette for et eget prosjekt rettet mot spesielt mellomtrinn og ungdomsskoletrinn for å informere om rus og konsekvenser ved bruk og det søkes om ekstern støtte til dette.\n25. Det legges en plan for digital infrastruktur og trådløse nett ved bosenter i kommunen. Kommunedirektøren bes komme tilbake med utrullingsplan og hvordan dette kan følges opp med bruk av NTE midler.\n26. Kommunestyret ber kommunedirektøren legge fram en sak med vurdering av antall fjellstyrer i Stjørdal.\n27. Utfra den sikkerhetspolitiske situasjonen og styrkingen av Værnes garnison forutsettes det at samarbeidet med forsvarskoordinator fortsetter etter 2026.\n28. Det startes arbeid med planlegging av parkeringshus ved E14. Dette bør sees i sammenheng med Shell-tomten og planlegges sammen med det.\nFor forslaget stemte 25: Arild Gressetvold (Frp), Johan Aarbu (Frp), Tor Anders Halle (Frp), Berit Anette Elvertrø (H), Geir Falck Anderssen (H), Ole Hermod Sandvik (H), Renate Trøan Bjørshol (H), Rune Larsen (H), Annette T. Jensen (KrF), Geirr Tjash Hagen (Pp), Anna Wesche Kvål (Sp), Eli Arnstad (Sp), Henrik Josteinsson Myhr (Sp), Jan Borge Larsen (Sp), Knut Egil Kvarving (Sp), Maria Kristoffersen (Sp), Mona Raaen (Sp), Nils Nordbotn (Sp), Otelie Almli (Sp), Roar Brekken (Sp), Rolf Charles Berg (Sp), Tor Helge Forbord Slind (Sp), Ann Elisabeth Monsen Èli (UA), Gunnar Uglem (V), Torgrim Hallem (V)\nImot forslaget stemte 12: Ann-Inger Leirtrø (Ap), Elisabeth Suzen (Ap), Idar Aspmodal (Ap), Inger Johanne Overvik Uthus (Ap), Jan Inge Kaspersen (Ap), Kristin Almhjell Jenssen (Ap), Per Erik Moen (Ap), Siw Mæhre (Ap), Stian Flobergseter (Ap), Marit Vikan Sævareid (R), Gudrun Lidal (SV), Morten Harper (SV)\nDermed ble innstillingen vedtatt.', 'vedtatt': True}
+{'tekst': 'Eli Arnstad (Senterpartiet) fremmet følgende endringsforslag:\nInnstillingens pkt 1 c:\nStjørdal kommune tar opp lån til investeringer på kr 280 771 000,- og startlån kr 80 000 000,- for budsjettåret 2025.\nFor forslaget stemte 34: Ann-Inger Leirtrø (Ap), Elisabeth Suzen (Ap), Idar Aspmodal (Ap), Inger Johanne Overvik Uthus (Ap), Jan Inge Kaspersen (Ap), Kristin Almhjell Jenssen (Ap), Per Erik Moen (Ap), Siw Mæhre (Ap), Stian Flobergseter (Ap), Arild Gressetvold (Frp), Johan Aarbu (Frp), Tor Anders Halle (Frp), Berit Anette Elvertrø (H), Geir Falck Anderssen (H), Ole Hermod Sandvik (H), Renate Trøan Bjørshol (H), Rune Larsen (H), Annette T. Jensen (KrF), Geirr Tjash Hagen (Pp), Anna Wesche Kvål (Sp), Eli Arnstad (Sp), Henrik Josteinsson Myhr (Sp), Jan Borge Larsen (Sp), Knut Egil Kvarving (Sp), Maria Kristoffersen (Sp), Mona Raaen (Sp), Nils Nordbotn (Sp), Otelie Almli (Sp), Roar Brekken (Sp), Rolf Charles Berg (Sp), Tor Helge Forbord Slind (Sp), Ann Elisabeth Monsen Èli (UA), Gunnar Uglem (V), Torgrim Hallem (V)\nImot forslaget stemte 3: Marit Vikan Sævareid (R), Gudrun Lidal (SV), Morten Harper (SV)\nDermed ble endringsforslag vedtatt.', 'vedtatt': True}
+{'tekst': 'Eli Arnstad (Senterpartiet) fremmet følgende endringsforslag:\nInnstillingens pkt 6 c og d:\nSom sakkyndig nemd oppnevnes ordfører, varaordfører og leder for største opposisjonsparti.\nSom klagenemd oppnevnes eksisterende klagenemd\nFor forslaget stemte 37: Ann-Inger Leirtrø (Ap), Elisabeth Suzen (Ap), Idar Aspmodal (Ap), Inger Johanne Overvik Uthus (Ap), Jan Inge Kaspersen (Ap), Kristin Almhjell Jenssen (Ap), Per Erik Moen (Ap), Siw Mæhre (Ap), Stian Flobergseter (Ap), Arild Gressetvold (Frp), Johan Aarbu (Frp), Tor Anders Halle (Frp), Berit Anette Elvertrø (H), Geir Falck Anderssen (H), Ole Hermod Sandvik (H), Renate Trøan Bjørshol (H), Rune Larsen (H), Annette T. Jensen (KrF), Geirr Tjash Hagen (Pp), Marit Vikan Sævareid (R), Anna Wesche Kvål (Sp), Eli Arnstad (Sp), Henrik Josteinsson Myhr (Sp), Jan Borge Larsen (Sp), Knut Egil Kvarving (Sp), Maria Kristoffersen (Sp), Mona Raaen (Sp), Nils Nordbotn (Sp), Otelie Almli (Sp), Roar Brekken (Sp), Rolf Charles Berg (Sp), Tor Helge Forbord Slind (Sp), Gudrun Lidal (SV), Morten Harper (SV), Ann Elisabeth Monsen Èli (UA), Gunnar Uglem (V), Torgrim Hallem (V)\nDermed ble endringsforslag vedtatt.', 'vedtatt': True}
+
+Alternative forslag:
+- Morten Harper (Sosialistisk venstreparti): Tilleggsforslag 1 fra SV og Rødt til endringer i driftsbudsjettet 2025
+INNSPARING
+Politisk, Redusert godtgjøring varaordfører, utvalgsledere m.m.* 1 500 000
+STYRKING
+Grunnskole, Fysiske læremidler 1 000 000
+Forebygging og mestring, Carbon fritidsklubb 500 000
+Sum 1 500 000
+*)
+• Varaordfører skal godtgjøres i 50% stilling.
+• Ledere utvalgene Plan og Miljø samt Kultur og Levekår 30 % av Grunnbeløpet.
+• Formannskapets medlemmer 12 % av Grunnbeløpet.
+• Nestleder Utvalg Plan og Miljø 10 % av Grunnbeløpet.
+• Ingen økning i godtgjøringene og frikjøp av folkevalgte, herunder ordførerens godtgjøring, i perioden for økonomiplanen.
+- Morten Harper (Sosialistisk venstreparti): Tilleggsforslag 2 fra SV og Rødt
+Det innføres eiendomsskatt på bolig og næring, etter følgende modell:
+1. Eiendomsskatt på bolig
+a. Skattesats på 1 promille.
+b. Bunnfradrag for hver boenhet kr 1 000 000.
+c. Grunnlag for eiendomsskatt ut fra eiendomsverdi ifølge skatteetatens årlige taksering.
+d. Takst for eiendomsskatt settes til 70 % av eiendomsverdi.
+2. Eiendomsskatt på næring
+a. Skattesats på 1 promille av markedsverdi.
+b. Taksering gjennomføres.
+Eiendomsskatten skal finansiere langsiktige velferdstiltak ved å dekke finanskostnadene for investeringer som nytt bo- og velferdssenter. Kommunedirektøren skal senest i mars 2025 legge frem for kommunestyret en sak om iverksetting av eiendomsskatt for bolig og næring, samt en sak om gjennomføring av nytt bo- og velferdssenter.
+- Gudrun Lidal (Sosialistisk venstreparti): Sosialhjelpsatsene flyttes ut fra vedlegg. Gebyrliste og legges som et eget vedlegg til budsjettet.
+- Jan Inge Kaspersen (Arbeiderpartiet): Forslag til budsjett og økonomiplan 2025-2028 fra AP, Sv og Rødt
+Inntekt: Merknad
+Ekstrainntekt
+statsbudsjettet 20 000
+Reduksjon jfr vedtatt pkt 6 i kommunikasjon 1 000 strategidebatten om å prioritere tjenesteproduksjonen
+Budsjettforlik SV på stortinget 4 907
+Forventet rentekutt Jfr. SSB prognoser for rentebane 2025 fremlagt 13. desember 4 000
+Redusert sykefravær 1 000
+Kostnad:
+Lærernorm - 13 000
+Mindre kjøp av senger St. - Det forventes salg av Olavs senger/omsorgsplasser 5 000 også etter utløpet av avtale med St. Olavs.
+Egen budsjettsak fremmes ila 2025.
+Hjemmetjenester - reduksjon av kutt 3 000
+Økt ramme barnehage og - Jfr budsjettforliket på SFO stortinget 5 000
+Fides unngå kutt - 2 000
+Økning lærebøker - 1 000
+Gratis halleie - Fra høsten 2025 800
+Trafikksikkerhetstiltak - Markering av gang og sentrum kjørefelt 500
+Tilskudd BUA - 300
+Mindre økning billettpris - svømmehallen 200
+Reversere kutt i - kulturskolen 150
+Til - disposisjonsfond/redusert underskudd 43
+- Jan Inge Kaspersen (Arbeiderpartiet): 1. Kommunens fremste mål den kommende perioden blir å styrke det forebyggende arbeidet både i oppvekst og omsorg
+2. Grunnbemanningen i tjenestene ønskes styrket for å redusere bruk av vikarer, overtid og redusere sykefravær på sikt
+3. Kommunedirektøren bes etablere et prosjekt med bred medvirkning fra de ansatte, for å finne behov, tiltak til forbedring og effektivisering av driften tilpasset befolkningssammensetningen i Stjørdal i 2030.
+4. Stjørdal kommune bør se på muligheten for økt bruk av Fides for å gi flere et godt tilbud
+5. Kommunedirektøren bes legge frem en sak for kommunestyret med tiltak for redusert sykefravær. Dagens sykefravær er kostnadsberegnet til 61 mill kr årlig (tall fra KS). En reduksjon i sykefravær kan dermed bidra til å øke ressursene i tjenestene.
+6. Kommunedirektøren bes legge frem sak om lokaler for motorinteressert ungdom i løpet av første halvår 2025, til oppfylling av kommunestyrevedtak for ungdomssatsningen til Hell Cruisers.
+- Tor Helge Forbord (Senterpartiet): For forslaget stemte 25: Arild Gressetvold (Frp), Johan Aarbu (Frp), Tor Anders Halle (Frp), Berit Anette Elvertrø (H), Geir Falck Anderssen (H), Ole Hermod Sandvik (H), Renate Trøan Bjørshol (H), Rune Larsen (H), Annette T. Jensen (KrF), Geirr Tjash Hagen (Pp), Anna Wesche Kvål (Sp), Eli Arnstad (Sp), Henrik Josteinsson Myhr (Sp), Jan Borge Larsen (Sp), Knut Egil Kvarving (Sp), Maria Kristoffersen (Sp), Mona Raaen (Sp), Nils Nordbotn (Sp), Otelie Almli (Sp), Roar Brekken (Sp), Rolf Charles Berg (Sp), Tor Helge Forbord Slind (Sp), Ann Elisabeth Monsen Èli (UA), Gunnar Uglem (V), Torgrim Hallem (V)
+Imot forslaget stemte 12: Ann-Inger Leirtrø (Ap), Elisabeth Suzen (Ap), Idar Aspmodal (Ap), Inger Johanne Overvik Uthus (Ap), Jan Inge Kaspersen (Ap), Kristin Almhjell Jenssen (Ap), Per Erik Moen (Ap), Siw Mæhre (Ap), Stian Flobergseter (Ap), Marit Vikan Sævareid (R), Gudrun Lidal (SV), Morten Harper (SV)
+Dermed ble forslaget vedtatt.
+
+Voteringer:
+- Votering på Tilleggsforslag 1 fra SV og Rødt til endringer i driftsbudsjettet 2025
+  - For: 5 stemmer
+  - Imot: 32 stemmer
+- Votering på Tilleggsforslag 2 fra SV og Rødt om innføring av eiendomsskatt på bolig og næring
+  - For: 4 stemmer
+  - Imot: 33 stemmer
+- Votering på forslag fra Gudrun Lidal (SV) om å flytte sosialhjelpsatsene ut fra vedlegg
+  - For: 18 stemmer
+  - Imot: 19 stemmer
+- Votering på forslag til budsjett og økonomiplan 2025-2028 fra AP, SV og Rødt
+  - For: 13 stemmer
+  - Imot: 24 stemmer
+- Votering på forslag fra Jan Inge Kaspersen (AP) om styrking av forebyggende arbeid og bemanning
+  - For: 12 stemmer
+  - Imot: 25 stemmer
+- Votering på forslag fra Tor Helge Forbord (SP)
+  - For: 25 stemmer
+  - Imot: 12 stemmer
+- Votering på innstillingens pkt 1 c om lån til investeringer og startlån (endringsforslag fra Eli Arnstad, SP)
+  - For: 34 stemmer
+  - Imot: 3 stemmer
+- Votering på innstillingens pkt 6 c og d om oppnevning av sakkyndig nemd og klagenemd (endringsforslag fra Eli Arnstad, SP)
+  - For: 37 stemmer
+- Votering på innstillingens hovedforslag fra Tor Helge Forbord på vegne av SP, H, FrP, KrF, V
+  - For: 25 stemmer
+  - Imot: 12 stemmer
+- Votering på innstillingens pkt 4 om ikke å innføre eiendomsskatt
+  - For: 34 stemmer
+  - Imot: 3 stemmer
+- Votering på innstillingens pkt 5 om rapportering på økonomiutvikling i 2025
+  - For: 37 stemmer
+- Votering på innstillingens pkt 6 om ansettelser uten budsjetthjemmel
+  - For: 25 stemmer
+  - Imot: 12 stemmer
+- Votering på innstillingens pkt 7-28 (flere punkter samlet i innstillingen)
+  - For: 37 stemmer
+- Votering på innstillingens pkt 21 om frivillighetspool
+  - For: 28 stemmer
+  - Imot: 9 stemmer
+- Votering på innstillingens pkt 26 om vurdering av antall fjellstyrer i Stjørdal
+  - For: 27 stemmer
+  - Imot: 10 stemmer

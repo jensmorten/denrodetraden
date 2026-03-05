@@ -1,0 +1,19 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 73/2025
+rodt_fremmet: False
+---
+
+Tittel: Kjøp av tjenestebiler - Hjemmetjenesten 2025
+
+Vedtak:
+Leasingavtalen på aktuelle biler forlenges ut 2025
+Hjemmetjenesten i Frøya kommune går til innkjøp av 2 tjenestebiler. Legges inn i investeringsbudsjett for 2026
+
+Alternative forslag:
+- ['AP', 'SP', 'SV', 'Rødt']: ['Leasingavtalen på aktuelle biler forlenges ut 2025', 'Hjemmetjenesten i Frøya kommune går til innkjøp av 2 tjenestebiler. Legges inn i investeringsbudsjett for 2026']
+
+Voteringer:
+- Votering over forslag fra AP, SP, SV, Rødt om leasingavtale og innkjøp av tjenestebiler
+  - For: Enstemmig

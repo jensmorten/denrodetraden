@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 170/2024
+rodt_fremmet: False
+---
+
+Tittel: Årsrapport 2023 - Ombud for helse, omsorg og oppvekst
+
+Vedtak:
+Saken ble utsatt i bystyrets møte 26. september 2024.
+
+Voteringer:
+- Votering om utsatt behandling av saken
+  - Utsatt: enstemmig

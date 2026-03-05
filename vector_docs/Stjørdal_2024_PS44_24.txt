@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 44/24
+rodt_fremmet: False
+---
+
+Tittel: Årsrapport fra personvernombudet i Værnesregionen 2023
+
+Vedtak:
+Kommunestyret tar personvernombudets årsrapport til orientering.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 14.03.2024 om å ta personvernombudets årsrapport til orientering.
+  - For: 37 stemmer

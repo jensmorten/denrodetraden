@@ -1,0 +1,24 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 139/24
+rodt_fremmet: False
+---
+
+Tittel: Tiltaksplan for legetjenesten
+
+Vedtak:
+Bystyret vedtar tiltaksplan for legetjenesten
+Bystyret støtter hoved prioriteringen om å beholde og rekruttere fastleger
+Bystyret oppfordrer byrådet til å lyse ut flere hjemler med etableringstilskudd for nye legesentre. så vi tar igjen etterslepet som er opparbeidet gjennom fastlegekrisen
+Bystyret ber byrådet se på andre virkemidler for å stimulere til et nytt legesenter på sørsiden enn å etablere det i kommunal regi. Hvis det skal etableres kommunale legesenter skal det være med utgangspunkt i et kommunalt behov for å gjennomføre forskning eller gi et forsterket primærhelsetilbud til spesielt utsatt grupper.
+Bystyret ønsker at legestillingene i sykehjemmene i størst mulig grad skal bemannes med legespesialister i store stillinger. , og at det legges til rette for at disse legene kan opparbeide godkjenning for kompetanseområdet alders- og sykehjems- medisin.
+Bystyret ber byrådet vurderer om det er hensiktsmessig å etablere en egen sykehjemslegevakt basert på frivillig deltakelse av sykehjemslegene, gjerne kompensert med en kombinasjon av lønn og avspasering. En slik vaktordning kan bidra til økt medisinsk trygghet for både ansatte, pasienter og pårørende og bidra til redusert sykefravær og bedre rekruttering.
+Bystyret ber byrådet gå i dialog med medisinutdanningen ved NTNU for å se på muligheter for økt samarbeid rundt arbeidet på helsestasjon for ungdom og økte muligheter for hospitering og deltakelse på kommunalt legearbeid for studentene.
+
+Voteringer:
+- Votering over innstillinga unntatt pkt 4
+  - For: 67 stemmer
+- Votering over innstillingas pkt 4
+  - For: 37 stemmer
+  - Mot: 30 stemmer

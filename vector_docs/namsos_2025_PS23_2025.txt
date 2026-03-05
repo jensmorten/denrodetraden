@@ -1,0 +1,22 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 23/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 23/2025 Skoleruta for skoleåret 2025/26
+
+Vedtak:
+Kommunestyret vedtar skoleruta for skoleåret 2025/26 som vedlagt.
+Kommunestyret ber om at FAU blir tettere involvert før forslag til skolerute legges fram til politisk behandling.
+
+Alternative forslag:
+- Geir Strøm Aalberg (Sosialistisk Venstreparti): Kommunestyret ber om at FAU blir tettere involvert før forslag til skolerute legges fram til politisk behandling.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling om å vedta skoleruta for skoleåret 2025/26.
+  - For: 35 stemmer
+- Votering over tilleggsforslag fra Geir Strøm Aalberg (SV) om at FAU skal bli tettere involvert før forslag til skolerute legges fram til politisk behandling.
+  - For: 20 stemmer
+  - Imot: 15 stemmer

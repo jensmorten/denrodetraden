@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 35/24
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding november og desember 2023 - Rådet for mennesker med nedsatt funksjonsevne
+
+Vedtak:
+Årsmelding november og desember 2023 for Rådet for mennesker med nedsatt funksjonsevne (RFF) tas til orientering.
+
+Voteringer:
+- Avstemning over innstilling om årsmelding november og desember 2023 for Rådet for mennesker med nedsatt funksjonsevne (RFF)
+  - For: 37 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 110/25
+rodt_fremmet: False
+---
+
+Tittel: 110/25 Eiermelding/eierskap 2024
+
+Vedtak:
+Kommunestyret vedtar den fremlagte eierskapsmeldingen for 2024 og ber kommunedirektøren arbeide med følgende tiltak rundt Røros kommunes eierskap i selskaper i 2026: [...] (detaljert innhold som i teksten)
+
+Voteringer:
+- Votering over formannskapets innstilling til eierskapsmeldingen for 2024
+  - For: Enstemmig

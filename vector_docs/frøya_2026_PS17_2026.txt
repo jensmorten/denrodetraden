@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 17/2026
+rodt_fremmet: False
+---
+
+Tittel: Interkommunalt beredskapsråd Frøya og Hitra kommuner
+
+Vedtak:
+Frøya kommunestyre vedtar at kommunen skal inngå i et interkommunalt beredskapsråd for Frøya og Hitra.
+Det interkommunale beredskapsrådet etableres etter bestemmelsene i Kommunelovens § 17-1. Interkommunalt samarbeid.
+Rådet settes sammen av: Ordførere fra begge kommunene, eller deres folkevalgte vararepresentanter, kommunedirektører fra begge kommunene, beredskapssjefer fra begge kommunene, representanter fra politi, brannvesen, helse, sivilforsvar, heimevernet, næringsliv og frivillige organisasjoner, andre relevante aktører etter behov (eks. havnemyndigheter, energiselskap, selskaper innen digital kommunikasjon osv.), og en representant fra mindretallet fra hver kommune.
+Rådet skal ha følgende formål: Det interkommunale beredskapsrådet skal være et rådgivende forum for beredskapsarbeidet i Frøya og Hitra kommuner. Rådet skal bidra til at kommunene styrker evnen til å forebygge, håndtere og lære av uønskede hendelser og kriser som berører begge kommuner.
+Rådet skal ha følgende ansvarsområder: Gi innspill i utarbeidelse av kommunens risiko- og sårbarhetsanalyser (ROS) – både overordnet og på rammenivå, rådgivende organ til innholdet og oppfølgingen i kommunens overordnede beredskapsplaner, gjennomgang av tilsynsrapporter og identifisering av forbedringspunkter, samarbeide om digitale trusler, infrastruktur og krisehåndtering – inkludert evakuering, EPS-planverk og PLIVO-hendelser.
+Rådet etableres fra og med 01.01.2026.
+
+Voteringer:
+- Vedtak om etablering av interkommunalt beredskapsråd for Frøya og Hitra kommuner
+  - For: Enstemmig

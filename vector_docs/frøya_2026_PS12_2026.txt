@@ -1,0 +1,19 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 12/2026
+rodt_fremmet: False
+---
+
+Tittel: Behandling av planinitiativ for detaljreguleringsplan for Nordhammaren B7
+
+Vedtak:
+I henhold til Plan- og bygningsloven § 12-8 har Kommunestyret ingen innvendinger mot videre planprosess for detaljreguleringsplanen Nordhammaren B7
+
+Alternative forslag:
+- Borgerlig gruppe: I henhold til Plan- og bygningsloven § 12-8 har Kommunestyret ingen innvendinger mot videre planprosess for detaljreguleringsplanen Nordhammaren B7
+
+Voteringer:
+- Votering over innstilling/nytt forslag til vedtak fra Borgerlig gruppe
+  - For: 14 stemmer
+  - Imot: 8 stemmer

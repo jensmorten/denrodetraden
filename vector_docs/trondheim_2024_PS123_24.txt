@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 123/24
+rodt_fremmet: False
+---
+
+Tittel: Reglement for innstillingsrett
+
+Vedtak:
+Bystyret vedtar vedlagte reglement for innstillingsrett, gjeldende fra 13.06.2024.
+
+Voteringer:
+- Innstillinga ble enstemmig vedtatt.
+  - For: alle

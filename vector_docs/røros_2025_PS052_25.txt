@@ -1,0 +1,8 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 052/25
+rodt_fremmet: False
+---
+
+Tittel: 052/25 Interpellasjon til kommunestyret 19.06.2025 - Kommuneøkonomi

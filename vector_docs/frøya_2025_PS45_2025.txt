@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 45/2025
+rodt_fremmet: False
+---
+
+Tittel: Evaluering av pilot videolegevakt
+
+Vedtak:
+Kommunestyret vedtar å videreføre videolegevakt som en permanent ordning basert på de positive resultatene fra pilotprosjektet.
+Kommunedirektøren bes legge til rette for skjermingsmuligheter for pasientene før konsultasjon. Venterom med tilgang til toalett. Viser til evalueringsrapporten.
+
+Voteringer:
+- Vedtak om videreføring av videolegevakt som permanent ordning og tilrettelegging for pasientene
+  - For: Enstemmig

@@ -1,0 +1,24 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 121/2025
+rodt_fremmet: False
+---
+
+Tittel: Valg av medlemmer til Frøya ungdomsråd (FUR) 2025
+
+Vedtak:
+Kommunestyret velger følgende personer til gitte roller og for gitt periode:
+Leder Tiril Eidsvaag Guri Kunna VGS 2024-2026
+Nestleder Markus Åsmul Guri Kunna VGS 2025-2027
+Medlem Noah Åsmul Frøya ungdomsskole 2025-2027
+Medlem Sarah Ervik Guri Kunna VGS 2024-2026
+Medlem Maximilian Pettersen Frøya ungdomsskole 2025-2027
+Varamedlem Sebastian Reppe Bekken Frøya ungdomsskole 2025-2027
+Varamedlem Aud Othilie Søreng Guri Kunna VGS 2024-2026
+Varamedlem Teodor Lindberg Gravås Frøya ungdomsskole 2025-2027
+Varamedlem Mille Gåsø Frøya ungdomsskole 2025-2027
+
+Voteringer:
+- Vedtak om valg av medlemmer til Frøya ungdomsråd (FUR) 2025
+  - For: Enstemmig

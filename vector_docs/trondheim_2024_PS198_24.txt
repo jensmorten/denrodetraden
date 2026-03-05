@@ -1,0 +1,35 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 198/24
+rodt_fremmet: False
+---
+
+Tittel: Møteplan for bystyrets politiske organer 2025
+
+Vedtak:
+1. Bystyret vedtar møteplanen.
+2. Ordfører gis fullmakt til å justere møteplanen.
+Av hensyn til saksbehandlingstid settes i tillegg følgende møter i byutviklingsutvalget:
+19. februar 2025: Dagmøte
+18. juni 2025: Kveldsmøte
+10. september 2025: Kveldsmøte
+3. Med bakgrunn i at det er dagen før en potensiell langhelg for mange, ber Bystyret ordføreren vurdere og flytte frem bystyremøtet 30.04.2025 til kl.10.00, eller til dagen før.
+4. Bystyret ber ordføreren vurdere å flytte utvalgsmøtene i uke 33 da dette kolliderer med Arendalsuka.
+Siden 2025 er valgår kan dette medføre stort fravær fra utvalgene.
+
+Alternative forslag:
+- Jomar Andre Aftret (FrP): Med bakgrunn i at det er dagen før en potensiell langhelg for mange, ber Bystyret ordføreren vurdere og flytte frem bystyremøtet 30.04.2025 til kl.10.00, eller til dagen før.
+- Berit Tiller (H) på vegne av H, FrP, KrF, MDG, SP, V, PP: Stryk siste setning
+- Merete Letnes Ødegaard: Bystyret ber ordføreren vurdere å flytte utvalgsmøtene i uke 33 da dette kolliderer med Arendalsuka. Siden 2025 er valgår kan dette medføre stort fravær fra utvalgene.
+
+Voteringer:
+- Alternativ votering mellom innstillingen og Høyres fellesforslag
+  - Innstillingen: 0 stemmer
+  - Høyres fellesforslag: enstemmig
+- Votering på Aftrets forslag
+  - Aftrets forslag: 46 stemmer
+  - Motstandere av Aftrets forslag: 21 stemmer
+- Votering på Uavhengiges forslag (Merete Letnes Ødegaard)
+  - Uavhengiges forslag: 50 stemmer
+  - Motstandere av Uavhengiges forslag: 17 stemmer

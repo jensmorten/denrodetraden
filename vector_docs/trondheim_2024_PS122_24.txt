@@ -1,0 +1,41 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 122/24
+rodt_fremmet: False
+---
+
+Tittel: Reglement for politiske organ
+
+Vedtak:
+Se innstilling og vedtatte endringer i reglementene som listet opp i punkt 1 og 2, samt at samtlige reglement gjøres gjeldende fra 13.06.2024. Følgende reglement utgår: Reglement for formannskapet, bystyrekomiteer og lønnsutvalget. Ordføreren skal legge fram forslag til reglement for valgstyret høsten 2024. Forretningsutvalget skal utarbeide retningslinjer for forfall. Det skal gjennomføres en gjennomgang av grenseoppgangen mellom administrasjonsutvalget og byrådet med forslag til høsten 2024. Flertallsmerknad om 17. mai-utvalget og fullmakt til disponering av midler innen budsjettrammer. Vedtatte alternative og tilleggsforslag som angitt i voteringene.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Alt. forslag pkt. 2.16 - Utvalgsinitiativ, bystyrereglement 5.14d: § 5.14d om initiativ fra utvalg strykes fra bestemmelsene. Representanter fra et utvalg kan uansett gå sammen om å fremme representantforslag for bystyret. Ordningen med utvalgsinitiativ synes derfor overflødig. Der utvalgsinitiativ ellers er omtalt, for eksempel i reglement for bystyreutvalgene, strykes dette fra bestemmelsene.
+- Elin Marie Andreassen (FrP): Tilleggsforslag: Endring av bystyrets reglement § 5.2 (dagsaktuelle saker): Det avsettes inntil 30 minutter i hvert bystyremøte for behandling av interpellasjoner og representantforslag. Disse leveres skriftlig. Endring av bystyrets reglement § 5.5 (fra talerstolen): Følgende setning strykes: 'Retter vedkommende seg ennå ikke etter reglementet, kan møtelederen ta fra ham/henne ordet, eller la forsamlingen avgjøre om han/hun skal stenges ute fra resten av møtet.'
+- Kirsti Tømmervold (AP): Reglement bystyreutvalgene: Tillegg under punkt 5.7 Utforming av forslag og merknader: 'Utvalgets medlemmer kan ikke fremme forslag på vegne av andre parti som ikke sitter i utvalget'.
+- Mats Ulseth Ramo (H): Bystyret ber om at det tas en gjennomgang av grenseoppgangen mellom administrasjonsutvalget og byrådet, og at byrådet og bystyresekretariatet i fellesskap samordner et forslag til høsten 2024 som sørger for at byrådets reglement og reglementet for administrasjonsutvalget er i harmoni med hverandre og lovverket.
+- Mats Ulseth Ramo (H): Alternativt forslag Reglement for administrasjonsutvalget: Ny 4 - Myndighet/ oppgaver: Det partssammensatte utvalget uttaler seg til bystyret og bystyreutvalgene i saker som angår retningslinjene for kommunens personalpolitikk, herunder tiltak for likestilling og inkluderende arbeidsliv. Utvalget drøfter dessuten kvalitets-, fornyings- og utviklingstiltak, oppfølging og implementering av nasjonalt vedtatte reformer, og rapporterer til bystyret og bystyrets utvalg.
+- Silje Naper Salomonsen (SV): Bystyrets reglement, rette 5.13 iht andre punkter: Bystyrets reglement punkt 5.13 rettes iht vedtatte endringer.
+
+Voteringer:
+- Votering på innstillinga unntatt alternative forslag fra FrP og H
+  - For innstillinga: Enstemmig
+- Alternativ votering mellom innstillinga 2.16 og Andreassens forslag (FrP)
+  - Andreassens forslag: 64 stemmer
+  - Innstillinga 2.16: 3 stemmer
+- Alternativ votering mellom innstillinga og Ramos forslag (H)
+  - Ramos forslag: 55 stemmer
+  - Innstillinga: 12 stemmer
+- Votering på Andreassens tilleggsforslag §5.2
+  - For: Enstemmig
+- Votering på Andreassens tilleggsforslag §5.5
+  - For: Enstemmig
+- Votering på Tømmervolds tilleggsforslag
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Votering på Ramos tilleggsforslag (grensegang)
+  - For: Enstemmig
+- Votering på Salomonsens tilleggsforslag (rette)
+  - For: Alle unntatt 1
+  - Mot: 1 stemmer

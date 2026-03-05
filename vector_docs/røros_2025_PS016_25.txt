@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 016/25
+rodt_fremmet: False
+---
+
+Tittel: 016/25 Valgkomiteer og roller 2025
+
+Vedtak:
+
+
+Voteringer:
+- Votering over valgutvalgets forslag til vedtak
+  - For: enstemmig

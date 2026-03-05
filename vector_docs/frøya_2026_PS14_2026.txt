@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 14/2026
+rodt_fremmet: False
+---
+
+Tittel: Anmodning bosetting av flyktninger i 2026
+
+Vedtak:
+Kommunestyre imøtekommer IMDIs anmodning om å bosette 15 flyktninger i 2026
+Status og fremdrift for bosettingsarbeidet skal rapporteres i tertialrapport for 2026
+Kommunedirektøren bes følge opp det påstartete arbeidet som omhandler strategier og evaluering av bosetninger og integreringsarbeid
+
+Voteringer:
+- Vedtak om bosetting av 15 flyktninger i 2026 og oppfølging av bosettingsarbeidet
+  - For: Enstemmig

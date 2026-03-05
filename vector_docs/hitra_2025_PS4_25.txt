@@ -1,0 +1,17 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 4/25
+rodt_fremmet: False
+---
+
+Tittel: Merknadsbehandling og egengodkjenning - Reguleringsplan for Fjellværøyveien 157 med PlanID 201911
+
+Vedtak:
+1. Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven § 12-12, detaljregulering med VA-plan for Fjellværøyveien 157 mfl på eiendommen gnr 78 bnr 10 og 72.
+2. Kommunedirektøren skal kunngjøre egengodkjent reguleringsplan på foreskreven måte.
+
+Voteringer:
+- Votering over innstillingen fra teknisk utvalg - plan, landbruk og miljø
+  - For innstillingen: 24 stemmer
+  - Imot innstillingen: 1 stemmer

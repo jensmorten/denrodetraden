@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 49/24
+rodt_fremmet: False
+---
+
+Tittel: Regulering investeringsbudsjett 2024
+
+Vedtak:
+Kommunestyret vedtar Kommunedirektørens forslag til regulering av Stjørdal kommunes investeringsbudsjett for 2024 i henhold til tabell og konklusjon under saksopplysninger.
+
+Voteringer:
+- Avstemning om innstilling fra Formannskapet 14.03.2024
+  - For: 37 stemmer

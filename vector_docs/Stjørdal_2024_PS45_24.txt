@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 45/24
+rodt_fremmet: False
+---
+
+Tittel: Årsrapport etablerer- og innovasjonstjenester 2023 Proneo
+
+Vedtak:
+Kommunestyret tar Årsrapport for Rammeavtale mellom Stjørdal kommune og Proneo AS for 2023 til orientering.
+
+Voteringer:
+- Avstemning over innstilling om å ta Årsrapport for Rammeavtale mellom Stjørdal kommune og Proneo AS for 2023 til orientering
+  - For: 37 stemmer

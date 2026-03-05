@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 197/24
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Mobile politiposter - Elin Marie Andreassen (FrP)
+
+Vedtak:
+Bystyret avviser medlemsforslag - mobile politiposter.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Bystyret mener at mobil politipost bør prøves. Bystyret ber byrådet gå i dialog med politiet, med sikte på å få opprettet en mobil politipost i Trondheim. Bystyret mener at mobil politipost bør prøves ut for å vise økt tilstedeværelse, og for å bidra til innbyggernes opplevelse av økt trygghet i ulike deler av byen.
+
+Voteringer:
+- Ved alternativ votering mellom innstillingen og Andreassens forslag
+  - Innstillingen: 62 stemmer
+  - Andreassens forslag: 5 stemmer

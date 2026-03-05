@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 186/24
+rodt_fremmet: False
+---
+
+Tittel: PS 186/2024 SKFAB, innbetaling av solvenskapital
+
+Vedtak:
+Bystyret vedtar at Trondheim kommune betaler SEK 4 millioner til SKFAB. Dette som et solvenskapitalinnskudd i henhold til SKFABs aksjonæravtale og styrevedtak. Pengene bevilges fra kommunens disposisjonsfond.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: alle

@@ -1,0 +1,18 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 90/24
+rodt_fremmet: False
+---
+
+Tittel: Bruk av NTE - midler 2024
+
+Vedtak:
+Kommunestyret vedtar bruk av utbyttemidler kr 3.629.000,- slik:
+Ulla 2 1.200.000,-
+Ledlys gatelys 1.629.000,-
+Rengjøringsrobot 800.000,-
+
+Voteringer:
+- Avstemning om innstilling for bruk av utbyttemidler 2024
+  - For: 35 stemmer

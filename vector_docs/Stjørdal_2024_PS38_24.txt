@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 38/24
+rodt_fremmet: False
+---
+
+Tittel: Ung Arena Stjørdal - Rapport fra forprosjekt
+
+Vedtak:
+Rapport fra forprosjekt til Ung Arena tas til orientering.
+
+Voteringer:
+- Avstemning over innstilling om rapport fra forprosjekt til Ung Arena
+  - For: 37 stemmer

@@ -1,0 +1,27 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 81/25
+rodt_fremmet: False
+---
+
+Tittel: Prioritering spillemiddelsøknader for 2026
+
+Vedtak:
+Hitra kommunestyre vedtar følgende prioritering for spillemidler 2025/2026:
+Nærmiljøanlegg
+Søknads- Søknads-
+Prioritet Søknad Søker Søknadssum
+nummer type
+2 tiltak på Uteområde - Ny Fillan
+Hitra
+1 skole ved Fillan barne- og 172456 Ny 650 000
+kommune
+
+Voteringer:
+- Vurdering av habilitet for Ann Bodil Kosberg Wingan (Ap)
+  - Enstemmig habil: alle
+- Vedtak av innstilling fra formannskapet
+  - Enstemmig vedtak: alle
+- Vedtak av innstilling i formannskapets møte 04.12.2025
+  - Enstemmig vedtak: alle

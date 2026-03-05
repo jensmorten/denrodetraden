@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 52/2025
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv - Hilde Holm Årsandøy
+
+Vedtak:
+Hilde Holm Årsandøy innvilges fritak fra sin politiske verv i Namsos kommune i perioden august 2025 til juni 2026. Disse vervene er: Medlem i kommunestyre, Medlem i Utvalg for folk, Varamedlem i formannskapet, Varamedlem i partssammensatt utvalg, Varamedlem i råd for personer med funksjonsnedsettelse. Hjemmel for vedtaket er: Kommuneloven § 7-9, andre ledd
+
+Voteringer:
+- Votering over kommunedirektørens innstilling om fritak for Hilde Holm Årsandøy
+  - For: 33 stemmer

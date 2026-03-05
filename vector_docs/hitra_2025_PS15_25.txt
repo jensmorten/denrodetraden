@@ -1,0 +1,41 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 15/25
+rodt_fremmet: False
+---
+
+Tittel: Uttalelse til Energistrategi for Trøndelag mot 2050
+
+Vedtak:
+Hitra kommunestyre vedtar å sende følgende uttalelse til Trøndelag fylkeskommune sin høring av «Energistrategi for Trøndelag mot 2050» med de samme punktene som i innstillingen.
+
+Alternative forslag:
+- Ordfører John Lernes: Tillegg i punkt 7: Staten pålegger olje og gass-sektoren å skaffe seg elektrisk kraft selv gjennom tilgjengelig teknologi for rensing og karbonfangst.
+
+Voteringer:
+- Votering over punkt 1 i uttalelsen
+  - For: 23 stemmer
+  - Mot: 2 stemmer
+- Votering over punkt 2 i uttalelsen
+  - For: 23 stemmer
+  - Mot: 2 stemmer
+- Votering over punkt 3 i uttalelsen
+  - For: 23 stemmer
+  - Mot: 2 stemmer
+- Votering over punkt 4 i uttalelsen
+  - For: 23 stemmer
+  - Mot: 2 stemmer
+- Votering over punkt 5 i uttalelsen
+  - For: 23 stemmer
+  - Mot: 2 stemmer
+- Votering over punkt 6 i uttalelsen
+  - For: 23 stemmer
+  - Mot: 2 stemmer
+- Votering over punkt 7 i uttalelsen
+  - For: 23 stemmer
+  - Mot: 2 stemmer
+- Votering over tillegg i punkt 7 fremmet av ordfører John Lernes
+  - For: 25 stemmer
+- Votering over innstillingen samlet
+  - For: 25 stemmer

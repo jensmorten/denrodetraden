@@ -1,0 +1,20 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 119/2024
+rodt_fremmet: True
+---
+
+Tittel: Deltakelse i European Coalition of Cities Against Racism (ECCAR), oppfølging av bystyrevedtak 8/22
+
+Vedtak:
+Bystyret vedtar at Trondheim kommune avstår fra medlemskap i Coalition of Cities Against Racism ECCAR.
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV) på vegne av SV, R, Uavh., Ap: Bystyret vedtar at Trondheim kommune søker medlemskap i Coalition of Cities Against Racism ECCAR.
+- Roald Arentz (R): Bystyret vil at Trondheim bruker sitt medlemsskap til å forebygge og påvirke rasistisk lovgivning og retsspraksis i alle land med byer eller områder som deltar i samarbeidet.
+
+Voteringer:
+- Votering mellom innstillingen og alternativ forslag fra SV
+  - Innstillingen: 37 stemmer
+  - Alternativ forslag fra SV: 30 stemmer

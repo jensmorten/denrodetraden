@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 104/24
+rodt_fremmet: False
+---
+
+Tittel: PS 104/2024 Årsrapport 2023 for Trondheim kommunale pensjonskasse
+
+Vedtak:
+Bystyret tar årsrapporten for 2023 fra Trondheim kommunale pensjonskasse til orientering.
+
+Voteringer:
+- Votering om innstillingen til årsrapporten for 2023 fra Trondheim kommunale pensjonskasse
+  - For: enstemmig

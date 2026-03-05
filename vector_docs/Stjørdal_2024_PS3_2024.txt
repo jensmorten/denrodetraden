@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 3/2024
+rodt_fremmet: False
+---
+
+Tittel: Lønnspolitisk plan
+
+Vedtak:
+Vedlagt forslag til lønnspolitisk plan vedtas med virkningstidspunkt 01.01.24. Planen har ikke tilbakevirkende kraft.
+
+Voteringer:
+- Avstemning over innstilling om lønnspolitisk plan
+  - For forslaget: 37 stemmer

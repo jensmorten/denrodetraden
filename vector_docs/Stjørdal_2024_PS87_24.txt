@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 87/24
+rodt_fremmet: False
+---
+
+Tittel: Enhet vann og avløp. Tertialrapport nr.1 2024. Tekniske VVA investeringsprosjekter.
+
+Vedtak:
+Kommunestyret tar statusrapporten for «større» tekniske VVA investeringsprosjekter for 1.tertial 2024 til orientering.
+
+Voteringer:
+- Avstemning over innstilling fra Formannskapet 06.06.2024 om å ta statusrapporten for «større» tekniske VVA investeringsprosjekter for 1.tertial 2024 til orientering.
+  - For: 35 stemmer

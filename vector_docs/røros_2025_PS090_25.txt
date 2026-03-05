@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 090/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av ordfører for resten av valgperioden
+
+Vedtak:
+Som ordfører for resten av perioden velges Sadmira Buljubasic
+
+Alternative forslag:
+- Elin Louise Silderen Tamnes (Ap): Som ordfører for resten av perioden velges Sadmira Buljubasic
+
+Voteringer:
+- Votering over forslaget fra Røros Arbeiderparti om valg av ordfører
+  - Forslaget fra Røros Arbeiderparti: enstemmig

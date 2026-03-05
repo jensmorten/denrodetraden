@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 68/24
+rodt_fremmet: False
+---
+
+Tittel: PS 68/2024 Fastsetting av planprogram - Plan-ID 5006, detaljreguleringsplan for Vikans gartneri - nye boliger
+
+Vedtak:
+Forslag til planprogram for reguleringsplan for Vikans boliger, med plan-ID 5006, fastsettes av kommunestyret jfr. plan- og bygningsloven § 12-9. Reguleringsplanen skal omfatte Blåveislia holdeplass i begge retninger langs Stokkanvegen.
+
+Voteringer:
+- Avstemning om fastsetting av planprogram for reguleringsplan for Vikans boliger
+  - For: 36 stemmer

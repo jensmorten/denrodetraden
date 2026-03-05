@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 141/24
+rodt_fremmet: False
+---
+
+Tittel: Revidert forskrift skolekretsgrenser
+
+Vedtak:
+Bystyret vedtar revidert forskrift om skolekretsgrenser.
+
+Voteringer:
+- Votering om innstillinga til revidert forskrift om skolekretsgrenser
+  - For: enstemmig

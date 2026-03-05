@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 252/2024
+rodt_fremmet: False
+---
+
+Tittel: Oppløsning av det interkommunale politiske rådet - Trondheimsregionen
+
+Vedtak:
+Bystyret vedtar at Trondheim kommune ber om at det interkommunale politiske rådet Trondheimsregionen oppløses og delegerer ordføreren fullmakt til å stemme for oppløsning av rådet så snart som mulig.
+Bystyret ber ordføreren innlede samtaler med kommunene i samarbeidet om opprettelsen av et nytt interkommunalt politisk råd med fokus på et tydeligere formål og reduserte kostnader.
+
+Voteringer:
+- Votering over innstillingens pkt. 1
+  - For: 36 stemmer
+  - Mot: 31 stemmer
+- Votering over innstillingens pkt. 2
+  - Enstemmig vedtatt: 67 stemmer

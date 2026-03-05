@@ -1,0 +1,19 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 012/25
+rodt_fremmet: False
+---
+
+Tittel: 012/25 Rapport fra forvaltningsrevisjon - Byggesak - til behandling i kommunestyret
+
+Vedtak:
+Kommunestyret ber kommunedirektøren om å:
+a. Påse at det er oversikt over aktiviteten innen byggesak og at innrapporteringer til KOSTRA har tilstrekkelig kvalitet.
+b. Vurdere om det er behov for ekstra ressurser til å gjennomføre lovpålagte oppgaver
+c. Vurdere om funnene i brukerundersøkelsen kan bidra til læring og forbedringer for brukernes opplevelse av tjenestetilbudet.
+Kommunestyret ber kommunedirektøren orientere kontrollutvalget om oppfølging av punkt 1 til kontrollutvalgets innen siste kvartal 2025.
+
+Voteringer:
+- Votering over Kontrollutvalgets forslag til vedtak
+  - For kontrollutvalgets forslag: 27 stemmer

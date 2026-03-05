@@ -1,0 +1,21 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 038/25
+rodt_fremmet: False
+---
+
+Tittel: Sak fra kontrollutvalget til behandling i kommunestyret - rapport om eierskapskontroll Verket Røros As
+
+Vedtak:
+1. Kommunestyret ber kommunedirektøren om å legge frem sak til behandling i kommunestyret hvor kommunestyret får anledning til å:
+a. Vurderer behovet for mer opplæring om eierstyring.
+b. Ta stilling til hvordan de vil ha informasjon om innkallinger og protokoller fra generalforsamlinger og representantskapsmøter.
+c. Etablere et system som sikrer jevnlig vurdering av behovet for eiermøter.
+d. Etablere retningslinjer for valgkomiteen i Verket Røros AS.
+e. Vurdere godtgjøring av styreverv generelt.
+2. Kommunestyret ber kommunedirektøren om å rapportere til kontrollutvalget om hvordan punkt 1 i vedtaket er fulgt opp innen 15.11.2025.
+
+Voteringer:
+- Votering over kontrollutvalgets forslag
+  - For kontrollutvalgets forslag: enstemmig

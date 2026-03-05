@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 95/24
+rodt_fremmet: False
+---
+
+Tittel: PS 95/2024 Kvalitetsmelding Barne- og familietjenesten 2023
+
+Vedtak:
+Saken utsettes.
+
+Voteringer:
+- Behandling av saken
+  - Utsettelse: ukjent

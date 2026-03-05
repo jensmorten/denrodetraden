@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 101/24
+rodt_fremmet: False
+---
+
+Tittel: Etablering av et ideelt aksjeselskap som kan bidra til en vellykket feiring av Nasjonaljubileet i 2030
+
+Vedtak:
+Saken utsettes.

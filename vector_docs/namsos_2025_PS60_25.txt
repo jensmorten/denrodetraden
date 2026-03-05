@@ -1,0 +1,26 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 60/25
+rodt_fremmet: False
+---
+
+Tittel: 17. mai 2026 - oppnevnelse av hovedkomité
+
+Vedtak:
+Kristin Sedeniussen Selnes som innbygger-representant i 17. mai komiteen 2026-2027
+Vegard Busse som innbygger-representant i 17.mai komiteen.
+Mari Kristine S. Brattgjerd som fast
+Som fast medlem politisk Hans Martin Flasnes for 2026 og 2027
+Varamedlem politisk Nils Sigurd Klykken, for 2026 og 2027
+
+Alternative forslag:
+- Steinar Lyngstad (Senterpartiet): På vegne av H og Sp
+Som fast medlem politisk Hans Martin Flasnes for 2026 og 2027
+Varamedlem politisk Nils Sigurd Klykken, for 2026 og 2027
+
+Voteringer:
+- Votering over innstilling til kommunestyret
+  - For forslaget: 35 stemmer
+- Votering over tilleggsforslag fra Steinar Lyngstad (Senterpartiet)
+  - For forslaget: 35 stemmer

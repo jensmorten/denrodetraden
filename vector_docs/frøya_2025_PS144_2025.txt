@@ -1,0 +1,19 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 144/2025
+rodt_fremmet: False
+---
+
+Tittel: Sluttregnskap - P 551495, Bygging av omsorgsboliger Heia 2
+
+Vedtak:
+Kommunestyret vedtar sluttregnskap for prosjekt 551495- Heia 2 omsorgsboliger som fremlagt med en totalkostnad på kr 28 871 338,- inklusiv mva.
+Ubrukte midler avsettes til utbedring av Mellomveien i henhold til ny omregulering.
+
+Alternative forslag:
+- Borgerlig gruppe: Nytt punkt 2. Ubrukte midler avsettes til utbedring av Mellomveien i henhold til ny omregulering.
+
+Voteringer:
+- Votering over forslag fra Borgerlig gruppe om nytt punkt 2
+  - For: Enstemmig

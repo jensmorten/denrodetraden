@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 87/24
+rodt_fremmet: False
+---
+
+Tittel: PS 87/2024 Årsrapportering Trondheim kommunerevisjon 2023
+
+Vedtak:
+Bystyret tar Trondheim kommunerevisjons årsrapport for 2023 til orientering.
+
+Voteringer:
+- Votering om innstillingen
+  - For innstillingen: enstemmig

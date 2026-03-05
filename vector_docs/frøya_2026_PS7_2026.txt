@@ -1,0 +1,31 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 7/2026
+rodt_fremmet: False
+---
+
+Tittel: Ny vannforsyning øyrekka - Tiltaksbehov
+
+Vedtak:
+Kommunestyret vedtar at det igangsettes detaljprosjektering på ny vannforsyning til øyrekka i følgende rekkefølge:
+Det etableres ikke ny vannledning til Sauøy
+Det bes utarbeidet en ROS-analyse i forhold til eventuell avvikling av vanntank på Sula, med særlig fokus på brannsikkerhet, sårbarhet ang drikkevannsforsyning, samt samfunnssikkerhet og beredskap før beslutning tas. Saken skal i tillegg vurdere muligheten for rehabilitering av eksisterende vanntank. Saken fremmes som en selvstendig sak før videre detaljprosjektering av trinn 4 i prosjektet vannforsyning Øyrekka.
+Tiltakene legges inn i økonomiplanperioden 2027-2031
+Kommunestyret vedtar at investeringene skal dekkes inn ved innkreving av årsgebyr for alle abonnenter i Frøya kommune.
+Kommunedirektøren fremmer ny sak til kommunestyret om eksakt kapitalbehov for investeringene etter at detaljprosjektering og tilbudsrunde er avholdt.
+Kommunedirektøren bes vurdere rehabilitering av eksisterende infrastruktur for å redusere kostnader og gebyrbelastning på kommunens innbyggere i detaljprosjekteringen.
+
+Alternative forslag:
+- Borgerlig gruppe: Det bes utarbeidet en ROS-analyse i forhold til eventuell avvikling av vanntank på Sula, med særlig fokus på brannsikkerhet, sårbarhet ang drikkevannsforsyning, samt samfunnssikkerhet og beredskap før beslutning tas. Saken skal i tillegg vurdere muligheten for rehabilitering av eksisterende vanntank. Saken fremmes som en selvstendig sak før videre detaljprosjektering av trinn 4 i prosjektet vannforsyning Øyrekka.
+- Borgerlig gruppe: Kommunedirektøren bes vurdere rehabilitering av eksisterende infrastruktur for å redusere kostnader og gebyrbelastning på kommunens innbyggere i detaljprosjekteringen.
+
+Voteringer:
+- Votering om ROS-analyse og vurdering av rehabilitering av vanntank på Sula (punkt 3)
+  - For: 15 stemmer
+  - Imot: 7 stemmer
+- Votering om tiltakene legges inn i økonomiplanperioden 2027-2031 (punkt 4)
+  - Enstemmig: 22 stemmer
+- Votering om vurdering av rehabilitering av eksisterende infrastruktur for å redusere kostnader og gebyrbelastning (punkt 7)
+  - For: 15 stemmer
+  - Imot: 7 stemmer

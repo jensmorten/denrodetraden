@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 34/2025
+rodt_fremmet: False
+---
+
+Tittel: CG7 - ombygging av 2. og 5 etasje
+
+Vedtak:
+Saken sendes tilbake og ønskes innarbeidet i økonomiplan for 2026 med ny sak, hvor også følgende medtas: Alle fremtidige planer, som innbefatter oppgradering / rehabilitering av arealer, i bruk av Namsos Kommune, skal forelegges formannskapet, som første instans før prosjekteringsanbud utlyses. Dernest skal økonomisk konsekvens innarbeides i øk.plan og være en del av en helhetlig arealbruksplan for økonomiperioden. Helhetlig arealbruksplan skal sees i sammenheng med investeringsoversikt ink. FDV og finanskostnader, vedtatt i PS 30/2024. Oversikt over leide og eide arealer inkludert kvadratmeter, med nåværende bruk, fremtidig FDV, finanskostnader og leieavtalens varighet / sluttidspunkt, fremlegges som egen sak innen oktober 2025 og rapporteres per tertial.
+
+Voteringer:
+- Votering over innstillingen i kommunestyret
+  - For innstillingen: 34 stemmer

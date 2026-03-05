@@ -1,0 +1,22 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 95/25
+rodt_fremmet: False
+---
+
+Tittel: Møteplan for Hitra kommune 2026
+
+Vedtak:
+Hitra kommunestyre vedtar møteplan for folkevalgte organer i Hitra kommune for 2026 som fremlagt, med følgende endringer:
+• Antall administrasjonsutvalgsmøter økes fra to til fire møter årlig.
+  o Møtene 17. mars og 15. september strykes
+  o Settes opp møte 26. februar, 13. mai, 3. september og 19. november.
+• Antall kommunestyremøter økes med to møter til årlig som temamøter.
+  o 26. februar
+  o 24. september
+• Det legges til et møte i trafikksikkerhetsutvalget 15. oktober
+
+Voteringer:
+- Behandling av innstillingen fra formannskapet
+  - For: enstemmig

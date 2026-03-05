@@ -1,0 +1,27 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 28/2024
+rodt_fremmet: False
+---
+
+Tittel: Representantforslag - Tak på antall passeringer i bommene på E6 Øst (Ranheim-Værnes) - Haakon Gussiaas (H)
+
+Vedtak:
+Bystyret ønsker å få innført et passeringstak for bommene på E6 Øst (Ranheim-Værnes) så snart som mulig. Nivået på passeringstaket bør motvirke unødig stor belastning på næringstrafikk og lokaltrafikk. Kommunedirektøren bes orientere formannskapet før sommeren om fremdriftsplan for innføring.
+
+Alternative forslag:
+- Kirsti Tømmervold (Ap) på vegne av Ap, H: Bystyret ønsker å få innført et passeringstak for bommene på E6 Øst (Ranheim - Værnes) så snart som mulig. Nivået på passeringstaket bør motvirke unødig stor belastning på næringstrafikk og lokaltrafikk. Kommunedirektøren bes orientere formannskapet før sommeren om fremdriftsplan for innføring.
+- Elin Marie Andreassen (FrP): Tak på antall passeringer skal ikke føre til økte bomtakster eller forlenget innkrevingstid.
+- Even Næss Bergseng (SV) på vegne av SV, R: Bystyret avviser representantforslaget.
+
+Voteringer:
+- Votering om Næss Bergsengs forslag om å avvise representantforslaget
+  - For: 16 stemmer
+  - Mot: 51 stemmer
+- Votering om Tømmervolds forslag om innføring av passeringstak
+  - For: 51 stemmer
+  - Mot: 16 stemmer
+- Votering om Andreassens tilleggsforslag om at tak på antall passeringer ikke skal føre til økte bomtakster eller forlenget innkrevingstid
+  - For: 6 stemmer
+  - Mot: 61 stemmer

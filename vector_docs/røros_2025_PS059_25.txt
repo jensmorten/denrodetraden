@@ -1,0 +1,32 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 059/25
+rodt_fremmet: True
+---
+
+Tittel: Innkjøpspolitikk for Røros kommune
+
+Vedtak:
+Innkjøpspolitikk for Røros kommune vedtas.
+Tilleggspunkt til kulepunkt 1.7: Der det er hensiktsmessig bør det vurderes bruk av reserverte kontrakter
+Tilleggspunkt til kulepunkt 1.3: Velger leverandører som har landsdekkende tariffavtaler for sine ansatte, dersom det er relevant.
+Tilleggspunkt til kulepunkt 1.7: Røros kommune skal så langt det lar seg gjøre ikke handle varer og tjenester som har opprinnelse fra Israel og Russland.
+
+Alternative forslag:
+- Sadmira Buljubasic (Ap): Tileggspunkt til 1.7 Kommunen som en etisk samfunnsaktør - Der det er hensiktsmessig bør det vurderes bruk av reserverte kontrakter
+- Oskar Tørres Lindstad (Ap): Sosial bærekraft 1.3 - velger leverandører som har landsdekkende tariffavtaler for sine ansatte, dersom det er relevant.
+- Stein Petter Haugen (Uavh) på vegne av seg selv, Rødt og Sv: Røros kommune skal så langt det lar seg gjøre ikke handle varer og tjenester som har opprinnelse fra Israel og Russland.
+
+Voteringer:
+- Votering over innstillingen i saken
+  - For: 27 stemmer
+- Votering over forslaget fra repr. Sadmira Buljubasic (Ap)
+  - For: 22 stemmer
+  - Mot: 5 stemmer
+- Votering over forslaget fra repr. Oskar Tørres Lindstad (Ap)
+  - For: 22 stemmer
+  - Mot: 5 stemmer
+- Votering over forslaget fra repr. Stein Petter Haugen (Uavh) på vegne av seg selv, Rødt og Sv
+  - For: 20 stemmer
+  - Mot: 7 stemmer

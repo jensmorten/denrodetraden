@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 77/2025
+rodt_fremmet: False
+---
+
+Tittel: Ny vannforsyning øyrekka - Tiltaksbehov
+
+Vedtak:
+Strykes enstemmig fra sakslisten etter Kommuneloven §11-13 fjerde ledd
+
+Voteringer:
+- Votering om å stryke saken fra sakslisten
+  - For: enstemmig

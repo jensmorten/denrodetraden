@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 006/25
+rodt_fremmet: False
+---
+
+Tittel: 006/25 Fritidsfond
+
+Vedtak:
+Røros kommune vedtar de nye retningslinjene for kommunens fritidsfond datert 26.11.2024
+
+Voteringer:
+- Kommunedirektørens forslag til vedtak
+  - For: enstemmig

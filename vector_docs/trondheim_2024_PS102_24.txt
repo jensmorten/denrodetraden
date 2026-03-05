@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 102/24
+rodt_fremmet: False
+---
+
+Tittel: Forutsigbarhet for tunge nullutslipps- og biogasskjøretøy i bomringen
+
+Vedtak:
+Saken utsettes.

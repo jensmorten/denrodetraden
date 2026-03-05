@@ -1,0 +1,24 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 74/24
+rodt_fremmet: False
+---
+
+Tittel: PS 74/2024 Representantforslag - Boligsosialt samarbeid som en del av folkehelsearbeidet - Svein Otto Nilsen (PP)
+
+Vedtak:
+Bystyret forutsetter at Trondheim kommune intensiverer arbeidet for et bedre boligsosialt tilbud.
+Bystyret viser til vedtak om bedre bomiljø i Østersundsgate oktober 2021 der bystyret ba kommunedirektøren vise hvordan utleie av de kommunale boligene i Østersunds gate nr 4, 6 og 8 kan organiseres for å gi en trygg og variert beboersammensetning som bidrar til gode fellesområder og bedre bomiljø. Bystyret ber om at ordninger med boligsosiale nettverk og bofellesskap med eldre inngår i vurderingene for disse kommunale bygårdene.
+
+Alternative forslag:
+- Morten Kokaas (PP) på vegne av PP, H, V, MDG, SP, KrF, SV, R, Ap: Bystyret forutsetter at Trondheim kommune intensiverer arbeidet for et bedre boligsosialt tilbud.
+- Silje Naper Salomonsen (SV) på vegne av SV, PP, R, Ap: Bystyret viser til vedtak om bedre bomiljø i Østersundsgate oktober 2021 der bystyret ba kommunedirektøren vise hvordan utleie av de kommunale boligene i Østersunds gate nr 4, 6 og 8 kan organiseres for å gi en trygg og variert beboersammensetning som bidrar til gode fellesområder og bedre bomiljø. Bystyret ber om at ordninger med boligsosiale nettverk og bofellesskap med eldre inngår i vurderingene for disse kommunale bygårdene.
+
+Voteringer:
+- Votering mellom innstillingen og fellesforslag "Boligsosialt tilbud"
+  - Fellesforslaget "Boligsosialt tilbud": 66 stemmer
+  - Innstillingen: 1 stemmer
+- Votering om Naper Salomsens tilleggsforslag
+  - Naper Salomsens forslag: 40 stemmer
+  - Motforslag: 27 stemmer

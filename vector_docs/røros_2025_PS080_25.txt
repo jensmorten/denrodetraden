@@ -1,0 +1,8 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 080/25
+rodt_fremmet: False
+---
+
+Tittel: 080/25 Grunngitt spørsmål - trafikksikkerhet og dyrevelferd

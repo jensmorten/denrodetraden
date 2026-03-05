@@ -1,0 +1,48 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 116/2024
+rodt_fremmet: False
+---
+
+Tittel: Kvalitetsmelding skole 2023
+
+Vedtak:
+Innstillingen unntatt punkt 7 ble enstemmig vedtatt.
+SV forslag punkt 7 setningen om psykososialt læringsmiljø ble enstemmig vedtatt.
+Innstillingens punkt 7 fikk 37 stemmer (20 H, 4 MDG, 4 FrP, 4 V, 3 PP, KrF, SP) mot 30 stemmer (17 Ap, 9 SV, 3 R, Uavh.) og ble vedtatt.
+SPs tilleggsforslag "Økende skolefravær" ble enstemmig vedtatt.
+FrPs tilleggsforslag "Mobbing, vold og trusler" fikk 51 stemmer (20 H, 17 Ap, 4 FrP, 4 V, 3 PP, KrF, Uavh., SP) mot 16 stemmer (9 SV, 4 MDG, 3 R) og ble vedtatt.
+Aps tilleggsforslag "En mer praktisk, variert og relevant skolehverdag" ble enstemmig vedtatt.
+KrFs tilleggsforslag fikk 63 stemmer (20 H, 17 Ap, 9 SV, 4 MDG, 4 V, 3 R, 3 PP, KrF, Uavh., SP) mot 4 stemmer (4 FrP) og ble vedtatt.
+Merknaden fra H "Vold og trusler" fikk tilslutning fra Ap, Uavh., KrF, FrP, PP, V, SP og ble en flertallsmerknad.
+Merknaden fra SV "Innspill til kvalitetsmeldingene" fikk tilslutning fra FrP, R, Uavh., Ap, SP, V, H og ble en flertallsmerknad.
+Merknaden fra SV "Involvere tillitsvalgte i arbeidet med kavalitetsmeldingene" fikk tilslutning fra Ap, Uavh., R, KrF, FrP, PP, SP, V og ble en flertallsmerknad.
+
+Alternative forslag:
+- Anbjørg Horgar (SV): Bystyret anerkjenner det gode arbeidet som gjøres i skolene i Trondheim. Sammen med fordelene ved å være en universitetsby, gir dette Trondheimsskolen gode forutsetninger for det videre arbeidet. Bystyret har på vegne av Trondheim ambisjoner for Trondheimsskolen og våre unge. Psykososialt læringsmiljø og arbeidsmiljø som oppleves som godt og trygt er viktig for god helse og trivsel hos elever og ansatte. Vi har en forventning om at arbeidet som gjøres i Trondheimsskolen, igangsatte tiltak og samarbeid med byens utdanningsmiljø resulterer i gode læringsmiljøer og læringsresultater.
+- Anbjørg Horgar (SV): Kommunedirektøren bes la ansatte få uttale seg om kvalitetsmeldingene i tillegg til dialog med elevene og rektorene, og spesielt lærerne som er tettest på elevene i læring og faglig og sosial utvikling.
+- Anbjørg Horgar (SV): Bystyret ber kommunedirektøren involvere i større grad tillitsvalgte i arbeidet med kvalitetsmeldingene.
+- Vegard Frøseth Fenes (SP) på vegne av SP, KrF, H, MDG, PP, V: Bystyret er bekymret for at antallet elever med høyt fravær har økt. I første termin av årets skoleår ble det rapportert 527 elever med fravær over 19 dager, sammenlignet med 509 året før. Bystyret mener det er viktig å gi elever med høyt bekymringsfullt fravær god oppfølging over tid, og støtter tiltakene som skisseres i saken. Det er også viktig med god dialog med hjemmet, og mellom ulike instanser i hjelpeapparatet.
+- Elin Marie Andreassen (FrP): Bystyret er bekymret for økning i mobbing, vold og trusler i skolen. Bystyret ber om at dette følges opp med målrettede tiltak, herunder kompetanseheving til ansatte for å forebygge og forhindre vold og trusler, bruk av de sanksjonsmuligheter man har, styrking av samarbeidet mellom hjem og skole og ansvarliggjøring av foresatte. Grov vold og alvorlige trusler skal som hovedregel alltid anmeldes.
+- Leon Bafondoko (Ap): Bystyret er bekymret for at stadig færre elever er motiverte i sin skolehverdag. Kommunedirektøren bes derfor om å fortsette arbeidet med å gjøre skolehverdagen mer praktisk, variert og relevant.
+- Majen Helen Sævik (KrF) på vegne av KrF, SP, MDG, V, PP: Bystyret er bekymret for at den strukturerte skolehverdagen i 1. klasse begrenser barnas naturlige behov for lek og utforskning. Kommunaldirektøren bes derfor om å øke innsatsen for å integrere mer lekbasert læring i undervisningen for å fremme trivsel og læring blant de yngste elevene. Vi trenger barneklare skoler, ikke skoleklare barn.
+
+Voteringer:
+- Innstillingen unntatt punkt 7
+  - For: Enstemmig
+- SV forslag punkt 7 setningen om psykososialt læringsmiljø
+  - For: Enstemmig
+- Innstillingens punkt 7
+  - For: 37 stemmer
+  - Mot: 30 stemmer
+- SPs tilleggsforslag "Økende skolefravær"
+  - For: Enstemmig
+- FrPs tilleggsforslag "Mobbing, vold og trusler"
+  - For: 51 stemmer
+  - Mot: 16 stemmer
+- Aps tilleggsforslag "En mer praktisk, variert og relevant skolehverdag"
+  - For: Enstemmig
+- KrFs tilleggsforslag "Mer lekbasert læring i 1. klasse"
+  - For: 63 stemmer
+  - Mot: 4 stemmer

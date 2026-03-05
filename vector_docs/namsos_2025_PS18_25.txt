@@ -1,0 +1,8 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 18/25
+rodt_fremmet: False
+---
+
+Tittel: PS 18/2025 Referatsaker

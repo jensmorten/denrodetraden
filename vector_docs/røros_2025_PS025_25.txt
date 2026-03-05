@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 025/25
+rodt_fremmet: False
+---
+
+Tittel: Orienteringer
+
+Vedtak:
+Orienteringene tas til etterretning.
+
+Voteringer:
+- Kommunedirektørens forslag til vedtak
+  - For: enstemmig

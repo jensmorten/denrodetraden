@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 26/2025
+rodt_fremmet: False
+---
+
+Tittel: Søknad om tilskudd - avgangselever Guri Kunna mars 2025
+
+Vedtak:
+Det innvilges et tilskudd på 15.000 til avgangselevene ved Guri Kunna avd. Frøya
+Tilskuddet finansieres over disposisjonsfondet. Saldo per dato: kr 218 888 276
+
+Voteringer:
+- Vedtak om tilskudd til avgangselever ved Guri Kunna avd. Frøya
+  - For: Enstemmig

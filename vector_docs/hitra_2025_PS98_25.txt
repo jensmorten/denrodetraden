@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 98/25
+rodt_fremmet: False
+---
+
+Tittel: Meldingssak - Avtale om tiltredelse, gnr 92, bnr 1
+
+Vedtak:
+Hitra kommunestyre tar saken til orientering.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - For: enstemmig

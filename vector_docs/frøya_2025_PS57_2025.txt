@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 57/2025
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av protokoll fra møtet 24.04.25
+
+Vedtak:
+Godkjenning av protokoll fra møtet 24.04.25 godkjennes som fremlagt
+
+Voteringer:
+- Godkjenning av protokoll fra møtet 24.04.25
+  - For: Enstemmig

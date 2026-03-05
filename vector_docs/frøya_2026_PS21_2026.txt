@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 21/2026
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv - Sigurd Elias Hestnes Vie
+
+Vedtak:
+Fritak fra vervene medfører endringer i vararekkene. Som 4.varamedlem i Kommunestyret velges: Line Stabell Hofstad. Som 2.varamedlem i hovedutvalget for levekår velges: Hege Jeanette Berg Johansen. Enstemmig.
+
+Voteringer:
+- Vedtak om fritak fra politiske verv for Sigurd Elias Hestnes Vie og endringer i vararekkene
+  - Enstemmig: alle

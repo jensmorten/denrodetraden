@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 79/24
+rodt_fremmet: False
+---
+
+Tittel: PS 79/2024 Årsmelding for mangfoldsrådet 2023
+
+Vedtak:
+Bystyret godkjenner årsmelding for 2023 for mangfoldsrådet.
+
+Voteringer:
+- Votering om innstillingen til årsmelding for mangfoldsrådet 2023
+  - For: enstemmig

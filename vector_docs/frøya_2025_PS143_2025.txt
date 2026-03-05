@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 143/2025
+rodt_fremmet: False
+---
+
+Tittel: Overtakelse av VA-Anlegg
+
+Vedtak:
+1. Frøya kommunestyre vedtar den framlagte avtale ved kommunal overtakelse av private vann og avløpsanlegg.
+2. Kommunedirektøren gis fullmakt til å gjøre mindre tilpasninger i avtaler.
+3. Den enkelte avtale framlegges for godkjenning til Hovedutvalg for samfunn.
+
+Voteringer:
+- Vedtak av avtale om kommunal overtakelse av private vann og avløpsanlegg
+  - For: Enstemmig

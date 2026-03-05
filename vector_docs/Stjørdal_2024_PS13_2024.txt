@@ -1,0 +1,21 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 13/2024
+rodt_fremmet: False
+---
+
+Tittel: Valg av representant og vararepresentant til felles klagenemd for Innherred Renovasjon IKS
+
+Vedtak:
+Som representant til klagenemda i Innherred Renovasjon IKS velges: Rolf Charles Berg (SP)
+Som varamedlem velges: Stian Flobergseter (AP)
+
+Alternative forslag:
+- Tor Helge Forbord Slind (Senterpartiet): Som representant til klagenemda i Innherred Renovasjon IKS velges: Rolf Charles Berg (SP)
+Som varamedlem velges: Stian Flobergseter (AP)
+
+Voteringer:
+- Valg av representant og vararepresentant til felles klagenemd for Innherred Renovasjon IKS
+  - Innstilling: ukjent
+  - Tor Helge Forbord Slind (Senterpartiet) forslag: 37 stemmer

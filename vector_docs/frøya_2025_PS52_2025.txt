@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 52/2025
+rodt_fremmet: False
+---
+
+Tittel: VALG AV REPRESENTANT OG VARAREPRESENTANT TIL SU VED NABEITA BARNEHAGE
+
+Vedtak:
+Som fast representant til SU ved Nabeita barnehage velges: Sandra Reppen Søreng
+Som vararepresentant til SU ved Nabeita barnehage velges: Frode Larsen
+
+Alternative forslag:
+- Olaf Reppe: Som fast representant til SU ved Nabeita barnehage velges: Sandra Reppen Søreng
+Som vararepresentant til SU ved Nabeita barnehage velges: Frode Larsen
+
+Voteringer:
+- Valg av representant og vararepresentant til SU ved Nabeita barnehage
+  - Sandra Reppen Søreng / Frode Larsen: Enstemmig

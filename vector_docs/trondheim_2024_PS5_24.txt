@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 5/24
+rodt_fremmet: False
+---
+
+Tittel: Endring av selskapsavtale - Trøndelag Brann- og redningstjeneste
+
+Vedtak:
+Bystyret vedtar den foreliggende selskapsavtale, jf vedlegg 1, for Trøndelag brann- og redningstjeneste IKS slik den er foreslått av selskapets representantskap i sak 16/23.
+
+Voteringer:
+- Votering over innstillingen om vedtak av selskapsavtale for Trøndelag brann- og redningstjeneste IKS
+  - For: Enstemmig

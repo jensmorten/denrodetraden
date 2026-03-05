@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 213/24
+rodt_fremmet: False
+---
+
+Tittel: Trondheim krisesenter - offentliggjøring eller hemmelighold av adresse
+
+Vedtak:
+Saken ble utsatt i møtet 21.11. 2024.

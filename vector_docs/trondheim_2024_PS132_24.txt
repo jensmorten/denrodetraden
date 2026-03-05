@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 132/24
+rodt_fremmet: False
+---
+
+Tittel: Gangveg mellom Gildheimsvegen og Brøsetvegen, detaljregulering. Sluttbehandling
+
+Vedtak:
+Saken utsettes.
+
+Alternative forslag:
+- Tore Dyrendahl (MDG): Saken utsettes
+
+Voteringer:
+- Votering over Dyrendahls utsettelsesforslag
+  - For utsettelsesforslaget: 36 stemmer
+  - Mot utsettelsesforslaget: 31 stemmer

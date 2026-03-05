@@ -1,0 +1,19 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 093/25
+rodt_fremmet: False
+---
+
+Tittel: 093/25 Interpellasjon til kommunestyret 27.11.2025 - Scooterløype
+
+Vedtak:
+Det ble dermed ingen vedtak i saken.
+
+Alternative forslag:
+- Repr. Stein Petter Haugen (Uavh): Ordfører tar kontakt med selskapet vinterled A/s og inviterer de til kommunestyret for en orientering om prosjektet sitt i starten av 2026
+
+Voteringer:
+- Votering over forslaget fra repr. Haugen om at ordfører skal ta kontakt med selskapet vinterled A/s og invitere de til kommunestyret for en orientering om prosjektet sitt i starten av 2026
+  - For: 11 stemmer
+  - Mot: 16 stemmer

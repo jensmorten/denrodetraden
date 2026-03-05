@@ -1,0 +1,26 @@
+METADATA:
+kommune: namsos
+year: 2026
+saksnummer: PS 6/2026
+rodt_fremmet: False
+---
+
+Tittel: 3. gangs behandling - Kommuneplanens arealdel for Namsos kommune 2024-2036
+
+Vedtak:
+Namsos kommunestyre vedtar kommuneplanens arealdel 2024-2036 datert 15.05.2025, sist revidert 27.01.2026. Endringene fra tidligere vedtak er:
+• Endring av formål rundt boliger tilknyttet gårdsbruk fra bolig til LNFR
+• Endring/justering av formål rundt boliger/fritidsboliger i LNFR-områder til bolig/fritidsbolig
+• Endring av bestemmelser tilknyttet hensynssone flyplass
+• Områdene KBA2, KBA13, NÆ36 tas ut av planen og erstattes med LNFR-formål
+• Område B19 reduseres i tråd med meklingsresultat
+• Område NÆ31 – Høknesøra videreføres. Kommunestyret gir kommunedirektøren mandat til å gjennomføre ny mekling med Statsforvalteren om området.
+Hjemmel for vedtaket er:
+Plan- og bygningsloven § 11-15
+
+Voteringer:
+- Avstemming over kommunedirektørens forslag til vedtak om kommuneplanens arealdel 2024-2036
+  - For: 31 stemmer
+- Avstemming over forslag om at område NÆ31 – Høknesøra videreføres og at kommunedirektøren gis mandat til ny mekling med Statsforvalteren
+  - For: 19 stemmer
+  - Imot: 12 stemmer

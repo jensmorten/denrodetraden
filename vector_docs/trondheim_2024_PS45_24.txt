@@ -1,0 +1,45 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 45/24
+rodt_fremmet: False
+---
+
+Tittel: PS 45/2024 Programbeskrivelse områdesatsingene i Trondheim
+
+Vedtak:
+Innstillingen ble enstemmig vedtatt.
+Næss Bergsengs forslag "Viktigheten av sosiale møteplaser, røntarealer og gode aktivitetstilbud" ble vedtatt.
+Næss Bergsengs forslag "Bystyret understreker viktigheten av at tiltakene følges opp" ble vedtatt.
+Merknaden fra SP, H, KrF, PP, V fikk tilslutning fra FrP, MDG, V, Ap og ble en flertallsmerknad.
+
+Alternative forslag:
+- Even Næss Begseng (SV) på vegne av SV, R, Ap: Sosial infrastruktur: Bystyret understreker viktigheten av å hensynta behovet for sosial infrastruktur og sosial miks ved utviklingen av nye boligområder i områdesatsingene, som Nyhavna og Reina, for å unngå at det oppstår “øyer” med store variasjoner i levekår, nært hverandre.
+- Even Næss Begseng (SV) på vegne av SV, R, Ap: Tilrettelegging for barnefamilier: Bystyret mener at det er viktig at det legges til rette for flere barnefamilier i områdesatsingene, og viser til vedtatt sak 06/22 i bystyremøtet 30.03.2022 som omhandler tiltak for få flere barnefamilier til å bosette seg i sentrum.
+- Even Næss Begseng (SV) på vegne av SV, R, Ap: Viktigheten av sosial møteplasser, grøntarealer og gode aktivitetstilbud: Bystyret peker på viktigheten av at det i områdesatsingene etableres sosiale møteplasser, grøntarealer og gode aktivitetstilbud, for å fremme fellesskap og redusere utenforskap og ulikhet.
+- Even Næss Begseng (SV) på vegne av SV, R, Ap: Holtermanns veg: Bystyret mener at den trafikale barrieren med Holtermanns veg er en utfordring for å skape en attraktiv bydel å bo i. Kommende områdeplan for Tempe og Sorgenfri bør bidra til å dempe denne barrieren. I tillegg bør trafikkbelastningen gjennom området reduseres.
+- Even Næss Begseng (SV) på vegne av SV, R, Ap: Bystyret understreker viktigheten av at tiltakene følges opp i KPA, budsjett og økonomiplan og i andre relevante saker og planer.
+- Annbjørg Horgar (SV): Fattigdomsbekjempelse: Bystyret mener at fattigdomsbekjempelse står sentralt og at det må komme med i arbeidet med områdesatsingene. Innføring av gratis barnehage i levekårsutsatte områder er en av flere virkemidler som bør vurderes for fattigdomsbekjempelse.
+- Vegard Frøseth Fenes (SP) på vegne av SP, H, KrF, PP, V: Samordnet og målrettet innsats: Områdesatsingene har vist seg å være en viktig arena for å prøve ut nye metoder for levekårsforbedring og forebygging av utenforskap. Eksempler på dette er flere lavterskeltilbud for barn og unge, kobling av ulike ressurser i nærmiljøet, og støtte til organisasjoner for å gjennomføre målrettede tiltak. Bystyret mener derfor at områdesatsingene bør bidra til et økt kunnskapsgrunnlag i kommunen knyttet til å samordne og målrette ulike innsatser for varige levekårsforbedringer.
+
+Voteringer:
+- Votering på innstillingen
+  - For: Enstemmig
+- Votering på Næss Bergsengs forslag "Sosial infrastruktur"
+  - For: 29 stemmer
+  - Mot: 38 stemmer
+- Votering på Næss Bergsengs forslag "Tilrettelegging for barnefamilier"
+  - For: 30 stemmer
+  - Mot: 38 stemmer
+- Votering på Næss Bergsengs forslag "Viktigheten av sosiale møteplaser, røntarealer og gode aktivitetstilbud"
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Votering på Næss Bergsengs forslag "Holtermanns veg"
+  - For: 29 stemmer
+  - Mot: 38 stemmer
+- Votering på Næss Bergsengs forslag "Bystyret understreker viktigheten av at tiltakene følges opp"
+  - For: 35 stemmer
+  - Mot: 32 stemmer
+- Votering på Horgars tilleggsforslag "Fattigdomsbekjempelse"
+  - For: 12 stemmer
+  - Mot: 55 stemmer

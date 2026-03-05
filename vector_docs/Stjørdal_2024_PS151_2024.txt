@@ -1,0 +1,16 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 151/2024
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om opplæringsspråk i de kommunale skolene i Stjørdal kommune - sluttbehandling etter høring
+
+Vedtak:
+Lokal forskrift om opplæringsspråk i de kommunale skolene i Stjørdal kommune vedtas.
+Den lokale forskriften kunngjøres i Norsk Lovtidend.
+
+Voteringer:
+- Votering over innstilling om lokal forskrift om opplæringsspråk i de kommunale skolene i Stjørdal kommune
+  - For: 37 stemmer

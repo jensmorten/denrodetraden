@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 157/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 157/2025 Utbygging bredbånd - Bogøya n
+
+Vedtak:
+Frøya kommune bevilger kr. 580.000,- fra disposisjonsfondet til utbygging av fiberbasert bredbånd på Bogøya. Saldo disposisjonsfondet 146134 990,-
+Kommunaldirektøren gis fullmakt til å følge opp prosjektet sammen med Trøndelag fylkeskommune og Telenor.
+
+Voteringer:
+- Vedtak om bevilgning til utbygging av fiberbasert bredbånd på Bogøya
+  - For: Enstemmig

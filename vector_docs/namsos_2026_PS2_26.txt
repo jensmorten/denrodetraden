@@ -1,0 +1,18 @@
+METADATA:
+kommune: namsos
+year: 2026
+saksnummer: PS 2/26
+rodt_fremmet: False
+---
+
+Tittel: Tilsetting av kommunedirektør i Namsos kommune - 2026
+
+Vedtak:
+Møtet lukkes - offentleglova § 25
+
+Alternative forslag:
+- Amund Lein (Høyre): Møtet lukkes - offentleglova § 25
+
+Voteringer:
+- Votering over forslag om å lukke møtet etter offentleglova § 25
+  - For: 34 stemmer

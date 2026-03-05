@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 53/24
+rodt_fremmet: False
+---
+
+Tittel: Ikke iverksatte formannskapsvedtak og kommunestyrevedtak, statusrapport pr. 04.04.2024
+
+Vedtak:
+Kommunestyret tar statusrapporten til orientering.
+
+Voteringer:
+- Avstemning om innstilling fra formannskapet 18.04.2024 om å ta statusrapporten til orientering.
+  - For forslaget: 37 stemmer

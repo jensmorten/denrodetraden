@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 64/24
+rodt_fremmet: False
+---
+
+Tittel: Økonomirapportering pr. februar 2024
+
+Vedtak:
+Økonomirapportering pr. februar 2024 tas til orientering.
+
+Voteringer:
+- Avstemning over innstilling om økonomirapportering pr. februar 2024
+  - For forslaget: 36 stemmer

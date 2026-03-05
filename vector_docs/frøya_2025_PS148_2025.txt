@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 148/2025
+rodt_fremmet: False
+---
+
+Tittel: Vertskommuneavtale Orklandsregionen - Legevakt 2025
+
+Vedtak:
+Frøya Kommune slutter seg til den framlagte vertskommuneavtalen mellom Orkland kommune (vertskommune) og kommuner i Orklandsregionen om drift av legevakt
+
+Voteringer:
+- Vedtak om å slutte seg til vertskommuneavtalen mellom Orkland kommune og kommuner i Orklandsregionen om drift av legevakt
+  - For: Enstemmig

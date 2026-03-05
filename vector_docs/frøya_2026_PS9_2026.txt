@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 9/2026
+rodt_fremmet: False
+---
+
+Tittel: Søknad om utvidet salgsbevilling til digital ubetjent butikk - Coop prix Dyrøy
+
+Vedtak:
+Kommunestyret avslår søknaden om utvidet salgsbevilling for salg av alkohol og tobakk i digital ubetjent butikk, da gjeldende lov- og forskriftsverk ikke åpner for slik salgsform.
+Kommunestyret kan ta opp til ny vurdering dersom nasjonalt regelverk endres slik at salg av alkohol og/eller tobakk i ubetjente eller fjernbetjente utsalgssteder tillates.
+Kommunestyret gir saksbehandler fullmakt til å avslå tilsvarende søknader så lenge gjeldende lovverk og nasjonal forvaltningspraksis ikke tillater ubetjent eller digitalt fjernbetjent alkohol- og tobakksalg.
+
+Voteringer:
+- Vedtak om søknad om utvidet salgsbevilling for digital ubetjent butikk
+  - Enstemmig vedtak: alle

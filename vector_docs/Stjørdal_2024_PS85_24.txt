@@ -1,0 +1,23 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 85/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av medlem og varamedlem til representantskapet i Fides IKS
+
+Vedtak:
+Som Stjørdal Kommunes representant til representantskapet i Fides IKS velges:
+Ordfører Eli Arnstad (Sp)
+Som varamedlem til representantskapet i Fides IKS velges: Leder i Utvalg kultur og levekår, Rune Larsen (H)
+
+Alternative forslag:
+- Tor Helge Forbord Slind (Senterpartiet): Som Stjørdal Kommunes representant til representantskapet i Fides IKS velges:
+Ordfører Eli Arnstad (Sp)
+Som varamedlem til representantskapet i Fides IKS velges:
+Leder i kultur og levekår Rune Larsen (H)
+
+Voteringer:
+- Valg av representant og varamedlem til representantskapet i Fides IKS, votering mellom innstilling og forslag fra Tor Helge Forbord Slind (Sp).
+  - Forslag 2 (Tor Helge Forbord Slind): 35 stemmer

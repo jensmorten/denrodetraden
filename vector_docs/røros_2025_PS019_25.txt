@@ -1,0 +1,25 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 019/25
+rodt_fremmet: False
+---
+
+Tittel: 019/25 Sluttbehandling - Detaljregulering for Sollirabben - PlanID 20230001
+
+Vedtak:
+Røros kommune vedtar forslag til detaljregulering for Sollirabben med planID 20230001, med tilhørende bestemmelser datert 25.02.2025 og tilhørende plandokumenter. (jf. Plan og bygningsloven § 12-12). Kommunestyret setter flg. begrensninger: Det tillates ikke oppstuggu i feltet. Maks mønehøyde på hytter feltet 5,25 m. Kommunedirektøren bes innarbeide forslaget i plandokumentene.
+
+Alternative forslag:
+- Per Arne Gjelsvik (V): 1 Kommunestyret avslår forslag til detaljregulering for Sollirabben med ID 20230001. 2 Kommunestyret ber KD utarbeide et kart over Røros kommune der alle ledige, regulerte hyttetomter samt avsatte hyttetomter uten godkjent detaljregulering, er inntegnet. 3 Kommunestyret ber KD utrede hva som er nødvendige ressurser innen helseberedskap og ikke minst innen hjemmebasert omsorg til å gi forsvarlige og gode tjenester til våre hyttegjester både i dag og i framtida.
+
+Voteringer:
+- Votering mellom innstillingen og endringsforslagets punkt 1 (avslag på detaljregulering).
+  - Innstillingen: 22 stemmer
+  - Endringsforslag punkt 1: 5 stemmer
+- Votering over endringsforslagets punkt 2 (kart over ledige og regulerte hyttetomter).
+  - For punkt 2: 6 stemmer
+  - Mot punkt 2: 21 stemmer
+- Votering over endringsforslagets punkt 3 (utredning av ressurser innen helseberedskap og hjemmebasert omsorg).
+  - For punkt 3: 4 stemmer
+  - Mot punkt 3: 23 stemmer

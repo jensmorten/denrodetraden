@@ -1,0 +1,8 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 092/25
+rodt_fremmet: False
+---
+
+Tittel: 092/25 Orienteringer

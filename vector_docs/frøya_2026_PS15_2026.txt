@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 15/2026
+rodt_fremmet: False
+---
+
+Tittel: Plan for forebygging av omsorgssvikt og atferdsvansker
+
+Vedtak:
+Kommunestyret vedtar Frøya kommunes plan for forebygging av omsorgssvikt og atferdsproblemer, med gitte prioriteringer og utviklingsområder som beskrevet i planen
+Kommunestyret ber forebyggende panel ta ansvar for årlig evaluering og oppdatering av planen
+
+Voteringer:
+- Vedtak av plan for forebygging av omsorgssvikt og atferdsvansker
+  - For: Enstemmig

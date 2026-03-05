@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 105/24
+rodt_fremmet: False
+---
+
+Tittel: PS 105/2024 Årsmelding 2023 - Trondheim studentråd
+
+Vedtak:
+Bystyret godkjenner årsmelding for 2023 for Trondheim studentråd.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: alle

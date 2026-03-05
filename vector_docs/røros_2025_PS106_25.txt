@@ -1,0 +1,23 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 106/25
+rodt_fremmet: False
+---
+
+Tittel: 106/25 Valg av ungdomsråd for perioden 2025-2027
+
+Vedtak:
+Som medlemmer av ungdomsrådet for perioden 2025-2027 velges:
+Magnus Tollan
+Ask Gunnleik Sødal
+Tilde Markussen Holm
+Anja Hegseth Leinum
+Kaisa Olivia Berger
+Jakop Haugen
+Ole-Tobias Testad
+Som vara for politiske fadder til ungdomsrådet velges: Rune Tørresvold
+
+Voteringer:
+- Valgutvalgets innstilling ble enstemmig vedtatt.
+  - Valgutvalgets innstilling: enstemmig

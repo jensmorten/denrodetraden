@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 057/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av representanter til stiftelsen Rørosmuseet - krav til kjønnsrepresentasjon
+
+Vedtak:
+Elin Silderen Tamnes velges som medlem. Christer Tronsmed velges som varamedlem.
+
+Alternative forslag:
+- Isak Veierud Busch (Ap): Elin Silderen Tamnes velges som medlem. Christer Tronsmed velges som varamedlem.
+
+Voteringer:
+- Votering over forslag fra repr. I. Busch
+  - I. Busch sitt forslag: enstemmig

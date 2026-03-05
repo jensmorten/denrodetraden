@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 121/2024
+rodt_fremmet: False
+---
+
+Tittel: Representantforslag - Lokal beredskap uten klasseskiller - Mona Berger (SV)
+
+Vedtak:
+Bystyret ber om at det i kommunens beredskapsplaner også inkluderes tiltak for å sørge for egenberedskap til de som ikke kan sørge for dette selv.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Inkluderes i kommunens beredskapsplaner
+
+Voteringer:
+- Ved alternativ votering mellom innstillingen og forslag fra FrP
+  - Innstillingen: 29 stemmer
+  - Forslag fra FrP: 38 stemmer

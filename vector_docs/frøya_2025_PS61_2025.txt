@@ -1,0 +1,25 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 61/2025
+rodt_fremmet: False
+---
+
+Tittel: ROP boligene - Lovlighetskontroll
+
+Vedtak:
+1. Beslutningen i sak 54/2025 om å sende saken tilbake til kommunedirektøren, opprettholdes.
+2. Kommunestyret opprettholder vedtak i sak 20/2025
+3. Sakskomplekset oversendes Statsforvalteren for endelig behandling
+
+Alternative forslag:
+- borgerlig gruppe: 1. Beslutningen i sak 54/2025 om å sende saken tilbake til kommunedirektøren, opprettholdes.
+2. Kommunestyret opprettholder vedtak i sak 20/2025
+4. Sakskomplekset oversendes Statsforvalteren for endelig behandling
+
+Voteringer:
+- Votering over vedtakspunktene 1 og 2
+  - For: 19 stemmer
+  - Mot: 3 stemmer
+- Votering over vedtakspunkt 3
+  - Enstemmig: 22 stemmer

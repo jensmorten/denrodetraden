@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 52/24
+rodt_fremmet: False
+---
+
+Tittel: Reglement for papirløse politikere i Stjørdal kommune 2023-2027
+
+Vedtak:
+Kommunestyret tar saken til orientering.
+
+Voteringer:
+- Votering over innstilling om å ta saken til orientering
+  - For: 37 stemmer

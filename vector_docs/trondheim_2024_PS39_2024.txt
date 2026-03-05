@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 39/2024
+rodt_fremmet: False
+---
+
+Tittel: Endring i godtgjøringsforskriften §§ 3.3, 3.4 og 5.1
+
+Vedtak:
+Bystyret vedtar følgende endringer i godtgjøringsforskriften (endringer i kursiv)
+
+Voteringer:
+- Votering om endringer i godtgjøringsforskriften §§ 3.3, 3.4 og 5.1
+  - Innstillingen: enstemmig

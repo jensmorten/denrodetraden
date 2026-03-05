@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 002/25
+rodt_fremmet: False
+---
+
+Tittel: 002/25 Orienteringer
+
+Vedtak:
+Orienteringene tas til orientering.
+
+Alternative forslag:
+- Henrik Grønn (Ap): Kommunestyret kan likevel komme med en sterk henstilling til at ordføreren sammen med en representant for mindretallet går i dialog med Ren Røros AS ned sikte på reforhandling av avtalen.
+
+Voteringer:
+- Votering over innstillingen i orienteringssaken
+  - For innstillingen: 26 stemmer

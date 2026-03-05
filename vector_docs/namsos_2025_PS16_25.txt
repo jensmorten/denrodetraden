@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 16/25
+rodt_fremmet: False
+---
+
+Tittel: PS 16/2025 Oppnevnelse av politiske styrerepresentanter til Namdalseid og Jøa frivilligsentral og Namsos frivilligsentral
+
+Vedtak:
+
+
+Voteringer:
+- Votering over utvalg for folks forslag til vedtak
+  - For forslaget: 34 stemmer

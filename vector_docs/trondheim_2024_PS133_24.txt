@@ -1,0 +1,25 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 133/24
+rodt_fremmet: False
+---
+
+Tittel: Nardovegen 2 og 5, detaljregulering - sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Nardovegen 2 og 5 med de angitte endringer i §3.8 som beskrevet i innstillingen.
+
+Alternative forslag:
+- Jenny Nordaune (SV) på vegne av SV, R: §3.8, Leilighetsfordeling treroms leiligheter. §3.8 nytt punkt: Minst 50% av leilighetene skal være treroms.
+- Jenny Nordaune (SV) på vegne av SV, R: §4.6 transportsykler. §4.6 endres til: Minimum 10% av plassene skal tilrettelegges for transportsykler.
+
+Voteringer:
+- Votering over innstillinga
+  - For: 67 stemmer
+- Votering over Nordaunes tilleggsforslag §3.8 (Minst 50% treroms)
+  - For: 13 stemmer
+  - Mot: 54 stemmer
+- Votering over Nordaunes tilleggsforslag §4.6 (Minimum 10% transportsykler)
+  - For: 17 stemmer
+  - Mot: 50 stemmer

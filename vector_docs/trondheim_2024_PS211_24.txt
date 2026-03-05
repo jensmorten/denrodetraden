@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 211/24
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg for Høyre - fritak
+
+Vedtak:
+1. varamedlem for kontrollutvalget for Høyre, Christian Wiig
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - Innstillingen: enstemmig

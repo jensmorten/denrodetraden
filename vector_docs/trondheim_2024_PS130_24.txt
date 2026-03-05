@@ -1,0 +1,44 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 130/24
+rodt_fremmet: True
+---
+
+Tittel: Forvaltningsrevisjon - Kvalitet i hjemmetjenesten
+
+Vedtak:
+1. Bystyret vil understreke at hjemmetjenestens oppgave er å sikre at eldre og pleietrengende skal ha en forsvarlig og verdig omsorg i eget hjem. Det er svært bekymringsfullt at Statsforvalteren i en rekke tilsynssaker har konkludert med at Trondheim kommune bryter kravet til forsvarlighet.
+2. Bystyret er kritisk til at ikke alle pasientene har en fungerende primærkontakt, og ber kommunedirektøren/byrådet sikre at en enhetlig forståelse av hvordan ordningen skal praktiseres slik at alle pasienter har en primærkontakt som fungerer.
+3. Bystyret mener det er kritikkverdig at målet om at pasientene skal ha færrest mulig hjelpere ikke prioriteres.
+4. Bystyret vil understreke behovet for å følge opp hjemmetjenestens egen service-erklæring. Brudd på service-erklæringer undergraver innbyggernes tillit til tjenesten.
+5. Bystyret ser det som kritikkverdig at nasjonale retningslinjer om ernæring ikke følges, da tidlig innsats kan bety redusert tjenestebehov og unngå økt bruk av ressurser pga mangelfull oppfølging. Bystyret ber kommunedirektøren/byrådet følge opp ernæringsarbeidet, herunder sikre at nasjonale retningslinjer følges, og at risikovurderinger for underernæring dokumenteres tilfredsstillende.
+6. Bystyret ser det som bekymringsfullt at det er manglende systematikk avdekket rundt avvik og avviksoppfølging. Revisjonens rapport gir flere bekymringsfulle indikasjoner på at det behov for bedre systematikk i tjenesten. For å bedre kvaliteten på tjenestene må kommunedirektøren/byråden fortsette arbeidet med å bedre avviksrapportering og etablere enhetlige rutiner for oppfølging og læring, inkludert læring på tvers.
+7. Bystyret er kritisk til de mange legemiddelavvikene i hjemmetjenesten, og ber kommunedirektøren/byrådet sørge for at kommunens rutiner for legemidler følges.
+8. Bystyret er bekymret for det høye sykefraværet i hjemmetjenesten. Kommunedirektøren/byråden må løfte arbeidet med å redusere det arbeidsrelaterte sykefraværet. Her må det blant annet legges vekt på ledelse, bemanning, bedre struktur i hverdagen, effektive samarbeidsprosesser og involvering.
+9. Bystyret er også bekymret for rekrutteringsutfordringene i hjemmetjenesten og ber kommunedirektøren/byråden arbeide videre med rekrutteringstiltak.
+10. Bystyret mener det er bekymringsfult at andelen heltidsansatte i hjemmetjenesten har gått ned de siste 4 årene. Bystyret ber kommunedirektøren/byrådet arbeide for å snu denne utviklingen.
+11. Bystyret ber kommunedirektøren/byrådet melde tilbake til kontrollutvalget om hvordan forvaltningsrevisjonen er fulgt opp innen 31.12.2024.
+12. Bystyret ber kommunedirektøren/byrådet sikre pasienter som ikke kan bestille matvarer selv, bistand til dette på en hensiktsmessig måte.
+13. Bystyret ber kommunedirektøren/byrådet gjennomgå oppgaver og behovet knyttet til kompetanse, slik at man sikrer riktig bruk av ressurser.
+14. Bystyret ber kommunedirektøren/byrådet gjøre en ny vurdering av bemanningsnivået i hjemmetjenesten sett i lys av forvaltningsrevisjonen.
+15. Bystyret ber om at det påses at risikovurdering for underernæring skal gjennomføres både ved oppstart av tjenesten, og deretter månedlig. Det bes videre om at status for arbeidet med å gjennomføre risikovurdering etter nasjonale retningslinjer rapporteres i neste kvalitetsmelding for eldreomsorgen.
+16. Bystyret tar for øvrig rapporten til orientering.
+
+Alternative forslag:
+- Vegard Frøseth Fenes (Sp): Bystyret ber om at det påses at risikovurdering for underernæring skal gjennomføres både ved oppstart av tjenesten, og deretter månedlig. Det bes videre om at status for arbeidet med å gjennomføre risikovurdering etter nasjonale retningslinjer rapporteres i neste kvalitetsmelding for eldreomsorgen.
+- Mia Småvik Rørdal (R): Bystyret ber kommunedirektøren/byrådet sikre pasienter som ikke kan bestille matvarer selv, bistand til dette på en hensiktsmessig måte.
+- Mia Småvik Rørdal (R): Bystyret ber kommunedirektøren/byrådet gjennomgå oppgaver og behovet knyttet til kompetanse, slik at man sikrer riktig bruk av ressurser.
+- Mia Småvik Rørdal (R): Bystyret ber kommunedirektøren/byrådet gjøre en ny vurdering av bemanningsnivået i hjemmetjenesten sett i lys av forvaltningsrevisjonen.
+
+Voteringer:
+- Votering over innstillinga
+  - For: Enstemmig
+- Votering over Rørdals tilleggsforslag 13
+  - For: Enstemmig
+- Votering over Rørdals tilleggsforslag 14
+  - For: Enstemmig
+- Votering over Rørdals tilleggsforslag 15
+  - For: Enstemmig
+- Votering over Fenes tilleggsforslag
+  - For: Enstemmig

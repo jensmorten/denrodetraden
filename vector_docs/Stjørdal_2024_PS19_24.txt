@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 19/24
+rodt_fremmet: False
+---
+
+Tittel: Barnas klima- miljørapport 2023
+
+Vedtak:
+Koden er å redde kloden – niende klima- og miljørapport fra barn og unge i Norge tas til orientering
+
+Voteringer:
+- Avstemning om innstilling: Koden er å redde kloden – niende klima- og miljørapport fra barn og unge i Norge tas til orientering
+  - For: 34 stemmer

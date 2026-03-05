@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 111/2024
+rodt_fremmet: False
+---
+
+Tittel: Kommunestyrets behandling av sak 111/2024 i møte den 05.09.2024
+
+Vedtak:
+Møteprotokoll godkjent.
+
+Voteringer:
+- Avstemning om innstilling: Møteprotokoll godkjent.
+  - For forslaget: 37 stemmer

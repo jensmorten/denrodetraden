@@ -1,0 +1,20 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 92/25
+rodt_fremmet: True
+---
+
+Tittel: Nyvalg - medlem av rådet for stiftelsen Aunøya
+
+Vedtak:
+Hitra kommunestyre å oppnevne Einar Brendboe (R) som nytt medlem av rådet for stiftelsen Aunøya. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.
+
+Alternative forslag:
+- Jann O. Krangnes (R): Einar Brendboe (R) som nytt medlem av rådet for stiftelsen Aunøya.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For: enstemmig
+- Votering over forslag fra Jann O. Krangnes (R)
+  - For: enstemmig

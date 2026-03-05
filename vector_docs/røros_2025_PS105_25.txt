@@ -1,0 +1,24 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 105/25
+rodt_fremmet: False
+---
+
+Tittel: 105/25 Valg av roller og verv etter tidligere ordfører
+
+Vedtak:
+Isak Veierud Busch innvilges fritak for vervene listet opp nedenfor i pkt 2.
+Sadmira Buljubasic velges som kommunens faste representant til:
+Årsmøtet i i Revisjon Midt-Norge As
+Oppgavefellesskap Helseplattformen
+Skoleutvalg Røros Vgs
+Trøndelag Sør interkommunalt råd
+Nasjonalparkstyret i Forollhogna
+Representantskap i Konsek Trøndelag IKS
+Fylkesmøte KS Trøndelag
+Midt-Norge 110-sentral
+
+Voteringer:
+- Votering over Valgutvalgets innstilling
+  - For: enstemmig

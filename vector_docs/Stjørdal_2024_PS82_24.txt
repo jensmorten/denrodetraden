@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 82/24
+rodt_fremmet: False
+---
+
+Tittel: Dialog med Signaturhagen Stjørdal AS om konseptet Harmonihagen er avsluttet
+
+Vedtak:
+Kommunedirektøren har avsluttet forhandlinger om erverv av omsorgsboliger med Signaturhagen Stjørdal AS. Saken tas til orientering.
+
+Voteringer:
+- Avstemning over innstilling om avslutning av forhandlinger med Signaturhagen Stjørdal AS
+  - For forslaget: 35 stemmer

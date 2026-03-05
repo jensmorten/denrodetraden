@@ -1,0 +1,17 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 001/25
+rodt_fremmet: False
+---
+
+Tittel: 001/25 Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og sakliste godkjennes.
+
+Voteringer:
+- Godkjenning av innkalling og saksliste
+  - For: 25 stemmer
+  - Mot: 0 stemmer
+  - Avholdende: 2 stemmer

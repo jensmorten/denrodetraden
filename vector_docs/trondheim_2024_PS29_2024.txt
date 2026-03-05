@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 29/2024
+rodt_fremmet: False
+---
+
+Tittel: Lovlighetskontroll av bystyrets vedtak i sak 237/23 - kjønnsbalanse
+
+Vedtak:
+Bystyret opprettholder sine vedtak av 26.10.23 og 14.12.23 i sak 237/23 Valg i det konstituerende bystyremøtet. Saken sendes til statsforvalteren for avgjørelse.
+
+Voteringer:
+- Votering over innstillingens første del
+  - For: 38 stemmer
+  - Imot: 29 stemmer
+- Votering over innstillingens andre del
+  - Enstemmig vedtatt: 67 stemmer

@@ -1,0 +1,59 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 142/24
+rodt_fremmet: False
+---
+
+Tittel: Revidering av forskrift om skoleregler for elever i grunnskolen i Trondheim
+
+Vedtak:
+Innstillinga unntatt paragraf 6 ble vedtatt mot en stemme (PP)
+Innstillinga § 6 fikk 60 stemmer(20H, 17Ap, 9SV, 4MDG, 4V, 3PP, KrF, Uavh, SP), og ble vedtatt mot 7 stemmer (4FrP, 3R)
+Horgars tilleggsforslag §8h fikk 34 stemmer (20H, 4FrP, 4V, R, 2PP, KrF, Uavh, SP), og ble vedtatt mot 33 stemmer (17Ap, 9SV, 4MDG, 2R, PP)
+Andreassens tilleggsforslag nytt pkt fikk 40 stemmer (20H, 3Ap, 4FrP, 4V, 3R, 3PP, KrF, Uavh, Sp), og ble vedtatt mot 27 stememr (14Ap, 9SV, 4MDG)
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Rektor har myndighet til å avgjøre reglementet rundt bruk av mobil og smartklokke i skolen. Nasjonale anbefalinger om regulering av digitalt utstyr skal benyttes som utgangspunkt. Representanter fra elever og lærere skal involveres i utformingen av reglene.
+- Annbjørg Horgar (SV): § 6. Bruk av privat digitalt utstyr
+Privat digitalt utstyr innbefatter blant annet mobiltelefon og smartklokke. Skolene eller kommunen kan ikke bestemme at elevene ikke får ha med seg privat utstyr på skolen, men skolereglene kan regulere bruk av privat digitalt utstyr på skolene.
+Bruk av mobiltelefoner og smartklokker i undervisning og i friminutt er ikke tillatt.
+Skolen kan i særskilte tilfeller gi anledning til bruk av privat utstyr når dette er hensiktsmessig for opplæringen.
+Elever med behov for tilrettelegging knyttet til utfordringer som for eksempel med helse, sosial samhandling eller læring, kan etter avtale med skolen likevel bruke privat datautstyr, mobiltelefon og smartklokke i skoletiden når det er nødvendig for å ivareta disse behovene.
+- Annbjørg Horgar (SV): Generell endring: Endre språkformen fra "elevens beste" til "barnets beste". Bystyret ber kommunedirektøren følge den samme språkformen som i barnekonvensjonen og endre “elevens beste” til “barnets beste”.
+- Annbjørg Horgar (SV): Endringsforslag til § 5.
+Dine plikter som elev (orden og oppførsel), punktet under oppførsel "følger skolereglene og andre nasjonale lover og regler, og dermed ikke har med eller bruker rusmidler eller farlige gjenstander i skoletiden." deles opp i to punkter:
+- følger skolereglene og andre nasjonale lover og regler
+- ikke har med eller bruker rusmidler eller farlige gjenstander i skoletiden
+- Elin Marie Andreassen (FrP): Som siste setning § 8 h) tilføyes: Grov vold og alvorlige trusler skal som hovedregel anmeldes fra skolens side.
+- Elin Marie Andreassen (FrP): I alvorlige tilfeller av mobbing, som ikke lar seg håndtere ved bruk av andre verktøy enn bytte av skole, er det den som mobber som i hovedsak skal være nødt til å bytte skole.
+- Annbjørh Horgar: Bystyret ber kommunedirektøren følge med utviklingen etter ikrafttredelse av forskriften og vurdere fortløpende om det er behov for endring av regler om bruk av privat digitalt utstyr i ungdomsskolen.
+
+Voteringer:
+- Innstillinga unntatt paragraf 6
+  - For: 59 stemmer
+  - Mot: 1 stemmer
+- Andreassens forslag §6 (mobilbruk)
+  - For: 8 stemmer
+  - Mot: 59 stemmer
+- Horgars alternative forslag §6 (privat digitalt utstyr)
+  - For: 15 stemmer
+  - Mot: 52 stemmer
+- Innstillinga § 6
+  - For: 60 stemmer
+  - Mot: 7 stemmer
+- Horgars tilleggsforslag (barnets beste)
+  - For: 11 stemmer
+  - Mot: 56 stemmer
+- Horgars endringsforslag § 5
+  - For: 26 stemmer
+  - Mot: 41 stemmer
+- Horgars tilleggsforslag §8h
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Andreassens tilleggsforslag nytt pkt
+  - For: 40 stemmer
+  - Mot: 27 stemmer
+- Horgars tilleggsforslag (privat digitalt utstyr)
+  - For: 16 stemmer
+  - Mot: 51 stemmer

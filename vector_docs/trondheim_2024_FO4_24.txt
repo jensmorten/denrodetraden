@@ -1,0 +1,8 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: FO 4/24
+rodt_fremmet: False
+---
+
+Tittel: Kortspørsmål - Brukerrom for rusmiddelavhengige - Mona Berger (SV)

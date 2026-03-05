@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 192/24
+rodt_fremmet: False
+---
+
+Tittel: PS 192/2024 Fritakssøknad Jens-Christian Hørløck (H)
+
+Vedtak:
+Jens-Christian Hørløck innvilges fritak som vararepresentant til bystyret og utvalg, grunnet omsorgsoppgaver.
+
+Alternative forslag:
+- Mona Berger (SV): Jens-Christian Hørløck innvilges fritak fra 12 mnd som vararepresentant til bystyret og utvalg, grunnet omsorgsoppgaver.
+
+Voteringer:
+- Ved alternativ votering mellom innstillingens og Bergers forslag
+  - Innstillingen: 38 stemmer
+  - Bergers forslag: 29 stemmer

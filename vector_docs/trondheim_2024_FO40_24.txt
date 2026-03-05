@@ -1,0 +1,8 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: FO 40/24
+rodt_fremmet: False
+---
+
+Tittel: Kortspørsmål - Barn fra Trondheim blir ufrivillig sendt til utlandet og kommer ikke tilbake - Leon Bafondoko (AP)

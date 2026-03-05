@@ -1,0 +1,33 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 147/24
+rodt_fremmet: False
+---
+
+Tittel: Reduksjon av rabatt for nullutslippskjøretøy i takstgruppe 1 i Miljøpakkens bommer
+
+Vedtak:
+Rabatten for nullutslippskjøretøy i takstgruppe 1 justeres ned årlig med en takst som sikrer at gjennomsnittstaksten fastsatt i Stortingsproposisjonen oppnås. Justeringen fortsetter til rabatten utgjør 30 prosent av grunntaksten.
+Det forutsettes en fortsatt årlig justering av grunntaksten i henhold til konsumprisindeksen.
+Taksten for nullutslippskjøretøy innenfor kategori N1 (varebiler) og kjøretøy drevet av hydrogengass (HY-kjøretøy) holdes fortsatt på 0 kr.
+Bystyret mener at økning i bomtakster for nullutslippskjøretøy ikke skal føre til at fossilbiler får redusert takst.
+Bystyret er bekymret for utviklinga i personbiltrafikken og nullvekstmålet, og mener at det må settes inn tiltak med effekt for å nå målet. Bystyret viser samtidig til de vedtatte klimamålene i kommunene, og mener at tiltak må både sikre nullvekstmål og klimamål.
+Bystyret forutsetter at Statens vegvesen redegjør for på hvilken måte økning i elbiltakster vil bidra til nullvekstmålet.
+Bystyret ber Statens vegvesen prioritere bompengeutredning for Miljøpakken høyt.
+Bystyret gir kommunens representanter i Kontaktutvalget i Miljøpakken mandat til å forhandle om et omforent forslag.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Bystyret mener at bompengetakster bør endres helhetlig med sikte på reduksjon og avvikling for alle kjøretøy.
+- Tore Dyrendahl (MDG) på vegne av MDG, H, KrF, SV, Sp, R, PP, V, Ap: Rabatten for nullutslippskjøretøy i takstgruppe 1 justeres ned årlig med en takst som sikrer at gjennomsnittstaksten fastsatt i Stortingsproposisjonen oppnås. Justeringen fortsetter til rabatten utgjør 30 prosent av grunntaksten. Det forutsettes en fortsatt årlig justering av grunntaksten i henhold til konsumprisindeksen. Taksten for nullutslippskjøretøy innenfor kategori N1 (varebiler) og kjøretøy drevet av hydrogengass (HY-kjøretøy) holdes fortsatt på 0 kr. Bystyret mener at økning i bomtakster for nullutslippskjøretøy ikke skal føre til at fossilbiler får redusert takst. Bystyret er bekymret for utviklinga i personbiltrafikken og nullvekstmålet, og mener at det må settes inn tiltak med effekt for å nå målet. Bystyret viser samtidig til de vedtatte klimamålene i kommunene, og mener at tiltak må både sikre nullvekstmål og klimamål. Bystyret forutsetter at Statens vegvesen redegjør for på hvilken måte økning i elbiltakster vil bidra til nullvekstmålet. Bystyret ber Statens vegvesen prioritere bompengeutredning for Miljøpakken høyt. Bystyret gir kommunens representanter i Kontaktutvalget i Miljøpakken mandat til å forhandle om et omforent forslag.
+
+Voteringer:
+- Votering over innstillinga
+  - For innstillinga: 13 stemmer
+  - Mot innstillinga: 54 stemmer
+- Votering over Andreassens forslag
+  - For Andreassens forslag: 4 stemmer
+  - Mot Andreassens forslag: 63 stemmer
+- Votering over Dyrendahls forslag
+  - For Dyrendahls forslag: 63 stemmer
+  - Mot Dyrendahls forslag: 4 stemmer

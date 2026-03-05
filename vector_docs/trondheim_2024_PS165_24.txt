@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 165/24
+rodt_fremmet: False
+---
+
+Tittel: PS 165/2024 Stavne Arbeid Trondheim KF og Stavne Inkludering Trondheim KF - styret - valg av settemedlem
+
+Vedtak:
+Saken utsettes.
+
+Alternative forslag:
+- Berit Tiller (H): Saken utsettes.
+
+Voteringer:
+- Votering om utsettelsesforslag fremmet av Berit Tiller (H)
+  - Utsettelsesforslag: enstemmig

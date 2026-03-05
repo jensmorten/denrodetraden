@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 100/25
+rodt_fremmet: False
+---
+
+Tittel: Høringsuttalelse - Risikoanalyse av Hitratunellen
+
+Vedtak:
+Hitra kommunestyre gir slik høringsuttalelse til Risikoanalyse av Hitratunnelen datert 25.11.2025: Hitra kommunestyre ser med sterk bekymring på avdekte mangler ved infrastrukturen i tunellen. Det er avdekt flere brudd på kravene knyttet til bestemmelsene i Tunellsikkerhetsforskriften for fylkesveier (TSSF) og Håndbok N500 Vegtunneler. Rapporten konkluderer slik: Hitratunnelen tilfredsstiller per i dag ikke laveste tillatte sikkerhetsnivå på flere kritiske områder. Hitra kommune stiller seg undrende til at veieier, som burde være kjent med tilstanden i tunellen, ikke, i tilstrekkelig grad, har iverksatt tiltak for å lukke kritiske avvik i tunellens infrastruktur. Tunellens tilstand vurderes å utgjøre en fare for liv og helse dersom det skulle oppstå en trafikkulykke i tunellen, særlig hvis en slik ulykke involvere større kjøretøy. Dette er en uakseptabel risiko for kommunen og øyregionen. Hitra kommunestyre ber om at Trøndelag fylkeskommune utarbeider en prioritert tiltaksplan med tilhørende framdriftsplan. Tiltaksplanen må ferdigstilles snarest slik at avvikene avdekket i risikoanalysen kan lukkes innen utgangen av 2026. Det er uakseptabelt for Hitra kommune at brudd på krav i forskrift må utsettes til midler fra staten knyttet til Tunellsikkerhetsforskriften foreligger. Hitra kommune viser i tillegg til høringsuttalelse avgitt av Brann og Redning Orkland (Vertskommune for Hitra kommune). Det er uakseptabelt at tilstanden på Hitratunellen er så dårlig at brann og redning ved større branner ikke kan ta seg inn i tunellen uten å risikere mannskapenes liv og helse.
+
+Voteringer:
+- Behandling av innstillingen
+  - Enstemmig vedtatt: alle

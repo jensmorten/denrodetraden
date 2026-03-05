@@ -1,0 +1,16 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 193/24
+rodt_fremmet: False
+---
+
+Tittel: Forlengelse av garanti for driftskreditt til Ski VM AS
+
+Vedtak:
+Bystyret vedtar å forlenge garanti for SKI-VM 2025 AS driftskreditt med de angitte betingelser.
+
+Voteringer:
+- Votering over innstillingen om forlengelse av garanti for SKI-VM 2025 AS driftskreditt
+  - For: 63 stemmer
+  - Mot: 4 stemmer

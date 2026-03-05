@@ -1,0 +1,14 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 4/2026
+rodt_fremmet: False
+---
+
+Tittel: Hovedutvalgsledernes orientering
+
+Vedtak:
+Hovedutvalget for levekår: Orientering etter møtet 20.01.26
+Hovedutvalget for samfunn: Orientering etter møte 22.01.26
+Hovedutvalget for samfunn: Orientering rund veilys Hamarvika
+Kontrollutvalget: Informere at administrasjon i Frøya kommune har blitt bedre til å ta i bruk KDT system og forvaltning

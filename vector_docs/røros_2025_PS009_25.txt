@@ -1,0 +1,11 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 009/25
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og sakliste godkjennes.

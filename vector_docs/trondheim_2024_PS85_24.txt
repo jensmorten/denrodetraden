@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 85/24
+rodt_fremmet: False
+---
+
+Tittel: Årsrapport 2023 for Stavne Arbeid Trondheim KF
+
+Vedtak:
+Bystyret fastsetter årsrapport for Stavne Arbeid Trondheim KF.
+
+Voteringer:
+- Votering om innstillingen til årsrapport 2023 for Stavne Arbeid Trondheim KF
+  - Innstillingen: enstemmig

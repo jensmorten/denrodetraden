@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 97/25
+rodt_fremmet: False
+---
+
+Tittel: Meldingssak - møteprotokoll fra kontrollutvalgsmøte 24.11.2025
+
+Vedtak:
+Hitra kommunestyre tar møteprotokoll fra kontrollutvalgsmøtet 24.11.2025 til orientering.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

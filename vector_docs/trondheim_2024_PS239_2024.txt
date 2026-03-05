@@ -1,0 +1,92 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 239/2024
+rodt_fremmet: False
+---
+
+Tittel: Byrådets forslag til Planstrategi for Trondheim kommune 2024-2027
+
+Vedtak:
+Bystyret vedtar byrådets forslag til Planstrategi for Trondheim kommune 2024-2027, med foreslåtte planoppgaver slik de fremgår i tabell 1.
+Bystyret vedtar at kommuneplanens samfunnsdel, Trondheimsløftet, ikke revideres i bystyreperioden.
+Bystyret vedtar at det ikke legges opp til en fullstendig rullering av kommuneplanens arealdel (KPA) i perioden, men en revidering av avgrensede områder og bestemmelser i tråd med sak 0169/24 Kommuneplanens arealdel 2022-2034.
+Byrådet legger frem en årlig rapport om status for planarbeidet i planstrategien til bystyret.
+Handlingsplan for helsestasjons- og skolehelsetjenesten og Handlingsplan for svangerskaps-, fødsels- og barselomsorg slås sammen til Handlingsplan for helhetlig barne- og kvinnehelse.
+Språkpolitisk strategi tas inn i Planstrategi for Trondheim kommune 2024-2027.
+Grunnlaget for områdeplanen i Haakon VII gate sør utarbeides av grunneiere/eiendomsbesitterne før politisk sluttbehandling, med kommunen i en aktiv rolle. Detaljplanlegging kan gå parallelt med utarbeidelse av områdeplan.
+Kommunedelplan næringsareal for Torgård, Kvenil og Heggstadmoen vedtas med formål å følge opp behovet for mer næringsareal og tilgjengeliggjøring av nytt næringsareal de neste 10 årene.
+Plan for kjønns- og seksualitetsmangfold skal fokusere på kommunens rolle som tjenesteyter og arbeidsgiver, henvise til andre relevante planverk, og følge opp intensjoner i sak 180/22.
+
+Alternative forslag:
+- Mona Berger (SV): Handlingsplan for helsestasjons- og skolehelsetjenesten og Handlingsplan for svangerskaps-, fødsels- og barselomsorg slås sammen med mål om bedre sammenheng i tjenestene. Ny tittel: Handlingsplan for helhetlig barnehelse.
+- Elin Marie Andreassen (FrP): Plan nr. 3, Forskningsstrategi, prioriteres ikke i perioden.
+- Elin Marie Andreassen (FrP): Plan nr. 4, Internasjonal strategi, prioriteres ikke i perioden.
+- Elin Marie Andreassen (FrP): Plan nr. 5, Plan for kunstig intelligens, og plan nr. 6 Plan for digitalisering, slås sammen.
+- Elin Marie Andreassen (FrP): Plan nr. 8, Eiendomsstrategi, endrer formål til strategi for forvaltning og ivaretakelse av kommunens eiendommer.
+- Elin Marie Andreassen (FrP): Plan nr. 9, Klima- og miljøstrategi for forvaltning, drift, prioriteres ikke i perioden.
+- Elin Marie Andreassen (FrP): Plan nr. 10, Boligpolitisk plan - handlingsdel, prioriteres ikke i perioden.
+- Elin Marie Andreassen (FrP): Plan nr. 14, Plan for kulturminner og kulturmiljø, prioriteres ikke i perioden.
+- Elin Marie Andreassen (FrP): Plan nr. 16, Plan for siktlinjer og siktrom, prioriteres ikke i perioden.
+- Elin Marie Andreassen (FrP): Plan nr. 20, Sykkelstrategi for Trondheim, prioriteres ikke i perioden.
+- Elin Marie Andreassen (FrP): Plan nr. 22, Handlingsplan for sirkulærøkonomi, prioriteres ikke i perioden.
+- Elin Marie Andreassen (FrP): Plan nr. 23, Temaplan for kulturnæringer, prioriteres ikke i perioden.
+- Elin Marie Andreassen (FrP): Plan nr. 24, Handlingsplan for kunst og kultur, prioriteres ikke i perioden.
+- Anbjørg Horgar (SV) på vegne av SV, MDG, R: Språkpolitisk strategi tas inn i Planstrategi for Trondheim kommune 2024-2027.
+- Sindre Nilsskog (H) på vegne av H, Ap, V, FrP: Bystyret ber byrådet fokusere på kommunens rolle som tjenesteyter og arbeidsgiver i plan for kjønns- og seksualitetsmangfold, henvise til andre planverk, og følge opp intensjoner i sak 180/22.
+- Kirsti Tømmervold (Ap) på vegne av Ap, Uavh. FrP: Det skal lages en ny kommunedelplan for Klæbu sentrum med fokus på kvalitet, identitet, bærekraft og inkludering.
+- Roar Aas (Ap) på vegne av Ap, FrP: Grunnlaget for områdeplanen i Haakon VII gate sør utarbeides av grunneiere/eiendomsbesitterne før politisk sluttbehandling, med kommunen i en aktiv rolle. Detaljplanlegging kan gå parallelt med utarbeidelse av områdeplan.
+- Roar Aas (Ap) på vegne av Ap, FrP: Kommunedelplan næringsareal for Torgård, Kvenil og Heggstadmoen vedtas for å følge opp behovet for mer næringsareal og tilgjengeliggjøring av nytt næringsareal de neste 10 årene.
+
+Voteringer:
+- Innstillingen til Planstrategi for Trondheim kommune 2024-2027
+  - For: enstemmig
+- Tømmervolds forslag 'Kommunedelplan Klæbu sentrum'
+  - For: 26 stemmer
+  - Mot: 41 stemmer
+- Andreassens forslag 'Plan nr. 3, Forskningsstrategi, prioriteres ikke i perioden'
+  - For: 5 stemmer
+  - Mot: 62 stemmer
+- Andreassens forslag 'Plan nr. 4, Internasjonal strategi, prioriteres ikke i perioden'
+  - For: 5 stemmer
+  - Mot: 62 stemmer
+- Andreassens forslag 'Plan nr. 5, Plan for kunstig intelligens, og plan nr. 6 Plan for digitalisering, slås sammen'
+  - For: 29 stemmer
+  - Mot: 38 stemmer
+- Andreassens forslag 'Plan nr. 8, Eiendomsstrategi, endrer formål'
+  - For: 5 stemmer
+  - Mot: 62 stemmer
+- Andreassens forslag 'Plan nr. 9, Klima- og miljøstrategi for forvaltning, drift, prioriteres ikke i perioden'
+  - For: 5 stemmer
+  - Mot: 62 stemmer
+- Andreassens forslag 'Plan nr. 10, Boligpolitisk plan - handlingsdel, prioriteres ikke i perioden'
+  - For: 4 stemmer
+  - Mot: 63 stemmer
+- Andreassens forslag 'Plan nr. 14, Plan for kulturminner og kulturmiljø, prioriteres ikke i perioden'
+  - For: 4 stemmer
+  - Mot: 63 stemmer
+- Andreassens forslag 'Plan nr. 16, Plan for siktlinjer og siktrom, prioriteres ikke i perioden'
+  - For: 7 stemmer
+  - Mot: 60 stemmer
+- Andreassens forslag 'Plan nr. 20, Sykkelstrategi for Trondheim, prioriteres ikke i perioden'
+  - For: 4 stemmer
+  - Mot: 63 stemmer
+- Andreassens forslag 'Plan nr. 22, Handlingsplan for sirkulærøkonomi, prioriteres ikke i perioden'
+  - For: 4 stemmer
+  - Mot: 63 stemmer
+- Andreassens forslag 'Plan nr. 23, Temaplan for kulturnæringer, prioriteres ikke i perioden'
+  - For: 4 stemmer
+  - Mot: 63 stemmer
+- Andreassens forslag 'Plan nr. 24, Handlingsplan for kunst og kultur, prioriteres ikke i perioden'
+  - For: 4 stemmer
+  - Mot: 63 stemmer
+- Bergers forslag 'Kvinne- og barnehelse'
+  - For: enstemmig
+- Horgars forslag 'Språkpolitisk strategi tas inn i planstrategien'
+  - For: enstemmig
+- Aas forslag 'Tilleggsforslag til Tabell 1 Områdeplan for Haakon VIIs gate sør'
+  - For: 51 stemmer
+  - Mot: 16 stemmer
+- Aas forslag 'Kommunedelplan næring'
+  - For: 51 stemmer
+  - Mot: 16 stemmer

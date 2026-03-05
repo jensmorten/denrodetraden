@@ -1,0 +1,24 @@
+METADATA:
+kommune: røros
+year: 2026
+saksnummer: PS-011/26
+rodt_fremmet: True
+---
+
+Tittel: Endring av skolestruktur 2025
+
+Vedtak:
+Glåmos skole legges ned fra 1. august 2026.
+Kommunedirektøren bes sørge for gode og involverende prosesser for å sikre et godt skole- og arbeidsmiljø.
+Kommunedirektøren bes sørge for et fortsatt godt samarbeid med AtB for å sikre et godt skysstilbud til alle elever.
+Kommunestyret ber kommunedirektør å legge fram en sak om mulighetene for framtidig bruk av bygningsmassen innen 1. juli 2026
+
+Alternative forslag:
+- Røros Arbeiderparti (Henrik Grønn): Glåmos skole legges ned med virkning fra 1.8.2026
+- Høyre (Rob Veldhuis): Kommunestyret ber kommunedirektør å legge fram en sak om mulighetene for framtidig bruk av bygningsmassen innen 1. juli 2026
+
+Voteringer:
+- Votering på forslag i saken med nytt kulepunkt 1 (nedleggelse av Glåmos skole fra 1.8.2026)
+  - For: 27 stemmer
+- Votering på forslag om nytt kulepunkt 4 (sak om framtidig bruk av bygningsmassen)
+  - For: 27 stemmer

@@ -1,0 +1,60 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 65/2024
+rodt_fremmet: True
+---
+
+Tittel: Haakon VII`s gate 25, detaljregulering , sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Haakon VII’s gate 25, alternativ 2, som vist på kart i målestokk 1:1000, merket Oslo Works senest datert 14.02.2024 med bestemmelser senest datert 08.03.2024 og beskrevet i planbeskrivelsen, senest datert 14.02.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12. Endring i reguleringsbestemmelsene § 3.1.8 Parkering Parkeringsdekning for kontor endres til: - Kontor: maksimum 0,5 plasser per 100 m2 BRA. Maksimum 10% av antall leiligheter kan være 1‐roms. Minimum 45% av antall leiligheter skal være 3-roms eller større. Av disse skal minimum 5% av antall leiligheter skal være 4‐roms eller større. 1-romsleilighetene skal ikke være mindre enn 25 kvm. § 7.1 Faresone – deponi Justerte bestemmelser Faresonen viser kommunens etablerte aktsomhetsgrense for hvor det er forventet å være nedlagt nedbrytbart avfall og annet avfall/avfallsmasser. Før brukstillatelse til boliger gis, skal det dokumenteres at avfallsmasser med potensial for gassproduksjon og eventuelt farlig avfall er fjernet under boligene. Dersom det kun etableres næringsbebyggelse i BKB1, tillates det etablert på deponi i tråd med kommunedirektørens anbefalinger. Deponimasser skal fjernes under offentlig vei mellom BKB1 og BKB2 (nordre del av o_SKV2). Det skal legges til rette for at tiltakshaver med sin fagkompetanse, kan delta i dialogen med Statsforvalteren når det skal forhandles om innsigelsene det vises til i saken. Relevante vedtak i bystyret må ligge til grunn i forhandlingene. For inntil 30 % av boenheter med samlet støynivå Lden > 55 dB på fasade fra alle støykilder tillates avvik fra krav om oppholdsrom/soverom mot stille side. Endring i §4.1.4 Boligtyper og leilighetssammensetning på vegne av H, Ap, V ble vedtatt med minimum 45% 3-roms eller større og minimum 5% 4-roms eller større. Justert ordlyd i § 3.1.2 Støy for å løse innsigelse fra Statsforvalteren ble vedtatt. Flertallsmerknad oppfordrer til etablering av bro lenger vest over jernbanesporet i framtidig plan- og byutviklingsarbeid.
+
+Alternative forslag:
+- Jenny Nordaune (SV): Utvidelse av Leangenbroa: Legge til dette i bestemmelsen §10.3: bebyggelsen kan ikke tas i bruk før avtale om utvidelse av Leangbroa i # 3 er inngått.
+- Jenny Nordaune (SV, R): Endre §7.1 Faresone - deponi til: Faresonen viser kommunens etablerte aktsomhetsgrense for hvor det er forventet å være nedlagt nedbrytbart avfall og annet avfall/avfallsmasser. Før brukstillatelse til boliger gis, skal det dokumenteres at avfallsmasser med potensial for gassproduksjon og eventuelt farlig avfall er fjernet frem til tomtegrense.
+- Jenny Nordaune (SV, R): Nytt forslag § 4.1.4 Minimum 60 % av antall leiligheter skal være 3-roms eller større.
+- Tore Dyrendahl (MDG): Alt 1 med bru og endret bestemmelse om brua: Bystyret vedtar forslag til detaljregulering av Haakon VII’s gate 25, alternativ 1, som vist på kart i målestokk 1:1000, merket Oslo Works senest datert 14.02.2024 med bestemmelser senest datert 08.03.2024 og beskrevet i planbeskrivelsen, senest datert 14.02.2024. Bestemmelsen § 10.6 endres slik: “Bebyggelsen kan ikke tas i bruk før avtale om etablering av bru i bestemmelsesområde #4 er inngått.” Vedtaket fattes i henhold til plan- og bygningsloven § 12-12. Bystyret mener at utbygging av bru skal skje i kommunal regi, med bl.a. grunneierfinansiering og ber om at §10.6 følges opp på den måten.
+- Tore Dyrendahl (MDG): Stryke avsnitt om §3.1.8 parkering i innstillinga, slik at §3.1.8 blir som forslått i bestemmelsene.
+- Tore Dyrendahl (MDG): Stryke avsnitt i innstillinga om endring av §4.1.4 boligtyper, slik at bestemmelsen blir som innstilt fra kommunedirektøren på 50 %.
+- Magni Fjørtoft Svarstad (R): § 7.1 Faresone – deponi - tillegg etter første avsnitt: Det skal også dokumenteres at håndtering av avfallsmasser ikke er til hinder for fremtidig forsvarlig behandling av deponimasse ved utvikling av nabotomter.
+- Haakon Gussiaas (H, Ap, V): Endring av §4.1.4 Boligtyper og leilighetssammensetning: Minimum 45% av antall leiligheter skal være 3-roms eller større. Av disse skal minimum 5% av antall leiligheter skal være 4‐roms eller større.
+- Haakon Gussiaas (H, V, Ap): Justert ordlyd i § 3.1.2 Støy for å løse innsigelse fra Statsforvalteren: For inntil 30 % av boenheter med samlet støynivå Lden > 55 dB på fasade fra alle støykilder tillates avvik fra krav om oppholdsrom/soverom mot stille side.
+
+Voteringer:
+- Alternativ votering mellom innstillingens første avsnitt og forslag fra MDG
+  - Innstillingen: 62 stemmer
+  - MDG: 5 stemmer
+- Alternativ votering mellom innstillingen endring i reguleringsbestemmelsene 3.1.8 Parkering og forslag fra MDG
+  - Innstillingen: 50 stemmer
+  - MDG: 17 stemmer
+- Votering på forslag fra Nordaune 'Nytt forslag 4.1.4 leilighetsstørrelse'
+  - Nordaunes forslag: 14 stemmer
+  - Motforslag: 56 stemmer
+- Votering på forslag fra Dyrendahl 'Stryke avsnitt om endring av 4.1.4 boligtyper'
+  - Dyrendahls forslag: 18 stemmer
+  - Motforslag: 49 stemmer
+- Votering på innstillingen 'Endring i §4.1.4 Boligtyper og leilighetssamemmenstetning'
+  - Innstillingen: 8 stemmer
+  - Motforslag: 59 stemmer
+- Votering på Gussiaas forslag 'Endring i §4.1.4 Boligtyper og leilighetssamemmenstetning'
+  - Gussiaas forslag: 45 stemmer
+  - Motforslag: 22 stemmer
+- Votering på innstillingens §4.1.4
+  - Innstillingen: 66 stemmer
+  - Motforslag: 1 stemmer
+- Votering på Nordaunes forslag §7.1 Faresone deponi
+  - Nordaunes forslag: 18 stemmer
+  - Motforslag: 49 stemmer
+- Votering på innstillingens §7.1 Faresone - deponi
+  - Innstillingen: 49 stemmer
+  - Motforslag: 18 stemmer
+- Votering på Fjørtoft Svarstads §7.1 Faresone - deponi tillegg
+  - Fjørtoft Svarstads forslag: 14 stemmer
+  - Motforslag: 53 stemmer
+- Votering på Gussiaas forslag 'Justert ordlyd i § 3.1.2 Støy for å løse innsigelse fra Statsforvalteren'
+  - Gussiaas forslag: 54 stemmer
+  - Motforslag: 13 stemmer
+- Votering på Nordaunets forslag 'Utvidelse av Leangenbroa'
+  - Nordaunets forslag: 18 stemmer
+  - Motforslag: 49 stemmer

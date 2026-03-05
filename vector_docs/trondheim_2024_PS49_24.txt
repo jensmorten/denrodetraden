@@ -1,0 +1,22 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 49/24
+rodt_fremmet: False
+---
+
+Tittel: PS 49/2024 Munkvoll borettslag - søknad om kommunal garanti for låneopptak
+
+Vedtak:
+1. Garantiansvaret utgjør inntil 31 772 260 kroner. Garantiansvaret omfatter eksisterende lån på 25 770 785 kroner samt et nytt lån på 6 001 475 kroner. Lånet på 6 001 475 kroner skal benyttes til finansiering av bygging av laderom for el-scootere og rullestoler.
+2. Garantien gjelder for enhver tid gjeldende hovedstol med et tillegg av 10 % for dekning av renter og eventuelle omkostninger.
+3. Garantien gis ved selvskyldnerkausjon.
+4. Lånets løpetid er på maksimalt 22 år, og forfaller til betaling senest innen utgangen av 2046.
+5. Garantien nedtrappes i takt med forutsatt utvikling i hovedforholdet. Garantiansvaret opphører i sin helhet 2 år etter det tidspunktet lånet er forutsatt å være nedbetalt.
+6. Det påhviler mottaker av garantien et ansvar med å sikre at garantien ikke er i strid med kommuneloven. Garantien er ugyldig hvis mottakeren forsto eller burde forstått at den er i strid med kommunelovens § 14-19 første ledd første punktum.
+7. Vedtak erstatter tidligere garantivedtak gjort av bystyret i møte 29.04.2004, sak 62/04.
+8. Bystyrets vedtak skal oversendes Statsforvalteren i Trøndelag for godkjenning.
+
+Voteringer:
+- Votering om innstillingen
+  - For: Enstemmig

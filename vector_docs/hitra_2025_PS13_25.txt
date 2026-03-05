@@ -1,0 +1,11 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 13/25
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av protokoll fra dagens møte
+
+Vedtak:
+Protokollen ble godkjent.

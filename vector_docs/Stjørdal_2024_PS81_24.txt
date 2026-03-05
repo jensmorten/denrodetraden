@@ -1,0 +1,20 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 81/24
+rodt_fremmet: False
+---
+
+Tittel: Orientering om status i arbeidet med BPA-tjenester
+
+Vedtak:
+1. Kommunestyret vedtar Veileder for utmåling av tjenestetimer som vedlagt i saken.
+2. Informasjon om status i arbeidet med BPA-tjenester tas til orientering.
+
+Alternative forslag:
+- Gudrun Lidal (Sosialistisk venstreparti): Saken sendes tilbake til kommunedirektøren for å sette veileder inn i målsetting for innvilgelse av BPA.
+
+Voteringer:
+- Avstemming mellom innstilling og forslag fra Gudrun Lidal (SV)
+  - For forslag 1 (innstilling): 21 stemmer
+  - For forslag 2 (Gudrun Lidals forslag): 14 stemmer

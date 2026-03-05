@@ -1,0 +1,19 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 70/25
+rodt_fremmet: False
+---
+
+Tittel: Vertskommuneavtale for legevakten i Orkdalsregionen
+
+Vedtak:
+Hitra Kommunestyre slutter seg til den framlagte vertskommuneavtalen mellom Orkland kommune (vertskommune) og kommunene i Orklandsregionen om drift av legevakt.
+Utgiftene innarbeides i handlings og økonomiplan (HØP).
+Avtalen trer i kraft 01.01.2026, forutsatt aksept fra alle kommunene i samarbeidet.
+
+Voteringer:
+- Behandling av innstilling fra utvalg helse og omsorg i kommunestyret
+  - For: enstemmig
+- Behandling av innstilling i Utvalg for Helse og Omsorg
+  - For: enstemmig

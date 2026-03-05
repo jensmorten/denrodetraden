@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 117/2024
+rodt_fremmet: False
+---
+
+Tittel: Orientering om utfordringer og behov i tjenester for barn, ungdom og unge voksne
+
+Vedtak:
+Statusmelding om utfordringer og behov tas til orientering.
+
+Voteringer:
+- Avstemning over innstilling: Statusmelding om utfordringer og behov tas til orientering.
+  - For: 37 stemmer

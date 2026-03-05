@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2026
+saksnummer: PS 11/2026
+rodt_fremmet: False
+---
+
+Tittel: Kontrollutvalgets årsrapport for 2025
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsrapport for 2025 til orientering.
+
+Voteringer:
+- Votering over forslag til vedtak om å ta kontrollutvalgets årsrapport for 2025 til orientering.
+  - For forslaget: 34 stemmer

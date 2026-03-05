@@ -1,0 +1,18 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 42/25
+rodt_fremmet: False
+---
+
+Tittel: Årsregnskap og årsberetning 2024 for Hitra kommune
+
+Vedtak:
+Hitra kommunestyre godkjenner Hitra kommunes Årsregnskap 2024 og Årsberetning for 2024 som vist i den digitale årsrapporten 2024.
+Driftsregnskapet er avlagt med en netto avsetning til disposisjonsfond med kr 11,3 mill., mot budsjettert kr 38,8 mill. Regnskapet er oppgjort i balanse.
+
+Voteringer:
+- Behandling av innstillingen i Hitra kommunestyre
+  - Enstemmig vedtak: alle
+- Behandling av innstillingen i Hitra formannskap
+  - Enstemmig vedtak: alle

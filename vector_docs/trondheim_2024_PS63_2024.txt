@@ -1,0 +1,78 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 63/2024
+rodt_fremmet: True
+---
+
+Tittel: Utredningsmandat for mobilitetsanbud 2029
+
+Vedtak:
+Innstillingen unntatt pkt. 1 b, c, d, e, f, i og j ble enstemmig vedtatt. Ved alternativ votering mellom innstillingens pkt. 1b og alternativ forslag fra FrP fikk innstillingen 63 stemmer mot 4 stemmer og ble vedtatt. Ved alternativ votering mellom innstillingens pkt. 1c og alternativ forslag fra FrP fikk innstillingen 63 stemmer mot 4 stemmer og ble vedtatt. Ved alternativ votering mellom innstillingens pkt. 1d og alternativ forslag fra FrP fikk innstillingen 63 stemmer mot 4 stemmer og ble vedtatt. Ved alternativ votering mellom innstillingens pkt. 1e og alternativ forslag fra FrP fikk innstillingen 63 stemmer mot 4 stemmer og ble vedtatt. Rødts alternativ punkt 1 f fikk 12 stemmer mot 55 stemmer og falt. Innstillingens punkt 1 f ble vedtatt med 59 stemmer mot 8 stemmer. Ved alternativ votering mellom innstillingens punkt 1i og forslag fra FrP fikk innstillingen 63 stemmer mot 4 stemmer og ble vedtatt. Ved alternativ votering mellom innstillingens punkt 1j og forslag fra FrP fikk innstillingen 63 stemmer mot 4 stemmer og ble vedtatt. Frøseth Fenes forslag "Gjøre kollektivt mer konkurransedyktig på lengre reiser" fikk 63 stemmer mot 4 stemmer og ble vedtatt. Gjermstad forslag "Vektlegge fremkommelighet" fikk 4 stemmer mot 63 stemmer og falt. Tømmervolds forslag "Ansattrepresentant" fikk 47 stemmer mot 20 stemmer og ble vedtatt. Næss Bergsengs forslag "Utrede gratis kollektivtransport for barn og unge opp til 25 år" fikk 31 stemmer mot 36 stemmer og falt. Frøseth Fenes forslag "Ytre bydeler" ble enstemmig vedtatt. Michelsens forslag "Nye endrede behov" fikk 31 stemmer mot 36 stemmer og falt. Næss Bergsengs "Skinnegående kollektivtransport" fikk 32 stemmer mot 35 stemmer og falt. Mernaden fra Salomonsen fikk tilslutning fra R, Uavh, MDG og ble en mindretallsmerknad.
+
+Alternative forslag:
+- Magni Fjørtoft Svarstad (R): Punkt 1f: Bystyret ønsker primært at det planlegges for fortsatt bussdepot på Sorgenfri. Det bør utredes om Sorgenfritomten kan utvikles slik at man kan kombinere bussdepot og byutvikling der f.eks bussene parkeres i garasje på bakkeplan kombinert med annen bruk i etasjer over. Bussdepotet på Sandmoen utvides for å møte behovet for økt depotkapasitet i tillegg til eksisterende depot.
+- Vegard Frøseth Fenes (SP): Bystyret er opptatt av at kollektivtransport må gjøres mer attraktivt, også på lengre strekninger innad i Trondheim. I dag oppleves det for mange mindre attraktivt å velge kollektivt på de lengre strekningene hvis man har tilgang på bil, i hovedsak på grunn av lang reisetid. Det er ønskelig at det i forbindelse med nytt mobilitetsanbud sees på muligheten for å redusere reisetid på enkelte avganger i rush, for eksempel ved å innføre ekspressavganger eller flere direkteruter.
+- Jostein Eririk Gjermstad (FrP): Punkt 1b strykes.
+- Vegard Frøseth Fenes (SP): Bystyret mener det er viktig å hensynta de ytre bydelene med begrenset kollektivtilbud ved gjennomføring av nytt mobilitetsanbud. Dette kan for eksempel gjøres ved å planlegge flere innfartsparkeringer, samt å gjøre kollektivt til et mer reelt alternativ til bil ved fritidsreiser.
+- Jostein Eririk Gjermstad (FrP): Stryke punkt 1c.
+- Jostein Eririk Gjermstad (FrP): Stryk punkt 1e.
+- Jostein Eririk Gjermstad (FrP): Stryk punkt 1i.
+- Jostein Eririk Gjermstad (FrP): Stryk punkt 1j.
+- Jostein Eririk Gjermstad (FrP): Bystyret mener at punkt 4.2 i utredningsmandatet må ta utgangspunkt i at forskriftskravet kan fravikes, dersom det er nødvendig for å sikre god fremkommelighet og høyest mulig nøyaktighet i kollektivtilbudet.
+- Jostein Eririk Gjermstad (FrP): Bystyret mener utskifting av materiell må skje som en følge av behov for fornying grunnet alder og standard. Overgang til andre energibærere skal ikke være en selvstendig grunn for utskifting av materiell.
+- Kirsti Tømmervold (Ap): Bystyret ber om at ansatterepresentanter er delaktig i prosessen med anbudsoppbygging.
+- Even Næs Bergseng (SV): Nytt punkt: Bystyret ber om en utredning av gratis kollektivtransport for barn og unge opp til 25 år.
+- Even Næs Bergseng (SV): Nytt punkt: Bystyret ber om en utredning av skinnegående kollektivtrafikk, som eventuelt kan settes i gang i den neste anbudsperiode.
+- Ottar Michelsen (SV): Bystyret ber om at dersom det kommer nye og endrede behov i løpet av perioden skal operatøren(e) kun kreve å få dekket merkostnaden og ikke påslag med endrings-/opsjonsgebyr. Dette kan løses med at pris på opsjoner, tillegg og endringer inkluderes når anbudene skal vurderes.
+- Silje Naper Salomonsen (SV): Bystyret forutsetter at bussdepot på Sandmoen må kombineres med parkeringsmulighet i øst og at det skjer på allerede nedbygde grå arealer.
+
+Voteringer:
+- Votering om innstillingen unntatt pkt. 1 b, c, d, e, f, i og j
+  - For: enstemmig
+  - Mot: 0 stemmer
+- Alternativ votering mellom innstillingens pkt. 1b og FrPs forslag
+  - Innstillingen pkt. 1b: 63 stemmer
+  - FrPs forslag: 4 stemmer
+- Alternativ votering mellom innstillingens pkt. 1c og FrPs forslag
+  - Innstillingen pkt. 1c: 63 stemmer
+  - FrPs forslag: 4 stemmer
+- Alternativ votering mellom innstillingens pkt. 1d og FrPs forslag
+  - Innstillingen pkt. 1d: 63 stemmer
+  - FrPs forslag: 4 stemmer
+- Alternativ votering mellom innstillingens pkt. 1e og FrPs forslag
+  - Innstillingen pkt. 1e: 63 stemmer
+  - FrPs forslag: 4 stemmer
+- Votering om Rødts alternativ punkt 1f
+  - Rødts forslag punkt 1f: 12 stemmer
+  - Innstillingen punkt 1f: 55 stemmer
+- Votering om innstillingens punkt 1f
+  - Innstillingen punkt 1f: 59 stemmer
+  - Alternativt: 8 stemmer
+- Alternativ votering mellom innstillingens pkt. 1i og FrPs forslag
+  - Innstillingen pkt. 1i: 63 stemmer
+  - FrPs forslag: 4 stemmer
+- Alternativ votering mellom innstillingens pkt. 1j og FrPs forslag
+  - Innstillingen pkt. 1j: 63 stemmer
+  - FrPs forslag: 4 stemmer
+- Votering om Frøseth Fenes forslag "Gjøre kollektivt mer konkurransedyktig på lengre reiser"
+  - For: 63 stemmer
+  - Mot: 4 stemmer
+- Votering om Gjermstad forslag "Vektlegge fremkommelighet"
+  - For: 4 stemmer
+  - Mot: 63 stemmer
+- Votering om Tømmervolds forslag "Ansattrepresentant"
+  - For: 47 stemmer
+  - Mot: 20 stemmer
+- Votering om Næss Bergsengs forslag "Utrede gratis kollektivtransport for barn og unge opp til 25 år"
+  - For: 31 stemmer
+  - Mot: 36 stemmer
+- Votering om Frøseth Fenes forslag "Ytre bydeler"
+  - For: enstemmig
+  - Mot: 0 stemmer
+- Votering om Michelsens forslag "Nye endrede behov"
+  - For: 31 stemmer
+  - Mot: 36 stemmer
+- Votering om Næss Bergsengs "Skinnegående kollektivtransport"
+  - For: 32 stemmer
+  - Mot: 35 stemmer

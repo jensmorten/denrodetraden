@@ -1,0 +1,29 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 60/25
+rodt_fremmet: True
+---
+
+Tittel: Ny søknad om investeringstilskudd i 2025 og dekning av tidligere merforbruk fra Hitra kirkelige fellesråd
+
+Vedtak:
+
+
+Alternative forslag:
+- Terje Herfjord (PP): Utsettelsesforslag om å utsette behandlingen av saken.
+- Jann O. Krangnes (R): Forslag om å stryke kulepunktet: 'kr 2.197.000 for kompensasjon av tidligere merforbruk.'
+- Ordfører John Lernes (AP): Forslag til nytt punkt 4: Investeringsmidlene utbetales fra Hitra kommune til Hitra kirkelige fellesråd i henhold til etablert praksis. Det vil si når investeringsprosjektene faktisk gjennomføres.
+
+Voteringer:
+- Votering over utsettelsesforslaget fremmet av Terje Herfjord (PP).
+  - For utsettelsesforslaget: 2 stemmer
+  - Imot utsettelsesforslaget: 22 stemmer
+- Votering over forslaget fra Jann O. Krangnes (R) om å stryke kulepunktet om kompensasjon av tidligere merforbruk.
+  - For forslaget: 7 stemmer
+- Votering over forslaget fra ordfører John Lernes (AP) om nytt punkt 4 om utbetaling av investeringsmidler.
+  - For forslaget: 7 stemmer
+- Votering over innstillingen med vedtatte endringer i formannskapet.
+  - For innstillingen: 7 stemmer
+- Votering over innstillingen i kommunestyret etter avvisning av utsettelsesforslaget.
+  - For innstillingen: 24 stemmer

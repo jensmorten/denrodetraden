@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 71/2024
+rodt_fremmet: False
+---
+
+Tittel: Årsrapport Ungdommens bystyre 2023
+
+Vedtak:
+Årsrapport for Ungdommens bystyre 2023 tas til orientering.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

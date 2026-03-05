@@ -1,0 +1,18 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 3/25
+rodt_fremmet: False
+---
+
+Tittel: Merknadsbehandling og egengodkjenning av Reguleringsplan for Kvenvær sentrum gnr 48 bnr 2 m.fl. PlanID 201919
+
+Vedtak:
+1. Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven § 12-12, detaljregulering og VA-plan for Kvenvær sentrum - gnr. 48 bnr. 2 m.fl.
+2. Kommunedirektøren pålegges å kunngjøre godkjenningen på foreskreven måte.
+
+Voteringer:
+- Behandling av innstilling fra teknisk utvalg - plan, landbruk og miljø
+  - For: enstemmig
+- Behandling av innstilling i teknisk utvalg - plan, landbruk og miljø
+  - For: enstemmig

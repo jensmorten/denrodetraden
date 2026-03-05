@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 39/24
+rodt_fremmet: False
+---
+
+Tittel: Psykososialt kriseteam - organisering og struktur
+
+Vedtak:
+Kommunestyre tar saken til orientering.
+
+Voteringer:
+- Avstemning om innstilling fra formannskapet 14.03.2024
+  - For forslaget: 37 stemmer

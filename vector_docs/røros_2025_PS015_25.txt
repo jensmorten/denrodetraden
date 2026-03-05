@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 015/25
+rodt_fremmet: False
+---
+
+Tittel: 015/25 Innstilling av medlem til styre i Røros Vekst As
+
+Vedtak:
+Som styremedlem til Røros Vekst AS så innstiller Røros kommune Atle Femundshytten for 1 års tjenestetid.
+
+Alternative forslag:
+- Valgutvalget: Som styremedlem til Røros Vekst AS så innstiller Røros kommune Atle Femundshytten for 1 års tjenestetid.
+
+Voteringer:
+- Votering over valgutvalgets forslag til styremedlem
+  - Valgutvalgets forslag (Atle Femundshytten): enstemmig

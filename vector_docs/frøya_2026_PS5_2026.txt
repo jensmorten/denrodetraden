@@ -1,0 +1,11 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 5/2026
+rodt_fremmet: False
+---
+
+Tittel: Andre råd og utvalgs orientering
+
+Vedtak:
+Frøya ungdomsråd (FUR) tar orienteringene sine under årsmelding fra Frøya ungdomsråd 2024-2025

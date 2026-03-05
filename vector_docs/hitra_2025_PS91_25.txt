@@ -1,0 +1,20 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 91/25
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg - varamedlem til formannskapet, valgstyret og valgutvalget 2023-2027
+
+Vedtak:
+Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Tor Johan Sagøy (Ap) som nytt varamedlem nummer 4 for gruppen Ap, R, Sp og SV i Hitra formannskap. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Tor Johan Sagøy (Ap) som nytt varamedlem nummer 4 for gruppen Ap, R, Sp og SV i Hitra valgstyre. Hitra kommunestyre vedtar med hjemmel i kommuneloven § 7-10, tredje og sjette ledd, å oppnevne Tor Johan Sagøy (Ap) som nytt varamedlem nummer 4 for gruppen Ap, R, Sp og SV i Hitra valgutvalg. Vedtaket er gjeldende fra vedtaksdato og ut inneværende valgperiode.
+
+Alternative forslag:
+- Ingrid Kathrine Schanche (Sp): Tor Johan Sagøy (Ap) oppnevnes som nytt varamedlem i formannskapet, valgstyret og valgutvalget.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For: enstemmig
+- Votering over forslaget fra Ingrid Kathrine Schanche (Sp)
+  - For: enstemmig

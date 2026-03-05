@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 188/24
+rodt_fremmet: False
+---
+
+Tittel: PS 188/2024 Forskrift om skolefritidsordningen for Trondheim kommune
+
+Vedtak:
+Saken ble utsatt i bystyrets møte 24. oktober 2024.

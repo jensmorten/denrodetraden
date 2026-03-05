@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 190/24
+rodt_fremmet: False
+---
+
+Tittel: PS 190/2024 Medlemsforslag - Mobile politiposter - Elin Marie Andreassen (FrP)
+
+Vedtak:
+Saken ble utsatt i bystyrets møte 24. oktober 2024.

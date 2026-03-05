@@ -1,0 +1,31 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 82/25
+rodt_fremmet: False
+---
+
+Tittel: Klagebehandling - Søknad om konsesjon på eiendommene gnr 207, bnr 5, 6, 9 og gnr 208, bnr 1.
+
+Vedtak:
+Hitra kommunestyre imøtekommer ikke klage på avslag i delegert vedtak i sak 154/25D - søknad om konsesjon på eiendommene gnr 207, bnr 5, 6, 9 og gnr 208, bnr 1.
+Klagen tilfører ikke saken nye momenter som ikke lå til grunn for vedtaket av konsesjonssøknaden.
+Søknad om utsatt boplikt på 5 år, må søkes særskilt i ny konsesjonssøknad.
+Vedtaket gjøres i medhold av forvaltningsloven §33.
+
+Alternative forslag:
+- Kommunedirektør: Innstilling med nytt punkt lagt inn som punkt 3: 1. Hitra kommunestyre imøtekommer ikke klage på avslag i delegert vedtak i sak 154/25D - søknad om konsesjon på eiendommene gnr 207, bnr 5, 6, 9 og gnr 208, bnr 1. 2. Klagen tilfører ikke saken nye momenter som ikke lå til grunn for vedtaket av konsesjonssøknaden. 3. Søknad om utsatt boplikt på 5 år, må søkes særskilt i ny konsesjonssøknad. 4. Vedtaket gjøres i medhold av forvaltningsloven §33. 5. Saken oversendes Statsforvalteren i Trøndelag for endelig avgjørelse, jf. konsesjonsloven §2.
+
+Voteringer:
+- Vedtak om å erklære ordfører John Lernes (Ap) inhabil i saken.
+  - Inhabil: 24 stemmer
+  - Ikke inhabil: 0 stemmer
+- Vedtak om å stryke punkt 5 i innstillingen fra teknisk utvalg - plan, landbruk og miljø.
+  - Stryke punkt 5: 25 stemmer
+  - Beholde punkt 5: 0 stemmer
+- Vedtak om innstillingen fra teknisk utvalg - plan, landbruk og miljø med endring (uten punkt 5).
+  - Vedta innstilling med endring: 25 stemmer
+  - Avvise innstilling: 0 stemmer
+- Vedtak i teknisk utvalg - plan, landbruk og miljø om innstilling med nytt punkt 3 og oversendelse til Statsforvalteren.
+  - Vedta innstilling med nytt punkt 3 og oversendelse: 6 stemmer
+  - Avvise innstilling: 1 stemmer

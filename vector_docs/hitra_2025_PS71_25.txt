@@ -1,0 +1,32 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 71/25
+rodt_fremmet: False
+---
+
+Tittel: Interkommunalt beredskapsråd for Hitra og Frøya kommuner
+
+Vedtak:
+1. Hitra kommunestyre vedtar at kommunen skal inngå i et interkommunalt beredskapsråd for Hitra og Frøya
+2. Det interkommunale beredskapsrådet etableres etter bestemmelsene i Kommunelovens § 17-1. Interkommunalt samarbeid.
+3. Rådet settes sammen av
+a) Ordførere fra begge kommunene, eller deres folkevalgte vararepresentanter
+b) Kommunedirektører fra begge kommunene
+c) Beredskapssjefer fra begge kommunene
+d) Representanter fra politi, brannvesen, helse, sivilforsvar, heimevern, næringsliv og frivillige organisasjoner.
+e) Andre relevante aktører etter behov (eks. havnemyndigheter, energiselskap, selskaper innen digital kommunikasjon osv).
+4. Rådet skal ha følgende formål:
+Det interkommunale beredskapsrådet skal være et rådgivende forum for beredskapsarbeidet i Hitra og Frøya kommuner. Rådet skal bidra til at kommunene styrker evnen til å forebygge, håndtere og lære av uønskede hendelser og kriser som berører begge kommuner.
+5. Rådet skal ha følgende ansvarsområder:
+- Gi innspill i utarbeidelse av kommunenes risiko- og sårbarhetsanalyser (ROS) – både overordnet og på sektornivå.
+- Rådgivende organ til innholdet og oppfølgingen i kommunenes overordnede beredskapsplaner.
+- Gjennomgang av tilsynsrapporter og identifisering av forbedringspunkter.
+- Samarbeide om digitale trusler, infrastruktur og krisehåndtering – inkludert evakuering, EPS-planverk og PLIVO-hendelser
+6. Rådet etableres fra og med 01.01.2026.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet i kommunestyret 30.10.2025
+  - For: Enstemmig
+- Votering over innstillingen i formannskapet 21.10.2025
+  - For: Enstemmig

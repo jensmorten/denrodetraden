@@ -1,0 +1,8 @@
+METADATA:
+kommune: røros
+year: 2026
+saksnummer: PS-010/26
+rodt_fremmet: False
+---
+
+Tittel: 010/26 Interpellasjon til kommunestyret 05.02.2026 - fra heldøgns omsorgstjeneste til sykehjemsplass

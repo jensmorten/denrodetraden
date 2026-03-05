@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 177/2024
+rodt_fremmet: False
+---
+
+Tittel: Trondheim symfoniorkester & opera - oppnevning til valgkomite
+
+Vedtak:
+Ola Lund Renolen velges som medlem i valgkomiteen til Trondheim Symfoniorkester og opera
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: alle

@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 16/2026
+rodt_fremmet: False
+---
+
+Tittel: Totalforsvarsåret 2026. Forberedt på krise og krig
+
+Vedtak:
+1. Kommunestyret vedtar oppfølging av plan for Totalforsvarsåret 2026.
+2. Kommunestyret bevilger kr. 104 737 for oppfølging av investeringer og aktiviteter i 2026. Bevilgningen tas fra disposisjonsfondet.
+3. Driftsutgifter for VHF og Starlink legges inn i økonomiplan- og handlingsplan for 2027 – 2030.
+
+Voteringer:
+- Vedtak av Totalforsvarsåret 2026: Forberedt på krise og krig
+  - For: Enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 62/24
+rodt_fremmet: False
+---
+
+Tittel: Redegjørelse for Meråker kommunes uttreden av VR Forvaltningskontor
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 18.04.2024 om at saken tas til orientering.
+  - For forslaget: 36 stemmer

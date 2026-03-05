@@ -1,0 +1,29 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 215/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 215/2024 HØP 2025-2028
+
+Vedtak:
+Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2025-2028 og budsjett 2025, med de endringer som fremgår av tilleggsinnstilling I og II og budsjettforslag fra Sentrum-Høyre og Fremskrittspartiet. Partienes verbalforslag som ikke ble vedtatt gjennom flertalsvedtaket, blir av forretningsutvalget over nyttår fordelt til utvalgene for innstilling til bystyret.
+
+Alternative forslag:
+- Silje Naper Salomonsen (SV) på vegne av R og SV: Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2025-2028 og budsjett 2025, med de endringer som fremgår av tilleggsinnstilling I og II og budsjettforslag fra SV og Rødt.
+- Berit Tiller (H) på vegne av H, FrP, KrF, MDG, PP, SP, V: Sentrum-Høyre og Fremskrittspartiets forslag til handlings-og økonomiplan 2025 - 2028.
+- Emil Raaen (Ap): Arbeiderpartiets forslag til budsjett 2025 og HØP 2025-2028.
+
+Voteringer:
+- Votering på innstillingen
+  - Innstillingen: 0 stemmer
+- Votering på SVs og Rødt sitt budsjettforslag
+  - SVs og Rødt sitt budsjettforslag: 12 stemmer
+  - Motforslag: 55 stemmer
+- Votering på Arbeiderpartiets budsjettforslag
+  - Arbeiderpartiets budsjettforslag: 30 stemmer
+  - Motforslag: 37 stemmer
+- Votering på Sentrum-Høyre og Fremskrittspartiets budsjettforslag
+  - Sentrum-Høyre og Fremskrittspartiets budsjettforslag: 37 stemmer
+  - Motforslag: 30 stemmer

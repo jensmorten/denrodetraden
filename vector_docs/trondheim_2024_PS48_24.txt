@@ -1,0 +1,42 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 48/24
+rodt_fremmet: True
+---
+
+Tittel: PS 48/2024 Revidering Stein Saks Papir - temaplan for sterke barne- og ungdomsfellesskap
+
+Vedtak:
+Bystyret vedtar revidert temaplan for sterke barne- og ungdomsfellesskap, Stein Saks Papir.
+Bystyret ber kommunedirektøren følge opp temaplanen med tiltak i kommende handlings- og økonomiplaner, og i enhetsavtaler. Tiltakene vurderes årlig i kvalitetsmeldinger.
+Bystyret ber kommunedirektøren sikre at temaplanen forankres og følges opp blant alle aktører som jobber med barn og unges oppvekst.
+Bystyret ber kommunedirektør i arbeidet med psykisk helse sikre barn og unge rask psykisk helsehjelp i kommunen.
+Bystyret ber kommunedirektør legge til rette for flere gode møteplasser med mulighet for generasjonsmøter.
+Bystyret ønsker at det legges til rette for at det videre arbeidet med temaplan for sterke barne- og ungdomsfellesskap kan implementeres og forankres godt i private og ideelle barnehager og skoler, som i kommunale enheter.
+
+Alternative forslag:
+- Emil Raaen (Ap): Bystyret sender tilbake den reviderte utgaven av Stein Saks Papir for ytterligere revidering. Bystyret ber om at temaplanen utformes som et selvstendig dokument som uttrykker våre strategier for oppvekstfeltet, og at dokumentet i mindre grad relaterer seg til strategiens historiske tilblivelse og bakgrunn. Bystyret mener temaplanens sterke betoning av fellesskap er viktig og riktig. Dagens skjermtid kan utfordre barn og unges tid til å være sammen, bygge relasjoner, speile seg i hverandre, lære mellommenneskelige koder og til å utvikle forståelse for hverandre. Bystyret ber derfor om at det i temaplanen redegjøres nærmere for hvordan vi kan utnytte positive sider av den digitaliserte oppveksten, som for eksempel bruk av pedagogiske eller terapeutiske verktøy, og hvordan vi kan demme opp for de potensielt negative konsekvensene av redusert samvær mellom barn og unge som følge av høy skjermtid.
+- Roald Arentz (R): Bystyret mener Trondheim kommune må prioritere å styrke bemanning rundt barn og unge ytterligere, slik at det blir mulig å gi bedre oppfølging - både sosialt og faglig. Det som trengs i oppvekstsektoren er flere lærere, flere miljøarbeidere, flere helsesykepleiere og et styrka støttesystem.
+- Christiannne Bauck-Larssen (H) på vegne av H, KrF, PP, V, SP: Bystyret ønsker at det legges til rette for at det videre arbeidet med temaplan for sterke barne- og ungdomsfellesskap kan implementeres og forankres godt i private og ideelle barnehager og skoler, som i kommunale enheter.
+- Majen Helen Sævik (KrF) på vegne av KrF, SP, PP, Ap, MDG, H: Bystyret vil presisere at betydningen av lek og vennskap er like viktig i skolen som i barnehagen, både for å motvirke utenforskap og for å fremme gode læringsmiljø og -fellesskap. Evalueringen av seksårsreformen i skolen viser at både barns spontane lek og den lekinspirerte læringen har fått for liten plass i skolen, og da særlig på barnetrinnet.
+- Anbjørg Horgar (SV): Bystyret vil særlig understreke betydningen av å sikre god inkludering av alle barn og unge, og å motvirke økende utenforskap. I tillegg til gode ordninger som sikrer deltakelse for lavinntektsfamilier, mener bystyret at det er en forutsetning at barn og unge også sikres stabile boligforhold slik at de kan beholde nettverket rundt seg.
+- Anbjørg Horgar (SV) på vegne av SV, FrP: Bystyret ber kommunedirektør i arbeidet med psykisk helse sikre barn og unge rask psykisk helsehjelp i kommunen.
+- Anbjørg Horgar (SV): Bystyret ber kommunedirektør legge til rette for flere gode møteplasser med mulighet for generasjonsmøter.
+- Emil Raaen (Ap) på vegne av Ap, KrF: Bystyret mener temaplanens sterke betoning av fellesskap er viktig og riktig. Dagens skjermtid kan utfordre barn og unges tid til å være sammen, bygge relasjoner, speile seg i hverandre, lære mellommenneskelige koder og til å utvikle forståelse for hverandre. Bystyret mener vi må utnytte positive sider av den digitaliserte oppveksten, og samtidig demme opp for de potensielt negative konsekvensene av redusert samvær mellom barn og unge som følge av høy skjermtid.
+
+Voteringer:
+- Votering på Emil Raaens forslag 'Revidering av Stein Saks Papir'
+  - For: 17 stemmer
+  - Mot: 49 stemmer
+- Votering på innstillingen
+  - For: 66 stemmer
+- Votering på Horgars forslag 'Sikre rask psykisk helsehjelp'
+  - For: 45 stemmer
+  - Mot: 22 stemmer
+- Votering på Horgars forslag 'Generasjonsmøter'
+  - For: 45 stemmer
+  - Mot: 22 stemmer
+- Votering på Bauck-Larssens forslag 'Forankring i og inkludering av private barnehager og skoler'
+  - For: 64 stemmer
+  - Mot: 3 stemmer

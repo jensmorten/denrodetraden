@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 126/2025
+rodt_fremmet: False
+---
+
+Tittel: Brannvarslingsanlegg i Sletta Kirke
+
+Vedtak:
+Nytt brannvarslingssystem i Sletta kirke blir installert
+Frøya kommune tildeler et tilskudd på 250.000 kr for gjennomføring av tiltaket
+Tiltaket finansieres over Disposisjonsfondet som har en saldo pr 15.08.2025 på 158.519.990 kr
+
+Voteringer:
+- Vedtak av sak 126/2025 om brannvarslingsanlegg i Sletta Kirke
+  - For: Enstemmig

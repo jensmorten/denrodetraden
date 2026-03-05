@@ -1,0 +1,20 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 041/25
+rodt_fremmet: False
+---
+
+Tittel: Elsykkel Mølmannsdalen - endring av forskrift
+
+Vedtak:
+Saken utsettes for realitetsbehandling
+
+Alternative forslag:
+- Kjell Morten Hansen (Ap): Røros kommune anmoder Miljødirektoratet om forskriftsendring for Møllmannsdalen naturreservat, slik at det tillates bruk av el-sykkel etter veien.
+- Kjell Magnus Krog (H): Saken utsettes for realitetsbehandling
+
+Voteringer:
+- Votering over utsettelsesforslaget fra repr. Krog
+  - For utsettelsesforslaget: 20 stemmer
+  - Mot utsettelsesforslaget: 7 stemmer

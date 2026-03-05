@@ -1,0 +1,19 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 028/25
+rodt_fremmet: False
+---
+
+Tittel: Forslag til detaljregulering for Mattislia hytteområde, PlanID 20220004 – Sluttbehandling
+
+Vedtak:
+Med hjemmel i plan- og bygningslovens § 12-12 avslås forslag til reguleringsplan for Mattislia hytteområde, planid 20220004. Dette begrunnes med at det ikke er ønskelig å tillate bygging i et nytt og utvidet område. Kommunestyret ønsker å redusere arealendringer for å ivareta naturen, det biologiske mangfoldet, kulturlandskapet og bruk av utmarka. Den totale byggingen av fritidsboliger og belastningen i området har over tid blitt for stor. Kommunestyret registrerer at utbygging i området ikke er ønsket av mange naboer og berørte. Slike tydelige innspill i høringsperioden tillegges vekt i den politiske behandlingen av planforslaget.
+
+Alternative forslag:
+- Christian Elgaaen (SV): Med hjemmel i plan- og bygningslovens § 12-12 avslås forslag til reguleringsplan for Mattislia hytteområde, planid 20220004. Dette begrunnes med at det ikke er ønskelig å tillate bygging i et nytt og utvidet område. Kommunestyret ønsker å redusere arealendringer for å ivareta naturen, det biologiske mangfoldet, kulturlandskapet og bruk av utmarka. Den totale byggingen av fritidsboliger og belastningen i området har over tid blitt for stor. Kommunestyret registrerer at utbygging i området ikke er ønsket av mange naboer og berørte. Slike tydelige innspill i høringsperioden tillegges vekt i den politiske behandlingen av planforslaget.
+
+Voteringer:
+- Votering mellom endringsforslaget fra repr. Elgaaen (SV) og innstillingen i saken.
+  - Endringsforslaget fra repr. Elgaaen (SV): 15 stemmer
+  - Innstillingen i saken: 12 stemmer

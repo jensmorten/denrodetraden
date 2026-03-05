@@ -1,0 +1,41 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 195/24
+rodt_fremmet: True
+---
+
+Tittel: Forskrift om skolefritidsordningen for Trondheim kommune
+
+Vedtak:
+Bystyret vedtar forskrift om skolefritidsordning for Trondheim kommune slik den framgår av saksframlegget/vedlegget med de endringer som fremkom i voteringene.
+
+Alternative forslag:
+- Merete Letnes Ødegaard (U): Alternativt forslag til paragraf 8, andre kulepunkt: SFO er stengt på fem planleggingsdager og i uke 28 og 29 i sommerferien. Skolen kan i samråd med brukerråd beslutte å holde stengt også uke 30. Julaften, nyttårsaften og onsdag før skjærtorsdag stenger SFO kl. 12.00, dersom ikke annet er bestemt. Åpningstiden besluttes av rektor i samråd med brukerråd.
+- Ottar Michelsen (SV): Alternativ til § 8 punkt 1, skolen sørger for at ønsket tidspunkt for barn som har gratis plass meldes inn: Den daglige åpningstiden skal være innenfor tidsrommet 07.00-17.00, tilpasset behovet ved de enkelte skolene. Skolen sørger for at ønsket tidspunkt for barn som har gratis plass meldes inn og at endringer av dette har samme tidsfrister som oppsigelsestiden. Endring av åpningstider skal drøftes i brukerråd.
+- Ottar Michelsen (SV): Alternativ § 8 punkt 5 og 6 (slås sammen): de skolefrie ukene i sommer-, høst- og vinterferie har barn med oppholdstid inntil 12 timer per uke tilgang til tre hele dager i SFO. I sommerferien kan dagene samles sammen til hele uker så lenge maksimalt antall dager ikke overskrides. Skolen bestemmer selv tidsfrister for når det må varsles hvordan dagene skal brukes.
+- Ottar Michelsen (SV): Tillegg § 8 punkt 4, Avvikes når det er tungtveiende grunner: Dette kan avvikes når det er tungtveiende grunner for det.
+- Magni Fjørtoft Svarstad (R): § 5. Opptaksperiode, oppsigelse og endring, pkt. 4: Kommunen kan si opp plassen ved manglende betaling, men skal først gå i dialog med foresatte for å utarbeide en nedbetalingsavtale eller utsettelse av betaling.
+- Mona Berger (SV): Utsettelsesforslag: På bakgrunn av nye saksopplysninger rundt kostnadsberegninger av forslag i saken lagt frem muntlig av byråden i bystyremøte, ber bystyret om et notat som belyser kostnaden og utsetter saken.
+
+Voteringer:
+- Votering på utsettelsesforslag fra Mona Berger (SV)
+  - For utsettelse: 30 stemmer
+  - Mot utsettelse: 37 stemmer
+- Votering på forskriftens § 1-4, § 5 kulepunkt 1-3 og 5, § 6-7, § 8 kulepunkt 3 og 4 samt § 9 - 10
+  - For vedtak: enstemmig
+- Alternativ votering mellom forskriftens § 8 kulepunkt 2 og alternativ forslag fra SV
+  - Forskriftens § 8 kulepunkt 2: 54 stemmer
+  - Alternativt forslag fra SV: 13 stemmer
+- Alternativ votering mellom forskriftens § 8 kulepunkt 2 og forslaget fra Uavh.
+  - Forslaget fra Uavh.: enstemmig
+  - Forskriftens § 8 kulepunkt 2: 0 stemmer
+- Alternativ votering mellom forskriftens § 8 kulepunkt 5 og 6 og alternativ forslag fra SV
+  - Forskriftens § 8 kulepunkt 5 og 6: 55 stemmer
+  - Alternativt forslag fra SV: 12 stemmer
+- Alternativ votering mellom forskriftens § 5 kulepunkt 4 og alternativ forslag fra R
+  - Forskriftens § 5 kulepunkt 4: 54 stemmer
+  - Alternativt forslag fra R: 13 stemmer
+- Votering på SVs tilleggsforslag
+  - For tilleggsforslag: 17 stemmer
+  - Mot tilleggsforslag: 50 stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 34/25
+rodt_fremmet: False
+---
+
+Tittel: Bolig- og utviklingsfond - Retningslinjer og statutter for bruk av fondet
+
+Vedtak:
+Hitra kommunestyre vedtar vedlagte forslag til vedtekter for kommunens bolig- og utviklingsfond.
+Hitra formannskap gis fullmakt til å bevilge midler fra fondet iht. vedtatte beløpsgrense, i til enhver tid gjeldende delegeringsreglement, så lenge dette er i tråd med fondets retningslinjer.
+I forbindelse med avleggelse av årsresultatet gis det en økonomisk status for fondet med saldo og bevegelser gjennom foregående år.
+
+Voteringer:
+- Behandling av innstillingen i kommunestyret 28.05.2025
+  - Enstemmig vedtak: alle
+- Behandling av innstillingen i formannskapet 13.05.2025
+  - Enstemmig vedtak: alle

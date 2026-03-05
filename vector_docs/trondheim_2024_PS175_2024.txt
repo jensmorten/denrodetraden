@@ -1,0 +1,36 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 175/2024
+rodt_fremmet: False
+---
+
+Tittel: Valg av forliksrådsmedlemmer og møtefullmektiger for forliksrådet for perioden 01.01.2025 - 31.12.2028
+
+Vedtak:
+
+
+Alternative forslag:
+- Berit Tiller (H) på vegne av H, FrP, KrF, MDG, PP, SP, V, SV, Ap: Faste forliksrådsmedlemmer:
+Leder: Åse Åberg (H)
+Terje Roel (Ap)
+Nora Stein Baustad (SP)
+Varamedlemmer:
+Jostein Eirik Gjermstad(FrP)
+Espen Agøy Hegge (KrF)
+Nisrin El Morabit (SV)
+Møtefullmektiger:
+Anne Sophie Hunstad (Ap)
+Gunnar Halstadtrø (H)
+Aage Borrmann (Ap)
+Bente Dyrseth (H)
+Arne Ivar Denstad (KrF)
+Urda Brende (H)
+Gro Eide (H)
+Bjørn Onseid (H)
+Haakon Gussiaas (H)
+Svein Otto Nilsen (PP)
+
+Voteringer:
+- Votering over innstillingen
+  - For innstillingen: enstemmig

@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 72/2024
+rodt_fremmet: False
+---
+
+Tittel: Representantforslag - Positive tiltak for sjøfugl - Aurora Meland Winger (MDG)
+
+Vedtak:
+Saken utsettes.

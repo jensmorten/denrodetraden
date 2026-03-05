@@ -1,0 +1,22 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 25/24
+rodt_fremmet: False
+---
+
+Tittel: Kommunestyre- og fylkestingsvalget 2023 - evaluering og endring i antall stemmekretser
+
+Vedtak:
+Evaluering av kommunestyre- og fylkestingsvalget 2023 tas til orientering.
+Følgende stemmekretser vil være tilgjengelige ved Stortingsvalget 2025:
+Elvran og Lånke krets slås sammen til Lånke stemmekrets
+Forradal, Skjelstadmark og Hegramo krets slås sammen til Hegra stemmekrets
+Haraldreina og Halsen krets slås sammen til Halsen stemmekrets.
+Kvislabakken og Fosslia krets slås sammen til Stokkan stemmekrets
+Skatval stemmekrets
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 08.02.2024
+  - For forslaget: 34 stemmer
+  - Imot forslaget: 1 stemmer

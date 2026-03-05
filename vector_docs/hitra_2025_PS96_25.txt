@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 96/25
+rodt_fremmet: False
+---
+
+Tittel: Hitra kontrollutvalgs års- og møteplan 2026
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets års- og møteplan 2026 til orientering.
+
+Voteringer:
+- Behandling av innstillingen fra kontrollutvalget
+  - For: enstemmig

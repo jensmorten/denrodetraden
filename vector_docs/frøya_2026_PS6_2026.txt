@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 6/2026
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding fra Frøya ungdomsråd 2024-2025
+
+Vedtak:
+Kommunestyret tar Frøya ungdomsråds årsmelding til orientering.
+
+Voteringer:
+- Vedtak om å ta Frøya ungdomsråds årsmelding til orientering
+  - For: Enstemmig

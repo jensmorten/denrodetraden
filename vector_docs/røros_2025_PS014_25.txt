@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 014/25
+rodt_fremmet: False
+---
+
+Tittel: 014/25 Suppleringsvalg - varamedlem - råd for personer med nedsatt funksjonsevne
+
+Vedtak:
+Som varamedlem i råd for personer med funksjonsnedsettelser for gjenværende del av periode 2023-2027 velges Li Söderhielm.
+
+Alternative forslag:
+- Valgutvalget: Som varamedlem i råd for personer med funksjonsnedsettelser for gjenværende del av periode 2023-2027 velges Li Söderhielm.
+
+Voteringer:
+- Votering over valgutvalgets forslag til vedtak
+  - For: enstemmig

@@ -1,0 +1,11 @@
+METADATA:
+kommune: røros
+year: 2026
+saksnummer: PS-002/26
+rodt_fremmet: False
+---
+
+Tittel: 002/26 Orienteringer
+
+Vedtak:
+Orienteringen tas til orientering.

@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 212/24
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg for Rødt - utflytting
+
+Vedtak:
+5. varamedlem i byutviklingsutvalget for SV: Mariel Kjønnøy
+4. varamedlem i oppvekst- og kulturutvalget for SV: Tarjei Fiske Fjalestad
+2. varamedlem i helse- og velferdsutvalget for Rødt: Mariel Kjønnøy
+2. varamedlem i finans- og organisasjonsutvalget for Rødt: Tarjei Fiske Fjalestad
+Stiftelsen Trondhjem borgerlige realskole: Anniken Lien van Marion
+
+Voteringer:
+- Innstillingen ble vedtatt
+  - For: enstemmig

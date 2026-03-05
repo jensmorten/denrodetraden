@@ -1,0 +1,22 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 57/24
+rodt_fremmet: False
+---
+
+Tittel: Behandling av klager på vedtatt plan 2-063 Hell arena
+
+Vedtak:
+1. Stjørdal kommune finner grunn til å ta klage nr 7 fra Per Morten Bjerkli til følge.
+2. Saken legges fram for kommunestyret, med følgende forslag til endring av reguleringsbestemmelsene: I pkt 6.2E endres teksten fra «Før igangsettelsestillatelse kan gis for byggetiltak innenfor planen, skal det være opparbeidet ny gang- og sykkelveg langs Fv 705 fra Bjørgmyran til kryss med Kv 8095 Frigårdsveien.» til «Før igangsettelsestillatelse kan gis for byggetiltak innenfor område BAA, skal det være opparbeidet ny gang- og sykkelveg langs Fv 705 fra Bjørgmyran til kryss med Kv 8095 Frigårdsveien.» Vedtaket fattes i henhold til plan- og bygningsloven § 12-14.
+3. Stjørdal kommune finner ikke grunn til å ta klage nr 1-6, fra Ingeborg Aune, Jullum velforening, Frigårdens venner, Naturvernforbundet i Stjørdal og Meråker og Birdlife Stjørdal, Gunnhild Østerås og Mari-Ann Bidtnes til følge.
+Kommunedirektøren gis fullmakt til å sende mottatte klager til Statsforvalteren, såfremt det ikke kommer nye klager på endringsvedtaket.
+
+Alternative forslag:
+- Jan Inge Kaspersen (Arbeiderpartiet): ['1. Stjørdal kommune finner ikke grunn til å ta klage nr 7 fra Per Morten Bjerkli til følge.', 'Kommunedirektøren gis fullmakt til å sende mottatte klage til Statsforvalteren, såfremt det ikke kommer nye klager på endringsvedtaket.', '2. Stjørdal kommune tar klage nr 1-6, fra Ingeborg Aune, Jullum velforening, Frigårdens venner, Naturvernforbundet i Stjørdal og Meråker og Birdlife Stjørdal, Gunnhild Østerås og Mari-Ann Bidtnes til følge.', 'Vedtak i sak 124/23, områdereguleringsplan for Hell arena, med plan-ID 2-063 oppheves og fremmes som ny sak til Kommunestyret.']
+
+Voteringer:
+- Votering mellom innstilling og alternativt forslag fra Jan Inge Kaspersen (Arbeiderpartiet)
+  - Forslag 1 (Innstilling): 23 stemmer
+  - Forslag 2 (Alternativt forslag Jan Inge Kaspersen): 14 stemmer

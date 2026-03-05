@@ -1,0 +1,28 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 26/25
+rodt_fremmet: False
+---
+
+Tittel: PS 26/25 Anmodning om tilleggsfinansiering investeringer kirkebygg
+
+Vedtak:
+
+
+Alternative forslag:
+- Bjørn Jensen på vegne av gruppen Ap, SV, Sp, R: 1. Hitra kommunestyre innvilger ikke søknad fra Hitra Kirkelige Fellesråd om tilleggsfinansiering på kr. 3.132.023 til prosjekt 6574 Oppgradering og rehabilitering av kirkebygg.
+2. Dersom Hitra Kirkelige Fellesråd vurderer at det fortsatt foreligger behov for finansiering av uforutsette og nødvendige vedlikeholdstiltak, eller for tiltak som er igangsatt, men ennå ikke ferdigstilt, skal det fremmes en særskilt søknad til Hitra kommunestyre. Søknaden må baseres på en konkret beskrivelse av det enkelte tiltak, inkludert kostnadsoverslag og annen relevant dokumentasjon som kan underbygge behovet for midlene.
+3. Som i innstillingen.
+
+Voteringer:
+- Votering over innstillingens punkt 1 mot forslag fra gruppen Ap, SV, Sp, R
+  - Innstillingen: 11 stemmer
+  - Forslag fra gruppen Ap, SV, Sp, R: 14 stemmer
+- Votering over punkt 2 i opprinnelig innstilling
+  - Punkt 2 i opprinnelig innstilling: 0 stemmer
+- Votering over nytt punkt 2, forslag fra H, FrP, Pp mot forslag fra Ap, SV, Sp, R
+  - Forslag fra H, FrP, Pp: 11 stemmer
+  - Forslag fra Ap, SV, Sp, R: 14 stemmer
+- Votering over innstillingen punkt 3
+  - Innstillingen punkt 3: enstemmig

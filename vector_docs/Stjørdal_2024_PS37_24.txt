@@ -1,0 +1,16 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 37/24
+rodt_fremmet: False
+---
+
+Tittel: Handlingsplan - Hjemmetjenesten 2030
+
+Vedtak:
+Kommunedirektøren bes kartlegge om årsakene til Meråker kommunes uttreden av VR-samarbeidet har sammenheng med nivåene på vedtak som fattes av Forvaltningskontoret, og evaluere vår egen forvaltningspraksis.
+Handlingsplan Hjemmetjenesten 2030 tas til orientering.
+
+Voteringer:
+- Avstemning over innstillingen
+  - For: 37 stemmer

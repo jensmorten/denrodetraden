@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 060/25
+rodt_fremmet: False
+---
+
+Tittel: 060/25 Økonomi-, finans- og innkjøpsreglement
+
+Vedtak:
+Økonomi- finans og innkjøpsreglement for Røros kommune vedtas
+
+Voteringer:
+- Innstillingen i saken ble enstemmig vedtatt.
+  - For: alle

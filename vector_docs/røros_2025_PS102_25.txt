@@ -1,0 +1,24 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 102/25
+rodt_fremmet: False
+---
+
+Tittel: 102/25 Vertskommunesamarbeid barnehagemyndighet
+
+Vedtak:
+1. Kommunedirektøren gis fullmakt til å inngå avtale med Trondheim kommune om vertskommunesamarbeid for barnehagemyndighet i tråd med vedlagt utkast til avtale
+2. Kommunedirektøren bes videredelegere følgende myndighet til Trondheim kommune ved byrådet ved inngåelsen av en avtale om vertskommunesamarbeid:
+a. Barnehageloven:
+- § 53 tilsyn med barnehager
+- § 10 første ledd barnehagemyndighetens ansvar
+- §§ 6, 14 og 15 godkjenning av barnehager
+- § 26 tredje ledd, dispensasjon fra kravet om grunnbemanning i andre ledd
+b. Forskrift om pedagogisk bemanning og dispensasjon:
+- § 2 midlertidig dispensasjon fra norm for pedagogisk bemanning
+- § 3 midlertidig dispensasjon fra utdanningskravet og kravet om norskferdigheter
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: alle stemmer (enstemmig)

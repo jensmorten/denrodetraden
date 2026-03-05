@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 2/2026
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av protokoll fra møtet 15.12.25
+
+Vedtak:
+Godkjenning av protokoll fra møtet 15.12.25 godkjennes som fremlagt
+
+Voteringer:
+- Godkjenning av protokoll fra møtet 15.12.25
+  - For: Enstemmig

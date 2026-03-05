@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 98/2024
+rodt_fremmet: False
+---
+
+Tittel: Måloppnåelse i Miljøpakken 2023
+
+Vedtak:
+Stjørdal kommune tar rapporten Måloppnåelse i Miljøpakken 2023 til orientering.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 29.08.2024 om å ta rapporten Måloppnåelse i Miljøpakken 2023 til orientering.
+  - For: 37 stemmer

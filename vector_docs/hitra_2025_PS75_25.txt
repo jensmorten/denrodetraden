@@ -1,0 +1,23 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 75/25
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjonsrapport - Økonomisk bærekraft
+
+Vedtak:
+Kommunestyret tar forvaltningsrevisjonsrapport om økonomisk bærekraft til orientering.
+Kommunestyret ber kommunedirektøren følge opp anbefalingene i rapporten:
+a. Sørge for å tydeliggjøre sammenheng mellom overordnet planverk og handlings- og økonomiplanen.
+b. Utarbeide styrende dokumentasjon for budsjettprosessen.
+c. Sørge for å dokumentere usikkerheten som årsbudsjett og økonomiplan bygger på.
+d. Vurdere kommunens handlingsregler med tanke på at de skal gjenspeile hva som skal til for å oppnå en forsvarlig langsiktig økonomisk utvikling.
+e. Planlegge budsjett ut ifra egne pålagte handlingsregler.
+f. Utarbeide budsjettforslag som ivaretar økonomisk handleevne over tid, eksempelvis synliggjøre hvordan nye investeringer påvirker investerings- og driftsbudsjettet for hele investeringsperioden.
+Kommunestyret ber kommunedirektøren gi kontrollutvalget skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 15.05.2026.
+
+Voteringer:
+- Vedtak av innstilling fra kontrollutvalget
+  - Enstemmig vedtatt: alle

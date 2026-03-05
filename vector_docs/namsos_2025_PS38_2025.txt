@@ -1,0 +1,62 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 38/2025
+rodt_fremmet: False
+---
+
+Tittel: Virksomhetsrapportering 1. tertial 2025
+
+Vedtak:
+Virksomhetsrapportering for 1. tertial 2025 tas til orientering.
+Budsjettendringer for drifts- og investeringsbudsjett 2025 vedtatt som foreslått.
+Ekstra beredskapstillegg til veterinærer i vaktområdet vedtatt finansiert via disposisjonsfond.
+Kommunestyret ber om bred prosess for ny veterinæravtale fra 01.01.2026.
+Krav om reduksjon av driftskostnader med 100 millioner kroner eller mer vedtatt.
+Igangsatt prosess for omorganisering og nedbemanning fortsetter med mål om minst 40 årsverk redusert innen utgangen av 2025.
+Kommunestyret orienteres om fremdrift i tertialrapporter.
+Tilleggsforslag vedtatt:
+{'tekst': 'Kommunestyret ber om at det gjennomgående blir utøvd tilbakeholdenhet med hensyn til både ansettelser og innkjøp, for å oppnå ønsket målsetting om reduksjon av årsverk og et budsjett i balanse.'}
+{'tekst': 'Kommunestyret legger til grunn at investeringer blir tydelig vurdert, spesielt med hensyn til konsekvenser for driftseffektivitet og samfunnsutvikling.'}
+{'tekst': 'Namsos Kommune skal ta aktiv rolle i å gjøre kommuneplanens arealdel kjent, med mål om klarering av havbrukslokaliteter i 2025-2027, med forventet engangsinntekt på inntil 20 millioner.'}
+{'tekst': 'Utrede konkurranseutsetting av kino med mål om minimum balanse i tjenesten.'}
+{'tekst': 'Innvandrertjenesten: a) Kommunen bosetter ikke flere personer med store særskilte behov i 2025.'}
+{'tekst': "Innvandrertjenesten: b) Vurdere internt utviklingsarbeid NAV/Innvandrertjenesten for rekruttering, eksempelvis 'Gullbilletten'."}
+{'tekst': 'Kommunestyret imøteser fremleggelse av konkrete vurderinger og konsekvenser for kostnadsreduksjon, inkludert delrapport fra konsulenter i oktober, og ber om at vurderingene legges inn i kommende budsjettplan.'}
+
+Alternative forslag:
+- Nils Sigurd Klykken (Høyre): Namsos kommune må redusere driftskostnadene med 100 millioner Kroner eller mer, for å oppnå kommunes økonomiske måltall på minimum netto driftsmargin på 2%. Kommunestyret ber derfor om at igangsatt prosess for omorganisering, og at nedbemanningsprosess av administrativt- og merkantilt ansatte, leder-, spesialist- og rådgiverstillinger, samt øvrige støttefunksjoner, fortsetter. I tillegg må det vurderes om tjenester, som ikke omfatter lovpålagte tjenester, er økonomisk og kvalitativt hensiktsmessig å fortsatt levere som en kommunal tjeneste. Herunder ligger tjenester som eiendomsforvaltning og drift, renhold, økonomi, lønn og regnskap, IT og lignende, uten at listen er uttømmende eller spesifikk for tjenestene det kan gjelde. Årsverk innen andre tjenesteområder, som av andre grunner blir overtallig, skal også reduseres. Målsetningen skal være at antall årsverk skal være planlagt redusert tilsvarende minst 40 årsverk innen utgangen av 2025 og effektuert i løpet av første halvår 2026, som en del av økonomiplan 2026 og et budsjett i balanse. Kommunestyret orienteres om fremdriften i tertialrapporter fremover.
+- Nils Sigurd Klykken (Høyre): Kommunestyret ber om at det gjennomgående blir utøvd tilbakeholdenhet med hensyn til både ansettelser og innkjøp, for å oppnå ønsket målsetting om reduksjon av årsverk og et budsjett i balanse.
+- Nils Sigurd Klykken (Høyre): Kommunestyret legger til grunn at investeringer blir tydelig vurdert, spesielt med hensyn til konsekvenser for driftseffektivitet og samfunnsutvikling.
+- Nils Sigurd Klykken (Høyre): Nå når kommuneplanens arealdel er vedtatt, forventes det at Namsos Kommune tar en aktiv rolle i å både gjøre planverket kjent for aktuelle partnere. Det er en målsetting at man innen utgangen av 2025 skal en havbrukslokalitet klarert og ytterligere klarering av en lokalitet innarbeides i 2026. I 2027 er det en målsetting om å klarere videre to lokaliteter. Totalt vil dette samlet kunne gi en samlet engangsinntekt de neste årene på inntil 20 millioner, i tillegg til økte overføringer fra havbruksfondet.
+- Nils Sigurd Klykken (Høyre): Utrede konkurranseutsetting av kino, med en målsetning om minimum å gå i balanse med tjenesten.
+- Nils Sigurd Klykken (Høyre): Innvandrertjenesten a) Kommunen bosetter ikke flere personer med store særskilte behov i 2025.
+- Nils Sigurd Klykken (Høyre): Innvandrertjenesten b) Vurdere internt utviklingsarbeid NAV/Innvandrertjenesten, som for eksempel “Gullbilletten”, for å bidra til å rekruttere personer som har sosiale utbetalinger til stillinger i kommunen.
+- Fredrik Steinsvik (Venstre): Kommunestyret imøteser fremleggelse av konkrete vurderinger og konsekvenser på alle områder for å redusere kostnader, inkludert de som er skissert i denne saken og delrapport fra konsulentene i oktober. Kommunestyret ber om at vurderingene legges inn i kommende budsjettplan, som skal søkes å leveres i balanse.
+- Anita Volden (Fremskrittspartiet): Endring av åpningstid for helsestasjon for ungdom på mandag og onsdag fra kl.16-18.
+
+Voteringer:
+- Votering på tilleggsforslag fra Nils Sigurd Klykken (Høyre) om reduksjon av driftskostnader med 100 millioner kroner eller mer og videreføring av nedbemanningsprosess.
+  - For: 20 stemmer
+  - Imot: 13 stemmer
+- Votering på tilleggsforslag fra Nils Sigurd Klykken (Høyre) om tilbakeholdenhet med ansettelser og innkjøp.
+  - For: 33 stemmer
+- Votering på tilleggsforslag fra Nils Sigurd Klykken (Høyre) om tydelig vurdering av investeringer.
+  - For: 33 stemmer
+- Votering på tilleggsforslag fra Nils Sigurd Klykken (Høyre) om aktiv rolle i havbrukslokaliteter og forventet inntekt.
+  - For: 28 stemmer
+  - Imot: 5 stemmer
+- Votering på tilleggsforslag fra Nils Sigurd Klykken (Høyre) om utredning av konkurranseutsetting av kino.
+  - For: 29 stemmer
+  - Imot: 4 stemmer
+- Votering på tilleggsforslag fra Nils Sigurd Klykken (Høyre) om at kommunen ikke bosetter flere personer med store særskilte behov i 2025.
+  - For: 21 stemmer
+  - Imot: 12 stemmer
+- Votering på tilleggsforslag fra Nils Sigurd Klykken (Høyre) om vurdering av internt utviklingsarbeid NAV/Innvandrertjenesten.
+  - For: 33 stemmer
+- Votering på tilleggsforslag fra Fredrik Steinsvik (Venstre) om fremleggelse av konkrete vurderinger og konsekvenser for kostnadsreduksjon.
+  - For: 31 stemmer
+  - Imot: 2 stemmer
+- Votering på forslag fra Anita Volden (Fremskrittspartiet) om endring av åpningstid for helsestasjon for ungdom.
+  - For: 4 stemmer
+  - Imot: 29 stemmer

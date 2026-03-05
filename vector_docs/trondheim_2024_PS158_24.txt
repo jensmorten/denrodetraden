@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 158/24
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering av Jakobslivegen 7 og Tunvegen 5 og 5A, sluttbehandling
+
+Vedtak:
+Bystyret sender saken tilbake for behandling i byrådet, etter ønske fra tiltakshaver.
+
+Alternative forslag:
+- Erling Moe: Bystyret sender saken tilbake for behandling i byrådet, etter ønske fra tiltakshaver.
+
+Voteringer:
+- Votering over Mos tilbakesendingsforslag
+  - For: enstemmig

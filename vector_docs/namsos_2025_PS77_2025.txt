@@ -1,0 +1,37 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 77/2025
+rodt_fremmet: False
+---
+
+Tittel: Prioritering av spillemidler for idrett og friluftsliv 2026 - Namsos kommune
+
+Vedtak:
+Namsos kommune prioriterer følgende søknader til spillemidler i 2026 for de to kategoriene ordinære anlegg og nærmiljøanlegg:
+Ordinære anlegg
+Planlagt byggestart i 1000 kr.
+Prioritet Anleggsnavn Søker
+1 Klubbhus/lager, Sævik golfbane Namsos golfklubb 2025 208
+2 Lyngen elgbaneanlegg Namdalseid JFF 2025 1 313
+3 Vestbyen 11'er Gullvikmoen kunstgressbane Ferdigbygd idrettslag 2 880
+4 Namsos turnhall Namsos turnforening 2026 13 142
+5 Namsos klatrehall Namsos turnforening 2026 3 574
+6 Namsos basishall Namsos turnforening 2026 6 043
+7 Rehabilitering lysløype Vemundvik IL 2025 1185
+8 Lagerbygg Vemundvik IL 2026 330
+9 Rehabilitering lysanlegg, Namdalseid IL 2026 405
+10 Kleppen kunstgressbane Ferdigbygd kommune 3 000
+11 Oasen svømmehall Ferdigbygd kommune 2024 37 670
+Nærmiljøanlegg
+Planlagt byggestart i 1000 kr
+Prioritet Anleggsnavn Søker
+1 Aktivitetsområde Bekkadalen (Fossbrenna) Velforening 2025 27
+2 Plassen aktivitetsområde Elvalandet IL 2026 348
+Hjemmel for vedtaket er:
+Kommunal handlingsplan for idrett og friluftsliv 2025-2028, Namsos kommune
+Bestemmelser om tilskudd til anlegg for idrett og fysisk aktivitet - 2025
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak om prioritering av spillemidler for idrett og friluftsliv 2026
+  - For: 34 stemmer

@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 200/24
+rodt_fremmet: False
+---
+
+Tittel: Stokkåsen, gnr 39 bnr 73, 74, 75 m.fl, detaljregulering til sluttbehandling
+
+Vedtak:
+Saken ble utsatt i møtet 21. november 2024.

@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 97/24
+rodt_fremmet: False
+---
+
+Tittel: PS 97/2024 Kvalitetsmelding skole 2023
+
+Vedtak:
+Saken utsettes.
+
+Voteringer:
+- Behandling av utsettelse av saken
+  - Utsettelse: ukjent

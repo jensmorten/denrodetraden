@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 22/2026
+rodt_fremmet: False
+---
+
+Tittel: None
+
+Vedtak:
+Arbeid med sykefravær og rekruttering til barnehagene
+Arbeidet med bolig/boligsosial plan
+Utviklingsprosess NAV
+Ny fondsforvalter
+Tilfluktsrom Frøya
+Interkommunalt samarbeid

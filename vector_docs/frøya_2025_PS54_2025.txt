@@ -1,0 +1,19 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 54/2025
+rodt_fremmet: False
+---
+
+Tittel: ROP-boliger - Lovlighetskontroll
+
+Vedtak:
+Kommunestyret tar begjæring om lovlighetskontroll til etterretning. Saken sendes tilbake til Kommunedirektøren som bes besvare de angitte punktene i saken. Ny behandling av saken skal skje i neste kommunestyre 5. juni 2025.
+
+Alternative forslag:
+- Olaf Reppe: Kommunestyret tar begjæring om lovlighetskontroll til etterretning. Saken sendes tilbake til Kommunedirektøren som bes besvare de angitte punktene i saken. Ny behandling av saken skal skje i neste kommunestyre 5. juni 2025.
+
+Voteringer:
+- Votering over forslag fra Olaf Reppe
+  - For: 22 stemmer
+  - Mot: 1 stemmer

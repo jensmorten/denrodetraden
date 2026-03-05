@@ -1,0 +1,47 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 54/25
+rodt_fremmet: False
+---
+
+Tittel: PS 54/25 Revidert Handlings- og økonomiplan 2025-2028
+
+Vedtak:
+Hitra kommunestyre vedtar revidert handlings- og økonomiplan 2025-2028 med følgende endringer for nedtrekk:
+a. Kommunestyret vedtar at nedtrekkene i området oppvekst og området helse og omsorg skal skje på administrative nivåer, og ikke gå utover det tjenesteytende personalet i direkte brukerrettet arbeid.
+b. For å minske merforbruket innen rammeområde 2 og 3 skal administrative stillinger omorganiseres til tjenesteytende stillinger i direkte brukerrettet arbeid (fylle vakante stillinger).
+c. Et nedtrekk skal ikke ramme lærlinger.
+d. Ikke-lovpålagte tiltak i rammeområde 2, 3 og 5 skal opprettholdes.
+e. Hitra kommune jobber for heltidsstillinger, og dette bør reflekteres i nedtrekk.
+f. Nedtrekk pr rammeområder
+R00 279.00
+R01 1.479.500
+R02 1.334.000
+R03 1.204.000
+R04 44.000
+R05 227.000
+R06 432.500
+
+Hitra kommunestyre vedtar å søke Husbanken om ytterligere kr 14.000.000 i Startlånmidler i 2025.
+
+Alternative forslag:
+- Ingrid Schanche (Sp) på vegne av gruppen Ap, R, Sp og SV: Hitra kommunestyre vedtar revidert handlings- og økonomiplan 2025-2028 med følgende endringer for nedtrekk:
+a. Kommunestyret vedtar at nedtrekkene i området oppvekst og området helse og omsorg skal skje på administrative nivåer, og ikke gå utover det tjenesteytende personalet i direkte brukerrettet arbeid.
+b. For å minske merforbruket innen rammeområde 2 og 3 skal administrative stillinger omorganiseres til tjenesteytende stillinger i direkte brukerrettet arbeid (fylle vakante stillinger).
+c. Et nedtrekk skal ikke ramme lærlinger.
+d. Ikke-lovpålagte tiltak i rammeområde 2, 3 og 5 skal opprettholdes.
+e. Hitra kommune jobber for heltidsstillinger, og dette bør reflekteres i nedtrekk.
+f. Nedtrekk pr rammeområder
+R00 279.000
+R01 1.479.500
+R02 1.334.000
+R03 1.204.000
+R04 44.000
+R05 227.000
+R06 432.500
+
+Voteringer:
+- Votering over formannskapets innstilling mot forslaget fra gruppen Ap, R, Sp, SV
+  - Formannskapets innstilling: 12 stemmer
+  - Forslaget fra gruppen Ap, R, Sp, SV: 13 stemmer

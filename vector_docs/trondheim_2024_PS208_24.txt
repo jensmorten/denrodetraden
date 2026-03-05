@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 208/24
+rodt_fremmet: False
+---
+
+Tittel: Medlemsforslag - Innkjøpsstopp for Tesla så lenge arbeidskonflikt pågår - Roald Arentz (R)
+
+Vedtak:
+Saken ble utsatt i møtet 21. november 2024.

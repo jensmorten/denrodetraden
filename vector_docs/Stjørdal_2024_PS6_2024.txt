@@ -1,0 +1,11 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 6/2024
+rodt_fremmet: False
+---
+
+Tittel: Kunnskapsgrunnlag klimaplan - klimagassutslipp, energi, karbonbinding og opptak
+
+Vedtak:
+Saken utsatt til kommunestyremøte 15. februar 2024.

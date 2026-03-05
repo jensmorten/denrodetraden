@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 63/24
+rodt_fremmet: False
+---
+
+Tittel: Innspill til høringsutkast - Rammeplan for kulturskolen - kulturskole for alle
+
+Vedtak:
+Kommunestyret tar saken til orientering og ber kommunedirektøren sende inn høringsuttalelse basert på vurderingene som er gjort i saken.
+
+Voteringer:
+- Avstemning over innstilling fra Utvalg Kultur og Levekår 16.04.2024
+  - For forslaget: 36 stemmer

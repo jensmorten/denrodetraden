@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 132/2024
+rodt_fremmet: False
+---
+
+Tittel: 2.tertial 2024. Økonomirapportering inklusive finansforvaltning
+
+Vedtak:
+Kommunestyret tar vedlagte tertialrapport til orientering.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet 24.10.2024 om å ta vedlagte tertialrapport til orientering.
+  - For: 37 stemmer

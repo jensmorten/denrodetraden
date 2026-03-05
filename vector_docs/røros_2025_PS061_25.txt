@@ -1,0 +1,23 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 061/25
+rodt_fremmet: False
+---
+
+Tittel: 061/25 Endringer av rammeområder i kommunens handlings- og økonomiplaner
+
+Vedtak:
+1: Det fremlagte forslaget til nye rammeområder for kommunens økonomiske forvaltning vedtas med virkning fra 01.01.2026. Handlings- og økonomiplan 2026-2029 skal vedtas innenfor disse rammeområdene.
+2: Nye rammeområder fra 01.01.2026 blir:
+- Organisasjon og strategisk ledelse
+- Politikk og politisk ledelse
+- Samfunn og beredskap
+- Selvkostfinansierte tjenester
+- Oppvekst og inkludering
+- Helse og omsorg
+- Finans
+
+Voteringer:
+- Votering over innstillingen i saken med korrigering av kulepunkt 3 (fjerning av 'kultur' fra 'Kultur, samfunn og beredskap').
+  - For: enstemmig

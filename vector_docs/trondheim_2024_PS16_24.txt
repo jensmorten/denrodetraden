@@ -1,0 +1,11 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 16/24
+rodt_fremmet: False
+---
+
+Tittel: Representantforslag - Fartsputer i busstraséer - Roald Arentz (R)
+
+Vedtak:
+Saken utsatt.

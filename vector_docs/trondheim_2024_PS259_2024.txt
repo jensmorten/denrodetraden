@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 259/2024
+rodt_fremmet: False
+---
+
+Tittel: Gebyrsatser innenfor det tekniske området 2025
+
+Vedtak:
+Innstillingen ble enstemmig vedtatt.
+
+Voteringer:
+- Votering over innstillingen til gebyrsatser innenfor det tekniske området 2025
+  - For: Enstemmig

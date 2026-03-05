@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 76/24
+rodt_fremmet: False
+---
+
+Tittel: Ungdomsrådet årsmelding høst 2023 - vår 2024
+
+Vedtak:
+Årsmelding høst 2023/vår 2024 for Ungdomsrådet tas til orientering.
+
+Voteringer:
+- Avstemning om innstilling: Årsmelding høst 2023/vår 2024 for Ungdomsrådet tas til orientering.
+  - For: 35 stemmer

@@ -1,0 +1,18 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 137/2025
+rodt_fremmet: False
+---
+
+Tittel: Møteplan for hele 2026
+
+Vedtak:
+Møteplan for 2026 med angitte møtedatoer og tidspunkt for Kommunestyret, Formannskapet, Hovedutvalg for samfunn, Trafikksikkerhetsutvalget, Frøya eldre- og brukerråd, Hovedutvalg for levekår, Frøya ungdomsråd og Kontrollutvalget. Møtene er plassert for best mulig saksflyt, med mulighet for avlysning ved få saker, og justering av møtestart ved spesielle tema. Ingen møter i juli pga sommerferie.
+
+Alternative forslag:
+- Aleksander Søreng: Tilleggspunkt fra Hovedutvalg for samfunn strykes.
+
+Voteringer:
+- Votering over forslag til endring i vedtak fremmet av Aleksander Søreng
+  - For: Enstemmig

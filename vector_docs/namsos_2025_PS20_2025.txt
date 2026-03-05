@@ -1,0 +1,21 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 20/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 20/2025 Kvalitetsmelding 2024 for Namsos Opplæringssenter og Innvandrertjenesten i Namsos kommune
+
+Vedtak:
+Kvalitetsmelding 2024 for Namsos Opplæringssenter og Innvandrertjenesten i Namsos kommune tas til orientering.
+
+Alternative forslag:
+- Morten Sommer (Sosialistisk Venstreparti): Kommunestyret vedtar at kommunedirektøren skal evaluere alle løpende rapporteringer og meldinger om tjenestetilbudet til innbyggere fra administrasjonen til kommunestyret, og legge fram forslag til en effektiv og dekkende(lovpålagt) oversikt over alle faste rapporteringer og meldinger gjennom et driftsår.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling om å ta kvalitetsmeldingen til orientering.
+  - For: 35 stemmer
+- Votering over tilleggsforslag fra Morten Sommer (SV) om evaluering og oversikt over rapporteringer.
+  - For: 17 stemmer
+  - Imot: 18 stemmer

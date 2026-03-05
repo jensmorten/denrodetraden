@@ -1,0 +1,43 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 81/24
+rodt_fremmet: False
+---
+
+Tittel: PS 81/2024 Representantforslag - Positive tiltak for sjøfugl - Aurora Meland Winger (MDG)
+
+Vedtak:
+Bystyret vedtok positive tiltak for sjøfugl i Trondheim med følgende punkter:
+- Alle punkter i innstillingen unntatt pkt. 2 og 5 ble enstemmig vedtatt.
+- Pkt. 2 (holdningsskapende arbeid) ble vedtatt med 45 stemmer mot 22.
+- Pkt. 5 (fjerning av fuglepigger) ble vedtatt mot FrPs forslag om å stryke dette punktet med 45 stemmer mot 22.
+- FrPs tilleggsforslag om informasjonsarbeid om at fugler ikke skal mates ble vedtatt med 60 stemmer mot 7.
+- Gorsets tilleggsforslag om å utrede forbud mot mating av fugler og vilt i sentrumsområder ble vedtatt med 59 stemmer mot 8.
+- Næss Bergsengs forslag om forbud mot eggsanking falt med 17 stemmer mot 50.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Nest siste kulepunkt strykes (fuglepigger).
+- Elin Marie Andreassen (FrP): Informasjonsarbeid må også inkludere informasjon om at fugler ikke skal mates, i tråd med informasjon som oppgis på kommunens nettsider.
+- Gjermund Gorset (Ap) på vegne av Ap, SV: - Utrede et forbud mot mating av fugler og vilt i sentrumsområder hjemlet i kommunal forskrift. Det bes innhentes erfaringer fra Bergen kommune sitt forbud, og om dette har gitt ønsket effekt. Geografisk og tidsmessig avgrensning av et slikt forbud bør vurderes i saken.
+- Even Næss Bergseng (SV) på vegne av SV, Ap: Bystyret ber også kommunedirektøren arbeide opp mot nasjonale myndigheter om å utrede et lovforbud mot sanking av sjøfuglegg.
+
+Voteringer:
+- Votering på innstillingen unntatt pkt. 2 og 5
+  - For: enstemmig
+  - Mot: 0 stemmer
+- Votering på innstillingens pkt. 2 (holdningsskapende arbeid)
+  - For: 45 stemmer
+  - Mot: 22 stemmer
+- Alternativ votering mellom innstillingens pkt. 5 (fjerning av fuglepigger) og FrPs forslag om å stryke dette punktet
+  - Innstillingens pkt. 5: 45 stemmer
+  - FrPs forslag (stryke fuglepigger): 22 stemmer
+- Votering på FrPs tilleggsforslag om informasjonsarbeid om at fugler ikke skal mates
+  - For: 60 stemmer
+  - Mot: 7 stemmer
+- Votering på Gorsets tilleggsforslag om å utrede forbud mot mating av fugler og vilt i sentrumsområder
+  - For: 59 stemmer
+  - Mot: 8 stemmer
+- Votering på Næss Bergsengs forslag om forbud mot eggsanking
+  - For: 17 stemmer
+  - Mot: 50 stemmer

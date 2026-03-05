@@ -1,0 +1,22 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 231/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 231/2024 Endring av delegering for klagesaker knyttet til opplæringsloven § 2-6
+
+Vedtak:
+Innstillingens punkt 1 ble vedtatt med 34 stemmer mot 33 stemmer.
+Innstillingens punkt 2 ble enstemmig vedtatt.
+
+Alternative forslag:
+- Ottar Michelsen (SV) på vegne av SV, Ap, R: Alternativ til punkt 1 - beholde politisk behandling av klager: Alle enkeltvedtak om skoleplass og avslag på søknader om skoleplass ved annen skole, kan påklages etter forvaltningslovens bestemmelser om klage på enkeltvedtak, jf opplæringsloven § 29-1. Klagefristen er tre uker etter mottatt vedtak. Skolen ved rektor behandler alle eventuelle klager på vedtak eller avslag på søknader om skoleplass. Dersom skolen opprettholder opprinnelig vedtak, vil saken oversendes via byrådet til klageutvalget for behandling. Dersom klageutvalget opprettholder skolens vedtak, oversendes saken til Statsforvalteren i Trøndelag som fatter endelig vedtak.
+
+Voteringer:
+- Votering mellom innstillingens punkt 1 og fellesforslag fra SV
+  - Innstillingen punkt 1: 34 stemmer
+  - Fellesforslag fra SV: 33 stemmer
+- Votering om innstillingens punkt 2
+  - Innstillingen punkt 2: enstemmig

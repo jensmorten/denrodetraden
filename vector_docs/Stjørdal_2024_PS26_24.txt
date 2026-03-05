@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 26/24
+rodt_fremmet: False
+---
+
+Tittel: Boligsosial handlingsplan 2024-2028 - Planprogram 2024/366
+
+Vedtak:
+Kommunestyret fastsetter forslag til planprogram for boligsosial handlingsplan 2024-2028. Jfr. Vedtatt planstrategi med planprogram for kommuneplanen, k-sak 102/19.
+
+Voteringer:
+- Avstemning om innstilling fra formannskapet 08.02.2024
+  - For forslaget: 35 stemmer

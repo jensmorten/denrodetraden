@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 164/2025
+rodt_fremmet: False
+---
+
+Tittel: Kommunedirektørens orientering
+
+Vedtak:
+Gave på 175 000kr
+Liten orientering rundt barnehagesituasjon
+FREMO
+Høyt leiemarked
+Begynt å sett på fire dagers arbeidsuke

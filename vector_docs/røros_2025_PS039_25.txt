@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 039/25
+rodt_fremmet: False
+---
+
+Tittel: Sak fra kontrollutvalget til behandling i kommunestyret - kontrollutvalgets årsmelding
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsmelding for 2024, til orientering.
+
+Voteringer:
+- Votering om kontrollutvalgets forslag til vedtak
+  - For: enstemmig

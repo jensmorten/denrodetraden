@@ -1,0 +1,30 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 87/25
+rodt_fremmet: False
+---
+
+Tittel: Utredning av kommunal overtakelse av gravplassmyndighet - Hitra kommune
+
+Vedtak:
+Hitra kommunestyre vedtar at det igangsettes en utredningsprosess for kommunal overtakelse av gravferdsmyndigheten i Hitra kommune.
+1. Kommunedirektør gis i oppdrag å gjennomføre de utredninger som er nødvendige for å forberede søknad til statsforvalteren i Vestfold og Telemark om kommunal overtakelse av ansvaret som lokal gravplassmyndighet. Dette innebærer:
+  o eventuelle planer for utvikling av gravplassene i kommunen
+  o en redegjørelse for konsekvensene av oppgaveoverføringen for både kommunen og Hitra kirkelige fellesråd, blant annet anslag på kuttet i oppgaveoverføringen vil medføre i tilskuddet fra kommunen til Hitra kirkelige fellesråd
+  o innhente synspunktene fra Hitra kirkelige fellesråd, arbeidstakerorganisasjoner og andre berørte på en kommunal overtakelse av gravplassmyndigheten
+  o En redegjørelse for arbeidstakernes rettigheter etter arbeidsmiljøloven kapittel 16 om virksomhetsoverdragelse
+  o en oversikt over gravplassene, driftsbygninger, kapeller og seremonilokaler, kjølerom, krematorium (eller avtaler med slike), større anleggsmidler, kulturminner på gravplassene, bevaringsplaner (etter gravplassforskriften § 27) og behovet for investeringer i gravplass-, kjøleroms- og krematoriekapasitet
+  o en oversikt for hvordan driftsansvaret for grøntarealer og parkeringsarealer rundt kirker er tenkt fordelt mellom kommunen som gravplassmyndighet og Hitra kirkelige fellesråd.
+Utredningsprosessen er forventet ferdigstilt innen 1. april 2026, og fremmes så til sluttbehandling i kommunestyret.
+2. Som en del av ansvaret overføres også prosjektet for ferdigstillelse av navnet minnelund til Hitra kommune.
+
+Voteringer:
+- Vurdering av habilitet for Tom Skare (FrP)
+  - Inhabil: 25 stemmer
+- Vurdering av habilitet for Heidi Kristine Fugelsøy (Ap)
+  - Inhabil: 25 stemmer
+- Vedtak av innstilling fra formannskapet i kommunestyret
+  - Vedta innstilling: 23 stemmer
+- Vedtak av innstilling i formannskapet
+  - Vedta innstilling: 7 stemmer

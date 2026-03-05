@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 22/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak og nyvalg av varamedlem fra organisasjonene - mangfoldsrådet
+
+Vedtak:
+Saken utsatt.
+
+Alternative forslag:
+- Kent Ranum (H): Sak 22/24 utsettes.
+
+Voteringer:
+- Votering over utsettelsesforslag fra Kent Ranum (H)
+  - For utsettelse: ukjent
+  - Mot utsettelse: ukjent

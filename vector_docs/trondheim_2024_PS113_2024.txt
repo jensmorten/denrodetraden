@@ -1,0 +1,116 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 113/2024
+rodt_fremmet: False
+---
+
+Tittel: 1. økonomirapport 2024
+
+Vedtak:
+Innstillingen unntatt punkt 6 c ble vedtatt.
+Ved alternativ votering mellom innstillingens punkt 6 c og FrPs alternative forslag ble innstillingen vedtatt.
+Flere tilleggsforslag fra FrP, KrF, H, MDG, SV, R, Ap og andre ble vedtatt eller falt som spesifisert i voteringene.
+
+Alternative forslag:
+- Elin Marie Andreassen (FrP): Omdisponere 30 millioner kroner fra prosjektet Mindre investeringer klimatiltak til bo- og aktivitetstilbudet til innkjøp av kjøretøy, oppgraderinger ved boliger og aktivitetstilbud, samt forsert planlegging og realisering av nye botiltak.
+- Elin Marie Andreassen (FrP): Inntrekk fra kommunens helse- og velferdssenter som ble foretatt i 2024, tilbakeføres til enhetene. Helse- og velferdssentrene styrkes med 17 millioner kroner. Kostnaden belastes disposisjonsfondet.
+- Elin Marie Andreassen (FrP): Inntrekk fra bo- og aktivitetstilbudet som ble foretatt i 2024, tilbakeføres til enhetene. Bo- og aktivitetstilbudet styrkes med 10,5 millioner kroner. Kostnaden belastes disposisjonsfondet.
+- Elin Marie Andreassen (FrP): Bystyret vil ikke akseptere flere spesifiserte tiltak for å komme i økonomisk balanse, inkludert bemanningsreduksjon i barnevern, helseteamet, redusert standard BOA, redusert avlastningstilbud, lavere aktivitetsnivå i sommer/høytider, avvikling av arbeidsnære tiltak og inntaksstopp i aktivitets tilbud.
+- Elin Marie Andreassen (FrP): Bystyret ber om forslag til tiltak for økonomisk balanse, som kutt i tilskudd til profesjonelle kunstnere, kultur- og fritidsaktiviteter, byantikvaren, byarkitekten, samarbeid og nettverk, administrasjon, uspesifiserte tilskuddsmidler, ansettelsesstopp og andre forslag som ikke reduserer tjenestekvalitet innen helse, velferd, bo- og aktivitetstilbud, oppvekst og barnevern.
+- Emil Raaen (Ap): Arbeiderpartiets helhetlige forslag som styrker tjenestene med ca 85 millioner kroner i 2024, reverserer kutt i eldreomsorg, barne- og familietjenester, bo- og aktivitetstilbud, skole og idrett, og finansierer dette med disposisjonsfond.
+- Mona Berger (SV): SV og Rødts alternative forslag til 1. økonomirapport som prioriterer å styrke kommunens tjenestetilbud, unngå kutt som rammer ansatte og tjenestemottakere, beholde midler til brukerrom for rusmiddelavhengige, og bruke disposisjonsfondet til å unngå underbemanning.
+- Ferhat Gûven (H) på vegne av H, KrF, MDG, PP, V, SP: Tilleggsforslag om prioritering av gjennomgang av ikke lovpålagte oppgaver, kartlegging av helse- og velferdskompetanse, og gjennomgang av tjenestetildeling og dimensjonering.
+- Majen Helen Sævik (KrF) på vegne av KrF, H, V, MDG, PP, SP: Tilleggsforslag om at samarbeidet med Livsglede for eldre skal fortsette til tross for kutt i livsgledekoordinator.
+- Majen Helen Sævik (KrF) på vegne av KrF, H, V, PP, MDG, SP: Tilleggsforslag om at oppstart av fritidskortet utsettes med 5 måneder, men at midlene for 2025 ikke reduseres.
+- Line Fjørstad (MDG): Tilleggsforslag om at brukerrom for rusmiddelavhengige må realiseres snarest.
+- Mona Berger (SV) på vegne av SV, R, Ap: Tilleggsforslag om å beholde midler til brukerrom for rusmiddelavhengige og intensivere arbeidet med å finne egnet lokasjon.
+- Mona Berger (SV) på vegne av SV, R: Tilleggsforslag om å sikre tilstrekkelige midler til sosialhjelp og midlertidig bolig.
+- Elin Marie Andreassen (FrP): Tilleggsforslag om at bystyret ikke vil akseptere reduksjon i BPA-tjenester og strengere forvaltningspraksis.
+- Mona Berger (SV): Tilleggsforslag om at budsjett for 2024 balanseres ut mot sentrale bevilgninger og disposisjonsfond.
+
+Voteringer:
+- Votering på SV og Rødts alternative forslag
+  - SV og Rødts alternativ forslag: 13 stemmer
+  - Mot: 54 stemmer
+- Votering på Arbeiderpartiets alternative forslag
+  - Arbeiderpartiets alternative forslag: 30 stemmer
+  - Mot: 37 stemmer
+- Votering på innstillingen unntatt punkt 6 c
+  - Innstillingen unntatt punkt 6 c: 65 stemmer
+  - Mot: 2 stemmer
+- Alternativ votering mellom innstillingens punkt 6 c og FrPs alternative forslag
+  - Innstillingens punkt 6 c: 62 stemmer
+  - FrPs alternative forslag: 5 stemmer
+- Votering på FrPs forslag del 1 'ingen inntrekk på helse- og velferdssenter'
+  - FrPs forslag del 1: 18 stemmer
+  - Mot: 49 stemmer
+- Votering på FrPs forslag del 2 'ingen inntrekk på helse- og velferdssenter'
+  - FrPs forslag del 2: 36 stemmer
+  - Mot: 31 stemmer
+- Votering på FrPs forslag del 1 'ingen inntrekk BOA'
+  - FrPs forslag del 1: 18 stemmer
+  - Mot: 49 stemmer
+- Votering på FrPs forslag del 2 'ingen inntrekk BOA'
+  - FrPs forslag del 2: 36 stemmer
+  - Mot: 31 stemmer
+- Votering på FrPs forslag 'Kuttforslag som ikke kan aksepteres' punkt a
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Votering på FrPs forslag 'Kuttforslag som ikke kan aksepteres' punkt b
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Votering på FrPs forslag 'Kuttforslag som ikke kan aksepteres' punkt c
+  - For: 24 stemmer
+  - Mot: 43 stemmer
+- Votering på FrPs forslag 'Kuttforslag som ikke kan aksepteres' punkt d
+  - For: 24 stemmer
+  - Mot: 43 stemmer
+- Votering på FrPs forslag 'Kuttforslag som ikke kan aksepteres' punkt e
+  - For: 35 stemmer
+  - Mot: 32 stemmer
+- Votering på FrPs forslag 'Kuttforslag som ikke kan aksepteres' punkt f
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Votering på FrPs forslag 'Kuttforslag som ikke kan aksepteres' punkt g
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Votering på FrPs forslag 'Kuttforslag som ikke kan aksepteres' punkt h
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Votering på FrPs forslag 'Kuttforslag som ikke kan aksepteres' punkt i
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Votering på FrPs tilleggsforslag 'Flere kuttforslag'
+  - For: 6 stemmer
+  - Mot: 61 stemmer
+- Votering på KrFs tilleggsforslag 'Livsglede for eldre'
+  - For: 54 stemmer
+  - Mot: 13 stemmer
+- Votering på KrFs tilleggsforslag '5 måneder forsinket'
+  - For: 37 stemmer
+  - Mot: 30 stemmer
+- Votering på Hs tilleggsforslag 'Ikke lovpålagte oppgaver'
+  - For: 64 stemmer
+  - Mot: 3 stemmer
+- Votering på Hs tilleggsforslag 'kartlegging kompetanse'
+  - For: 54 stemmer
+  - Mot: 13 stemmer
+- Votering på Hs tilleggsforslag 'Dimensjonering tjenester'
+  - For: 63 stemmer
+  - Mot: 4 stemmer
+- Votering på MDGs tilleggsforslag 'investering i brukerrom'
+  - For: 67 stemmer
+  - Mot: 0 stemmer
+- Votering på SVs tilleggsforslag 'Brukerrom'
+  - For: 34 stemmer
+  - Mot: 33 stemmer
+- Votering på SVs tilleggsforslag 'Sosialhjelp og midlertidig bolig'
+  - For: 30 stemmer
+  - Mot: 37 stemmer
+- Votering på FrPs tilleggsforslag 'Kuttforslag som ikke kan aksepteres'
+  - For: 8 stemmer
+  - Mot: 59 stemmer
+- Votering på SVs tilleggsforslag 'Inndekning'
+  - For: 35 stemmer
+  - Mot: 32 stemmer

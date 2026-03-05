@@ -1,0 +1,22 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 155/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 155/2025 Andre råd og utvalgs orientering
+
+Vedtak:
+Orientering fra kontrollutvalget:
+- Orientering etter møtet 12.12.25
+- Henvendelse Hitra forvatlingsrevisjon utenforskap
+- Trøndelag brann og redning - forvaltningsrevisjon
+Orientering fra Frøya ungdomsråd (FUR):
+- Deltatt på Ungdommens fylkesting (UFT)
+- Strata med årsmelding
+- BUFDIR tilskuddsordninger barn og unge
+- Innspill ungdomsskolen
+- Ungdomsbasen
+- Synlig i sosiale medier
+- Vising av film fra Ungdommens fylkesting (UFT)

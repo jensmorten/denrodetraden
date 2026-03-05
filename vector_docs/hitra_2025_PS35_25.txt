@@ -1,0 +1,21 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 35/25
+rodt_fremmet: False
+---
+
+Tittel: Hitra borettslag - Søknad om forlengelse av løpetid på lån
+
+Vedtak:
+Hitra kommunestyre godkjenner søknad om forlengelse av løpetid med 8 år for Hitra borettslag sitt eksisterende lån på bygningsmassen og derav utvidelse av Hitra kommunes selvskyldneransvar for lånet med tilsvarende periode.
+Garantien gjelder for gjenværende lånebeløp, kr 13.460.780 pr. 31.12.2024, med tillegg av 10 %, totalt kr 14.806.858.
+Garantien er gyldig fra 01.07.2025, og fremover i 15 år og 6 mnd.
+Garantiansvaret reduseres i takt med nedbetalingen av lånet og opphører etter 15 år og 6 mnd, med tillegg på 2 år, jfr. Garantiforskriftens paragraf 3.
+Garantien må godkjennes av Statsforvalteren i Trøndelag før den er endelig, jfr. Kommuneloven § 14-19, og er ikke gyldig uten en slik godkjenning.
+
+Voteringer:
+- Votering over innstillingen i kommunestyret
+  - For: enstemmig
+- Votering over innstillingen i formannskapet
+  - For: enstemmig

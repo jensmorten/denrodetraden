@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 130/2024
+rodt_fremmet: False
+---
+
+Tittel: Klimaplan 2024 - 2036
+
+Vedtak:
+Klimaplan 2024 – 2036 legges ut på høring og offentlig ettersyn.
+
+Voteringer:
+- Avstemning om innstilling fra formannskapet om å legge Klimaplan 2024 – 2036 ut på høring og offentlig ettersyn.
+  - For: 37 stemmer

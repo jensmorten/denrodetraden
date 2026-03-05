@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 48/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 48/2025 Prinsipper for evaluering av lederstruktur innenfor rammeområdet helse og mestring i prosjektet Robust 2026
+
+Vedtak:
+Kommunestyret støtter de foreslåtte prinsippene for lederstruktur, og gir sin tilslutning til videre prosess for evaluering av lederstrukturen innen helse- og mestringssektoren i tråd med Robust 2026.
+
+Voteringer:
+- Vedtak om støtte til prinsipper for lederstruktur og videre prosess for evaluering innen helse- og mestringssektoren i tråd med Robust 2026
+  - For: Enstemmig

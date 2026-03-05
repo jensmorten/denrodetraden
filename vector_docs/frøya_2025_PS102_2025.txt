@@ -1,0 +1,8 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 102/2025
+rodt_fremmet: False
+---
+
+Tittel: MULIG KJØP AV EIENDOM - ***** ***** Offl. § 13, jf. Fvl. § 13 2. ledd

@@ -1,0 +1,11 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 071/25
+rodt_fremmet: False
+---
+
+Tittel: 071/25 Orienteringer
+
+Vedtak:
+Orienteringene tas til orientering.

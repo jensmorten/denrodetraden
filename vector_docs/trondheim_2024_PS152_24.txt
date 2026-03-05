@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 152/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av meddommere til Frostating langmannsrett for perioden 2025 - 2028
+
+Vedtak:
+Bystyret vedtar valg av 184 meddommere til Frostating lagmannsrett for perioden 01.01.2025-31.12.2028, slik vedlagte liste viser.
+
+Voteringer:
+- Innstillinga ble enstemmig vedtatt.
+  - For: alle

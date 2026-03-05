@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 49/2025
+rodt_fremmet: False
+---
+
+Tittel: Alvhild Finsbergs minne - årsberetning 2024
+
+Vedtak:
+Namsos kommune godkjenner fremlagte regnskap for Alvhild Finsbergs minne for 2024.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling om godkjenning av regnskap for Alvhild Finsbergs minne for 2024
+  - For: 33 stemmer

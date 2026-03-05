@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 70/2025
+rodt_fremmet: False
+---
+
+Tittel: 1. tertialrapport per april 2025 - Økonomi, finans og og sykefravær
+
+Vedtak:
+Kommunestyret tar 1. tertialrapport, 2025 til orientering.
+
+Voteringer:
+- Vedtak om å ta 1. tertialrapport, 2025 til orientering
+  - For: Enstemmig

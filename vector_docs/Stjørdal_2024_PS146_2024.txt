@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 146/2024
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om gebyrer for saksbehandling, kontroll og tilsyn etter forurensningsregelverket for Stjørdal kommune
+
+Vedtak:
+Forskrift om gebyrer for saksbehandling, kontroll og tilsyn etter forurensningsregelverket, Stjørdal kommune vedtas med hjemmel i fvl kap. VII, jf. forurl § 52 a m.v. Forskriften trer i kraft 01. januar 2025.
+
+Voteringer:
+- Votering over innstilling om forskrift om gebyrer for saksbehandling, kontroll og tilsyn etter forurensningsregelverket
+  - For: 37 stemmer

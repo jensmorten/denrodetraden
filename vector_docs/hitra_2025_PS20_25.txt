@@ -1,0 +1,30 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 20/25
+rodt_fremmet: True
+---
+
+Tittel: Rapport fra undersøkelser av bevilgninger gitt til kirkelig fellesråd
+
+Vedtak:
+1. Kommunestyret tar rapport fra undersøkelse av bevilgninger til drift og prosjekter gitt til kirkelig fellesråd for årene 2021-2024 til orientering.
+2. Kommunestyret ber kommunedirektøren følge opp anbefalingene i rapporten:
+a. Innarbeide en rutine der kommunestyret får framlagt soknet sitt regnskap og revisors beretning som en referatsak når dette foreligger.
+b. Være tydelig på hva som bevilges beløpsmessig i vedtak og i tildelingsbrev som sendes til soknet.
+c. Sette klare betingelser for bruken i både vedtak og tildelingsbrev, i tilfeller der kommunestyret har dette.
+d. Vurdere om det er hensiktsmessig å tilby soknet at kommunen yter tjenester og gjennomfører investeringsprosjekt i stedet for å gi tilskudd til dette.
+3. Kommunestyret ber kommunedirektøren om gi kontrollutvalget skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 01.11.2025.
+4. Kommunestyret forholder seg til kommunedirektørens oversikt over vedtatte investeringsmidlet i vedlagte oversikt.
+
+Alternative forslag:
+- Jann O. Krangnes (R) på vegne av flertallsgruppa: Kommunestyret vedtar innstillingen bortsett fra punkt 2 b, som strykes i innstillingen.
+- Ordfører John Lernes (H): Kommunestyret forholder seg til kommunedirektørens oversikt over vedtatte investeringsmidlet i vedlagte oversikt (nytt punkt 4).
+
+Voteringer:
+- Votering over forslag fra Jann O. Krangnes (R) på vegne av flertallsgruppa om å vedta innstillingen bortsett fra punkt 2 b som strykes.
+  - For: 24 stemmer
+- Votering over forslag fra ordfører John Lernes (H) om nytt punkt 4 i innstillingen.
+  - For: 24 stemmer
+- Votering over innstillingen med overnevnte endringer.
+  - For: 24 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 88/24
+rodt_fremmet: False
+---
+
+Tittel: PS 88/2024 Årsrapportering kontrollutvalget 2023
+
+Vedtak:
+Bystyret tar kontrollutvalgets årsrapport for 2023 til orientering.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 78/2025
+rodt_fremmet: False
+---
+
+Tittel: 2.gangs behandling - Verftsgata 28
+
+Vedtak:
+Namsos kommunestyre vedtar detaljregulering for Verftsgata 28, datert 27.05.2025 sist revidert 09.10.2025, med bestemmelser av lik dato og revisjon. Hjemmel for vedtaket er: Plan- og bygningsloven §12-12
+
+Voteringer:
+- Avstemming over innstilling om detaljregulering for Verftsgata 28
+  - For forslaget: 34 stemmer

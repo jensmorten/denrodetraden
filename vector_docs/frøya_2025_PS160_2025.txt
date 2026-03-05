@@ -1,0 +1,21 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 160/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 160/2025 Etablering av Studiesenter Trøndelag Sørvest AS - Eiermodell og finansieringsgaranti
+
+Vedtak:
+Frøya kommune vedtar å etablere Studiesenteret Trøndelag Sørvest AS i henhold til alternativ 1 (Agdenesmodellen) for eiermodell og finansieringsgaranti
+Studiesenteret etableres per tiden med kommunene Frøya, Heim, Hitra, Orkland, Rindal og Surnadal
+Agdenesmodellen baserer seg på folketall + andel frie inntekter pr. innbygger i kommunen. Agdenesmodellen gir følgende fordeling av garantibeløp for eierkommunene første driftsår: Frøya 615.000,-, Heim 573.000,-, Hitra 477.000,-, Orkland 1.613.000,-, Rindal 193.000,-, Surnadal 529.000,-, totalt 4.000.000,-
+Den finansielle garantien gjelder for første driftsår, og det er klare forventninger til styret i Studiesenteret om å jobbe for å få på plass et inntektsgrunnlag for å være levedyktige uten kommunale finansieringsgarantier
+I og med at Studiesenteret også skal være tilgjengelig for de kommunene som ikke er med som eiere, er det en forventning at styret i Studiesenteret ser på et administrasjonsgebyr på enkelte utdanninger hvor man har deltakere fra kommuner som ikke er eiere
+Aksjene i selskapet er ikke omsettelig unntatt ved enstemmighet i generalforsamling, eller ved endelig uttreden for en enkelt eier der eksisterende eiere er villige å overta eierskapet
+Ved en utvidelse av eierskapet til andre kommuner eller private bedrifter gjennomføres dette som en rettet emisjon, hvor verdi skal settes tilsvarende samlet innskutt kapital pr aksje
+
+Voteringer:
+- Vedtak om etablering av Studiesenteret Trøndelag Sørvest AS i henhold til alternativ 1 (Agdenesmodellen) for eiermodell og finansieringsgaranti
+  - For: Enstemmig

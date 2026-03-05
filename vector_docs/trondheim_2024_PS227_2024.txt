@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 227/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 227/2024 B-veger - avvikle offentlig drift og overføre driften til grunneierne
+
+Vedtak:
+Sak 227/24 B-veger - avvikle offentlig drift og overføre driften til grunneierne utsettes.
+
+Alternative forslag:
+- Sara Shafighi (Ap): Sak 227/24 B-veger - avvikle offentlig drift og overføre driften til grunneierne utsettes.
+
+Voteringer:
+- Votering over Shafighis forslag om utsettelse
+  - For utsettelse: 66 stemmer
+  - Mot utsettelse: 1 stemmer

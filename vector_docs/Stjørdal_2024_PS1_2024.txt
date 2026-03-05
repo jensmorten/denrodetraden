@@ -1,0 +1,19 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 1/2024
+rodt_fremmet: False
+---
+
+Tittel: Arbeidsmiljø, ansattmedvirkning og varsling - revisors rapport
+
+Vedtak:
+Kommunestyret tar rapporten til etterretning.
+Kommunestyret ber kommunedirektøren følge opp de avdekkede forbedringspunktene.
+Kommunestyret ber kommunedirektøren legge til rette for at AMU kan diskutere konkrete arbeidsmiljøutfordringer, tiltak og handlinger i kommunens arbeid med helse, miljø og sikkerhet.
+Kommunestyret ber kommunedirektøren sørge for at varslingsrutinene omfatter både administrativt og politisk nivå, og at varslingsrutinene og etiske retningslinjer gis en bred forankring gjennom involvering på både administrativt og på politisk nivå.
+Kommunestyret ber kommunedirektøren skriftlig rapportere til kontrollutvalget om oppfølgingen av rapporten innen 31.05.24.
+
+Voteringer:
+- Avstemning over kontrollutvalgets innstilling til kommunestyret
+  - For innstillingen: 37 stemmer

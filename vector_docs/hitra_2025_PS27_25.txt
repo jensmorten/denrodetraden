@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 27/25
+rodt_fremmet: False
+---
+
+Tittel: PS 27/25 Samarbeidsavtale mellom ST.Olavs hospital HF og Hitra kommune/kommunene i helsefelleskapet i Søndre Trøndelag
+
+Vedtak:
+Kommunestyret i Hitra kommune inngår fremlagte Samarbeidsavtale - St. Olavs hospital HF og kommunene - helsefellesskapet i søndre Trøndelag, med tilhørende retningslinje «Samarbeid om innleggelse og utskrivelse av pasienter med behov for kommunale tjenester». Ny samarbeidsavtale gjelder fra 01.05.2025.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 072/25
+rodt_fremmet: False
+---
+
+Tittel: 072/25 Rapport Trøndersk Matmanifest, en kartlegging av status
+
+Vedtak:
+Rapporten tas til orientering.
+
+Voteringer:
+- Votering over innstillingen om at rapporten tas til orientering.
+  - For: enstemmig

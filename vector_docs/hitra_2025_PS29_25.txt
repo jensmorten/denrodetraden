@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 29/25
+rodt_fremmet: False
+---
+
+Tittel: PS 29/25 Merknadsbehandling og egengodkjenning - endringsforskrift for endring i forskrift om politivedtekt, Hitra kommune, Trøndelag
+
+Vedtak:
+Hitra kommunestyre vedtar enkel lokal endringsforskrift for endring i forskrift om politivedtekt, Hitra kommune, Trøndelag som fremlagt i denne sak. Endringen i § 2-1, andre ledd, innebærer at politiet kan innvilge dispensasjon fra kravet om nattero mellom klokken 23:00 og 06:00. Endringsforskriften oversendes til politidirektoratet for legalitetskontroll, stadfestelse og kunngjøring i Norsk Lovtidend.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

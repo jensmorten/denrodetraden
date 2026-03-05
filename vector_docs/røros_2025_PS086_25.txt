@@ -1,0 +1,24 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 086/25
+rodt_fremmet: False
+---
+
+Tittel: 086/25 Tertialrapport 2 tertial 2025
+
+Vedtak:
+1. Kommunestyret tar tertialrapporten til etterretning og støtter kommunedirektørens skisserte innsparingstiltak som beskrives i den fremlagte rapporten
+2. Følgende budsjettendringer vedtas:
+a. Rammeområde Kultur tilføres 450 000,- . Dette finansieres ved at rammeområdene Oppvekst, Helse og omsorg, Tekniske områder og Stab/støtte samlet reduseres på denne måten:
+i. Stab og støtte reduseres med 45 000,-.
+ii. Oppvekst reduseres med 135 000,-.
+iii. Helse og omsorg reduseres med 135 000,-.
+iv. Tekniske områder reduseres med 135 000,-.
+b. Rammeområde Stab og støtte tilføres 279 000,- for finansiering av redusert foreldrebetaling i private barnehager. Dette finansieres ved at budsjett for rammetilskudd økes tilsvarende.
+c. Rammeområde Oppvekst tilføres 698 000,- for finansiering av redusert foreldrebetaling i kommunale barnehager. Dette finansieres ved at budsjett for rammetilskudd økes tilsvarende.
+d. Rammeområde Helse og omsorg tilføres 291 000 for styrking av fastlegeordningen. Dette finansieres ved at budsjett for rammetilskudd økes tilsvarende.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For: Enstemmig

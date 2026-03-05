@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 089/25
+rodt_fremmet: False
+---
+
+Tittel: Valg av nytt medlem til formannskapet
+
+Vedtak:
+For resten av perioden velges Henrik Grønn som nytt formannskapsmedlem. Som ny siste varamedlem velges Ingvild Feragen Sæther
+
+Alternative forslag:
+- Elin Louise Silderen Tamnes (Ap): For resten av perioden velges Henrik Grønn som nytt formannskapsmedlem. Som ny siste varamedlem velges Ingvild Feragen Sæther
+
+Voteringer:
+- Votering over forslaget fra Røros Arbeiderparti
+  - For: enstemmig

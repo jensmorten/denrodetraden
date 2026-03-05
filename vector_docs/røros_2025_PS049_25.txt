@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 049/25
+rodt_fremmet: False
+---
+
+Tittel: 049/25 Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og saksliste godkjennes.
+
+Voteringer:
+- Ordførers forslag til vedtak om godkjenning av innkalling og saksliste
+  - For: 27 stemmer

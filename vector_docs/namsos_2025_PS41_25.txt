@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 41/25
+rodt_fremmet: False
+---
+
+Tittel: PS 41/2025 Fratredelsesavtale
+
+Vedtak:
+Kommunestyret vedtar framlagt fratredelsesavtale mellom Namsos kommune og Jostein Grimstad.
+
+Voteringer:
+- Votering over forhandlingsutvalgets innstilling om fratredelsesavtale mellom Namsos kommune og Jostein Grimstad.
+  - For: 32 stemmer

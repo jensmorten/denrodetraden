@@ -1,0 +1,19 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 106/2024
+rodt_fremmet: False
+---
+
+Tittel: Sak 106/2024 - Kommunestyrets behandling
+
+Vedtak:
+Saken tas til orientering.
+
+Alternative forslag:
+- Morten Harper (Sosialistisk venstreparti): Saken sendes tilbake til kommunedirektøren. Kommunestyret etterlyser en mer konkret redegjørelse for tiltak som svarer på de manglene forvaltningsrevisjonen «Riktig hjelp til riktig tid» identifiserte.
+
+Voteringer:
+- Votering mellom innstilling og Morten Harpers alternative forslag
+  - Innstilling: 24 stemmer
+  - Morten Harpers alternative forslag: 13 stemmer

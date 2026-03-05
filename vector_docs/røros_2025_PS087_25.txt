@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 087/25
+rodt_fremmet: False
+---
+
+Tittel: 087/25 Søknad om fritak fra verv - Jakob Hjellnes Tidemann
+
+Vedtak:
+På grunn av flytting ut av kommunen gis Jakob Hjellnes Tidemann fritak fra sine politiske verv i Røros kommune for resten av valgperioden.
+
+Voteringer:
+- Votering over forslag om fritak for Jakob Hjellnes Tidemann
+  - For: enstemmig

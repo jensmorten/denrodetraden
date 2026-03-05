@@ -1,0 +1,57 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 7/24
+rodt_fremmet: False
+---
+
+Tittel: Rapport om nedlagte deponier
+
+Vedtak:
+
+
+Alternative forslag:
+- Jenny Nordaune (SV) på vegne av SV, R: Bystyret vedtar at utvikling av nedlagte kommunale avfallsdeponi inkludert randsone til sårbar bebyggelse, som eksempelvis bolig, barnehage, helsebygg, undervisningsbygg ikke skal tillates. Bystyret ber kommunedirektøren gjennomføre nødvendige målinger og risikovurdere situasjonen ved allerede etablerte bygg på og ved deponiene. Bystyret ber kommunedirektøren å legge frem en ny sak med helhetlig forslag til infrastrukturtiltak slik som sikring og overvåkning for de ulike deponiene og randsonene, og hvordan dette kan følges opp.
+- Aurora Meland Winger (MDG): Bystyret ber kommunedirektøren undersøke nærmere hvordan gamle deponier kan utnyttes for ressurser med material- og energigjenvinning, slik at de senere kan brukes som tomter for boliger, sosiale bygg og næring, om nødvendig finansiert av salg. Bystyret ber kommunedirektøren se til andre prosjekter hvor det samme har blitt gjennomført.
+- Aurora Meland Winger (MDG): Bystyret vedtar at utvikling av nedlagte kommunale avfallsdeponi til sårbar bebyggelse, som eksempelvis bolig, barnehage, helsebygg, undervisningsbygg ikke skal tillates. Bystyret ber kommunedirektøren gjennomføre nødvendige målinger og risikovurdere situasjonen ved allerede etablerte bygg på og ved deponiene. Bystyret ber kommunedirektøren å legge frem en ny sak med helhetlig forslag til infrastrukturtiltak slik som sikring og overvåkning for de ulike deponiene og randsonene, og hvordan dette kan følges opp.
+- Håkon Gussiaas (H) på vegne av H, Ap: Pkt. 1: Bystyret vedtar å tillate boligbebyggelse og annen sårbar bebyggelse i randsone til deponi i de områdene som er svært viktige for byutviklingen og i tråd med byutviklingsstrategien og nullvekstmålet. Bygging av andre formål tillates på og i randsone til deponi.
+Pkt. 2: Ved bygging av sårbar bebyggelse på avfallsdeponi, som for eksempel bolig, barnehage, helsebygg og undervisningsbygg, skal avfallet som hovedregel fjernes under bebyggelsen. Areal der deponimasser er fjernet skal betraktes som ordinær byggetomt eller randsone til deponi.
+Pkt. 3: Utvikling på og ved nedlagte deponier vurderes hver for seg, og det må gjøres nødvendige sikringstiltak som hindrer inntrenging av gass fra deponiet inn i bebyggelse i den enkelte reguleringsplan.
+Pkt. 4: Ved opprydding av gamle avfallsdeponier skal muligheten for ombruk og materialgjenvinning utredes og vurderes. Masser som etter opprydding av deponi ikke utgjør risiko for gassproduksjon eller setninger ved nedbryting kan gjenbrukes som fyllmasse under bebyggelse.
+Pkt. 5: Nedlagte avfallsdeponier utgjør en utfordring for flere kommuner, og bystyret ber kommunedirektøren ta initiativ overfor staten for å etablere en nasjonal tilskuddsordning for fjerning av masser.
+Pkt. 6: Bystyret ber kommunedirektøren om å gjennomføre nødvendige målinger og risikovurdering ved allerede etablerte kommunale bygg som ligger på og ved deponiene. I tillegg ber bystyret kommunedirektøren om å legge frem en ny sak med helhetlige forslag til infrastrukturtiltak slik som sikring og overvåkning for de ulike deponiene og randsonene, og hvordan dette kan følges opp. Denne utredningen skal ikke være til hinder for oppstart og behandling av reguleringssaker innenfor faresonen.
+- Roar Aas (H): Bystyret ber også kommunedirektøren vurdere lokale støtteordninger for sanering av deponi. Dette kan være for eksempel et kommunalt fond eller momsfritak. Hensikten er å redusere risiko for utbyggere og samtidig stimulere en raskere gjennomføring.
+
+Voteringer:
+- Votering over Nordaunes forslag
+  - Nordaunes forslag: 13 stemmer
+  - Motforslag: 53 stemmer
+- Votering over Meland Wingers forslag "Kommunedirektørens opprinnelige innstilling"
+  - Meland Wingers forslag: 17 stemmer
+  - Motforslag: 50 stemmer
+- Votering over Innstillingen
+  - Innstillingen: 0 stemmer
+  - Motforslag: 67 stemmer
+- Votering over forslag fra H pkt. 1
+  - Forslag fra H pkt. 1: 51 stemmer
+  - Motforslag: 16 stemmer
+- Votering over forslag fra H pkt. 2
+  - Forslag fra H pkt. 2: 55 stemmer
+  - Motforslag: 12 stemmer
+- Votering over forslag fra H pkt. 3
+  - Forslag fra H pkt. 3: 51 stemmer
+  - Motforslag: 16 stemmer
+- Votering over forslag fra H pkt. 4
+  - Forslag fra H pkt. 4: 55 stemmer
+  - Motforslag: 12 stemmer
+- Votering over forslag fra H pkt. 5
+  - Forslag fra H pkt. 5: 67 stemmer
+- Votering over forslag fra H pkt. 6
+  - Forslag fra H pkt. 6: 60 stemmer
+  - Motforslag: 7 stemmer
+- Votering over Aas forslag "Tillegg til Gussiaas punkt 5. Lokale insitament"
+  - Aas forslag: 24 stemmer
+  - Motforslag: 43 stemmer
+- Votering over Meland Wingers forslag "Rydde opp i gamle synder"
+  - Meland Wingers forslag: 23 stemmer
+  - Motforslag: 44 stemmer

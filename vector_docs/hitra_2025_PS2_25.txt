@@ -1,0 +1,21 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 2/25
+rodt_fremmet: False
+---
+
+Tittel: Merknadsbehandling og egengodkjenning av temaplan Mål og retningslinjer for forvaltning av hjorteviltet i Hitra kommune 2025-2027
+
+Vedtak:
+Hitra kommunestyre egengodkjenner temaplanen Mål og retningslinjer for forvaltning av Hjorteviltet i Hitra kommune 2025-2027.
+
+Voteringer:
+- Vedtak av habilitet for Ingrid Kathrine Schanche (SP)
+  - Enstemmig vedtak: alle
+- Vedtak av habilitet for Bjørg Reitan Bjørgvik (FrP)
+  - Enstemmig vedtak: alle
+- Vedtak av habilitet for Per Ervik (FrP)
+  - Enstemmig vedtak: alle
+- Vedtak av innstilling fra teknisk utvalg - plan, landbruk og miljø
+  - Enstemmig vedtak: alle

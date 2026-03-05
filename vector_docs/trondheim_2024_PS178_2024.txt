@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 178/2024
+rodt_fremmet: False
+---
+
+Tittel: Navneendring for Rådet for personer med funksjonsnedsettelser
+
+Vedtak:
+Bystyret omgjør sitt tidligere navnevedtak for Rådet for personer med funksjonsnedsettelser, og fjerner tillegget (funkisrådet), fra rådets navn.
+
+Voteringer:
+- Votering om innstillingen til navneendring for Rådet for personer med funksjonsnedsettelser
+  - For innstillingen: enstemmig

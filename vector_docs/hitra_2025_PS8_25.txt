@@ -1,0 +1,21 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 8/25
+rodt_fremmet: False
+---
+
+Tittel: Fritak fra folkevalgte verv i Hitra eldreråd 2023-2027
+
+Vedtak:
+1. Hitra kommunestyre, etter kommuneloven § 7-9, innvilger Egil Hestnes fritak fra vervet som medlem og leder av Hitra eldreråd.
+2. Som ny fast representant av rådet velges Ola Rønningen. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode.
+
+Alternative forslag:
+- Sigrid Helene Hansen (H): Ola Rønningen som ny fast representant i Hitra eldreråd
+
+Voteringer:
+- Vedtak av innstilling fra formannskapet i kommunestyret
+  - For: enstemmig
+- Vedtak av forslag til ny fast representant i formannskapet
+  - For: enstemmig

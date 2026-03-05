@@ -1,0 +1,11 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 5/2024
+rodt_fremmet: False
+---
+
+Tittel: Barnas klima- miljørapport 2023
+
+Vedtak:
+Saken utsatt til kommunestyremøte 15. februar 2024.

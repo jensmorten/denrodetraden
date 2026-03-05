@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2025
+saksnummer: PS 51/2025
+rodt_fremmet: False
+---
+
+Tittel: PS 51/2025 Ny sluttbehandling Rådhusgata 8 - Gnr 21 Bnr 203 (planID 5014202104)
+
+Vedtak:
+I henhold til Plan- og bygningsloven §12-12, vedtar Hovedutvalg for samfunn egengodkjenning av forslag til detaljreguleringsplanen for Rådhusgata 8 (PLANID: 5014202104), som vist på planbeskrivelse datert 18.10.2023, planbestemmelser og plankart (V2) datert 03.04.2025. Kommunedirektøren skal etter at saken er egengodkjent forsikre seg om at planen blir digitalisert og gjøre evt. mindre rettinger.
+
+Voteringer:
+- Vedtak av egengodkjenning av forslag til detaljreguleringsplanen for Rådhusgata 8
+  - Enstemmig: alle

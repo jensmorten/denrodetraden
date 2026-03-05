@@ -1,0 +1,20 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 153/24
+rodt_fremmet: False
+---
+
+Tittel: Forslag til skjønnsmedlemmer for perioden 2025 - 2028
+
+Vedtak:
+Bystyret vedtar forslag til 125 skjønnsmedlemmer for perioden 01.01.2025 - 31.12.2028, slik vedlagte liste viser, med den endringen at Berit Bagøisen Mellingsæter erstatter Vibeke Svendsen
+
+Alternative forslag:
+- Erling Moe (V): Vibeke Svendsen har fått ny jobb i Politiet og er derfor ikke valgbar som skjønnsmedlem, og erstattes av Berit Bagøisen Mellingsæter i forslaget.
+
+Voteringer:
+- Votering på innstillinga
+  - For: enstemmig
+- Votering på Moes forslag
+  - For: enstemmig

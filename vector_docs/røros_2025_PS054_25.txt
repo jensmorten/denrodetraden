@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 054/25
+rodt_fremmet: False
+---
+
+Tittel: Klage på vedtatt reguleringsplan for Sollirabben hytteområde, PlanID 20230001
+
+Vedtak:
+Kommunestyret opprettholder kommunens vedtak i sak 24/653-31, detaljregulering av Sollirabben hytteområde fra den 27.03.25. Det foreligger ikke momenter i saken som tilsier en endring av vedtaket. Klagen tas ikke til følge, og saken oversendes Statsforvalteren for endelig avgjørelse.
+
+Voteringer:
+- Innstillingen i saken ble enstemmig vedtatt.
+  - For: alle

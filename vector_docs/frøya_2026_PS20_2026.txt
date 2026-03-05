@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2026
+saksnummer: PS 20/2026
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv - Ivan Løvstrand Strøm
+
+Vedtak:
+Fritak fra vervene innvilges. Aleksander Ulvær velges som 6. varamedlem i kommunestyret. Olaf Reppe velges som 3. varamedlem i hovedutvalg for samfunn.
+
+Voteringer:
+- Vedtak om fritak fra verv og endringer i vararekkene
+  - Enstemmig: alle

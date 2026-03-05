@@ -1,0 +1,24 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 69/25
+rodt_fremmet: False
+---
+
+Tittel: Merknadsbehandling og egengodkjenning - PlanID 202107 - Detaljreguleringsplan Sætra næringspark
+
+Vedtak:
+Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven §§ 12-12 og 12-13, detaljreguleringsplan Sætra næringspark med VA-plan, unntatt de deler som fremgår av temakart i vedlegg 4, samt bestemmelsesområde #2, på følgende vilkår:
+1. Tiltak etter plan- og bygningsloven § 1-6 som ikke er godkjent og ikke i samsvar med endelig vedtatt reguleringsplan må tilbakeføres
+2. Jordflytting skal være i henhold til Veileder til matjordplaner i Trøndelag
+3. Kommunedirektøren og ordfører skal i mekling med Trøndelag fylkeskommune om deres innsigelse til avkjørsel angående adkomstveien KV7 nord i planområdet.
+4. Minimum % BYA settes til 40 i bestemmelse 4.1.2 j i henhold til enighet med Statsforvalteren i Trøndelag for å ivareta kravet om effektiv arealbruk. I bestemmelsen endres «minimum % BYA = 20» til «minimum % BYA = 40»
+5. Det tilføyes ny bestemmelse 4.1.2 bokstav l (eksisterende bestemmelse blir 4.1.2 bokstav m) som lyder: «Brygge markert som revet i plankartet skal flyttes til UNB 6.»
+6. Ordlyden «førende» i eksisterende bestemmelse 4.1.2 bokstav l, ny 4.1.2 bokstav m, erstattes med «bindende».
+7. Bestemmelse 3.6 tilføyes: «Jordflytting skal gjennomføres i henhold til «Veileder til matjordplaner i Trøndelag.»»
+8. Kommunedirektøren pålegges å rette opp plankart og bestemmelser i henhold til godkjent vedtak, samt å kunngjøre godkjenningen på foreskreven måte.
+9. Deler av detaljreguleringen Sætra boligfelt del 1 med planID RB_14 vedtatt 11.06.1976 som blir berørt av ny detaljreguleringsplan Sætra næringspark med planID 202107, inkludert alle senere planendringer, delplaner og tilhørende bestemmelser, oppheves.
+
+Voteringer:
+- Votering over innstillingen fra teknisk utvalg - plan, landbruk og miljø
+  - For: Enstemmig

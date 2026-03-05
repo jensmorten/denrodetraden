@@ -1,0 +1,18 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 83/24
+rodt_fremmet: False
+---
+
+Tittel: PS 83/2024 1. økonomirapport 2024
+
+Vedtak:
+Saken utsettes til 30. mai.
+
+Alternative forslag:
+- Kent Ranum (H): Saken utsettes til 30. mai.
+
+Voteringer:
+- Votering over utsettelsesforslaget fremmet av Kent Ranum (H)
+  - For utsettelse: enstemmig

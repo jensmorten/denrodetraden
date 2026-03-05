@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2025
+saksnummer: PS 99/25
+rodt_fremmet: False
+---
+
+Tittel: Meldingssak - Økonomisk mellomrapportering pr. okt 2025
+
+Vedtak:
+Hitra kommunestyre tar meldingen om økonomisk mellomrapportering per oktober 2025 til orientering.
+
+Voteringer:
+- Votering over innstillingen om økonomisk mellomrapportering per oktober 2025
+  - For: enstemmig

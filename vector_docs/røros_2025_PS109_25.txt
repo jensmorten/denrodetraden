@@ -1,0 +1,16 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 109/25
+rodt_fremmet: False
+---
+
+Tittel: 109/25 Kommunal eiendomsportefølje
+
+Vedtak:
+Status på kommunale bygg og eiendommer tas til orientering.
+Kommunestyret ber om at det legges frem egen sak om salg av kommunale boliger i 2026
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - Formannskapets innstilling: enstemmig

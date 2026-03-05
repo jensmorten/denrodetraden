@@ -1,0 +1,38 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 1/24
+rodt_fremmet: True
+---
+
+Tittel: Barnehagebehovsplan 2023 for perioden 2023-36
+
+Vedtak:
+Innstillingen unntatt pkt. 2 og 8 ble enstemmig vedtatt.
+Ved alternativ votering mellom innstillingens pkt. 2 og alternativ forslag fra FrP fikk innstillingen 30 stemmer (17 Ap, 9 SV, 3 R, INP) og FrPs forslag fikk 37 stemmer (20 H, 4 MDG, 4 FrP, 4 V, 3 PP, KrF, SP) og ble vedtatt.
+Ved alternativ votering mellom innstilling pkt. 8 og Arentz forslag "alternativ pkt. 8" ble innstillingen vedtatt med 37 stemmer (20 H, 4 MDG, 4 FrP, 4 V, 3 PP, KrF, SP) mot 30 stemmer (17 Ap, 9 SV, 3 R, INP).
+Andreassens tilleggsforslag pkt. 10 fikk 9 stemmer (3 MDG, 4 FrP, 1 PP, KrF) mot 58 stemmer (20 H, 17 Ap, 9 SV, 1 MDG, 4 V, 2 PP, 3 R, SP, INP) og falt.
+Eikrems Rindarøys tilleggsforslag ble enstemmig vedtatt.
+Merknad fra MDG, H, KrF, PP, V, SP fikk tilslutning fra Ap, INP, FrP, SV, R og ble en flertallsmerknad.
+
+Alternative forslag:
+- Roald Arentz (R) på vegne av R, SV, Ap: Bystyret mener barnehageloven må endres slik at nedjustering av barnehagekapasiteten kan skje gjennom reduksjon av barnetallet i private barnehager, og ikke bare i kommunale. Kriteriene for avvikling av barnehager i områder med vedvarende overkapasitet skal vurderes ut fra barnehagenes funksjonelle, tekniske, pedagogiske og økonomiske egnethet.
+- Elin Marie Andreassen (FrP) på vegne av FrP, KrF, H, V: Bystyret ber kommunedirektøren arbeide for å utvikle en barnehagedekning og -struktur innenfor en ramme som er bærekraftig, ut fra lærings- og oppvekstmiljø, økonomi, miljø, helse og byutvikling. Mangfold i tilbudet og valgfrihet for barnefamiliene skal vektlegges.
+- Elin Marie Andreassen (FrP) på vegne av FrP, KrF: For private barnehager skal det utredes en ordning med kommunal lånegaranti.
+- Elise Eikrem Rindarøy (MDG) på vegne av MDG, H, KrF, V, SP, PP: Bystyret ber om at kommunen i forkant følger med på om det kommer behov for nye tilrettelegginger og arbeider raskt å tilrettelegge når det dukker opp nye behov.
+- Elise Eikrem Rindarøy (MDG) på vegne av MDG, H, KrF, PP, V, SP: Bystyret understreker at det at nærbarnehager må sikres som reelt alternativ også for barn med nedsatt funksjonsevne, når familiene ønsker det.
+
+Voteringer:
+- Votering over innstillingen unntatt pkt. 2 og 8
+  - Innstillingen unntatt pkt. 2 og 8: enstemmig
+- Alternativ votering mellom innstillingens pkt. 2 og alternativ forslag fra FrP
+  - Innstillingen pkt. 2: 30 stemmer
+  - FrPs forslag pkt. 2: 37 stemmer
+- Alternativ votering mellom innstilling pkt. 8 og Arentz forslag "alternativ pkt. 8"
+  - Innstillingen pkt. 8: 37 stemmer
+  - Arentz forslag "alternativ pkt. 8": 30 stemmer
+- Votering over Andreassens tilleggsforslag pkt. 10 - kommunal lånegaranti
+  - For tilleggsforslaget: 9 stemmer
+  - Mot tilleggsforslaget: 58 stemmer
+- Votering over Eikrems Rindarøys tilleggsforslag om universell utforming
+  - For tilleggsforslaget: enstemmig

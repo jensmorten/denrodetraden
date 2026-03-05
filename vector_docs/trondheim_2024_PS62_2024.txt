@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 62/2024
+rodt_fremmet: False
+---
+
+Tittel: Vedtaksoppfølging våren 2023 - melding til bystyret
+
+Vedtak:
+Saken utsatt.
+
+Voteringer:
+- Behandling av saken
+  - Utsatt: ukjent

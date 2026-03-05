@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2026
+saksnummer: PS-001/26
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og sakliste godkjennes.
+
+Voteringer:
+- Votering over ordfører sitt forslag til vedtak om godkjenning av innkalling og saksliste
+  - Ordførers forslag: 26 stemmer

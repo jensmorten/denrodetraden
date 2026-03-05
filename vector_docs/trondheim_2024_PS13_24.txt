@@ -1,0 +1,19 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 13/24
+rodt_fremmet: False
+---
+
+Tittel: Gudruns gate 9, detaljregulering, r20210035, sluttbehandling
+
+Vedtak:
+Bystyret vedtar forslag til detaljregulering av Gudruns gate 9 som vist på kart i målestokk 1:500, merket Bergersen arkitekter AS senest datert 22.11.2023 med bestemmelser senest datert 27.11.2023 og beskrevet i planbeskrivelsen, senest datert 27.11.2023. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12
+
+Alternative forslag:
+- Jenny Nordaune (SV): Bystyret avviser reguleringsplanen: Bystyret avviser forslag til detaljregulering av Gudruns gate 9 som vist på kart i målestokk 1:500, merket Bergersen arkitekter AS senest datert 22.11.2023 med bestemmelser senest datert 27.11.2023 og beskrevet i planbeskrivelsen, senest datert 27.11.2023. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Ved alternativ votering mellom innstillingen og Nordaunes fellesforslag
+  - Innstillingen: 53 stemmer
+  - Nordaunes fellesforslag: 14 stemmer

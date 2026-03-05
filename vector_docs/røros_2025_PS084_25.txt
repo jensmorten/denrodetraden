@@ -1,0 +1,17 @@
+METADATA:
+kommune: røros
+year: 2025
+saksnummer: PS 084/25
+rodt_fremmet: False
+---
+
+Tittel: 084/25 Detaljregulering for Strømmehagaen - Sluttbehandling
+
+Vedtak:
+1. Røros kommune vedtar forslag til Detaljregulering for Strømmehagen med PlanID 20200014 (jf. Plan og bygningsloven § 12-12), med tilhørende plandokumenter:
+- Planbestemmelser, datert 24.09.25
+2. De deler av reguleringsplanene Skoleområde (PlanID 19560001) og Sentrum (PlanID 19820002) som blir berørt av ny detaljregulering for Strømmehagaen (PlanID 20200014), inkludert alle senere planendringer, delplaner og tilhørende bestemmelser, oppheves.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For: enstemmig

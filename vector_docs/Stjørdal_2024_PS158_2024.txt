@@ -1,0 +1,15 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 158/2024
+rodt_fremmet: False
+---
+
+Tittel: Selskapsavtale for Konsek Trøndelag fra 1. januar 2025
+
+Vedtak:
+Kommunedirektørens forslag til vedtak: Kommunestyret vedtar ny selskapsavtale for Konsek Trøndelag fra 1. januar 2025.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak om ny selskapsavtale for Konsek Trøndelag fra 1. januar 2025
+  - For: 37 stemmer

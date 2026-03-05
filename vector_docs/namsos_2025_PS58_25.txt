@@ -1,0 +1,17 @@
+METADATA:
+kommune: namsos
+year: 2025
+saksnummer: PS 58/25
+rodt_fremmet: False
+---
+
+Tittel: PS 58/2025 Samarbeidsavtale Namdal IUA
+
+Vedtak:
+1.Kommunestyret vedtar «Samarbeidsavtale – Kommunalt oppgavefellesskap om beredskap mot akutt forurensning i Namdal»
+2.Som Namsos kommunes medlem i representantskapet i resten av valgperioden (2025-2027) velges: Svein Storø
+3.Som Namsos kommunes varamedlem i representantskapet i resten av valgperioden (20205-2027) velges: Steinar Lyngstad og Silje Sandnes
+
+Voteringer:
+- Votering over innstillingen til kommunestyret
+  - For: 35 stemmer

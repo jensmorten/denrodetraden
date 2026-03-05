@@ -1,0 +1,15 @@
+METADATA:
+kommune: trondheim
+year: 2024
+saksnummer: PS 226/2024
+rodt_fremmet: False
+---
+
+Tittel: Avvikling av Miljølab
+
+Vedtak:
+Saken ble vedtatt utsatt under konstitueringen av møtet.
+
+Voteringer:
+- Vedtak om utsatt behandling av saken
+  - Utsatt: ukjent

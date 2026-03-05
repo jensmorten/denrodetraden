@@ -1,0 +1,23 @@
+METADATA:
+kommune: stjørdal
+year: 2024
+saksnummer: PS 115/2024
+rodt_fremmet: False
+---
+
+Tittel: Intern forvaltningsrevisjon - Enhet kompetanse og koordinering "Forvaltningskontoret"
+
+Vedtak:
+Kommunedirektøren bes om å følge opp de forbedringspunkter rapporten beskriver.
+Det bes spesielt om at den juridiske kompetansen ved Forvaltningskontoret vurderes styrket, men dog innenfor vedtatte budsjettrammer.
+Rapporten tas for øvrig til orientering
+
+Alternative forslag:
+- None: Det bes spesielt om at den juridiske kompetansen ved Forvaltningskontoret vurderes styrket, men dog innenfor vedtatte budsjettrammer.
+
+Voteringer:
+- Avstemning over innstilling: Kommunedirektøren bes om å følge opp de forbedringspunkter rapporten beskriver. Rapporten tas for øvrig til orientering.
+  - For: 37 stemmer
+- Avstemning over forslag: Det bes spesielt om at den juridiske kompetansen ved Forvaltningskontoret vurderes styrket, men dog innenfor vedtatte budsjettrammer.
+  - For: 26 stemmer
+  - Imot: 11 stemmer
