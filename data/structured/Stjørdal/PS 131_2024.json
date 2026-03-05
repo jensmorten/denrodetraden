@@ -1,0 +1,45 @@
+{
+  "tittel": "Ny varslingsrutine pr. 01.06.2024",
+  "innstilling": "Kommunestyret vedtar rutine for varsling av kritikkverdige forhold etter arbeidsmiljølovens kap. 2A – varsling, og mandat varslingssekretariat.",
+  "vedtak": "Kommunestyret vedtar rutine for varsling av kritikkverdige forhold etter arbeidsmiljølovens kap. 2A – varsling, og mandat varslingssekretariat. Varsel som retter seg mot Kommunedirektøren, skal håndteres i arbeidsgiverutvalget som anbefalt i KS Varslingsveileder.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Varsel som retter seg mot Kommunedirektøren, skal håndteres i arbeidsgiverutvalget som anbefalt i KS Varslingsveileder."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om rutine for varsling og mandat varslingssekretariat",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "A/B votering om håndtering av varsel mot Kommunedirektøren",
+      "alternativer": [
+        {
+          "navn": "Alternativt forslag: Varsel skal håndteres i arbeidsgiverutvalget",
+          "stemmer": 37
+        },
+        {
+          "navn": "Innstilling: Varsel skal håndteres av ordfører",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Alternativt forslag: Varsel skal håndteres i arbeidsgiverutvalget",
+      "roedt_stoettet": "Alternativt forslag: Varsel skal håndteres i arbeidsgiverutvalget",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 131/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -27,35 +27,35 @@
       ],
       "hvem_vant": "Forslag 1 (Innstilling)",
       "roedt_stoettet": "Forslag 2 (Aspmodal, Ap)",
-      "roedt_paa_vinner_side": false
+      "roedt_side": "taper"
     },
     {
       "beskrivelse": "Kommunestyret forventer videre at det gjøres tiltak som bringer individuell tilrettelagt opplæring på nivå med våre sammenlignbare kommuner.",
       "alternativer": [
         {
-          "navn": "Innstilling",
+          "navn": "For innstillingen",
           "stemmer": 26
         },
         {
-          "navn": "Imot innstilling",
+          "navn": "Imot innstillingen",
           "stemmer": 11
         }
       ],
-      "hvem_vant": "Innstilling",
-      "roedt_stoettet": "Innstilling",
-      "roedt_paa_vinner_side": true
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_side": "vinner"
     },
     {
       "beskrivelse": "Tilleggsforslag fra Idar Aspmodal (Ap) om viktigheten av arbeid mot mobbing.",
       "alternativer": [
         {
-          "navn": "For tilleggsforslag",
+          "navn": "For tilleggsforslaget",
           "stemmer": 37
         }
       ],
-      "hvem_vant": "For tilleggsforslag",
-      "roedt_stoettet": "For tilleggsforslag",
-      "roedt_paa_vinner_side": true
+      "hvem_vant": "For tilleggsforslaget",
+      "roedt_stoettet": "For tilleggsforslaget",
+      "roedt_side": "vinner"
     }
   ],
   "kommune": "stjørdal",
