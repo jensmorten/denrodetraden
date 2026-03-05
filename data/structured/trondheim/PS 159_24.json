@@ -1,0 +1,125 @@
+{
+  "tittel": "PS 159/2024 Del av Brøset med tilliggende veger, detaljregulering, sluttbehandling",
+  "innstilling": "Bystyret vedtar forslag til detaljregulering av Del av Brøset med tilliggende veger, som vist på kart i målestokk 1:1000, merket Norconsult og Add arkitekter senest datert 15.5.2024 med bestemmelser senest datert 15.5.2024 og beskrevet i planbeskrivelsen, senest datert 15.5.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12. Nytt punkt legges til: • Der normen gir krav om minst 10 sykkelparkeringsplasser skal det for virksomheter være garderobe med dusjfasiliteter for ansatte.",
+  "vedtak": "Bystyret vedtar forslag til detaljregulering av Del av Brøset med tilliggende veger, som vist på kart i målestokk 1:1000, merket Norconsult og Add arkitekter senest datert 15.5.2024 med bestemmelser senest datert 15.5.2024 og beskrevet i planbeskrivelsen, senest datert 15.5.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12. Nytt punkt legges til: • Der normen gir krav om minst 10 sykkelparkeringsplasser skal det for virksomheter være garderobe med dusjfasiliteter for ansatte.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV) på vegne av SV, R, Uavh.",
+      "tekst": "Reguleringsbestemmelse § 4.1.8 Boligsammensetning får følgende tillegg: Ettromsleilighetene skal være på minst 30 m²."
+    },
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV) på vegne av SV, R",
+      "tekst": "4.1.14 Følgende punkter endres til følgende: Parkeringsdekning for bil skal være: • Bolig, felt BS1, BS2, BS3, BS4, BS5: Maksimum 0,3 p-plasser pr. 70 m² BRA eller boenhet • Bolig, felt B1, B4: Maksimum 0,5 p-plasser pr. 70 m² BRA eller boenhet • Bolig, felt B2, B3: Maksimum 0,5 p-plasser pr. 70 m² BRA eller boenhet"
+    },
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV) på vegne av SV, R",
+      "tekst": "4.1.14 Følgende punkter endres til følgende: • Kontor: maks. 1 p-plasser per påbegynt 1000 m² BRA. • Forretning: Maks. 1 p-plasser pr. 100 m² BRA • Privat tjenesteyting: Maks. 0,5 p-plasser pr. 100 m² BRA"
+    },
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV) på vegne av SV, R",
+      "tekst": "4.1.14 Følgende punkt endres: • Minst 12,5 prosent av sykkelparkeringen skal være for sykkelvogner og lastesykler, og være minst 1 m x 2,6 m"
+    },
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV) på vegne av SV, R",
+      "tekst": "4.1.14 Nytt punkt legges til: • Der normen gir krav om minst 10 sykkelparkeringsplasser skal det for virksomheter være garderobe med dusjfasiliteter for ansatte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over Næss Bergsengs forslag \"Krav til minstestørrelse på ettromsleilighetene\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 53
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over Næss Bergsengs forslag \"Endret forslag til privatparkering\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 54
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over Næss Bergsengs forslag \"Endret forslag til bilparkering for kontor, forretning og tjenesteyting\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 54
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over Næss Bergsengs forslag \"Økt andel plasser for sykkelvogner og lastesykler\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 44
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over Næss Bergsengs forslag \"Punkt om garderobe\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 43
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "PS 159/24",
+  "rodt_fremmet_forslag": false
+}

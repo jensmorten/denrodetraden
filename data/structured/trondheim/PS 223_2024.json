@@ -1,0 +1,30 @@
+{
+  "tittel": "PS 223/2024 Fritak eiendomsskatt 2024",
+  "innstilling": [
+    "Bystyret innvilger fritak for eiendomsskatt etter eiendomsskatteloven § 7 bokstav a for eiendommene som er vist i vedlegget “fritaksliste_7a_2024”.",
+    "Bystyret fjerner vedtak om fritak for eiendomsskatt etter eiendomsskatteloven § 7 a for eiendommene som er vist i vedlegget «Ikke_fritak_7a_2024»."
+  ],
+  "vedtak": [
+    "Bystyret innvilger fritak for eiendomsskatt etter eiendomsskatteloven § 7 bokstav a for eiendommene som er vist i vedlegget “fritaksliste_7a_2024”.",
+    "Bystyret fjerner vedtak om fritak for eiendomsskatt etter eiendomsskatteloven § 7 a for eiendommene som er vist i vedlegget «Ikke_fritak_7a_2024»."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 223/2024",
+  "rodt_fremmet_forslag": false
+}

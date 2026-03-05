@@ -1,0 +1,33 @@
+{
+  "tittel": "Medlemsforslag - Mobile politiposter - Elin Marie Andreassen (FrP)",
+  "innstilling": "Bystyret avviser medlemsforslag - mobile politiposter.",
+  "vedtak": "Bystyret avviser medlemsforslag - mobile politiposter.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret mener at mobil politipost bør prøves. Bystyret ber byrådet gå i dialog med politiet, med sikte på å få opprettet en mobil politipost i Trondheim. Bystyret mener at mobil politipost bør prøves ut for å vise økt tilstedeværelse, og for å bidra til innbyggernes opplevelse av økt trygghet i ulike deler av byen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Ved alternativ votering mellom innstillingen og Andreassens forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 62
+        },
+        {
+          "navn": "Andreassens forslag",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "21.11.2024",
+  "saksnummer_ps": "PS 197/24",
+  "rodt_fremmet_forslag": false
+}

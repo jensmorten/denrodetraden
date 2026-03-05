@@ -1,0 +1,79 @@
+{
+  "tittel": "Valg av forliksrådsmedlemmer og møtefullmektiger for forliksrådet for perioden 01.01.2025 - 31.12.2028",
+  "innstilling": {
+    "faste_forliksrådsmedlemmer": {
+      "leder": "Åse Åberg (H)",
+      "medlemmer": [
+        "Terje Roel (Ap)",
+        "Nora Stein Baustad (SP)"
+      ]
+    },
+    "varamedlemmer": [
+      "Jostein Eirik Gjermstad (FrP)",
+      "Espen Agøy Hegge (KrF)",
+      "Nisrin El Morabit (SV)"
+    ],
+    "møtefullmektiger": [
+      "Anne Sophie Hunstad (Ap)",
+      "Gunnar Halstadtrø (H)",
+      "Aage Borrmann (Ap)",
+      "Bente Dyrseth (H)",
+      "Arne Ivar Denstad (KrF)",
+      "Urda Brende (H)",
+      "Gro Eide (H)",
+      "Bjørn Onseid (H)",
+      "Haakon Gussiaas (H)",
+      "Svein Otto Nilsen (PP)"
+    ]
+  },
+  "vedtak": {
+    "faste_forliksrådsmedlemmer": {
+      "leder": "Åse Åberg (H)",
+      "medlemmer": [
+        "Terje Roel (Ap)",
+        "Nora Stein Baustad (SP)"
+      ]
+    },
+    "varamedlemmer": [
+      "Jostein Eirik Gjermstad (FrP)",
+      "Espen Agøy Hegge (KrF)",
+      "Nisrin El Morabit (SV)"
+    ],
+    "møtefullmektiger": [
+      "Anne Sophie Hunstad (Ap)",
+      "Gunnar Halstadtrø (H)",
+      "Aage Borrmann (Ap)",
+      "Bente Dyrseth (H)",
+      "Arne Ivar Denstad (KrF)",
+      "Urda Brende (H)",
+      "Gro Eide (H)",
+      "Bjørn Onseid (H)",
+      "Haakon Gussiaas (H)",
+      "Svein Otto Nilsen (PP)"
+    ]
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Berit Tiller (H) på vegne av H, FrP, KrF, MDG, PP, SP, V, SV, Ap",
+      "tekst": "Faste forliksrådsmedlemmer:\nLeder: Åse Åberg (H)\nTerje Roel (Ap)\nNora Stein Baustad (SP)\nVaramedlemmer:\nJostein Eirik Gjermstad(FrP)\nEspen Agøy Hegge (KrF)\nNisrin El Morabit (SV)\nMøtefullmektiger:\nAnne Sophie Hunstad (Ap)\nGunnar Halstadtrø (H)\nAage Borrmann (Ap)\nBente Dyrseth (H)\nArne Ivar Denstad (KrF)\nUrda Brende (H)\nGro Eide (H)\nBjørn Onseid (H)\nHaakon Gussiaas (H)\nSvein Otto Nilsen (PP)"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "26.09.2024",
+  "saksnummer_ps": "PS 175/2024",
+  "rodt_fremmet_forslag": false
+}

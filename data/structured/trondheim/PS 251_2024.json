@@ -1,0 +1,60 @@
+{
+  "tittel": "Oppnevning til styre i Stavne Arbeid Trondheim KF og Stavne Inkludering Trondheim KF",
+  "innstilling": {
+    "leder": "Sissel Trønsdal (Ap)",
+    "nestleder": "August Cairns (H)",
+    "styremedlemmer": [
+      "Reidar Albertsen (FrP)",
+      "Espen Agøy Hegge (KrF)",
+      "Aurora Meland Winger (MDG)",
+      "Harald Sigurdsson (SV)",
+      "Mia Småvik Rørdal (R)",
+      "Ansattrepresentant (Med personlig vararepresentant)",
+      "Ansattrepresentant (Med personlig vararepresentant)"
+    ],
+    "vara": [
+      "Kirsti Tømmervold (AP)",
+      "Henriette Lysholm Winnberg (SV)",
+      "Radino Dizza Zulfi Mahendra (H)",
+      "Majen Helen Sævik (Krf)"
+    ]
+  },
+  "vedtak": {
+    "leder": "Sissel Trønsdal (Ap)",
+    "nestleder": "August Cairns (H)",
+    "styremedlemmer": [
+      "Reidar Albertsen (FrP)",
+      "Espen Agøy Hegge (KrF)",
+      "Aurora Meland Winger (MDG)",
+      "Harald Sigurdsson (SV)",
+      "Mia Småvik Rørdal (R)",
+      "Ansattrepresentant (Med personlig vararepresentant)",
+      "Ansattrepresentant (Med personlig vararepresentant)"
+    ],
+    "vara": [
+      "Kirsti Tømmervold (AP)",
+      "Henriette Lysholm Winnberg (SV)",
+      "Radino Dizza Zulfi Mahendra (H)",
+      "Majen Helen Sævik (Krf)"
+    ]
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen til styre i Stavne Arbeid Trondheim KF og Stavne Inkludering Trondheim KF",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "19.12.2024",
+  "saksnummer_ps": "PS 251/2024",
+  "rodt_fremmet_forslag": false
+}

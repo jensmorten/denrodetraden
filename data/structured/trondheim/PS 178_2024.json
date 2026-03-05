@@ -1,0 +1,24 @@
+{
+  "tittel": "Navneendring for Rådet for personer med funksjonsnedsettelser",
+  "innstilling": "Bystyret omgjør sitt tidligere navnevedtak for Rådet for personer med funksjonsnedsettelser, og fjerner tillegget (funkisrådet), fra rådets navn.",
+  "vedtak": "Bystyret omgjør sitt tidligere navnevedtak for Rådet for personer med funksjonsnedsettelser, og fjerner tillegget (funkisrådet), fra rådets navn.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen til navneendring for Rådet for personer med funksjonsnedsettelser",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "26.09.2024",
+  "saksnummer_ps": "PS 178/2024",
+  "rodt_fremmet_forslag": false
+}

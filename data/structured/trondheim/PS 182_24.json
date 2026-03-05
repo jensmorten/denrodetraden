@@ -1,0 +1,33 @@
+{
+  "tittel": "PS 182/2024 Representantforslag - Innføre en sømløs og vedtaksfri \"omsorgstrapp\" for personer med ALS - Tone Dorthe Sletten (H)",
+  "innstilling": "Bystyret ber byrådet organisere dette på en effektiv måte. Målet er å redusere ressurskrevende saksbehandling og gi tilpassede tjenester gjennom hele sykdomsforløpet.",
+  "vedtak": "Bystyret ber byrådet organisere dette på en effektiv måte. Målet er å redusere ressurskrevende saksbehandling og gi tilpassede tjenester gjennom hele sykdomsforløpet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tone Dorthe Sletten (H)",
+      "tekst": "Bystyret ber byrådet organisere dette på en effektiv måte. Målet er å redusere ressurskrevende saksbehandling og gi tilpassede tjenester gjennom hele sykdomsforløpet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillingen og forslag fra Sletten",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 0
+        },
+        {
+          "navn": "Forslag fra Sletten",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Sletten",
+      "roedt_stoettet": "Forslag fra Sletten",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "24.10.2024",
+  "saksnummer_ps": "PS 182/24",
+  "rodt_fremmet_forslag": false
+}

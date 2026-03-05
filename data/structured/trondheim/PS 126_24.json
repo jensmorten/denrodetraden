@@ -1,0 +1,92 @@
+{
+  "tittel": "Reglement for byrådet",
+  "innstilling": "Bystyret vedtar vedlagte reglement for byrådet. Reglementet gjelder fra 13. juni 2024 og inntil nytt reglement vedtas.",
+  "vedtak": [
+    "Bystyret vedtar vedlagte reglement for byrådet.",
+    "Reglementet gjelder fra 13. juni 2024 og inntil nytt reglement vedtas."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Arve Sletten (R)",
+      "tekst": "Alternativt andre avsnitt pkt. 3.2: Byrådet har myndighet til å avgjøre prinsipielle saker, men likevel slik at det er bystyret som skal avgjøre større prinsipielle saker. Dersom det er uklart om en sak er av større prinsipiell betydning skal forretningsutvalget avgjøre om saken er av en slik art at den skal legges fram for bystyret. Det skjønn som utøves kan etterprøves av bystyret."
+    },
+    {
+      "forslagsstiller": "Arve Sletten (R) og SV",
+      "tekst": "Alternativt pkt. 3.8: Byrådet avgir normalt høringsuttalelser på vegne av Trondheim kommune. I prinsipielle saker skal disse imidlertid behandles i bystyret eller relevant bystyreutvalg."
+    },
+    {
+      "forslagsstiller": "Arve Sletten (R)",
+      "tekst": "Alternativt første avsnitt pkt. 3.9: Byrådet skal i første etterfølgende bystyremøte rapportere til bystyret om vedtak i saker som har prinsipiell betydning, jf. kommuneloven §10-2 siste ledd."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillinga unntatt det som berøres av forslaga fra Rødt",
+      "alternativer": [
+        {
+          "navn": "Innstillinga unntatt det som berøres av forslaga fra Rødt",
+          "stemmer": "flertall"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Innstillinga unntatt det som berøres av forslaga fra Rødt",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillinga pkt 3.2 og Slettens forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillinga pkt 3.2",
+          "stemmer": 52
+        },
+        {
+          "navn": "Slettens forslag pkt 3.2",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "Innstillinga pkt 3.2",
+      "roedt_stoette": "Slettens forslag pkt 3.2",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillinga pkt 3.8 og Slettens forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillinga pkt 3.8",
+          "stemmer": 54
+        },
+        {
+          "navn": "Slettens forslag pkt 3.8",
+          "stemmer": 13
+        }
+      ],
+      "hvem_vant": "Innstillinga pkt 3.8",
+      "roedt_stoette": "Slettens forslag pkt 3.8",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillinga pkt 3.9 første avsnitt og Slettens forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillinga pkt 3.9 første avsnitt",
+          "stemmer": 52
+        },
+        {
+          "navn": "Slettens forslag pkt 3.9",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "Innstillinga pkt 3.9 første avsnitt",
+      "roedt_stoette": "Slettens forslag pkt 3.9",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.06.2024",
+  "saksnummer_ps": "PS 126/24",
+  "rodt_fremmet_forslag": true
+}

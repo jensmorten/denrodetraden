@@ -1,0 +1,29 @@
+{
+  "tittel": "Stavne Arbeid Trondheim KF og Stavne Inkludering Trondheim KF - styret - valg av settemedlem",
+  "innstilling": "August Grøntvedt Cairns (H), velges som nytt settemedlem. Inge Bjørnbekk rykker opp som nestleder, i perioden hvor Høyre har settemedlem.",
+  "vedtak": "August Grøntvedt Cairns (H), velges som nytt settemedlem. Inge Bjørnbekk rykker opp som nestleder, i perioden hvor Høyre har settemedlem.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Berit Tiller (H) på vegne av H, KrF, MDG, PP, SP, V",
+      "tekst": "August Grøntvedt Cairns (H), velges som nytt settemedlem. Inge Bjørnbekk rykker opp som nestleder, i perioden hvor Høyre har settemedlem."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "26.09.2024",
+  "saksnummer_ps": "PS 176/2024",
+  "rodt_fremmet_forslag": false
+}

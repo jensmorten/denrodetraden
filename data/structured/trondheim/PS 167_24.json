@@ -1,0 +1,45 @@
+{
+  "tittel": "PS 167/2024 Fritakssøknad Stine Hostad (H)",
+  "innstilling": "Stine Hostad sin fritakssøknad fra bystyret innvilges.\n1.Medlem i miljø-, nærings- og samferdselsutvalget for Høyre: Jacob Brox\n2. Medlem i Nordenfjeldske kunstindustrimuseum Karl Erik Haug\n3.Varamedlem styret i Trondheim kunstmuseum Karl Erik Haug\n4. Varamedlem representantskapet i Trondheim Havn IKS - Tone Dorthe Sletten",
+  "vedtak": "Stine Hostad sin fritakssøknad fra bystyret innvilges.\n1.Medlem i miljø-, nærings- og samferdselsutvalget for Høyre: Jacob Brox\n2. Medlem i Nordenfjeldske kunstindustrimuseum Karl Erik Haug\n3.Varamedlem styret i Trondheim kunstmuseum Karl Erik Haug\n4. Varamedlem representantskapet i Trondheim Havn IKS - Tone Dorthe Sletten",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Berit Tiller (H)",
+      "tekst": "1.Medlem i miljø-, nærings- og samferdselsutvalget for Høyre: Jacob Brox\n2. Medlem i Nordenfjeldske kunstindustrimuseum Karl Erik Haug\n3.Varamedlem styret i Trondheim kunstmuseum Karl Erik Haug\n4. varamedlem representantskapet i Trondheim Havn IKS - Tone Dorthe Sletten"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 38
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoette": "Mot innstillingen",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over Tillers tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For tilleggsforslaget",
+      "roedt_stoette": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "PS 167/24",
+  "rodt_fremmet_forslag": false
+}

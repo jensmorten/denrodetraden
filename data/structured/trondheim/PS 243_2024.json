@@ -1,0 +1,65 @@
+{
+  "tittel": "Flyktningemidler 2024 - Budsjettkorrigering",
+  "innstilling": "1. Bystyret vedtar å øke budsjetterte flyktningeinntekter med 75 millioner kroner. 2. Bystyret vedtar å endre netto driftsrammene til tjenesteområdene og avsette til disposisjonsfondet som følgende: Budsjettkorrigering av flyktningemidler 2024 Område: Beløp (mill kr) Økte flyktningeinntekter 75,0 Arbeid og Velferd 30,0 Barne- og familietjenesten 13,2 Disposisjonsfond 31,8 SUM 0,0",
+  "vedtak": "1. Bystyret vedtar å øke budsjetterte flyktningeinntekter med 75 millioner kroner. 2. Bystyret vedtar å endre netto driftsrammene til tjenesteområdene og avsette til disposisjonsfondet som angitt. 3. Bystyret mener det er avgjørende at de flyktningmidlene som overføres til disposisjonsfondet i all hovedsak fordeles til kommunale enheter der integreringsarbeidet pågår. Midlene bør ikke gå til andre områder da de trengs for å styrke integreringsarbeidet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mona Berger (SV) på vegne av SV, Ap, R, Uavh.",
+      "tekst": "Nytt pkt 3: Dialogsenteret: Flyktningetjenesten ved Dialogsenteret tilføres 3 millioner av disposisjonsfondet. Dialogsenteret opprettholdes for 2025."
+    },
+    {
+      "forslagsstiller": "Mona Berger (SV)",
+      "tekst": "Sikre at midlene kommer det kommunale flyktningearbeidet tilgode: Bystyret mener det er avgjørende at de flyktningmidlene som overføres til disposisjonsfondet i all hovedsak fordeles til kommunale enheter der integreringsarbeidet pågår. Midlene bør ikke gå til andre områder da de trengs for å styrke integreringsarbeidet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Bergers forslag \"Nytt pkt 3: Dialogsenter\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 32
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over Bergers forslag \"Sikre at midlene kommer det kommunale flyktningearbeidet tilgode\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 32
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "19.12.2024",
+  "saksnummer_ps": "PS 243/2024",
+  "rodt_fremmet_forslag": false
+}

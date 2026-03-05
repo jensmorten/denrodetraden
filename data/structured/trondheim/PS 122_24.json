@@ -1,0 +1,149 @@
+{
+  "tittel": "Reglement for politiske organ",
+  "innstilling": "Bystyret vedtar følgende vedlagte reglement, med de endringer som framgår av hovedpunkt 2, og samtlige reglement gjøres gjeldende fra 13.06.2024. Følgende reglement utgår fra samme dato: Reglement for formannskapet, Reglement for bystyrekomiteer, Reglement for lønnsutvalget. Bystyret ber ordføreren legge fram forslag til reglement for valgstyret i løpet av høsten 2024. Forretningsutvalget utarbeider klare retningslinjer for hvilke forhold som inngår i de ulike grunnene til forfall basert på sedvane og statsforvalterens lovlighetskontroll av bystyrets retningslinjer for forfall i 2023. Bystyret ber om at det tas en gjennomgang av grenseoppgangen mellom administrasjonsutvalget og byrådet, og at byrådet og bystyresekretariatet i fellesskap samordner et forslag til høsten 2024 som sørger for at byrådets reglement og reglementet for administrasjonsutvalget er i harmoni med hverandre og lovverket.",
+  "vedtak": "Se innstilling og vedtatte endringer i reglementene som listet opp i punkt 1 og 2, samt at samtlige reglement gjøres gjeldende fra 13.06.2024. Følgende reglement utgår: Reglement for formannskapet, bystyrekomiteer og lønnsutvalget. Ordføreren skal legge fram forslag til reglement for valgstyret høsten 2024. Forretningsutvalget skal utarbeide retningslinjer for forfall. Det skal gjennomføres en gjennomgang av grenseoppgangen mellom administrasjonsutvalget og byrådet med forslag til høsten 2024. Flertallsmerknad om 17. mai-utvalget og fullmakt til disponering av midler innen budsjettrammer. Vedtatte alternative og tilleggsforslag som angitt i voteringene.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Alt. forslag pkt. 2.16 - Utvalgsinitiativ, bystyrereglement 5.14d: § 5.14d om initiativ fra utvalg strykes fra bestemmelsene. Representanter fra et utvalg kan uansett gå sammen om å fremme representantforslag for bystyret. Ordningen med utvalgsinitiativ synes derfor overflødig. Der utvalgsinitiativ ellers er omtalt, for eksempel i reglement for bystyreutvalgene, strykes dette fra bestemmelsene."
+    },
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Tilleggsforslag: Endring av bystyrets reglement § 5.2 (dagsaktuelle saker): Det avsettes inntil 30 minutter i hvert bystyremøte for behandling av interpellasjoner og representantforslag. Disse leveres skriftlig. Endring av bystyrets reglement § 5.5 (fra talerstolen): Følgende setning strykes: 'Retter vedkommende seg ennå ikke etter reglementet, kan møtelederen ta fra ham/henne ordet, eller la forsamlingen avgjøre om han/hun skal stenges ute fra resten av møtet.'"
+    },
+    {
+      "forslagsstiller": "Kirsti Tømmervold (AP)",
+      "tekst": "Reglement bystyreutvalgene: Tillegg under punkt 5.7 Utforming av forslag og merknader: 'Utvalgets medlemmer kan ikke fremme forslag på vegne av andre parti som ikke sitter i utvalget'."
+    },
+    {
+      "forslagsstiller": "Mats Ulseth Ramo (H)",
+      "tekst": "Bystyret ber om at det tas en gjennomgang av grenseoppgangen mellom administrasjonsutvalget og byrådet, og at byrådet og bystyresekretariatet i fellesskap samordner et forslag til høsten 2024 som sørger for at byrådets reglement og reglementet for administrasjonsutvalget er i harmoni med hverandre og lovverket."
+    },
+    {
+      "forslagsstiller": "Mats Ulseth Ramo (H)",
+      "tekst": "Alternativt forslag Reglement for administrasjonsutvalget: Ny 4 - Myndighet/ oppgaver: Det partssammensatte utvalget uttaler seg til bystyret og bystyreutvalgene i saker som angår retningslinjene for kommunens personalpolitikk, herunder tiltak for likestilling og inkluderende arbeidsliv. Utvalget drøfter dessuten kvalitets-, fornyings- og utviklingstiltak, oppfølging og implementering av nasjonalt vedtatte reformer, og rapporterer til bystyret og bystyrets utvalg."
+    },
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV)",
+      "tekst": "Bystyrets reglement, rette 5.13 iht andre punkter: Bystyrets reglement punkt 5.13 rettes iht vedtatte endringer."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på innstillinga unntatt alternative forslag fra FrP og H",
+      "alternativer": [
+        {
+          "navn": "For innstillinga",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillinga",
+      "roedt_stoettet": "For innstillinga",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillinga 2.16 og Andreassens forslag (FrP)",
+      "alternativer": [
+        {
+          "navn": "Andreassens forslag",
+          "stemmer": 64
+        },
+        {
+          "navn": "Innstillinga 2.16",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "Andreassens forslag",
+      "roedt_stoettet": "Innstillinga 2.16",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Alternativ votering mellom innstillinga og Ramos forslag (H)",
+      "alternativer": [
+        {
+          "navn": "Ramos forslag",
+          "stemmer": 55
+        },
+        {
+          "navn": "Innstillinga",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "Ramos forslag",
+      "roedt_stoettet": "Innstillinga",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering på Andreassens tilleggsforslag §5.2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering på Andreassens tilleggsforslag §5.5",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering på Tømmervolds tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering på Ramos tilleggsforslag (grensegang)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering på Salomonsens tilleggsforslag (rette)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Alle unntatt 1"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "Vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.06.2024",
+  "saksnummer_ps": "PS 122/24",
+  "rodt_fremmet_forslag": false
+}

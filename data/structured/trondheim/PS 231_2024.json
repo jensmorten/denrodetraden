@@ -1,0 +1,66 @@
+{
+  "tittel": "PS 231/2024 Endring av delegering for klagesaker knyttet til opplæringsloven § 2-6",
+  "innstilling": [
+    "Bystyret vedtar å endre delegasjonen for behandling av klager på vedtak etter opplæringsloven § 2-6 slik at klageutvalget ikke lenger er klageinstans, men at saken går direkte til Statsforvalteren som klageinstans. Ny ordlyd i “Forskrift om skolekretsgrenser, Trondheim kommune, Trøndelag” § 4-2 blir “Alle enkeltvedtak om skoleplass og avslag på søknader om skoleplass ved annen skole, kan påklages etter forvaltningslovens bestemmelser om klage på enkeltvedtak, jf. opplæringsloven § 29-1. Klagefristen er tre uker etter mottatt vedtak. Skolen ved rektor behandler alle eventuelle klager på vedtak eller avslag på søknader om skoleplass. Dersom skolen opprettholder opprinnelig vedtak, oversendes saken til Statsforvalteren i Trøndelag som fatter endelig vedtak.”",
+    "Bystyret ber om at forskrift om skolekretsgrenser oppdateres i tråd med ny opplæringslov."
+  ],
+  "vedtak": [
+    "Innstillingens punkt 1 ble vedtatt med 34 stemmer mot 33 stemmer.",
+    "Innstillingens punkt 2 ble enstemmig vedtatt."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ottar Michelsen (SV) på vegne av SV, Ap, R",
+      "tekst": "Alternativ til punkt 1 - beholde politisk behandling av klager: Alle enkeltvedtak om skoleplass og avslag på søknader om skoleplass ved annen skole, kan påklages etter forvaltningslovens bestemmelser om klage på enkeltvedtak, jf opplæringsloven § 29-1. Klagefristen er tre uker etter mottatt vedtak. Skolen ved rektor behandler alle eventuelle klager på vedtak eller avslag på søknader om skoleplass. Dersom skolen opprettholder opprinnelig vedtak, vil saken oversendes via byrådet til klageutvalget for behandling. Dersom klageutvalget opprettholder skolens vedtak, oversendes saken til Statsforvalteren i Trøndelag som fatter endelig vedtak."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillingens punkt 1 og fellesforslag fra SV",
+      "alternativer": [
+        {
+          "navn": "Innstillingen punkt 1",
+          "stemmer": 34,
+          "partier": [
+            "20 H",
+            "4 MDG",
+            "4 V",
+            "3 PP",
+            "SP",
+            "KrF",
+            "Uavh."
+          ]
+        },
+        {
+          "navn": "Fellesforslag fra SV",
+          "stemmer": 33,
+          "partier": [
+            "17 Ap",
+            "9 SV",
+            "4 FrP",
+            "3 R"
+          ]
+        }
+      ],
+      "vinner": "Innstillingen punkt 1",
+      "roedt_stoettet": "Fellesforslag fra SV",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om innstillingens punkt 2",
+      "alternativer": [
+        {
+          "navn": "Innstillingen punkt 2",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Innstillingen punkt 2",
+      "roedt_stoettet": "Innstillingen punkt 2",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 231/2024",
+  "rodt_fremmet_forslag": false
+}

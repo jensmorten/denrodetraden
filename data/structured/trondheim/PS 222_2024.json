@@ -1,0 +1,45 @@
+{
+  "tittel": "PS 222/2024 Utleiepriser kommunale idrettsanlegg, utlån av kommunale lokaler og betalingssatser for Trondheim kulturskole 2025",
+  "innstilling": null,
+  "vedtak": "3. Utmelding etter fristen og fram til semesterstart fører til krav om betaling av et administrasjonsgebyr på kr. 500,-. Ved utmelding etter oppstart av semesteret faktureres full semesteravgift.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ferhat Güven (H) på vegne av H, MDG, V",
+      "tekst": "Betalingssatser for Trondheim kulturskole 2025: Utmelding etter fristen og fram til semesterstart fører til krav om betaling av et administrasjonsgebyr på kr. 500,-. Ved utmelding etter oppstart av semesteret faktureres full semesteravgift."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Güvens tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Imot",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 222/2024",
+  "rodt_fremmet_forslag": false
+}

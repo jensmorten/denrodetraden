@@ -1,0 +1,61 @@
+{
+  "tittel": "Oppløsning av det interkommunale politiske rådet - Trondheimsregionen",
+  "innstilling": [
+    "Bystyret vedtar at Trondheim kommune ber om at det interkommunale politiske rådet Trondheimsregionen oppløses og delegerer ordføreren fullmakt til å stemme for oppløsning av rådet så snart som mulig.",
+    "Bystyret ber ordføreren innlede samtaler med kommunene i samarbeidet om opprettelsen av et nytt interkommunalt politisk råd med fokus på et tydeligere formål og reduserte kostnader."
+  ],
+  "vedtak": [
+    "Bystyret vedtar at Trondheim kommune ber om at det interkommunale politiske rådet Trondheimsregionen oppløses og delegerer ordføreren fullmakt til å stemme for oppløsning av rådet så snart som mulig.",
+    "Bystyret ber ordføreren innlede samtaler med kommunene i samarbeidet om opprettelsen av et nytt interkommunalt politisk råd med fokus på et tydeligere formål og reduserte kostnader."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingens pkt. 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 36,
+          "partier": [
+            "H",
+            "MDG",
+            "FrP",
+            "V",
+            "PP",
+            "SP"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 31,
+          "partier": [
+            "Ap",
+            "SV",
+            "R",
+            "KrF",
+            "Uavh."
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over innstillingens pkt. 2",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoette": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "19.12.2024",
+  "saksnummer_ps": "PS 252/2024",
+  "rodt_fremmet_forslag": false
+}

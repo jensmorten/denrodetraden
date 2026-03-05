@@ -1,0 +1,74 @@
+{
+  "tittel": "Næringsprogram for Nyhavna",
+  "innstilling": [
+    "Bystyret vedtar næringsprogrammet for Nyhavna, datert 12.04.2024",
+    "Bystyret forutsetter at alle aktører som er involvert i områdeutviklingen på Nyhavna bidrar til å realisere målene og strategiene som Næringsprogrammet fastsetter.",
+    "Bystyret ber kommunedirektøren gå i dialog med prosjekteiere og nøkkelaktører for å følge opp strategisk viktige muligheter for Nyhavna som del av Teknologihovedstaden",
+    "Bystyret oppfordrer Nyhavna Utvikling AS til å snarlig be om oppstartsmøte vedrørende detaljregulering av delområdene 4 og 6",
+    "Bystyret ber kommunedirektøren utarbeide et grunnlag for mulig reforhandling av relevante deler av aksjeeieravtalen datert 28.01.2021 mellom Trondheim kommune og Trondheim Havn om eierskapet til Nyhavna Utvikling AS.",
+    "Bystyret støtter ambisjonen om at Nyhavna blir en markant test- og representasjonsarena for Teknologihovedstaden.",
+    "Bystyret ber om at det utvikles piloter for å teste ut ulike organisatoriske, fysiske og finansielle modeller for næringsutvikling i samspill med FoU, studenter og kulturaktører og nærlingslivet forøvrig.",
+    "Det innarbeides i næringsprogrammet at næringsaktører, spesielt de marine næringene og havromsaktørene tilknytta delområde 4, kjerneområdet til havromsnæringene opplever forutsigbarhet i forbindelse med transformasjonen av området.",
+    "Det er en forutsetning at det sikres nødvendig tilkomst til Transittkaia for tyngre kjøretøy, slik at transportbehov i forbindelse med havnevirksomheten ivaretas."
+  ],
+  "vedtak": [
+    "Bystyret vedtar næringsprogrammet for Nyhavna, datert 12.04.2024",
+    "Det sikres nødvendig tilkomst til Transittkaia for tyngre kjøretøy, slik at transportbehov i forbindelse med havnevirksomheten ivaretas."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Vegard Frøseth Fenes (SP)",
+      "tekst": "Det er en forutsetning at det sikres nødvendig tilkomst til Transittkaia for tyngre kjøretøy, slik at transportbehov i forbindelse med havnevirksomheten ivaretas."
+    },
+    {
+      "forslagsstiller": "Nils Heldal (SV)",
+      "tekst": "Kaikantene skal ha flerbruk, men næring skal ha forrang der det oppstår konflikt. Riktig arealbruk er en forutsetning for utvikling av næringsvirksomhet på Nyhavna. Tilgang til kaikant og dokk, samt behov for næringsbebyggelse og adkomst for tungtransport og store volum må ivaretas."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillinga",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over Fenes tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over Heldals tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 32
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "For",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.06.2024",
+  "saksnummer_ps": "PS 136/24",
+  "rodt_fremmet_forslag": false
+}

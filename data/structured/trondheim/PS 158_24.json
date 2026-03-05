@@ -1,0 +1,29 @@
+{
+  "tittel": "Detaljregulering av Jakobslivegen 7 og Tunvegen 5 og 5A, sluttbehandling",
+  "innstilling": null,
+  "vedtak": "Bystyret sender saken tilbake for behandling i byrådet, etter ønske fra tiltakshaver.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Erling Moe",
+      "tekst": "Bystyret sender saken tilbake for behandling i byrådet, etter ønske fra tiltakshaver."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Mos tilbakesendingsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "PS 158/24",
+  "rodt_fremmet_forslag": false
+}

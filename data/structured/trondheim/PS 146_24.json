@@ -1,0 +1,33 @@
+{
+  "tittel": "Etablering av administrativt vertskommunesamarbeid om DigiTrøndelag",
+  "innstilling": null,
+  "vedtak": "Bystyret utsetter saken til arbeidet med gjennomgang av kommunens deltakelse og medlemskap i nettverk og samarbeid er ferdig.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret utsetter saken til arbeidet med gjennomgang av kommunens deltakelse og medlemskap i nettverk og samarbeid er ferdig."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Andreassens utsettelsesforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 53
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 13
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.06.2024",
+  "saksnummer_ps": "PS 146/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,85 @@
+{
+  "tittel": "PS 215/2024 HØP 2025-2028",
+  "innstilling": "Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2025-2028 og budsjett 2025, med de endringer som fremgår av tilleggsinnstilling I og II og budsjettforslag fra Sentrum-Høyre og Fremskrittspartiet.",
+  "vedtak": "Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2025-2028 og budsjett 2025, med de endringer som fremgår av tilleggsinnstilling I og II og budsjettforslag fra Sentrum-Høyre og Fremskrittspartiet. Partienes verbalforslag som ikke ble vedtatt gjennom flertalsvedtaket, blir av forretningsutvalget over nyttår fordelt til utvalgene for innstilling til bystyret.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV) på vegne av R og SV",
+      "tekst": "Bystyret vedtar byrådets forslag til handlings- og økonomiplan 2025-2028 og budsjett 2025, med de endringer som fremgår av tilleggsinnstilling I og II og budsjettforslag fra SV og Rødt."
+    },
+    {
+      "forslagsstiller": "Berit Tiller (H) på vegne av H, FrP, KrF, MDG, PP, SP, V",
+      "tekst": "Sentrum-Høyre og Fremskrittspartiets forslag til handlings-og økonomiplan 2025 - 2028."
+    },
+    {
+      "forslagsstiller": "Emil Raaen (Ap)",
+      "tekst": "Arbeiderpartiets forslag til budsjett 2025 og HØP 2025-2028."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på innstillingen",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Ingen",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering på SVs og Rødt sitt budsjettforslag",
+      "alternativer": [
+        {
+          "navn": "SVs og Rødt sitt budsjettforslag",
+          "stemmer": 12
+        },
+        {
+          "navn": "Motforslag",
+          "stemmer": 55
+        }
+      ],
+      "hvem_vant": "Motforslag",
+      "roedt_stoettet": "SVs og Rødt sitt budsjettforslag",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering på Arbeiderpartiets budsjettforslag",
+      "alternativer": [
+        {
+          "navn": "Arbeiderpartiets budsjettforslag",
+          "stemmer": 30
+        },
+        {
+          "navn": "Motforslag",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Motforslag",
+      "roedt_stoettet": "Arbeiderpartiets budsjettforslag",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering på Sentrum-Høyre og Fremskrittspartiets budsjettforslag",
+      "alternativer": [
+        {
+          "navn": "Sentrum-Høyre og Fremskrittspartiets budsjettforslag",
+          "stemmer": 37
+        },
+        {
+          "navn": "Motforslag",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Sentrum-Høyre og Fremskrittspartiets budsjettforslag",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 215/2024",
+  "rodt_fremmet_forslag": false
+}

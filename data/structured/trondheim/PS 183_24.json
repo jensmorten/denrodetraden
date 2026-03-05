@@ -1,0 +1,105 @@
+{
+  "tittel": "PS 183/2024 2. økonomirapport 2024",
+  "innstilling": "Bystyret vedtar de foreslåtte endringer i drifts- og investeringsbudsjettet for 2024, inkludert låneopptak, kostnadsrammer for prosjekter, fullmakter til byrådet, avslutning av medlemskap i Trondheimsregionen, og andre økonomiske tiltak som beskrevet i saksfremlegget.",
+  "vedtak": [
+    "Bystyret vedtar endringer i driftsbudsjettet for 2024 som spesifisert.",
+    "Bystyret vedtar endringer i investeringsbudsjettet for 2024 som spesifisert.",
+    "Bystyret vedtar endringer i investeringsbudsjettet fordelt på investeringsområder.",
+    "Bystyret vedtar endringer av brutto investeringsramme per prosjekt som i vedlegg 1.",
+    "Bystyret vedtar å ta opp lån for inntil 2 304 millioner kroner, en reduksjon på 304 millioner.",
+    "Bystyret vedtar endringer i kostnadsrammer for flere prosjekter som spesifisert.",
+    "Bystyret gir byrådet fullmakt til å fordele budsjettendringer på investeringsområder og arter.",
+    "Bystyret vedtar bruk av 0,5 millioner kroner fra ubundet investeringsfond fra gamle Klæbu kommune.",
+    "Bystyret viser til tidligere vedtak om ikke å akseptere visse tiltak for økonomisk balanse.",
+    "Bystyret gir byrådet fullmakt til ansettelseskontroll og delvis ansettelsesstopp med unntak for førstelinje.",
+    "Bystyret ber byrådet starte arbeidet med å avvikle det interne arbeidsmarkedet (DIA).",
+    "Bystyret vedtar å avslutte medlemskapet i Trondheimsregionen.",
+    "Bystyret forutsetter gjennomgang av tilskuddsmidler og ubundne midler for kostnadsreduksjon.",
+    "Bystyret advarer mot tiltak som kan føre til tap av nødvendig arbeidskraft i 2025.",
+    "Bystyret imøteser byrådets gjennomgang av tjenesteområder for kostnadsreduksjon og ressursfrigjøring."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Emil Raaen (Ap) på vegne av Ap, SV, R",
+      "tekst": "Bystyret sender 2. økonomirapport tilbake til byrådet. Rapporten skal redegjøre nærmere for tiltakene i 'i balanse-prosjektet', status for drøfting med tillitsvalgte, iverksatte tiltak, fremdrift, samlet prognose for 2024, omorganisering etter parlamentarisme og påvirkning på budsjetter, samt oversikt over bevilgninger fra disposisjonsfond."
+    },
+    {
+      "forslagsstiller": "Berit Tiller (H) på vegne av H, FrP, KrF, MDG, PP, SP, V",
+      "tekst": "Helhetlig tilleggsforslag som bekrefter tidligere vedtak om ikke å akseptere visse tiltak for økonomisk balanse, gir byrådet fullmakt til ansettelseskontroll og delvis ansettelsesstopp med unntak for førstelinje, ber om arbeid for å avvikle DIA, vedtar avslutning av medlemskap i Trondheimsregionen, forutsetter gjennomgang av tilskuddsmidler for kostnadsreduksjon, advarer mot tap av arbeidskraft, og imøteser byrådets gjennomgang av tjenesteområder for kostnadsreduksjon."
+    },
+    {
+      "forslagsstiller": "Kirsti Tømmervold (Ap)",
+      "tekst": "Sakene i Berit Tillers helhetlige tilleggsforslag skal utredes og fremmes for endelig behandling i utvalg og bystyret."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om Emil Raaens forslag om 'Tilbakesendelse' av 2. økonomirapport",
+      "alternativer": [
+        {
+          "navn": "Tilbakesendelse",
+          "stemmer": 30
+        },
+        {
+          "navn": "Ikke tilbaksendelse (innstilling)",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Ikke tilbaksendelse (innstilling)",
+      "roedt_stoette": "Tilbakesendelse",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om innstillingen til 2. økonomirapport",
+      "alternativer": [
+        {
+          "navn": "Vedta innstilling",
+          "stemmer": 37
+        },
+        {
+          "navn": "Forkaste innstilling",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Vedta innstilling",
+      "roedt_stoette": "Forkaste innstilling",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om Berit Tillers 'Helhetlige tilleggsforslag'",
+      "alternativer": [
+        {
+          "navn": "Vedta helhetlig tilleggsforslag",
+          "stemmer": 37
+        },
+        {
+          "navn": "Forkaste helhetlig tilleggsforslag",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Vedta helhetlig tilleggsforslag",
+      "roedt_stoette": "Forkaste helhetlig tilleggsforslag",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om Kirsti Tømmervolds forslag 'Ny behandling'",
+      "alternativer": [
+        {
+          "navn": "Vedta ny behandling",
+          "stemmer": 30
+        },
+        {
+          "navn": "Forkaste ny behandling",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Forkaste ny behandling",
+      "roedt_stoette": "Vedta ny behandling",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "24.10.2024",
+  "saksnummer_ps": "PS 183/24",
+  "rodt_fremmet_forslag": false
+}

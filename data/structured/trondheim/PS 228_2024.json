@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 228/2024 Budsjett for kontroll og revisjon 2025",
+  "innstilling": "Det fremlagte forslaget til budsjett 2025 for kontroll og revisjon i Trondheim kommune.",
+  "vedtak": "Bystyret vedtar det fremlagte forslaget til budsjett 2025 for kontroll og revisjon i Trondheim kommune.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen til budsjett 2025 for kontroll og revisjon",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 228/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,51 @@
+{
+  "tittel": "Søknad om fritak fra eiendomsskatt 2024 - SiT sine studentboliger",
+  "innstilling": [
+    "Bystyret innvilger ikke fritak for eiendomsskatt etter eiendomsskatteloven § 7 a og vedtak PS 162/14 for alle eiendommer i Trondheim kommune eid av Studentsamskipnaden i Gjøvik, Ålesund og Trondheim.",
+    "Bystyret ber byrådet starte arbeidet med å endre retningslinjene med sikte på å frita studentboliger fra eiendomsskatt fra og med 2026."
+  ],
+  "vedtak": [
+    "Bystyret innvilger ikke fritak for eiendomsskatt etter eiendomsskatteloven § 7 a og vedtak PS 162/14 for alle eiendommer i Trondheim kommune eid av Studentsamskipnaden i Gjøvik, Ålesund og Trondheim.",
+    "Bystyret ber byrådet starte arbeidet med å endre retningslinjene med sikte på å frita studentboliger fra eiendomsskatt fra og med 2026."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Kokaas på vegne av PP, FrP, H, KrF, MDG, SP, V",
+      "tekst": "Bystyret ber byrådet starte arbeidet med å endre retningslinjene med sikte på å frita studentboliger fra eiendomsskatt fra og med 2026."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Kokaas fellesforslag",
+      "alternativer": [
+        {
+          "navn": "For Kokaas fellesforslag",
+          "stemmer": 37
+        },
+        {
+          "navn": "Mot Kokaas fellesforslag",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "For Kokaas fellesforslag",
+      "roedt_stoettet": "Mot Kokaas fellesforslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 225/2024",
+  "rodt_fremmet_forslag": false
+}

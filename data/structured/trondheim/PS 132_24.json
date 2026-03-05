@@ -1,0 +1,33 @@
+{
+  "tittel": "Gangveg mellom Gildheimsvegen og Brøsetvegen, detaljregulering. Sluttbehandling",
+  "innstilling": null,
+  "vedtak": "Saken utsettes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tore Dyrendahl (MDG)",
+      "tekst": "Saken utsettes"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Dyrendahls utsettelsesforslag",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 36
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "For utsettelsesforslaget",
+      "roedt_stoette": "For utsettelsesforslaget",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.06.2024",
+  "saksnummer_ps": "PS 132/24",
+  "rodt_fremmet_forslag": false
+}

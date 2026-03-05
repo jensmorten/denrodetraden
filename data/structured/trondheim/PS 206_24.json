@@ -1,0 +1,28 @@
+{
+  "tittel": "Reglement for valgstyret og samevalgstyret",
+  "innstilling": "Bystyret vedtar vedlagte reglement for valgstyret (Vedlegg 1) og samevalgstyret (Vedlegg 2). Reglementene gjelder fra 21. november 2024 og inntil nye reglement vedtas.",
+  "vedtak": [
+    "Bystyret vedtar vedlagte reglement for valgstyret (Vedlegg 1).",
+    "Bystyret vedtar vedlagte reglement for samevalgstyret (Vedlegg 2).",
+    "Reglementene gjelder fra 21. november 2024 og inntil nye reglement vedtas."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "21.11.2024",
+  "saksnummer_ps": "PS 206/24",
+  "rodt_fremmet_forslag": false
+}

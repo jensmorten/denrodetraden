@@ -1,0 +1,24 @@
+{
+  "tittel": "Stortings- og sametingsvalget 2025. Valg av valgstyre og samevalgstyre. Fastsetting av valgdag.",
+  "innstilling": "Bystyret velger forretningsutvalgets medlemmer som medlemmer av valgstyret ved stortingsvalget 2025. Som valgstyrets leder velges ordfører Kent Ranum. Som valgstyrets nestleder velges varaordfører Erling Moe. Bystyret velger valgstyrets medlemmer som medlemmer av samevalgstyret ved sametingsvalget 2025. Som samevalgstyrets leder velges ordfører Kent Ranum. Som samevalgstyrets nestleder velges varaordfører Erling Moe. Bystyret vedtar at det skal holdes valg til stortings- og sametingsvalget 2025 søndag 7. september 2025. Stemmegivningen skal foregå på Hovedbiblioteket mellom kl 1300 og kl 1800.",
+  "vedtak": "Bystyret velger forretningsutvalgets medlemmer som medlemmer av valgstyret ved stortingsvalget 2025. Som valgstyrets leder velges ordfører Kent Ranum. Som valgstyrets nestleder velges varaordfører Erling Moe. Bystyret velger valgstyrets medlemmer som medlemmer av samevalgstyret ved sametingsvalget 2025. Som samevalgstyrets leder velges ordfører Kent Ranum. Som samevalgstyrets nestleder velges varaordfører Erling Moe. Bystyret vedtar at det skal holdes valg til stortings- og sametingsvalget 2025 søndag 7. september 2025. Stemmegivningen skal foregå på Hovedbiblioteket mellom kl 1300 og kl 1800.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen til valgstyre, samevalgstyre og valgdag for stortings- og sametingsvalget 2025.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "21.11.2024",
+  "saksnummer_ps": "PS 205/24",
+  "rodt_fremmet_forslag": false
+}

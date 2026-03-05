@@ -1,0 +1,28 @@
+{
+  "tittel": "Retningslinjer for forfall",
+  "innstilling": null,
+  "vedtak": "Saken ble utsatt i bystyrets møte 26. september 2024.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsatt behandling av saken",
+      "alternativer": [
+        {
+          "navn": "For utsatt behandling",
+          "stemmer": null
+        },
+        {
+          "navn": "Mot utsatt behandling",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "For utsatt behandling",
+      "roedt_stoettet": "For utsatt behandling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "26.09.2024",
+  "saksnummer_ps": "PS 171/2024",
+  "rodt_fremmet_forslag": false
+}

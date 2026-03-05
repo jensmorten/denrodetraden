@@ -1,0 +1,29 @@
+{
+  "tittel": "PS 162/2024 Valg av forliksrådsmedlemmer og møtefullmektiger for forliksrådet for perioden 01.01.2025 - 31.12.2028",
+  "innstilling": null,
+  "vedtak": "Saken utsettes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mona Berger (SV)",
+      "tekst": "Utsettes til bystyremøtet 26.9"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Bergers utsettelsesforslag",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelsesforslaget",
+      "roedt_stoettet": "For utsettelsesforslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "PS 162/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,33 @@
+{
+  "tittel": "PS 227/2024 B-veger - avvikle offentlig drift og overføre driften til grunneierne",
+  "innstilling": null,
+  "vedtak": "Sak 227/24 B-veger - avvikle offentlig drift og overføre driften til grunneierne utsettes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sara Shafighi (Ap)",
+      "tekst": "Sak 227/24 B-veger - avvikle offentlig drift og overføre driften til grunneierne utsettes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Shafighis forslag om utsettelse",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": 66
+        },
+        {
+          "navn": "Mot utsettelse",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoette": "Mot utsettelse",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 227/2024",
+  "rodt_fremmet_forslag": false
+}

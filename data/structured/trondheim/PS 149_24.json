@@ -1,0 +1,48 @@
+{
+  "tittel": "Valg av settemedlemmer- og midlertidige ledere/nestledere i utvalg",
+  "innstilling": null,
+  "vedtak": {
+    "Helse- og velferdsutvalget": {
+      "Medlem nr. 2": "Trond Åm Hanne - Moe Reitan"
+    },
+    "Miljø, næring og samferdselsutvalget": {
+      "Medlem nr. 5": "Line Fjørstad - Jonas Ali Ghanizadeh",
+      "3. vara for medlem 1-4": "Siri Holm Lønseth - Krzysztof Orleański"
+    },
+    "Finans og organisasjon": {
+      "Medlem nr. 3": "Ellisiv Hårstad Schei - Magnus Gilje",
+      "Medlem nr. 5": "Christianne Bauck Larssen - Jakob Brox"
+    },
+    "Byutvikling": {
+      "Medlem nr. 7": "Tore Dyrendahl - Nora Sæterø",
+      "2. vara for medlem 2-6": "Ida Margrethe Nordtvedt Hafstad - Marie Husby Vallan"
+    },
+    "Oppvekst og kultur": {
+      "1. vara for medlem 3-5": "Mats Ramo - Joachim Lindgren"
+    }
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Berit Tiller (H), på vegne av H, Ap, FrP, KrF, MDG, PP, R, Sp, SV, U, V",
+      "tekst": "Forslag til settemedlemmer og vara i utvalg som listet i vedtaket"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Tillers forslag til settemedlemmer og vara i utvalg",
+      "alternativer": [
+        {
+          "navn": "Tillers forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Tillers forslag",
+      "roedt_stoettet": "Tillers forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.06.2024",
+  "saksnummer_ps": "PS 149/24",
+  "rodt_fremmet_forslag": false
+}

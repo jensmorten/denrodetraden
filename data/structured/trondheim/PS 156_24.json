@@ -1,0 +1,57 @@
+{
+  "tittel": "PS 156/2024 Gangveg mellom Gildheimsvegen og Brøsetvegen, detaljregulering. Sluttbehandling",
+  "innstilling": "Bystyret sender saken tilbake til byrådet. Det bes om at alternative løsninger for å oppnå trygg skolevei, med minst mulig inngrep i privat eiendom, utredes.",
+  "vedtak": "Bystyret sender saken tilbake til byrådet. Det bes om at alternative løsninger for å oppnå trygg skolevei, med minst mulig inngrep i privat eiendom, utredes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Marie Andreassen (FrP)",
+      "tekst": "Bystyret ber byrådet legge frem en sak med redusert omfang, som legger til rette for etablering av gjerde/støyskjerm langs fortauet i Innherredsveien, og oppstramming av kryss med tydeliggjøring av areal til ulike typer trafikanter, for å bidra til at trafikksikkerheten ved eksisterende skoleveg blir enda bedre."
+    },
+    {
+      "forslagsstiller": "Vegard Frøseth Fenes (SP) på vegne av SP, H, KrF, MDG, PP, V",
+      "tekst": "Bystyret sender saken tilbake til byrådet. Det bes om at alternative løsninger for å oppnå trygg skolevei, med minst mulig inngrep i privat eiendom, utredes."
+    },
+    {
+      "forslagsstiller": "Even Næss Bergseng (SV) på vegne av SV, R, U",
+      "tekst": "Bystyret vedtar forslag til detaljregulering av Gangveg mellom Gildheimsvegen og Brøsetvegen som vist på kart i målestokk 1:500, merket Byplankontoret, Trondheim kommune, datert senest datert 24.04.2024 med bestemmelser senest datert 19.04.2024 og beskrevet i planbeskrivelsen, senest datert 22.04.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på Næss Bergsengs forslag om å vedta planen",
+      "alternativer": [
+        {
+          "navn": "Næss Bergsengs forslag",
+          "stemmer": 13
+        },
+        {
+          "navn": "Motforslag",
+          "stemmer": 54
+        }
+      ],
+      "hvem_vant": "Motforslag",
+      "roedt_stoette": "Næss Bergsengs forslag",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering på Frøseth Fenes forslag om å sende saken tilbake til byrådet",
+      "alternativer": [
+        {
+          "navn": "Frøseth Fenes forslag",
+          "stemmer": 45
+        },
+        {
+          "navn": "Motforslag",
+          "stemmer": 22
+        }
+      ],
+      "hvem_vant": "Frøseth Fenes forslag",
+      "roedt_stoette": "Frøseth Fenes forslag",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "PS 156/24",
+  "rodt_fremmet_forslag": false
+}

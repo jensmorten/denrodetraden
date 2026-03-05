@@ -1,0 +1,24 @@
+{
+  "tittel": "Nyvalg til utvalgene",
+  "innstilling": "Valg av medlemmer i utvalg og valg av ledere og nestleder i utvalg som listet i saksdokumentet.",
+  "vedtak": "Innstillingen ble enstemmig vedtatt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen til valg av medlemmer og ledere i utvalgene.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "21.11.2024",
+  "saksnummer_ps": "PS 210/24",
+  "rodt_fremmet_forslag": false
+}

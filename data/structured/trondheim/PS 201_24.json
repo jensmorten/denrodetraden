@@ -1,0 +1,56 @@
+{
+  "tittel": "Det videre samarbeidet med Stiftelsen Livsglede for Eldre",
+  "innstilling": [
+    "Det inngås en ny avtale med stiftelsen Livsglede for eldre der arbeidet med å rekruttering og legge tilrette for frivilligheten innen eldreomsorgen gis større fokus.",
+    "I videre dialog mellom Trondheim kommune og stiftelsen Livsglede for eldre skal man se på hvordan man ivaretar rutiner og intensjoner, samtidig som man ikke legger for store beslag på ansatteressursene. Avtalen evalueres etter to år."
+  ],
+  "vedtak": [
+    "Det inngås en ny avtale med stiftelsen Livsglede for eldre der arbeidet med å rekruttering og legge tilrette for frivilligheten innen eldreomsorgen gis større fokus.",
+    "I videre dialog mellom Trondheim kommune og stiftelsen Livsglede for eldre skal man se på hvordan man ivaretar rutiner og intensjoner, samtidig som man ikke legger for store beslag på ansatteressursene. Avtalen evalueres etter to år.",
+    "Bystyret understreker betydningen av forebygging mot demenssykdom, og ber om at dette vurderes som et tema i avtalen. Antall personer som rammes av demens er økende, og forebyggende tiltak vil både ha stor positiv effekt på den enkelte og for samfunnet som helhet."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Vegard Frøseth Fenes (SP)",
+      "tekst": "Bystyret understreker betydningen av forebygging mot demenssykdom, og ber om at dette vurderes som et tema i avtalen. Antall personer som rammes av demens er økende, og forebyggende tiltak vil både ha stor positiv effekt på den enkelte og for samfunnet som helhet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 64
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "Mot innstillingen",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over Frøseth Fenes (SP) sitt tilleggsforslag om forebygging mot demenssykdom",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 64
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "Mot forslaget",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "21.11.2024",
+  "saksnummer_ps": "PS 201/24",
+  "rodt_fremmet_forslag": false
+}

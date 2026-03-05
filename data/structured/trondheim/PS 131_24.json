@@ -1,0 +1,33 @@
+{
+  "tittel": "Detaljregulering av Fredlybekken, øvre del, Utleirvegen - Klæbuveien, detaljregulering, sluttbehandling",
+  "innstilling": null,
+  "vedtak": "Saken utsettes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Aurora Meland Winger (MDG)",
+      "tekst": "Saken utsettes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Wingers utsettelsesforslag",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 40
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "For utsettelsesforslaget",
+      "roedt_stoette": "For utsettelsesforslaget",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.06.2024",
+  "saksnummer_ps": "PS 131/24",
+  "rodt_fremmet_forslag": false
+}

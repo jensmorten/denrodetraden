@@ -1,0 +1,99 @@
+{
+  "tittel": "Innføring av digital områdesikring på kommunale barnehager og skoler",
+  "innstilling": [
+    "Bystyret vedtar at digital områdesikring utenfor arbeidstid innføres som pilot på 10 barnehager og skoler i Trondheim.",
+    "Bystyret vil vurdere videre bruk av digital områdesikring på barnehager og skoler etter gjennomført pilotering.",
+    "Bystyret ber byrådet sørge for at digital områdesikring som hovedregel ikke starter før de faste brukerne av bygget har forlatt området, også for de aktivitetene som foregår etter arbeidstid."
+  ],
+  "vedtak": [
+    "Bystyret vedtar at digital områdesikring utenfor arbeidstid innføres som pilot på 10 barnehager og skoler i Trondheim.",
+    "Bystyret vil vurdere videre bruk av digital områdesikring på barnehager og skoler etter gjennomført pilotering.",
+    "Bystyret ber byrådet sørge for at digital områdesikring som hovedregel ikke starter før de faste brukerne av bygget har forlatt området, også for de aktivitetene som foregår etter arbeidstid.",
+    "Piloten skal evalueres etter to år, fra tidspunktet hvor systemene er operative på alle enhetene som inngår i prosjektet.",
+    "Bystyret ber om at evaluering av piloten også inkluderer en vurdering av hvordan digital områdesikring påvirker bruken og opplevelsen av uteområder og lekeplasser."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Erling Eide Hustvedt (Ap) på vegne av Ap, R",
+      "tekst": "Bystyret mener det i tillegg må satses mer på forebygging og et sterkt lag rundt barn og unge, og ber derfor byrådet fremme en sak for bystyret med en parallell pilot med fokus på andre forebyggende tiltak."
+    },
+    {
+      "forslagsstiller": "Erling Eide Hustvedt (Ap)",
+      "tekst": "Bystyret ber om at evaluering av piloten også inkluderer en vurdering av hvordan digital områdesikring påvirker bruken og opplevelsen av uteområder og lekeplasser."
+    },
+    {
+      "forslagsstiller": "Vegard Frøseth Fenes (SP)",
+      "tekst": "Piloten skal evalueres etter to år, fra tidspunktet hvor systemene er operative på alle enhetene som inngår i prosjektet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 58
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 9
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering på tilleggsforslag 'Parallell pilot med forebyggende tiltak' fra Eide Hustvedt (Ap) på vegne av Ap, R",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 37
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering på tilleggsforslag 'Påvirkning på uteområder og lekeplasser' fra Eide Hustvedt (Ap)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 54
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 13
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering på tilleggsforslag 'Pilotens varighet' fra Frøseth Fenes (SP)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 56
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 11
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "21.11.2024",
+  "saksnummer_ps": "PS 194/24",
+  "rodt_fremmet_forslag": false
+}

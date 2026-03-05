@@ -1,0 +1,53 @@
+{
+  "tittel": "Medlemsforslag - Samarbeid for å etablere hjelpetiltak for etterlatte ved overdose - og andre rusrelaterte dødsfall - Mona Berger (SV)",
+  "innstilling": "Bystyret ber byrådet sørge for at det etableres hjelpetiltak for etterlate ved rusrelaterte dødsfall, i vår region. Aktuelle samarbeidsaktører som skal involveres i prosessen er foreningen EVR, KoRus, lærings og mestringssenteret, St. Olavs og ideelle aktører på feltet som for eksempel Kirkens bymisjon.\nBystyret ber byrådet vurdere å etablere en etterlattkafé i Trondheim slik man har i Bergen. Pilgrimsgården kan være et aktuelt sted for dette tilbudet. Det skal være et lavterskeltilbud for alle etterlatte som har opplevd rusrelaterte dødsfall, uansett når dødsfallet skjedde.",
+  "vedtak": "Bystyret ber byrådet sørge for at det etableres hjelpetiltak for etterlate ved rusrelaterte dødsfall, i vår region. Aktuelle samarbeidsaktører som skal involveres i prosessen er foreningen EVR, KoRus, lærings og mestringssenteret, St. Olavs og ideelle aktører på feltet som for eksempel Kirkens bymisjon.\nBystyret ber byrådet vurdere å etablere en etterlattkafé i Trondheim slik man har i Bergen. Pilgrimsgården kan være et aktuelt sted for dette tilbudet. Det skal være et lavterskeltilbud for alle etterlatte som har opplevd rusrelaterte dødsfall, uansett når dødsfallet skjedde.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "PP, MDG, V, SP, Ap, KrF",
+      "tekst": "Bystyret ber byrådet vurdere å etablere en etterlattkafé i Trondheim slik man har i Bergen. Pilgrimsgården kan være et aktuelt sted for dette tilbudet. Det skal være et lavterskeltilbud for alle etterlatte som har opplevd rusrelaterte dødsfall, uansett når dødsfallet skjedde."
+    },
+    {
+      "forslagsstiller": "SV, Ap, KrF, PP, SP, FrP, R, MDG, V, Uavh.",
+      "tekst": "Bystyret ber byrådet sørge for at det etableres hjelpetiltak for etterlate ved rusrelaterte dødsfall, i vår region. Aktuelle samarbeidsaktører som skal involveres i prosessen er foreningen EVR, KoRus, lærings og mestringssenteret, St. Olavs og ideelle aktører på feltet som for eksempel Kirkens bymisjon."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Ved alternativ votering mellom innstillingen og SVs forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 0
+        },
+        {
+          "navn": "SVs forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "SVs forslag",
+      "roedt_stoettet": "SVs forslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om PPs forslag",
+      "alternativer": [
+        {
+          "navn": "PPs forslag",
+          "stemmer": 51
+        },
+        {
+          "navn": "Mot PPs forslag",
+          "stemmer": 16
+        }
+      ],
+      "hvem_vant": "PPs forslag",
+      "roedt_stoettet": "Mot PPs forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "21.11.2024",
+  "saksnummer_ps": "PS 196/24",
+  "rodt_fremmet_forslag": false
+}

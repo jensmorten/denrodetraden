@@ -1,0 +1,24 @@
+{
+  "tittel": "Avvikling av Miljølab",
+  "innstilling": null,
+  "vedtak": "Saken ble vedtatt utsatt under konstitueringen av møtet.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om utsatt behandling av saken",
+      "alternativer": [
+        {
+          "navn": "Utsatt",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Utsatt",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 226/2024",
+  "rodt_fremmet_forslag": false
+}

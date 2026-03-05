@@ -1,0 +1,62 @@
+{
+  "tittel": "PS 161/2024 Østre Rosten borettslag - søknad om kommunal garanti for låneopptak",
+  "innstilling": {
+    "1": "Garantiansvaret utgjør inntil 9 644 875 kroner. Garantiansvaret omfatter eksisterende lån på 8 344 875 kroner samt et nytt lån på 1 300 000 kroner. Lånet på 1 300 000 kroner benyttes til finansiering av bygging av laderom for el-scootere og rullestoler.",
+    "2": "Garantien gjelder for enhver tid gjeldende hovedstol med et tillegg av 10 % for dekning av renter og eventuelle omkostninger.",
+    "3": "Garantien gis ved selvskyldnerkausjon.",
+    "4": "Lånets løpetid er på maksimalt 20 år, og forfaller til betaling senest innen utgangen av 2044.",
+    "5": "Garantien nedtrappes i takt med forutsatt utvikling i hovedforholdet. Garantiansvaret opphører i sin helhet 2 år etter det tidspunktet lånet er forutsatt å være nedbetalt.",
+    "6": "Det påhviler mottaker av garantien et ansvar med å sikre at garantien ikke er i strid med kommuneloven. Garantien er ugyldig hvis mottakeren forsto eller burde forstått at den er i strid med kommunelovens § 14-19 første ledd første punktum.",
+    "7": "Vedtak erstatter tidligere garantivedtak gjort av bystyret i møte 29.04.2004, sak 62/04.",
+    "8": "Bystyrets vedtak skal oversendes Statsforvalteren i Trøndelag for godkjenning"
+  },
+  "vedtak": {
+    "1": "Garantiansvaret utgjør inntil 9 644 875 kroner. Garantiansvaret omfatter eksisterende lån på 8 344 875 kroner samt et nytt lån på 1 300 000 kroner. Lånet på 1 300 000 kroner benyttes til finansiering av bygging av laderom for el-scootere og rullestoler.",
+    "2": "Garantien gjelder for enhver tid gjeldende hovedstol med et tillegg av 10 % for dekning av renter og eventuelle omkostninger.",
+    "3": "Garantien gis ved selvskyldnerkausjon.",
+    "4": "Lånets løpetid er på maksimalt 20 år, og forfaller til betaling senest innen utgangen av 2044.",
+    "5": "Garantien nedtrappes i takt med forutsatt utvikling i hovedforholdet. Garantiansvaret opphører i sin helhet 2 år etter det tidspunktet lånet er forutsatt å være nedbetalt.",
+    "6": "Det påhviler mottaker av garantien et ansvar med å sikre at garantien ikke er i strid med kommuneloven. Garantien er ugyldig hvis mottakeren forsto eller burde forstått at den er i strid med kommunelovens § 14-19 første ledd første punktum.",
+    "7": "Vedtak erstatter tidligere garantivedtak gjort av bystyret i møte 29.04.2004, sak 62/04.",
+    "8": "Bystyrets vedtak skal oversendes Statsforvalteren i Trøndelag for godkjenning"
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstillingen til kommunal garanti for låneopptak for Østre Rosten borettslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 66,
+          "partier": [
+            "18 H",
+            "17 Ap",
+            "9 SV",
+            "5 MDG",
+            "4 frP",
+            "4 V",
+            "3 R",
+            "3 PP",
+            "1 KrF",
+            "Uavh",
+            "SP"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "1 H"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "PS 161/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,28 @@
+{
+  "tittel": "Skal Trondheim kommune støtte oppropet for en ikke-spredningsavtale for fossile brensel?",
+  "innstilling": "Innstillinga fikk 22 stemmer (Ap, 9SV, 4MDG, 4V, 3R, KrF), men falt med flertallets 45 stemmer (20H, 16Ap, 4FrP, 3PP, Uavh, Sp)",
+  "vedtak": "Innstillinga falt med 22 stemmer for og 45 stemmer mot.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om støtte til oppropet for en ikke-spredningsavtale for fossile brensel",
+      "alternativer": [
+        {
+          "navn": "For innstillinga",
+          "stemmer": 22
+        },
+        {
+          "navn": "Mot innstillinga",
+          "stemmer": 45
+        }
+      ],
+      "hvem_vant": "Mot innstillinga",
+      "roedt_stoettet": "For innstillinga",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.06.2024",
+  "saksnummer_ps": "PS 145/24",
+  "rodt_fremmet_forslag": false
+}

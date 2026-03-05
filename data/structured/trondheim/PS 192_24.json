@@ -1,0 +1,49 @@
+{
+  "tittel": "PS 192/2024 Fritakssøknad Jens-Christian Hørløck (H)",
+  "innstilling": "Jens-Christian Hørløck innvilges fritak som vararepresentant til bystyret og utvalg, grunnet omsorgsoppgaver.",
+  "vedtak": "Jens-Christian Hørløck innvilges fritak som vararepresentant til bystyret og utvalg, grunnet omsorgsoppgaver.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mona Berger (SV)",
+      "tekst": "Jens-Christian Hørløck innvilges fritak fra 12 mnd som vararepresentant til bystyret og utvalg, grunnet omsorgsoppgaver."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Ved alternativ votering mellom innstillingens og Bergers forslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 38,
+          "partier": [
+            "20 H",
+            "4 MDG",
+            "4 FrP",
+            "4 V",
+            "1 R",
+            "3 PP",
+            "KrF",
+            "SP"
+          ]
+        },
+        {
+          "navn": "Bergers forslag",
+          "stemmer": 29,
+          "partier": [
+            "17 Ap",
+            "9 SV",
+            "2 R",
+            "Uavh."
+          ]
+        }
+      ],
+      "vinner": "Innstillingen",
+      "roedt_stoette": "Innstillingen",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "24.10.2024",
+  "saksnummer_ps": "PS 192/24",
+  "rodt_fremmet_forslag": false
+}

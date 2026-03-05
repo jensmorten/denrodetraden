@@ -1,0 +1,45 @@
+{
+  "tittel": "PS 181/2024 Retningslinjer for forfall",
+  "innstilling": "Bystyret vedtar vedlagte retningslinjer for forfall, vedlegg 1. Bystyret ber ordfører sørge for at politiske møter organiseres og tilrettelegges på en god måte for bystyremedlemmene. Møtekalenderen publiseres for hele valgperioden med de muligheter for justeringer underveis som ligger i bystyrets reglement. Bystyret orienteres deretter om nødvendige justeringer i forkant av hvert halvår.",
+  "vedtak": "Bystyret vedtar vedlagte retningslinjer for forfall, vedlegg 1. Bystyret ber ordfører sørge for at politiske møter organiseres og tilrettelegges på en god måte for bystyremedlemmene. Møtekalenderen publiseres for hele valgperioden med de muligheter for justeringer underveis som ligger i bystyrets reglement. Bystyret orienteres deretter om nødvendige justeringer i forkant av hvert halvår.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV)",
+      "tekst": "Bystyret ber ordfører sørge for at politiske møter organiseres og tilrettelegges på en god måte for bystyremedlemmene. Møtekalenderen publiseres for hele valgperioden med de muligheter for justeringer underveis som ligger i bystyrets reglement. Bystyret orienteres deretter om nødvendige justeringer i forkant av hvert halvår."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Naper Salomonsens tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "24.10.2024",
+  "saksnummer_ps": "PS 181/24",
+  "rodt_fremmet_forslag": false
+}

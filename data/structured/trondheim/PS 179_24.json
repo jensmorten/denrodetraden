@@ -1,0 +1,53 @@
+{
+  "tittel": "PS 179/2024 Kommuneplanens arealdel 2022-2034 - Sluttbehandling",
+  "innstilling": "5. Arealdelen vedtas med rettsvirkning ved Bystyrets vedtak, jf. plan- og bygningsloven § 11-6. Dette med unntak av de klart avgrensede deler av planen som det er knyttet innsigelser til, jf. plan- og bygningsloven § 11-16. Disse tas opp til mekling og eventuell videre behandling hos Kommunal- og distriktsdepartementet, jf. plan- og bygningsloven § 5-6.\n§ 24.1.1 Generelle bestemmelser, retningslinjen endres til følgende: Fritidsbebyggelse skal tilpasses tomtearealet, og bør ha maksimalt 80 m2 BRA for hovedbygg.",
+  "vedtak": "5. Arealdelen vedtas med rettsvirkning ved Bystyrets vedtak, jf. plan- og bygningsloven § 11-6. Dette med unntak av de klart avgrensede deler av planen som det er knyttet innsigelser til, jf. plan- og bygningsloven § 11-16. Disse tas opp til mekling og eventuell videre behandling hos Kommunal- og distriktsdepartementet, jf. plan- og bygningsloven § 5-6.\n§ 24.1.1 Generelle bestemmelser, retningslinjen endres til følgende: Fritidsbebyggelse skal tilpasses tomtearealet, og bør ha maksimalt 80 m2 BRA for hovedbygg.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Berit Tiller (H) på vegne av H, KrF, MDG, SP, V, PP",
+      "tekst": "5. Arealdelen vedtas med rettsvirkning ved Bystyrets vedtak, jf. plan- og bygningsloven § 11-6. Dette med unntak av de klart avgrensede deler av planen som det er knyttet innsigelser til, jf. plan- og bygningsloven § 11-16. Disse tas opp til mekling og eventuell videre behandling hos Kommunal- og distriktsdepartementet, jf. plan- og bygningsloven § 5-6."
+    },
+    {
+      "forslagsstiller": "Silje Naper Salomonsen (SV)",
+      "tekst": "§ 24.1.1 Generelle bestemmelser, retningslinjen endres til følgende: Fritidsbebyggelse skal tilpasses tomtearealet, og bør ha maksimalt 80 m2 BRA for hovedbygg."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillingen og Tillers felleforslag til nytt punkt 5",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": null
+        },
+        {
+          "navn": "Tillers felleforslag",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Tillers felleforslag",
+      "roedt_stoettet": "Tillers felleforslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om Salomonsens tilleggsforslag om ny korrekt retningslinje om størrelse på fritidsbebyggelse",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 54
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 13
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "24.10.2024",
+  "saksnummer_ps": "PS 179/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,29 @@
+{
+  "tittel": "PS 165/2024 Stavne Arbeid Trondheim KF og Stavne Inkludering Trondheim KF - styret - valg av settemedlem",
+  "innstilling": null,
+  "vedtak": "Saken utsettes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Berit Tiller (H)",
+      "tekst": "Saken utsettes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelsesforslag fremmet av Berit Tiller (H)",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Utsettelsesforslag",
+      "roedt_stoettet": "Utsettelsesforslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "PS 165/24",
+  "rodt_fremmet_forslag": false
+}

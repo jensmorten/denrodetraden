@@ -1,0 +1,33 @@
+{
+  "tittel": "Kommuneplanens arealdel 2022-2034 - Sluttbehandling",
+  "innstilling": null,
+  "vedtak": "Saken utsettes",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Berit Tiller (H)",
+      "tekst": "Saken utsettes"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Tillers utsettelsesforslag",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 55
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "For utsettelsesforslaget",
+      "roedt_stoettet": "Mot utsettelsesforslaget",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.06.2024",
+  "saksnummer_ps": "PS 129/24",
+  "rodt_fremmet_forslag": false
+}

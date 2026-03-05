@@ -1,0 +1,41 @@
+{
+  "tittel": "Forslag til skjønnsmedlemmer for perioden 2025 - 2028",
+  "innstilling": "Bystyret vedtar forslag til 125 skjønnsmedlemmer for perioden 01.01.2025 - 31.12.2028, slik vedlagte liste viser.",
+  "vedtak": "Bystyret vedtar forslag til 125 skjønnsmedlemmer for perioden 01.01.2025 - 31.12.2028, slik vedlagte liste viser, med den endringen at Berit Bagøisen Mellingsæter erstatter Vibeke Svendsen",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Erling Moe (V)",
+      "tekst": "Vibeke Svendsen har fått ny jobb i Politiet og er derfor ikke valgbar som skjønnsmedlem, og erstattes av Berit Bagøisen Mellingsæter i forslaget."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på innstillinga",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillinga",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på Moes forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Moes forslag",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.06.2024",
+  "saksnummer_ps": "PS 153/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,65 @@
+{
+  "tittel": "Nardovegen 2 og 5, detaljregulering - sluttbehandling",
+  "innstilling": "Bystyret vedtar forslag til detaljregulering av Nardovegen 2 og 5 som vist på kart i målestokk 1:1000, merket YME arkitekter AS senest datert 25.04.2024 med bestemmelser senest datert 25.04.2024 og beskrevet i planbeskrivelsen, senest datert 23.04.2024. Med følgende endringer: §3.8 endres til: Maksimum 35% av leilighetene skal være ettroms. §3.8 Nytt punkt: Ettromsleilighetene skal være minst 25 kvm. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "vedtak": "Bystyret vedtar forslag til detaljregulering av Nardovegen 2 og 5 med de angitte endringer i §3.8 som beskrevet i innstillingen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jenny Nordaune (SV) på vegne av SV, R",
+      "tekst": "§3.8, Leilighetsfordeling treroms leiligheter. §3.8 nytt punkt: Minst 50% av leilighetene skal være treroms."
+    },
+    {
+      "forslagsstiller": "Jenny Nordaune (SV) på vegne av SV, R",
+      "tekst": "§4.6 transportsykler. §4.6 endres til: Minimum 10% av plassene skal tilrettelegges for transportsykler."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillinga",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 67
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over Nordaunes tilleggsforslag §3.8 (Minst 50% treroms)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 54
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over Nordaunes tilleggsforslag §4.6 (Minimum 10% transportsykler)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 17
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 50
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "trondheim",
+  "dato": "12.06.2024",
+  "saksnummer_ps": "PS 133/24",
+  "rodt_fremmet_forslag": false
+}
