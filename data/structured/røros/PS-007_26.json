@@ -1,0 +1,33 @@
+{
+  "tittel": "Reguleringsplan for Amneushagaen",
+  "innstilling": "Røros kommune vedtar med hjemmel i plan- og bygningsloven § 12-12 reguleringsplan for Amneushagaen med planID 20160002 med plankart datert 28.08.25 og reguleringsbestemmelser datert 01.10.25. Samtidig oppheves reguleringsplan for Fjellheimen med planID 20070003 og deler av reguleringsplan for Åstjønna med planID 19820005 jfr plan- og bygningsloven § 12-14.",
+  "vedtak": "Røros kommune vedtar med hjemmel i plan- og bygningsloven § 12-12 reguleringsplan for Amneushagaen med planID 20160002 med plankart datert 28.08.25 og reguleringsbestemmelser datert 01.10.25. Samtidig oppheves reguleringsplan for Fjellheimen med planID 20070003 og deler av reguleringsplan for Åstjønna med planID 19820005 jfr plan- og bygningsloven § 12-14.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Per Arne Gjelsvik (V)",
+      "tekst": "1 Det gis tillatelse til oppstart av reguleringsarbeid med formål bolig. 2 Inntil 25% kan være fritidsboliger. 3 Saken sendes tilbake til kommunedirektøren for videre tiltak."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom endringsforslaget fra repr. Gjelsvik og innstillingen fra planutvalget.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen fra planutvalget",
+          "stemmer": 14
+        },
+        {
+          "navn": "Endringsforslaget fra repr. Gjelsvik",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "Innstillingen fra planutvalget",
+      "roedt_stoettet": "Innstillingen fra planutvalget",
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "røros",
+  "dato": "05.02.2026",
+  "saksnummer_ps": "PS-007/26",
+  "rodt_fremmet_forslag": false
+}

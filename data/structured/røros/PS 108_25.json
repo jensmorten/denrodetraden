@@ -1,0 +1,24 @@
+{
+  "tittel": "108/25 Orienteringer",
+  "innstilling": "Orienteringene tas til orientering.",
+  "vedtak": "Orienteringene tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens forslag",
+      "roedt_stoettet": "Kommunedirektørens forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 108/25",
+  "rodt_fremmet_forslag": false
+}

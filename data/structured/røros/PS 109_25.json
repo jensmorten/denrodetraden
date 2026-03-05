@@ -1,0 +1,30 @@
+{
+  "tittel": "109/25 Kommunal eiendomsportefølje",
+  "innstilling": [
+    "Status på kommunale bygg og eiendommer tas til orientering.",
+    "Kommunestyret ber om at det legges frem egen sak om salg av kommunale boliger i 2026"
+  ],
+  "vedtak": [
+    "Status på kommunale bygg og eiendommer tas til orientering.",
+    "Kommunestyret ber om at det legges frem egen sak om salg av kommunale boliger i 2026"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "11.12.2025",
+  "saksnummer_ps": "PS 109/25",
+  "rodt_fremmet_forslag": false
+}

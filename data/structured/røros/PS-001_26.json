@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og sakliste godkjennes.",
+  "vedtak": "Innkalling og sakliste godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordfører sitt forslag til vedtak om godkjenning av innkalling og saksliste",
+      "alternativer": [
+        {
+          "navn": "Ordførers forslag",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "Ordførers forslag",
+      "roedt_stoettet": "Ordførers forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "05.02.2026",
+  "saksnummer_ps": "PS-001/26",
+  "rodt_fremmet_forslag": false
+}

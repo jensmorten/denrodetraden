@@ -1,0 +1,24 @@
+{
+  "tittel": "003/26 Referatsaker",
+  "innstilling": "Referatsak tas til orientering",
+  "vedtak": "Referatsak tas til orientering",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "05.02.2026",
+  "saksnummer_ps": "PS-003/26",
+  "rodt_fremmet_forslag": false
+}

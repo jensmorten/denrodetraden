@@ -1,0 +1,54 @@
+{
+  "tittel": "Endring av skolestruktur 2025",
+  "innstilling": [
+    "Glåmos skole legges ned fra 1. januar 2026.",
+    "Kommunedirektøren bes sørge for gode og involverende prosesser for å sikre et godt skole- og arbeidsmiljø.",
+    "Kommunedirektøren bes sørge for et fortsatt godt samarbeid med AtB for å sikre et godt skysstilbud til alle elever."
+  ],
+  "vedtak": [
+    "Glåmos skole legges ned fra 1. august 2026.",
+    "Kommunedirektøren bes sørge for gode og involverende prosesser for å sikre et godt skole- og arbeidsmiljø.",
+    "Kommunedirektøren bes sørge for et fortsatt godt samarbeid med AtB for å sikre et godt skysstilbud til alle elever.",
+    "Kommunestyret ber kommunedirektør å legge fram en sak om mulighetene for framtidig bruk av bygningsmassen innen 1. juli 2026"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Røros Arbeiderparti (Henrik Grønn)",
+      "tekst": "Glåmos skole legges ned med virkning fra 1.8.2026"
+    },
+    {
+      "forslagsstiller": "Høyre (Rob Veldhuis)",
+      "tekst": "Kommunestyret ber kommunedirektør å legge fram en sak om mulighetene for framtidig bruk av bygningsmassen innen 1. juli 2026"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på forslag i saken med nytt kulepunkt 1 (nedleggelse av Glåmos skole fra 1.8.2026)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på forslag om nytt kulepunkt 4 (sak om framtidig bruk av bygningsmassen)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "05.02.2026",
+  "saksnummer_ps": "PS-011/26",
+  "rodt_fremmet_forslag": true
+}

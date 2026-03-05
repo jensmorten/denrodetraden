@@ -1,0 +1,53 @@
+{
+  "tittel": "Planinitiativ detaljregulering An-Magrittveien 117 m.fl.",
+  "innstilling": "Det åpnes for detaljregulering av nevnte område til fritidsboliger.",
+  "vedtak": "Det åpnes for detaljregulering av nevnte område til fritidsboliger.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Per Arne Gjelsvik (V)",
+      "tekst": "1 Det gis tillatelse til oppstart av reguleringsarbeid med formål bolig. 2 Inntil 25% kan være fritidsboliger. 3 Saken sendes tilbake til kommunedirektøren for videre tiltak."
+    },
+    {
+      "forslagsstiller": "Christian Elgaaen (SV)",
+      "tekst": "Beslutningen om å stoppe planinitiativet for detaljregulering av An-Magrittveien 117 m.fl. opprettholdes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslaget fra repr. Gjelsvik",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 2
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen fra planutvalget mot endringsforslaget fra repr. Elgaaen",
+      "alternativer": [
+        {
+          "navn": "Innstillingen fra planutvalget",
+          "stemmer": 14
+        },
+        {
+          "navn": "Endringsforslaget fra repr. Elgaaen",
+          "stemmer": 13
+        }
+      ],
+      "hvem_vant": "Innstillingen fra planutvalget",
+      "roedt_stoettet": "Endringsforslaget fra repr. Elgaaen",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "05.02.2026",
+  "saksnummer_ps": "PS-006/26",
+  "rodt_fremmet_forslag": false
+}
