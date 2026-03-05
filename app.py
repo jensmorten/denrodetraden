@@ -32,7 +32,7 @@ kommune = st.selectbox(
 )
 
 uploaded_file = st.file_uploader(
-    "Last opp sakliste (PDF)",
+    "Last opp enkelt sak eller sakliste (PDF)",
     type=["pdf"]
 )
 
