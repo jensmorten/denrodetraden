@@ -1,0 +1,45 @@
+{
+  "tittel": "Retningslinjer utleie av kommunale bygg - overnatting",
+  "innstilling": "Retningslinjene for overnatting på skoler og idrettshaller vedtas.",
+  "vedtak": "Retningslinjene for overnatting på skoler og idrettshaller vedtas. Saken sendes på bakgrunn av Idrettsrådets innspill tilbake til Utvalg Kultur og Levekår med en fullmakt til å tilpasse og sluttbehandle saken.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rune Larsen (Høyre)",
+      "tekst": "Saken sendes på bakgrunn av Idrettsrådets innspill tilbake til Utvalg Kultur og Levekår med en fullmakt til å tilpasse og sluttbehandle saken."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling: Retningslinjene for overnatting på skoler og idrettshaller vedtas.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning over tilleggsforslag fra Rune Larsen (Høyre): Saken sendes tilbake til Utvalg Kultur og Levekår med fullmakt til å tilpasse og sluttbehandle saken.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 59/24",
+  "rodt_fremmet_forslag": false
+}

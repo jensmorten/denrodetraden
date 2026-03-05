@@ -1,0 +1,29 @@
+{
+  "tittel": "Valg av medlem og varamedlem til representantskapet i Fides IKS",
+  "innstilling": "Som Stjørdal kommunes representant til representantskapet i Fides IKS velges:\nSom varamedlem til representantskapet i Fides IKS velges:",
+  "vedtak": "Som Stjørdal Kommunes representant til representantskapet i Fides IKS velges:\nOrdfører Eli Arnstad (Sp)\nSom varamedlem til representantskapet i Fides IKS velges: Leder i Utvalg kultur og levekår, Rune Larsen (H)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tor Helge Forbord Slind (Senterpartiet)",
+      "tekst": "Som Stjørdal Kommunes representant til representantskapet i Fides IKS velges:\nOrdfører Eli Arnstad (Sp)\nSom varamedlem til representantskapet i Fides IKS velges:\nLeder i kultur og levekår Rune Larsen (H)"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av representant og varamedlem til representantskapet i Fides IKS, votering mellom innstilling og forslag fra Tor Helge Forbord Slind (Sp).",
+      "alternativer": [
+        {
+          "navn": "Forslag 2 (Tor Helge Forbord Slind)",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "Forslag 2 (Tor Helge Forbord Slind)",
+      "roedt_stoettet": "Forslag 2 (Tor Helge Forbord Slind)",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "13.06.2024",
+  "saksnummer_ps": "PS 85/24",
+  "rodt_fremmet_forslag": false
+}

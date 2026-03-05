@@ -1,0 +1,48 @@
+{
+  "tittel": "1.tertial 2024. Økonomirapportering inklusive finansforvaltning",
+  "innstilling": [
+    "1. Kommunestyret tar vedlagte tertialrapport til orientering.",
+    "2. Kommunestyret er tilfreds med at de iverksatte tiltak har ønsket effekt, slik at vi gjennom første halvår 2024 har håndtert merforbruket fra 2023 i henhold til bestemmelsene i kommunelovens § 14-11.",
+    "3. Kommunestyret ber kommunedirektøren følge situasjonen rundt skolene nøye, og tar til etterretning at kommunedirektøren finner de vedtatte budsjettrammene forsvarlige både økonomisk og faglig. Kommunestyret har tillit til at kommunedirektøren gjør løpende vurderinger basert på elevtall, vedtak om spesialundervisning og endringer inn mot skolestart på en slik måte at eventuelle behov for endringer i budsjett og rammer blir framlagt for kommunestyret."
+  ],
+  "vedtak": [
+    "1. Kommunestyret tar vedlagte tertialrapport til orientering.",
+    "2. Kommunestyret er tilfreds med at de iverksatte tiltak har ønsket effekt, slik at vi gjennom første halvår 2024 har håndtert merforbruket fra 2023 i henhold til bestemmelsene i kommunelovens § 14-11.",
+    "3. Kommunestyret ber kommunedirektøren følge situasjonen rundt skolene nøye, og tar til etterretning at kommunedirektøren finner de vedtatte budsjettrammene forsvarlige både økonomisk og faglig. Kommunestyret har tillit til at kommunedirektøren gjør løpende vurderinger basert på elevtall, vedtak om spesialundervisning og endringer inn mot skolestart på en slik måte at eventuelle behov for endringer i budsjett og rammer blir framlagt for kommunestyret."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstilling pkt. 1: Kommunestyret tar vedlagte tertialrapport til orientering.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning om innstilling pkt. 2 og 3: Kommunestyret er tilfreds med tiltakene og ber kommunedirektøren følge situasjonen rundt skolene.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 22
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 13
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Imot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "13.06.2024",
+  "saksnummer_ps": "PS 88/24",
+  "rodt_fremmet_forslag": false
+}

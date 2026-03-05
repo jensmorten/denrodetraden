@@ -1,0 +1,33 @@
+{
+  "tittel": "Krav om lovlighetskontroll etter kommuneloven § 27-1 vedrørende skolebudsjettet 2024/2025",
+  "innstilling": "Kravet om lovlighetskontroll avvises og kravet sendes over til Statsforvalteren i Trøndelag for videre behandling.",
+  "vedtak": "Kravet om lovlighetskontroll avvises og kravet sendes over til Statsforvalteren i Trøndelag for videre behandling.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "Kravet om lovlighetskontroll støttes av kommunestyret og sendes over til Statsforvalteren i Trøndelag for videre behandling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstilling om å avvise kravet om lovlighetskontroll og Morten Harpers alternative forslag om å støtte kravet.",
+      "alternativer": [
+        {
+          "navn": "Innstilling: Kravet om lovlighetskontroll avvises",
+          "stemmer": 21
+        },
+        {
+          "navn": "Morten Harper (SV): Kravet om lovlighetskontroll støttes",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Innstilling: Kravet om lovlighetskontroll avvises",
+      "roedt_stoettet": "Morten Harper (SV): Kravet om lovlighetskontroll støttes",
+      "roedt_paa_side": "taper"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "13.06.2024",
+  "saksnummer_ps": "PS 78/24",
+  "rodt_fremmet_forslag": false
+}

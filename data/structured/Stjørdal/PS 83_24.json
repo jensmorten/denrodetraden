@@ -1,0 +1,49 @@
+{
+  "tittel": "Innspill til Miljøpakkens handlingsprogram 2025-29",
+  "innstilling": "Kommunestyret slutter seg til at det ikke blir gitt innspill til fasen detaljplanlegging eller fasen gjennomføring av prosjekter i Miljøpakkens handlingsprogram for 2025-29. Dette på bakgrunn av at Stjørdal kommune er i gang med å gjennomføre flere prosjekter og har to prosjekter under utvikling. Egen sak om finansiering av tverrforbindelse på Stjørdal stasjon fremmes i løpet av 2024.",
+  "vedtak": "Stjørdal kommune følger opp allerede vedtatte prosjekt i Miljøpakken. Der hvor det ikke er tilstrekkelig kapasitet til å gi vedtatte prosjekt god fremdrift nyttes eksterne ressurser. I tillegg til de store prosjektene innenfor Miljøpakken i Stjørdal kommune ønsker vi at «Snarveier»-prosjektet løftes frem. Her er fortsatt ønsket at det gamle jernbanesporet på Tangmoen omdannes til en gang- og sykkelvei for å knytte Molovika og Storvika til sentrum av Stjørdal med en bilfri forbindelse. Det samme gjelder sammenhengende gang- og sykkelstier fra sentrumsområdene og inn mot knutepunktet Stjørdal stasjon. En må gjerne involvere innbyggerne til å nominere nye «Snarveier» som motiverer for økt gange eller bruk av sykkel.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole Hermod Sandvik (Høyre)",
+      "tekst": "Stjørdal kommune følger opp allerede vedtatte prosjekt i Miljøpakken. Der hvor det ikke er tilstrekkelig kapasitet til å gi vedtatte prosjekt god fremdrift nyttes eksterne ressurser. I tillegg til de store prosjektene innenfor Miljøpakken i Stjørdal kommune ønsker vi at «Snarveier»-prosjektet løftes frem. Her er fortsatt ønsket at det gamle jernbanesporet på Tangmoen omdannes til en gang- og sykkelvei for å knytte Molovika og Storvika til sentrum av Stjørdal med en bilfri forbindelse. En må gjerne involvere innbyggerne til å nominere nye «Snarveier» som motiverer for økt gange eller bruk av sykkel."
+    },
+    {
+      "forslagsstiller": "Gunnar Uglem (Miljøpartiet de grønne)",
+      "tekst": "Det samme gjelder sammenhengende gang- og sykkelstier fra sentrumsområdene og inn mot knutepunktet Stjørdal stasjon."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning mellom innstilling og Ole Hermod Sandviks (Høyre) alternative forslag.",
+      "alternativer": [
+        {
+          "navn": "Innstilling",
+          "stemmer": 0
+        },
+        {
+          "navn": "Ole Hermod Sandviks alternative forslag",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "Ole Hermod Sandviks alternative forslag",
+      "roedt_stoettet": "Ole Hermod Sandviks alternative forslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning om Gunnar Uglems (Miljøpartiet de grønne) tilleggsforslag.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "Tilleggsforslag",
+      "roedt_stoettet": "Tilleggsforslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "13.06.2024",
+  "saksnummer_ps": "PS 83/24",
+  "rodt_fremmet_forslag": false
+}

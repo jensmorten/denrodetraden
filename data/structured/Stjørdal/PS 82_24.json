@@ -1,0 +1,24 @@
+{
+  "tittel": "Dialog med Signaturhagen Stjørdal AS om konseptet Harmonihagen er avsluttet",
+  "innstilling": "Kommunedirektøren har avsluttet forhandlinger om erverv av omsorgsboliger med Signaturhagen Stjørdal AS. Saken tas til orientering.",
+  "vedtak": "Kommunedirektøren har avsluttet forhandlinger om erverv av omsorgsboliger med Signaturhagen Stjørdal AS. Saken tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling om avslutning av forhandlinger med Signaturhagen Stjørdal AS",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "13.06.2024",
+  "saksnummer_ps": "PS 82/24",
+  "rodt_fremmet_forslag": false
+}

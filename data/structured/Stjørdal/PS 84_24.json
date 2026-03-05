@@ -1,0 +1,33 @@
+{
+  "tittel": "Valg av nytt medlem til representantskapet Innherred Renovasjon IKS",
+  "innstilling": "Som ny representant til representantskapet Innherred Renovasjon IKS velges:",
+  "vedtak": "Som ny representant til representantskapet Innherred renovasjon IKS velges: Rolf Charles Berg (SP)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tor Helge Forbord Slind (Senterpartiet)",
+      "tekst": "Som ny representant til representantskapet Innherred renovasjon IKS velges: Rolf Charles Berg (SP)"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av nytt medlem til representantskapet Innherred Renovasjon IKS",
+      "alternativer": [
+        {
+          "navn": "Innstilling",
+          "stemmer": null
+        },
+        {
+          "navn": "Tor Helge Forbord Slind (Senterpartiet) forslag: Rolf Charles Berg (SP)",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "Tor Helge Forbord Slind (Senterpartiet) forslag: Rolf Charles Berg (SP)",
+      "roedt_stoettet": "Tor Helge Forbord Slind (Senterpartiet) forslag: Rolf Charles Berg (SP)",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "13.06.2024",
+  "saksnummer_ps": "PS 84/24",
+  "rodt_fremmet_forslag": false
+}

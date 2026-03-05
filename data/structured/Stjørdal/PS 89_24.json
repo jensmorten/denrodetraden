@@ -1,0 +1,41 @@
+{
+  "tittel": "Revidering investeringsbudsjett 2024",
+  "innstilling": "Kommunestyret vedtar kommunedirektørens forslag til revidering av Stjørdal kommunes investeringsbudsjett for 2024 i henhold til tabell og konklusjon under saksopplysninger. Økt investeringsbudsjett med kr 10 918 000,- finansieres med rest av ubrukte lånemidler (kr 10 951 000,-).",
+  "vedtak": "Kommunestyret vedtar kommunedirektørens forslag til revidering av Stjørdal kommunes investeringsbudsjett for 2024 i henhold til tabell og konklusjon under saksopplysninger. Økt investeringsbudsjett med kr 10 918 000,- finansieres med rest av ubrukte lånemidler (kr 10 951 000,-).\nFor prosjektet \"Ny brannstasjon/blålyshus\" bevilges ikke ytterligere investeringsmidler nå.\nDet skal fremmes en sak for Utvalg Plan og Miljø, som vil ta stilling til saken. Det skal framgå av saken hvilke kostnader som er påløpt hittil, og hva disse kostnadene er benyttet til. Det skal også framgå hva tilleggsbevilgningen ønskes benyttet til. Utvalg Plan og Miljø gis fullmakt til å innvilge tilleggsbevilgningen i sin politiske behandling av saken.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Renate Trøan Bjørshol (Høyre)",
+      "tekst": "For prosjektet \"Ny brannstasjon/blålyshus\" bevilges ikke ytterligere investeringsmidler nå. Det skal fremmes en sak for Utvalg Plan og Miljø, som vil ta stilling til saken. Det skal framgå av saken hvilke kostnader som er påløpt hittil, og hva disse kostnadene er benyttet til. Det skal også framgå hva tilleggsbevilgningen ønskes benyttet til. Utvalg Plan og Miljø gis fullmakt til å innvilge tilleggsbevilgningen i sin politiske behandling av saken."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling fra formannskapet 06.06.2024 om revidering av investeringsbudsjett 2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning over tilleggsforslag fra Renate Trøan Bjørshol (Høyre) om ikke å bevilge ytterligere midler til prosjektet \"Ny brannstasjon/blålyshus\" nå",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "13.06.2024",
+  "saksnummer_ps": "PS 89/24",
+  "rodt_fremmet_forslag": false
+}

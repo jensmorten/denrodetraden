@@ -1,0 +1,69 @@
+{
+  "tittel": "Orientering om status og håndtering av økte sosialhjelpsutgifter ved NAV Værnes",
+  "innstilling": "Saken tas til orientering.",
+  "vedtak": "Saken tas til orientering.\nKommunestyret er sterkt bekymret for den store økningen i sosialhjelpsutbetalinger både det gjelder utgiftsnivå og antall tilfeller. Det faktum at Stjørdal ligger betydelig høyere enn sammenlignbare kommuner og over landsgjennomsnittet er ikke bærekraftig over tid. Kommunestyret ber Kommunedirektøren komme tilbake til kommunestyret i mai med en tydeligere analyse og aktuelle tiltak for å redusere veksten slik at vi kan komme på nivå med kommuner vi kan sammenligne oss med. Kommunedirektøren bes samtidig orientere om hvordan det kan legges til rette for et målrettet arbeid for at flere skal komme ut i arbeid og slippe å være avhengig av sosialhjelp.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eli Arnstad (Senterpartiet)",
+      "tekst": "Kommunestyret er sterkt bekymret for den store økningen i sosialhjelpsutbetalinger både det gjelder utgiftsnivå og antall tilfeller. Det faktum at Stjørdal ligger betydelig høyere enn sammenlignbare kommuner og over landsgjennomsnittet er ikke bærekraftig over tid. Kommunestyret ber Kommunedirektøren komme tilbake til kommunestyret i mai med en tydeligere analyse og aktuelle tiltak for å redusere veksten slik at vi kan komme på nivå med kommuner vi kan sammenligne oss med. Kommunedirektøren bes samtidig orientere om hvordan det kan legges til rette for et målrettet arbeid for at flere skal komme ut i arbeid og slippe å være avhengig av sosialhjelp."
+    },
+    {
+      "forslagsstiller": "Jan Inge Kaspersen (Arbeiderpartiet)",
+      "tekst": "Kommunestyret viser til tidligere vedtak om satser for økonomisk sosialhjelp og ønsker ikke kutt i disse satsene. Det bemerkes samtidig om kravet til individuell behandling av stønadsbeløp. Kommunestyret ønsker en vurdering rundt økning av administrativ ressurs til snittet i Trøndelag eller Trondheim. Dette for å styrke innsatsen med å hjelpe flere over i jobb og bort fra økonomisk sosialhjelp."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling fra Formannskapet 18.04.2024: Saken tas til orientering.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over forslag fra Eli Arnstad (Senterpartiet): Kommunestyret er sterkt bekymret for den store økningen i sosialhjelpsutbetalinger og ber om tiltak og analyse.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over forslag fra Jan Inge Kaspersen (Arbeiderpartiet): Ønsker ikke kutt i sosialhjelpssatser og vurdering av økt administrativ ressurs.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 61/24",
+  "rodt_fremmet_forslag": false
+}

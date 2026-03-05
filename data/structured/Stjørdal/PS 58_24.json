@@ -1,0 +1,70 @@
+{
+  "tittel": "Alkoholpolitiske retningslinjer 2024-2028",
+  "innstilling": {
+    "tekst": "1. Alkoholpolitiske retningslinjer for Stjørdal kommune vedtas (vedlegg 1).\n2. Retningslinjene gjøres gjeldende fra 01.10.2024 til 30.09.2028",
+    "kilde": "Formannskapet 18.04.2024"
+  },
+  "vedtak": {
+    "tekst": "1. Alkoholpolitiske retningslinjer for Stjørdal kommune vedtas (vedlegg 1).\n2. Retningslinjene gjøres gjeldende fra 01.10.2024 til 30.09.2028\nEndringsforslag punkt 2.4.1\nFor uteservering som grenser mot områder hvor barn og unge normalt oppholder seg (parker, lekeplasser o.l skal skjenkearealet være avgrenset med et gjerde, beplantning og eller lignende.\n2.5 skjenketider gruppe 3 på helligdager endres fra 24:00 til 01:00."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tor Helge Forbord Slind (Senterpartiet)",
+      "tekst": "Endringsforslag punkt 2.4.1\nFor uteservering som grenser mot områder hvor barn og unge normalt oppholder seg (parker, lekeplasser o.l skal skjenkearealet være avgrenset med et gjerde, beplantning og eller lignende."
+    },
+    {
+      "forslagsstiller": "Johannes Fagervold (Rødt)",
+      "tekst": "2.5 skjenketider gruppe 3 på helligdager endres fra 24:00 til 01:00."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over Tor Helge Forbord Slind (Senterpartiet) sitt endringsforslag punkt 2.4.1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning over Johannes Fagervold (Rødt) sitt endringsforslag om skjenketider gruppe 3 på helligdager",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 32
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning over innstillingen fra Formannskapet 18.04.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 58/24",
+  "rodt_fremmet_forslag": true
+}
