@@ -269,7 +269,7 @@ with st.expander("ℹ️ Hva er Den Røde tråden?"):
 
     Målet med appen er å gjøre det enklere å finne lignende saker behandlet i andre kommuner, se hvilke forslag som ble fremmet, analysere voteringer, identifisere når og hvordan Rødt har fremmet alternative forslag, lære av tidligere behandlinger
 
-    kildekoden ligger fritt tilgjengelig på Github: https://github.com/jensmorten/denrodetraden"
+    kildekoden ligger fritt tilgjengelig på Github: https://github.com/jensmorten/denrodetraden
              
     Appen er utvikla av Jens Morten Nilsen, Rødt Malvik. For å få passord for bruk, send mail til jens.morten.nilsen@gmail.com. Kommentarer og innspill er også svært velkomment. 
 

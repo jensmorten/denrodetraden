@@ -1,0 +1,41 @@
+{
+  "tittel": "Nyvalg til Representantskapet Revisjon Midt-Norge SA og Representantskapet KonSek Trøndelag IKS 2023 - 2027",
+  "innstilling": "Kommunestyret opphever tidligere vedtak i kommunestyre sak 117/2023 vedrørende oppnevning til representantskapene i KONSEK Trøndelag og KOMREV.",
+  "vedtak": "Kommunestyret opphever tidligere vedtak i kommunestyre sak 117/2023 vedrørende oppnevning til representantskapene i KONSEK Trøndelag og KOMREV.\nRepresentantskapet KonSek Trøndelag IKS:\nSom medlem velges: Eli Arnstad (Sp)\nSom varamedlem velges: Renate Trøan Bjørshol (H)\nSom varamedlem velges: Idar Aspmodal (Ap)\nRepresentantskapet Revisjon Midt-Norge SA:\nSom medlem velges: Eli Arnstad (Sp)\nSom varamedlem velges: Renate Trøan Bjørshol (H)\nSom varamedlem velges: Idar Aspmodal (Ap)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tor Helge Forbord Slind (Senterpartiet)",
+      "tekst": "Representantskapet KonSek Trøndelag IKS:\nSom medlem velges: Eli Arnstad (Sp)\nSom varamedlem velges: Renate Trøan Bjørshol (H)\nSom varamedlem velges: Idar Aspmodal (Ap)\nRepresentantskapet Revisjon Midt-Norge SA:\nSom medlem velges: Eli Arnstad (Sp)\nSom varamedlem velges: Renate Trøan Bjørshol (H)\nSom varamedlem velges: Idar Aspmodal (Ap)"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling om oppheving av tidligere vedtak i kommunestyre sak 117/2023 vedrørende oppnevning til representantskapene i KONSEK Trøndelag og KOMREV.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 36
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over forslag fra Tor Helge Forbord Slind (Senterpartiet) om valg til representantskapene KonSek Trøndelag IKS og Revisjon Midt-Norge SA.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 36
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "15.02.2024",
+  "saksnummer_ps": "PS 30/24",
+  "rodt_fremmet_forslag": false
+}
