@@ -1,0 +1,29 @@
+{
+  "tittel": "002/25 Orienteringer",
+  "innstilling": "Orienteringene tas til orientering.",
+  "vedtak": "Orienteringene tas til orientering.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Henrik Grønn (Ap)",
+      "tekst": "Kommunestyret kan likevel komme med en sterk henstilling til at ordføreren sammen med en representant for mindretallet går i dialog med Ren Røros AS ned sikte på reforhandling av avtalen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen i orienteringssaken",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 002/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Referatsaker",
+  "innstilling": "Referatsak tas til orientering",
+  "vedtak": "Referatsak tas til orientering",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunedirektørens forslag ble enstemmig vedtatt.",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens forslag",
+      "roedt_stoettet": "Kommunedirektørens forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 040/25",
+  "rodt_fremmet_forslag": false
+}

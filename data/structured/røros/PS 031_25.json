@@ -1,0 +1,37 @@
+{
+  "tittel": "Ren Røros As: innstilling av 1 medlem til valgkomiteen",
+  "innstilling": "Som medlem til valgkomiteen i Ren Røros AS innstilles:\n1. Medlem 2 ….. (3 års tjenestetid, på valg 2027)",
+  "vedtak": "Som medlem til valgkomiteen i Ren Røros AS innstilles:\nHans Vintervold (3 års tjenestetid, på valg 2027)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Henrik Grønn (Ap)",
+      "tekst": "Gjenvalg på Hans Vintervold for tre år"
+    },
+    {
+      "forslagsstiller": "Mona Waldahl Slettum (H)",
+      "tekst": "Kjell Magnus Krog foreslås som medlem av valgkomiteen for Ren Røros"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Forslaget fra repr. Grønn ble satt opp i mot forslaget fra repr. Slettum",
+      "alternativer": [
+        {
+          "navn": "Forslag fra repr. Grønn (Ap)",
+          "stemmer": 17
+        },
+        {
+          "navn": "Forslag fra repr. Slettum (H)",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "Forslag fra repr. Grønn (Ap)",
+      "roedt_stoette": "Forslag fra repr. Grønn (Ap)",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 031/25",
+  "rodt_fremmet_forslag": false
+}

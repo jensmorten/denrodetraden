@@ -1,0 +1,24 @@
+{
+  "tittel": "010/25 Orienteringer",
+  "innstilling": "Orienteringene tas til etterretning.",
+  "vedtak": "Orienteringene tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 010/25",
+  "rodt_fremmet_forslag": false
+}

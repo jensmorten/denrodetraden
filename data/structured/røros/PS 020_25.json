@@ -1,0 +1,33 @@
+{
+  "tittel": "020/25 Salg av bolig på Glåmos",
+  "innstilling": "Røros kommune selger tomannsbolig, Vollberget 25 A og B, til Glåmos bygdalag. Boligen selges til 990.000,- kroner i tråd med verdivurderingen. Inntekter fra salget settes av til ubundet investeringsfond.",
+  "vedtak": "Røros kommune selger tomannsbolig, Vollberget 25 A og B, til Glåmos bygdalag. Boligen selges til 990.000,- kroner i tråd med verdivurderingen. Inntekter fra salget settes av til ubundet investeringsfond.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjell Magnus Krog (H)",
+      "tekst": "Røros kommune selger tomannsbolig, Vollberget 25 A og B. Boligen legges ut for salg på det åpne marked."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen i saken ble satt opp i mot endringsforslaget fra repr. Krog.",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 18
+        },
+        {
+          "navn": "Endringsforslaget fra repr. Krog",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 020/25",
+  "rodt_fremmet_forslag": false
+}

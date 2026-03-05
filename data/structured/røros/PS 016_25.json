@@ -1,0 +1,54 @@
+{
+  "tittel": "016/25 Valgkomiteer og roller 2025",
+  "innstilling": {
+    "RKK As": {
+      "medlem": "Medlem 3 ….. (3 års tjenestetid, på valg 2028)",
+      "leder": "Leder for valgkomiteen… (1 års tjenestetid som leder)"
+    },
+    "Verket Røros As": {
+      "medlem1": "Medlem 2 ….. (3 års tjenestetid, på valg 2028)",
+      "medlem2": "Medlem 3 ….. (1 års tjenestetid, på valg 2026)",
+      "leder": "Leder for valgkomiteen…. (1 års tjenestetid som leder)"
+    },
+    "Optimus As": {
+      "medlem1": "Medlem 2 ….. (2 års tjenestetid, på valg 2027)",
+      "medlem2": "Medlem 3 ….. (2 års tjenestetid, på valg 2027)",
+      "leder": "Leder for valgkomiteen…. (1 års tjenestetid som leder)"
+    }
+  },
+  "vedtak": {
+    "RKK As": {
+      "medlem": "Hans Petter Kvikne (3 års tjenestetid, på valg 2028)",
+      "leder": "Kjell Morten Hansen (1 års tjenestetid som leder)"
+    },
+    "Verket Røros As": {
+      "medlem1": "Mathias Berg (3 års tjenestetid, på valg 2028)",
+      "medlem2": "Trond Ole Schjølberg (1 års tjenestetid, på valg 2026)",
+      "leder": "Isak V. Busch (1 års tjenestetid som leder)"
+    },
+    "Optimus As": {
+      "medlem1": "Kjell Morten Hansen (2 års tjenestetid, på valg 2027)",
+      "medlem2": "Guri Heggem (2 års tjenestetid, på valg 2027)",
+      "leder": "Elin Tamnes (1 års tjenestetid som leder)"
+    }
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgutvalgets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 016/25",
+  "rodt_fremmet_forslag": false
+}

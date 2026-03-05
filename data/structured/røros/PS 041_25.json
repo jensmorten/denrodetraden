@@ -1,0 +1,37 @@
+{
+  "tittel": "Elsykkel Mølmannsdalen - endring av forskrift",
+  "innstilling": null,
+  "vedtak": "Saken utsettes for realitetsbehandling",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjell Morten Hansen (Ap)",
+      "tekst": "Røros kommune anmoder Miljødirektoratet om forskriftsendring for Møllmannsdalen naturreservat, slik at det tillates bruk av el-sykkel etter veien."
+    },
+    {
+      "forslagsstiller": "Kjell Magnus Krog (H)",
+      "tekst": "Saken utsettes for realitetsbehandling"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslaget fra repr. Krog",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For utsettelsesforslaget",
+      "roedt_stoettet": "Mot utsettelsesforslaget",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "røros",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 041/25",
+  "rodt_fremmet_forslag": false
+}

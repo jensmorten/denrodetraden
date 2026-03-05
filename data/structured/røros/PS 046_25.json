@@ -1,0 +1,45 @@
+{
+  "tittel": "Opptak av likviditetslån",
+  "innstilling": "Kommunestyret gir kommunedirektøren fullmakt til å ta opp likviditetslån på inntil 78 millioner kroner for budsjettåret 2025.",
+  "vedtak": "Kommunestyret gir kommunedirektøren fullmakt til å ta opp likviditetslån på inntil 78 millioner kroner for budsjettåret 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Per Arne Gjelsvik (V)",
+      "tekst": "Kommunestyret ber kommunedirektøren utrede mulighet for salg/leaseback av egnede eiendommer med tanke på gjeldsreduksjon og bedret likviditet. Særlig kan Røros beredskapssenter og muligens Hengfonna barnehage være aktuelle objekter."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen i saken",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslaget fra repr. Gjelsvik",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 12
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "Mot tilleggsforslaget",
+      "roedt_stoettet": "For tilleggsforslaget",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "røros",
+  "dato": "22.05.2025",
+  "saksnummer_ps": "PS 046/25",
+  "rodt_fremmet_forslag": false
+}

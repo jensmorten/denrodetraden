@@ -1,0 +1,29 @@
+{
+  "tittel": "015/25 Innstilling av medlem til styre i Røros Vekst As",
+  "innstilling": "Som styremedlem til Røros Vekst As så innstiller Røros kommune «………….» for x års tjenestetid.",
+  "vedtak": "Som styremedlem til Røros Vekst AS så innstiller Røros kommune Atle Femundshytten for 1 års tjenestetid.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Valgutvalget",
+      "tekst": "Som styremedlem til Røros Vekst AS så innstiller Røros kommune Atle Femundshytten for 1 års tjenestetid."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgutvalgets forslag til styremedlem",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets forslag (Atle Femundshytten)",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets forslag (Atle Femundshytten)",
+      "roedt_stoettet": "Valgutvalgets forslag (Atle Femundshytten)",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 015/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,69 @@
+{
+  "tittel": "PS 15/2025 Utredning Namsos kommunale kulturskole og ny rammeplan",
+  "innstilling": {
+    "tekst": [
+      "1. Kommunestyret tar utredningen om Namsos kommunale kulturskole til orientering.",
+      "2. «Rammeplan for Kulturskolen - Kulturskole for alle (2025)» legges til grunn for drift og utvikling av Namsos kommunale kulturskole.",
+      "3. Elevkontingenten i kulturskolen økes til kroner 4200 for ordinær elevplass fra skoleåret 2025/2026. Budsjettjustering gjennomføres i virksomhetsrapportering for 1. tertial.",
+      "4. Kommunestyret ber kommunedirektøren opprettholde et kontinuerlig fokus på økt effektivitet i kulturskolen og legge til rette for at UKM aktivt brukes som et virkemiddel for utvikling av Namsos som én kommune."
+    ],
+    "hjemmel": "Opplæringslova § 26 Kulturskole"
+  },
+  "vedtak": {
+    "tekst": [
+      "1. Kommunestyret tar utredningen om Namsos kommunale kulturskole til orientering.",
+      "2. «Rammeplan for Kulturskolen - Kulturskole for alle (2025)» legges til grunn for drift og utvikling av Namsos kommunale kulturskole.",
+      "3. Kommunestyret ber kommunedirektøren opprettholde et kontinuerlig fokus på økt effektivitet i kulturskolen",
+      "4. Kommunestyret ber kommunedirektøren gjennomføre et utviklingsarbeid for å se på mulighetene til utvidet gruppeundervisning i kulturskolen",
+      "5. Kommunestyret ber kommunedirektøren om at organiseringen av kulturskolen inngår i den helhetlige organisasjonsgjennomgangen vedtatt av kommunestyret 19.12.2024."
+    ]
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Geir Strøm Aalberg (Sosialistisk Venstreparti)",
+      "tekst": "Saken sendes tilbake til kommunedirektøren for å få et bredere kunnskapsgrunnlag til politisk beslutning. Vi ønsker at saken utredes raskt og ny utredning fremmes for formannskapet før sommerferien 2025.\nDet vi ønsker belyst er:\n· Flere synergieffekter med grunnskolen ved at lærere i kulturskolen bidrar med sin kompetanse inn i grunnskolen.\n· Kommunen har en anstrengt økonomi. Kommunedirektøren skal skissere flere alternative driftsformer for kulturskolen hvor drift med mindre ramme skal inkluderes. Herunder skal det også redegjøres for eventuelle konsekvenser av reduksjoner i ramme."
+    },
+    {
+      "forslagsstiller": "Håkon Aglen Fredriksen (Høyre)",
+      "tekst": "1. Kommunestyret tar utredningen om Namsos kommunale kulturskole til orientering.\n2. «Rammeplan for Kulturskolen - Kulturskole for alle (2025)» legges til grunn for drift og utvikling av Namsos kommunale kulturskole.\n3. Kommunestyret ber kommunedirektøren opprettholde et kontinuerlig fokus på økt effektivitet i kulturskolen\n4. Kommunestyret ber kommunedirektøren gjennomføre et utviklingsarbeid for å se på mulighetene til utvidet gruppeundervisning i kulturskolen\n5. Kommunestyret ber kommunedirektøren om at organiseringen av kulturskolen inngår i den helhetlige organisasjonsgjennomgangen vedtatt av kommunestyret 19.12.2024."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslaget fremmet av Geir Strøm Aalberg (SV)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 6
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 28
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over alternative forslag fra Håkon Aglen Fredriksen (Høyre), forslag 1 vs forslag 2",
+      "alternativer": [
+        {
+          "navn": "Forslag 1",
+          "stemmer": 9
+        },
+        {
+          "navn": "Forslag 2",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "Forslag 2",
+      "roedt_stoettet": "Forslag 2",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 15/25",
+  "rodt_fremmet_forslag": false
+}

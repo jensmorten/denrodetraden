@@ -1,0 +1,46 @@
+{
+  "tittel": "Revidering av investeringsbudsjett 2025 og 2026",
+  "innstilling": {
+    "tekst": "Formannskapet sitt forslag til vedtak:\n1.Følgende budsjettendringer vedtas i investeringsbudsjettet for 2025:\n[detaljert budsjettendring listet]\n2.Følgende budsjettendringer vedtas i investeringsbudsjettet for 2026:\n[detaljert budsjettendring listet]",
+    "hjemmel": "Kommunelovens kapittel 14, §14-1 til §14-5."
+  },
+  "vedtak": {
+    "tekst": "1.Følgende budsjettendringer vedtas i investeringsbudsjettet for 2025:\n[detaljert budsjettendring listet]\n2.Følgende budsjettendringer vedtas i investeringsbudsjettet for 2026:\n[detaljert budsjettendring listet]\nKommunedirektøren får fullmakt til å utbetale kommunens bidrag på 3,2 mill. kroner eks. mva. til opparbeidelse av tomt som investeringstilskudd til Namsos turnforening hvis dette er mest hensiktsmessig for gjennomføring av prosjektet.\nHjemmel for vedtaket: Kommunelovens kapittel 14, §14-1 til §14-5."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hege Bjørgum Skillingstad (Høyre)",
+      "tekst": "Budsjettendring i investeringsbudsjettet for 2025:\nk/:02300.6400.38100.8059 3 200 000,- Opparbeidelse av tomt til turnhall\nk/:04290.6400.38100.8059 800 000,- MVA\nd/:09100.8900.87000.9999 3 200 000,- Redusert bruk av lån\nd/:07290.8900.84100.9999 800 000,- Redusert mva-kompensasjon\nBudsjettendring i investeringsbudsjettet for 2026:\nd/:02300.6400.38100.8059 3 200 000,- Opparbeidelse av tomt til turnhall\nd/:04290.6400.38100.8059 800 000,- MVA\nk/:09100.8900.87000.9999 3 200 000,- Bruk av lån\nk/:07290.8900.84100.9999 800 000,- mva-kompensasjon\nKommunedirektøren får fullmakt til å utbetale kommunens bidrag på 3,2 mill. kroner eks. mva. til opparbeidelse av tomt som investeringstilskudd til Namsos turnforening hvis dette er mest hensiktsmessig for gjennomføring av prosjektet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets forslag til vedtak (innstilling).",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Hege Bjørgum Skillingstad (Høyre).",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "18.12.2025",
+  "saksnummer_ps": "PS 79/2025",
+  "rodt_fremmet_forslag": false
+}

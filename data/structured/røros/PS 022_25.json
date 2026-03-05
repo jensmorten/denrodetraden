@@ -1,0 +1,29 @@
+{
+  "tittel": "022/25 Eiermelding/eierskap 2023",
+  "innstilling": "Kommunestyret vedtar den fremlagte eierskapsmeldingen for 2023 og ber kommunedirektøren arbeide med følgende tiltak rundt Røros kommunes eierskap i selskaper i 2025: [detaljert liste over tiltak for hvert selskap som i teksten]",
+  "vedtak": "Kommunestyret vedtar den fremlagte eierskapsmeldingen for 2023 og ber kommunedirektøren arbeide med følgende tiltak rundt Røros kommunes eierskap i selskaper i 2025: [detaljert liste over tiltak for hvert selskap som i teksten, inkludert tilleggsforslaget fra repr. Leinum om dialog med Røros Kultur og Konferansesenter om leienivå]",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Repr. Stig-Arvid Leinum (R)",
+      "tekst": "Ha dialog med Røros Kultur og Konferansesenter om nivået på leie, med mål om at bygget skal være mest mulig tilgjengelig for barn og unges idretts- og kulturaktiviteter."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming over innstillingen i saken og tilleggsforslaget fra repr. Leinum",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 022/25",
+  "rodt_fremmet_forslag": true
+}

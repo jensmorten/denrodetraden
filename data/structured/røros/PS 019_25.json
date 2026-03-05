@@ -1,0 +1,65 @@
+{
+  "tittel": "019/25 Sluttbehandling - Detaljregulering for Sollirabben - PlanID 20230001",
+  "innstilling": "Røros kommune vedtar forslag til detaljregulering for Sollirabben med planID 20230001, med tilhørende bestemmelser datert 25.02.2025 og tilhørende plandokumenter. (jf. Plan og bygningsloven § 12-12). Planutvalget setter flg. begrensninger: Det tillates ikke oppstuggu i feltet. Maks mønehøyde på hytter feltet 5,25 m. Kommunedirektøren bes innarbeide forslaget i plandokumentene.",
+  "vedtak": "Røros kommune vedtar forslag til detaljregulering for Sollirabben med planID 20230001, med tilhørende bestemmelser datert 25.02.2025 og tilhørende plandokumenter. (jf. Plan og bygningsloven § 12-12). Kommunestyret setter flg. begrensninger: Det tillates ikke oppstuggu i feltet. Maks mønehøyde på hytter feltet 5,25 m. Kommunedirektøren bes innarbeide forslaget i plandokumentene.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Per Arne Gjelsvik (V)",
+      "tekst": "1 Kommunestyret avslår forslag til detaljregulering for Sollirabben med ID 20230001. 2 Kommunestyret ber KD utarbeide et kart over Røros kommune der alle ledige, regulerte hyttetomter samt avsatte hyttetomter uten godkjent detaljregulering, er inntegnet. 3 Kommunestyret ber KD utrede hva som er nødvendige ressurser innen helseberedskap og ikke minst innen hjemmebasert omsorg til å gi forsvarlige og gode tjenester til våre hyttegjester både i dag og i framtida."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillingen og endringsforslagets punkt 1 (avslag på detaljregulering).",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": 22
+        },
+        {
+          "navn": "Endringsforslag punkt 1",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Endringsforslag punkt 1",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over endringsforslagets punkt 2 (kart over ledige og regulerte hyttetomter).",
+      "alternativer": [
+        {
+          "navn": "For punkt 2",
+          "stemmer": 6
+        },
+        {
+          "navn": "Mot punkt 2",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "Mot punkt 2",
+      "roedt_stoettet": "For punkt 2",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over endringsforslagets punkt 3 (utredning av ressurser innen helseberedskap og hjemmebasert omsorg).",
+      "alternativer": [
+        {
+          "navn": "For punkt 3",
+          "stemmer": 4
+        },
+        {
+          "navn": "Mot punkt 3",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Mot punkt 3",
+      "roedt_stoettet": "For punkt 3",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 019/25",
+  "rodt_fremmet_forslag": false
+}

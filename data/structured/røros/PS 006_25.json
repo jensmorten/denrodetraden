@@ -1,0 +1,24 @@
+{
+  "tittel": "006/25 Fritidsfond",
+  "innstilling": "Røros kommune vedtar de nye retningslinjene for kommunens fritidsfonbd datert 26.11.2024",
+  "vedtak": "Røros kommune vedtar de nye retningslinjene for kommunens fritidsfond datert 26.11.2024",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 006/25",
+  "rodt_fremmet_forslag": false
+}

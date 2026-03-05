@@ -1,0 +1,50 @@
+{
+  "tittel": "PS 16/2025 Oppnevnelse av politiske styrerepresentanter til Namdalseid og Jøa frivilligsentral og Namsos frivilligsentral",
+  "innstilling": {
+    "Namdalseid Frivilligsentral": {
+      "Leder": "Steinar Lyngstad",
+      "Varamedlem": "Agnar Forbord"
+    },
+    "Jøa Frivilligsentral": {
+      "Leder": "Svein Storø",
+      "Styremedlem": "Silje Leirbekk",
+      "Varamedlem": "Rune Wiik"
+    },
+    "Namsos Frivilligsentral": {
+      "Styremedlem": "Frode Båtnes"
+    }
+  },
+  "vedtak": {
+    "Namdalseid Frivilligsentral": {
+      "Leder": "Steinar Lyngstad",
+      "Varamedlem": "Agnar Forbord"
+    },
+    "Jøa Frivilligsentral": {
+      "Leder": "Svein Storø",
+      "Styremedlem": "Silje Leirbekk",
+      "Varamedlem": "Rune Wiik"
+    },
+    "Namsos Frivilligsentral": {
+      "Styremedlem": "Frode Båtnes"
+    }
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utvalg for folks forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 16/25",
+  "rodt_fremmet_forslag": false
+}

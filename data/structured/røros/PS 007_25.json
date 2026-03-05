@@ -1,0 +1,33 @@
+{
+  "tittel": "007/25 Kommunal eiendomsportefølje",
+  "innstilling": "Status på kommunale eiendommer og boliger tas til orientering.\nKommunedirektøren bes starte en utredning knyttet til framtidige behov for bygg og lokaliteter innenfor omsorgstjenestene, og orientere om dette på dialogkonferanse 1.",
+  "vedtak": "Status på kommunale eiendommer og boliger tas til orientering.\nKommunedirektøren bes starte en utredning knyttet til framtidige behov for bygg og lokaliteter innenfor omsorgstjenestene, og orientere om dette på dialogkonferanse 1.\nKommunestyret ber kommunedirektøren starer en prosess for å selge ledige tomter og eiendommer som er regulert for bolig i Brekken som er i kommunens eie.\nKommunestyret ber kommunedirektøren utarbeide tydeligere budsjett/vedlikeholdsplan for kommunalt eide bygg som benyttes til utleie med den hensikt at de i mest mulig grad skal leies ut.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kristoffer Tamnes (Sp)",
+      "tekst": "Kommunestyret ber kommunedirektøren starer en prosess for å selge ledige tomter og eiendommer som er regulert for bolig i Brekken som er i kommunens eie."
+    },
+    {
+      "forslagsstiller": "Stig-Arvid Leinum (R)",
+      "tekst": "Kommunestyret ber kommunedirektøren utarbeide tydeligere budsjett/vedlikeholdsplan for kommunalt eide bygg som benyttes til utleie med den hensikt at de i mest mulig grad skal leies ut."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av innstilling med tilleggsforslag fra Kristoffer Tamnes og Stig-Arvid Leinum",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 007/25",
+  "rodt_fremmet_forslag": true
+}

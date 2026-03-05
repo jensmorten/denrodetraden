@@ -1,0 +1,41 @@
+{
+  "tittel": "Detaljregulering for Øra arena",
+  "innstilling": "Røros kommune vedtar forslag til detaljregulering for Øra arena med planId 20210010. (jf. Plan og bygningsloven § 12-12). Kommunedirektøren gis fullmakt til å foreta nødvendige tilpasninger i planbeskrivelsen for å tilpasses foretatte endringer i plankart og bestemmelser.",
+  "vedtak": "Røros kommune vedtar forslag til detaljregulering for Øra arena med planId 20210010. (jf. Plan og bygningsloven § 12-12). Kommunedirektøren gis fullmakt til å foreta nødvendige tilpasninger i planbeskrivelsen for å tilpasses foretatte endringer i plankart og bestemmelser.\nRøros kommunestyre oppfordrer idrettslaget om å legge til rette for aktiviteter for barn og unge med funksjonsnedsettelser",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stein Petter Haugen (Uavh)",
+      "tekst": "Røros kommunestyre oppfordrer idrettslaget om å legge til rette for aktiviteter for barn og unge med funksjonsnedsettelser"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for representant Furunes",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om innstillingen og tilleggsforslag fra repr. Haugen",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 023/25",
+  "rodt_fremmet_forslag": false
+}

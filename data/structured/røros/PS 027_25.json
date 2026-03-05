@@ -1,0 +1,39 @@
+{
+  "tittel": "Helseplattformen: Samarbeidsavtale om kommunalt oppgavefellesskap mellom eierkommunene",
+  "innstilling": [
+    "Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres. Tiltredelse forutsetter at alle Helseplattformens eierkommuner slutter seg til oppgavefellesskapet.",
+    "Kommunestyret utnevner ordfører Isak Busch som kommunens faste representant i oppgavefellesskapets representantskap, med varaordfører Christian Elgaaen som varamedlem."
+  ],
+  "vedtak": [
+    "Kommunestyret vedtar samarbeidsavtalen og tiltredelse i oppgavefellesskapet fra det tidspunktet oppgavefellesskapet etableres. Tiltredelse forutsetter at alle Helseplattformens eierkommuner slutter seg til oppgavefellesskapet.",
+    "Kommunestyret utnevner ordfører Isak Busch som kommunens faste representant i oppgavefellesskapets representantskap, med varaordfører Christian Elgaaen som varamedlem."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Per Arne Gjelsvik (V)",
+      "tekst": "Kommunestyret takker nei til deltagelse i oppgavefellesskapet og avstår fra å undertegne samarbeidsavtalen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom endringsforslaget fra repr. Gjelsvik og innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Endringsforslaget fra repr. Gjelsvik",
+          "stemmer": 4
+        },
+        {
+          "navn": "Innstillingen fra formannskapet",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Innstillingen fra formannskapet",
+      "roedt_stoettet": "Innstillingen fra formannskapet",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 027/25",
+  "rodt_fremmet_forslag": false
+}

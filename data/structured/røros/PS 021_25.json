@@ -1,0 +1,24 @@
+{
+  "tittel": "021/25 Oppfølging av politiske vedtak 2024",
+  "innstilling": "Kommunestyret tar rapporten til orientering.",
+  "vedtak": "Kommunestyret tar rapporten til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen i saken ble enstemmig vedtatt.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 021/25",
+  "rodt_fremmet_forslag": false
+}

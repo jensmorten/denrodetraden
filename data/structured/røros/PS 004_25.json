@@ -1,0 +1,33 @@
+{
+  "tittel": "004/25 Interpellasjon til kommunestyremøte den 30.1.25",
+  "innstilling": "Når det gjelder forslaget til vedtak mener jeg dette blir ivaretatt med det jeg allerede har varslet innledningsvis. Som sagt er revidering av renovasjonsforskriften igangsatt, og returpunkt og plassering tas inn i kommunedelplan-arbeidet. Det vil derfor kommer flere anledninger for kommunestyret til å behandle avfallsordningen den kommende tida.",
+  "vedtak": "Forslaget fra repr. Haugen falt med 5 mot 21 stemmer. Mindretallet utgjort representantene Sandnes, Kurås, Prytz, Gjelsvik og Haugen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Repr. Stein Petter Haugen (Uavh)",
+      "tekst": "Ordfører legger frem en sak for kommunestyret med en skissert løsning på hvordan avfallshåndteringen kan løses på best mulig måte for innbyggerne og kommunestyret får en sak for revidering av kriteriene for avfallshåndtering i Røros kommune."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag i saken",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra repr. Haugen",
+          "stemmer": 5
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Forslaget fra repr. Haugen",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 004/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,49 @@
+{
+  "tittel": "PS 19/2025 Tomtevalg for nytt helsebygg",
+  "innstilling": "Kommunestyret ber kommunedirektøren framforhandle avtale for kjøp av aksjene i Sandgata 9 AS innenfor rammene i vedlagt tilbud. Framforhandlet avtale legges fram for formannskapet til godkjenning.",
+  "vedtak": "1. Kommunestyret ber kommunedirektøren fremforhandle avtale med Høknes Eiendom AS om kjøp av tomt beliggende på Høkneshylla.\n2. Den fremforhandlede avtalen må inneha en gjensalgsklausul uten betingelser.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hege Bjørgum Skillingstad (Høyre) på vegne av Høyre, Senterpartiet, Frp, Krf, Sv, Venstre og Inp",
+      "tekst": "1. Kommunestyret ber kommunedirektøren fremforhandle avtale med Høknes Eiendom AS om kjøp av tomt beliggende på Høkneshylla.\n2. Den fremforhandlede avtalen må inneha en gjensalgsklausul uten betingelser."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemming mellom kommunedirektørens forslag og alternativt forslag fra Hege Bjørgum Skillingstad (Høyre) m.fl.",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens forslag",
+          "stemmer": 0
+        },
+        {
+          "navn": "Alternativt forslag om kjøp av tomt på Høkneshylla med gjensalgsklausul",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "Alternativt forslag om kjøp av tomt på Høkneshylla med gjensalgsklausul",
+      "roedt_stoettet": "Alternativt forslag om kjøp av tomt på Høkneshylla med gjensalgsklausul",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemming over det alternative forslaget fra Hege Bjørgum Skillingstad (Høyre) m.fl. med justert stemmetall",
+      "alternativer": [
+        {
+          "navn": "For alternativt forslag",
+          "stemmer": 28
+        },
+        {
+          "navn": "Imot alternativt forslag",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "For alternativt forslag",
+      "roedt_stoettet": "For alternativt forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 19/25",
+  "rodt_fremmet_forslag": false
+}

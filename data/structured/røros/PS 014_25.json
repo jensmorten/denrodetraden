@@ -1,0 +1,29 @@
+{
+  "tittel": "014/25 Suppleringsvalg - varamedlem - råd for personer med nedsatt funksjonsevne",
+  "innstilling": "Som varamedlem i råd for personer med funksjonsnedsettelser for gjenværende del av periode 2023-2027 velges . . .",
+  "vedtak": "Som varamedlem i råd for personer med funksjonsnedsettelser for gjenværende del av periode 2023-2027 velges Li Söderhielm.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Valgutvalget",
+      "tekst": "Som varamedlem i råd for personer med funksjonsnedsettelser for gjenværende del av periode 2023-2027 velges Li Söderhielm."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgutvalgets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 014/25",
+  "rodt_fremmet_forslag": false
+}

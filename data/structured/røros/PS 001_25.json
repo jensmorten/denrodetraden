@@ -1,0 +1,32 @@
+{
+  "tittel": "001/25 Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og sakliste godkjennes.",
+  "vedtak": "Innkalling og sakliste godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av innkalling og saksliste",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 25
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        },
+        {
+          "navn": "Avholdende",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 001/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og sakliste godkjennes.",
+  "vedtak": "Innkalling og sakliste godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Ordførers forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "24.04.2025",
+  "saksnummer_ps": "PS 024/25",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "003/25 Referatsaker",
+  "innstilling": "Referatsak tas til orientering.",
+  "vedtak": "Referatsak tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stottet": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.01.2025",
+  "saksnummer_ps": "PS 003/25",
+  "rodt_fremmet_forslag": false
+}

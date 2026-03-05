@@ -1,0 +1,29 @@
+{
+  "tittel": "017/25 Felles forliksråd - valg av leder",
+  "innstilling": null,
+  "vedtak": "Rune Mortensen velges som leder av felles forliksråd i Røros og Holtålen for perioden 2025-2028.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Isak Veierud Busch (Ap)",
+      "tekst": "Rune Mortensen velges som leder av felles forliksråd i Røros og Holtålen for perioden 2025-2028."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra repr. Isak Veierud Busch (Ap) om valg av leder for felles forliksråd",
+      "alternativer": [
+        {
+          "navn": "Rune Mortensen som leder",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Rune Mortensen som leder",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "27.03.2025",
+  "saksnummer_ps": "PS 017/25",
+  "rodt_fremmet_forslag": false
+}
