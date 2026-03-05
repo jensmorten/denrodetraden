@@ -1,0 +1,45 @@
+{
+  "tittel": "Sluttbehandling av områdeplan - Rundkjøring og gang- og sykkelveg Holvegen - Skatvalskrysset, plan-ID: 5035",
+  "innstilling": "Stjørdal kommune vedtar områderegulering for 5035 Rundkjøring og gang- og sykkelveg Holvegen – Skatvalskrysset, som vist på kart datert 30.05.2024, sist revidert 17.10.2024, bestemmelser datert/sist revidert 31.10.2024 og beskrivelse datert 30.05.2024, sist revidert 18.10.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "vedtak": "Stjørdal kommune vedtar områderegulering for 5035 Rundkjøring og gang- og sykkelveg Holvegen – Skatvalskrysset, som vist på kart datert 30.05.2024, sist revidert 17.10.2024, bestemmelser datert/sist revidert 31.10.2024 og beskrivelse datert 30.05.2024, sist revidert 18.10.2024. Vedtaket fattes i henhold til plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "I tråd med de skjerpede føringene for jordvern reguleres Ragnheimbanen til LNFR-område for tilbakeføring til landbruksformål."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling om områderegulering for 5035 Rundkjøring og gang- og sykkelveg Holvegen – Skatvalskrysset",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 36
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over tilleggsforslag fra Morten Harper (SV) om regulering av Ragnheimbanen til LNFR-område for tilbakeføring til landbruksformål",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 3
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "21.11.2024",
+  "saksnummer_ps": "PS 140/2024",
+  "rodt_fremmet_forslag": false
+}

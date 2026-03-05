@@ -20,7 +20,7 @@ st.set_page_config(page_title="Den Røde Tråden", layout="wide")
 st.title("🔴 Den Røde Tråden")
 st.markdown("Dette er en app som hjelper Rødts kommunestyrerepresentater finne lignende saker i andre kommuner.")  
 st.markdown("Last opp enkelt sak eller sakliste og finn lignende saker i andre kommuner.")
-st.markdown("Appen søker i en database med saker som per idag inneholder behandlede saker fra 1. januar 2025 fram til februar 2026 for kommunene Levanger, Malvik, Melhus, Orkland, Ørland, Stjørdal, Trondheim og Verdal")
+st.markdown("Appen søker i en database med saker som per idag inneholder behandlede saker fra 1. januar 2025 fram til februar 2026 for kommunene Frøya, Hitra, Levanger, Malvik, Melhus, Orkland, Ørland, Røros, Stjørdal, Trondheim og Verdal")
 
 # ============================================
 # INPUT
@@ -28,7 +28,7 @@ st.markdown("Appen søker i en database med saker som per idag inneholder behand
 
 kommune = st.selectbox(
     "Velg kommune saken du laster opp er henta fra",
-    ["Malvik", "Melhus", "Stjørdal", "Trondheim", "Levanger", "Orkland", "Ørland", "Verdal"]
+    ["Frøya", "Hitra", "Levanger", "Malvik", "Melhus", "Orkland", "Ørland", "Røros", "Stjørdal", "Trondheim", "Verdal"], index=3
 )
 
 uploaded_file = st.file_uploader(

@@ -1,0 +1,133 @@
+{
+  "tittel": "Skatval høydebasseng, valg av best mulig plassering.",
+  "innstilling": "Kommunestyret ber kommunedirektøren følge opp Stjørdal kommunes visjon – ta hele kommunen i bruk og kommunestyret vedtak fra 25.1.2024 «Bygging av høydebasseng på Skatval, lokasjon utredes og Tiller toppen skal være et alternativ». og ber om at det lages en vurdering av Tillertoppen og sammenstiller denne med de andre to alternativene - et skjematisk oppsett som viser fordeler og ulemper. Det skal tas hensyn til følgende momenter: ... (se full tekst i dokumentet)",
+  "vedtak": "Kommunestyret sender, sak 141/24 Skatval høydebasseng - valg av best mulig plassering, tilbake til Kommunedirektøren med de føringer gitt av Formannskapet for å implementeres i ny Hovedplan V/A",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Morten Harper (Sosialistisk venstreparti)",
+      "tekst": "Kommunestyret tar rapporten om vurdering av optimal plassering av nytt høydebasseng på Skatvalshaugen til orientering."
+    },
+    {
+      "forslagsstiller": "Rolf Charles Berg (Senterpartiet)",
+      "tekst": "Kommunestyret sender, sak 141/24 Skatval høydebasseng - valg av best mulig plassering, tilbake til Kommunedirektøren med de føringer gitt av Formannskapet for å implementeres i ny Hovedplan V/A"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling om valg av plassering for Skatval høydebasseng",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 1,
+          "representanter": [
+            "Gudrun Lidal (SV)"
+          ]
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 35,
+          "representanter": [
+            "Ann-Inger Leirtrø (Ap)",
+            "Elisabeth Suzen (Ap)",
+            "Idar Aspmodal (Ap)",
+            "Inger Johanne Overvik Uthus (Ap)",
+            "Jan Inge Kaspersen (Ap)",
+            "Kristin Almhjell Jenssen (Ap)",
+            "Per Erik Moen (Ap)",
+            "Siw Mæhre (Ap)",
+            "Stian Flobergseter (Ap)",
+            "Arild Gressetvold (Frp)",
+            "Johan Aarbu (Frp)",
+            "Tor Anders Halle (Frp)",
+            "Berit Anette Elvertrø (H)",
+            "Geir Falck Anderssen (H)",
+            "Ole Hermod Sandvik (H)",
+            "Renate Trøan Bjørshol (H)",
+            "Rune Larsen (H)",
+            "Annette T. Jensen (KrF)",
+            "Geirr Tjash Hagen (Pp)",
+            "Johannes Fagervold (R)",
+            "Anna Wesche Kvål (Sp)",
+            "Eli Arnstad (Sp)",
+            "Erik Bjørgum (Sp)",
+            "Henrik Josteinsson Myhr (Sp)",
+            "Knut Egil Kvarving (Sp)",
+            "Mona Raaen (Sp)",
+            "Nils Nordbotn (Sp)",
+            "Otelie Almli (Sp)",
+            "Roar Brekken (Sp)",
+            "Rolf Charles Berg (Sp)",
+            "Sigurd Bakheim (Sp)",
+            "Tor Helge Forbord Slind (Sp)",
+            "Morten Harper (SV)",
+            "Ann Elisabeth Monsen Èli (UA)",
+            "Gunnar Uglem (V)"
+          ]
+        }
+      ],
+      "hvem_vant": "Imot forslaget",
+      "roedt_stoettet": "Imot forslaget",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "A/B votering mellom to alternative forslag om Skatval høydebasseng",
+      "alternativer": [
+        {
+          "navn": "Forslag 1: Kommunestyret tar rapporten om vurdering av optimal plassering av nytt høydebasseng på Skatvalshaugen til orientering.",
+          "stemmer": 4,
+          "representanter": [
+            "Elisabeth Suzen (Ap)",
+            "Inger Johanne Overvik Uthus (Ap)",
+            "Gudrun Lidal (SV)",
+            "Morten Harper (SV)"
+          ]
+        },
+        {
+          "navn": "Forslag 2: Kommunestyret sender, sak 141/24 Skatval høydebasseng - valg av best mulig plassering, tilbake til Kommunedirektøren med de føringer gitt av Formannskapet for å implementeres i ny Hovedplan V/A",
+          "stemmer": 32,
+          "representanter": [
+            "Ann-Inger Leirtrø (Ap)",
+            "Idar Aspmodal (Ap)",
+            "Jan Inge Kaspersen (Ap)",
+            "Kristin Almhjell Jenssen (Ap)",
+            "Per Erik Moen (Ap)",
+            "Siw Mæhre (Ap)",
+            "Stian Flobergseter (Ap)",
+            "Arild Gressetvold (Frp)",
+            "Johan Aarbu (Frp)",
+            "Tor Anders Halle (Frp)",
+            "Berit Anette Elvertrø (H)",
+            "Geir Falck Anderssen (H)",
+            "Ole Hermod Sandvik (H)",
+            "Renate Trøan Bjørshol (H)",
+            "Rune Larsen (H)",
+            "Annette T. Jensen (KrF)",
+            "Geirr Tjash Hagen (Pp)",
+            "Johannes Fagervold (R)",
+            "Anna Wesche Kvål (Sp)",
+            "Eli Arnstad (Sp)",
+            "Erik Bjørgum (Sp)",
+            "Henrik Josteinsson Myhr (Sp)",
+            "Knut Egil Kvarving (Sp)",
+            "Mona Raaen (Sp)",
+            "Nils Nordbotn (Sp)",
+            "Otelie Almli (Sp)",
+            "Roar Brekken (Sp)",
+            "Rolf Charles Berg (Sp)",
+            "Sigurd Bakheim (Sp)",
+            "Tor Helge Forbord Slind (Sp)",
+            "Ann Elisabeth Monsen Èli (UA)",
+            "Gunnar Uglem (V)"
+          ]
+        }
+      ],
+      "hvem_vant": "Forslag 2",
+      "roedt_stoettet": "Forslag 1",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "21.11.2024",
+  "saksnummer_ps": "PS 141/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,33 @@
+{
+  "tittel": "Kjøp av selskap",
+  "innstilling": "Kommunedirektør får fullmakt til å fremforhandle avtale om kjøp av et eiendomsselskap (aksjer). Kommunedirektøren gis fullmakt til å underskrive nødvendige kontrakter i den forbindelse.",
+  "vedtak": "Kommunedirektøren gis fullmakt til å framforhandle avtale om kjøp av Veiskille Eiendom AS. Kommunedirektøren gis innenfor de rammer som er skissert i saken fullmakt til å underskrive nødvendige kontrakter i den forbindelse.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eli Arnstad (Senterpartiet)",
+      "tekst": "Kommunedirektøren gis fullmakt til å framforhandle avtale om kjøp av Veiskille Eiendom AS. Kommunedirektøren gis innenfor de rammer som er skissert i saken fullmakt til å underskrive nødvendige kontrakter i den forbindelse."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg mellom innstilling og alternativt forslag om kjøp av Veiskille Eiendom AS",
+      "alternativer": [
+        {
+          "navn": "Innstilling",
+          "stemmer": null
+        },
+        {
+          "navn": "Alternativt forslag fra Eli Arnstad (Sp)",
+          "stemmer": 37
+        }
+      ],
+      "hvem_vant": "Alternativt forslag fra Eli Arnstad (Sp)",
+      "roedt_stoettet": "Alternativt forslag fra Eli Arnstad (Sp)",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "21.11.2024",
+  "saksnummer_ps": "PS 143/2024",
+  "rodt_fremmet_forslag": false
+}

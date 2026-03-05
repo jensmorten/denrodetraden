@@ -1,0 +1,28 @@
+{
+  "tittel": "Forespørsel om samtykke til flytting av bryggeanlegg | Stjørdal småbåthavn - Naustberget friluftsområde",
+  "innstilling": "Kommunestyret som grunneier og bortfester gir ikke samtykke til flytting av omsøkt bryggeanlegg på gnr. 82 bnr. 33 fnr. 5 innenfor Naustberget friluftsområde.",
+  "vedtak": "Kommunestyret som grunneier og bortfester gir ikke samtykke til flytting av omsøkt bryggeanlegg på gnr. 82 bnr. 33 fnr. 5 innenfor Naustberget friluftsområde.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstilling fra formannskapet om å ikke gi samtykke til flytting av bryggeanlegg",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 35
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "stjørdal",
+  "dato": "21.11.2024",
+  "saksnummer_ps": "PS 142/2024",
+  "rodt_fremmet_forslag": false
+}
