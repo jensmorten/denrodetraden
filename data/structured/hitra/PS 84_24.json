@@ -1,0 +1,49 @@
+{
+  "tittel": "Valg av møtefullmektige til forliksrådet for perioden 2025-2028",
+  "innstilling": "Hitra kommunestyre vedtar følgende møtefullmektige til forliksrådet for perioden 01.01.2025-31.12.2028:\n• Jorun Leinan\n• Inge Dahlø\n• Dagfinn Herskedal",
+  "vedtak": "Hitra kommunestyre vedtar følgende møtefullmektige til forliksrådet for perioden 01.01.2025-31.12.2028:\n• Jorun Leinan\n• Inge Dahlø\n• Dagfinn Herskedal",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sigrid Helene Hanssen (H), på vegne av H, FRP og PP",
+      "tekst": "Hitra kommunestyre vedtar følgende møtefullmektige til forliksrådet for perioden 01.01.2025-31.12.2028:\n• Jorun Leinan\n• Inge Dahlø\n• Dagfinn Herskedal"
+    },
+    {
+      "forslagsstiller": "Valgutvalget",
+      "tekst": "Hitra kommunestyre vedtar følgende møtefullmektige til forliksrådet for perioden 01.01.2025-31.12.2028:\n• Jorun Fjeldvær\n• Inge Dahlø\n• Dagfinn Herskedal"
+    },
+    {
+      "forslagsstiller": "Ordfører John Lernes (AP)",
+      "tekst": "Forslag om å utsette saken"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Sigrid Helene Hanssen (H) på vegne av H, FRP og PP om valg av møtefullmektige",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Sigrid Helene Hanssen (H)",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget fra Sigrid Helene Hanssen (H)",
+      "roedt_stoettet": "Forslaget fra Sigrid Helene Hanssen (H)",
+      "roedt_paa_vinner_side": null
+    },
+    {
+      "beskrivelse": "Votering over utsettelsesforslag fremmet av Ordfører John Lernes (AP)",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslaget",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Utsettelsesforslaget",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 84/24",
+  "rodt_fremmet_forslag": false
+}

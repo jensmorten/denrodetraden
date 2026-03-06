@@ -1,0 +1,36 @@
+{
+  "tittel": "Møteplan for Hitra kommune 2025",
+  "innstilling": "Hitra kommunestyre vedtar møteplan for folkevalgte organer i Hitra kommune for 2025 som fremlagt.",
+  "vedtak": "Hitra kommunestyre vedtar møteplan for folkevalgte organer i Hitra kommune for 2025 som fremlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av sak 87/2024 i kommunestyret 31.10.2024",
+      "alternativer": [
+        {
+          "navn": "Innstillingen fra formannskapet",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen fra formannskapet",
+      "roedt_stoettet": "Innstillingen fra formannskapet",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling av sak 95/2024 i formannskapet 22.10.2024",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 87/24",
+  "rodt_fremmet_forslag": false
+}

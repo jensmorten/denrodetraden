@@ -1,0 +1,36 @@
+{
+  "tittel": "Fritak fra folkevalgt verv i Hitra kontrollutvalg for valgperioden 2023-2027",
+  "innstilling": "Hitra kommunestyre avslår søknad fra Lars Peder Hammerstad (SP) om fritak fra verv som medlem og nestleder av Hitra kontrollutvalg. Årsaken til avslaget er at kommunestyret mener det ikke er i tråd med kommuneloven § 7-9, andre ledd, å innvilge denne søknaden.",
+  "vedtak": "Hitra kommunestyre avslår søknad fra Lars Peder Hammerstad (SP) om fritak fra verv som medlem og nestleder av Hitra kontrollutvalg. Årsaken til avslaget er at kommunestyret mener det ikke er i tråd med kommuneloven § 7-9, andre ledd, å innvilge denne søknaden.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstilling fra formannskapet i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling av innstilling i formannskapet",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 86/24",
+  "rodt_fremmet_forslag": false
+}
