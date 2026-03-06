@@ -31,14 +31,14 @@ kommune = st.selectbox(
     ["Frøya", "Hitra", "Levanger", "Malvik", "Melhus", "Orkland", "Ørland", "Røros", "Stjørdal", "Trondheim", "Verdal"], index=3
 )
 
-tema = st.text_area(
-    "Eller beskriv tema du vil undersøke (f.eks. 'bemanning i barnehager')",
-    height=100
-)
-
 uploaded_file = st.file_uploader(
     "Last opp enkelt sak eller sakliste (PDF)",
     type=["pdf"]
+)
+
+tema = st.text_area(
+    "Eller beskriv tema du vil undersøke (f.eks. 'bemanning i barnehager')",
+    height=100
 )
 
 password = st.text_input(
