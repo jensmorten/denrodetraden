@@ -1,0 +1,41 @@
+{
+  "tittel": "PS 121/2024 Revidering av Disposisjonsfond - oktober 2024",
+  "innstilling": "Kommunestyret vedtar revidering av bruk av disposisjonsfondet for 2024 som vist i saksfremlegget",
+  "vedtak": "Kommunestyret vedtar revidering av bruk av disposisjonsfondet for 2024 som vist i saksfremlegget med følgende endringer tilskuddsfond for vann og avløp reduseres med totalt 4.millioner kroner",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Borgerlig gruppe",
+      "tekst": "med følgende endringer tilskuddsfond for vann og avløp reduseres med totalt 4.millioner kroner"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Formannskapets behandling av sak 118/2024 i møte den 08.10.2024",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig",
+      "roedt_stoettet": "Enstemmig",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunestyrets behandling av sak 121/2024 i møte den 31.10.2024",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig",
+      "roedt_stoettet": "Enstemmig",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 121/2024",
+  "rodt_fremmet_forslag": false
+}

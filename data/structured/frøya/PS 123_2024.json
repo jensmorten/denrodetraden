@@ -1,0 +1,30 @@
+{
+  "tittel": "PS 123/2024 Budsjettjustering 01/24 - Drift",
+  "innstilling": [
+    "Frøya kommunestyre vedtar budsjettjustering Drift 01/24 som vist i tabell",
+    "6.756.876 kr finansieres over Disposisjonsfondet"
+  ],
+  "vedtak": [
+    "Frøya kommunestyre vedtar budsjettjustering Drift 01/24 som vist i tabell",
+    "6.756.876 kr finansieres over Disposisjonsfondet"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av budsjettjustering Drift 01/24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 123/2024",
+  "rodt_fremmet_forslag": false
+}

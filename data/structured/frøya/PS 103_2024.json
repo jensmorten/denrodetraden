@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 103/2024 Likebehandling av kistegravlegging og kremasjon/urner for alle innbyggere i Frøya kommune",
+  "innstilling": [
+    "Frøya kommune innfører likebehandling av kistegravlegging og kremasjon for Frøyas innbyggere fra 01.10.24.",
+    "Frøya kommune dekker direkte kremasjonskostnader utført ved Trondheim kirkelige fellesråds krematorium."
+  ],
+  "vedtak": [
+    "Frøya kommune innfører likebehandling av kistegravlegging og kremasjon for Frøyas innbyggere fra 01.10.24.",
+    "Frøya kommune dekker direkte kremasjonskostnader utført ved nærliggende krematorium.",
+    "Kirkelig fellesråd bes om å komme med en vurdering av hvilke gravplasser i Frøya kommune som kan opparbeides med minnelund for urnenedsettelser."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Borgeli gruppe",
+      "tekst": "Nytt punkt 2. Frøya kommune dekker direkte kremasjonskostnader utført ved nærliggende krematorium. Punkt 3: Kirkelig fellesråd bes om å komme med en vurdering av hvilke gravplasser i Frøya kommune som kan opparbeides med minnelund for urnenedsettelser."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i kommunestyret om likebehandling av kistegravlegging og kremasjon/urner med endring i kremasjonssted og tillegg om minnelund.",
+      "alternativer": [
+        {
+          "navn": "Vedtak med Borgeli gruppes forslag",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Vedtak med Borgeli gruppes forslag",
+      "roedt_stoettet": "Vedtak med Borgeli gruppes forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "03.10.2024",
+  "saksnummer_ps": "PS 103/2024",
+  "rodt_fremmet_forslag": false
+}

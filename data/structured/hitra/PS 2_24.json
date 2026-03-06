@@ -1,0 +1,80 @@
+{
+  "tittel": "PS 2/24 Anmodning om bosetting av flyktninger i Hitra kommune 2024",
+  "innstilling": [
+    "Hitra kommunestyre ser det som viktig å bidra i bosettingsarbeidet av flyktninger og vedtar å bosette 35 flyktninger i 2024.",
+    "Hitra kommunestyre ser det som vanskelig ut fra kapasitetsutfordringer på områder som bolig, helse, og oppvekst å bosette flere nå på en forsvarlig måte.",
+    "Hitra kommunestyre godkjenner, med noen få unntak tidlig i året, ikke selvbosetting i 2024, men kun ordinær bosetting via mottak."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre ser det som viktig å bidra i bosettingsarbeidet av flyktninger og vedtar å bosette 35 flyktninger i 2024.",
+    "Hitra kommunestyre ser det som vanskelig ut fra kapasitetsutfordringer på områder som bolig, helse, og oppvekst å bosette flere nå på en forsvarlig måte.",
+    "Hitra kommunestyre godkjenner, med noen få unntak tidlig i året, ikke selvbosetting i 2024, men kun ordinær bosetting via mottak."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen fra formannskapet ble vedtatt i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 22
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Innstillingen ble vedtatt i formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunedirektørens innstilling ble vedtatt i Utvalg for Helse og Omsorg",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Innstillingen ble vedtatt i Utvalg for Oppvekst",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunedirektørens innstilling ble vedtatt i Hitra Brukerråd",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "25.01.2024",
+  "saksnummer_ps": "PS 2/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 130/2024 Valg av medlemmer til Frøya ungdomsråd",
+  "innstilling": "Kommunestyret støtter Frøya ungdomsråds forslag.",
+  "vedtak": "Kommunestyret støtter Frøya ungdomsråds forslag.\nKommunestyret velger følgende personer som nye faste medlemmer og varamedlemmer:\nTiril Eidsvaag – Ny, velges for 2 år\nTrygve Botnan Nordvik – Ny, velges for 2 år\nLerke Bakke Måsøval – 1 år igjen\nCasper Espnes – 1 år igjen\nSigve Botnan Nordvik – 1 år igjen\nAud Othilie Søreng Reppe – Ny, velges for 2 år\nSarah Ervik – Ny, velges for 2 år\nScott Eidem – 1 år igjen\nKasper Øyen – 1 år igjen\nRådet er konstituert, og har innstilt Trygve Nordvik til leder og Tiril Eidsvaag til nestleder.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om støtte til Frøya ungdomsråds forslag og valg av medlemmer",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 130/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "Forprosjekt - museum",
+  "innstilling": "Kommunestyret tar rapport Forprosjekt museum til orientering.",
+  "vedtak": "Innhente kompetente vurderinger som belyser generelle tekniske krav til et museum hva gjelder konservering og trygg oppbevaring av de eldste historiske gjenstandene og kulturminnene. Det innbefatter klima som temperatur, luftfuktighet og lyseksponering. Dette har betydning for kostnadsberegning ved nybygging og eventuell utbedring av eksisterende bygninger/rom.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Hovedutvalg for levekårs behandling av sak 44/2024 i møte den 12.12.2024",
+      "alternativer": [
+        {
+          "navn": "Vedtak",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Vedtak",
+      "roedt_stoettet": "Vedtak",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunestyrets behandling av sak 156/2024 i møte den 16.12.2024",
+      "alternativer": [
+        {
+          "navn": "Vedtak",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Vedtak",
+      "roedt_stoettet": "Vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 156/2024",
+  "rodt_fremmet_forslag": false
+}

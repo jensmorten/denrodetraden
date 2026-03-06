@@ -1,0 +1,36 @@
+{
+  "tittel": "Disposisjonsfondet 2024 - fordeling pr ramme",
+  "innstilling": "Frøya kommune vedtar rammefordeling av disposisjonsfondet som vist i saksframlegget",
+  "vedtak": "Frøya kommune vedtar rammefordeling av disposisjonsfondet som vist i saksframlegget",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Formannskapets behandling av sak 144/2024 i møte den 03.12.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunestyrets behandling av sak 146/2024 i møte den 16.12.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 160/2024",
+  "rodt_fremmet_forslag": false
+}

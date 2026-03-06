@@ -1,0 +1,30 @@
+{
+  "tittel": "Ny selskapsavtale for Konsek Trøndelag IKS",
+  "innstilling": [
+    "Frøya kommune godkjenner Tynset kommune som nye eier i Konsek Trøndelag",
+    "Som andre vararepresentant velges:"
+  ],
+  "vedtak": [
+    "Frøya kommune godkjenner Tynset kommune som nye eier i Konsek Trøndelag",
+    "Som andre vararepresentant velges: Aleksander Søreng"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av sak 151/2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 151/2024",
+  "rodt_fremmet_forslag": false
+}

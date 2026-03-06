@@ -1,0 +1,47 @@
+{
+  "tittel": "Høringsuttalelse - Tensio søker fritak for leveringsplikten til Inntiveien 248 i Frøya kommune",
+  "innstilling": [
+    "Kommunestyret støtter Tensios vurderinger om at det er lite samfunnsøkonomisk å gjøre reinvesteringer på forsyningslinjen til Inntiveien 248 på Inntian.",
+    "Kommunestyret ber om at Tensio yter kompenserende tiltak til alternativ energianlegg til strømkunder som blir berørt av opphør av leveringsplikt på strøm til eiendommer i kommunen."
+  ],
+  "vedtak": [
+    "Kommunestyret støtter Tensios vurderinger om at det er lite samfunnsøkonomisk å gjøre reinvesteringer på forsyningslinjen til Inntiveien 248 på Inntian.",
+    "Kommunestyret ber om at Tensio opprettholder leveringsplikten, og sørger for alternativt energianlegg til strømkunder der reinvestering av forsyningslinjer er lite samfunnsøkonomisk."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Elin Karpinski Strandheim",
+      "tekst": "Kommunestyret ber om at Tensio opprettholder leveringsplikten, og sørger for alternativt energianlegg til strømkunder der reinvestering av forsyningslinjer er lite samfunnsøkonomisk."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i Hovedutvalg for samfunns sak 82/2024 den 10.12.2024",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtak",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtak",
+      "roedt_stoettet": "Enstemmig vedtak",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak i Kommunestyret sak 153/2024 den 16.12.2024",
+      "alternativer": [
+        {
+          "navn": "Vedtak om at Tensio opprettholder leveringsplikten og sørger for alternativt energianlegg",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Vedtak om at Tensio opprettholder leveringsplikten og sørger for alternativt energianlegg",
+      "roedt_stoettet": "Vedtak om at Tensio opprettholder leveringsplikten og sørger for alternativt energianlegg",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 153/2024",
+  "rodt_fremmet_forslag": false
+}

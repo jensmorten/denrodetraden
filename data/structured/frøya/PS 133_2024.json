@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av protokoll fra møtet 28.10.24 og 31.10.24",
+  "innstilling": "Godkjenning av protokoll fra møtet 28.10.24 og 31.10.24 godkjennes som fremlagt",
+  "vedtak": "Godkjenning av protokoll fra møtet 28.10.24 og 31.10.24 godkjennes som fremlagt",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av protokoll fra møtet 28.10.24 og 31.10.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "28.11.2024",
+  "saksnummer_ps": "PS 133/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "Lokale forskrifter etter ny opplæringslov",
+  "innstilling": "Frøya kommune vedtar følgende lokale forskrifter etter ny opplæringslov:\nForskrift om skoleregler og skoledemokrati, Frøyaskolen\nForskrift om permisjon fra grunnskoleopplæringen, Frøya kommune\nForskrift om hovedmål, Frøya kommune",
+  "vedtak": "Frøya kommune vedtar følgende lokale forskrifter etter ny opplæringslov:\nForskrift om skoleregler og skoledemokrati, Frøyaskolen\nForskrift om permisjon fra grunnskoleopplæringen, Frøya kommune\nForskrift om hovedmål, Frøya kommune",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Hovedutvalg for levekårs behandling av sak 45/2024 i møte den 12.12.2024",
+      "alternativer": [
+        {
+          "navn": "Vedtak",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Vedtak",
+      "roedt_stoettet": "Vedtak",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunestyrets behandling av sak 151/2024 i møte den 16.12.2024",
+      "alternativer": [
+        {
+          "navn": "Vedtak",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Vedtak",
+      "roedt_stoettet": "Vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 155/2024",
+  "rodt_fremmet_forslag": false
+}

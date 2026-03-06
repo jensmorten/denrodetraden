@@ -1,0 +1,51 @@
+{
+  "tittel": "Søknad om støtte til depot Norsk Folkehjelp Hitra og Frøya",
+  "innstilling": [
+    "Kommunestyret avslår søknad om støtte til depot fra Norsk Folkehjelp, Hitra og Frøya.",
+    "Søknaden avlås med bakgrunn i kommunens økonomiske situasjon og at støtte til depot kan skape presedens for andre frivillige lag og organisasjoner."
+  ],
+  "vedtak": [
+    {
+      "organ": "Formannskapet",
+      "dato": "05.11.2024",
+      "vedtak": [
+        "Kommunestyret avslår søknad om støtte til depot fra Norsk Folkehjelp, Hitra og Frøya.",
+        "Søknaden avlås med bakgrunn i kommunens økonomiske situasjon og at støtte til depot kan skape presedens for andre frivillige lag og organisasjoner."
+      ],
+      "enstemmig": true
+    },
+    {
+      "organ": "Kommunestyret",
+      "dato": "28.11.2024",
+      "vedtak": "Sak utsettes"
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Aleksander Søreng",
+      "tekst": "Sak utsettes"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelse av sak 138/2024",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": 20
+        },
+        {
+          "navn": "Ikke utsettelse",
+          "stemmer": 1
+        }
+      ],
+      "vinner": "Utsettelse",
+      "roedt_stoette": "Utsettelse",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "28.11.2024",
+  "saksnummer_ps": "PS 138/2024",
+  "rodt_fremmet_forslag": false
+}

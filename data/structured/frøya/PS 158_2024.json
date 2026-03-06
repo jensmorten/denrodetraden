@@ -1,0 +1,80 @@
+{
+  "tittel": "Budsjettjustering 2/24 - Drift",
+  "innstilling": [
+    "Frøya kommune vedtar budsjettjustering drift 02/24 som vist i tabell",
+    "Disposisjonsfondet og ubundet investeringsfond justeres i henhold til budsjettjusteringene",
+    "Frøya kommune vedtar at fordring som kommunen har på Frøya Storhall AS, og som oppstod i forbindelse med at Frøya kommune tok over gjeldsforpliktelsen som Frøya Storhall AS hadde overfor Kommunalbanken, i sin helhet konverteres til egenkapital i Frøya Storhall AS. Kommunen ber styret i Frøya Storhall AS kalle inn til ekstraordinær generalforsamling hvor kapitalendringen kan vedtas."
+  ],
+  "vedtak": [
+    {
+      "dato": "03.12.2024",
+      "tekst": [
+        "Frøya kommune vedtar budsjettjustering drift 02/24 som vist i tabell",
+        "Disposisjonsfondet og ubundet investeringsfond justeres i henhold til budsjettjusteringene",
+        "Frøya kommune vedtar at fordring som kommunen har på Frøya Storhall AS, og som oppstod i forbindelse med at Frøya kommune tok over gjeldsforpliktelsen som Frøya Storhall AS hadde overfor Kommunalbanken, i sin helhet konverteres til egenkapital i Frøya Storhall AS. Kommunen ber styret i Frøya Storhall AS kalle inn til ekstraordinær generalforsamling hvor kapitalendringen kan vedtas."
+      ],
+      "enstemmig": true
+    },
+    {
+      "dato": "16.12.2024",
+      "tekst": [
+        "Frøya kommune vedtar budsjettjusteringer drift som endret.",
+        "Disposisjonsfondet og ubundet investeringsfond justeres i henhold til budsjettjusteringene",
+        "Frøya kommune vedtar at fordring som kommunen har på Frøya Storhall AS, og som oppstod i forbindelse med at Frøya kommune tok over gjeldsforpliktelsen som Frøya Storhall AS hadde overfor Kommunalbanken, i sin helhet konverteres til egenkapital i Frøya Storhall AS. Kommunen ber styret i Frøya Storhall AS kalle inn til ekstraordinær generalforsamling hvor kapitalendringen kan vedtas.",
+        "Midler fra brann stasjon Halten omdisponeres ikke. Frøya kommune ber velforeningen på Halten om å søke midler fra grendelag fondet."
+      ],
+      "enstemmig": true
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Aleksander Søreng",
+      "tekst": [
+        "Frøya kommune vedtar budsjettjusteringer drift som endret.",
+        "Midler fra brann stasjon Halten omdisponeres ikke. Frøya kommune ber velforeningen på Halten om å søke midler fra grendelag fondet."
+      ]
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av budsjettjustering drift 02/24 i formannskapet 03.12.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Vedtak av budsjettjusteringer drift som endret i kommunestyret 16.12.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering av nytt forslag fra Aleksander Søreng i kommunestyret 16.12.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 158/2024",
+  "rodt_fremmet_forslag": false
+}

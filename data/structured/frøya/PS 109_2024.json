@@ -1,0 +1,46 @@
+{
+  "tittel": "PS 109/2024 Økonomirapport 2. tertial - pr August 2024",
+  "innstilling": [
+    "Kommunestyret tar tertialrapport nr 2 pr august 2024 til orientering"
+  ],
+  "vedtak": [
+    "Kommunestyret tar tertialrapport nr 2 pr august 2024 til orientering",
+    "Økonomiutvalget i samarbeid med konstituert økonomisjef utarbeider retningslinjer for framtidig økonomirapportering"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "mindretallet",
+      "tekst": "Økonomiutvalget i samarbeid med konstituert økonomisjef utarbeider retningslinjer for framtidig økonomirapportering"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i formannskapet 24.09.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak i kommunestyret 03.10.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "03.10.2024",
+  "saksnummer_ps": "PS 109/2024",
+  "rodt_fremmet_forslag": false
+}

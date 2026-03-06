@@ -1,0 +1,51 @@
+{
+  "tittel": "Organisering av Island Games Association Frøya",
+  "innstilling": [
+    "1) Kommunestyret vedtar reviderte vedtekter",
+    "2) Som kommunens representant i styret velges leder i hovedutvalg levekår. Fast vara velges nestleder i hovedutvalg levekår",
+    "3) Frøya kommune stiller sekretær disponibel for styret. Sekretæren velges administrativt",
+    "4) Årlig kommunalt bidrag økes fra kr 30 000 til kr 100 000. Økning legges inn i budsjett fra 2025."
+  ],
+  "vedtak": [
+    "1. Kommunestyret støtter revidering av vedtektene.",
+    "2. Som kommunens representant i styret velges fra hovedutvalg levekår Linda Iversen og som varamedlem Hedda Bremnes.",
+    "3. Frøya kommune stiller sekretær disponibel for styret. Sekretæren velges administrativt.",
+    "4. Årlig kommunalt bidrag holdes på kr 30 000. Resterende 70.000.- behandles i forbindelse med tildeling av havbruksfondet 2024."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Frode Larsen",
+      "tekst": "1. Kommunestyret støtter revidering av vedtektene."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i kommunestyret sak 150/2024 om støtte til revidering av vedtektene og valg av representanter samt kommunalt bidrag",
+      "alternativer": [
+        {
+          "navn": "Vedtak som foreslått av Hovedutvalg for levekår",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Vedtak som foreslått av Hovedutvalg for levekår",
+      "roedt_stoettet": "Vedtak som foreslått av Hovedutvalg for levekår",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på nytt forslag fra Frode Larsen om støtte til revidering av vedtektene",
+      "alternativer": [
+        {
+          "navn": "Støtte til revidering av vedtektene",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Støtte til revidering av vedtektene",
+      "roedt_stoettet": "Støtte til revidering av vedtektene",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 154/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,43 @@
+{
+  "tittel": "PS 101/2024 Intensjonsavtale Hamarvik vannverk.",
+  "innstilling": [
+    "Frøya kommune godkjenner intensjonsavtalen, med de foreslåtte endringene om begge parters ønske om en sammenslåing/ overtakelse samt innarbeidelse av verdisettelsesprinsipp",
+    "Ordfører – på vegne av Frøya kommune – signerer avtalen"
+  ],
+  "vedtak": [
+    "Frøya kommune godkjenner intensjonsavtalen, med de foreslåtte endringene om begge parters ønske om en sammenslåing/ overtakelse samt innarbeidelse av verdisettelsesprinsipp",
+    "Ordfører – på vegne av Frøya kommune – signerer avtalen",
+    "Siste avsnitt i punkt 3.4 tas ut av intensjonsavtalen"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av intensjonsavtalen med endringer og fjerning av siste avsnitt i punkt 3.4",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Vurdering av habilitet for Arvid Hammernes",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": null,
+      "roedt_side": null
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "03.10.2024",
+  "saksnummer_ps": "PS 101/2024",
+  "rodt_fremmet_forslag": false
+}

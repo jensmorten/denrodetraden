@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 104/2024 Kommunalt Næringsfond - Halsen Marina - Klage på vedtak",
+  "innstilling": "Klagen tas ikke til følge",
+  "vedtak": "Klagen tas ikke til følge",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i Formannskapet sak 89/2024 den 27.08.2024",
+      "alternativer": [
+        {
+          "navn": "Klagen tas ikke til følge",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Klagen tas ikke til følge",
+      "roedt_stoettet": "Klagen tas ikke til følge",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak i Kommunestyret sak 104/2024 den 03.10.2024",
+      "alternativer": [
+        {
+          "navn": "Klagen tas ikke til følge",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Klagen tas ikke til følge",
+      "roedt_stoettet": "Klagen tas ikke til følge",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "03.10.2024",
+  "saksnummer_ps": "PS 104/2024",
+  "rodt_fremmet_forslag": false
+}

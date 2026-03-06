@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av protokoll fra møtet 28.11.24",
+  "innstilling": "Godkjenning av protokoll fra møtet 28.11.24 godkjennes som fremlagt",
+  "vedtak": "Godkjenning av protokoll fra møtet 28.11.24 godkjennes som fremlagt",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av protokoll fra møtet 28.11.24",
+      "alternativer": [
+        {
+          "navn": "Godkjent",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Godkjent",
+      "roedt_stoettet": "Godkjent",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 144/2024",
+  "rodt_fremmet_forslag": false
+}

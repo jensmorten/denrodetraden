@@ -1,0 +1,53 @@
+{
+  "tittel": "PS 124/2024 Valg av elektronisk pasientjournalsystem for Frøya kommune - utsettelse og opsjonsutløsning",
+  "innstilling": [
+    "1. Kommunestyret vedtar å utsette beslutningen om å tilslutte seg Helseplattformen.",
+    "2. Kommunestyret vedtar å utløse opsjon i Stjørdal kommune sitt prosjekt «Fremtidens elektroniske pasientjournal (EPJ)», og dekker kostnaden på 50 000 kroner på rammeområdet Helse og Mestring.",
+    "3. Kommunedirektøren bes om å fortsette utredningen av hvilket alternativ som er best for Frøya kommune, med en ny vurdering og behandling i kommunestyret innen sommeren 2025."
+  ],
+  "vedtak": [
+    "1. Kommunestyret vedtar å utsette beslutningen om å tilslutte seg Helseplattformen.",
+    "2. Kommunestyret vedtar å utløse opsjon i Stjørdal kommune sitt prosjekt «Fremtidens elektroniske pasientjournal (EPJ)», og dekker kostnaden på 50 000 kroner på rammeområdet Helse og Mestring.",
+    "3. Kommunedirektøren bes om å fortsette utredningen av hvilket alternativ som er best for Frøya kommune, med en ny vurdering og behandling i kommunestyret innen sommeren 2025."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Lars Østen Nordgård",
+      "tekst": "Kommunestyret vedtar og ikke tilslutte seg helseplattformen"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Punkt 1: Vedtak om å utsette beslutningen om å tilslutte seg Helseplattformen",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot utsettelse",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "Mot utsettelse",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Punkt 2 og 3: Vedtak om å utløse opsjon og videre utredning",
+      "alternativer": [
+        {
+          "navn": "For vedtak",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "For vedtak",
+      "roedt_stoettet": "For vedtak",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 124/2024",
+  "rodt_fremmet_forslag": false
+}

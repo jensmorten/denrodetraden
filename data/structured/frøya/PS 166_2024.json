@@ -1,0 +1,45 @@
+{
+  "tittel": "Ansettelse av ny kommunedirektør",
+  "innstilling": "Kommunestyret innstiller NN til kommunedirektør i Frøya kommune og ansettelsesutvalget gis fullmakt til å fremforhandle en ansettelsesavtale.",
+  "vedtak": "Kandidat nr. 1: Bård Eidet til kommunedirektør i Frøya kommune og ansettelsesutvalget gis fullmakt til å fremforhandle en ansettelsesavtale.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Olaf Reppe",
+      "tekst": "Kandidat nr. 1: Bård Eidet til kommunedirektør i Frøya kommune og ansettelsesutvalget gis fullmakt til å fremforhandle en ansettelsesavtale."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Formannskapets vedtak om ansettelse av kommunedirektør",
+      "alternativer": [
+        {
+          "navn": "Vedtak med kandidat nr. 1 og 2",
+          "stemmer": 6
+        },
+        {
+          "navn": "Motforslag fra Olaf Reppe med kandidat nr. 1",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Vedtak med kandidat nr. 1 og 2",
+      "roedt_stoettet": "Motforslag fra Olaf Reppe med kandidat nr. 1",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Kommunestyrets vedtak om ansettelse av kommunedirektør",
+      "alternativer": [
+        {
+          "navn": "Kandidat nr. 1: Bård Eidet",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kandidat nr. 1: Bård Eidet",
+      "roedt_stoettet": "Kandidat nr. 1: Bård Eidet",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 166/2024",
+  "rodt_fremmet_forslag": false
+}

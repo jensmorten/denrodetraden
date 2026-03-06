@@ -1,0 +1,44 @@
+{
+  "tittel": "PS 126/2024 Terminering av avtale med Staten - Sletting av heftelser Sula",
+  "innstilling": [
+    "Frøya kommune terminerer inngått avtale med Fiskeridepartementet fra 1969",
+    "Frøya kommune sletter heftelser på eiendommer utskilt fra eiendom gnr. 64 og bnr.1",
+    "Frøya kommune anmoder Statens Kartverk om å slette heftelser på eiendommer utskilt fra eiendom med gnr. 64 og bnr. 1 i Frøya kommune"
+  ],
+  "vedtak": [
+    "Frøya kommune terminerer inngått avtale med Fiskeridepartementet fra 1969",
+    "Frøya kommune sletter heftelser på eiendommer utskilt fra eiendom gnr. 64 og bnr. 1",
+    "Frøya kommune anmoder Statens Kartverk om å slette heftelser på eiendommer utskilt fra eiendom med gnr. 64 og bnr. 1 i Frøya kommune"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i formannskapets behandling av sak 117/2024",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig",
+      "roedt_stoettet": "Enstemmig",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak i kommunestyrets behandling av sak 126/2024",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig",
+      "roedt_stoettet": "Enstemmig",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 126/2024",
+  "rodt_fremmet_forslag": false
+}

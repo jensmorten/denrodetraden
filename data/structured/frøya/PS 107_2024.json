@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 107/2024 Tilstandsrapport for oppvekst 2023-2024",
+  "innstilling": "Kommunestyret tar «Tilstandsrapport for oppvekst 2023 – 2024» til orientering.",
+  "vedtak": "Kommunestyret tar «Tilstandsrapport for oppvekst 2023 – 2024» til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i Hovedutvalg for levekår 19.09.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak i Kommunestyret 03.10.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "03.10.2024",
+  "saksnummer_ps": "PS 107/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av protokoll fra møte 20.06.24",
+  "innstilling": "Protokoll fra møte 20.06.24 godkjennes som framlagt.",
+  "vedtak": "Protokoll fra møte 20.06.24 godkjennes som framlagt med tilføyelse fra rep. Arvid Hammernes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av protokoll fra møte 20.06.24 med tilføyelse fra rep. Arvid Hammernes",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "05.09.2024",
+  "saksnummer_ps": "PS 85/2024",
+  "rodt_fremmet_forslag": false
+}

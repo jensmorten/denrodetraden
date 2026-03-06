@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 110/2024 Valg av møtefullmektig til forliksrådet perioden 2025 - 2028",
+  "innstilling": "Frøya kommunestyre vedtar følgende møtefullmektige til forliksrådet for perioden 01.01.2025-31.12.2028:\nKirsten R. Antonsen f: 1960\nZivile Mickuniene f: 1969\nPål Terje Bekken f: 1958",
+  "vedtak": "Kirsten R. Antonsen f: 1960\nZivile Mickuniene f: 1969\nPål Terje Bekken f: 1958",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av møtefullmektige til forliksrådet for perioden 2025-2028",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig",
+      "roedt_stoettet": "Enstemmig",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "03.10.2024",
+  "saksnummer_ps": "PS 110/2024",
+  "rodt_fremmet_forslag": false
+}
