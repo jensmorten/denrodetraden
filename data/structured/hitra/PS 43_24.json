@@ -1,0 +1,24 @@
+{
+  "tittel": "Meldingssak - Møteprotokoll fra kontrollutvalgsmøte 13.05.2024",
+  "innstilling": "Kommunestyret tar møteprotokoll fra kontrollutvalgsmøte 13.05.2024 til orientering.",
+  "vedtak": "Kommunestyret tar møteprotokoll fra kontrollutvalgsmøte 13.05.2024 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunestyrets behandling av innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 43/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,30 @@
+{
+  "tittel": "Plan for eierskapskontroll 2024-2028",
+  "innstilling": [
+    "Hitra kommunestyre vedtar plan for eierskapskontroll 2024-2028 og slutter seg til kontrollutvalgets prioriteringer i planen.",
+    "Hitra kontrollutvalg gis fullmakt til å gjøre endringer i planen."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre vedtar plan for eierskapskontroll 2024-2028 og slutter seg til kontrollutvalgets prioriteringer i planen.",
+    "Hitra kontrollutvalg gis fullmakt til å gjøre endringer i planen."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av innstilling fra kontrollutvalget",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 40/24",
+  "rodt_fremmet_forslag": false
+}

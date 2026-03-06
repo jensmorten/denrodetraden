@@ -1,0 +1,24 @@
+{
+  "tittel": "Hitra kommune kontrollutvalg - årsmelding 2023",
+  "innstilling": "Kommunestyret tar kontrollutvalgets årsmelding for 2023 til orientering.",
+  "vedtak": "Kommunestyret tar kontrollutvalgets årsmelding for 2023 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstillingen fra kontrollutvalget",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "07.03.2024",
+  "saksnummer_ps": "PS 18/24",
+  "rodt_fremmet_forslag": false
+}

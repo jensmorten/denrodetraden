@@ -1,0 +1,36 @@
+{
+  "tittel": "PlanID 202304 - Merknadsbehandling og egengodkjenning av detaljregulering for Solvang næringspark",
+  "innstilling": "1.Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven § 12-12, detaljregulering og VA-plan for Solvang næringspark.\n2.Kommunedirektøren skal kunngjøre godkjenningen på foreskreven måte.",
+  "vedtak": "1. Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven § 12-12, detaljregulering og VA-plan for Solvang næringspark.\n2. Kommunedirektøren skal kunngjøre godkjenningen på foreskreven måte.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av sak 37/2024 i kommunestyret den 30.05.2024",
+      "alternativer": [
+        {
+          "navn": "Innstillingen fra teknisk utvalg - plan, landbruk og miljø",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen fra teknisk utvalg - plan, landbruk og miljø",
+      "roedt_stoettet": "Innstillingen fra teknisk utvalg - plan, landbruk og miljø",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling av sak 26/2024 i teknisk utvalg - plan, landbruk og miljø den 15.05.2024",
+      "alternativer": [
+        {
+          "navn": "Innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 37/24",
+  "rodt_fremmet_forslag": false
+}

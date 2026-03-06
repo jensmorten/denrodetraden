@@ -1,0 +1,36 @@
+{
+  "tittel": "PlanID 201904 - Merknadsbehandling og egengodkjenning - Reguleringsplan for Leirvågen, gnr 94 bnr 1 m.fl",
+  "innstilling": "Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven § 12-12 og naturmangfoldloven § 7, detaljregulering Leirvågen gnr 94 bnr 1 mfl., med planID 201904, på følgende vilkår:\n1.Krav til geoteknisk prosjektering i planbestemmelsene kapittel 3.5 skal også gjelde for molo ML2.\n2.Kommunedirektøren skal kunngjøre godkjenningen på foreskreven måte.",
+  "vedtak": "Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven § 12-12 og naturmangfoldloven § 7, detaljregulering Leirvågen gnr 94 bnr 1 mfl., med planID 201904, på følgende vilkår:\n1. Krav til geoteknisk prosjektering i planbestemmelsene kapittel 3.5 skal også gjelde for molo ML2.\n2. Kommunedirektøren skal kunngjøre godkjenningen på foreskreven måte.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Stig Atle Lervåg (H)",
+      "alternativer": [
+        {
+          "navn": "Lervåg inhabil",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Lervåg inhabil",
+      "roedt_stottet": "Lervåg inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av innstilling fra teknisk utvalg - plan, landbruk og miljø",
+      "alternativer": [
+        {
+          "navn": "Innstillingen vedtatt",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen vedtatt",
+      "roedt_stottet": "Innstillingen vedtatt",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "07.03.2024",
+  "saksnummer_ps": "PS 20/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "Merknadsbehandling og egengodkjenning av reguleringsplan for Friheten, deler av gnr 16 bnr 92 mfl.",
+  "innstilling": "1.Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven § 12-12 og naturmangfoldloven § 7, Reguleringsplan for Friheten gnr 16 bnr 92 mfl. med planID 201909.\n2.Kommunedirektøren skal kunngjøre godkjenningen på foreskreven måte.",
+  "vedtak": "1. Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven § 12-12 og naturmangfoldloven § 7, Reguleringsplan for Friheten gnr 16 bnr 92 mfl. med planID 201909.\n2. Kommunedirektøren skal kunngjøre godkjenningen på foreskreven måte.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstilling fra teknisk utvalg - plan, landbruk og miljø i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling av innstilling i teknisk utvalg - plan, landbruk og miljø",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "PS 23/24",
+  "rodt_fremmet_forslag": false
+}

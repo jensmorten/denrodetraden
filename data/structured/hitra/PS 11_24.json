@@ -1,0 +1,30 @@
+{
+  "tittel": "PS 11/24 Fritak fra folkevalgte verv valgperioden 2023-2027 - Brukerråd",
+  "innstilling": [
+    "Hitra kommunestyre, etter kommuneloven § 7-9, innvilger Steinar Børøsund fritak fra verv som medlem av Hitra brukerråd",
+    "Som nytt fast medlem av Hitra brukerråd velges ________. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre, etter kommuneloven § 7-9, innvilger Steinar Børøsund fritak fra verv som medlem av Hitra brukerråd",
+    "Som nytt fast medlem av Hitra brukerråd velges John Nilsen. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "25.01.2024",
+  "saksnummer_ps": "PS 11/24",
+  "rodt_fremmet_forslag": false
+}

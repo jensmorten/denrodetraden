@@ -1,0 +1,37 @@
+{
+  "tittel": "Endring av varamedlemmer i Hitra kontrollutvalg 2023-2027",
+  "innstilling": "Hitra kommunestyre vedtar følgende nye vararepresentanter til Hitra kontrollutvalg for valgperioden 2023-2027:\n1.________ trer inn som varamedlem nummer 4 av kontrollutvalget for gruppen AP, R, SP og SV fra dagens dato og ut inneværende valgperiode.\n2.________ trer inn som varamedlem nummer 1 av kontrollutvalget for gruppen H, FRP og PP fra dagens dato og ut inneværende valgperiode.",
+  "vedtak": "Hitra kommunestyre vedtar følgende nye vararepresentanter til Hitra kontrollutvalg for valgperioden 2023-2027:\n1. Stig Wraalsen (AP) trer inn som varamedlem nummer 4 av kontrollutvalget for gruppen AP, R, SP og SV fra dagens dato og ut inneværende valgperiode.\n2. Lina Klingenberg Måsøval trer inn som varamedlem nummer 1 av kontrollutvalget for gruppen H, FRP og PP fra dagens dato og ut inneværende valgperiode.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sigrid Helene Hanssen (H) på vegne av H, FRP og PP",
+      "tekst": "Lina Klingenberg Måsøval trer inn som varamedlem nummer 4 av kontrollutvalget for gruppen H, FRP og PP fra dagens dato og ut inneværende valgperiode."
+    },
+    {
+      "forslagsstiller": "Ordfører John Lernes (AP) på vegne av AP, R, SP og SV",
+      "tekst": "Stig Wraalsen (AP) trer inn som varamedlem nummer 4 av kontrollutvalget for gruppen AP, R, SP og SV fra dagens dato og ut inneværende valgperiode."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag til nye varamedlemmer i Hitra kontrollutvalg",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Sigrid Helene Hanssen (H) på vegne av H, FRP og PP",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Forslag fra Ordfører John Lernes (AP) på vegne av AP, R, SP og SV",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Begge forslag ble enstemmig vedtatt",
+      "roedt_stoettet": "Forslaget fra Ordfører John Lernes (AP) på vegne av AP, R, SP og SV",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "07.03.2024",
+  "saksnummer_ps": "PS 17/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Meldingssak - Møteprotokoll fra kontrollutvalgets møte 18.03.2024",
+  "innstilling": "Kommunestyret tar møteprotokoll fra kontrollutvalgsmøte 18.03.2024 til orientering.",
+  "vedtak": "Kommunestyret tar møteprotokoll fra kontrollutvalgsmøte 18.03.2024 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstilling",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "PS 31/24",
+  "rodt_fremmet_forslag": false
+}

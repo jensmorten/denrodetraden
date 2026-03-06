@@ -1,0 +1,41 @@
+{
+  "tittel": "Oppnevning av kandidater til interkommunal klagenemndt for ReMidt IKS",
+  "innstilling": "Hitra kommunestyre oppnevner følgende kandidater til ReMidts interkommunale klagenemnd:\n•Fast representant:\n•Personlig vararepresentant:",
+  "vedtak": "Hitra kommunestyre oppnevner følgende kandidater til ReMidts interkommunale klagenemnd:\n• Fast representant: Jann Oddvar. Krangnes (R)\n• Personlig vararepresentant: Sigrid Helene Hanssen (H)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "John Lernes",
+      "tekst": "Hitra kommunestyre oppnevner følgende kandidater til ReMidts interkommunale klagenemnd:\n• Fast representant: Jann Oddvar. Krangnes (R)\n• Personlig vararepresentant: Sigrid Helene Hanssen (H)"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over John Lernes sitt forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "PS 27/24",
+  "rodt_fremmet_forslag": false
+}

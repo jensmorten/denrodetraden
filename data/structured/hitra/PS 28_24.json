@@ -1,0 +1,24 @@
+{
+  "tittel": "Navneendring på Hitra brukerråd",
+  "innstilling": "Hitra kommunestyre vedtar å endre navn på Hitra brukerråd til å bli råd for personer med funksjonsnedsettelse. Endringen trer i kraft fra og med 01.07.2024.",
+  "vedtak": "Hitra kommunestyre vedtar å endre navn på Hitra brukerråd til å bli råd for personer med funksjonsnedsettelse. Endringen trer i kraft fra og med 01.07.2024.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om navneendring på Hitra brukerråd",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "PS 28/24",
+  "rodt_fremmet_forslag": false
+}
