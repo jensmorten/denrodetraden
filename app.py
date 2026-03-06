@@ -208,7 +208,7 @@ def search_similar_cases(tekst, kommune):
     - Ikke legg inn generelle betraktninger om hva Rødt "typisk mener".
     - Svar konkret på saken.
     - Bruk korte avsnitt og maks 3–5 punktlister totalt.
-    - Referer alltid Kommune og sak til slutt (kilde: Kommune, Saksnummer.)
+    - Referer alltid Kommune og sak til slutt når du referere en sak (i slikt format: kilde: Kommune, Saksnummer.)
 
     Oppgaver (ikke referer til oppgavene direkte, men svar sømløst):
     1. Gi en kort oppsummering (maks 5–6 linjer) av saken eller sakene.
