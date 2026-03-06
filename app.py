@@ -208,12 +208,12 @@ def search_similar_cases(tekst, kommune):
     - Ikke legg inn generelle betraktninger om hva Rødt "typisk mener".
     - Svar konkret på saken.
     - Bruk korte avsnitt og maks 3–5 punktlister totalt.
-    - Referer alltid filnavn hvis du bruker en sak. Format: Kommune – sak – votering (kilde: filnavn)
+    - Referer alltid Kommune og sak hvis du bruker en sak. Format: Kommune – sak – votering (kilde: Kommune, Saksnummer. )
 
     Oppgaver (ikke referer til oppgavene direkte, men svar sømløst):
     1. Gi en kort oppsummering (maks 5–6 linjer) av saken eller sakene.
     2. Dersom det ikke framstår som en kommunal sak (brukeren har ved en feil lasta opp noe annet), si dette og avslutt behandling. Om det er en kommunal sak, gå videre uten å nevne at det er sjekka. 
-    3. List 2–3 mest relevante like saker utenfor kommunen som er valgt. Referer saken, og voteringer. Kommunen som er valgt nå er {kommune}.
+    3. List 2–3 mest relevante like saker utenfor kommunen som er valgt. Referer inneholdet i saken kort, voteringer. Kommunen som er valgt nå er {kommune}.
     4. Deserom det er få eller ingen relevante saker utenfor kommunen kan du også nevne tidlegare saker i {kommune} dersom det er relevant. 
 
     Saken som er lastet opp følger:
