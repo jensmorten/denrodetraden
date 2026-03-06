@@ -31,6 +31,11 @@ kommune = st.selectbox(
     ["Frøya", "Hitra", "Levanger", "Malvik", "Melhus", "Orkland", "Ørland", "Røros", "Stjørdal", "Trondheim", "Verdal"], index=3
 )
 
+tema = st.text_area(
+    "Eller beskriv tema du vil undersøke (f.eks. 'bemanning i barnehager')",
+    height=100
+)
+
 uploaded_file = st.file_uploader(
     "Last opp enkelt sak eller sakliste (PDF)",
     type=["pdf"]
@@ -46,7 +51,7 @@ authenticated = password == st.secrets["ANALYSE_PASSWORD"]
 if password and not authenticated:
     st.warning("Feil passord")
 
-analyse_knapp = st.button("🔍 Analyser sak/ sakliste", disabled=not authenticated)
+analyse_knapp = st.button("🔍 Analyser sak/ sakliste",  disabled=not authenticated or (not uploaded_file and not tema))
 
 
 # ============================================
@@ -184,6 +189,47 @@ def rerank_documents(query, docs):
 # ============================================
 # SEARCH PER SAK
 # ============================================
+def search_by_topic(topic, kommune):
+
+    prompt = f"""
+    Du er en politisk assistent for partiet Rødt. Du skal gi et kort, strukturert, nøkternt og endelig svar uten å be brukeren om mer. 
+
+    Bruk enkel formatering:
+    - Ingen nummererte seksjoner (1), 2), 3)).
+    - Unngå store overskrifter.
+    - Maks én enkel overskrift per del.
+
+    Når du svarer, følg disse reglene:
+    - Ikke forklar hva du gjør.
+    - Ikke legg inn generelle betraktninger om hva Rødt "typisk mener".
+    - Svar konkret på saken.
+    - Bruk korte avsnitt og maks 3–5 punktlister totalt.
+    - Referer alltid Kommune og sak til slutt når du referere en sak (i slikt format: kilde: Kommune, Saksnummer.)
+
+    Oppgave:
+    - Finn relevante saker om temaet
+    - Oppsummer kort hva som ble vedtatt
+    - Nevn kommune og saksnummer
+    - Nevn hvis Rødt fremmet forslag
+
+    Tema:
+    {topic}
+
+"""
+
+    response = client.responses.create(
+        model=MODEL,
+        input=prompt,
+        tools=[
+            {
+                "type": "file_search",
+                "vector_store_ids": [VECTOR_STORE_ID]
+            }
+        ]
+    )
+
+    return response.output_text
+
 
 def search_similar_cases(tekst, kommune):
 
@@ -239,11 +285,13 @@ def search_similar_cases(tekst, kommune):
 # ============================================
 
 if analyse_knapp:
+     if tema:
+        with st.spinner("Søker etter relevante saker..."):
+            resultat = search_by_topic(tema, kommune)
 
-    if not uploaded_file:
-        st.warning("Last opp PDF først.")
-    else:
+        st.markdown(resultat)
 
+     elif uploaded_file:
         with st.spinner("Leser PDF..."):
             full_text = extract_text_from_pdf(uploaded_file)
 
