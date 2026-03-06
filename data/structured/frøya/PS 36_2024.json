@@ -1,0 +1,49 @@
+{
+  "tittel": "PS 36/2024 Ordførers orientering",
+  "innstilling": "Det blir sett positivt på at administrasjonen følger ulike prøveprosjekt andre steder tett, samt at det jobbes med å se på ulike turnusordninger. Det forutsettes at en potensiell endring i turnus vil bli gjennomført i tett dialog med tillitsvalgte, SU og foreldre – og man ser fram til resultatet av disse prosessene. På bakgrunn av de opplysninger administrasjonen forelegger er man trygge på at de snur alle steiner for å løse utfordringene. Derfor innstilles det til at interpellasjonen avvises og at saken ikke settes på sakskartet",
+  "vedtak": "Vedtak: Innstillingen ble vedtatt med 15 mot 8 stemmer",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Arbeiderpartiet",
+      "tekst": "Administrasjonen utreder muligheten for et prøveprosjekt med 30 timers arbeidsuke for barnehagene i Frøya kommune i samarbeid med ansatte og fagforeninger"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling om å avvise interpellasjonen og ikke sette saken på sakskartet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 8
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag om å utrede prøveprosjekt med 30 timers arbeidsuke for barnehagene",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 8
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "For",
+      "roedt_side": "Taper"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "02.05.2024",
+  "saksnummer_ps": "PS 36/2024",
+  "rodt_fremmet_forslag": false
+}

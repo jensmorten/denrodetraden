@@ -1,0 +1,39 @@
+{
+  "tittel": "PS 34/2024 Fritak fra politiske verv for perioden 2023 - 2027",
+  "innstilling": "Representant Marine Måsøval (H) flytter fra Frøya kommune 29.04.24 og er dermed ikke lenger valgbar. Hun har følgende verv: Fast representant i kommunestyret, 1 varamedlem i formannskapet, 4 varamedlem i Hovedutvalg (HU) for samfunn og trafikksikkerhetsutvalget (TSU), Medlem i Alminnelig skjønsnemnd for fartøyer f/16-3. I henhold til kommuneloven § 7.10, rykker nå Runar Sivertsen (H) automatisk opp som fast representant for høyre i kommunestyret. Barbro Flåhammer (H) rykker opp som siste varamedlem for høyre i kommunestyret. Som 1 vara til formannskap velges: ..., 4 vara i HU samfunn og TSU velges: ..., medlem i alminnelig skjønsnemd for fartøyer f/16-3 velges: ...",
+  "vedtak": {
+    "1_vara_til_formannskap": "Vidar Garnvik",
+    "3_vara_til_formannskap": "Trond Harald Iversen",
+    "4_vara_i_HU_samfunn_og_TSU": "Brit Ohrø",
+    "medlem_i_alminnelig_skjønsnemnd_for_fartøyer_f_16_3": "Ketil Fossnes",
+    "votering": "Enstemmig"
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole-Morten Sørvig (Høyre)",
+      "tekst": "1 vara til formannskap velges: Vidar Garnvik, 3 Vara til formannskap velges: Trond Harald Iversen, 4 vara i HU samfunn og TSU velges: Britt Ohrø, medlem i alminnelig skjønsnemnd for fartøyer f/16-3 velges: Ketil Fossnes"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av valg av vararepresentanter og medlemmer etter flytting av Marine Måsøval",
+      "alternativer": [
+        {
+          "navn": "Vedtak",
+          "stemmer": "Enstemmig"
+        },
+        {
+          "navn": "Alternativt forslag Ole-Morten Sørvig (Høyre)",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Vedtak / alternativt forslag (identisk innhold, enstemmig)",
+      "roedt_stottet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "02.05.2024",
+  "saksnummer_ps": "PS 34/2024",
+  "rodt_fremmet_forslag": false
+}

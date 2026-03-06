@@ -1,0 +1,41 @@
+{
+  "tittel": "PS 30/2024 DalPro - etablering av nytt vaskeri- og flerbruksbygg",
+  "innstilling": [
+    "Frøya kommune selger planlagt tomt til DalPro for etablering av nytt vaskeri og flerbruksbygg for 4 millioner kroner. Som alternativ til salg av tomt, kan DalPro feste tomta",
+    "Frøya kommune stiller som garantist til lån opp til et maksimalt beløp på 20 millioner kroner",
+    "Det forutsettes at Hitra kommune stiller med likelydende garanti"
+  ],
+  "vedtak": [
+    "Frøya kommune selger planlagt tomt til DalPro for etablering av nytt vaskeri og flerbruksbygg for 4 millioner kroner. Som alternativ til salg av tomt, kan DalPro feste tomta",
+    "Frøya kommune stiller som garantist til lån opp til et maksimalt beløp på 20 millioner kroner",
+    "Det forutsettes at Hitra kommune stiller med likelydende garanti"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Lars Østen Nordgård",
+      "tekst": "Saken utsettes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om utsettelse av saken fremmet av Lars Østen Nordgård",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": 2
+        },
+        {
+          "navn": "Mot utsettelse",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "Mot utsettelse",
+      "roedt_stoettet": "Mot utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "02.05.2024",
+  "saksnummer_ps": "PS 30/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,127 @@
+{
+  "tittel": "PS 27/2024 Mulighetsstudier, Nabeita oppvekstsenter og Nesset barnehage- plan for veien videre",
+  "innstilling": {
+    "1": {
+      "Nabeita oppvekstsenter": [
+        "Frøya kommune starter prosjektering av alternativ A i mulighetsstudiet fra Selberg arkitekter AS, der barnehage utvides, gammeldel skole rives og det bygges nytt i to etasjer.",
+        "Kommunedirektøren utarbeider prognoser og utreder følger av vekst i skolekretsen, slik at en legger til rette for mulig to parallelle grupper per trinn.",
+        "Prosjekteringen finansieres fra prosjekt 551664 Renovering Nesset barnehage som pr 10.04.24 har en saldo på kr 526 171",
+        "Kommunedirektøren fremmer ny sak når prosjektering har arbeidet fram et prisanslag for utbyggingen og synliggjort driftskonsekvenser, før endelig iverksettelse"
+      ]
+    },
+    "2": {
+      "Nesset barnehage": [
+        "Frøya kommune tilpasser bygningsmassen på Nesset til drift av 2 avdelings friluftbarnehage, samt jobber med en utvidelse av Sistranda og / eller Rabben barnehage",
+        "Prosjekteringen og planleggingskostnaden finansieres fra prosjekt 551664 Renovering Nesset barnehage som pr 10.04.24 har en saldo på kr 526 171",
+        "Kommunedirektøren fremmer ny sak når prosjektering har arbeidet fram et prisanslag for utbedringene og synliggjort driftskonsekvenser, før endelig iverksettelse"
+      ]
+    },
+    "3": {
+      "Flerbrukshall på Nabeita": [
+        "Kommunedirektøren jobber frem en behovsanalyse sammen med idretten.",
+        "Tilrådning hva gjelder ny flerbrukshall legges frem i egen sak. Saken skal i tillegg til evt. investeringskostnader, inneha en analyse av fremtidige drifts og vedlikeholdskostnader",
+        "Dersom en evt ny hall skal realiseres på Nabeita skal videre planarbeid tas med/avklares i planprosessen jfr. pkt. 1 i denne sak."
+      ]
+    }
+  },
+  "vedtak": {
+    "1": {
+      "Nabeita oppvekstsenter": [
+        "Frøya kommune starter prosjektering av alternativ A i mulighetsstudiet fra Selberg arkitekter AS, der barnehage utvides, gammeldel skole rives og det bygges nytt i to etasjer.",
+        "Kommunedirektøren utarbeider prognoser og utreder følger av vekst i skolekretsen, slik at en legger til rette for mulig to parallelle grupper per trinn.",
+        "Prosjekteringen finansieres fra prosjekt 551664 Renovering Nesset barnehage som pr 10.04.24 har en saldo på kr 526 171",
+        "Kommunedirektøren fremmer ny sak når prosjektering har arbeidet fram et prisanslag for utbyggingen og synliggjort driftskonsekvenser, før endelig iverksettelse",
+        "Utarbeide en analyse av framtidige drifts- og vedlikeholdskostnader."
+      ]
+    },
+    "2": {
+      "Nesset barnehage": [
+        "Bygge ny fireavdelings barnehage i samme område som eksisterende barnehage.",
+        "Alternativ tomt utredes."
+      ]
+    },
+    "3": {
+      "Flerbrukshall på Nabeita": [
+        "Kommunedirektøren jobber frem en behovsanalyse sammen med idretten.",
+        "Tilrådning hva gjelder ny flerbrukshall legges frem i egen sak. Saken skal i tillegg til evt. investeringskostnader, inneha en analyse av fremtidige drifts og vedlikeholdskostnader",
+        "Dersom en evt ny hall skal realiseres på Nabeita skal videre planarbeid tas med/avklares i planprosessen jfr. pkt. 1 i denne sak."
+      ]
+    }
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hovedutvalg for levekår",
+      "tekst": "Jobbe videre med full utbygging på Nesset barnehage. Samle alle 4 avdelinger under samme tak. Bygge ny 4 avdelings barnehage på opprinnelig tomt, jfr mulighetsstudiens alternativ A. Tilegne tilleggstomt for parkeringsmulighet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Kommunedirektørs forslag til vedtak pkt. 1 (Nabeita oppvekstsenter)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over Kommunedirektørs forslag til vedtak pkt. 2 (Nesset barnehage)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 0
+        },
+        {
+          "navn": "Mot",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over Kommunedirektørs forslag til vedtak pkt. 3 (Flerbrukshall på Nabeita)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag til endring i vedtak pkt. 2 (full utbygging Nesset barnehage)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Kommunestyrets vedtak i sak 27/2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "02.05.2024",
+  "saksnummer_ps": "PS 27/2024",
+  "rodt_fremmet_forslag": false
+}

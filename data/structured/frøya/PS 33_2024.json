@@ -1,0 +1,39 @@
+{
+  "tittel": "PS 33/2024 Valg av medlem og personlig varamedlem til Interkommunal klagenemnd i ReMidt IKS",
+  "innstilling": {
+    "medlem": "Baard Ole Sæther",
+    "personlig_varamedlem": "Ivan Løvstrand Strøm"
+  },
+  "vedtak": {
+    "medlem": "Baard Ole Sæther",
+    "personlig_varamedlem": "Ivan Løvstrand Strøm"
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Svein Viggo Johansen",
+      "tekst": "Forslag på Varamedlem: Kåre Johansen"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av personlig varamedlem til Interkommunal klagenemnd i ReMidt IKS",
+      "alternativer": [
+        {
+          "navn": "Ivan Løvstrand Strøm",
+          "stemmer": 22
+        },
+        {
+          "navn": "Kåre Johansen",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Ivan Løvstrand Strøm",
+      "roedt_stoettet": "Ivan Løvstrand Strøm",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "02.05.2024",
+  "saksnummer_ps": "PS 33/2024",
+  "rodt_fremmet_forslag": false
+}
