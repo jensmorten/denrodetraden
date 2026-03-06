@@ -1,0 +1,38 @@
+{
+  "tittel": "PS 45/2024 Utvidelse av kantine ved Frøya ungdomsskole",
+  "innstilling": [
+    "Kommunestyret vedtar å utvide kantinearealet ved Frøya ungdomsskole",
+    "Kommunen utlyser et anbud på tiltaket, og finansieringen legges inn i investeringsplan i løpet av økonomiplanperioden 2025-2028."
+  ],
+  "vedtak": [
+    "Kommunedirektøren bes se nærmere på hva som teknisk bør gjøres og som gir lavere kostnader."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Borgelig gruppe",
+      "tekst": "Kommunedirektøren bes se nærmere på hva som teknisk bør gjøres og som gir lavere kostnader."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Borgelig gruppe om at kommunedirektøren skal se nærmere på tekniske løsninger som gir lavere kostnader.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 17
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 45/2024",
+  "rodt_fremmet_forslag": false
+}

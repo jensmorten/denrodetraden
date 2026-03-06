@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 43/2024 Eierskapsmelding for Frøya kommune 2024 – revidering",
+  "innstilling": "Kommunestyret vedtar revidert Eierskapsmelding for Frøya kommune 2024.",
+  "vedtak": "Kommunestyret vedtar revidert Eierskapsmelding for Frøya kommune 2024.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Formannskapets behandling av sak 57/2024 i møte den 21.05.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunestyrets behandling av sak 43/2024 i møte den 30.05.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 43/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 48/2024 GNR 1 BNR 42, Tilbud om kjøp av eiendom",
+  "innstilling": "Frøya kommune ønsker ikke å erverve eiendom, et areal på 59.785 kvm av Gnr 1 Bnr 42 i Frøya",
+  "vedtak": "Frøya kommune ønsker ikke å erverve eiendom, et areal på 59.785 kvm av Gnr 1 Bnr 42 i Frøya",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Formannskapets behandling av sak 61/2024 i møte den 21.05.2024",
+      "alternativer": [
+        {
+          "navn": "Frøya kommune ønsker ikke å erverve eiendom",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Frøya kommune ønsker ikke å erverve eiendom",
+      "roedt_stoettet": "Frøya kommune ønsker ikke å erverve eiendom",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunestyrets behandling av sak 48/2024 i møte den 30.05.2024",
+      "alternativer": [
+        {
+          "navn": "Frøya kommune ønsker ikke å erverve eiendom",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Frøya kommune ønsker ikke å erverve eiendom",
+      "roedt_stoettet": "Frøya kommune ønsker ikke å erverve eiendom",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 48/2024",
+  "rodt_fremmet_forslag": false
+}

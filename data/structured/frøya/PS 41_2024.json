@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 41/2024 Godkjenning av årsregnskap og årsmelding melding 2023",
+  "innstilling": "Formannskapets behandling av sak 54/2024 i møte den 21.05.2024: Årsregnskap for 2023 med årsmelding godkjennes som fremlagt.",
+  "vedtak": "Årsregnskap for 2023 med årsmelding godkjennes som fremlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i formannskapet 21.05.2024",
+      "alternativer": [
+        {
+          "navn": "Godkjent som fremlagt",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Godkjent som fremlagt",
+      "roedt_stoettet": "Godkjent som fremlagt",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak i kommunestyret 30.05.2024",
+      "alternativer": [
+        {
+          "navn": "Godkjent som fremlagt",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Godkjent som fremlagt",
+      "roedt_stoettet": "Godkjent som fremlagt",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 41/2024",
+  "rodt_fremmet_forslag": false
+}

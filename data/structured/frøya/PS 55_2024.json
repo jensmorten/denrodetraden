@@ -1,0 +1,31 @@
+{
+  "tittel": "PS 55/2024 Stortingsvalget og sametingsvalget 2025 - Fastsetting av valgdag.",
+  "innstilling": [
+    "Kommunestyret tar fastsetting av valgdagen, mandag 8. september 2025 for stortings- og sametingsvalget til etterretning.",
+    "Kommunestyret vedtar at det avholdes valgting også søndag 7. september 2025 ved stemmekretsene Sistranda og Øyrekka.",
+    "Kommunestyret vedtar at valglokalene stenger klokken 20.00 for stemmekretsene på fast-Frøya og klokken 18.00 i Øyrekka stemmekrets."
+  ],
+  "vedtak": [
+    "Kommunestyret tar fastsetting av valgdagen, mandag 8. september 2025 for stortings- og sametingsvalget til etterretning.",
+    "Kommunestyret vedtar at det avholdes valgting også søndag 7. september 2025. Det overlates til valgstyret i Frøya kommune å bestemme hvilke stemmekretser som skal ha todagersvalg."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om fastsetting av valgdagen og valgting søndag 7. september 2025",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig",
+      "roedt_stoettet": "Enstemmig",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 55/2024",
+  "rodt_fremmet_forslag": false
+}

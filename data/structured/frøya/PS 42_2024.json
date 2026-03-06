@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 42/2024 Budsjettjustering nr. 1/24. Overføring av bevilgninger vedr. investeringer 2023 -> 2026",
+  "innstilling": "Frøya kommunestyre vedtar følgende overføringer av bevilgninger vedr investeringer fra 2023 –2026 som beskrevet i tabellen under",
+  "vedtak": "Frøya kommunestyre vedtar følgende overføringer av bevilgninger vedr investeringer fra 2023 –2026 som beskrevet i tabellen under",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i formannskapets møte den 21.05.2024",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig",
+      "roedt_stoettet": "Enstemmig",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak i kommunestyrets møte den 30.05.2024",
+      "alternativer": [
+        {
+          "navn": "Enstemmig",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig",
+      "roedt_stoettet": "Enstemmig",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 42/2024",
+  "rodt_fremmet_forslag": false
+}

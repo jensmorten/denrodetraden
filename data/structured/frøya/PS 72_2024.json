@@ -1,0 +1,54 @@
+{
+  "tittel": "Søknad om leie av garderobe FKKS - Øyrib",
+  "innstilling": "Frøya kommune avslår søknad fra Øyrib Frøya Hitra AS om bruk/ leie av garderober ved Guri Kunna vgs",
+  "vedtak": [
+    {
+      "organ": "Formannskapet",
+      "dato": "04.06.2024",
+      "tekst": "Frøya kommune avslår søknad fra Øyrib Frøya Hitra AS om bruk/ leie av garderober ved Guri Kunna videregående skole",
+      "enstemmig": true
+    },
+    {
+      "organ": "Kommunestyret",
+      "dato": "20.06.2024",
+      "tekst": "Frøya kommune godkjenner søknad fra Øyrib Frøya Hitra AS om bruk/ leie av garderober ved Guri Kunna vgs for sommeren 2024.",
+      "enstemmig": true
+    }
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Borgelig gruppe",
+      "tekst": "Frøya kommune godkjenner søknad fra Øyrib Frøya Hitra AS om bruk/ leie av garderober ved Guri Kunna vgs for sommeren 2024."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak i formannskapet om søknad om bruk/leie av garderober ved Guri Kunna vgs",
+      "alternativer": [
+        {
+          "navn": "Avslag",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "Avslag",
+      "roedt_stoette": "Avslag",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Vedtak i kommunestyret om søknad om bruk/leie av garderober ved Guri Kunna vgs for sommeren 2024",
+      "alternativer": [
+        {
+          "navn": "Godkjenning",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "Godkjenning",
+      "roedt_stoette": "Godkjenning",
+      "roedt_side": "Vinner"
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 72/2024",
+  "rodt_fremmet_forslag": false
+}

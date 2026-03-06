@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 53/2024 Revidering av Reglement for kommunestyret, formannskapet og øvrige utvalg.",
+  "innstilling": "Revidert reglement for kommunestyret, formannskap og øvrige utvalg godkjennes som vedlagt.",
+  "vedtak": "Revidert reglement for kommunestyret, formannskap og øvrige utvalg godkjennes som vedlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om godkjenning av revidert reglement for kommunestyret, formannskap og øvrige utvalg.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 53/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av medlem og varamedlem til styret i Dalpro AS",
+  "innstilling": "Fra flertallet velges:\nVaramedlem fra flertallet velges:",
+  "vedtak": "Fra flertallet velges fast medlem: Aleksander Søreng\nVaramedlem fra flertallet velges: Torill Pettersen\nEnstemmig.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av fast medlem og varamedlem til styret i Dalpro AS",
+      "alternativer": [
+        {
+          "navn": "Fra flertallet velges fast medlem: Aleksander Søreng\nVaramedlem fra flertallet velges: Torill Pettersen",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Fra flertallet velges fast medlem: Aleksander Søreng\nVaramedlem fra flertallet velges: Torill Pettersen",
+      "roedt_stoettet": "Fra flertallet velges fast medlem: Aleksander Søreng\nVaramedlem fra flertallet velges: Torill Pettersen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 83/2024",
+  "rodt_fremmet_forslag": false
+}

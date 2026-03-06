@@ -1,0 +1,39 @@
+{
+  "tittel": "PS 57/2024 Valg av nytt kontrollutvalg",
+  "innstilling": {
+    "varaliste_flertall_posisjon": [
+      "Ketil Larsen (Frp)",
+      "Barbro Flåhammer (H)",
+      "Arild Jan Holmen (V)",
+      "Anette Narmo Hammervold (H)"
+    ]
+  },
+  "vedtak": {
+    "varaliste_flertall_posisjon": [
+      "Ketil Larsen (Frp)",
+      "Barbro Flåhammer (H)",
+      "Arild Jan Holmen (V)",
+      "Anette Narmo Hammervold (H)"
+    ],
+    "enstemmig": true
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunestyrets behandling av sak 57/2024 i møte den 30.05.2024",
+      "alternativer": [
+        {
+          "navn": "Vedtak som innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Vedtak som innstilling",
+      "roedt_stoettet": "Vedtak som innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "frøya",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 57/2024",
+  "rodt_fremmet_forslag": false
+}
