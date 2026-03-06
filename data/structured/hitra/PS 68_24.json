@@ -1,0 +1,67 @@
+{
+  "tittel": "Patruljestien Hemnskjela - forskuttering av spillemidler",
+  "innstilling": [
+    "Hitra kommunestyre vedtar å forskuttere spillemidler til tiltak på Patruljestien Hemnskjela på inntil kr 1 070 500.",
+    "Forskutteringen belastes ubundet investeringsfond, konto 2.5308.0002.",
+    "Midlene tilbakeføres til fondet når kommunen får utbetalt spillemidlene.",
+    "Det forutsettes at IL Fjordglimt søker momskompensasjon, og at en slik kompensasjon deles likt mellom IL Fjordglimt og Hitra Kommune"
+  ],
+  "vedtak": [
+    "Hitra kommunestyre vedtar å forskuttere spillemidler til tiltak på Patruljestien Hemnskjela på inntil kr 1 070 500.",
+    "Forskutteringen belastes ubundet investeringsfond, konto 2.5308.0002.",
+    "Midlene tilbakeføres til fondet når kommunen får utbetalt spillemidlene.",
+    "Det forutsettes videre at Fjordglimt IL søker momskompensasjon, og at en slik kompensasjon går i sin helhet til Fjordlimt IL og blir brukt til idrettslagets barne- og ungdomsarbeid"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jann Oddvar Krangnes (R)",
+      "tekst": "Det forutsettes videre at Fjordglimt IL søker momskompensasjon, og at en slik kompensasjon går i sin helhet til Fjordlimt IL og blir brukt til idrettslagets barne- og ungdomsarbeid"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingens punkt 1, 2 og 3 i formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingens punkt 1, 2 og 3",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering mellom innstillingens punkt 4 og Jann O. Krangnes (R) sitt forslag til punkt 4 i formannskapet",
+      "alternativer": [
+        {
+          "navn": "Jann O. Krangnes (R) sitt forslag",
+          "stemmer": 6
+        },
+        {
+          "navn": "Innstillingens punkt 4",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Jann O. Krangnes (R) sitt forslag",
+      "roedt_stoette": "Jann O. Krangnes (R) sitt forslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunestyrets vedtak av innstilling fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingens vedtak",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "24.09.2024",
+  "saksnummer_ps": "PS 68/24",
+  "rodt_fremmet_forslag": true
+}

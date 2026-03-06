@@ -1,0 +1,36 @@
+{
+  "tittel": "PlanID 201601 - Endring i detaljregulering - Fillan næringspark",
+  "innstilling": "Endringene i plankart og bestemmelser i detaljregulering – Fillan næringspark egengodkjennes. Vedtaket fattes i samsvar med plan- og bygningsloven § 12-12.",
+  "vedtak": "Endringene i plankart og bestemmelser i detaljregulering – Fillan næringspark egengodkjennes. Vedtaket fattes i samsvar med plan- og bygningsloven § 12-12.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Stig Atle Lervåg (H)",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av innstilling fra teknisk utvalg - plan, landbruk og miljø",
+      "alternativer": [
+        {
+          "navn": "Vedta innstilling",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "Vedta innstilling",
+      "roedt_stoettet": "Vedta innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "21.06.2024",
+  "saksnummer_ps": "PS 49/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,68 @@
+{
+  "tittel": "Salg av kommunale boliger - Sandstad aldersboliger",
+  "innstilling": [
+    "Hitra kommunestyre opphever tidligere kommunestyrevedtak, PS 53/23, om salg av Sandstad eldreboliger og beholder denne som en del av kommunens eiendomsmasse.",
+    "Dersom det, gjennom kommende branntilsyn, avdekkes flere avvik som krever omfattende utgifter til oppgraderinger i tiden fremover, skal kommunedirektøren fremme ny sak om salg av Sandstad eldreboliger for Hitra kommunestyre."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre opphever tidligere kommunestyrevedtak, PS 53/23, om salg av Sandstad eldreboliger og beholder denne som en del av kommunens eiendomsmasse.",
+    "Dersom det gjennom kommende branntilsyn avdekkes flere avvik som krever oppgraderinger i tiden framover bes kommunedirektøren å komme tilbake med en god vedlikeholdsplan for Sandstad eldreboliger.",
+    "Navnet Sandstad eldreboliger endres til «boliger Sandstad»"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sigrid Helene Hanssen (H) på vegne av Høyre og Fremskrittspartiet",
+      "tekst": [
+        "Punkt 1 som innstillingens punkt 1.",
+        "Nytt punkt 2: \"Dersom det gjennom kommende branntilsyn avdekkes flere avvik som krever oppgraderinger i tiden framover bes kommunedirektøren å komme tilbake med en god vedlikeholdsplan for Sandstad eldreboliger.\"",
+        "Nytt punkt 3: \"Navnet Sandstad eldreboliger endres til «boliger Sandstad»\""
+      ]
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Geir Samdahl (FRP)",
+      "alternativer": [
+        {
+          "navn": "Samdahl erklæres habil",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Samdahl erklæres habil",
+      "roedt_stoettet": "Samdahl erklæres habil",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i formannskapet mellom innstilling og forslag fremmet av Sigrid Helene Hanssen (H)",
+      "alternativer": [
+        {
+          "navn": "Forslag fremmet av Sigrid Helene Hanssen (H)",
+          "stemmer": 4
+        },
+        {
+          "navn": "Innstillingen",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "Forslag fremmet av Sigrid Helene Hanssen (H)",
+      "roedt_stoettet": "Innstillingen",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering i kommunestyret om innstilling fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Innstillingen fra formannskapet",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen fra formannskapet",
+      "roedt_stoettet": "Innstillingen fra formannskapet",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "24.09.2024",
+  "saksnummer_ps": "PS 67/24",
+  "rodt_fremmet_forslag": false
+}

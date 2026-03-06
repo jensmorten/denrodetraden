@@ -1,0 +1,81 @@
+{
+  "tittel": "Økonomi- og finansrapport 2.tertial 2024 - Hitra kommune",
+  "innstilling": "1. Hitra kommunestyre godkjenner økonomi- og finansrapport 2. tertial 2024 slik den er fremlagt.\n2. I henholdt til tidligere bevilgninger og avsatte fond foretas følgende budsjettjusteringer:\n  a. Utbetaling til NMK Hitra kr 254.400 – dekkes av disposisjonsfondene relatert til Neverlia (2.5609.0511 og 2.5608.0512), jfr. F-sak 69/23.\n  b. Kostnader ført P7669 – Renovering/oppussing leiligheter Blåfjell (K-sak88/22), P7698 – Tiltak vedlikeholdsfond og P7609 – Maleprosjekt, til sammen kr 785.181, dekkes av disposisjonsfondet Vedlikeholdsfond kommunal eiendom (2.5609.0604)",
+  "vedtak": "1. Hitra kommunestyre godkjenner økonomi- og finansrapport 2. tertial 2024 slik den er fremlagt.\n2. I henholdt til tidligere bevilgninger og avsatte fond foretas følgende budsjettjusteringer:\n  1. Utbetaling til NMK Hitra kr 254.400 – dekkes av disposisjonsfondene relatert til Neverlia (2.5609.0511 og 2.5608.0512), jfr. F-sak 69/23.\n  2. Kostnader ført P7669 – Renovering/oppussing leiligheter Blåfjell (K-sak88/22), P7698 – Tiltak vedlikeholdsfond og P7609 – Maleprosjekt, til sammen kr 785.181, dekkes av disposisjonsfondet Vedlikeholdsfond kommunal eiendom (2.5609.0604)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marcus Helgesson Svennning (SV)",
+      "tekst": "Utvalg oppvekst registrerer en positiv endring innen nærvær innenfor tjenesteområdet oppvekst.\nUtvalget påpeker at det er bekymringsverdig at barnehagene bruker mye av sine ressurser på innkjøp av vikartjenester. Disse utfordringene har gått over en lengre periode, og kommunedirektøren utfordres til å orientere grundig om hvordan kommunen jobber for å øke nærvær blant ansatte, hvordan det jobbes med å unngå fravær, både langsiktig og kortsiktig.\nUtvalg oppvekst spør videre om en forklaring på hva «sterk økonomisk styring» på Barne- og familietjenesten vil innebære og bety.\nUtvalg oppvekst vil ellers påpeke god økonomisk styring innen tjenesteområdet oppvekst."
+    },
+    {
+      "forslagsstiller": "Tor Johan Sagøy (AP)",
+      "tekst": "Teknisk utvalg - plan, landbruk og miljø tar saken til orientering."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen i Utvalg for Oppvekst",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen i Utvalg for Helse og Omsorg",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Tor Johan Sagøy (AP) i Teknisk utvalg - plan, landbruk og miljø",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen i Hitra formannskap",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 79/24",
+  "rodt_fremmet_forslag": false
+}

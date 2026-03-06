@@ -1,0 +1,69 @@
+{
+  "tittel": "Bud fra KLP på Hitra kommunes aksjer i TrønderEnergi Vekst Holding AS",
+  "innstilling": "1. Hitra kommune tilbyr Kommunal Landspensjonskasse (KLP) å kjøpe 26.400 av sine aksjer i TrønderEnergi Vekst Holding AS etter pris fremkommet i tilbudsbrev ac 6/6-24. Dette utgjør 2/3-deler av Hitras beholdning.\n2. Gevinst ved salg av disse aksjene plasseres som egenkapital i et bolig- og utviklingsfond som skal være med på å utvikle prosjekter fortrinnsvis innenfor boligmarkedet som eksempelvis leie før eie, bo-start og lignende.\n3. Kommunedirektør bes utarbeide og fremme sak med retningslinjer og statutter for bruken av dette fondet.",
+  "vedtak": "1. Hitra kommune tilbyr Kommunal Landspensjonskasse (KLP) å kjøpe 26.400 av sine aksjer i TrønderEnergi Vekst Holding AS etter pris fremkommet i tilbudsbrev ac 6/6-24. Dette utgjør 2/3-deler av Hitras beholdning.\n2. Gevinst ved salg av disse aksjene plasseres som egenkapital i et bolig- og utviklingsfond som skal være med på å utvikle prosjekter fortrinnsvis innenfor boligmarkedet som eksempelvis leie før eie, bo-start og lignende.\n3. Kommunedirektør bes utarbeide og fremme sak med retningslinjer og statutter for bruken av dette fondet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører John Lernes (AP)",
+      "tekst": "1. Hitra kommune tilbyr Kommunal Landspensjonskasse (KLP) å kjøpe 26.400 av sine aksjer i TrønderEnergi Vekst Holding AS etter pris fremkommet i tilbudsbrev ac 6/6-24. Dette utgjør 2/3-deler av Hitras beholdning.\n2. Gevinst ved salg av disse aksjene plasseres som egenkapital i et bolig- og utviklingsfond som skal være med på å utvikle prosjekter fortrinnsvis innenfor boligmarkedet som eksempelvis leie før eie, bo-start og lignende.\n3. Kommunedirektør bes utarbeide og fremme sak med retningslinjer og statutter for bruken av dette fondet."
+    },
+    {
+      "forslagsstiller": "Sigrid Helene Hanssen (H) på vegne av H, FRP og PP",
+      "tekst": "1. Hitra kommune beholder alle sine aksjer i TrønderEnergi Vekst Holding AS.\n2. Midler ved salg av aksjer avsettes til disposisjonsfond.\n3. Forvaltning av midlene sees i sammenheng med kommunens finansforvaltning og budsjettarbeid i år."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 2
+        },
+        {
+          "navn": "Imot innstillingen",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Imot innstillingen",
+      "roedt_stoette": "For innstillingen",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering mellom punkt 1 i ordfører John Lernes sitt forslag og forslag fremmet av Sigrid Helene Hanssen (H)",
+      "alternativer": [
+        {
+          "navn": "Ordfører John Lernes sitt forslag",
+          "stemmer": 13
+        },
+        {
+          "navn": "Sigrid Helene Hanssen sitt forslag",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "Ordfører John Lernes sitt forslag",
+      "roedt_stoette": "Ordfører John Lernes sitt forslag",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering mellom punkt 2 og 3 i ordfører John Lernes sitt forslag og forslag fremmet av Sigrid Helene Hanssen (H)",
+      "alternativer": [
+        {
+          "navn": "Ordfører John Lernes sitt forslag",
+          "stemmer": 13
+        },
+        {
+          "navn": "Sigrid Helene Hanssen sitt forslag",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "Ordfører John Lernes sitt forslag",
+      "roedt_stoette": "Ordfører John Lernes sitt forslag",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "24.09.2024",
+  "saksnummer_ps": "PS 64/24",
+  "rodt_fremmet_forslag": false
+}

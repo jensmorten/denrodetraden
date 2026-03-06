@@ -1,0 +1,36 @@
+{
+  "tittel": "Revidering av samarbeidsavtale med kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge - MNIUA",
+  "innstilling": "Hitra kommunestyre vedtar revidert samarbeidsavtale med kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge.",
+  "vedtak": "Hitra kommunestyre vedtar revidert samarbeidsavtale med kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling i formannskapet 11.06.2024",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling i kommunestyret 21.06.2024",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "21.06.2024",
+  "saksnummer_ps": "PS 55/24",
+  "rodt_fremmet_forslag": false
+}

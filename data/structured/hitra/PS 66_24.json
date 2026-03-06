@@ -1,0 +1,60 @@
+{
+  "tittel": "Salg av kommunale boliger - Melandsjø omsorgsenter",
+  "innstilling": [
+    "Hitra kommunestyre vedtar å beholde Melandsjø omsorgsenter som en del av sin totale boligmasse. Tidligere kommunestyrevedtak, PS 53/23, om salg oppheves.",
+    "Navnet «Melandsjø omsorgsenter» endres til «Melandsjø bokollektiv»",
+    "Det bevilges kr 4.000.000 for oppgradering av nordre fløy av bygningsmassen iht. vedlagte oversikt, samt utvendig maling av hele bygget. Midlene tas fra disposisjonsfond ulike formål.",
+    "Nordre Fløy, totalt 7 leiligheter, tas i bruk som rekrutteringsbolig for ansatte i Hitra kommune. Maksimal leietid for disse leilighetene settes til 3 år."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre vedtar å beholde Melandsjø omsorgsenter som en del av sin totale boligmasse. Tidligere kommunestyrevedtak, PS 53/23, om salg oppheves.",
+    "Navnet «Melandsjø omsorgsenter» endres til «Melandsjø bokollektiv»",
+    "Det bevilges kr 4.000.000 for oppgradering av nordre fløy av bygningsmassen iht. vedlagte oversikt, samt utvendig maling av hele bygget. Midlene tas fra disposisjonsfond ulike formål.",
+    "Nordre Fløy, totalt 7 leiligheter, tas i bruk som rekrutteringsbolig for ansatte i Hitra kommune. Maksimal leietid for disse leilighetene settes til 3 år.",
+    "Leietakere som har tildelt leiligheter som omsorgsbolig har livslang leietid og skal ikke flyttes internt i boligen om de ikke ønsker det selv."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jann O. Krangnes (R)",
+      "tekst": "Stryke andre setning i innstillingens punkt 4 som sier følgende: \"Maksimal leietid for disse leilighetene settes til 3 år.\""
+    },
+    {
+      "forslagsstiller": "Tom Skare (FRP) på vegne av Høyre og Fremskrittspartiet",
+      "tekst": "Leietakere som har tildelt leiligheter som omsorgsbolig har livslang leietid og skal ikke flyttes internt i boligen om de ikke ønsker det selv."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om å stryke maksimal leietid på 3 år i punkt 4, fremmet av Jann O. Krangnes (R).",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 1
+        },
+        {
+          "navn": "Imot forslaget",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "Imot forslaget",
+      "roedt_stoette": "For forslaget",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslag til tilleggspunkt om livslang leietid for omsorgsboliger, fremmet av Tom Skare (FRP) på vegne av Høyre og Fremskrittspartiet.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoette": null,
+      "roedt_side": "ikke relevant"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "24.09.2024",
+  "saksnummer_ps": "PS 66/24",
+  "rodt_fremmet_forslag": true
+}

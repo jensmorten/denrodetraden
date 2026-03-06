@@ -1,0 +1,36 @@
+{
+  "tittel": "Revidering av valg av Ungdomsråd",
+  "innstilling": "1.Hitra kommunestyre vedtar ny valgperioden for ungdomsrådet. Ny valgperiode endres til å følge skoleåret. Ny periode blir derfor 01.07.2025-31.06.2026.\n2.Hitra kommunestyre vedtar at de sittende representantene for Hitra Ungdomsråd gjenvelges for perioden 01.01.2025-31.06.2025.",
+  "vedtak": "1. Hitra kommunestyre vedtar ny valgperioden for ungdomsrådet. Ny valgperiode endres til å følge skoleåret. Ny periode blir derfor 01.07.2025-31.06.2026.\n2. Hitra kommunestyre vedtar at de sittende representantene for Hitra Ungdomsråd gjenvelges for perioden 01.01.2025-31.06.2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstillingen fra formannskapet i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling av innstillingen i formannskapet",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 82/24",
+  "rodt_fremmet_forslag": false
+}

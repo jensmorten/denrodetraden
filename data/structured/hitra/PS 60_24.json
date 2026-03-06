@@ -1,0 +1,41 @@
+{
+  "tittel": "Valg av meddommere til tingretten for perioden 2025-2028",
+  "innstilling": "Hitra kommunestyre vedtar følgende meddommere til Trøndelag tingrett for perioden 01.01.2025-31.12.2028:\n15 kvinner:\n• Berit Folland\n• Elen Birgitte Hestnes\n• Lene Tømmerås Bakeng\n• Martijn Skaget\n• May Irene Andreassen\n• Monica Mollan\n• Sigrid Helene Hanssen\n• Ragnhild Bjørvik Nygård\n• Ann Bodil Kosberg Wingan\n• Ingrid Kathrine Schanche\n• Lina Ovesdatter Klingenberg Måsøval\n• Maria Ottervik\n• Monica Wang Olsen\n• Venke Fjeldvær\n• Anne Nøren\n15 menn:\n• Andreas Sandstad Hanssen\n• Logman Lanour Mohammed Adam\n• Arve Fløan\n• Arve Glørstad\n• Asbjørn Gaasø\n• Edvard Meland Hjertås\n• Geir Tore Mosand\n• Jon Lian\n• Kåre Guldsten Ottesen\n• Lars Erik Strand Vitsø\n• Ole Edvard Tidemann Fillingsnes\n• Silvio Krauss\n• Stig Høydal\n• Tommy Nylander\n• Tor Magne Langø",
+  "vedtak": "Hitra kommunestyre vedtar følgende meddommere til Trøndelag tingrett for perioden 01.01.2025-31.12.2028:\n15 kvinner:\n• Berit Folland\n• Elen Birgitte Hestnes\n• Lene Tømmerås Bakeng\n• Martijn Skaget\n• May Irene Andreassen\n• Monica Mollan\n• Sigrid Helene Hanssen\n• Ragnhild Bjørvik Nygård\n• Ann Bodil Kosberg Wingan\n• Ingrid Kathrine Schanche\n• Lina Ovesdatter Klingenberg Måsøval\n• Tea Kristine Broholm\n• Monica Wang Olsen\n• Venke Fjeldvær\n• Anne Nøren\n15 menn:\n• Andreas Sandstad Hanssen\n• Logman Lanour Mohammed Adam\n• Arve Fløan\n• Arve Glørstad\n• Asbjørn Gaasø\n• Edvard Meland Hjertås\n• Geir Tore Mosand\n• Jon Lian\n• Kåre Guldsten Ottesen\n• Lars Erik Strand Vitsø\n• Ole Edvard Tidemann Fillingsnes\n• Silvio Krauss\n• Stig Høydal\n• Tommy Nylander\n• Tor Magne Langø",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører John Lernes (AP)",
+      "tekst": "Tea Kristine Broholm oppnevnes istedenfor Maria Maria Ottervik."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra ordfører John Lernes (AP) om å oppnevne Tea Kristine Broholm istedenfor Maria Maria Ottervik.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget fra ordfører John Lernes (AP)",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over innstillingen fra valgutvalget med endringen om Tea Kristine Broholm.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstillingen med endringen",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "21.06.2024",
+  "saksnummer_ps": "PS 60/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,32 @@
+{
+  "tittel": "Meldingssak - Møteprotokoll fra kontrollutvalgsmøte 09.09.2024",
+  "innstilling": "Saken fremmes uten innstilling.",
+  "vedtak": [
+    "Hitra kommunestyre tar møteprotokollen fra Kontrollutvalgets møte den 09.09.2024 til orientering.",
+    "Hitra kommunestyre slutter seg ikke til protokolltilførselen fremmet av Nestleder Lars P. Hammerstad i møte i kontrollutvalget 09.09.2024."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører John Lernes (AP)",
+      "tekst": "1. Hitra kommunestyre tar møteprotokollen fra Kontrollutvalgets møte den 09.09.2024 tas til orientering.\n2. Hitra kommunestyre slutter seg ikke til protokolltilførselen fremmet av representanten Nestleder Lars P. Hammerstad i møte i kontrollutvalget 09.09.2024."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over ordfører John Lernes (AP) sitt forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "24.09.2024",
+  "saksnummer_ps": "PS 76/24",
+  "rodt_fremmet_forslag": false
+}

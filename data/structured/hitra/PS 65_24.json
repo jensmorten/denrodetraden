@@ -1,0 +1,59 @@
+{
+  "tittel": "Salg av kommunale boliger - Sunde",
+  "innstilling": [
+    "Hitra kommunestyre opprettholder tidligere kommunestyrevedtak, PS 53/23, om salg av 4 enheter i Sunde boligfelt med adresse Utsikten 45A-45D.",
+    "Nåværende leietaker tilbys å kjøpe ut sin nåværende bolig, og de resterende 3 enhetene legges ut til salg på det åpne markedet."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre opprettholder tidligere kommunestyrevedtak, PS 53/23, om salg av 4 enheter i Sunde boligfelt med adresse Utsikten 45A-45D.",
+    "Nåværende leietaker tilbys å kjøpe ut sin nåværende bolig, og de resterende 3 enhetene legges ut til salg på det åpne markedet."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jann Oddvar Krangnes (R)",
+      "tekst": "Rødt fremmer forslag om å ikke selge bolig Sunde."
+    },
+    {
+      "forslagsstiller": "Lars Erik Strand Vitsø (AP)",
+      "tekst": "Det igangsettes bygging av nye utleieboliger (leie før eie) på Sunde så snart utvidelsen av Sunde boligfelt er klar."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom innstillingen fra formannskapet og forslaget fremmet av Jann Oddvar Krangnes (R).",
+      "alternativer": [
+        {
+          "navn": "Innstillingen fra formannskapet",
+          "stemmer": 21
+        },
+        {
+          "navn": "Forslaget fremmet av Jann Oddvar Krangnes (R)",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "Innstillingen fra formannskapet",
+      "roedt_stoettet": "Forslaget fremmet av Jann Oddvar Krangnes (R)",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over forslag om tilleggspunkt fremmet av Lars Erik Strand Vitsø (AP).",
+      "alternativer": [
+        {
+          "navn": "Forslaget om tilleggspunkt fra Lars Erik Strand Vitsø (AP)",
+          "stemmer": 9
+        },
+        {
+          "navn": "Mot forslag om tilleggspunkt",
+          "stemmer": 16
+        }
+      ],
+      "hvem_vant": "Mot forslag om tilleggspunkt",
+      "roedt_stoettet": "Forslaget om tilleggspunkt fra Lars Erik Strand Vitsø (AP)",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "24.09.2024",
+  "saksnummer_ps": "PS 65/24",
+  "rodt_fremmet_forslag": true
+}

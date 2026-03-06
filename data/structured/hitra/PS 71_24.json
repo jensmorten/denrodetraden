@@ -1,0 +1,37 @@
+{
+  "tittel": "Valg av forliksrådsmedlemmer for perioden 2025-2028",
+  "innstilling": {
+    "tekst": "Hitra kommunestyre vedtar følgende forliksrådsmedlemmer for perioden 01.01.2025-31.12.2028:\n3 faste representanter:\n1. May Elise Jamtøy Stolpnes - leder\n2. Terje Herfjord - nestleder\n3. Arnt J. Breivoll\n3 vararepresentanter:\n17. Eldbjørg Broholm\n18. Stig Høydal\n19. Heidi Kristine Fugelsøy"
+  },
+  "vedtak": {
+    "tekst": "Hitra kommunestyre vedtar følgende forliksrådsmedlemmer for perioden 01.01.2025-31.12.2028:\n3 faste representanter:\n• May Elise Jamtøy Stolpnes - leder\n• Terje Herfjord - nestleder\n• Arnt J. Breivoll\n3 vararepresentanter:\n• Eldbjørg Broholm\n• Stig Høydal\n• Heidi Kristine Fugelsøy"
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jann Oddvar Krangnes (R)",
+      "tekst": "Hitra kommunestyre vedtar følgende forliksrådsmedlemmer for perioden 01.01.2025-31.12.2028:\n3 faste representanter:\n1. Eldbjørg Broholm - leder\n2. Terje Herfjord - nestleder\n3. Arnt J. Breivoll\n3 vararepresentanter:\n14. May Elise Jamtøy Stolpnes\n15. Stig Høydal\n16. Heidi Kristine Fugelsøy"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg mellom valgutvalgets innstilling og forslag fremmet av Jann Oddvar Krangnes (R)",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": 13
+        },
+        {
+          "navn": "Forslag fremmet av Jann Oddvar Krangnes (R)",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Forslag fremmet av Jann Oddvar Krangnes (R)",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "24.09.2024",
+  "saksnummer_ps": "PS 71/24",
+  "rodt_fremmet_forslag": true
+}

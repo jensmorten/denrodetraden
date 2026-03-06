@@ -1,0 +1,24 @@
+{
+  "tittel": "Økonomi- og finansrapport 1.tertial 2024 - Hitra kommune",
+  "innstilling": "Hitra kommunestyre godkjenner økonomi- og finansrapport 1.tertial 2024 slik den er fremlagt.",
+  "vedtak": "Hitra kommunestyre godkjenner økonomi- og finansrapport 1.tertial 2024 slik den er fremlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "21.06.2024",
+  "saksnummer_ps": "PS 47/24",
+  "rodt_fremmet_forslag": false
+}

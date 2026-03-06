@@ -1,0 +1,54 @@
+{
+  "tittel": "Søknad om lånegaranti fra DalPro AS",
+  "innstilling": {
+    "a": "Hitra kommunestyre innvilger Dalpro Eiendom AS en selvskyldnergaranti stor kroner 20.000.000,- som sikkerhet for lån til bygging og etablering av nytt vaskeri- og flerbruksbygg på Sistranda i Frøya kommune",
+    "b": "Garantien gjelder for halvparten av lånets hovedstol, maks kroner 20.000.000,- med tillegg av 10 % av til enhver tid gjeldende hovedstol til dekning av eventuelle påløpte renter og omkostninger. Kommunens maksimale garantiansvar kan ikke overstige kr 20.000.000,- + 10 %, totalt kr 22.000.000,-. Frøya kommune garanterer for den andre halvparten av lånets totale størrelse på kr 40.000.000,- med likelydende beløp som Hitra kommune.",
+    "c": "Garantien er gyldig fra utbetalingsdato og i 40 år",
+    "d": "Garantiansvaret reduseres i takt med nedbetalingen av lånet og opphører etter 40 år med tillegg på 2 år, jfr. Garantiforskriftens paragraf 3.",
+    "e": "Garantien må godkjennes av Statsforvalteren i Trøndelag før den er endelig, jfr. Kommuneloven § 14-19, og er ikke gyldig uten slik godkjenning.",
+    "f": "Det forutsettes at inntekter fra et evnt. salg av dagens eksisterende bygningsmasse går til DalPro Eiendom AS for nedbetaling. Det forutsettes at DalPro Eiendom AS kjøper eiendommen av Frøya kommune.",
+    "g": "Hitra kommune forutsetter at Frøya kommunes garantiansvar har likelydende formulering beløpsstørrelse tilsvarende punkt b) i denne innstillingen.",
+    "h": "Garantiansvaret er kun gyldig dersom Frøya kommune får godkjent sitt likelydende garantiansvar jmf. punkt e). I motsatt fall vil Hitra kommunes garantiansvar frafalle."
+  },
+  "vedtak": {
+    "1": "Hitra kommunestyre innvilger Dalpro Eiendom AS en selvskyldnergaranti stor kroner 20.000.000,- som sikkerhet for lån til bygging og etablering av nytt vaskeri- og flerbruksbygg på Sistranda i Frøya kommune.",
+    "2": "Garantien gjelder for halvparten av lånets hovedstol, maks kroner 20.000.000,- med tillegg av 10 % av til enhver tid gjeldende hovedstol til dekning av eventuelle påløpte renter og omkostninger. Kommunens maksimale garantiansvar kan ikke overstige kr 20.000.000,- + 10 %, totalt kr 22.000.000,-. Frøya kommune garanterer for den andre halvparten av lånets totale størrelse på kr 40.000.000,- med likelydende beløp som Hitra kommune.",
+    "3": "Garantien er gyldig fra utbetalingsdato og i 40 år.",
+    "4": "Garantiansvaret reduseres i takt med nedbetalingen av lånet og opphører etter 40 år med tillegg på 2 år, jfr. Garantiforskriftens paragraf 3.",
+    "5": "Garantien må godkjennes av Statsforvalteren i Trøndelag før den er endelig, jfr. Kommuneloven § 14-19, og er ikke gyldig uten slik godkjenning.",
+    "6": "Det forutsettes at inntekter fra et evnt. salg av dagens eksisterende bygningsmasse går til DalPro Eiendom AS for nedbetaling. Det forutsettes at DalPro Eiendom AS kjøper eiendommen av Frøya kommune.",
+    "7": "Hitra kommune forutsetter at Frøya kommunes garantiansvar har likelydende formulering beløpsstørrelse tilsvarende punkt b) i denne innstillingen.",
+    "8": "Garantiansvaret er kun gyldig dersom Frøya kommune får godkjent sitt likelydende garantiansvar jmf. punkt e). I motsatt fall vil Hitra kommunes garantiansvar frafalle."
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over innstillingen i formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "21.06.2024",
+  "saksnummer_ps": "PS 50/24",
+  "rodt_fremmet_forslag": false
+}

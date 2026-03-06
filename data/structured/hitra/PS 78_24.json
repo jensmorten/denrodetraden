@@ -1,0 +1,36 @@
+{
+  "tittel": "Økonomirapport 2. tertial 2024 - Hitra Storkjøkken KF",
+  "innstilling": "Hitra kommunestyre godkjenner økonomirapport 2. tertial 2024 for Hitra Storkjøkken KF slik den er fremlagt.",
+  "vedtak": "Hitra kommunestyre godkjenner økonomirapport 2. tertial 2024 for Hitra Storkjøkken KF slik den er fremlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av innstilling fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling av innstilling i formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 78/24",
+  "rodt_fremmet_forslag": false
+}

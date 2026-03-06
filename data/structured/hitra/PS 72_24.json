@@ -1,0 +1,29 @@
+{
+  "tittel": "Valg av møtefullmektige til forliksrådet for perioden 2025-2028",
+  "innstilling": "Hitra kommunestyre vedtar følgende møtefullmektige til forliksrådet for perioden 01.01.2025-31.12.2028:\n• Jorun Fjeldvær\n• Inge Dahlø\n• Dagfinn Herskedal",
+  "vedtak": "Saken utsettes.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører John Lernes (AP)",
+      "tekst": "Forslag om å utsette saken."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over utsettelsesforslaget fremmet av ordfører John Lernes (AP).",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "24.09.2024",
+  "saksnummer_ps": "PS 72/24",
+  "rodt_fremmet_forslag": false
+}
