@@ -1,0 +1,53 @@
+{
+  "tittel": "Spillemidler 2025 - prioritering av søknader",
+  "innstilling": "Rådmannens forslag til vedtak legges til grunn.",
+  "vedtak": "Kommunestyret vedtar følgende prioritering av spillemiddelsøknader for ordinære anlegg:\n1. Gruva stadion /nedre kunstgress\n2. Gimshallen\n3. Gåsbakken kunstgress\n4. Flå skole- idrettshall\n5. Gåsbakken servicebygg\n6. Melhushallen nord\n7. Strandamarka O-kart\n8. Kvennabakken lysløpe\nIngen endringer for nærmiljøanlegg.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørn Ove Moen (AP) på vegner av AP, SP, KrF og SV",
+      "tekst": "Kommunestyret vedtar følgende prioritering av spillemiddelsøknader for ordinære anlegg:\nGruva stadion /nedre kunstgress 1\nGimshallen 2\nGåsbakken kunstgress 3\nFlå skole- idrettshall 4\nGåsbakken servicebygg 5\nMelhushallen nord 6\nStrandamarka O-kart 7\nKvennabakken lysløpe 8\nIngen endringer for nærmiljøanlegg."
+    },
+    {
+      "forslagsstiller": "Sofie Torgersen (R) på vegner av R og INP",
+      "tekst": "1. Kvennabakken lysløpe\n2. Gruva stadion /nedre kunstgress\n3. Gimshallen\n4. Gåsbakken kunstgress\n5. Flå skole- idrettshall\n6. Gåsbakken servicebygg\n7. Melhushallen nord7\n8. Strandamarka O-kart"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fra INP og R",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 3
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over endringsforslag fra Moen (AP) på vegner av AP, SP, KrF og SV",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.12.2024",
+  "saksnummer_ps": "PS 126/24",
+  "rodt_fremmet_forslag": true
+}

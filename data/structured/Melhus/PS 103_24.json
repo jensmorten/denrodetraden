@@ -1,0 +1,24 @@
+{
+  "tittel": "Spørsmål til ordfører - Kommunestyret 10.9.2024 - Brukermedvirkning - Lillian Ofstad - PP",
+  "innstilling": null,
+  "vedtak": "Sak utsettes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av sak 103/2024",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Utsettelse",
+      "roedt_stoettet": "Utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 103/24",
+  "rodt_fremmet_forslag": false
+}

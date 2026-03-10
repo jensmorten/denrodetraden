@@ -1,0 +1,28 @@
+{
+  "tittel": "Klage på vedtak - Reguleringsplan Østtun masseuttak ID202102",
+  "innstilling": "Klagene tas ikke til følge. Som begrunnelse vises det til saksutredningen. Saken oversendes Statsforvalteren i Trøndelag som klageinstans.",
+  "vedtak": "Klagene tas ikke til følge. Som begrunnelse vises det til saksutredningen. Saken oversendes Statsforvalteren i Trøndelag som klageinstans.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 4
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "08.02.2024",
+  "saksnummer_ps": "PS 4/2024",
+  "rodt_fremmet_forslag": false
+}

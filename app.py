@@ -20,7 +20,7 @@ st.set_page_config(page_title="Den Røde Tråden", layout="wide")
 st.title("🔴 Den Røde Tråden")
 st.markdown("Dette er en app som hjelper Rødts kommunestyrerepresentater finne lignende saker i andre kommuner.")  
 st.markdown("Last opp enkelt sak eller sakliste og finn lignende saker i andre kommuner.")
-st.markdown("Appen søker i en database med saker som per idag inneholder behandlede saker fra 1. januar 2025 fram til februar 2026 for kommunene Frøya, Hitra, Levanger, Malvik, Melhus, Orkland, Ørland, Røros, Stjørdal, Trondheim og Verdal")
+st.markdown("Appen søker i en database med saker som per idag inneholder behandlede saker fra 1. januar 2024 fram til februar 2026 for kommunene Frøya, Hitra, Levanger, Malvik, Melhus, Orkland, Ørland, Røros, Stjørdal, Trondheim og Verdal")
 
 # ============================================
 # INPUT

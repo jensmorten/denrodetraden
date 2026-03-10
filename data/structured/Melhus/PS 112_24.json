@@ -1,0 +1,49 @@
+{
+  "tittel": "Utbedring av Høyeggen og Eid skoler",
+  "innstilling": "Rådmannens forslag til vedtak legges til grunn.",
+  "vedtak": "Kommunestyret ber rådmannen innarbeide økonomiske ressurser i ØHP 2025-28 tilsvarende 1,5 mill. kroner eks. mva for å starte planlegging av:\n• Utbedring av Høyeggen skole for å forlenge levetiden til dagens bygningsmasse og tekniske anlegg.\n• Utbedring av Eid skole for å forlenge levetiden til dagens bygningsmasse og tekniske anlegg.\nSaken sendes over til HOK og Teknikk og Miljø for innspill til utredninga.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Merethe Moum (ML) på vegner av ML, H, FrP og PP",
+      "tekst": "Eid\nMelhus kommune vedtar at det neste skoleprosjektet i Melhus kommune er Eid skole. Dette i tråd med rapporten «skole og barnehagebruk 2023», hvor det vurderes at en totalrehabilitering ikke er formålstjenlig.\nFor å sikre god funksjonalitet, kvalitet, arealutnyttelse og energiøkonomi bes rådmannen om å igangsette en forstudie som inkluderer romprogram og kostnadsberegninger for ny Eid skole innen kommende tiårsperiode.\nSak vedrørende Eid skole legges fram for behandling våren 2025.\n\nHøyeggen\nKommunestyret ber samtidig rådmannen starte planleggingen av utbedring av høyeggen skole for å forlenge levetiden til dagens bygningsmasse og tekniske anlegg. Det skal vurderes løsninger som fjerner brakkeriggene og tilpasser skolen til dagens krav og behov."
+    },
+    {
+      "forslagsstiller": "Fritz Arne Haugen (SP) på vegner av AP, SP, KrF og SV",
+      "tekst": "Saken sendes over til HOK og Teknikk og Miljø for innspill til utredninga."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering mellom rådmannens forslag til vedtak og nytt forslag til vedtak fremmet av Merethe Moum.",
+      "alternativer": [
+        {
+          "navn": "Rådmannens forslag til vedtak",
+          "stemmer": 21
+        },
+        {
+          "navn": "Nytt forslag til vedtak fremmet av Merethe Moum",
+          "stemmer": 16
+        }
+      ],
+      "hvem_vant": "Rådmannens forslag til vedtak",
+      "roedt_stoette": "Nytt forslag til vedtak fremmet av Merethe Moum",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering på tilleggsforslag fremmet av Fritz Arne Haugen.",
+      "alternativer": [
+        {
+          "navn": "Tilleggsforslag fremmet av Fritz Arne Haugen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Tilleggsforslag fremmet av Fritz Arne Haugen",
+      "roedt_stoette": "Tilleggsforslag fremmet av Fritz Arne Haugen",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "29.10.2024",
+  "saksnummer_ps": "PS 112/24",
+  "rodt_fremmet_forslag": false
+}

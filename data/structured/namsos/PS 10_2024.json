@@ -1,0 +1,36 @@
+{
+  "tittel": "Planstrategi for Namsos kommune 2024 - 2027 introduksjon, prosess og oppstart",
+  "innstilling": {
+    "tekst": [
+      "1. Kommunestyret tar forslag til kunnskapsgrunnlag til etterretning.",
+      "2. Kommunestyret vedtar forslag til medvirkning som fremlagt."
+    ],
+    "hjemmel": "Lov om planlegging og byggesaksbehandling (plan – og bygningsloven) Andre del: Plandel IV Kommunal planlegging § 10-1. Kommunal planstrategi"
+  },
+  "vedtak": {
+    "tekst": [
+      "1. Kommunestyret tar forslag til kunnskapsgrunnlag til etterretning.",
+      "2. Kommunestyret vedtar forslag til medvirkning som fremlagt."
+    ],
+    "hjemmel": "Lov om planlegging og byggesaksbehandling (plan – og bygningsloven) Andre del: Plandel IV Kommunal planlegging § 10-1. Kommunal planstrategi"
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "08.02.2024",
+  "saksnummer_ps": "PS 10/2024",
+  "rodt_fremmet_forslag": false
+}

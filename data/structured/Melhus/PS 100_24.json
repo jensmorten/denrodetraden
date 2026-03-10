@@ -1,0 +1,41 @@
+{
+  "tittel": "Interpellasjon om innkrevingen av bompenger på E6 Søberg/Hofstad",
+  "innstilling": "Melhus kommunestyre krever at innkrevingen i bomstasjonene E6 Søberg og FV6612 Hofstad stanses senest når strekningen E6 Kvål–Melhus er ferdig nedbetalt etter nøkkelen for samlet bompengeandel for strekningen E6 Ulsberg–Melhus (37,8 prosent). Melhus kommunestyret ber ordfører om å innkalle til et felles møte med politisk og administrativ ledelse i kommunene Rennebu, Midtre Gauldal og Melhus og Trøndelag fylkeskommune med mål om å fremme en felles sak ovenfor Samferdselsdepartementet om revidering av bompengeproposisjon for E6 Ulsberg-Melhus med bakgrunn i de store fremdriftsendringene på strekningen og innføring av passeringstak for takstgruppe 1 på bomsnittene.",
+  "vedtak": "Melhus kommunestyre krever at innkrevingen i bomstasjonene E6 Søberg og FV6612 Hofstad stanses senest når strekningen E6 Kvål–Melhus er ferdig nedbetalt etter nøkkelen for samlet bompengeandel for strekningen E6 Ulsberg–Melhus (37,8 prosent). Melhus kommunestyret ber ordfører om å innkalle til et felles møte med politisk og administrativ ledelse i kommunene Rennebu, Midtre Gauldal og Melhus og Trøndelag fylkeskommune med mål om å fremme en felles sak ovenfor Samferdselsdepartementet om revidering av bompengeproposisjon for E6 Ulsberg-Melhus med bakgrunn i de store fremdriftsendringene på strekningen og innføring av passeringstak for takstgruppe 1 på bomsnittene.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Einar Gimse-Syrstad (AP)",
+      "tekst": "Melhus kommunestyret ber ordfører om å innkalle til et felles møte med politisk og administrativ ledelse i kommunene Rennebu, Midtre Gauldal og Melhus og Trøndelag fylkeskommune med mål om å fremme en felles sak ovenfor Samferdselsdepartementet om revidering av bompengeproposisjon for E6 Ulsberg-Melhus med bakgrunn i de store fremdriftsendringene på strekningen og innføring av passeringstak for takstgruppe 1 på bomsnittene."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over justert forslag til vedtak fra Marius Krogstad Aune (H)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Einar Gimse-Syrstad (AP)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 100/24",
+  "rodt_fremmet_forslag": false
+}

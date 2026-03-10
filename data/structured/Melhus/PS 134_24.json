@@ -1,0 +1,33 @@
+{
+  "tittel": "Samlokalisering av helsestasjonene i Melhus kommune",
+  "innstilling": "Vedtak fra UHOK legges til grunn.",
+  "vedtak": "Helsestasjonstilbudet på Lundamo opprettholdes med bemanning av helsesykepleier minimum 1 dag i uka. Øvrig organisering overlates til rådmannen å bestemme.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jorid O. Jagtøyen (ML) på vegner av ML",
+      "tekst": "Helsestasjonene på Lundamo og Melhus samlokaliseres til én lokasjon i Melhus for å sikre et helhetlig, faglig forsvarlig og bærekraftig helsestasjonstilbud."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om alternativt forslag til vedtak fra Jorid O. Jagtøyen (ML) mot forslag til vedtak fra UHOK",
+      "alternativer": [
+        {
+          "navn": "Alternativt forslag til vedtak",
+          "stemmer": 14
+        },
+        {
+          "navn": "Forslag til vedtak fra UHOK",
+          "stemmer": 22
+        }
+      ],
+      "hvem_vant": "Forslag til vedtak fra UHOK",
+      "roedt_stoettet": "Alternativt forslag til vedtak",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.12.2024",
+  "saksnummer_ps": "PS 134/24",
+  "rodt_fremmet_forslag": false
+}

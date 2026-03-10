@@ -1,0 +1,24 @@
+{
+  "tittel": "Stortings- og sametingsvalget i 2025 - Fastsettelse av valgdag",
+  "innstilling": "Rådmannens forslag til vedtak legges til grunn.",
+  "vedtak": "Stortings- og sametingsvalget 2025 fastsettes til mandag 8. september 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 87/24",
+  "rodt_fremmet_forslag": false
+}

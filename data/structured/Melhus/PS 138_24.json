@@ -1,0 +1,28 @@
+{
+  "tittel": "Spørsmål til Kommunestyret 10.12.2024 - Grunnundersøkelser Kvål ved Multiconsult - Kaare Qvenild - ML",
+  "innstilling": "Spørsmål besvart i møte.",
+  "vedtak": "Spørsmål besvart i møte.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om besvarelse av spørsmål i møte",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": null
+        },
+        {
+          "navn": "Mot",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.12.2024",
+  "saksnummer_ps": "PS 138/24",
+  "rodt_fremmet_forslag": false
+}

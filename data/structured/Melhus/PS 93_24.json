@@ -1,0 +1,24 @@
+{
+  "tittel": "Samarbeidsavtale mellom Melhus kommune og Melhus idrettsråd",
+  "innstilling": "Formannskapets vedtak legges til grunn.",
+  "vedtak": "Kommunestyret vedtar samarbeidsavtalen mellom Melhus kommune og Melhus idrettsråd med følgende endring: Punk 8.1 endres til: \"8.1 Minst to ganger i året skal kommunen sin politiske ledelse møte idrettsrådet for å drøfte vilkår og utfordringer for idretten i kommunen.\"",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om vedtak av samarbeidsavtalen med endring i punkt 8.1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 93/24",
+  "rodt_fremmet_forslag": false
+}

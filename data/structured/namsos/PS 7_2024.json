@@ -1,0 +1,113 @@
+{
+  "tittel": "Vurdering av mulige plasseringer og tomtevalg for nytt helsebygg i Namsos sentrum",
+  "innstilling": {
+    "tekst": "Formannskapets forslag til vedtak:\n1. Kommunestyret tar tomteanalyse nytt helsebygg i Namsos sentrum og kriteriene for analysen lagt til grunn til etterretning.\n2. Kommunestyret ber kommunedirektøren innlede samtaler med grunneiere aktuelle tomter i sentrum, og gir fullmakt til å forhandle fram betingelser for alternativer.\n3. Sak om eventuelt kjøp av tomt eller inngåelse av intensjonsavtale for kjøp og tilhørende finansering, legges fram når forslag til avtale er framforhandlet. Alternativt legges det fram sak om endring av kriterier for utvidelse av tomteanalyse, om ikke akseptable løsninger finnes.",
+    "for": 30,
+    "imot": 4,
+    "for_stemmer": [
+      "Frode Båtnes (AP)",
+      "Karin Sinnes (AP)",
+      "Marit Haukø (AP)",
+      "Nils Jørgen Jørgensen (AP)",
+      "Svein Storø (AP)",
+      "Tor Erik Bjerkestrand (AP)",
+      "Trine Fagerhaug (AP)",
+      "Trine Oksdøl (AP)",
+      "Venke Heimdal (AP)",
+      "Anita Volden (Frp)",
+      "Stein Tore Wolff (Frp)",
+      "Arnt Skillingstad Rørvik (H)",
+      "Christina Kvernland (H)",
+      "Finn Åge Forås (H)",
+      "Hege Bjørgum Skillingstad (H)",
+      "Håkon Aglen Fredriksen (H)",
+      "Joar Olav Grøtting (H)",
+      "Mari Kristine Storhaug Brattgjerd (H)",
+      "Nils Sigurd Klykken (H)",
+      "Tom Collett Prytz (H)",
+      "Sue Rossøy (INP)",
+      "Per Olav Mork (KrF)",
+      "Bjørn Dag Derås (SP)",
+      "Bjørnar Schei (SP)",
+      "Herbjørn Kolstad (SP)",
+      "Nina Edel Damås (SP)",
+      "Rune Wik (SP)",
+      "Steinar Lyngstad (SP)",
+      "Hilde Guddingsmo (SV)",
+      "Morten Sommer (SV)"
+    ],
+    "imot_stemmer": [
+      "Henrik Aleksander Devik (H)",
+      "Geir Strøm Aalberg (SV)",
+      "Geir Olav Knappe (V)",
+      "Gro Olden Jørgensen (V)"
+    ]
+  },
+  "vedtak": {
+    "tekst": "1. Kommunestyret tar tomteanalyse nytt helsebygg i Namsos sentrum og kriteriene for analysen lagt til grunn til etterretning.\n2. Kommunestyret ber kommunedirektøren innlede samtaler med grunneiere aktuelle tomter i sentrum, og gir fullmakt til å forhandle fram betingelser for alternativer.\n3. Sak om eventuelt kjøp av tomt eller inngåelse av intensjonsavtale for kjøp og tilhørende finansering, legges fram når forslag til avtale er framforhandlet. Alternativt legges det fram sak om endring av kriterier for utvidelse av tomteanalyse, om ikke akseptable løsninger finnes."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Geir Strøm Aalberg (Sosialistisk Venstreparti) på vegne av Venstre og SV",
+      "tekst": "1. Kommunestyret tar tomteanalyse nytt helsebygg i Namsos sentrum og kriteriene for analysen lagt til grunn til etterretning.\n2. Kommunestyret ber kommunedirektøren innlede samtaler med grunneiere for tomtene «Linjegodstomta», «Sandgata» og «Høkneshylla», og gir fullmakt til å forhandle fram betingelser for alternativene. I tillegg skal et nytt helsebygg i Namsos sentrum lokalisert til «Nexanstomta» vurderes videre.\n3. Sak om eventuelt kjøp av tomt og tilhørende finansiering legges fram når forslag til avtale er fremforhandlet. Alternativt legges det fram sak om endring av kriterier for utvidelse av tomteanalyse, om ikke akseptable løsninger finnes.\n4. Grunnforholdene i de aktuelle tomtealternativene må gis en grundig geoteknisk analyse."
+    },
+    {
+      "forslagsstiller": "Geir Olav Knappe (Venstre)",
+      "tekst": "2. Kommunestyret ber kommunedirektøren innlede samtaler med grunneiere for tomtene «Linjegodstomta», «Sandgata» og «Høkneshylla», og gir fullmakt til å forhandle fram betingelser for alternativene."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over forslag fra Geir Strøm Aalberg (SV) på vegne av Venstre og SV",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 27
+        }
+      ],
+      "vinner": "Imot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Avstemning over endringsforslag fra Geir Olav Knappe (Venstre)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 27
+        }
+      ],
+      "vinner": "Imot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Avstemning over innstilling (Formannskapets forslag til vedtak)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 4
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "Imot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "08.02.2024",
+  "saksnummer_ps": "PS 7/2024",
+  "rodt_fremmet_forslag": false
+}

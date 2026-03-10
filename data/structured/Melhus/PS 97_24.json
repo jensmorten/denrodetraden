@@ -1,0 +1,49 @@
+{
+  "tittel": "Sluttbehandling - Prestmo boligfelt - PlanID 2020005",
+  "innstilling": "Formannskapets forslag til vedtak legges til grunn.",
+  "vedtak": [
+    "Kommunestyret vedtar detaljreguleringsplan Prestmo boligfelt, gnr/bnr 90/4 (plan-id: 2020005), jf. plan- og bygningsloven § 12-12.",
+    "Deler av følgende planer, inkludert alle senere planendringer, delplaner og tilhørende bestemmelser, oppheves ved godkjenning av detaljreguleringsplan Prestmo boligfelt som fastsatt i punkt 1: Gjeldende detaljregulering for Reguleringsplan for Søberg Vest, 88/1 m.fl (2007059), ikrafttredelsesdato 30.04.08; Bebyggelsesplan for delfelt B 2.1 Søberg Vest, del av 86/6 m.fl. (2008003), ikrafttredelsesdato 27.05.08; E6 Kvål-Melhus sentrum (2017016), ikrafttredelsesdato 19.06.18; og Detaljplan Søberg Vest del av 88/1 (201003), ikrafttredelsesdato 16.10.12.",
+    "Detaljert plan for flytting av matjord godkjent av landbruksmyndigheten skal foreligge før tillatelse til tiltak kan gis.",
+    "Matjordplanen må inneholde en flytting fortrinnsvis til ikke-dyrkbart areal, og i forholdet 1:1 for å opprettholde det totale arealet med dyrka jord i kommunen."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens forslag til vedtak pkt 1 og 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over formannskapets tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 21
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 16
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 97/24",
+  "rodt_fremmet_forslag": false
+}

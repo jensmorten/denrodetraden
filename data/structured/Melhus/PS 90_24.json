@@ -1,0 +1,44 @@
+{
+  "tittel": "Lærlinger i Melhus kommune ØHP 2024-2027 PS 104/23",
+  "innstilling": "Rådmannens forslag til vedtak legges til grunn.",
+  "vedtak": [
+    "Kommunestyret tar saken til orientering.",
+    "Saken oversendelse administrasjonsutvalget for videre behandling."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørn Ove Moen (AP) på vegne av AP, SP, KrF og SV",
+      "tekst": "Nytt punkt: 2. Saken oversendelse administrasjonsutvalget for videre behandling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Rådmannens forslag",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Jørn Ove Moen (AP) på vegne av AP, SP, KrF og SV",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Tilleggsforslag",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 90/24",
+  "rodt_fremmet_forslag": false
+}

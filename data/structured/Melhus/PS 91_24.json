@@ -1,0 +1,28 @@
+{
+  "tittel": "Forvaltningsrevisjonsrapport - Informasjonssikkerhet",
+  "innstilling": "Kontrollutvalgets innstilling legges til grunn.",
+  "vedtak": [
+    "Kommunestyret tar forvaltningsrevisjonsrapport om informasjonssikkerhet til orientering.",
+    "Kommunestyret ber rådmannen følge opp anbefalingene i rapporten:\n• Fortsetter arbeidet med omlegging av styringssystemet for informasjonssikkerhet.\n• Vurderer hensiktsmessig plassering av roller og ansvar i sikkerhetsorganisasjonen.",
+    "Kommunestyret ber rådmannen gi kontrollutvalget skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 20.11.2024."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Kontrollutvalgets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 91/24",
+  "rodt_fremmet_forslag": false
+}

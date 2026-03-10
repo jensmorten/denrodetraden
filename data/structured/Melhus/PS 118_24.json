@@ -1,0 +1,33 @@
+{
+  "tittel": "PS 118/24 Bevilling til salg av alkoholholdigdrikk gruppe 1 Coop Nordvest - Coop Prix Hølonda",
+  "innstilling": "Rådmannens forslag til vedtak legges til grunn.",
+  "vedtak": "Vedtaket fra kommunestyret i PS109/24 står slik det ble vedtatt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjetil Blokkum (H) på vegner av Høyre",
+      "tekst": "Vedtaket fra kommunestyret i PS109/24 står slik det ble vedtatt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over nytt forslag til vedtak fra Kjetil Blokkum",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 21
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "12.11.2024",
+  "saksnummer_ps": "PS 118/24",
+  "rodt_fremmet_forslag": false
+}

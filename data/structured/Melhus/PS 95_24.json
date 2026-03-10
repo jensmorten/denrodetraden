@@ -1,0 +1,33 @@
+{
+  "tittel": "Verbalvedtak – Opprettelse av et internasjonalt råd i Melhus",
+  "innstilling": "Utvalg for helse, oppvekst og kulturs vedtak legges til grunn.",
+  "vedtak": "Kommunestyret utsetter behandling av saken til HOK har fått svar fra rådmann på sine spørsmål, og til HOK har fått behandlet saken på nytt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anne J. Løvseth Byfuglien (KrF) på vegner av AP, SP, KrF og SV",
+      "tekst": "Kommunestyret utsetter behandling av saken til HOK har fått svar fra rådmann på sine spørsmål, og til HOK har fått behandlet saken på nytt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelsesforslaget fra Anne J. Løvseth Byfuglien (KrF) på vegner av AP, SP, KrF og SV",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": 22
+        },
+        {
+          "navn": "Mot utsettelse",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 95/24",
+  "rodt_fremmet_forslag": false
+}

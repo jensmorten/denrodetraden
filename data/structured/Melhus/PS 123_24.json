@@ -1,0 +1,29 @@
+{
+  "tittel": "Søknad om fritak fra politiske verv",
+  "innstilling": "Valgnemndas forslag til vedtak legges til grunn.",
+  "vedtak": "Som fast representant for Senterpartiet i kommunestyret inntrer Geir Tore Midttømme, og som ny siste vara inntrer Vegard Sunnset. Fast rep. Teknikk og Miljø: Geir Tore Midttømme. Første vara Formannskap: Stein Restad, siste vara Tor Ingard Verstad. Leder Brukerutvalg for kollektivreisende: Jossi Byfuglien.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Fritz Arne Haugen (SP)",
+      "tekst": "Fast møtende Kommunestyret: Geir Tore Midttømme, siste vara Vegard Sunnset. Fast rep. Teknikk og Miljø: Geir Tore Midttømme. Første vara Formannskap: Stein Restad, siste vara Tor Ingard Verstad. Leder Brukerutvalg for kollektivreisende: Jossi Byfuglien."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Fritz Arne Haugen (SP) på vegner av SP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.12.2024",
+  "saksnummer_ps": "PS 123/24",
+  "rodt_fremmet_forslag": false
+}

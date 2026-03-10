@@ -1,0 +1,61 @@
+{
+  "tittel": "Kommunal vigselsordning i Namsos kommune 2024-2027",
+  "innstilling": {
+    "tekst": "Formannskapets forslag til vedtak:\n1.Ordfører Amund Lein og varaordfører Steinar Lyngstad har vigselsrett i sine roller direkte gitt i Lov om ekteskap. Jostein Grimstad og Roger Grande er gitt vigselsrett av kommunestyret uavhengig av valgperioder i egenskap av ansatt i Namsos kommune.\n2.Kommunestyret gir vigselsrett til følgende folkevalgte:\nHilde Guddingsmo\nChristina Kvernland\nTom Collett Prytz\nFinn Åge Forås\nGro Olden Jørgensen\nVigselsretten gjelder for valgperioden 2023-2027.\n3.Følgende seremonirom tilbys vederlagsfritt:\nFyret på Jøa\nRom i Namdalseid samfunnshus\nCG7, møterom Hemna\n4.Hvis brudepar ønsker vielse på annet sted og med andre tilpasninger enn standard, er det brudeparet som bærer ansvar og kostnader for dette.\n5.Henvendelser om vigsel og avklaring av praktiske forhold gjøres til innbyggertorgene.\n6.Administrativt ansvar for vigselsordningen delegeres til kommunedirektøren.\nHjemmel for vedtaket er:\nEkteskapsloven kap. 3"
+  },
+  "vedtak": {
+    "tekst": "1.Ordfører Amund Lein og varaordfører Steinar Lyngstad har vigselsrett i sine roller direkte gitt i Lov om ekteskap. Jostein Grimstad og Roger Grande er gitt vigselsrett av kommunestyret uavhengig av valgperioder i egenskap av ansatt i Namsos kommune.\n2.Kommunestyret gir vigselsrett til følgende folkevalgte:\nHilde Guddingsmo\nChristina Kvernland\nTom Collett Prytz\nFinn Åge Forås\nGro Olden Jørgensen\nFrode Båtnes\nTrine Fagerhaug\nStein Tore Wolff\nVigselsretten gjelder for valgperioden 2023-2027.\n3.Følgende seremonirom tilbys vederlagsfritt:\nFyret på Jøa\nRom i Namdalseid samfunnshus\nCG7, møterom Hemna\n4.Hvis brudepar ønsker vielse på annet sted og med andre tilpasninger enn standard, er det brudeparet som bærer ansvar og kostnader for dette.\n5.Henvendelser om vigsel og avklaring av praktiske forhold gjøres til innbyggertorgene.\n6.Administrativt ansvar for vigselsordningen delegeres til kommunedirektøren.\nHjemmel for vedtaket er:\nEkteskapsloven kap. 3"
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Svein Storø (Arbeiderpartiet)",
+      "tekst": "Som vigslere fra Arbeiderpartiet foreslås:\n• Frode Båtnes\n• Trine Fagerhaug"
+    },
+    {
+      "forslagsstiller": "Stein Tore Wolff (Fremskrittspartiet)",
+      "tekst": "Stein Tore Wolff foreslåes som vigsler"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over formannskapets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over forslag fra Svein Storø (Arbeiderpartiet) om vigslere fra Arbeiderpartiet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over forslag fra Stein Tore Wolff (Fremskrittspartiet) om at Stein Tore Wolff foreslås som vigsler",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "08.02.2024",
+  "saksnummer_ps": "PS 6/2024",
+  "rodt_fremmet_forslag": false
+}

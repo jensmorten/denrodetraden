@@ -1,0 +1,49 @@
+{
+  "tittel": "Plan for å forebygge digitalt utenforskap",
+  "innstilling": "Rådmannens forslag til vedtak legges til grunn.",
+  "vedtak": "Kommunestyret tar saken til orientering og at tiltaket, som beskrevet i saken, blir lagt inn som et uprioritert tiltak i økonomi- og handlingsplanen 2025-2028.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hege Anette Olstad (FrP) på vegner av FrP",
+      "tekst": "Planen sendes tilbake til rådmannen for konkretisering av følgende punkter:\n• Tydelige løsningsforslag.\n• Tydelige mål. Det vises til at prosjektet skal evaluere midtveis uten at det er konkretisert hva den skal evalueres opp mot.\n• Konkretisering av eksisterende problem.\n• Involvering av eksterne ressurser og frivillige"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelsesforslaget fra FrP",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 18
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 19
+        }
+      ],
+      "hvem_vant": "Mot utsettelsesforslaget",
+      "roedt_stoette": "For utsettelsesforslaget",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om rådmannens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For rådmannens forslag",
+          "stemmer": 19
+        },
+        {
+          "navn": "Mot rådmannens forslag",
+          "stemmer": 18
+        }
+      ],
+      "hvem_vant": "For rådmannens forslag",
+      "roedt_stoette": "For utsettelsesforslaget",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 89/24",
+  "rodt_fremmet_forslag": false
+}

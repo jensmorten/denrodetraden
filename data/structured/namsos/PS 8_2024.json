@@ -1,0 +1,45 @@
+{
+  "tittel": "Retningslinjer for tildeling av aktivitetsmidler til seniorer",
+  "innstilling": "1. Retningslinjer for tildeling av aktivitetsmidler til seniorer vedtas som framlagt.\n2. Økonomisk ramme for årlig tildeling av aktivitetsmidler avgjøres til enhver tid av gjeldende budsjett.",
+  "vedtak": "1. Retningslinjer for tildeling av aktivitetsmidler til seniorer vedtas som framlagt, med følgende endring:\nunder \"Hva prioriteres ikke\":\nPunkt\n• politisk og religiøs aktivitet\nendres til\n• Aktiviteter med vesentlig innslag av politikk eller religion.\n2. Økonomisk ramme for årlig tildeling av aktivitetsmidler avgjøres til enhver tid av gjeldende budsjett.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Høyre, KrF, SP og FrP",
+      "tekst": "Endring under \"Hva prioriteres ikke\":\nPunkt\n• politisk og religiøs aktivitet\nendres til\n• Aktiviteter med vesentlig innslag av politikk eller religion."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over endringsforslag fra Høyre, KrF, SP og FrP om endring i punkt under \"Hva prioriteres ikke\"",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 32
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning over innstilling med endringer fra forslaget fra Høyre, KrF, SP og FrP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "08.02.2024",
+  "saksnummer_ps": "PS 8/2024",
+  "rodt_fremmet_forslag": false
+}

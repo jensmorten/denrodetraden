@@ -1,0 +1,47 @@
+{
+  "tittel": "Verbalvedtak - SFO i Melhus",
+  "innstilling": "Utvalg for helse, oppvekst og kulturs vedtak legges til grunn.",
+  "vedtak": "Kommunestyret utsetter behandlingen av saken til UHOK har fått svar fra rådmannen på sine spørsmål, og behandler saken på nytt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørgen Brun-Pedersen (AP) på vegner av AP, SP, KrF og SV",
+      "tekst": "Kommunestyret utsetter behandlingen av saken til UHOK har fått svar fra rådmannen på sine spørsmål, og behandler saken på nytt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelsesforslaget fra Jørgen Brun-Pedersen (AP) på vegner av AP, SP, KrF og SV",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 20,
+          "partier": [
+            "AP",
+            "SP",
+            "KrF",
+            "SV",
+            "R"
+          ]
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 17,
+          "partier": [
+            "H",
+            "ML",
+            "PP",
+            "FrP",
+            "INP"
+          ]
+        }
+      ],
+      "hvem_vant": "For utsettelsesforslaget",
+      "roedt_stoettet": "For utsettelsesforslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 94/24",
+  "rodt_fremmet_forslag": false
+}

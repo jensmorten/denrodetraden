@@ -1,0 +1,47 @@
+{
+  "tittel": "Saldering budsjett 2024",
+  "innstilling": "Formannskapets forslag til vedtak legges til grunn.",
+  "vedtak": [
+    "Kommunestyret vedtar endring i driftsbudsjettet for 2024, jf. tabell 1, 2 og 3.",
+    "Kommunestyret vedtar saldert investeringsbudsjett for 2024, jf. tabellene 4 og 5 (tabell 5 viser kun endringer).",
+    "Kommunestyret vedtar samlet ny kostnadsramme for investeringsprosjekter som det fremgår av tabell 6.",
+    "Kommunestyret vedtar følgende delegasjon til rådmannen i forbindelse med avslutning av regnskapet for 2024:",
+    "Rådmannen delegeres myndighet til å gjennomføre strykninger etter kapittel 4 i forskrift om økonomiplan, årsbudsjett og årsberetning for kommuner og fylkeskommuner. Ved delvis strykninger delegeres rådmannen myndighet til selv å avgjøre rekkefølgen innenfor bestemmelsene i kapittel 4 i forskriften."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Merethe Moum (ML) på vegner av ML, H, PP og FrP",
+      "tekst": "1: Melhus kommunestyret ber om en sak til formannskapsmøte i januar 2025 hvor rådmannen orienterer om følgende punkter vedrørende økonomisk styring og kontroll:\n• Overvåkningsrutiner\n• Rapporteringsrutiner\n• Kvalitetssikring\n• Varslingsrutiner\n• Kommunikasjonsplan\n• Beredskapsplan\n• Tiltaksplan\n2: Kommunestyret ber om en ekstern vurdering, primært fra Revisjon Midtnorge, av hvorvidt kommunens eksisterende rutiner og styringssystemer er tilstrekkelig for å sikre god økonomisk styring og kontroll i Melhus kommune."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Merethe Moum i 2 punkt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "10.12.2024",
+  "saksnummer_ps": "PS 136/24",
+  "rodt_fremmet_forslag": false
+}
