@@ -1,0 +1,41 @@
+{
+  "tittel": "Lokaler til hjemmetjenesten",
+  "innstilling": "Saken returneres og inntas i økonomiplan 2025. Ved ny behandling forventes det at intern husleiekostnad er inkludert i alternativet med en ombygging i CG7 og at dette er vurdert opp mot alternativer med ekstern leie av tilpassede lokaler, frem til et nytt helsebygg står klart.",
+  "vedtak": "Saken returneres og legges frem til behandling i kommunestyret i oktober. Ved ny behandling forventes det at intern husleiekostnad er inkludert i alternativet med en ombygging i CG7 og at dette er vurdert opp mot alternativer med ekstern leie av tilpassede lokaler, frem til et nytt helsebygg står klart.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Nils Sigurd Klykken (Høyre) på vegne av H, FrP, SP, KrF, AP, Inp, V og SV",
+      "tekst": "Første setning i innstilling fra formannskap, endres fra «Saken returneres og inntas i økonomiplan 2025» til «Saken returneres og legges frem til behandling i kommunestyret i oktober»."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over endringsforslag fra Nils Sigurd Klykken (Høyre) på vegne av H, FrP, SP, KrF, AP, Inp, V og SV",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over innstilling fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 68/2024",
+  "rodt_fremmet_forslag": false
+}

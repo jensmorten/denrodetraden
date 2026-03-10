@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av valgstyre for perioden 2024-2027",
+  "innstilling": "Til valgstyre velges Formannskapet + gruppelederne fra de andre politiske partiene som ikke sitter i Formannskapet.",
+  "vedtak": "Til valgstyre velges Formannskapet + gruppelederne fra de andre politiske partiene som ikke sitter i Formannskapet.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling til valgstyre",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 73/2024",
+  "rodt_fremmet_forslag": false
+}

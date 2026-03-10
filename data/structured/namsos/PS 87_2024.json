@@ -1,0 +1,53 @@
+{
+  "tittel": "17. mai 2025 - oppnevnelse av hovedkomité",
+  "innstilling": "Følgende representanter oppnevnes til hovedkomitéen for 17. mai 2025 (og 2026) i Namsos:\n1.………………………….. som politisk representant (kommunestyremedlem/varamedlem) for 2025.\n2 Henrik Aleksander Devik som politisk representant (kommunestyremedlem/varamedlem) for 2025 og 2026.\n3.………………………….. som politisk representant (kommunestyremedlem/varamedlem) for 2025 og 2026.\n4 Mari Kristine Brattgjerd som varamedlem (kommunestyremedlem/varamedlem) for 2025.\n5.……………………….. som medlem (innbyggerrepresentant) for 2025.\n6.……………………….. som medlem (innbyggerrepresentant) for 2025.\n7.……………………….. som medlem (innbyggerrepresentant) for 2025 og 2026.\n8.……………………….. som medlem (innbyggerrepresentant) for 2025 og 2026.\n9.……………………….. som varamedlem (innbyggerrepresentant) for 2024-2025.",
+  "vedtak": "Følgende representanter oppnevnes til hovedkomitéen for 17. mai 2025 (og 2026) i Namsos:\n1.………………………….. som politisk representant (kommunestyremedlem/varamedlem) for 2025.\n2 Henrik Aleksander Devik som politisk representant (kommunestyremedlem/varamedlem) for 2025 og 2026.\n3.Trine Oksdøl som politisk representant (kommunestyremedlem/varamedlem) for 2025 og 2026.\n4 Mari Kristine Brattgjerd som varamedlem (kommunestyremedlem/varamedlem) for 2025.\n5.……………………….. som medlem (innbyggerrepresentant) for 2025.\n6.……………………….. som medlem (innbyggerrepresentant) for 2025.\n7.……………………….. som medlem (innbyggerrepresentant) for 2025 og 2026.\n8.……………………….. som medlem (innbyggerrepresentant) for 2025 og 2026.\n9.……………………….. som varamedlem (innbyggerrepresentant) for 2024-2025.\nSaken bes lagt frem i neste møte",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Hege Bjørgum Skillingstad (Høyre)",
+      "tekst": "Saken bes lagt frem i neste møte"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Frode Båtnes (Arbeiderpartiet) fremmet forslag om at Trine Oksdøl oppnevnes som politisk representant.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over utvalgets innstilling til oppnevning av representanter til hovedkomitéen for 17. mai 2025 (og 2026).",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Hege Bjørgum Skillingstad (Høyre) fremmet tilleggsforslag om at saken bes lagt frem i neste møte.",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For tilleggsforslaget",
+      "roedt_stoettet": "For tilleggsforslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "14.11.2024",
+  "saksnummer_ps": "PS 87/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Namsos kommunes tilslutning til autorisasjon av Nasjonalt Villakssenter Namsos",
+  "innstilling": "Namsos kommune gir sin anbefaling til autorisasjon for Nasjonal villakssenter i Namsos som besøkssenter.",
+  "vedtak": "Namsos kommune gir sin anbefaling til autorisasjon for Nasjonal villakssenter i Namsos som besøkssenter.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling om tilslutning til autorisasjon for Nasjonalt Villakssenter Namsos",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 71/2024",
+  "rodt_fremmet_forslag": false
+}

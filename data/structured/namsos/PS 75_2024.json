@@ -1,0 +1,28 @@
+{
+  "tittel": "Ny løsning for pasientadministrasjon, pasientjournal og samhandling mellom kommune- og spesialisthelsetjenesten",
+  "innstilling": "Kommunestyret vedtar at Namsos kommune ikke utløser opsjon for innføring av Helseplattformen som elektronisk pasientjournal og trer ut av oppsatt plass i innføringsløpet. Kommunedirektøren gis fullmakt til å signere tiltredelseserklæring for deltakelse i prosess for anskaffelse av elektronisk pasientjournal sammen med Stjørdal kommune og øvrige samarbeidende kommuner. Kommunedirektøren bes legge fram ny sak etter anskaffelsesprosessen for beslutning om eventuell utløsing av opsjon.",
+  "vedtak": {
+    "1": "Namsos kommune utløser ikke opsjon for innføring av Helseplattformen som elektronisk pasientjournal og trer ut av oppsatt plass i innføringsløpet. Namsos kommune sier ikke opp sin opsjon i Helseplattformen.",
+    "2": "Kommunestyret gir kommunedirektøren fullmakt til å signere tiltredelseserklæring for deltakelse i prosess for anskaffelse av elektronisk pasientjournal sammen med Stjørdal kommune og øvrige samarbeidende kommuner. Gjennom tiltredelseserklæringen får Namsos kommune en opsjon på å ta i bruk ny elektronisk pasientjournal etter gjennomført anskaffelse.",
+    "3": "Kommunestyret ber kommunedirektøren legge fram ny sak etter at anskaffelsesprosessen sammen med Stjørdal og andre kommuner er gjennomført. Saken skal da gi beslutningsgrunnlag for vedtak om eventuelt å utløse denne opsjonen på ny elektronisk pasientjournal."
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstillingen om ikke å utløse opsjon for innføring av Helseplattformen og fullmakt til kommunedirektør for videre prosess.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "24.10.2024",
+  "saksnummer_ps": "PS 75/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,59 @@
+{
+  "tittel": "2. gangs behandling - Detaljregulering Solvang Park",
+  "innstilling": {
+    "tekst": "Vedtak i utvalg plan som innstilling til kommunestyret:\n1. Kommunestyre vedtar reguleringsplan «Solvang Park» datert 09.01.2024, sist revidert 23.05.2024, iht. plan- og bygningsloven § 12-12.\n2. Namsos kommunestyre vedtar utbyggingsavtale mellom Kjærlighetstien Bolig AS og Namsos kommune.\n3. Område regulert som offentlig nærmiljøanlegg skal tilrettelegges med infrastruktur og apparater tilpasset ungdom og voksne, som for eksempel buldrevegg og treningsapparater."
+  },
+  "vedtak": "Innstillingen ble vedtatt med 35 stemmer for.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Bjørnar Schei (Senterpartiet)",
+      "tekst": "Pkt.3 trekkes i forslag fra Plan."
+    },
+    {
+      "forslagsstiller": "Nils Sigurd Klykken (Høyre)",
+      "tekst": "På vegne av H, SP, FrP, KrF, R, V, INP, AP og SV: Område regulert som offentlig nærmiljøanlegg skal tilrettelegges med infrastruktur og apparater tilpasset ungdom og voksne, som for eksempel buldrevegg og treningsapparater."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over Bjørnar Schei (SP) sitt forslag om å trekke pkt. 3 i forslag fra Plan.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning over tilleggsforslag fra Nils Sigurd Klykken (H) på vegne av flere partier om tilrettelegging av offentlig nærmiljøanlegg med infrastruktur og apparater.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning over innstilling fra utvalg plan til kommunestyret.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 70/2024",
+  "rodt_fremmet_forslag": false
+}

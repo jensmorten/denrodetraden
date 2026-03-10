@@ -1,0 +1,73 @@
+{
+  "tittel": "2.gangs behandling - Detaljregulering for Klingavegen 2",
+  "innstilling": {
+    "tekst": "Utvalg for plans forslag til vedtak, med tilleggsforslaget fra Nils Sigurd Klykken (Høyre)\n1. Namsos kommunestyre vedtar forslag til reguleringsplan for «Klingavegen 2» datert 03.11.2023 sist revidert 24.04.2024, med bestemmelser av lik dato i medhold av plan- og bygningsloven §§ 12-10 og 12-12.\n2. Namsos kommunestyre vedtar forslag til endring i reguleringsbestemmelse «11 Rekkefølgebestemmelser»:\n• Før ferdigattest for tiltak innenfor o_BSU gis, skal offentlig park (o_GAA) være etablert i henhold til godkjent teknisk plan for området, eventuelt påfølgende vekstsesong.\n• Før ferdigattest for tiltak innenfor o_BSU gis, skal formålene samferdselsanlegg og teknisk infrastruktur med unntak av o_SKA være ferdig opparbeidet.\n• Før ferdigattest for tiltak innenfor o_BSU gisk, skal parkeringshus være ferdigstilt iht. felt SPH1 i områdeplanen for Namsos sentrum (planID: 1703267).\n3. Namsos kommunestyre vedtar utbyggingsavtale mellom Klingavegen 2 AS og Namsos kommune.\nOpparbeidelse og kostnadsbærer for opparbeiding av o_GAA (Offentlig Parkareal) tas inn i utbyggingsavtaler.\nHjemmel for vedtaket er:\nPlan- og bygningslovens §§ 12-3, 12-12 og 17-4.\nVedtaket er fattet med hjemmel i delegasjonsreglement for Namsos kommune – Vedtatt av kommestyret 17.11.2022."
+  },
+  "vedtak": {
+    "tekst": "1. Namsos kommunestyre vedtar forslag til reguleringsplan for «Klingavegen 2» datert 03.11.2023 sist revidert 24.04.2024, med bestemmelser av lik dato i medhold av plan- og bygningsloven §§ 12-10 og 12-12.\n2. Namsos kommunestyre vedtar forslag til endring i reguleringsbestemmelse «11 Rekkefølgebestemmelser»:\n• Før ferdigattest for tiltak innenfor o_BSU gis, skal offentlig park (o_GAA) være etablert i henhold til godkjent teknisk plan for området, eventuelt påfølgende vekstsesong.\n• Før ferdigattest for tiltak innenfor o_BSU gis, skal formålene samferdselsanlegg og teknisk infrastruktur med unntak av o_SKA være ferdig opparbeidet.\n• Før ferdigattest for tiltak innenfor o_BSU gisk, skal parkeringshus være ferdigstilt iht. felt SPH1 i områdeplanen for Namsos sentrum (planID: 1703267).\n3. Namsos kommunestyre vedtar utbyggingsavtale mellom Klingavegen 2 AS og Namsos kommune.\nOpparbeidelse og kostnadsbærer for opparbeiding av o_GAA (Offentlig Parkareal) tas inn i utbyggingsavtaler.\nHjemmel for vedtaket er:\nPlan- og bygningslovens §§ 12-3, 12-12 og 17-4.\nVedtaket er fattet med hjemmel i delegasjonsreglement for Namsos kommune – Vedtatt av kommestyret 17.11.2022."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Margreet Sloot (Sosialistisk Venstreparti)",
+      "tekst": "Endelig godkjenning av detaljreguleringen for Nexanstomta legges i bero, og ingen utbyggingsavtale inngås nå."
+    },
+    {
+      "forslagsstiller": "Nils Sigurd Klykken (Høyre) på vegne av Høyre, FrP, SP, KrF og SV",
+      "tekst": "Opparbeidelse og kostnadsbærer for opparbeiding av o_GAA (Offentlig Parkareal) tas inn i utbyggingsavtaler."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning mellom innstillingens forslag 1 og alternativt forslag fra Margreet Sloot (SV)",
+      "alternativer": [
+        {
+          "navn": "Forslag 1 (Innstilling)",
+          "stemmer": 31
+        },
+        {
+          "navn": "Forslag 2 (Margreet Sloot - SV)",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "Forslag 1 (Innstilling)",
+      "roedt_stoette": "Forslag 1 (Innstilling)",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning om tilleggsforslag fra Nils Sigurd Klykken (Høyre) på vegne av Høyre, FrP, SP, KrF og SV",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 32
+        },
+        {
+          "navn": "Imot tilleggsforslaget",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For tilleggsforslaget",
+      "roedt_stoette": "Imot tilleggsforslaget",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Avstemning om innstilling med tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For innstillingen med tilleggsforslag",
+          "stemmer": 32
+        },
+        {
+          "navn": "Imot innstillingen med tilleggsforslag",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For innstillingen med tilleggsforslag",
+      "roedt_stoette": "For innstillingen med tilleggsforslag",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "14.11.2024",
+  "saksnummer_ps": "PS 82/2024",
+  "rodt_fremmet_forslag": false
+}

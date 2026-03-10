@@ -1,0 +1,41 @@
+{
+  "tittel": "Veteranplan Namsos kommune - 2024-2027",
+  "innstilling": "Kommunestyret vedtar Veteranplan for Namsos kommune – 2024-2027",
+  "vedtak": "Kommunestyret vedtar Veteranplan for Namsos kommune – 2024-2027\nEnding i planens kap 5: Begrepet \"psykiatritjenestens\" endres til \"psykisk helsetjeneste\"",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Frode Båtnes (Arbeiderpartiet)",
+      "tekst": "I planens kap 5 beskrives «psykiatritjenestens» rolle. Namsos kommune har ikke en psykiatritjeneste, men en «psykisk helsetjeneste». Jeg foreslår å endre begrepet til «psykisk helsetjeneste»"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over endringsforslag om å endre begrepet «psykiatritjenestens» til «psykisk helsetjeneste» i planens kap 5",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning over innstilling om vedtak av Veteranplan for Namsos kommune – 2024-2027",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 72/2024",
+  "rodt_fremmet_forslag": false
+}

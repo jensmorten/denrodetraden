@@ -1,0 +1,69 @@
+{
+  "tittel": "Bangsund flerbrukshall",
+  "innstilling": [
+    "1. Kommunestyret ser at det er gjennomført en god medvirkningsprosess med løsninger som ivaretar forventninger i kommunestyrets sak 81/22.",
+    "2. Bygging av ny flerbrukshall på Bangsund stilles i bero inntil det er oppnådd en bærekraftig driftsøkonomi som gir rom for slik ny investering.",
+    "3. Kommunestyret tar innover seg ansvaret for å sørge for at Bangsund skole har nødvendig infrastruktur, og ber om at det samtidig sees på hvilke strakstiltak som kan gjennomføres på eksisterende gymsal, for å opprettholde tilfredsstillende funksjonelt driftsnivå."
+  ],
+  "vedtak": [
+    "1. Kommunestyret ser at det er gjennomført en god medvirkningsprosess med løsninger som ivaretar forventninger i kommunestyrets sak 81/22.",
+    "2. Bygging av ny flerbrukshall på Bangsund stilles i bero inntil det er oppnådd en bærekraftig driftsøkonomi som gir rom for slik ny investering.",
+    "3. Kommunestyret tar innover seg ansvaret for å sørge for at Bangsund skole har nødvendig infrastruktur, og ber om at det samtidig sees på hvilke strakstiltak som kan gjennomføres på eksisterende gymsal, for å opprettholde tilfredsstillende funksjonelt driftsnivå."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Geir Olav Knappe (Venstre)",
+      "tekst": "Kommunestyret ber om at det legges frem et forslag innen ultimo april med formål om å bygge en flerbrukshall i håndball størrelse uten klatrehall i Bangsund. Forslaget skal inneholde forsvarlige nedskaleringer."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Habilitetsvurdering av Jonas Nermark Johnsen (H)",
+      "alternativer": [
+        {
+          "navn": "Ikke inhabil",
+          "stemmer": "flertall"
+        }
+      ],
+      "hvem_vant": "Ikke inhabil",
+      "roedt_stoettet": "Ikke inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av innstilling i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For innstilling",
+          "stemmer": 34
+        },
+        {
+          "navn": "Imot innstilling",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For innstilling",
+      "roedt_stoettet": "For innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering mellom innstillingens punkt 2 og 3 mot Venstres endringsforslag",
+      "alternativer": [
+        {
+          "navn": "Innstillingens forslag (punkt 2 og 3)",
+          "stemmer": 26
+        },
+        {
+          "navn": "Venstres endringsforslag",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "Innstillingens forslag (punkt 2 og 3)",
+      "roedt_stoettet": "Venstres endringsforslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 66/2024",
+  "rodt_fremmet_forslag": false
+}
