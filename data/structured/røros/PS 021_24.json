@@ -1,0 +1,24 @@
+{
+  "tittel": "Kontrollutvalgets årsrapport 2023",
+  "innstilling": "Kommunestyret tar kontrollutvalgets årsrapport 2023 til orientering.",
+  "vedtak": "Kommunestyret tar kontrollutvalgets årsrapport 2023 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kontrollutvalgets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 021/24",
+  "rodt_fremmet_forslag": false
+}

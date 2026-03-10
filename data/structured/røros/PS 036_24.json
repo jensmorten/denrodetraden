@@ -1,0 +1,33 @@
+{
+  "tittel": "Ren Røros AS: Innstilling av 1 medlem til valgkomiteen",
+  "innstilling": "Som medlem til valgkomiteen i Ren Røros AS innstilles:\n1. Medlem Ingulf Galåen (3 års tjenestetid, på valg 2026)",
+  "vedtak": "Som medlem til valgkomiteen i Ren Røros AS innstilles:\n1. Medlem Ingulf Galåen (3 års tjenestetid, på valg 2026)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjell Magnus Krog (H)",
+      "tekst": "Som medlem til valgkomiteen i Ren Røros AS innstilles:\nMedlem Mona Waldahl Slettum (3 års tjenestetid, på valg 2026)"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valgutvalgets forslag ble satt opp mot Krogs forslag.",
+      "alternativer": [
+        {
+          "navn": "Ingulf Galåen",
+          "stemmer": 18
+        },
+        {
+          "navn": "Mona Waldahl Slettum",
+          "stemmer": 8
+        }
+      ],
+      "hvem_vant": "Ingulf Galåen",
+      "roedt_stoette": "Ingulf Galåen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 036/24",
+  "rodt_fremmet_forslag": false
+}

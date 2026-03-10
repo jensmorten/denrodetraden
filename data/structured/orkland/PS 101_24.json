@@ -1,0 +1,97 @@
+{
+  "tittel": "Forskrift om permisjon fra opplæringa i de kommunale grunnskolene i Orkland kommune",
+  "innstilling": "Kommunestyret vedtar vedlagte forskrift om permisjon i de kommunale grunnskolene i Orkland kommune.",
+  "vedtak": "Kommunestyret vedtar vedlagte forskrift om permisjon i de kommunale grunnskolene i Orkland kommune.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Orkland Senterparti (Ranghild Hynne)",
+      "tekst": "Saken utsettes til høring er gjennomført. Forskriften med endringer og presiseringer sendes ut på høring til de som blir berørt av endringene. Saken må også opp i skolenes samarbeidsutvalg."
+    },
+    {
+      "forslagsstiller": "Orkland Senterparti (Ranghild Hynne)",
+      "tekst": "I ny paragraf §7 Tilfeller som kan anses som forsvarlige å innvilge permisjon foreslås det å fjerne hele kulepunkt 3 (ved idrettslige konkurranser eller kulturelle arrangementer på nasjonalt eller internasjonalt nivå) og erstatte det med nytt kulepunkt: • Organisert aktivitet for barn og unge"
+    },
+    {
+      "forslagsstiller": "SP ved Stig Kalstad",
+      "tekst": "I ny paragraf §7 Tilfeller som kan anses som forsvarlige å innvilge permisjon foreslås det å fjerne hele kulepunkt 3 (ved idrettslige konkurranser eller kulturelle arrangementer på nasjonalt eller internasjonalt nivå) og erstatte det med nytt kulepunkt: • Organisert aktivitet for barn og unge"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 12.11.2024: Utsettelsesforslag fra Ranghild Hynne på vegne av Orkland Senterparti",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 3
+        },
+        {
+          "navn": "Mot utsettelsesforslaget",
+          "stemmer": 8
+        }
+      ],
+      "hvem_vant": "Mot utsettelsesforslaget",
+      "roedt_stoette": "Mot utsettelsesforslaget",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 12.11.2024: Kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoette": "For innstillingen",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 12.11.2024: Endringsforslag fra Ranghild Hynne på vegne av Orkland Senterparti",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": 4
+        },
+        {
+          "navn": "Mot endringsforslaget",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "Mot endringsforslaget",
+      "roedt_stoette": "For endringsforslaget",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyret 19.11.2024: Kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 28
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoette": "For innstillingen",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyret 19.11.2024: Endringsforslag fra SP ved Stig Kalstad",
+      "alternativer": [
+        {
+          "navn": "For endringsforslaget",
+          "stemmer": 15
+        },
+        {
+          "navn": "Mot endringsforslaget",
+          "stemmer": 28
+        }
+      ],
+      "hvem_vant": "Mot endringsforslaget",
+      "roedt_stoette": "For endringsforslaget",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "19.11.2024",
+  "saksnummer_ps": "PS 101/24",
+  "rodt_fremmet_forslag": true
+}

@@ -1,0 +1,49 @@
+{
+  "tittel": "Revidering av lokal forskrift skolekretsgrenser",
+  "innstilling": "Kommunestyret vedtar de foreslåtte kommunale skolekretsgrensene i Orkland kommune. Ny forskrift gjelder fra vedtaksdato.",
+  "vedtak": "Kommunestyret vedtar de foreslåtte kommunale skolekretsgrensene i Orkland kommune. Ny forskrift gjelder fra vedtaksdato.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Senterpartiet",
+      "tekst": "Vuttudal i Gjølme skolekrets gis valgfrihet på lik linje med grenseområdene i Lysheim, Lensvik, Evjen og Årlivoll skolekretser. Området vest for Våvatnet og Hardmoen skraveres slik at barn i Vuttudal får frihet i valg av både barneskole og ungdomsskole ettersom det er kortere avstand fra Vuttudalen til Aa skole enn det er fra Vuttudalen til Gjølme skole og Orkanger ungdomsskole."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 24.09.2024 på kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstilling",
+          "stemmer": 6
+        },
+        {
+          "navn": "Mot innstilling",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "For innstilling",
+      "roedt_stoettet": "Mot innstilling",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyret 15.10.2024 på Hovedutvalg helse, oppvekst og kulturs innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstilling",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot innstilling (SP forslag)",
+          "stemmer": 19
+        }
+      ],
+      "hvem_vant": "For innstilling",
+      "roedt_stoettet": "Mot innstilling (SP forslag)",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "15.10.2024",
+  "saksnummer_ps": "PS 88/24",
+  "rodt_fremmet_forslag": false
+}

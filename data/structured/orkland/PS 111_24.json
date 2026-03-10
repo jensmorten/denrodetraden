@@ -1,0 +1,41 @@
+{
+  "tittel": "111/24 Søknad om fritak fra politiske verv",
+  "innstilling": "Gina Maria Baumeyer innvilges fritak fra sine politiske verv ut valgperioden.\n• Som fast medlem i Orkland kommunestyre for perioden velges Eivind Aamot.\nØvrige varamedlemmer rykker opp på listen.\n• Som nytt medlem i hovedutvalg forvaltning velges – ingen innstilling.",
+  "vedtak": "• Gina Maria Baumeyer innvilges fritak fra sine politiske verv ut valgperioden.\n• Som fast medlem i Orkland kommunestyre for perioden velges Eivind Aamot.\nØvrige varamedlemmer rykker opp på listen.\n• Som nytt medlem i hovedutvalg forvaltning velges Borger Strand– ingen innstilling.\n• Helge Ringli velges som 1. vara i hovedutvalg forvaltning",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Frp",
+      "tekst": "Borger Strand velges som fast medlem i hovedutvalg forvalting\nHelge Ringli velges som 1. vara i hovedutvalg forvaltning"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Frp",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Frp",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.12.2024",
+  "saksnummer_ps": "PS 111/24",
+  "rodt_fremmet_forslag": false
+}

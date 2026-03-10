@@ -1,0 +1,29 @@
+{
+  "tittel": "Opprettelse av felles forliksråd i Røros og Holtålen, og oppnevnelse av medlemmer",
+  "innstilling": "Kommunestyret slutter seg til at det opprettes et felles forliksråd for kommunene Holtålen og Røros. Som medlemmer fra Røros velges ……. Som varamedlem fra Røros velges……… Det nye forliksrådet trer i kraft 01. januar 2025. Rådet gis fullmakt til å konstituere seg selv.",
+  "vedtak": "Kommunestyret slutter seg til at det opprettes et felles forliksråd for kommunene Holtålen og Røros. Som medlemmer fra Røros velges Hilde Knutsen og Rune Mortensen. Som varamedlem fra Røros velges Vegard Dahl. Det nye forliksrådet trer i kraft 01. januar 2025. Rådet gis fullmakt til å konstituere seg selv.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Røros Arbeiderparti",
+      "tekst": "Vegard Dahl som varamedlem."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av varamedlem til felles forliksråd",
+      "alternativer": [
+        {
+          "navn": "Vegard Dahl",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Vegard Dahl",
+      "roedt_stoettet": "Vegard Dahl",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 094/24",
+  "rodt_fremmet_forslag": false
+}

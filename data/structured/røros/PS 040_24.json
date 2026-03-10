@@ -1,0 +1,24 @@
+{
+  "tittel": "Verket Røros AS: Innstilling av 1 medlem til valgkomite og leder for valgkomite",
+  "innstilling": "Som medlem til valgkomiteen i Verket Røros AS innstilles: «Medlem 1 Isak V. Busch» (3 års tjenestetid, på valg 2027). Som leder for valgkomiteen i Verket Røros AS innstilles: «Leder for valgkomiteen Isak V. Busch» (1 års tjenestetid som leder).",
+  "vedtak": "Som medlem til valgkomiteen i Verket Røros AS innstilles: «Medlem 1 Isak V. Busch» (3 års tjenestetid, på valg 2027). Som leder for valgkomiteen i Verket Røros AS innstilles: «Leder for valgkomiteen Isak V. Busch» (1 års tjenestetid som leder).",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Valgutvalgets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 040/24",
+  "rodt_fremmet_forslag": false
+}

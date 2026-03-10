@@ -1,0 +1,36 @@
+{
+  "tittel": "Anmodning om økning i låneramme startlån",
+  "innstilling": "Kommunestyret vedtar en økning i lånerammen for startlån på 20 millioner kroner i 2024, til totalt 90 millioner kroner.\nFølgende budsjettjusteringer vedtas:\n05220.103010.2830.50008 Utlån startlån økes med kr. 20 000 000\n09120.103010.2830.50008 Bruk av lån videreutlån økes med kr. 20 000 000",
+  "vedtak": "Kommunestyret vedtar en økning i lånerammen for startlån på 20 millioner kroner i 2024, til totalt 90 millioner kroner.\nFølgende budsjettjusteringer vedtas:\n05220.103010.2830.50008 Utlån startlån økes med kr. 20 000 000\n09120.103010.2830.50008 Bruk av lån videreutlån økes med kr. 20 000 000",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 29.10.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 19.11.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "19.11.2024",
+  "saksnummer_ps": "PS 95/24",
+  "rodt_fremmet_forslag": false
+}

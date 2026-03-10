@@ -1,0 +1,30 @@
+{
+  "tittel": "Plan for eierskapskontroll 2024 - 2028",
+  "innstilling": [
+    "Kommunestyret vedtar plan for eierskapskontroll 2024-2028 og slutter seg til kontrollutvalgets prioriteringer i planen.",
+    "Kontrollutvalget gis fullmakt til å gjøre endringer i planen."
+  ],
+  "vedtak": [
+    "Kommunestyret vedtar plan for eierskapskontroll 2024-2028 og slutter seg til kontrollutvalgets prioriteringer i planen.",
+    "Kontrollutvalget gis fullmakt til å gjøre endringer i planen."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Kontrollutvalgets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 053/24",
+  "rodt_fremmet_forslag": false
+}

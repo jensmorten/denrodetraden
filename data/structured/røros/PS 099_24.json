@@ -1,0 +1,28 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og sakliste godkjennes.",
+  "vedtak": "Innkalling og sakliste godkjennes.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av innkalling og saksliste",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": null
+        },
+        {
+          "navn": "Mot",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 099/24",
+  "rodt_fremmet_forslag": false
+}

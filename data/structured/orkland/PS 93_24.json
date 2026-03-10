@@ -1,0 +1,51 @@
+{
+  "tittel": "Søknad om fritak fra politiske verv i en periode på et år",
+  "innstilling": [
+    "Janicke Andresen, Pensjonistpartiet innvilges fritak fra sine politiske verv for perioden 15.10.2024 – 15.10.2025.",
+    "Som fast medlem i Orkland kommunestyre for perioden 15.10.2024 – 15.10.2025 velges Anne Sørmo. Øvrige varamedlemmer rykker opp på listen.",
+    "Som 2. vara i formannskapet velges – ingen innstilling.",
+    "Som nytt medlem i hovedutvalg helse, oppvekst og kultur velges – ingen innstilling."
+  ],
+  "vedtak": [
+    "Janicke Andresen, Pensjonistpartiet innvilges fritak fra sine politiske verv for perioden 15.10.2024 – 15.10.2025.",
+    "Som fast medlem i Orkland kommunestyre for perioden 15.10.2024 – 15.10.2025 velges Anne Sørmo. Øvrige varamedlemmer rykker opp på listen.",
+    "Som 2. vara i formannskapet velges Turid Mjønesaune.",
+    "Som nytt medlem i hovedutvalg helse, oppvekst og kultur velges Torstein Larsen."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Pensjonistpartiet",
+      "tekst": "Ny 2. vara til formannskapet: Turid Mjønesaune. Nytt medlem i HOK: Torstein Larsen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Pensjonistpartiet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Pensjonistpartiet",
+      "roedt_stoettet": "Forslag fra Pensjonistpartiet",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "15.10.2024",
+  "saksnummer_ps": "PS 93/24",
+  "rodt_fremmet_forslag": false
+}

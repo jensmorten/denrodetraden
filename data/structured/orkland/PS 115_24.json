@@ -1,0 +1,48 @@
+{
+  "tittel": "Fra heldøgns omsorgsbolig til institusjonsplass",
+  "innstilling": "Kommunestyre ber kommunedirektøren igangsette endring fra HDO til institusjon ved kommunens sykehjem.",
+  "vedtak": "Kommunestyre ber kommunedirektøren igangsette endring fra HDO til institusjon ved kommunens sykehjem.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Eldrerådets behandling 21.11.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Hovedutvalg helse, oppvekst og kultur behandling 03.12.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunestyrets behandling 17.12.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.12.2024",
+  "saksnummer_ps": "PS 115/24",
+  "rodt_fremmet_forslag": false
+}

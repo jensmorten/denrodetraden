@@ -1,0 +1,29 @@
+{
+  "tittel": "Valg av ekstra varamedlem til representantskapet Konsek Trøndelag IKS",
+  "innstilling": "Ingen innstilling",
+  "vedtak": "Bjarne Lund velges som ny vara i representantskapet Konsek Trøndelag",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Senterpartiet",
+      "tekst": "Senterpartiet foreslår Bjarne Lund som vara i representantskapet Konsek Trøndelag"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Senterpartiet om valg av Bjarne Lund som vara i representantskapet Konsek Trøndelag",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Senterpartiet",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Senterpartiet",
+      "roedt_stoettet": "Forslag fra Senterpartiet",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.12.2024",
+  "saksnummer_ps": "PS 119/24",
+  "rodt_fremmet_forslag": false
+}

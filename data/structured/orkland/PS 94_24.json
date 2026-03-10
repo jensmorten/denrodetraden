@@ -1,0 +1,51 @@
+{
+  "tittel": "Søknad om fritak fra politiske verv",
+  "innstilling": [
+    "Vibecke Solberg Ree, SP gis fritak fra sine politiske verv i Orkland kommune fra 15.10.2024 og ut valgperioden.",
+    "Varamedlemmer til kommunestyret rykker opp på SP’s varamannsliste fra 15.10.2024 og ut valgperioden.",
+    "Som nytt varamedlem til hovedutvalg teknikk fra 15.10.2024 og ut valgperioden velges - ingen innstilling.",
+    "Som nytt varamedlem til hovedutvalg helse, oppvekst og kultur fra 15.10.2024 og ut valgperioden velges - ingen innstilling."
+  ],
+  "vedtak": [
+    "Vibecke Solberg Ree, SP gis fritak fra sine politiske verv i Orkland kommune fra 15.10.2024 og ut valgperioden.",
+    "Varamedlemmer til kommunestyret rykker opp på SP’s varamannsliste fra 15.10.2024 og ut valgperioden.",
+    "Som nytt varamedlem til hovedutvalg teknikk fra 15.10.2024 og ut valgperioden velges Stine Storengen.",
+    "Som nytt varamedlem til hovedutvalg helse, oppvekst og kultur fra 15.10.2024 og ut valgperioden velges Lasse Hilstad Sørmo."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stine Stoengen på vegne av Senterpartiet",
+      "tekst": "Som nytt varamedlem til hovedutvalg teknikk fra 15.10.2024 og ut valgperioden velges Stine Storengen. Som nytt varamedlem til hovedutvalg helse, oppvekst og kultur fra 15.10.2024 og ut valgperioden velges Lasse Hilstad Sørmo."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Senterpartiet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Senterpartiet",
+      "roedt_stoettet": false,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "15.10.2024",
+  "saksnummer_ps": "PS 94/24",
+  "rodt_fremmet_forslag": false
+}

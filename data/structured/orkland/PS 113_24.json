@@ -1,0 +1,36 @@
+{
+  "tittel": "Deltakelse i Forsvarsforum Trøndelag",
+  "innstilling": "Orkland kommune blir formelt medlem av Forsvarsforum Trøndelag (FFT), med de rettigheter og plikter som er nedfelt i vedlagte vedtekter. Den årlige avgiften på kr 50 000,- dekkes innenfor kommunedirektørens budsjett under beredskap, ansvar 111080, tjeneste 3390.",
+  "vedtak": "Orkland kommune blir formelt medlem av Forsvarsforum Trøndelag (FFT), med de rettigheter og plikter som er nedfelt i vedlagte vedtekter. Den årlige avgiften på kr 50 000,- dekkes innenfor kommunedirektørens budsjett under beredskap, ansvar 111080, tjeneste 3390.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 10.12.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 17.12.2024",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.12.2024",
+  "saksnummer_ps": "PS 113/24",
+  "rodt_fremmet_forslag": false
+}

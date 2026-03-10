@@ -1,0 +1,32 @@
+{
+  "tittel": "120/24 Oppløsning av Trondheimsregionen",
+  "innstilling": [
+    "Kommunestyret delegerer ordføreren fullmakt til å stemme for oppløsning av interkommunalt politisk råd for Trondheimsregionen.",
+    "De økonomiske forpliktelsene for den enkelte kommune i 2025 må avklares",
+    "Kommunestyret ber ordføreren innlede samtaler med kommunene i samarbeidet om en ny organisering av regionrådssamarbeidet, med fokus på et tydeligere formål og reduserte kostnader."
+  ],
+  "vedtak": [
+    "Kommunestyret delegerer ordføreren fullmakt til å stemme for oppløsning av interkommunalt politisk råd for Trondheimsregionen.",
+    "De økonomiske forpliktelsene for den enkelte kommune i 2025 må avklares",
+    "Kommunestyret ber ordføreren innlede samtaler med kommunene i samarbeidet om en ny organisering av regionrådssamarbeidet, med fokus på et tydeligere formål og reduserte kostnader."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.12.2024",
+  "saksnummer_ps": "PS 120/24",
+  "rodt_fremmet_forslag": false
+}

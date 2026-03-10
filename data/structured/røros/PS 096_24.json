@@ -1,0 +1,29 @@
+{
+  "tittel": "VALG AV VARAMEDLEM TIL MIDT-NORGE 110-SENTRAL IKS 2024-2027",
+  "innstilling": "Som varamedlem i Midt-Norge 110-sentral IKS for perioden 2024-2027 velges: Varamedlem 2:",
+  "vedtak": "Som varamedlem i Midt-Norge 110-sentral IKS for perioden 2024-2027 velges: Varamedlem 2 Mona Slettum.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Valgutvalget",
+      "tekst": "Som varamedlem i Midt-Norge 110-sentral IKS for perioden 2024-2027 velges: Varamedlem 2 Mona Slettum"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valg av varamedlem 2 til Midt-Norge 110-sentral IKS for perioden 2024-2027",
+      "alternativer": [
+        {
+          "navn": "For valg av Mona Slettum",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For valg av Mona Slettum",
+      "roedt_stoettet": "For valg av Mona Slettum",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 096/24",
+  "rodt_fremmet_forslag": false
+}

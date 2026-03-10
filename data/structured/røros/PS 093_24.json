@@ -1,0 +1,32 @@
+{
+  "tittel": "Oppfølging politiske vedtak kommunestyret våren 2024",
+  "innstilling": "Kommunestyret tar status på oppfølging av politiske vedtak i kommunestyret våren 2024 til orientering.",
+  "vedtak": [
+    "Kommunestyret tar status på oppfølging av politiske vedtak i kommunestyret våren 2024 til orientering.",
+    "SAK 58/23 Utvikling av parken ved Nilsenhjørnet utsettes."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Henrik Grønn (Ap)",
+      "tekst": "Utsettelse av sak 58/23 Utvikling av parken ved Nilsenhjørnet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag om utsettelse av sak 58/23 Utvikling av parken ved Nilsenhjørnet.",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 093/24",
+  "rodt_fremmet_forslag": false
+}

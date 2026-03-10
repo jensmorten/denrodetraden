@@ -1,0 +1,30 @@
+{
+  "tittel": "Røros Kultur og Konferansesenter AS: Valg av 1 medlem til valgkomite og leder for valgkomiteen",
+  "innstilling": {
+    "medlem": "Anita Tustervatn (3 års tjenestetid, på valg 2027)",
+    "leder": "Mads Bukkvoll (1 års tjenestetid som leder)"
+  },
+  "vedtak": {
+    "medlem": "Anita Tustervatn (3 års tjenestetid, på valg 2027)",
+    "leder": "Mads Bukkvoll (1 års tjenestetid som leder)"
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Valgutvalgets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets forslag",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 037/24",
+  "rodt_fremmet_forslag": false
+}

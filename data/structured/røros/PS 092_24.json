@@ -1,0 +1,24 @@
+{
+  "tittel": "Oppdatering strategi for oppvekst og utdanning",
+  "innstilling": "Oppdatert strategi for oppvekst og utdanning vedtas.",
+  "vedtak": "Oppdatert strategi for oppvekst og utdanning vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av utvalg for oppvekst sitt forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 092/24",
+  "rodt_fremmet_forslag": false
+}

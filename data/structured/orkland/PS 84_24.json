@@ -1,0 +1,36 @@
+{
+  "tittel": "Avklaring om lokal aksept for endring av verneform og utvidelser Trollheimen landskapsvernområde",
+  "innstilling": "Orkland kommune åpner for en prosess med sikte på endring av verneform for Trollheimen landskapsvernområde.",
+  "vedtak": "Orkland kommune åpner for en prosess med sikte på endring av verneform for Trollheimen landskapsvernområde.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg forvaltning 24.09.2024 om kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 15.10.2024 om Hovedutvalg forvaltnings forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "15.10.2024",
+  "saksnummer_ps": "PS 84/24",
+  "rodt_fremmet_forslag": false
+}

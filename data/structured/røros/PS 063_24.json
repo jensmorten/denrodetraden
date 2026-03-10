@@ -1,0 +1,48 @@
+{
+  "tittel": "Bygging av Rørosbarnehagene",
+  "innstilling": "Investeringsbeløpet for Rørosbarnehagene økes til 176,1 millioner kr inklusive mva. 140,9 millioner eksklusive mva. Nettobeløpet på 34,9 millioner finansieres med økt låneopptak.",
+  "vedtak": "Investeringsbeløpet for Rørosbarnehagene økes til 176,1 millioner kr inklusive mva. 140,9 millioner eksklusive mva. Nettobeløpet på 34,9 millioner finansieres med økt låneopptak.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for repr. Tamnes",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om habilitet for repr. Kjellmark",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For formannskapets innstilling",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "For formannskapets innstilling",
+      "roedt_stoettet": "For formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 063/24",
+  "rodt_fremmet_forslag": false
+}

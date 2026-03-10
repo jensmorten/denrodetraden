@@ -1,0 +1,44 @@
+{
+  "tittel": "Møteplan for Orkland kommune 2025",
+  "innstilling": "Vedlagte møteplan for 2025 vedtas.",
+  "vedtak": "Vedlagte møteplan for 2025 vedtas.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rødt, Pensjonistpartiet og Frp ved Hans Peter Verme",
+      "tekst": "Rødt, Pensjonistpartiet og Frp foreslår at møtestart for politiske møter i Orkland kommune i 2025 settes til kl 10.00."
+    },
+    {
+      "forslagsstiller": "Rødt, Pensjonistpartiet og Frp ved Hans Peter Verme",
+      "tekst": "Rødt, Pensjonistpartiet og Frp foreslår at møtestart for kommunestyremøtene i Orkland kommune i 2025 settes til 10.00."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling og forslag fra Rødt, Pensjonistpartiet og Frp",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 42
+        },
+        {
+          "navn": "Forslag 1 fra Rødt, Pensjonistpartiet og Frp",
+          "stemmer": 19
+        },
+        {
+          "navn": "Forslag 2 fra Rødt, Pensjonistpartiet og Frp",
+          "stemmer": 19
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": [
+        "Forslag 1 fra Rødt, Pensjonistpartiet og Frp",
+        "Forslag 2 fra Rødt, Pensjonistpartiet og Frp"
+      ],
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "19.11.2024",
+  "saksnummer_ps": "PS 100/24",
+  "rodt_fremmet_forslag": true
+}

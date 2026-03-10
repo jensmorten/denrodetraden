@@ -1,0 +1,24 @@
+{
+  "tittel": "Kontrollutvalgets årsplan 2024",
+  "innstilling": "Kommunestyret tar kontrollutvalgets årsplan 2024 til orientering.",
+  "vedtak": "Kommunestyret tar kontrollutvalgets årsplan 2024 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Kontrollutvalgets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 022/24",
+  "rodt_fremmet_forslag": false
+}

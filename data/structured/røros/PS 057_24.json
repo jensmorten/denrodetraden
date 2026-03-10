@@ -1,0 +1,24 @@
+{
+  "tittel": "Referatsaker kommunestyret 20.6.2024",
+  "innstilling": "Kommunestyret tar referatsakene til orientering.",
+  "vedtak": "Kommunestyret tar referatsakene til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 057/24",
+  "rodt_fremmet_forslag": false
+}

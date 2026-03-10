@@ -1,0 +1,36 @@
+{
+  "tittel": "104/24 Rapport etter tredje kvartal 2024",
+  "innstilling": "Kommunestyret tar rapport etter tredje kvartal for Orkland kommune til orientering",
+  "vedtak": "Kommunestyret tar rapport etter tredje kvartal for Orkland kommune til orientering",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 10.12.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 17.12.2024",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.12.2024",
+  "saksnummer_ps": "PS 104/24",
+  "rodt_fremmet_forslag": false
+}

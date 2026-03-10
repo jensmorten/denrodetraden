@@ -1,0 +1,52 @@
+{
+  "tittel": "Røros kommunes årsregnskap for 2023",
+  "innstilling": {
+    "1": "Regnskap med vedlegg for 2023 godkjennes",
+    "2": {
+      "plan_for_inndekning": {
+        "a": "2024 - Ingen inndekning",
+        "b": "2025 10 000 000,- overføres til inndekning av tidligere års merforbruk",
+        "c": "2026 10 000 000,- overføres til inndekning av tidligere års merforbruk",
+        "d": "2027 18 148 535,- overføres til inndekning av tidligere års merforbruk",
+        "e": "Total inndekning innen utgangen av 2027 kroner blir 38 148 535,-. Dette tilsvarer akkumulert merforbruk fra 2023"
+      },
+      "f": "Kommunestyret ber kommunedirektøren legge til rette for en bred prosess for utarbeidelse av forpliktende plan for inndekning som integreres i arbeidet med handlings- og økonomiplan",
+      "g": "Kommunestyret ber formannskapet fortsette arbeidet med å utrede potensielle innsparings- og/eller inntjeningstiltak. Kommunestyret ber formannskapet legge frem en samlet oversikt over disse innen utgangen av september 2024",
+      "h": "Eventuelle merforbruk som oppstår i perioden må dekkes inn i det etterfølgende året, i tillegg til den vedtatte inndekningen av merforbruk fra 2023"
+    },
+    "3": "Kommunestyret tar revisors uttalelse om årsregnskapet til orientering",
+    "4": "Kommunestyret tar kontrollutvalgets uttalelse om årsregnskapet til orientering"
+  },
+  "vedtak": {
+    "1": "Regnskap med vedlegg for 2023 godkjennes. Kommunestyret vedtar følgende plan for inndekning av det bokførte merforbruket:",
+    "1a": "2024 - Ingen inndekning",
+    "1b": "2025 10 000 000,- overføres til inndekning av tidligere års merforbruk",
+    "1c": "2026 10 000 000,- overføres til inndekning av tidligere års merforbruk",
+    "1d": "2027 18 148 535,- overføres til inndekning av tidligere års merforbruk",
+    "1e": "Total inndekning innen utgangen av 2027 kroner blir 38 148 535,-. Dette tilsvarer akkumulert merforbruk fra 2023",
+    "1f": "Kommunestyret ber kommunedirektøren legge til rette for en bred prosess for utarbeidelse av forpliktende plan for inndekning som integreres i arbeidet med handlings- og økonomiplan",
+    "1g": "Kommunestyret ber formannskapet fortsette arbeidet med å utrede potensielle innsparings- og/eller inntjeningstiltak. Kommunestyret ber formannskapet sluttføre arbeidet i forbindelse med dialogkonferanse 2, og at anbefalingene tas med inn i videre arbeid med handlings- og økonomiplan",
+    "1h": "Eventuelle merforbruk som oppstår i perioden må dekkes inn i det etterfølgende året, i tillegg til den vedtatte inndekningen av merforbruk fra 2023",
+    "2": "Kommunestyret tar revisors uttalelse om årsregnskapet til orientering",
+    "3": "Kommunestyret tar kontrollutvalgets uttalelse om årsregnskapet til orientering"
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 065/24",
+  "rodt_fremmet_forslag": false
+}

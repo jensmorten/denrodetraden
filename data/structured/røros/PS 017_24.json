@@ -1,0 +1,59 @@
+{
+  "tittel": "2.gangs behandling - Detaljregulering for Skarpsno - planid 20200017",
+  "innstilling": [
+    "Røros kommune vedtar forslag til detaljregulering med planid 20200017.",
+    "Reguleringsplan 19880001 vedtatt 29.9.1988 som blir berørt av ny detaljregulering for Skarpsno, 20200017 inkludert alle senere planendringer, delplaner og tilhørende bestemmelser, oppheves."
+  ],
+  "vedtak": [
+    "Røros kommune vedtar forslag til detaljregulering med planid 20200017.",
+    "Reguleringsplan 19880001 vedtatt 29.9.1988 som blir berørt av ny detaljregulering for Skarpsno, 20200017 inkludert alle senere planendringer, delplaner og tilhørende bestemmelser, oppheves.",
+    "Følgende endring innarbeides i planen: O TD2 omfatter historisk adkomst til badeplass og landbruksarealene. Adkomsten kan opparbeides i inntil 1,5 m bredde og tilrettelegges som turvei."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Utvalg for plansaker sitt punkt 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Utvalg for plansaker sitt punkt 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Utvalg for plansaker sitt punkt 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 18
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "røros",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 017/24",
+  "rodt_fremmet_forslag": false
+}

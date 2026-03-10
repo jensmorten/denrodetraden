@@ -1,0 +1,36 @@
+{
+  "tittel": "117/24 Kommunale mål og retningslinjer for forvaltning av hjortevilt 2025-2030",
+  "innstilling": "Orkland kommune vedtar forslag til kommunale mål og retningslinjer for forvaltning av hjortevilt for perioden 2025-2030. Vedtaket gjøres med hjemmel i hjorteviltforskriftens §§ 3 og 4.",
+  "vedtak": "Orkland kommune vedtar forslag til kommunale mål og retningslinjer for forvaltning av hjortevilt for perioden 2025-2030. Vedtaket gjøres med hjemmel i hjorteviltforskriftens §§ 3 og 4.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg forvaltning 2023 - 2027 om kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoette": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 17.12.2024 om Hovedutvalg forvaltning sin innstilling",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg forvaltning sin innstilling",
+          "stemmer": 41
+        }
+      ],
+      "hvem_vant": "Hovedutvalg forvaltning sin innstilling",
+      "roedt_stoette": "Hovedutvalg forvaltning sin innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.12.2024",
+  "saksnummer_ps": "PS 117/24",
+  "rodt_fremmet_forslag": false
+}

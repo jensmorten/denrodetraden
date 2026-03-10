@@ -1,0 +1,57 @@
+{
+  "tittel": "Bygging av nytt legesenter",
+  "innstilling": "Investeringsbeløpet for Legesenteret økes til 60,225 millioner kr. inklusive mva. 48,18 millioner eksklusive mva. Nettobeløpet på 38,18 millioner finansieres med økt låneopptak.",
+  "vedtak": "Investeringsbeløpet for Legesenteret økes til 60,225 millioner kr. inklusive mva. 48,18 millioner eksklusive mva. Nettobeløpet på 38,18 millioner finansieres med økt låneopptak.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stig-Arvid Leinum (R)",
+      "tekst": "1. Bygging/rehabilitering av nytt legesenter utsettes på ubestemt tid. 2. Legevakta flyttes så raskt som mulig til det gamle legesenteret."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for representant Tamnes",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoette": null,
+      "roedt_paa_vinner_side": null
+    },
+    {
+      "beskrivelse": "Votering om habilitet for representant Kjellmark",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoette": null,
+      "roedt_paa_vinner_side": null
+    },
+    {
+      "beskrivelse": "Votering om formannskapets innstilling mot endringsforslaget fra H, V, SP, Røroslista og R",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 15
+        },
+        {
+          "navn": "Endringsforslaget fra H, V, SP, Røroslista og R",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoette": "Endringsforslaget fra H, V, SP, Røroslista og R",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "røros",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 064/24",
+  "rodt_fremmet_forslag": true
+}

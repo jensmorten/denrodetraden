@@ -1,0 +1,45 @@
+{
+  "tittel": "Tilstandsrapport for Rørosskolen 2024",
+  "innstilling": "Tilstandsrapporten tas til orientering.",
+  "vedtak": "Tilstandsrapporten tas til orientering.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stig-Arvid Leinum (R)",
+      "tekst": "Forslag om kartleggingsundersøkelser for mobbing ved Rørosskolene."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "Formannskapets forslag",
+          "stemmer": 27
+        }
+      ],
+      "vinner": "Formannskapets forslag",
+      "roedt_stoette": "Formannskapets forslag",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslaget om kartleggingsundersøkelser for mobbing",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 5
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 22
+        }
+      ],
+      "vinner": "Mot tilleggsforslaget",
+      "roedt_stoette": "For tilleggsforslaget",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 089/24",
+  "rodt_fremmet_forslag": true
+}

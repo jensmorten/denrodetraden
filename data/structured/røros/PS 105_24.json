@@ -1,0 +1,30 @@
+{
+  "tittel": "Abakus AS: Samarbeid med kommuner i Nord-Gudbrandsdal",
+  "innstilling": [
+    "Røros kommune gir sin tilslutning til å ta opp nye kommuner som eiere i Abakus AS.",
+    "De seks kommunene Lesja, Dovre, Sel, Skjåk, Lom og Vågå i Nord-Gudbrandsdalen gis tilbud om å bli nye eiere i Abakus AS og delta i et forpliktende innkjøpssamarbeid på samme vilkår og etter samme samarbeidsmodell som dagens eiere."
+  ],
+  "vedtak": [
+    "Røros kommune gir sin tilslutning til å ta opp nye kommuner som eiere i Abakus AS.",
+    "De seks kommunene Lesja, Dovre, Sel, Skjåk, Lom og Vågå i Nord-Gudbrandsdalen gis tilbud om å bli nye eiere i Abakus AS og delta i et forpliktende innkjøpssamarbeid på samme vilkår og etter samme samarbeidsmodell som dagens eiere."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 105/24",
+  "rodt_fremmet_forslag": false
+}

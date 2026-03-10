@@ -1,0 +1,24 @@
+{
+  "tittel": "078/24 Revisjon forskrift om folkevalgtes plikter og rettigheter 2024",
+  "innstilling": "Forskrift om folkevalgtes plikter og rettigheter i Røros kommune vedtas",
+  "vedtak": "Forskrift om folkevalgtes plikter og rettigheter i Røros kommune vedtas",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av formannskapets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "PS 078/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,30 @@
+{
+  "tittel": "081/24 Overordnet beredskapsplan",
+  "innstilling": [
+    "Kommunestyret tar overordnet beredskapsplan til orientering.",
+    "Kommunestyrets vedtak i sak 48/20 oppheves."
+  ],
+  "vedtak": [
+    "Kommunestyret tar overordnet beredskapsplan til orientering.",
+    "Kommunestyrets vedtak i sak 48/20 oppheves."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "PS 081/24",
+  "rodt_fremmet_forslag": false
+}

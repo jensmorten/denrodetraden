@@ -1,0 +1,117 @@
+{
+  "tittel": "Salg av kommunale boliger og eiendommer",
+  "innstilling": [
+    "Røros kommune legger Gubbstenveien nr. 28, 30 og 32, totalt 11 leiligheter, ut for salg.",
+    "Røros kommune legger Henrik Grønns vei nr. 20, Søsterhjemmet, ut for salg",
+    "Røros kommune legger Peder Hiortgata nr. 2, Reiselivets hus, ut for salg",
+    "For å ivareta beboere skal Kommunedirektøren sikre alternative boliger for beboere med nødvendige og gode prosesser",
+    "Netto inntekter fra salg settes av til fritt investeringsfond"
+  ],
+  "vedtak": [
+    "Røros kommune legger Gubbstenveien nr. 28, 30 og 32, totalt 11 leiligheter, ut for salg.",
+    "Røros kommune legger Henrik Grønns vei nr. 20, Søsterhjemmet, ut for salg",
+    "Røros kommune legger Peder Hiortgata nr. 2, Reiselivets hus, ut for salg",
+    "For å ivareta beboere skal Kommunedirektøren sikre alternative boliger for beboere med nødvendige og gode prosesser",
+    "Netto inntekter fra salg settes av til fritt investeringsfond"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stig-Arvid Leinum (R)",
+      "tekst": "Leilighetene i Gubbstenveien nr. 28, 30 og 32, sendes til Utvalget for kultur og samfunnsutvikling for utredning av mulige foretaksmodeller for leie til eie for deler eller alle boenhetene."
+    },
+    {
+      "forslagsstiller": "Mona Waldahl Slettum (H)",
+      "tekst": "1. Røros kommune legger Gubbstenveien nr. 28, 30 og 32, totalt 11 leiligheter, ut for salg etter at dagens beboere/leietakere er sikret alternative boliger med nødvendige og gode prosesser\n2. Røros kommune venter med å selge Henrik Grønns vei nr. 20, Søsterhjemmet, for å se behovet for sentrumsnære omsorgsleiligheter., alternativt flytting av Rus og Psykiatritjenester\n3. Røros kommune legger Peder Hiortgata nr. 2, Reiselivets hus\n4. For å ivareta beboere skal Kommunedirektøren sikre alternative boliger for beboere med nødvendige og gode prosesser\n5. Netto inntekter fra salg settes av til fritt investeringsfond"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Formannskapets innstilling satt opp mot endringsforslaget til Rødt",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 22
+        },
+        {
+          "navn": "Endringsforslag fra Rødt",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Endringsforslag fra Rødt",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling punkt 1 satt opp mot høyres endringsforslag",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 22
+        },
+        {
+          "navn": "Høyres endringsforslag",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling punkt 2 satt opp mot høyres endringsforslag",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 22
+        },
+        {
+          "navn": "Høyres endringsforslag",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling punkt 3 vedtatt",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling punkt 4 vedtatt",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling punkt 5 vedtatt",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 047/24",
+  "rodt_fremmet_forslag": true
+}

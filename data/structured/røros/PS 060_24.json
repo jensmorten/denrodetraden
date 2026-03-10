@@ -1,0 +1,41 @@
+{
+  "tittel": "Lovlighetskontroll- Detaljregulering Fruvollen",
+  "innstilling": "Kommunedirektøren sitt forslag til vedtak",
+  "vedtak": "Kommunestyret kan ikke se at det er grunnlag for å endre vedtaket i sak 029/24 av 25.4.2024. Saken oversendes Statsforvalteren til lovlighetskontroll.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Henrik Grønn (Ap)",
+      "tekst": "Kommunestyret kan ikke se at det er grunnlag for å endre vedtaket i sak 029/24 av 25.4.2024. Saken oversendes Statsforvalteren til lovlighetskontroll."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for representantene Leinum, Elgaaen og Prytz",
+      "alternativer": [
+        {
+          "navn": "Enstemmig habil",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig habil",
+      "roedt_stoettet": "Enstemmig habil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om forslaget fra Røros Arbeiderparti",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Røros Arbeiderparti",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget fra Røros Arbeiderparti",
+      "roedt_stoettet": "Forslaget fra Røros Arbeiderparti",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 060/24",
+  "rodt_fremmet_forslag": false
+}

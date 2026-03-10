@@ -1,0 +1,42 @@
+{
+  "tittel": "Behandling av klage - Detaljregulering for Ysterhagaen barnehage - planid 20220008",
+  "innstilling": [
+    "Klagene tas ikke til følge. Saken sendes til Statsforvalteren til sluttbehandling",
+    "Klagene gis utsettende virkning i henhold til forvaltningsloven § 42."
+  ],
+  "vedtak": [
+    "Klagene tas ikke til følge. Saken sendes til Statsforvalteren til sluttbehandling",
+    "Klagene gis utsettende virkning i henhold til forvaltningsloven § 42"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for repr. Tamnes",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om utvalg for plansaker sitt forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For utvalg for plansaker sitt forslag",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "For utvalg for plansaker sitt forslag",
+      "roedt_stoettet": "For utvalg for plansaker sitt forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "PS 076/24",
+  "rodt_fremmet_forslag": false
+}

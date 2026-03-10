@@ -1,0 +1,43 @@
+{
+  "tittel": "Suppleringsvalg etter Reidun Roland",
+  "innstilling": [
+    "1. Som medlem av råd for personer med funksjonsnedsettelser for perioden 2023-2027 velges Kjell Engan (LHL)",
+    "2. Som vara for Arne Drøyvollsmo i sakkyndig ankenemnd for eiendomsskatt perioden 2023-2027 velges …",
+    "3. Som vara i eldrerådet perioden 2023-2027 velges …",
+    "4. Som vara styret for Røros frivilligsentral perioden 2023-2027 velges …",
+    "5. Som vara styret Småhagene borettslag perioden 2023-2027 velges …",
+    "6. Som vara Falkberget-ringen perioden 2023-2027 velges …"
+  ],
+  "vedtak": "Som foreslått i valgutvalgets forslag med detaljer som ovenfor.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Valgutvalget",
+      "tekst": [
+        "1. Som medlem av råd for personer med funksjonsnedsettelser for perioden 2023-2027 velges Kjell Engan (LHL)",
+        "2. Som vara for Arne Drøyvollsmo i sakkyndig ankenemnd for eiendomsskatt perioden 2023-2027 velges Kai Arne Stenvold",
+        "3. Som vara i eldrerådet perioden 2023-2027 velges Idar Bransfjell",
+        "4. Som vara styret for Røros frivilligsentral perioden 2023-2027 velges Mattis Danielsen",
+        "5. Som vara styret Småhagene borettslag perioden 2023-2027 velges Anne Grete Sandbakken",
+        "6. Som vara Falkberget-ringen perioden 2023-2027 velges Randi Borgos"
+      ]
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over valgutvalgets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "19.09.2024",
+  "saksnummer_ps": "PS 097/24",
+  "rodt_fremmet_forslag": false
+}

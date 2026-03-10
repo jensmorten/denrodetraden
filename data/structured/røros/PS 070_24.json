@@ -1,0 +1,41 @@
+{
+  "tittel": "Lokal forskrift om skolefritidsordningen (SFO) i Rossen tjïelte/Røros kommune",
+  "innstilling": "Forskriften vedtas med endringer i §5 og §7 (7.1. 7.2 og 7.4)",
+  "vedtak": "Forskriften vedtas med endringer i §7 (7.1. 7.2 og 7.4)",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rune Hansén Steinnes (SV)",
+      "tekst": "§ 5 \"Kommunen kan også si opp SFO-plass på grunn av bemanningskapasitet/redusert bemanning. Oppsigelse av berørte vil skje etter punkt 3.1\" - strykes"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslaget fra representant Steinnes",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen med endringer i paragraf 7",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 070/24",
+  "rodt_fremmet_forslag": false
+}

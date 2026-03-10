@@ -1,0 +1,53 @@
+{
+  "tittel": "Røros kultur- og konferansesenter AS: Valg av valgkomitè",
+  "innstilling": "Som medlem til Røros kommunes valgkomite for Røros Kurs- og Konferansesenter AS velges:\nMedlem 1 ….. (1 års tjenestetid, på valg 2025)\nMedlem 2 ….. (2 års tjenestetid, på valg 2026)\nMedlem 3 ….. (3 års tjenestetid, på valg 2027)\nSom leder for Røros kommunes valgkomite for Røros Kurs- og Konferansesenter AS velges:\nLeder for valgkomiteen… (1 års tjenestetid som leder)",
+  "vedtak": "Valgkomite for Røros kultur- og konferansesenter AS:\nHans Petter Kvikne velges som medlem 1 til valgkomiteen, 1 års tjenestetid, på valg 2025\nEva Nordfjell velges som medlem 2 til valgkomiteen, 2 års tjenestetid, på valg i 2026.\nKjell Morten Hansen velges som medlem 3 til valgkomiteen, 3 års tjenestetid, på valg i 2027.\nSom valgkomiteens leder for ett år velges Kjell Morten Hansen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stig-Arvid Leinum (R)",
+      "tekst": "Rødt Røros vil nominere Johnny Johanssen som medlem til til Valgkomitéen."
+    },
+    {
+      "forslagsstiller": "Henrik Grønn (Ap)",
+      "tekst": "Eva Nordfjell velges som medlem 2 til valgkomiteen, 2 års tjenestetid, på valg i 2026.\nKjell Morten Hansen velges som medlem 3 til valgkomiteen, 3 års tjenestetid, på valg i 2027.\nSom valgkomiteens leder for ett år velges Kjell Morten Hansen"
+    },
+    {
+      "forslagsstiller": "Per Arne Gjelsvik (V)",
+      "tekst": "Hans Petter Kvikne"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over medlem nr. 1. forslagene Hans Petter Kvikne og Johnny Johansen.",
+      "alternativer": [
+        {
+          "navn": "Hans Petter Kvikne",
+          "stemmer": 25
+        },
+        {
+          "navn": "Johnny Johansen",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "Hans Petter Kvikne",
+      "roedt_stoettet": "Johnny Johansen",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over representant Grønn sitt forslag om valg av medlem 2, medlem 3 og leder.",
+      "alternativer": [
+        {
+          "navn": "Grønn sitt forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Grønn sitt forslag",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 067/24",
+  "rodt_fremmet_forslag": true
+}

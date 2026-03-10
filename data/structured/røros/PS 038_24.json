@@ -1,0 +1,39 @@
+{
+  "tittel": "Optimus AS: Innstilling av 1 medlem til valgkomiteen og leder for valgkomiteen",
+  "innstilling": {
+    "medlem": "Medlem 1 Trond Dalsegg (2 års tjenestetid, på valg 2026)",
+    "leder": "Leder for valgkomiteen Trond Dalsegg (1 års tjenestetid som leder)"
+  },
+  "vedtak": {
+    "medlem": "Medlem 1 Elin Tamnes (2 års tjenestetid, på valg 2026)",
+    "leder": "Leder for valgkomiteen Elin Tamnes (1 års tjenestetid som leder)"
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Repr. Henrik Grønn (Ap)",
+      "tekst": "Elin Tamnes som medlem\nElin Tamnes som leder"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg mellom valgutvalgets forslag (Trond Dalsegg) og Henrik Grønns forslag (Elin Tamnes) til medlem og leder av valgkomiteen",
+      "alternativer": [
+        {
+          "navn": "Elin Tamnes",
+          "stemmer": 16
+        },
+        {
+          "navn": "Trond Dalsegg",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "Elin Tamnes",
+      "roedt_stoette": "Elin Tamnes",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 038/24",
+  "rodt_fremmet_forslag": false
+}

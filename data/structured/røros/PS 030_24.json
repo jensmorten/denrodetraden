@@ -1,0 +1,53 @@
+{
+  "tittel": "Boplikt i Røros kommune",
+  "innstilling": "Dagens ordning med boplikt videreføres, og det innføres ikke boplikt ved arv. Rutiner for oppfølging av boplikten må etableres. Forskriften endres til å omfatte boliger i bopliktsoner i henhold til fremlagte kart for Røros (kommunedelplan Røros Bergstad), Brekken og Glåmos.",
+  "vedtak": "Dagens ordning med boplikt videreføres, og det innføres ikke boplikt ved arv. Rutiner for oppfølging av boplikten må etableres. Forskriften endres til å omfatte boliger i bopliktsoner i henhold til fremlagte kart for Røros (kommunedelplan Røros Bergstad), Brekken og Glåmos.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Christian Elgaaen (SV)",
+      "tekst": "1. Kommunestyret i Røros reviderer forskriften om boplikt i Røros kommune, FOR-2007-06-07-578, med følgende endringer: Boplikt innføres også ved arv ved å sette konsesjonslovens §5 første ledd ut av kraft. Boplikt ved arv vil gjelde for boligeiendommer innenfor bopliktsonene Røros sentrum, Glåmos og Brekken slik som beskrevet i vedlegg og kart i denne saken. 2. I Røros kommune for øvrig skal det være boplikt i områder regulert til boligformål, i tråd med gjeldende forskrift. 3. Forslag til revidert og endelig forskriftstekst legges fram til behandling av kommunedirektøren. 4. Kommunedirektøren bes utarbeide en rutine for oppfølging og håndheving av boplikt, og legge denne fram for vedtak i formannskapet."
+    },
+    {
+      "forslagsstiller": "Kjell Magnus Krog (H)",
+      "tekst": "Dagens ordning med boplikt i forskrift FOR 2007-06-07-578 for Røros kommune, oppheves."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Kjell Magnus Krogs forslag om å oppheve dagens ordning med boplikt.",
+      "alternativer": [
+        {
+          "navn": "For Krogs forslag",
+          "stemmer": 5
+        },
+        {
+          "navn": "Mot Krogs forslag",
+          "stemmer": 22
+        }
+      ],
+      "hvem_vant": "Mot Krogs forslag",
+      "roedt_stoette": "Mot Krogs forslag",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering mellom Elgaaens forslag og formannskapets forslag.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets forslag",
+          "stemmer": 20
+        },
+        {
+          "navn": "Elgaaens forslag",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "Formannskapets forslag",
+      "roedt_stoette": "Elgaaens forslag",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 030/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,45 @@
+{
+  "tittel": "Fremtidens turistinformasjon i Røros",
+  "innstilling": "Kommunestyret tar kommunedirektørens redegjørelse for arbeidet med fremtidens turistinformasjon i Røros til etterretning. Kommunestyret ber kommunedirektøren videreføre arbeidet med realisering av en turistinformasjon i Røros slik modell 4 beskriver.",
+  "vedtak": "Kommunestyret tar kommunedirektørens redegjørelse for arbeidet med fremtidens turistinformasjon i Røros til etterretning. Kommunestyret ber kommunedirektøren videreføre arbeidet med realisering av en turistinformasjon i Røros slik modell 4 beskriver.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stig-Arvid Leinum (R)",
+      "tekst": "1. Kommunestyret ber kommunedirektøren om å etablere en god dialog med VIRØ og Rørosmuseet om en omforent løsning for fysisk turistinformasjon.\n2. Kommunestyret ber kommunedirektøren vurdere om VIRØ med dette kan slanke sin organisasjon, og legge til rette for vår kommunes behov i samarbeid med andre destinasjoner i regionen.\n3. Kommunestyret ber kommunedirektøren se på mulige innsparinger i de årlige kostnadene tilknyttet VIRØ med utgangspunkt i færre arbeidsoppgaver for VIRØ."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling til saken",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslaget fra Stig-Arvid Leinum (R)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 2
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "røros",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 059/24",
+  "rodt_fremmet_forslag": true
+}

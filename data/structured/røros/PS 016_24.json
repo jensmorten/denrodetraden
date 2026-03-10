@@ -1,0 +1,36 @@
+{
+  "tittel": "Rollebeskrivelse representant for barn- og unge i plan- og byggesaker",
+  "innstilling": "Vedlagte forslag til rollebeskrivelse for representant for barn og unge i plan- og byggesaker vedtas.",
+  "vedtak": "Vedlagte forslag til rollebeskrivelse for representant for barn og unge i plan- og byggesaker vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling i Utvalg for plansaker 07.03.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunestyret 21.03.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 016/24",
+  "rodt_fremmet_forslag": false
+}

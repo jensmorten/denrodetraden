@@ -1,0 +1,49 @@
+{
+  "tittel": "2.gangs behandling - Detaljregulering for Ysterhagaen barnehage - planid 20220008",
+  "innstilling": "Røros kommune vedtar forslag til detaljreguleringsplan for Ysterhagaen barnehage med planid 20220008. (jf. Plan og bygningsloven § 12-12). Kommunedirektøren kan gjøre nødvendige oppdateringer av øvrige plandokument i tråd med vedtatte plankart og planbestemmelser.",
+  "vedtak": "Røros kommune vedtar forslag til detaljregulering for Ysterhagaen barnehage med planid 20220008. (jf. Plan og bygningsloven § 12-12). Kommunedirektøren kan gjøre nødvendige oppdateringer av øvrige plandokument i tråd med vedtatte plankart og planbestemmelser.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Repr. Reidun Roland (RL)",
+      "tekst": "1. Gammelskola selges ikke\n2. Rus og Psykiatri flyttes snarest midlertidig ned til Reiselivets Hus\n3. VIRØ flyttes snarest midlertidig inn i ledige lokaler i Øverhagan 1\n4. Utstyrssentralen flyttes ikke."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Stemmegivning over innstillinga i saken",
+      "alternativer": [
+        {
+          "navn": "For innstillinga",
+          "stemmer": 25
+        },
+        {
+          "navn": "Mot innstillinga",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For innstillinga",
+      "roedt_stoettet": "Mot innstillinga",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Stemmegivning over tilleggsforslaget fra representant Roland",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 1
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "Mot tilleggsforslaget",
+      "roedt_stoettet": "For tilleggsforslaget",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "røros",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 061/24",
+  "rodt_fremmet_forslag": true
+}

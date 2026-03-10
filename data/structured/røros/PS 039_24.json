@@ -1,0 +1,42 @@
+{
+  "tittel": "Røros Parkering AS: Valg av 1 medlem og 1 varamedlem til valgkomiteen",
+  "innstilling": {
+    "medlem": "Paula Blomli (2 års tjenestetid, på valg 2026)",
+    "varamedlem": "Kenneth Sandvik (2 års tjenestetid, på valg 2026)"
+  },
+  "vedtak": {
+    "medlem": "Paula Blomli (2 års tjenestetid, på valg 2026)",
+    "varamedlem": "Kenneth Sandvik (2 års tjenestetid, på valg 2026)"
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunestyret vedtok enstemmig å ta spørsmålet om habilitet til etterretning, og erklærte representantene habil.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Valgutvalgets forslag til valg av medlem og varamedlem til valgkomiteen ble votert over.",
+      "alternativer": [
+        {
+          "navn": "For valgutvalgets forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For valgutvalgets forslag",
+      "roedt_stoettet": "For valgutvalgets forslag",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 039/24",
+  "rodt_fremmet_forslag": false
+}

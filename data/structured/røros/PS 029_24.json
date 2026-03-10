@@ -1,0 +1,113 @@
+{
+  "tittel": "Endelig behandling - Detaljregulering for Fruvollen- planid 20210007",
+  "innstilling": "Med hjemmel i plan- og bygningslovens §12-12 avslår Røros kommune forslag til reguleringsplan for Fruvollen, planid 20210007. Dette begrunnes med at det ikke er ønskelig å tillate utbygging i et nytt område. Kommunestyret ønsker å redusere arealendringer for å ivareta naturen, det biologiske mangfoldet og bruk av utmarka. Kommunestyret merker seg at det i denne saken er svært mange naboer og berørte som er imot utbygging av området. Disse innspillene tillegges stor vekt i behandlingen av planforslaget.",
+  "vedtak": "Med hjemmel i plan- og bygningslovens §12-12 avslår Røros kommune forslag til reguleringsplan for Fruvollen, planid 20210007. Dette begrunnes med at det ikke er ønskelig å tillate utbygging i et nytt område. Kommunestyret ønsker å redusere arealendringer for å ivareta naturen, det biologiske mangfoldet og bruk av utmarka. Kommunestyret merker seg at det i denne saken er svært mange naboer og berørte som er imot utbygging av området. Disse innspillene tillegges stor vekt i behandlingen av planforslaget.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjell Magnus Krog (H)",
+      "tekst": "Røros kommune vedtar reguleringsplan for Fruvollen med planid 20210007 med plankart datert 24.3.23 med tilhørende bestemmelser og dokumenter beskrevet i planbestemmelsene. (jf. Plan og bygningsloven § 12-12). Dette er angitt som alternativ 1 i vedlegg 1. Vi ber kommunedirektøren innarbeide endringer i henhold til endringshefte del 1 og del 2."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om alternativ 1: 10 boligtomter + 30 fritidsboligtomter + restaurant og overnatting i form av minihytter.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 20
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om alternativ 2: 10 boligtomter + 30 fritidsboligtomter + felleshus og 12 minihytter.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 20
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om alternativ 3: 10 boligtomter + 11 fritidsboligtomter + felleshus og 12 minihytter.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 20
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om alternativ 4: 10 boligtomter + felleshus og 12 minihytter.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 8
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 19
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om alternativ 5: 10 boligtomter.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 8
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 19
+        }
+      ],
+      "vinner": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om alternativ 6 (innstillingen): Utvalg for plansaker sitt forslag om å avslå reguleringsplanen.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 19
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 8
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "25.04.2024",
+  "saksnummer_ps": "PS 029/24",
+  "rodt_fremmet_forslag": false
+}

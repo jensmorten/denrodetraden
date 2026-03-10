@@ -1,0 +1,36 @@
+{
+  "tittel": "Ny sykehjemsforskrift",
+  "innstilling": "Kommunestyret vedtar sykehjemsforskriften.",
+  "vedtak": "Kommunestyret vedtar sykehjemsforskriften.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 03.12.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 17.12.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "17.12.2024",
+  "saksnummer_ps": "PS 116/24",
+  "rodt_fremmet_forslag": false
+}

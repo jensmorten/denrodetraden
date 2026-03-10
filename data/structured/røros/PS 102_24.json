@@ -1,0 +1,52 @@
+{
+  "tittel": "Interpellasjon kommunestyret 31.10.2024",
+  "innstilling": "Kommunedirektøren sitt forslag til vedtak",
+  "vedtak": [
+    "Kommunestyret ber kommunedirektøren redegjøre for den administrative organiseringen i Røros kommune, og tydeliggjøre hvor mange årsverk som er avsatt til administrative oppgaver i dagens organisasjonsmodell.",
+    "Kommunestyret er opptatt av at kommunens organisasjon skal drifte så effektivt som mulig på alle områder, og ber kommunedirektøren komme tilbake til kommunestyret med vurdering til endringer, som kan bidra til mer effektiv drift av organisasjonen, med minst mulig konsekvens for sluttbruker."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Per Arne Gjelsvik (V)",
+      "tekst": "1. Kommunestyret ber kommunedirektøren redegjøre for den administrative organiseringen i Røros kommune, og tydeliggjøre hvor mange årsverk som er avsatt til administrative oppgaver i dagens organisasjonsmodell.\n2. Kommunestyret er opptatt av at kommunens organisasjon skal drifte så effektivt som mulig på alle områder, og ber kommunedirektøren komme tilbake til kommunestyret med vurdering til endringer, som kan bidra til mer effektiv drift av organisasjonen, med minst mulig konsekvens for sluttbruker."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over punkt 1 i endringsforslaget fra Per Arne Gjelsvik (V)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over punkt 2 i endringsforslaget fra Per Arne Gjelsvik (V)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 102/24",
+  "rodt_fremmet_forslag": false
+}
