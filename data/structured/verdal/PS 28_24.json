@@ -1,0 +1,59 @@
+{
+  "tittel": "PS 28/24 Etablering av legesenter - videre prosess",
+  "innstilling": {
+    "1": "Kommunedirektøren bes utlyse ubesatte hjemler på nytt, men åpne opp for fleksibilitet med hensyn til lokalisering.",
+    "2": "Kommunedirektøren bes fremme utredning om lokalisering av nytt legekontor i april, i tråd med kommunestyrets sak 130/2023."
+  },
+  "vedtak": {
+    "1": "Kommunedirektøren bes utlyse ubesatte hjemler på nytt, samt også utlyse 1 ny hjemmel. I utlysning skal Vuku beskrives som et av flere alternativ for lokalisering av nytt legesenter. Utlysning skal invitere søkere til å beskrive foretrukket lokasjon, sin foretrukne driftsform, samt videre beskrive foretrukket avtale eller ansettelse. Viser til vedtak i sak 131/2023 pkt. 1.1.",
+    "2": "Kommunedirektøren bes fremme utredning om lokalisering av nytt legekontor i april, i tråd med kommunestyrets vedtak i saker 130/2023 og 131/2023."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Charlotte Aakerhus (H) på vegne av H/SP/VDL/FRP",
+      "tekst": "1. Kommunedirektøren bes utlyse ubesatte hjemler på nytt, samt også utlyse 1 ny hjemmel. I utlysning skal Vuku beskrives som et av flere alternativ for lokalisering av nytt legesenter. Utlysning skal invitere søkere til å beskrive foretrukket lokasjon, sin foretrukne driftsform, samt videre beskrive foretrukket avtale eller ansettelse. Viser til vedtak i sak 131/2023 pkt. 1.1.\n2. Kommunedirektøren bes fremme utredning om lokalisering av nytt legekontor i april, i tråd med kommunestyrets vedtak i saker 130/2023 og 131/2023."
+    },
+    {
+      "forslagsstiller": "AP v/Trine Reitan",
+      "tekst": "1. Kommunedirektøren bes utlyse ubesatte hjemler på nytt, men åpne opp for fleksibilitet med hensyn til lokalisering.\n2. Kommunedirektøren bes fremme utredning om lokalisering av nytt legekontor i april, i tråd med kommunestyrets sak 130/2023."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for Odd Helge Roksvåg",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 21
+        },
+        {
+          "navn": "Ikke inhabil",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoette": null,
+      "roedt_side": null
+    },
+    {
+      "beskrivelse": "Votering om forslag til vedtak - AP sitt forslag",
+      "alternativer": [
+        {
+          "navn": "AP sitt forslag",
+          "stemmer": 14
+        },
+        {
+          "navn": "H/SP/VDL/FRP sitt forslag",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "H/SP/VDL/FRP sitt forslag",
+      "roedt_stoette": "AP sitt forslag",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "02.04.2024",
+  "saksnummer_ps": "PS 28/24",
+  "rodt_fremmet_forslag": false
+}

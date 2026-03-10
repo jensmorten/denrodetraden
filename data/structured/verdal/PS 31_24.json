@@ -1,0 +1,44 @@
+{
+  "tittel": "PS 31/24 Sluttbehandling - Detaljregulering for nye Læringsverkstedet Knøttene barnehage - Ydsedalen - del av 5038/10/2",
+  "innstilling": "Innstillingen fra utvalg plan og samfunn",
+  "vedtak": "Vedlagte plankart sist revidert 23.10.2023 og reguleringsbestemmelser sist revidert 19.02.2024 vedtas iht. plan- og bygningslovens § 12-12.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for Karl Bernhard Hoel",
+      "alternativer": [
+        {
+          "navn": "Karl Bernhard Hoel kjent inhabil",
+          "stemmer": 33
+        },
+        {
+          "navn": "Karl Bernhard Hoel ikke inhabil",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Karl Bernhard Hoel kjent inhabil",
+      "roedt_stoettet": "Karl Bernhard Hoel kjent inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om innstillingen fra utvalg plan og samfunn",
+      "alternativer": [
+        {
+          "navn": "Innstillingen vedtatt",
+          "stemmer": 32
+        },
+        {
+          "navn": "Innstillingen ikke vedtatt",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "Innstillingen vedtatt",
+      "roedt_stoettet": "Innstillingen ikke vedtatt",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "02.04.2024",
+  "saksnummer_ps": "PS 31/24",
+  "rodt_fremmet_forslag": false
+}

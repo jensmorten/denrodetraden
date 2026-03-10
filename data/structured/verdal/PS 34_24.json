@@ -1,0 +1,24 @@
+{
+  "tittel": "Godtgjøring til fjellstyrets medlemmer for perioden 2024-2027",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Kommunestyret godkjenner Verdal fjellstyre sitt forslag på godtgjøring til Verdal fjellstyre for perioden 2024-2027.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "02.04.2024",
+  "saksnummer_ps": "PS 34/24",
+  "rodt_fremmet_forslag": false
+}

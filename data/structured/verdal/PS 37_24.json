@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av ny varaordfører etter fritak av Pål Sverre Fikse",
+  "innstilling": "Einar Olav Larsen (SP) fremmet på vegne av H/SP/VDL/FRP Hilde Daleng (SP) som varaordfører i Verdal kommune for resten av valgperioden 2023-2027.",
+  "vedtak": "Som varaordfører for resten av valgperioden 2023-2027 ble Hilde Daleng (SP) valgt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av varaordfører for resten av valgperioden 2023-2027",
+      "alternativer": [
+        {
+          "navn": "Hilde Daleng (SP)",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Hilde Daleng (SP)",
+      "roedt_stottet": "Hilde Daleng (SP)",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "02.04.2024",
+  "saksnummer_ps": "PS 37/24",
+  "rodt_fremmet_forslag": false
+}

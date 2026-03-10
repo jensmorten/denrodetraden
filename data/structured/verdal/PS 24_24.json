@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 24/24 Ny forskrift om minsteareal for elg, hjort og rådyr",
+  "innstilling": "Innstillingen fra utvalg for utmarkssaker",
+  "vedtak": "Ny forskrift om minsteareal for elg, hjort og rådyr, Verdal kommune vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra utvalg for utmarkssaker",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.02.2024",
+  "saksnummer_ps": "PS 24/24",
+  "rodt_fremmet_forslag": false
+}
