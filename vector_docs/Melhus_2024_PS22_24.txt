@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 22/24
+rodt_fremmet: False
+---
+
+Tittel: Etablering av frisklivssentral i Melhus
+
+Vedtak:
+Melhus kommunestyre stiller seg positiv til å benytte tilskudd fra Helsedirektoratet for å starte arbeidet med etablering av frisklivssentral høsten 2024, og ber om at det jobbes videre med å utrede muligheter for ordinær drift av tjenesten fra 2025.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: Enstemmig

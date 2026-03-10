@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/086
+rodt_fremmet: False
+---
+
+Tittel: Oppstart beitebruksplan
+
+Vedtak:
+Kommunestyret vedtar oppstart av arbeidet med beitebruksplan på Fosen.
+Leder i landbruksnemda velges som kommunestyrets representant i arbeidsgruppa.
+Arbeidet med planen løses i samarbeid med beitelagene og innenfor landbrukskontorets budsjett i 2024 og 2025. Representanten fra kommunestyret honoreres av kommunen.
+Kommunestyrene vedtar hovedplan, handlingsdelen rulleres årlig i de respektive utvalgene i kommunene på Fosen.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Landbruksnemnda fra møte 17.06.24
+  - For: 30 stemmer
+  - Mot: 0 stemmer

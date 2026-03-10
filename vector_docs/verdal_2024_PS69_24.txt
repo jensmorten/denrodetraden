@@ -1,0 +1,27 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 69/24
+rodt_fremmet: False
+---
+
+Tittel: Sak 69/2024 - Oppnevning av medlemmer og varamedlemmer til ulike utvalg og styrer
+
+Vedtak:
+Følgende oppnevnes for resten av valgperioden 2023-2027:
+1. Nytt medlem i utvalg for utmarkssaker: Stian Sagvold (AP).
+2. Ny 1. vara i sakkyndig nemnd for eiendomsskatt: Nils G. Leirset (V)
+3. Ny 4. settevaramedlem i utvalg plan og samfunn fram til 28.10.2024: Marita R. Røthe (V)
+4. Ny 1. settevaramedlem i representantskapet Innherred Renovasjon IKS fram til 28.10.2024: Ruben Musum Stangvik (INP)
+5. Ny 1. settevaramedlem i representantskapet Nord-Trøndelag Krisesenter IKS fram til 28.10.2024: Else Seker (R)
+6. Nytt medlem i utvalg for gatenavn fram til 28.10.2024: Marita R. Røthe (V)
+7. Nytt medlem til Stiftelsen Stiklestad Museum: Jan Roger Ingvaldsen (INP)
+8. Nytt varamedlem Stiftelsen Stiklestad museum: Trine Reitan (AP)
+
+Alternative forslag:
+- AP v/Trine Reitan: Nytt varamedlem i stiftelsen Stiklestad Museum: Trine Reitan (AP)
+
+Voteringer:
+- Votering over formannskapets innstilling og forslaget fra Trine Reitan (AP) til nytt pkt. 8
+  - Formannskapets innstilling: enstemmig
+  - Forslaget fra Trine Reitan (AP) til nytt pkt. 8: enstemmig

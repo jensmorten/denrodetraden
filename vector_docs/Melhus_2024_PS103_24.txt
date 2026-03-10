@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 103/24
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til ordfører - Kommunestyret 10.9.2024 - Brukermedvirkning - Lillian Ofstad - PP
+
+Vedtak:
+Sak utsettes.
+
+Voteringer:
+- Behandling av sak 103/2024
+  - Utsettelse: ukjent

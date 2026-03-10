@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 50/24
+rodt_fremmet: False
+---
+
+Tittel: Forprosjekt for Verdal bibliotek og Kinogården
+
+Vedtak:
+Prosjektet med utvikling av lokaler for Verdal bibliotek og Kinogården vil kunne være et viktig kommunalt bidrag til sentrumsutviklingen. Kommunedirektøren bes legge inn utvikling av lokaler for Verdal bibliotek og Kinogården i kommende budsjett- og økonomiplanprosess.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

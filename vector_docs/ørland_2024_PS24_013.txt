@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/013
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til spørretimen - oppstart grunnundersøkelser Vallersund for prosjektering gang og sykkelvei
+
+Vedtak:
+Oppstart med innhenting av tilbud til gjennomføring av grunnundersøkelser planlegges gjennomført etter ferien i august. Avhengig av tilbud så planlegges undersøkelsen gjennomført i september/oktober.

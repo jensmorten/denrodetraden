@@ -1,0 +1,28 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 66/24
+rodt_fremmet: False
+---
+
+Tittel: PS 66/24 Vurdering av kommunale eiendommer som kan selges
+
+Vedtak:
+1.Følgende eiendommer legges ut for salg (uten Bjørklia):
+Adresse G.nr. B.nr. Areal Reguleringsformål
+Alstadhaugvegen 75 1 1 37000 Landbrukseiendom
+Byborgvegen 1 21 553 Bolig
+Torsveg 3 41 914 Offentlig
+Skogvegen 37 34 145 1054 Offentlig
+Skogvegen 37 34 225 586 Offentlig
+Saltkjelen 314 440 1611 Tjenesteyting
+Kjønstadmarka 1 6 174 1201 Bolig
+Eidsbotnvegen 13 27 1556 Bolig
+Nesheimvegen 13 103 6182 Bolig
+Nesheimvegen 13 68 251 Bolig
+Areal ved Gjemble barnehage 3 500 1273 Tjenesteyting
+2. Kommunedirektøren bes legge fram en sak med mandat for arbeid med en eiendomsstrategi for forvaltning og utvikling av kommunale eiendommer.
+
+Voteringer:
+- Avstemning om innstilling fra formannskapet om salg av kommunale eiendommer
+  - For: 35 stemmer

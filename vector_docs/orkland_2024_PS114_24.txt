@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 114/24
+rodt_fremmet: False
+---
+
+Tittel: 114/24 Avtale om justeringsrett for infrastruktur Rislia boligområde
+
+Vedtak:
+Kommunestyret vedtar vedlagte avtale om overføring av justeringsrett for infrastruktur mellom Orkland kommune og Rislia Utvikling AS. Utbetalingen til Rislia Utvikling AS for 60 % av merverdiavgiften foretas i henhold til mottatt signert oppstilling. Følgende budsjettjusteringer foretas: Orkland kommune overtar infrastruktur innen vann og avløp vederlagsfritt til en verdi av 22 588 000 kroner inklusive merverdiavgift. Fordelt på vann med 10 950 000 kroner og avløp 11 638 000 kroner. Kommunedirektøren gis fullmakt til å foreta detaljerte budsjettreguleringer.
+
+Voteringer:
+- Votering i Formannskap 10.12.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 17.12.2024
+  - Formannskapets innstilling: enstemmig

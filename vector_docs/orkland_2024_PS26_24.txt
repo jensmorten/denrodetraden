@@ -1,0 +1,19 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 26/24
+rodt_fremmet: False
+---
+
+Tittel: Innbyggerforslag – Folkeavstemning om batterifabrikken i Ustmarka
+
+Vedtak:
+Orkland kommune avholder ikke folkeavstemning om batterifabrikk Ustmarka.
+
+Alternative forslag:
+- INP v/Jan Egil Rømmesmo: Ønsket om folkeavstemming imøtekommes.
+
+Voteringer:
+- Votering om kommunedirektørens innstilling mot forslag fra INP v/Jan Egil Rømmesmo
+  - Kommunedirektørens innstilling: 32 stemmer
+  - Forslag fra INP v/Jan Egil Rømmesmo: 10 stemmer

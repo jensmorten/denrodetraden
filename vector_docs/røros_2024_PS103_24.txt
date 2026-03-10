@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 103/24
+rodt_fremmet: False
+---
+
+Tittel: Sentrumsnære industriarealer og fremtidens industripark i Røros: Sluttrapport og videre arbeid
+
+Vedtak:
+Kommunestyret tar sluttrapporten “Sentrumsnære industriarealer og fremtidens industripark i Røros” til etterretning og ber kommunedirektøren følge opp det videre arbeidet.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

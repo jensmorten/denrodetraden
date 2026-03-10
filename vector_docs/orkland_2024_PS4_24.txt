@@ -1,0 +1,11 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 4/24
+rodt_fremmet: False
+---
+
+Tittel: Grunngitt spørsmål fra Tore Slørdahl, Orkland Fremskrittsparti - Vedrørende batterifabrikken i Orkland
+
+Vedtak:
+Skriv inn vedtaket her

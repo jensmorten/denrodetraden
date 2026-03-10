@@ -1,0 +1,21 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/087
+rodt_fremmet: False
+---
+
+Tittel: Prosess med mulig overtagelse av Teksdalen vannverk - Orientering
+
+Vedtak:
+Saken tas til orientering
+Ørland kommune skal utrede konsekvensene av både
+• Fortsatt privat drift ved Teksdalen vannverk
+• Kommunal overtagelse av Teksdalen vannverk
+• Funnene skal sammenfattes i et notat med innstilling, som legges frem for planutvalget og kommunestyret.
+
+Voteringer:
+- Votering over forslag i kommunestyret 20.06.2024
+  - Innstilling fra Planutvalgets møte 18.06.24: 30 stemmer
+- Votering over forslag i planutvalget 18.06.2024
+  - Opprinnelig forslag: 9 stemmer

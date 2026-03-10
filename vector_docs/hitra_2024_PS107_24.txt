@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 107/24
+rodt_fremmet: False
+---
+
+Tittel: PS 107/24 Hitra kontrollutvalgs års- og møteplan for 2025
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets års- og møteplan 2025 til orientering.
+
+Voteringer:
+- Votering over innstillingen til kontrollutvalgets års- og møteplan for 2025
+  - For: enstemmig

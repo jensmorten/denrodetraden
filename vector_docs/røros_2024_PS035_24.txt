@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 035/24
+rodt_fremmet: False
+---
+
+Tittel: Lokal forskrift om skolerute i Rossen tjïelte- Røros kommune
+
+Vedtak:
+Den lokale forskriften legges ut på høring i 6 uker.
+
+Voteringer:
+- Formannskapets forslag til vedtak, 18.04.2024 - 038/24
+  - For: enstemmig

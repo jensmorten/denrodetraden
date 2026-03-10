@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS-131/24
+rodt_fremmet: False
+---
+
+Tittel: 131/24 Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og sakliste godkjennes. Sak om suppleringsvalg for Røroslista vil komme opp i førstkommende kommunestyre.
+
+Voteringer:
+- Godkjenning av innkalling og saksliste
+  - Godkjent: 26 stemmer

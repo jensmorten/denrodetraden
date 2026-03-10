@@ -1,0 +1,31 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 24/24
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til kommunestyret - Kjetil Blokkum - Høyre
+
+Vedtak:
+Svar på spørsmål om implementering av kunstig intelligens (KI) i Melhus kommune
+Dette er et viktig tema, spørsmålet er ikke om vi skal ta det i bruk, men hvordan.
+Kunstig intelligens (KI) har utvilsomt potensial til å transformere kommunale tjenester og effektivisere våre arbeidsprosesser.
+
+Spørsmål 1: Er Melhus kommune som organisasjon moden til å starte en implementering av kunstig intelligens?
+Melhus kommune som organisasjon er ikke moden til å starte en fullskala implementering av KI.
+
+Spørsmål 2: Har kommunen avdekket områder der man kan bruke kunstig intelligens for forbedring av dagens tilbud og tjenester?
+KI kan benyttes på flere områder for å forbedre våre tjenester med forenkling, automatisering og beslutningsstøttene datamodeller.
+I en tidlig fase er det en del enkle gevinster vi kan hente ut. Chatbots og virtuelle assistenter kan benyttes i ulike digitale søknadsprosesser, automatisere saksbehandling og f.eks. ta i bruk KI for visualisering og analyse av store datamengder.
+I en sluttfase kan vi bruke våre egne data til å understøtte beslutninger.
+
+Spørsmål 3: Hvilke konkrete skritt planlegges for å sikre en vellykket overgang til denne teknologien?
+En vellykket overgang til å bli en god datadreven virksomhet og for deretter kunne benytte KI krever en klar strategi. Regjeringen vil i løpet av våren slippe en ny nasjonal digitaliseringsstrategi og Melhus kommune skal utarbeide sin nye strategi basert på føringer i denne.
+Før implementeringen starter, bør Melhus kommune vurdere organisasjonens modenhetsgrad. Dette inkluderer en vurdering av kommunens digitale virksomhetsarkitektur, kompetanse på fagområdet og endring av arbeidsmetoder for å kunne benytte KI i større grad.
+Implementering av KI krever ressurser i form av omstilling, tid, kompetanseheving, prosjektstyring og ikke minst finansiering.
+Konkrete tiltak som er planlagt for å gjøre kommunen klar til å implementere KI innenfor dagens rammer.
+- Få orden i eget hus ved å innføre KS fellesløsning: Digiorden. Dette gjøres for å styrke vår digitale virksomhetsarkitektur.
+- Rydde opp og få større kontroll på egne data og sammenhenger mellom fagsystemer, innføre etiketter på dokumenter som klassifiserer dokumenter i kategorier som KI kan benytte.
+- Utarbeide og forankre ny digitaliseringsstrategi.
+- Deltakelse i regionale kompetansenettverk.

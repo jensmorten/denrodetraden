@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 141/24
+rodt_fremmet: False
+---
+
+Tittel: Interkommunalt politisk råd for Trondheimsregionen - oppløsning og uttreden
+
+Vedtak:
+Melhus kommunestyre vedtar at Melhus kommune trer ut av interkommunalt politisk råd for Trondheimsregionen. Kommunestyret delegerer ordfører fullmakt til å stemme for oppløsning av interkommunalt politisk råd for Trondheimsregionen.
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak
+  - For: Enstemmig

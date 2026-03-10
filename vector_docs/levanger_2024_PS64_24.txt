@@ -1,0 +1,24 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 64/24
+rodt_fremmet: True
+---
+
+Tittel: PS 64/24 Økonomireglement Levanger kommune
+
+Vedtak:
+Økonomireglement for Levanger kommune vedtas med følgende endring:
+- Punkt 9 om investeringer flyttes i sin helhet og uredigert til forslag til investeringsreglementet
+Økonomireglementet gjøres gjeldende fra 01.01.2025.
+
+Alternative forslag:
+- Lars Einar Karlsen (Rødt): Siste setning i andre avsnitt pkt 5.2 får følgende tillegg: Økonomirapportene skal inneholde andre relevante måltall for sykefraværsutviklingen, overliggere på sykehuset, innleie av vikarer, brudd på bemanningsnormen, lærernormen og når det er for få sykepleiere på jobb.
+
+Voteringer:
+- Avstemning over innstilling fra formannskapet om økonomireglementet med endring av punkt 9
+  - For: 35 stemmer
+  - Imot: 0 stemmer
+- Avstemning over tilleggsforslag fra Lars Einar Karlsen (Rødt) om tillegg i pkt 5.2 i økonomireglementet
+  - For: 10 stemmer
+  - Imot: 25 stemmer

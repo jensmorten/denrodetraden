@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/058
+rodt_fremmet: False
+---
+
+Tittel: Tariff 2024 - Uravstemning
+
+Vedtak:
+Ørland kommune stemmer JA til den fremforhandlede tariffrevisjon per 1. mai 2024
+Kommunestyret delegerer til kommunedirektøren å gjennomføre den digitale uravstemningen på vegne av Ørland kommune.
+
+Voteringer:
+- Votering over forslag
+  - For: 30 stemmer
+  - Mot: 0 stemmer

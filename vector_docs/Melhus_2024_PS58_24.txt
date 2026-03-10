@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 58/24
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon - Helseplattformen - Hege Anette Olsstad - FRP
+
+Vedtak:
+Interpellasjonen utsettes til neste kommunestyremøte
+
+Voteringer:
+- Behandling av interpellasjon om Helseplattformen
+  - Utsettelse til neste kommunestyre: ukjent

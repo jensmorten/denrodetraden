@@ -1,0 +1,18 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 14/24
+rodt_fremmet: False
+---
+
+Tittel: Regionalt næringsfond for Levanger og Verdal- revisjon av vedtekter
+
+Vedtak:
+Vedtekter for Levanger kommunes næringsfond vedtas.
+Kommunedirektøren delegeres ansvar for å forvalte fondet og å innvilge tilskudd i henhold til vedtektene til næringsfondet.
+Kommunedirektøren bes orientere om bruken av næringsfondet og ringvirkninger av dette årlig.
+Fondet skal prioritere prosjekt som bidrar til å skape et lavutslippssamfunn, med attraktive arbeidsplasser og en bærekraftig vekst.
+
+Voteringer:
+- Avstemning om vedtak i sak 14/2024
+  - For: Enstemmig

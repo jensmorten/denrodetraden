@@ -1,0 +1,26 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/025
+rodt_fremmet: False
+---
+
+Tittel: 24/025 Fastsetting av planprogram for kommunedelplan for klima og miljø
+
+Vedtak:
+Ørland kommune, ved kommunestyret, fastsetter med hjemmel i plan- og bygningsloven § 11-13 annet ledd første punktum planprogram for kommunedelplanen for klima og miljø.
+Ørland kommune søker medlemskap i organisasjonen Norske Kjernekraftkommuner, for at kommunen skal få bedre kjennskap til kjernekraft. Årlig kostnad kr. 20 000.
+
+Alternative forslag:
+- Bjørn Glørstad, Høyre: Ørland kommune søker medlemskap i organisasjonen Norske Kjernekraftkommuner, for at kommunen skal få bedre kjennskap til kjernekraft. Årlig kostnad kr. 20 000.
+
+Voteringer:
+- Votering over tilleggsforslag fremmet av representanten Bjørn Glørstad H
+  - For: 28 stemmer
+  - Mot: 3 stemmer
+- Votering over Planutvalget sin innstilling fra møte 19.03.24
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Planutvalgets votering over opprinnelig forslag 19.03.2024
+  - For: 9 stemmer
+  - Mot: 0 stemmer

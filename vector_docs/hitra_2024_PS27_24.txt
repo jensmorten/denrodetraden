@@ -1,0 +1,24 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 27/24
+rodt_fremmet: False
+---
+
+Tittel: Oppnevning av kandidater til interkommunal klagenemndt for ReMidt IKS
+
+Vedtak:
+Hitra kommunestyre oppnevner følgende kandidater til ReMidts interkommunale klagenemnd:
+• Fast representant: Jann Oddvar. Krangnes (R)
+• Personlig vararepresentant: Sigrid Helene Hanssen (H)
+
+Alternative forslag:
+- John Lernes: Hitra kommunestyre oppnevner følgende kandidater til ReMidts interkommunale klagenemnd:
+• Fast representant: Jann Oddvar. Krangnes (R)
+• Personlig vararepresentant: Sigrid Helene Hanssen (H)
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For: enstemmig
+- Votering over John Lernes sitt forslag til vedtak
+  - For: enstemmig

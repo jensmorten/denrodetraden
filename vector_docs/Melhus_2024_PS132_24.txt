@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 132/24
+rodt_fremmet: False
+---
+
+Tittel: Nye fastlegehjemler i Melhus kommune
+
+Vedtak:
+Melhus kommune oppretter en ny fastlegehjemmel ved Melhus legesenter pr. 01.07.2025. Utgifter som følge av rekruttering og drift av ny fastlegehjemmel innarbeides i økonomi og handlingsplan. Melhus kommune utvider en halv fastlegehjemmel ved Midt legesenter til en hel fastlegehjemmel fra 01.01.2025. Dette har ikke økonomiske konsekvenser for kommunen.
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak
+  - For: Enstemmig

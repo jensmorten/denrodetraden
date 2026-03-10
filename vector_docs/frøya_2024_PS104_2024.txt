@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 104/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 104/2024 Kommunalt Næringsfond - Halsen Marina - Klage på vedtak
+
+Vedtak:
+Klagen tas ikke til følge
+
+Voteringer:
+- Vedtak i Formannskapet sak 89/2024 den 27.08.2024
+  - Klagen tas ikke til følge: Enstemmig
+- Vedtak i Kommunestyret sak 104/2024 den 03.10.2024
+  - Klagen tas ikke til følge: Enstemmig

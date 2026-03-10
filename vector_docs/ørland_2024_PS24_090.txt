@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/090
+rodt_fremmet: False
+---
+
+Tittel: Forslag til planstrategi for Ørland kommune 2024 - 2027
+
+Vedtak:
+I medhold av plan- og bygningsloven § 10-1 vedtar kommunestyret å sende forslag til planstrategi for Ørland kommune 2024 – 2027 på høring og legge forslaget ut til offentlig ettersyn.
+
+Voteringer:
+- Votering over forslag
+  - For: 30 stemmer
+  - Mot: 0 stemmer

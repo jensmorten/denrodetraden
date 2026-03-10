@@ -1,0 +1,21 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 34/24
+rodt_fremmet: False
+---
+
+Tittel: Status Helseplattformen pr. mai 2024
+
+Vedtak:
+Saken tas til orientering
+
+Alternative forslag:
+- Gunnar Løvås (SV): På bakgrunn av brukerundersøkelsen som er framlagt ber kommunestyret kommunedirektøren snarest utrede en exit-mulighet der man i tillegg til økonomisk, praktisk og juridisk aspekt, har hovedvekt på faglig vurderinger og konsekvenser for de helhetlige helsetjenester for våre innbyggere. Det allerede initierte samarbeidet med Stjørdal kommune fortsetter. Kommunestyret ber om å få en slik sak før kommunestyrets budsjettbehandling 2024.
+
+Voteringer:
+- Avstemning om innstillingen
+  - For innstillingen: 35 stemmer
+- Avstemning om Løvås sitt tilleggsforslag
+  - For tilleggsforslaget: 9 stemmer
+  - Mot tilleggsforslaget: 26 stemmer

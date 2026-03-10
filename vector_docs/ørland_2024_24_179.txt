@@ -1,0 +1,28 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/179
+rodt_fremmet: True
+---
+
+Tittel: Arealstrategi for kommuneplanens arealdel
+
+Vedtak:
+Arealstrategien 2026-2038 Ørland kommune legges til grunn for videre arbeid med kommuneplanens arealdel.
+Lysøysund og Vallersund defineres som lokalsenter i arealstrategien.
+Vedtatt endring punkt 5.1: Nye boligområder og boligbygging lokaliseres fortrinnsvis i tilknytning til kommunesentra, langs aksen imellom men også der kommunen har skoler og barnehager. Eksisterende avsatte boligområder som ikke er utbygd, regulert eller som ikke oppfyller dette kriteriet vurderes tilbakeført til LNFområder.
+
+Alternative forslag:
+- Ole Edvard Antonsen, Rødt: Lysøysund og Vallersund defineres som lokalsenter i arealstrategien
+- Fredrik Sandness, Arbeiderpartiet: Endringsforslag til punkt 5.1: Nye boligområder og boligbygging lokaliseres fortrinnsvis i tilknytning til kommunesentra, langs aksen imellom men også der kommunen har skoler og barnehager. Eksisterende avsatte boligområder som ikke er utbygd, regulert eller som ikke oppfyller dette kriteriet vurderes tilbakeført til LNFområder.
+
+Voteringer:
+- Votering over tilleggsforslag om å definere Lysøysund og Vallersund som lokalsenter i arealstrategien
+  - For: 17 stemmer
+  - Mot: 14 stemmer
+- Votering over endringsforslag til punkt 5.1 om boligområder
+  - For: 29 stemmer
+  - Mot: 2 stemmer
+- Votering over opprinnelig forslag til arealstrategi
+  - For: 31 stemmer
+  - Mot: 0 stemmer

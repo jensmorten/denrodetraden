@@ -1,0 +1,20 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 100/24
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon om innkrevingen av bompenger på E6 Søberg/Hofstad
+
+Vedtak:
+Melhus kommunestyre krever at innkrevingen i bomstasjonene E6 Søberg og FV6612 Hofstad stanses senest når strekningen E6 Kvål–Melhus er ferdig nedbetalt etter nøkkelen for samlet bompengeandel for strekningen E6 Ulsberg–Melhus (37,8 prosent). Melhus kommunestyret ber ordfører om å innkalle til et felles møte med politisk og administrativ ledelse i kommunene Rennebu, Midtre Gauldal og Melhus og Trøndelag fylkeskommune med mål om å fremme en felles sak ovenfor Samferdselsdepartementet om revidering av bompengeproposisjon for E6 Ulsberg-Melhus med bakgrunn i de store fremdriftsendringene på strekningen og innføring av passeringstak for takstgruppe 1 på bomsnittene.
+
+Alternative forslag:
+- Einar Gimse-Syrstad (AP): Melhus kommunestyret ber ordfører om å innkalle til et felles møte med politisk og administrativ ledelse i kommunene Rennebu, Midtre Gauldal og Melhus og Trøndelag fylkeskommune med mål om å fremme en felles sak ovenfor Samferdselsdepartementet om revidering av bompengeproposisjon for E6 Ulsberg-Melhus med bakgrunn i de store fremdriftsendringene på strekningen og innføring av passeringstak for takstgruppe 1 på bomsnittene.
+
+Voteringer:
+- Votering over justert forslag til vedtak fra Marius Krogstad Aune (H)
+  - For: enstemmig
+- Votering over tilleggsforslag fra Einar Gimse-Syrstad (AP)
+  - For: enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 88/24
+rodt_fremmet: False
+---
+
+Tittel: Forslag til valg av skjønnsmedlemmer 2025 - 2028
+
+Vedtak:
+Kommunestyret foreslår vedlagte liste over kandidater (med unntak av Geir Gøran Mellingsæter) som skjønnsmedlemmer fra Melhus kommune 2025 – 2028.
+
+Voteringer:
+- Votering over valgnemndas forslag til vedtak
+  - For: Enstemmig

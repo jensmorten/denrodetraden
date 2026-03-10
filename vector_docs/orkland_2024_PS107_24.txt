@@ -1,0 +1,11 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 107/24
+rodt_fremmet: False
+---
+
+Tittel: 107/24 Budsjettregulering drift - desember 2024
+
+Vedtak:
+Kommunestyret vedtar budsjettendringene på drift og investering som foreslått i kommunedirektørens innstilling.

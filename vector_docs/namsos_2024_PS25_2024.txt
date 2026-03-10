@@ -1,0 +1,16 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 25/2024
+rodt_fremmet: False
+---
+
+Tittel: Lyngenfjorden lakseråd - valg av medlem for perioden 2023-2027
+
+Vedtak:
+Steinar Lyngstad, medlem
+Alfred Skogmo, varamedlem
+
+Voteringer:
+- Avstemning over formannskapets forslag til vedtak
+  - For forslaget: 33 stemmer

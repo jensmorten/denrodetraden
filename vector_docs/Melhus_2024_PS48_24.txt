@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 48/24
+rodt_fremmet: False
+---
+
+Tittel: Fritidskort - Verbalvedtak 5
+
+Vedtak:
+Melhus kommunestyre ber Rådmannen legge inn Fritidskort som et uprioritert tiltak i Økonomi- og handlingsplanen for 2025-2028.
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak
+  - For: Enstemmig

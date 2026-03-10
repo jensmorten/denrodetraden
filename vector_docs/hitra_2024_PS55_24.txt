@@ -1,0 +1,17 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 55/24
+rodt_fremmet: False
+---
+
+Tittel: Revidering av samarbeidsavtale med kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge - MNIUA
+
+Vedtak:
+Hitra kommunestyre vedtar revidert samarbeidsavtale med kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge.
+
+Voteringer:
+- Behandling i formannskapet 11.06.2024
+  - Enstemmig vedtatt: alle
+- Behandling i kommunestyret 21.06.2024
+  - Enstemmig vedtatt: alle

@@ -1,0 +1,31 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 84/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av møtefullmektige til forliksrådet for perioden 2025-2028
+
+Vedtak:
+Hitra kommunestyre vedtar følgende møtefullmektige til forliksrådet for perioden 01.01.2025-31.12.2028:
+• Jorun Leinan
+• Inge Dahlø
+• Dagfinn Herskedal
+
+Alternative forslag:
+- Sigrid Helene Hanssen (H), på vegne av H, FRP og PP: Hitra kommunestyre vedtar følgende møtefullmektige til forliksrådet for perioden 01.01.2025-31.12.2028:
+• Jorun Leinan
+• Inge Dahlø
+• Dagfinn Herskedal
+- Valgutvalget: Hitra kommunestyre vedtar følgende møtefullmektige til forliksrådet for perioden 01.01.2025-31.12.2028:
+• Jorun Fjeldvær
+• Inge Dahlø
+• Dagfinn Herskedal
+- Ordfører John Lernes (AP): Forslag om å utsette saken
+
+Voteringer:
+- Votering over forslag fra Sigrid Helene Hanssen (H) på vegne av H, FRP og PP om valg av møtefullmektige
+  - Forslaget fra Sigrid Helene Hanssen (H): enstemmig
+- Votering over utsettelsesforslag fremmet av Ordfører John Lernes (AP)
+  - Utsettelsesforslaget: enstemmig

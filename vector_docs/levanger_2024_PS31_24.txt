@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 31/24
+rodt_fremmet: False
+---
+
+Tittel: Endring av reglement for Levanger Ungdomsråd
+
+Vedtak:
+Forslag til reglement vedtas som forelagt.
+
+Voteringer:
+- Avstemning om forslag til reglement for Levanger Ungdomsråd
+  - For: Enstemmig

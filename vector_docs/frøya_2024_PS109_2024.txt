@@ -1,0 +1,21 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 109/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 109/2024 Økonomirapport 2. tertial - pr August 2024
+
+Vedtak:
+Kommunestyret tar tertialrapport nr 2 pr august 2024 til orientering
+Økonomiutvalget i samarbeid med konstituert økonomisjef utarbeider retningslinjer for framtidig økonomirapportering
+
+Alternative forslag:
+- mindretallet: Økonomiutvalget i samarbeid med konstituert økonomisjef utarbeider retningslinjer for framtidig økonomirapportering
+
+Voteringer:
+- Vedtak i formannskapet 24.09.2024
+  - For: Enstemmig
+- Vedtak i kommunestyret 03.10.2024
+  - For: Enstemmig

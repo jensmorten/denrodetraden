@@ -1,0 +1,22 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 17/24
+rodt_fremmet: False
+---
+
+Tittel: Endring av varamedlemmer i Hitra kontrollutvalg 2023-2027
+
+Vedtak:
+Hitra kommunestyre vedtar følgende nye vararepresentanter til Hitra kontrollutvalg for valgperioden 2023-2027:
+1. Stig Wraalsen (AP) trer inn som varamedlem nummer 4 av kontrollutvalget for gruppen AP, R, SP og SV fra dagens dato og ut inneværende valgperiode.
+2. Lina Klingenberg Måsøval trer inn som varamedlem nummer 1 av kontrollutvalget for gruppen H, FRP og PP fra dagens dato og ut inneværende valgperiode.
+
+Alternative forslag:
+- Sigrid Helene Hanssen (H) på vegne av H, FRP og PP: Lina Klingenberg Måsøval trer inn som varamedlem nummer 4 av kontrollutvalget for gruppen H, FRP og PP fra dagens dato og ut inneværende valgperiode.
+- Ordfører John Lernes (AP) på vegne av AP, R, SP og SV: Stig Wraalsen (AP) trer inn som varamedlem nummer 4 av kontrollutvalget for gruppen AP, R, SP og SV fra dagens dato og ut inneværende valgperiode.
+
+Voteringer:
+- Votering over forslag til nye varamedlemmer i Hitra kontrollutvalg
+  - Forslag fra Sigrid Helene Hanssen (H) på vegne av H, FRP og PP: enstemmig
+  - Forslag fra Ordfører John Lernes (AP) på vegne av AP, R, SP og SV: enstemmig

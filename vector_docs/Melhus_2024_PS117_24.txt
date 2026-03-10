@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 117/24
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling - Detaljreguleringsplan Melhustunet Sør, gnr/bnr 91/112 - PlanID 2022008
+
+Vedtak:
+Melhus kommune vedtar med hjemmel i plan- og bygningsloven § 12-12 Detaljreguleringsplan for Melhustunet Sør, gnr/bnr 91/112 (planid 2022008), som vist i vedlagte planbestemmelser, plankart og planbeskrivelse med vedlegg.
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak
+  - For: Enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 122/24
+rodt_fremmet: False
+---
+
+Tittel: Ny selskapsavtale for Konsek Trøndelag IKS
+
+Vedtak:
+Melhus kommune vedtar ny selskapsavtale for Konsek Trøndelag fra 1. januar 2025. Som 2. varamedlem i Konsek Midt-Norge IKS, representantskapet, velges Ingunn Nervik Isaksen.
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak
+  - For: Enstemmig

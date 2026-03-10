@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 113/24
+rodt_fremmet: False
+---
+
+Tittel: Deltakelse i Forsvarsforum Trøndelag
+
+Vedtak:
+Orkland kommune blir formelt medlem av Forsvarsforum Trøndelag (FFT), med de rettigheter og plikter som er nedfelt i vedlagte vedtekter. Den årlige avgiften på kr 50 000,- dekkes innenfor kommunedirektørens budsjett under beredskap, ansvar 111080, tjeneste 3390.
+
+Voteringer:
+- Votering i Formannskap 10.12.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 17.12.2024
+  - Formannskapets innstilling: enstemmig

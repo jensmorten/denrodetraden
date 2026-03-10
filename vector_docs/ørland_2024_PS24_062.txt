@@ -1,0 +1,40 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/062
+rodt_fremmet: False
+---
+
+Tittel: Valg av skjønnsmedlemmer for perioden 01.01.25 - 31.12.28
+
+Vedtak:
+Valg av skjønnsmedlemmer for perioden 01.01.25 - 31.12.28:
+SKJØNNSMEDLEMMER:
+1. Edmar Bakøy
+2. Kurt Sundet
+3. Andreas Oust Ledsaak
+4. Marit Grinnen
+5. Finn Olav Odde
+6. Hugo Beer-Johansen
+7. Ann Mari Eide
+8. Håvard Sundseth
+9. Ketil Myhre Ring
+10. Trine Døsvik
+11. Harriet De Ruiter
+12. Wenche Weisser
+13. Svein Erik Morseth
+14. Karin Aurora Fronth
+15. Jan Inge Standahl
+16. Julie Sundli
+Vi ber om at feil i listen over skjønnsmedlemmer blir korrigert. Medlem nr. 9 skal være Ketil Myhre Ring, ikke Rasmus Christiansen.
+
+Alternative forslag:
+- Arbeiderpartiet: Vi ber om at feil i listen over skjønnsmedlemmer blir korrigert. Medlem nr. 9 skal være Ketil Myhre Ring, ikke Rasmus Christiansen
+
+Voteringer:
+- Votering over forslag fra Arbeiderpartiet om korrigering av medlem nr. 9
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over innstilling fra arbeidsutvalget/valgnemnda fra møte 07.05.24
+  - For: 30 stemmer
+  - Mot: 0 stemmer

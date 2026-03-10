@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/018
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til spørretimen neste kommunestyremøte - eiendomsstrategi og videre føringer våren 2024
+
+Vedtak:
+Spørsmålet til spørretimen ble trukket, da saken kommer opp i dagens møte i sak 24/121.

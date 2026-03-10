@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 119/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 119/2024 Hovedutvalg ledernes orientering
+
+Vedtak:
+• Hovedutvalg for levekår orientering:
+- Revidering av kriterier til Grendalagsfond.
+- Ulike saker oversendt til KST blant annet I Gangarens kjølvann
+- Orientering om årets TV-Aksjon
+• Trafikksikkerhetsutvalget og Hovedutvalget for samfunn:
+- Orientering om tre klagesaker
+- Frøya svømmehall
+- Oppvekstsenteret og Nesset barnehage
+- Nabeita resenseanlegg
+- Asfaltering Mausund

@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 39/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv
+
+Vedtak:
+Som fast representant for Arbeiderpartiet i kommunestyret inntrer Bente Iren Gåsbakk. Som fast representant for Arbeiderpartiet i Utvalg for helse, oppvekst og kultur inntrer Jørn Ove Moen og som vara inntrer Marte Aune Høvik.
+
+Voteringer:
+- Votering om vedtak etter behandling av sak 39/2024
+  - Enstemmig vedtatt: alle

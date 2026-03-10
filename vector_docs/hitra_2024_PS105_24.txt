@@ -1,0 +1,21 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 105/24
+rodt_fremmet: False
+---
+
+Tittel: PS 105/24 Fritak fra folkevalgte verv i Hitra kommunes råd for personer med funksjonsnedsettelse 2023-2027
+
+Vedtak:
+Hitra kommunestyre, etter kommuneloven § 7-9, innvilger Elen Birgitte Hestnes fritak fra vervet som medlem og leder av Hitras råd for personer med funksjonsnedsettelse.
+Som nytt medlem rådet velges Odd Rune Øyen. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode.
+
+Alternative forslag:
+- Stig Atle Lervåg (H): ['Hitra kommunestyre, etter kommuneloven § 7-9, innvilger Elen Birgitte Hestnes fritak fra vervet som medlem og leder av Hitras råd for personer med funksjonsnedsettelse.', 'Som nytt medlem rådet velges Odd Rune Øyen. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode.']
+
+Voteringer:
+- Votering over innstilling fra formannskapet
+  - For: enstemmig
+- Votering over forslag fra Stig Atle Lervåg (H)
+  - For: enstemmig

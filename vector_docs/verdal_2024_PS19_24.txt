@@ -1,0 +1,17 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 19/24
+rodt_fremmet: False
+---
+
+Tittel: Regionalt næringsfond for Levanger og Verdal - revisjon av vedtekter
+
+Vedtak:
+Kommunestyret vedtar vedtekter for Verdal kommunes næringsfond.
+Kommunestyret delegerer til kommunedirektøren å forvalte fondet og å innvilge tilskudd i henhold til vedtektene til næringsfondet.
+Kommunestyret ber kommunedirektøren orientere om bruken av næringsfondet og ringvirkninger av dette årlig.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

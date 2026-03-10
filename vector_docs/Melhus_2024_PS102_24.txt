@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 102/24
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til ordfører - Kommunestyret 10.9.2024 - Pårørendeutvalg - Lillian Ofstad - PP
+
+Vedtak:
+Sak utsettes.
+
+Voteringer:
+- Behandling av sak 102/2024 - utsettelse
+  - Utsettelse: ukjent

@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 117/24
+rodt_fremmet: False
+---
+
+Tittel: 117/24 Kommunale mål og retningslinjer for forvaltning av hjortevilt 2025-2030
+
+Vedtak:
+Orkland kommune vedtar forslag til kommunale mål og retningslinjer for forvaltning av hjortevilt for perioden 2025-2030. Vedtaket gjøres med hjemmel i hjorteviltforskriftens §§ 3 og 4.
+
+Voteringer:
+- Votering i Hovedutvalg forvaltning 2023 - 2027 om kommunedirektørens innstilling
+  - Kommunedirektørens innstilling: 10 stemmer
+- Votering i Kommunestyre 17.12.2024 om Hovedutvalg forvaltning sin innstilling
+  - Hovedutvalg forvaltning sin innstilling: 41 stemmer

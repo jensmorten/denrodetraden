@@ -1,0 +1,20 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 57/24
+rodt_fremmet: False
+---
+
+Tittel: Kommunestyrets behandling av sak 57/2024 i møte den 27.05.2024
+
+Vedtak:
+Verdal kommunes årsregnskap 2023 vedtas med et regnskapsmessig resultat i balanse etter bruk av disposisjonsfond.
+Netto driftsresultat er 0,51 mill. kr.
+Disposisjonsfond 31.12.23 er 157,5 mill. kr.
+Samlet langsiktig gjeld pr 31.12.23 er 3,8 mrd. kr.
+Årsberetning for 2023 fra kommunedirektør vedtas.
+Finansrapportering i årsberetningen tas til orientering.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - Formannskapets innstilling: enstemmig

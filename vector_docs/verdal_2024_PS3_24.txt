@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 3/24
+rodt_fremmet: False
+---
+
+Tittel: Kommunale retningslinjer for startstønad til flyktninger
+
+Vedtak:
+Nye retningslinjer vedtas.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - Formannskapets innstilling: enstemmig

@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 32/24
+rodt_fremmet: False
+---
+
+Tittel: PS 32/24 Helhetlig risiko og sårbarhetsanalyse (ROS) - for Verdal kommune 2023-2027
+
+Vedtak:
+Kommunestyret tar saken til orientering.
+Kostnader ved utarbeidelse av ny helhetlig ROS innarbeides i kommende økonomiplaner.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

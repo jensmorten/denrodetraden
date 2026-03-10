@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 73/24
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av møteprotokoll
+
+Vedtak:
+Protokoll fra møte 27. mai 2024 godkjennes.
+
+Voteringer:
+- Godkjenning av protokoll fra møte 27. mai 2024
+  - For: enstemmig

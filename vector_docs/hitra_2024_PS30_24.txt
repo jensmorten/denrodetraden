@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 30/24
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding for Hitra eldreråd 2023
+
+Vedtak:
+Hitra kommunestyre tar årsmelding for Hitra eldreråd 2023 til orientering.
+
+Voteringer:
+- Behandling av innstilling til årsmelding for Hitra eldreråd 2023
+  - Enstemmig vedtatt: alle

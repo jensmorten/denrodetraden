@@ -1,0 +1,8 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 113/24
+rodt_fremmet: False
+---
+
+Tittel: Sak 113/2024 - Spørsmål om skolekretsgrenser og lokal forskrift

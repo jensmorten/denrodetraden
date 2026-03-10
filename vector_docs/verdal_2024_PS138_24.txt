@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 138/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av samevalgstyre
+
+Vedtak:
+Som samevalgstyre velges: valgstyret.
+Stemmestyrene som velges for neste års valg vil fungere som stemmestyre både for Stortingsvalget og Sametingsvalget.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

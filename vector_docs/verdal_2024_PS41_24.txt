@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 41/24
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding 2023 Rådet for likestilling av funksjonshemmede
+
+Vedtak:
+Årsmelding for rådet for likestilling av funksjonshemmede 2023 tas til orientering.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

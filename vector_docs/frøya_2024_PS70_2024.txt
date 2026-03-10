@@ -1,0 +1,21 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 70/2024
+rodt_fremmet: False
+---
+
+Tittel: Hovedprosjekt sitkagran - plan ettervekst
+
+Vedtak:
+{'organ': 'Hovedutvalg for samfunn', 'dato': '14.05.2024', 'vedtak': ['Frøya kommune rullerer plan ettervekst sitkagran og det blir laget nye roder for skoler og frivillige lag og organisasjoner', 'Frøya kommune vedtar Prosjektplan – Sitkagran etappe 2'], 'avstemming': 'Enstemmig'}
+{'organ': 'Kommunestyret', 'dato': '20.06.2024', 'vedtak': ['Saken utsettes til våren 2025 grunnet prosessen kommunen skal inn i, i forhold til betydelige nedtrekk.', 'Planen i henhold til ettervekst gjennomføres jamfør saksfremlegget.'], 'avstemming': 'Enstemmig'}
+
+Alternative forslag:
+- borgerlig gruppe: Saken utsettes til våren 2025 grunnet prosessen kommunen skal inn i, i forhold til betydelige nedtrekk. Planen i henhold til ettervekst gjennomføres jamfør saksfremlegget.
+
+Voteringer:
+- Vedtak i Hovedutvalg for samfunn om rullering av plan ettervekst og vedtak av prosjektplan Sitkagran etappe 2
+  - For: Enstemmig
+- Kommunestyrets vedtak om utsettelse av saken til våren 2025 og gjennomføring av planen i henhold til ettervekst
+  - For: Enstemmig

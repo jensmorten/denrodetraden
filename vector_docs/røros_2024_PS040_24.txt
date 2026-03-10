@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 040/24
+rodt_fremmet: False
+---
+
+Tittel: Verket Røros AS: Innstilling av 1 medlem til valgkomite og leder for valgkomite
+
+Vedtak:
+Som medlem til valgkomiteen i Verket Røros AS innstilles: «Medlem 1 Isak V. Busch» (3 års tjenestetid, på valg 2027). Som leder for valgkomiteen i Verket Røros AS innstilles: «Leder for valgkomiteen Isak V. Busch» (1 års tjenestetid som leder).
+
+Voteringer:
+- Valgutvalgets forslag til vedtak
+  - For: enstemmig

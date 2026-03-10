@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 75/2024
+rodt_fremmet: False
+---
+
+Tittel: Ny løsning for pasientadministrasjon, pasientjournal og samhandling mellom kommune- og spesialisthelsetjenesten
+
+Vedtak:
+
+
+Voteringer:
+- Avstemning om innstillingen om ikke å utløse opsjon for innføring av Helseplattformen og fullmakt til kommunedirektør for videre prosess.
+  - For: 33 stemmer

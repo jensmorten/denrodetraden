@@ -1,0 +1,19 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 126/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 126/2024 Terminering av avtale med Staten - Sletting av heftelser Sula
+
+Vedtak:
+Frøya kommune terminerer inngått avtale med Fiskeridepartementet fra 1969
+Frøya kommune sletter heftelser på eiendommer utskilt fra eiendom gnr. 64 og bnr. 1
+Frøya kommune anmoder Statens Kartverk om å slette heftelser på eiendommer utskilt fra eiendom med gnr. 64 og bnr. 1 i Frøya kommune
+
+Voteringer:
+- Vedtak i formannskapets behandling av sak 117/2024
+  - Enstemmig: alle
+- Vedtak i kommunestyrets behandling av sak 126/2024
+  - Enstemmig: alle

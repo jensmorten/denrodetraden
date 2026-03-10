@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 29/24
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding for Hitra brukerråd 2023
+
+Vedtak:
+Hitra kommunestyre tar årsmelding for Hitra brukerråd 2023 til orientering.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

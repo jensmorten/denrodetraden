@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/009
+rodt_fremmet: False
+---
+
+Tittel: Prøveordning med billigere billetter til ishall og svømmehall for ungdom u. 20 år
+
+Vedtak:
+Saken ble tatt til orientering
+
+Voteringer:
+- Kommunestyret tok saken til orientering
+  - Til orientering: enstemmig
+- Styret for Roret Ørland kulturforetak KF behandlet innstillingen
+  - Innstillingen vedtatt: enstemmig

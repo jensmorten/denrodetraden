@@ -1,0 +1,20 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 31/24
+rodt_fremmet: False
+---
+
+Tittel: Fastsettelse av planprogram for kulturmiljøplan
+
+Vedtak:
+Saken utsettes og sendes tilbake til hovedutvalg forvaltning for behandling.
+
+Alternative forslag:
+- ordfører Hanne Nyhus AP: Utsettelsesforslag. Saken mangler vedlegg. Saken sendes tilbake til hovedutvalg forvaltning for behandling.
+
+Voteringer:
+- Votering i Hovedutvalg Forvaltning 16.04.2024 om kommunedirektørens innstilling
+  - For: enstemmig
+- Votering i Kommunestyre 07.05.2024 om utsettelsesforslag fra ordfører Hanne Nyhus AP
+  - For utsettelse: enstemmig

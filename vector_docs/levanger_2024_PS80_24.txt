@@ -1,0 +1,30 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 80/24
+rodt_fremmet: False
+---
+
+Tittel: Belønning til studenter som flytter til Levanger
+
+Vedtak:
+Levanger kommune innfører en belønningsordning for studenter som flytter til kommunen.
+Studenten får 7.000 kroner i engangsstipend for å melde flytting slik at man telles som innbygger i Levanger 1. juli.
+Denne ordningen gjelder ikke for personer som før flytting bor i utlandet.
+Kommunedirektøren får fullmakt til å utarbeide detaljert regelverk for ordningen.
+Ordningen finansieres over det ekstra innbyggertilskuddet (rammetilskuddet) tilflyttingen gir.
+Ordningen tar til å gjelde fra våren 2025 for personer som har studert i Levanger i studieåret 2024/25.
+
+Alternative forslag:
+- Anita Ravlo Sand (Senterpartiet): Denne ordningen gjelder ikke hvis tilflytteren kommer fra kommunene Frosta, Verdal, Inderøy, Steinkjer eller Snåsa.
+- Gunnar Løvås (Sosialistisk venstreparti): Denne ordningen gjelder ikke for medlemskommunene i Innherred Regionråd samt Frosta og Stjørdal.
+
+Voteringer:
+- Votering over innstillingen om belønningsordning for studenter som flytter til Levanger
+  - For: 35 stemmer
+- Votering over tilleggsforslag fra Anita Ravlo Sand (SP) om unntak for tilflyttere fra Frosta, Verdal, Inderøy, Steinkjer eller Snåsa
+  - For: 14 stemmer
+  - Imot: 21 stemmer
+- Votering over tilleggsforslag fra Gunnar Løvås (SV) om unntak for medlemskommunene i Innherred Regionråd samt Frosta og Stjørdal
+  - For: 5 stemmer
+  - Imot: 30 stemmer

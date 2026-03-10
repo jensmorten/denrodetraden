@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/101
+rodt_fremmet: False
+---
+
+Tittel: Stortingsvalget og Sametingsvalget 2025
+
+Vedtak:
+Kommunestyret delegerer myndighet til oppnevning og suppleringsvalg av ansvarlige for stemmingen i det enkelte valglokale til valgstyret
+Oppnevning av valgansvarlig og valgmedarbeidere foretas av valgstyret
+Stortingsvalget og Sametingsvalget 2025 gjennomføres mandag 8. september 2025
+Valget gjennomføres med elektronisk avkryssing i manntallet på valgdagen
+Dagens stemmekretsinndeling opprettholdes
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 31 stemmer

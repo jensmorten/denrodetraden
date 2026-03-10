@@ -1,0 +1,16 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 053/24
+rodt_fremmet: False
+---
+
+Tittel: Plan for eierskapskontroll 2024 - 2028
+
+Vedtak:
+Kommunestyret vedtar plan for eierskapskontroll 2024-2028 og slutter seg til kontrollutvalgets prioriteringer i planen.
+Kontrollutvalget gis fullmakt til å gjøre endringer i planen.
+
+Voteringer:
+- Votering over Kontrollutvalgets forslag til vedtak
+  - For: enstemmig

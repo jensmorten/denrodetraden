@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 2/24
+rodt_fremmet: False
+---
+
+Tittel: Sak 2/2024
+
+Vedtak:
+Kommunestyrets vedtak i sak 79/2023 opprettholdes
+
+Voteringer:
+- Avstemning om opprettholdelse av vedtak i sak 79/2023 og sending av saken til Statsforvalteren med innstilling om avvisning
+  - For: Enstemmig

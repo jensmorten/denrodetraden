@@ -1,0 +1,19 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 063/24
+rodt_fremmet: False
+---
+
+Tittel: Bygging av Rørosbarnehagene
+
+Vedtak:
+Investeringsbeløpet for Rørosbarnehagene økes til 176,1 millioner kr inklusive mva. 140,9 millioner eksklusive mva. Nettobeløpet på 34,9 millioner finansieres med økt låneopptak.
+
+Voteringer:
+- Votering om habilitet for repr. Tamnes
+  - Inhabil: enstemmig
+- Votering om habilitet for repr. Kjellmark
+  - Inhabil: enstemmig
+- Votering om formannskapets innstilling
+  - For formannskapets innstilling: 26 stemmer

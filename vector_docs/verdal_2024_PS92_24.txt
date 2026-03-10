@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 92/24
+rodt_fremmet: False
+---
+
+Tittel: Omdanning av samarbeid - Vertskommunesamarbeid innen geodata og oppmåling
+
+Vedtak:
+Kommunestyret godkjenner avtale om vertskommunesamarbeid innen geodata og oppmåling mellom Levanger - og Verdal kommune.
+Avtalen gjøres gjeldende når den er vedtatt i begge kommuner og undertegnet av kommunedirektørene.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

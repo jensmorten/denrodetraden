@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 12/2024
+rodt_fremmet: False
+---
+
+Tittel: Kontrollutvalgets årsrapport - 2023
+
+Vedtak:
+Kommunestyret tar Kontrollutvalgets årsrapport for 2023 til orientering
+
+Voteringer:
+- Avstemning om innstilling: Kommunestyret tar Kontrollutvalgets årsrapport for 2023 til orientering
+  - For forslaget: 34 stemmer

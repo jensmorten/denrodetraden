@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 46/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om kommunal garanti for lån til etablering av klubbhus Verdal Idrettslag
+
+Vedtak:
+
+
+Voteringer:
+- Votering over formannskapets innstilling om kommunal garanti for lån til Verdal Idrettslag.
+  - For: Enstemmig

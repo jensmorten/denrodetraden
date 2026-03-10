@@ -1,0 +1,11 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 45/24
+rodt_fremmet: False
+---
+
+Tittel: Ruspolitisk handlingsplan 2024-2028
+
+Vedtak:
+Saken utsettes til behandling i utvalget

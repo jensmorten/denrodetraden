@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 15/24
+rodt_fremmet: False
+---
+
+Tittel: PS 15/24 Ombygging inngangsparti NAV - Endring av finansiering
+
+Vedtak:
+Investeringsramme for ombygging av inngangsparti NAV opprettholdes på kr. 700.000,-
+Finansiering endres til kr. 427.000 finansiert av statlig tilskudd og kr. 273.000 finansiert med låneopptak og merverdiavgiftskompensasjon.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

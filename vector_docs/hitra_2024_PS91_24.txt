@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 91/24
+rodt_fremmet: False
+---
+
+Tittel: PS 91/24 Meldingssak - økonomisk mellomrapportering per oktober 2024
+
+Vedtak:
+Hitra kommunestyre tar meldingen om økonomisk mellomrapportering per oktober 2024 til orientering.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

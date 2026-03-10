@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 84/24
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering Hopla renseanlegg - sluttbehandling
+
+Vedtak:
+Detaljregulering for Hopla renseanlegg, versjon revidert etter høring, vedtas i henhold til plan- og bygningslovens § 12-12.
+
+Voteringer:
+- Votering over innstilling om detaljregulering for Hopla renseanlegg
+  - For: 35 stemmer

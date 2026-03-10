@@ -1,0 +1,8 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/020
+rodt_fremmet: False
+---
+
+Tittel: Ny versjon av signert protokoll fra Ekstraordinær generalforsamling i Helseplattformen AS 26.09.2024 - for publisering på nett

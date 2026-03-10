@@ -1,0 +1,8 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 2/2024
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon om skoletilbudet i Namsos kommune for skoleåret 2024/2025

@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 10/2024
+rodt_fremmet: False
+---
+
+Tittel: Planstrategi for Namsos kommune 2024 - 2027 introduksjon, prosess og oppstart
+
+Vedtak:
+
+
+Voteringer:
+- Avstemning over kommunedirektørens forslag til vedtak
+  - For: 33 stemmer

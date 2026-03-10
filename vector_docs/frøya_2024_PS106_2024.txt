@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 106/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 106/2024 SØKNAD OM KJØP AV GNR 30 BNR 10 I FRØYA, NESSET KAI
+
+Vedtak:
+Kommunestyret avslår søknad om kjøp og salg av Nesset Kai Gnr 30 Bnr 10
+Punkt 2 falt med 23 stemmer.
+
+Alternative forslag:
+- borgeli gruppe: Kommunestyret avslår søknad om kjøp og salg av Nesset Kai Gnr 30 Bnr 10
+
+Voteringer:
+- Kommunestyrets behandling av sak 106/2024 i møte den 03.10.2024
+  - Avslå søknad om kjøp og salg: 23 stemmer
+  - Punkt 2 (flere opplysninger om tilstand og kostnader) falt: 0 stemmer

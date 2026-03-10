@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 160/2024
+rodt_fremmet: False
+---
+
+Tittel: Disposisjonsfondet 2024 - fordeling pr ramme
+
+Vedtak:
+Frøya kommune vedtar rammefordeling av disposisjonsfondet som vist i saksframlegget
+
+Voteringer:
+- Formannskapets behandling av sak 144/2024 i møte den 03.12.2024
+  - For: Enstemmig
+- Kommunestyrets behandling av sak 146/2024 i møte den 16.12.2024
+  - For: Enstemmig

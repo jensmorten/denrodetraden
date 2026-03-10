@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 037/24
+rodt_fremmet: False
+---
+
+Tittel: Røros Kultur og Konferansesenter AS: Valg av 1 medlem til valgkomite og leder for valgkomiteen
+
+Vedtak:
+
+
+Voteringer:
+- Valgutvalgets forslag til vedtak
+  - For: enstemmig

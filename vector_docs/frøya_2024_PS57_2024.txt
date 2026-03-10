@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 57/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 57/2024 Valg av nytt kontrollutvalg
+
+Vedtak:
+
+
+Voteringer:
+- Kommunestyrets behandling av sak 57/2024 i møte den 30.05.2024
+  - Vedtak som innstilling: enstemmig

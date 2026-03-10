@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/180
+rodt_fremmet: False
+---
+
+Tittel: Plansak for offentlig ettersyn - Kommunedelplan for naturmangfold
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 11-14 vedtar Ørland kommune ved kommunestyret å legge kommunedelplan for naturmangfold ut til høring og offentlig ettersyn.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 30 stemmer

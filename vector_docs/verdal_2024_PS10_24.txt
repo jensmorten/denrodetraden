@@ -1,0 +1,8 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 10/24
+rodt_fremmet: False
+---
+
+Tittel: PS 10/24 Spørsmål til ordfører fra Anne Kolstad (SV) - informasjon til politiske parti

@@ -1,0 +1,17 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 039/24
+rodt_fremmet: False
+---
+
+Tittel: Røros Parkering AS: Valg av 1 medlem og 1 varamedlem til valgkomiteen
+
+Vedtak:
+
+
+Voteringer:
+- Kommunestyret vedtok enstemmig å ta spørsmålet om habilitet til etterretning, og erklærte representantene habil.
+  - For: enstemmig
+- Valgutvalgets forslag til valg av medlem og varamedlem til valgkomiteen ble votert over.
+  - For valgutvalgets forslag: enstemmig

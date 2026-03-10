@@ -1,0 +1,30 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 139/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 139/2024 Valg av forliksråd for perioden 01.01.2025 - 31.12.2028
+
+Vedtak:
+Følgende personer velges til forliksråd i perioden 01.01.2025 – 31.12.2028
+Medlemmer:
+Per Ole Sandvik
+Johan Pettersen
+Marthe Søbstad
+Varamedlemmer:
+Dordi Hammer
+Nils Reidar Burøy
+Mona Elisabeth Skarsvåg
+Valg av Formann:
+Per Ole Sandvik
+Følgende personer velges til møtefullmektige til forliksrådet:
+Kirsten R. Antonsen
+Pål Terje Bekken
+Sonja Dybvik
+Zivile Mickuniene
+
+Voteringer:
+- Vedtak av valg av forliksråd for perioden 01.01.2025 - 31.12.2028
+  - For: Enstemmig

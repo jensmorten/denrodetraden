@@ -1,0 +1,11 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 61/24
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til ordfører - El-sparkesykler - Lillian Ofstad - Pp
+
+Vedtak:
+Spørsmål besvart i møtet. Ordfører redegjorde for pilotprosjektet mellom Melhus kommune, AtB og Tier, gjeldende trafikkregler for el-sparkesykler, ansvar for førere og foreldre, samt mulige tiltak kommunen kan iverksette i samarbeid med leverandør for å regulere fart og parkering. Det oppfordres til tilbakemeldinger fra innbyggerne og bruk av apper for å melde feilparkeringer. Kommunen anbefaler oppmerking av parkeringsplasser for sparkesykler fremfor å begrense tilbudet.

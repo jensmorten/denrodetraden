@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 103/24
+rodt_fremmet: False
+---
+
+Tittel: 103/24 Rapport per september 2024 for Orklandbadet KF
+
+Vedtak:
+Kommunestyret tar rapport per september 2024 for Orklandbadet KF til orientering
+
+Voteringer:
+- Behandling i Formannskap 10.12.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Behandling i Kommunestyre 17.12.2024
+  - Formannskapets innstilling: enstemmig

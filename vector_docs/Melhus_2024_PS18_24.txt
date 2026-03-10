@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 18/24
+rodt_fremmet: False
+---
+
+Tittel: Tilskudd til systematisk identifikasjon og oppfølging av utsatte barn og unge
+
+Vedtak:
+Melhus kommunestyre stiller seg positiv til å benytte tilskuddsordningen for å videreutvikle tjenestene rettet mot gravide, barn, unge og foresatte, og styrke tidlig innsats og oppfølging av utsatte barn og unge, og tar saken til orientering.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: Enstemmig

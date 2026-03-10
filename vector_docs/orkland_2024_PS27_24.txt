@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 27/24
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport Barne- og familietjenesten 2023
+
+Vedtak:
+Kommunestyret tar tilstandsrapport fra barne- og familietjenesten til orientering
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 16.04.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 07.05.2024
+  - Hovedutvalg helse, oppvekst og kultur sin innstilling: 42 stemmer

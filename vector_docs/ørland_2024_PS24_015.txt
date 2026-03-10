@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/015
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon til kommunestyremøte 20.06.24 - økonomiprosjektet og redusert drift ved institusjonskjøkken
+
+Vedtak:
+Saken ble trukket fra sakslisten av forslagsstiller Fredrik Sandness AP.

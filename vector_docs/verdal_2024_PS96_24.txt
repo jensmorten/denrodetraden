@@ -1,0 +1,8 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 96/24
+rodt_fremmet: False
+---
+
+Tittel: PS 96/24 Spørsmål fra Trine Reitan (AP) - Forbregdsmyra

@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 15/24
+rodt_fremmet: False
+---
+
+Tittel: Fartsgrense Industriparkveien og Jøsnøyveien
+
+Vedtak:
+Hitra kommunestyre vedtar å endre fartsgrensen til 60km/t på strekningene Industriparkveien og Jøsnøyveien.
+
+Voteringer:
+- Behandling av innstilling fra trafikksikkerhetsutvalget
+  - For: enstemmig

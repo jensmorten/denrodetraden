@@ -1,0 +1,29 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/099
+rodt_fremmet: True
+---
+
+Tittel: Høring om inntaksordning til offentlige videregående skoler i Trøndelag
+
+Vedtak:
+Høring inntaksordning videregående opplæring.
+1. Ørland kommune mener det er hensiktsmessig å videreføre inntak til offentlige videregående skoler i Trøndelag basert på nærskoleprinsippet, et geografisk styrt inntak. I dag har elever i Ørland tilgang på to nærskoler. Disse er definert av fylkestinget og er Fosen videregående skole og Åfjord videregående skoler.
+2. Ørland kommune ser det som hensiktsmessig at dette utvides til inntak basert på regioninndelingen i Trøndelag i syv regioner. Dette innebærer at Fosen blir en region bestående av Fosen vgs., Åfjord vgs. og Johan Boyer vgs. Det er en forutsetning at Trøndelag fylkeskommune legger til rette for et godt og tilpasset kollektivtilbud mellom de tre skolene.
+3. Ørland kommune vil påpeke at elever som søker landslinjer og landsdekkende tilbud ved Fosen Videregående skole kommer utenom denne ordningen slik de gjør i dag.
+
+Alternative forslag:
+- Ole Edvard Antonsen, Rødt: Endringsforslag spørsmål 1: Kommentaren i pkt 1 endres til: Trøndelag bør beholde dagens inntaksordning. Dagens ordningen ble etablert i 2004 der daværende Sør-Trøndelag ble delt opp i inntaksområder. Siden da har elevene fortrinnsvis fått skoleplass på sin nærskole. Dette har medført trygghet og forutsigbarhet for elevene. Ordningen har også bidratt til å skape forutsigbarhet i ressursfordelingen og planleggingen av tilbud ute på de videregående skolene. Den har videre bidratt til å bevare den desentraliserte skolestrukturen. Det bør også tillegges stor vekt at både Ungdommens Fylkesutvalg og Utdanningsforbundet ønsker å beholde dagen inntaksordning.
+- Ole Edvard Antonsen, Rødt: Endringsforslag spørsmål 2: Beskrivelsen av konsekvensene i spørsmål 2 endres til: En ordning med sju inntaksregioner fører til at Johan Bojer VGS også blir nærskole. Kommunikasjonsmessig er dette uheldig for ungdommer i Ørland. Fra Bjugn blir det avreise 0627 og man er ikke tilbake før 1802. Dette kan føre til at flere ungdommer får urimelig lang reisetid eller må flytte på hybel, noe som er i strid med forutsetningene for å endre inntaksordningen.
+- Ole Edvard Antonsen, Rødt: Endringsforslag spørsmål 3: Begrunnelsen i spørsmål 3 endres til: Oslo Met har gjennomført en utredning som viser at karakterbasert inntak gir minst sannsynlighet for å komme inn på førsteønsket. Det må også tas i betraktning at når det ble foreslått i innføre karakterbasert inntak i 2019 møtte forslaget massiv motstand. NHO, LO, KS og fylkeskommunene, Statped og Helsedirektoratet, forskermiljøene, foreldreutvalget for grunnopplæring (FUG) og lærerorganisasjonene var alle kritiske. NTNU har undersøkt osloskolen og sett på konsekvensene av karakterbasert opptak. Resultatene viser blant annet at karakterbasert inntak bidrar til ulikhet mellom skoler som forsterker en segregering basert på etnisitet og sosial klasse, i stedet for å bidra til likeverd.
+- Ole Edvard Antonsen, Rødt: Endringsforslag spørsmål 4: Begrunnelse endres til: Oslo Met har gjennomført en utredning som viser at karakterbasert inntak gir minst sannsynlighet for å komme inn på førsteønsket. Det må også tas i betraktning at når det ble foreslått i innføre karakterbasert inntak i 2019 møtte forslaget massiv motstand. NHO, LO, KS og fylkeskommunene, Statped og Helsedirektoratet, forskermiljøene, foreldreutvalget for grunnopplæring (FUG) og lærerorganisasjonene var alle kritiske. NTNU har undersøkt osloskolen og sett på konsekvensene av karakterbasert opptak. Resultatene viser blant annet at karakterbasert inntak bidrar til ulikhet mellom skoler som forsterker en segregering basert på etnisitet og sosial klasse, i stedet for å bidra til likeverd. Hvis Fosen vgs ikke ligger i samme inntaksregion som Guri Kunna VGS fører til at de av våre elever som ønsker å få utdanning i blå sektor må til skoler med svært lang reisevei.
+- Ole Edvard Antonsen, Rødt: Endringsforslag spørsmål 5: Begrunnelsen endres til: Oslo Met har gjennomført en utredning som viser at karakterbasert inntak gir minst sannsynlighet for å komme inn på førsteønsket. Det må også tas i betraktning at når det ble foreslått i innføre karakterbasert inntak i 2019 møtte forslaget massiv motstand. NHO, LO, KS og fylkeskommunene, Statped og Helsedirektoratet, forskermiljøene, foreldreutvalget for grunnopplæring (FUG) og lærerorganisasjonene var alle kritiske. NTNU har undersøkt Osloskolen og sett på konsekvensene av karakterbasert opptak. Resultatene viser blant annet at karakterbasert inntak bidrar til ulikhet mellom skoler som forsterker en segregering basert på etnisitet og sosial klasse, i stedet for å bidra til likeverd.
+- Hallgeir Grøntvedt, Senterpartiet (på vegne av SP, H, INP, FRP og V): 1. Ørland kommune mener det er hensiktsmessig å videreføre inntak til offentlige videregående skoler i Trøndelag basert på nærskoleprinsippet, et geografisk styrt inntak. I dag har elever i Ørland tilgang på to nærskoler. Disse er definert av fylkestinget og er Fosen videregående skole og Åfjord videregående skoler.
+2. Ørland kommune ser det som hensiktsmessig at dette utvides til inntak basert på regioninndelingen i Trøndelag i syv regioner. Dette innebærer at Fosen blir en region bestående av Fosen vgs., Åfjord vgs. og Johan Boyer vgs. Det er en forutsetning at Trøndelag fylkeskommune legger til rette for et godt og tilpasset kollektivtilbud mellom de tre skolene.
+3. Ørland kommune vil påpeke at elever som søker landslinjer og landsdekkende tilbud ved Fosen Videregående skole kommer utenom denne ordningen slik de gjør i dag.
+
+Voteringer:
+- Votering over forslag til høringssvar om inntaksordning til offentlige videregående skoler i Trøndelag
+  - Innstilling fra møte i Formannskapet 15.08.24: 12 stemmer
+  - Alternativt forslag i sak 24/099 på vegne av SP, H, INP, FRP og V: 19 stemmer

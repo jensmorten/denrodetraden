@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 135/24
+rodt_fremmet: False
+---
+
+Tittel: Revidering av finansreglementet
+
+Vedtak:
+Kommunestyret vedtar revidert finansreglement datert 19.11.2024, jf. vedlegg 1.
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak
+  - For: Enstemmig

@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 109/24
+rodt_fremmet: False
+---
+
+Tittel: Kjøp av nytt AV-utstyr kommunestyresal
+
+Vedtak:
+Kommunestyret vedtar investeringsramme for oppgradering av nytt AV-anlegg i kommunestyresal (prosjektnr. 50063) med 1 200 000 kroner. Investeringen finansieres ved bruk av kommunedirektørens fond. Kommunedirektøren gis fullmakt til å foreta de nødvendige detaljerte budsjettendringer.
+
+Voteringer:
+- Votering i Formannskap 10.12.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 17.12.2024
+  - Formannskapets innstilling: enstemmig

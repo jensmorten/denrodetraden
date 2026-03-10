@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 62/24
+rodt_fremmet: False
+---
+
+Tittel: Sak 62/2024 - Bestandsplan for elg for Øvre Verdal Tildelingsområde 2024–2027
+
+Vedtak:
+Kommunestyret vedtar bestandsplan for elg for Øvre Verdal Tildelingsområde i perioden 2024 – 2027, som fremlagt
+
+Voteringer:
+- Votering over innstillingen fra utvalg for utmarkssaker
+  - For: enstemmig

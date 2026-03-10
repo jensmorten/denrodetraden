@@ -1,0 +1,20 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 1/24
+rodt_fremmet: False
+---
+
+Tittel: Ungdomsrådets Årsmelding 2023
+
+Vedtak:
+Kommunestyret tar saken til orientering med følgende tillegg om at Ungdomsrådet møteprotokoller legges ut på kommunes møtekalender på lik linje med protokollen fra andre råd og utvalg.
+
+Alternative forslag:
+- Jørn Ove Moen (Ap) på vegne av Ap: Ungdomsrådets møteprotokoller legges ut på kommunens møtekalender på lik linje med protokollene fra andre råd og utvalg.
+
+Voteringer:
+- Votering om at saken tas til orientering.
+  - For: enstemmig
+- Votering om tillegg om at Ungdomsrådets møteprotokoller legges ut på kommunens møtekalender.
+  - For: enstemmig

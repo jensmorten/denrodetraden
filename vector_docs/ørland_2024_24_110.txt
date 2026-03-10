@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/110
+rodt_fremmet: False
+---
+
+Tittel: Uttreden fra fast verv som folkevalgt i KRMNF ifm flytting - nyvalg
+
+Vedtak:
+Viggo Rødsjø velges som fast medlem i rådet.
+
+Voteringer:
+- Votering over forslag: Nytt medlem i KRMNF
+  - For: 31 stemmer
+  - Mot: 0 stemmer

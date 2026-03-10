@@ -1,0 +1,29 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 067/24
+rodt_fremmet: True
+---
+
+Tittel: Røros kultur- og konferansesenter AS: Valg av valgkomitè
+
+Vedtak:
+Valgkomite for Røros kultur- og konferansesenter AS:
+Hans Petter Kvikne velges som medlem 1 til valgkomiteen, 1 års tjenestetid, på valg 2025
+Eva Nordfjell velges som medlem 2 til valgkomiteen, 2 års tjenestetid, på valg i 2026.
+Kjell Morten Hansen velges som medlem 3 til valgkomiteen, 3 års tjenestetid, på valg i 2027.
+Som valgkomiteens leder for ett år velges Kjell Morten Hansen.
+
+Alternative forslag:
+- Stig-Arvid Leinum (R): Rødt Røros vil nominere Johnny Johanssen som medlem til til Valgkomitéen.
+- Henrik Grønn (Ap): Eva Nordfjell velges som medlem 2 til valgkomiteen, 2 års tjenestetid, på valg i 2026.
+Kjell Morten Hansen velges som medlem 3 til valgkomiteen, 3 års tjenestetid, på valg i 2027.
+Som valgkomiteens leder for ett år velges Kjell Morten Hansen
+- Per Arne Gjelsvik (V): Hans Petter Kvikne
+
+Voteringer:
+- Votering over medlem nr. 1. forslagene Hans Petter Kvikne og Johnny Johansen.
+  - Hans Petter Kvikne: 25 stemmer
+  - Johnny Johansen: 2 stemmer
+- Votering over representant Grønn sitt forslag om valg av medlem 2, medlem 3 og leder.
+  - Grønn sitt forslag: enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 101/24
+rodt_fremmet: False
+---
+
+Tittel: PS 101/24 Konsek Trøndelag IKS - Ny selskapsavtale
+
+Vedtak:
+Hitra kommunestyre vedtar ny selskapsavtale for Konsek Trøndelag IKS fra 01. januar 2025.
+
+Voteringer:
+- Behandling av innstilling fra formannskapet
+  - For: enstemmig

@@ -1,0 +1,21 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 100/24
+rodt_fremmet: True
+---
+
+Tittel: Møteplan for Orkland kommune 2025
+
+Vedtak:
+Vedlagte møteplan for 2025 vedtas.
+
+Alternative forslag:
+- Rødt, Pensjonistpartiet og Frp ved Hans Peter Verme: Rødt, Pensjonistpartiet og Frp foreslår at møtestart for politiske møter i Orkland kommune i 2025 settes til kl 10.00.
+- Rødt, Pensjonistpartiet og Frp ved Hans Peter Verme: Rødt, Pensjonistpartiet og Frp foreslår at møtestart for kommunestyremøtene i Orkland kommune i 2025 settes til 10.00.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling og forslag fra Rødt, Pensjonistpartiet og Frp
+  - Kommunedirektørens innstilling: 42 stemmer
+  - Forslag 1 fra Rødt, Pensjonistpartiet og Frp: 19 stemmer
+  - Forslag 2 fra Rødt, Pensjonistpartiet og Frp: 19 stemmer

@@ -1,0 +1,22 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 36/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 36/2024 Ordførers orientering
+
+Vedtak:
+Vedtak: Innstillingen ble vedtatt med 15 mot 8 stemmer
+
+Alternative forslag:
+- Arbeiderpartiet: Administrasjonen utreder muligheten for et prøveprosjekt med 30 timers arbeidsuke for barnehagene i Frøya kommune i samarbeid med ansatte og fagforeninger
+
+Voteringer:
+- Votering over innstilling om å avvise interpellasjonen og ikke sette saken på sakskartet
+  - For: 15 stemmer
+  - Imot: 8 stemmer
+- Votering over forslag om å utrede prøveprosjekt med 30 timers arbeidsuke for barnehagene
+  - For: 8 stemmer
+  - Imot: 15 stemmer

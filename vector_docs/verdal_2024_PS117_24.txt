@@ -1,0 +1,27 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 117/24
+rodt_fremmet: False
+---
+
+Tittel: PS 117/24 Høring - Forskrift om skolekretsgrenser i Verdal kommune
+
+Vedtak:
+1. Kommunestyret ønsker å videreføre skolekretsgrensene som vedtatt i forskrift av 01.08.2022, med unntak av endringer som beskrevet i saken for barneskolene i sentrum, og med det at Leksdal skole og Stiklestad skole slås sammen f.o.m. 01.08.2025. Med disse endringene sendes forslag til Forskrift om skolekretsgrenser i Verdal kommune ut på høring med høringsfrist på 8 uker.
+2. Kommunestyret har i sitt forslag til forskrift om skolekretsgrenser lagt særlig vekt på hvilken skole som ligger nærmest heimen. I noen tilfeller gir kretsgrensene, etter en helhetsvurdering, en nærskole til heimene som likevel ikke er nærmest, i fysisk avstand. Når det gjelder overgangen til ungdomsskole ønsker kommunestyret at barneskolene ikke skal deles i ulike ungdomsskolekretser. Kommunestyret ønsker at Stiklestad barneskole skal sokne til Vuku ungdomsskole. Dette begrunnet med historisk tilhørighet og kapasitetshensyn. Det vektlegges at Kunnskapsdepartementet i forarbeidene til ny opplæringslov mener at kommunene skal kunne ta hensyn til kapasiteten til skolene – også når skolene ikke er fulle. Dette bl.a. for å kunne utnytte personalressursene og kapasiteten i skolebyggene på en effektiv måte.
+
+Alternative forslag:
+- SP v/Hilde Daleng: 2. Kommunestyret har i sitt forslag til forskrift om skolekretsgrenser lagt særlig vekt på hvilken skole som ligger nærmest heimen. I noen tilfeller gir kretsgrensene, etter en helhetsvurdering, en nærskole til heimene som likevel ikke er nærmest, i fysisk avstand. Når det gjelder overgangen til ungdomsskole ønsker kommunestyret at barneskolene ikke skal deles i ulike ungdomsskolekretser. Kommunestyret ønsker at Stiklestad barneskole skal sokne til Vuku ungdomsskole. Dette begrunnet med historisk tilhørighet og kapasitetshensyn. Det vektlegges at Kunnskapsdepartementet i forarbeidene til ny opplæringslov mener at kommunene skal kunne ta hensyn til kapasiteten til skolene – også når skolene ikke er fulle. Dette bl.a. for å kunne utnytte personalressursene og kapasiteten i skolebyggene på en effektiv måte.
+- Oddleiv Aksnes (H): Forslag til Forskrift om skolekretsgrenser i Verdal kommune sendes ut på høring med høringsfrist på 8 uker
+
+Voteringer:
+- Votering over forslag fra Oddleiv Aksnes (H)
+  - For: 15 stemmer
+  - Mot: 20 stemmer
+- Votering over formannskapets innstilling
+  - For: 20 stemmer
+  - Mot: 15 stemmer
+- Votering over forslag fra SP til nytt pkt. 2
+  - For: 20 stemmer
+  - Mot: 15 stemmer

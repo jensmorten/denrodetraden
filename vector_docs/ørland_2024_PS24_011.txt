@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/011
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til spørretimen - nedleggelse av kjøkken ved sykehjem på helg
+
+Vedtak:
+Saken ble trukket fra sakslisten av spørsmålsstiller Tor Bretting, da spørsmålene er innbakt i interpellasjon fra Britt Eli Døsvik.

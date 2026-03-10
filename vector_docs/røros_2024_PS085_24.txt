@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 085/24
+rodt_fremmet: False
+---
+
+Tittel: 2. gangsbehandling - Detalregulering Ulvstugguveien
+
+Vedtak:
+Røros kommune vedtar forslag til Detaljregulering for Ulvstugguveien med planid 20200018. Reguleringsplanene 19800006 og 19950001 oppheves.
+
+Voteringer:
+- Utvalg for plansaker sitt forslag til vedtak, 12.09.2024 - 029/24
+  - For: enstemmig

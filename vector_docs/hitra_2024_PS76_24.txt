@@ -1,0 +1,20 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 76/24
+rodt_fremmet: False
+---
+
+Tittel: Meldingssak - Møteprotokoll fra kontrollutvalgsmøte 09.09.2024
+
+Vedtak:
+Hitra kommunestyre tar møteprotokollen fra Kontrollutvalgets møte den 09.09.2024 til orientering.
+Hitra kommunestyre slutter seg ikke til protokolltilførselen fremmet av Nestleder Lars P. Hammerstad i møte i kontrollutvalget 09.09.2024.
+
+Alternative forslag:
+- Ordfører John Lernes (AP): 1. Hitra kommunestyre tar møteprotokollen fra Kontrollutvalgets møte den 09.09.2024 tas til orientering.
+2. Hitra kommunestyre slutter seg ikke til protokolltilførselen fremmet av representanten Nestleder Lars P. Hammerstad i møte i kontrollutvalget 09.09.2024.
+
+Voteringer:
+- Votering over ordfører John Lernes (AP) sitt forslag til vedtak
+  - For: enstemmig

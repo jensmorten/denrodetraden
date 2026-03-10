@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 46/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politisk verv - Kari Flokkmann
+
+Vedtak:
+Kari Flokkmann fritas fra sine politiske verv for inneværende valgperiode. Åge Grenne rykker opp som fast medlem for Senterpartiet i kommunestyret. Som ny representant i samarbeidsutvalget for Åsen barne- og ungdomsskole velges: Elise Brenne. Som nytt medlem til kontrollutvalget velges: Marianne Stenersen
+
+Voteringer:
+- Avstemning om innstilling om fritak fra politisk verv for Kari Flokkmann og oppnevning av nye medlemmer
+  - For: 35 stemmer

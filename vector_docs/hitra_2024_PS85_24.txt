@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 85/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra verv som meddommer i lagmannsretten 2025-2028
+
+Vedtak:
+Hitra kommunestyre, med hjemmel i domstolloven § 74, vedtar å innvilge Else Stadsvik sin søknad fra vervet som meddommer i Frostating Lagmannsrett. Fritaket er både for resten av inneværende periode 2021-2024 og perioden 2025-2028.
+
+Voteringer:
+- Behandling av innstilling fra formannskapet
+  - For: enstemmig

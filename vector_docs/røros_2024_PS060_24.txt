@@ -1,0 +1,20 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 060/24
+rodt_fremmet: False
+---
+
+Tittel: Lovlighetskontroll- Detaljregulering Fruvollen
+
+Vedtak:
+Kommunestyret kan ikke se at det er grunnlag for å endre vedtaket i sak 029/24 av 25.4.2024. Saken oversendes Statsforvalteren til lovlighetskontroll.
+
+Alternative forslag:
+- Henrik Grønn (Ap): Kommunestyret kan ikke se at det er grunnlag for å endre vedtaket i sak 029/24 av 25.4.2024. Saken oversendes Statsforvalteren til lovlighetskontroll.
+
+Voteringer:
+- Votering om habilitet for representantene Leinum, Elgaaen og Prytz
+  - Enstemmig habil: alle
+- Votering om forslaget fra Røros Arbeiderparti
+  - Forslaget fra Røros Arbeiderparti: enstemmig

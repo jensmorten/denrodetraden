@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 73/2024
+rodt_fremmet: False
+---
+
+Tittel: Valg av valgstyre for perioden 2024-2027
+
+Vedtak:
+Til valgstyre velges Formannskapet + gruppelederne fra de andre politiske partiene som ikke sitter i Formannskapet.
+
+Voteringer:
+- Avstemning over innstilling til valgstyre
+  - For forslaget: 35 stemmer

@@ -1,0 +1,24 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 131/24
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering Nestvoldjordet II - Del av 5038/16/1
+
+Vedtak:
+Det gjøres følgende endringer i reguleringsbestemmelsene:
+1. Punkt 2.1 om støy suppleres med:
+«Det skal dokumenteres at støyskjerm etableres og hvordan den avsluttes.»
+2. Punkt 3.1.8 om uteoppholdsareal suppleres med:
+«Det kan tillates etablert støyskjerm innenfor f_BUT2.»
+3. Punkt 5.5 om lekeplasser suppleres med følgende understreket tekst:
+• «Småbarnslekeplass BLK2 og kvartalslekeplass f_BUT1 skal anlegges før ferdigattest gis for den 5. boenheten som ferdigstilles innenfor planområdet.
+• Småbarnslekeplass BLK1 må opparbeides før ferdigattest gis for den 30. boenheten innenfor planområdet. Ved søknad om ferdigattest for den 5. boenheten skal det dokumenteres at tilhørende småbarnslekeplass og kvartalslekeplass er opparbeidet i henhold til reguleringsplanen.»
+Vedlagt detaljregulering for Nestvoldjordet II, med overnevnte endringer, vedtas iht. plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Votering over innstillingen fra utvalg plan og samfunn
+  - For innstillingen: 23 stemmer
+  - Mot innstillingen: 10 stemmer

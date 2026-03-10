@@ -1,0 +1,19 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 22/24
+rodt_fremmet: False
+---
+
+Tittel: PS 22/24 Interpellasjon fra Marita Røthe (V) - Kulturhuset Tindved?
+
+Vedtak:
+Oversendelsesforslag til formannskapet: Ei utreding av bruken av Tindved blir sett i gang så snart som muleg.
+
+Alternative forslag:
+- Marita Røthe (V): Ei utreding av bruken av Tindved blir sett i gang så snart som muleg.
+
+Voteringer:
+- Votering over oversendelsesforslaget fra Marita Røthe (V) om å sette i gang en utredning av bruken av Tindved.
+  - For: 22 stemmer
+  - Mot: 13 stemmer

@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/049
+rodt_fremmet: False
+---
+
+Tittel: Valg av protokollunderskrivere
+
+Vedtak:
+Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:
+• Marit Sletten (INP)
+• Ogne Undertun (AP)
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt ved manuell votering.
+  - For: enstemmig

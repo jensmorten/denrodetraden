@@ -1,0 +1,20 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/027
+rodt_fremmet: False
+---
+
+Tittel: Oppfølging av pålegg fra Arbeidstilsynet - Utbedring arbeidsplass og arbeidslokaler for hjemmetjenesten Brekstad
+
+Vedtak:
+1. Det settes av 3.2 MNOK til ombygging av eksisterende lokaler til hjemmetjenesten sone Brekstad. Dette for å sikre at arbeidstakerne får tilfredsstillende arbeidsforhold i henhold til pålegg fra Arbeidstilsynet, datert 30.10.23.
+2. Investeringen tas i saldering på investeringsbudsjettet for 2024.
+
+Voteringer:
+- Votering over forslag: Formannskapet sin innstilling fra møte 07.03.24
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Innstilling fra utvalg helse og familie i møte 06.03.24
+  - For: 7 stemmer
+  - Mot: 0 stemmer

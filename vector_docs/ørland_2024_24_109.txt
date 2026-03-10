@@ -1,0 +1,33 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/109
+rodt_fremmet: False
+---
+
+Tittel: Strategisk arbeid samferdsel Ørland
+
+Vedtak:
+Administrasjonen setter ikke i gang et arbeid for et eget kommunalt busstilbud, men jobber sammen med AtB og Trøndelag fylkeskommune for å realisere et klimavennlig og attraktivt busstilbud mellom Brekstad og Bjugn.
+Ørland kommune mener dagens tilbud Brekstad – Valset med et to-ferjesamband, sjødyktige båter, reservebåtløsning, og åpningstid fra 05:30 om morgen, dekker dagens behov og må helfinansieres av fylkeskommunen. For styrking av sambandet anbefales at åpningstiden utvides slik at siste avgang fra Valset er 24:00. Dette for å dekke et behov for gods- og persontrafikk fra sør. Døgnåpen drift av Flakk – Rørvik er viktig for et helhetlig tilbud.
+Kommunestyret ber om at hurtigbåttilbudet følges tett opp med spesielt fokus på regularitet og pris på hurtigbåtbilletter.
+Det nedsettes en arbeidsgruppe ledet av enhet for samfunnsutvikling som skal jobbe for finansiering og gjennomføring av større tiltak på fylkesveger i samarbeid med Trøndelag fylkeskommune, Forsvarsbygg og andre aktører som kan bidra til å sikre realisering av tiltak.
+Ørland kommune setter i gang arbeid med å bli godkjent som Trafikksikker kommune.
+Ørland Kommune arbeider for å videreutvikle den sivile flyruta til og fra Ørland.
+Ørland Kommune arbeider for å få realisert broprosjekter i aksen Ørland Trondheim.
+ATB må snarest sette opp skyss fra Brekstad til Bjugn i forbindelse med samtlige hurtigbåtanløp på søndager. Slik at elever som er hybelboere ved videregående i Bjugn, kommer seg helt frem.
+
+Alternative forslag:
+- Ogne Undertun, Arbeiderpartiet: ['Ørland Kommune arbeider for å videreutvikle den sivile flyruta til og fra Ørland.', 'Ørland Kommune arbeider for å få realisert broprosjekter i aksen Ørland Trondheim.']
+- Therese Mossing Eidsaune, Høyre: ATB må snarest sette opp skyss fra Brekstad til Bjugn i forbindelse med samtlige hurtigbåtanløp på søndager. Slik at elever som er hybelboere ved videregående i Bjugn, kommer seg helt frem.
+
+Voteringer:
+- Votering over forslag fra Therese Eidsaune (H)
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag Ørland AP nye kulepunkt
+  - For: 30 stemmer
+  - Mot: 1 stemmer
+- Votering over opprinnelig forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

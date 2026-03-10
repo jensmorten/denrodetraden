@@ -1,0 +1,36 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 111/24
+rodt_fremmet: False
+---
+
+Tittel: Forliksrådsmedlemmer og varamedlemmer for perioden 1. januar 2025 til 31. desember 2028
+
+Vedtak:
+Forliksrådsmedlemmer og varamedlemmer for perioden 1. januar 2025 til 31. desember 2028 Verdal kommune
+Medlemmer:
+Birgitte Skjørholm Dillan
+Ove Bakken
+Morten Selbek
+Varamedlemmer:
+Marit Voll
+Stig Gerhardt Pettersen
+Alexandra Grevskott
+Leder: Birgitte Skjørholm Dillan
+
+Alternative forslag:
+- Karl Bernhard Hoel (SP): Forslag forliksrådsmedlemmer og varamedlemmer for perioden 1. januar 2025 til 31. desember 2028
+Medlemmer:
+Birgitte Skjørholm Dillan
+Ove Bakken
+Morten Selbek
+Varamedlemmer:
+Marit Voll
+Stig Gerhardt Pettersen
+Alexandra Grevskott
+Leder: Birgitte Skjørholm Dillan
+
+Voteringer:
+- Votering over forslag til forliksrådsmedlemmer og varamedlemmer for perioden 1. januar 2025 til 31. desember 2028
+  - Forslaget fra Karl Bernhard Hoel (SP): enstemmig

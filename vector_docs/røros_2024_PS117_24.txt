@@ -1,0 +1,16 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 117/24
+rodt_fremmet: False
+---
+
+Tittel: 117/24 Politisk møteplan 2025
+
+Vedtak:
+Følgende møteplan for 2025 vedtas:
+Kveldsmøter skal ha oppstart kl 1800.
+
+Voteringer:
+- Behandling av formannskapets innstilling til møteplan for 2025
+  - For: enstemmig

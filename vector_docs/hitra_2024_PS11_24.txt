@@ -1,0 +1,16 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 11/24
+rodt_fremmet: False
+---
+
+Tittel: PS 11/24 Fritak fra folkevalgte verv valgperioden 2023-2027 - Brukerråd
+
+Vedtak:
+Hitra kommunestyre, etter kommuneloven § 7-9, innvilger Steinar Børøsund fritak fra verv som medlem av Hitra brukerråd
+Som nytt fast medlem av Hitra brukerråd velges John Nilsen. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For: 21 stemmer

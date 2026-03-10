@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 36/2024
+rodt_fremmet: False
+---
+
+Tittel: Forebyggende plan
+
+Vedtak:
+Kommunestyret vedtar “Forebyggende plan 2024-2027”.
+
+Voteringer:
+- Avstemning om innstilling: Kommunestyret vedtar “Forebyggende plan 2024-2027”.
+  - For: 32 stemmer

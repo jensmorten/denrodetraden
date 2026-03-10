@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/003
+rodt_fremmet: False
+---
+
+Tittel: Saken tas til orientering
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskapet 16.05.24
+  - For: 31 stemmer
+  - Mot: 0 stemmer

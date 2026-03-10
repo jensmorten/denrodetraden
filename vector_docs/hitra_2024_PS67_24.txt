@@ -1,0 +1,25 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 67/24
+rodt_fremmet: False
+---
+
+Tittel: Salg av kommunale boliger - Sandstad aldersboliger
+
+Vedtak:
+Hitra kommunestyre opphever tidligere kommunestyrevedtak, PS 53/23, om salg av Sandstad eldreboliger og beholder denne som en del av kommunens eiendomsmasse.
+Dersom det gjennom kommende branntilsyn avdekkes flere avvik som krever oppgraderinger i tiden framover bes kommunedirektøren å komme tilbake med en god vedlikeholdsplan for Sandstad eldreboliger.
+Navnet Sandstad eldreboliger endres til «boliger Sandstad»
+
+Alternative forslag:
+- Sigrid Helene Hanssen (H) på vegne av Høyre og Fremskrittspartiet: ['Punkt 1 som innstillingens punkt 1.', 'Nytt punkt 2: "Dersom det gjennom kommende branntilsyn avdekkes flere avvik som krever oppgraderinger i tiden framover bes kommunedirektøren å komme tilbake med en god vedlikeholdsplan for Sandstad eldreboliger."', 'Nytt punkt 3: "Navnet Sandstad eldreboliger endres til «boliger Sandstad»"']
+
+Voteringer:
+- Vurdering av habilitet for Geir Samdahl (FRP)
+  - Samdahl erklæres habil: enstemmig
+- Votering i formannskapet mellom innstilling og forslag fremmet av Sigrid Helene Hanssen (H)
+  - Forslag fremmet av Sigrid Helene Hanssen (H): 4 stemmer
+  - Innstillingen: 3 stemmer
+- Votering i kommunestyret om innstilling fra formannskapet
+  - Innstillingen fra formannskapet: enstemmig

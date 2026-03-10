@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/117
+rodt_fremmet: False
+---
+
+Tittel: Tertialrapport 2/2024 Roret Ørland kulturforetak KF
+
+Vedtak:
+Styret ser alvorlig på den økonomiske situasjonen og ber om at administrasjonen legger fram konkrete forslag til kostnadsreduksjoner til neste styremøte. Vi må avvikle merforbruket i år, i tillegg må vi ha tiltak for å redusere rammen for neste år med 5 %.
+
+Voteringer:
+- Votering over forslag: Innstilling fra møte i Styret for Roret 19.09.24
+  - For: 29 stemmer
+  - Mot: 0 stemmer

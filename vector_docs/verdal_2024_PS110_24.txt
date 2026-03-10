@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 110/24
+rodt_fremmet: False
+---
+
+Tittel: Sak 110/2024 - Valg av ny 3. vara i klagenemnd for eiendomsskatt
+
+Vedtak:
+Ny 3. vara i klagenemnd for eiendomsskatt for resten av valgperioden: Inger Åse Evenmo.
+
+Voteringer:
+- Votering over formannskapets innstilling om valg av ny 3. vara i klagenemnd for eiendomsskatt.
+  - For formannskapets innstilling: enstemmig

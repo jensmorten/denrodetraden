@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/080
+rodt_fremmet: False
+---
+
+Tittel: Ny samarbeidsavtale interkommunalt politisk råd Fosenregionen
+
+Vedtak:
+Ørland kommunestyre vedtar den nye samarbeidsavtalen med tilhørende SLA som fremlagt.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 31 stemmer

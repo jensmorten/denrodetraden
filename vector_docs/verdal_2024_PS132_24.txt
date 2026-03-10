@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 132/24
+rodt_fremmet: False
+---
+
+Tittel: Inngåelse av avtale med Veksttorget AS om drift av Arken Arbeid og Aktivisering
+
+Vedtak:
+Kommunedirektøren får fullmakt til å inngå en avtale med Veksttorget AS om å drifte Arken Arbeid og aktivisering for Verdal kommune fra 01.01.25
+Det jobbes videre med muligheter for at Arken Arbeid og aktivisering samlokaliseres med Veksttorget.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: Enstemmig

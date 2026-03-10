@@ -1,0 +1,17 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 87/24
+rodt_fremmet: False
+---
+
+Tittel: Møteplan for Hitra kommune 2025
+
+Vedtak:
+Hitra kommunestyre vedtar møteplan for folkevalgte organer i Hitra kommune for 2025 som fremlagt.
+
+Voteringer:
+- Behandling av sak 87/2024 i kommunestyret 31.10.2024
+  - Innstillingen fra formannskapet: enstemmig
+- Behandling av sak 95/2024 i formannskapet 22.10.2024
+  - Innstillingen: enstemmig

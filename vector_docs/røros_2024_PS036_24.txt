@@ -1,0 +1,21 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 036/24
+rodt_fremmet: False
+---
+
+Tittel: Ren Røros AS: Innstilling av 1 medlem til valgkomiteen
+
+Vedtak:
+Som medlem til valgkomiteen i Ren Røros AS innstilles:
+1. Medlem Ingulf Galåen (3 års tjenestetid, på valg 2026)
+
+Alternative forslag:
+- Kjell Magnus Krog (H): Som medlem til valgkomiteen i Ren Røros AS innstilles:
+Medlem Mona Waldahl Slettum (3 års tjenestetid, på valg 2026)
+
+Voteringer:
+- Valgutvalgets forslag ble satt opp mot Krogs forslag.
+  - Ingulf Galåen: 18 stemmer
+  - Mona Waldahl Slettum: 8 stemmer

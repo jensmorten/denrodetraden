@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/053
+rodt_fremmet: False
+---
+
+Tittel: Tertialrapport 1/2024 Ørland kommune
+
+Vedtak:
+Tertialrapport 1/2024 for Ørland kommune tas til orientering.
+
+Voteringer:
+- Votering over forslag: Innstilling fra formannskapet i møte 16.05.24
+  - For: 31 stemmer
+  - Mot: 0 stemmer

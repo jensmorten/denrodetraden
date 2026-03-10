@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 134/24
+rodt_fremmet: False
+---
+
+Tittel: Lokal forskrift om gebyr for feie- og tilsynstjenester
+
+Vedtak:
+Forskrift om gebyr for gjennomføring av feie- og tilsynstjenester i Verdal kommune vedtas.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

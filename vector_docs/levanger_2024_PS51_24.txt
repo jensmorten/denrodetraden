@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 51/24
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering Tennistomta - sluttbehandling
+
+Vedtak:
+Detaljregulering Tennistomta vedtas i henhold til plan- og bygningslovens § 12-12
+
+Voteringer:
+- Avstemning over innstilling om detaljregulering Tennistomta
+  - For forslaget: 35 stemmer

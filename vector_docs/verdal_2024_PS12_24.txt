@@ -1,0 +1,27 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 12/24
+rodt_fremmet: False
+---
+
+Tittel: PS 12/24 Helseplattformen - status innføring og oppdatert risikobilde pr. februar 2024
+
+Vedtak:
+1. Saken tas til orientering.
+2. Kommunedirektøren bes fremme ny statusrapport innen utgangen av mai 2024. Statusrapporten skal inkludere kunnskapsgrunnlag på medarbeidernivå fra pågående gjennomgang av sektoren Helse og velferd, samt at partsgruppene inviteres til å bidra i evalueringen.
+3. Vi må ta innover oss at innføringa Helseplattformen kan gå begge veier – også feil. Nye og gamle journalsystemer er under utvikling, og kommunedirektøren bes starte arbeidet med utredning av alternative løsninger for journalsystemer. Innen utgangen av mai bes kommunedirektøren legge fram statusrapport, som i tillegg belyser:
+• Aktuelle alternativ til Helseplattformen.
+• Alternativkostnad og alternativt innføringsforløp på aktuelle alternative løsninger grovskissers.
+• Utrede kostnad og konsekvens ved eventuell uttredelse av Helseplattformen.
+
+Alternative forslag:
+- Oddleiv Aksnes (H) på vegne av H/SP/VDL/FRP: Utrede kostnad og konsekvens ved eventuell uttredelse av Helseplattformen.
+
+Voteringer:
+- Votering om habilitetserklæring for Gerd Janne Kristoffersen (AP)
+  - Inhabil: 34 stemmer
+- Votering om forslag til nytt kulepunkt 3: 'Utrede kostnad og konsekvens ved eventuell uttredelse av Helseplattformen.'
+  - For: enstemmig
+- Votering om formannskapets innstilling med vedtatt kulepunkt 3
+  - For: enstemmig

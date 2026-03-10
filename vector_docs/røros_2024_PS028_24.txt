@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 028/24
+rodt_fremmet: False
+---
+
+Tittel: Oppfølging politiske vedtak i kommunestyret høst 2023
+
+Vedtak:
+Kommunestyret tar status på oppfølging av politiske vedtak i kommunestyret høst 2023 til orientering.
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak
+  - For: enstemmig

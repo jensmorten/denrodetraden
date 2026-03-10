@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 67/24
+rodt_fremmet: False
+---
+
+Tittel: PS 67/24 Budsjett 2025, NOK Trøndelag
+
+Vedtak:
+Budsjett 2025 for NOK Trøndelag vedtas.
+
+Voteringer:
+- Avstemning om forslag til vedtak: Budsjett 2025 for NOK Trøndelag vedtas.
+  - For forslaget: 35 stemmer

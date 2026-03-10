@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/130
+rodt_fremmet: False
+---
+
+Tittel: Kommunedelplan for drikkevann – Vedtak av plan
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Votering over forslag i Planutvalget 01.10.2024
+  - For: 8 stemmer
+  - Mot: 0 stemmer

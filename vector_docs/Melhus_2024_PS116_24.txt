@@ -1,0 +1,16 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 116/24
+rodt_fremmet: False
+---
+
+Tittel: PS 116/24 Sluttbehandling - Detaljregulering for Melhus videregående skole - PlanID 2022002
+
+Vedtak:
+Melhus kommune vedtar med hjemmel i plan- og bygningsloven § 12-12 Detaljregulering for Melhus videregående skole (PlanID 2022002), som vist i vedlagte planbestemmelser, plankart og planbeskrivelse med tilhørende vedlegg.
+Det tas sikte på å oppheve deler av følgende gjeldende detaljreguleringsplaner, Aktivitetspark Monstuflata gnr/bnr 35/87 (PlanID 2022006), vedtatt 31.10.23 og detaljregulering Gimse barneskole og parkeringsanlegg, gnr. 30, bnr. 4 m. fler (PlanID 2019009) vedtatt 23.06.20, inkludert alle senere planendringer, delplaner og tilhørende bestemmelser, ved godkjenning av detaljreguleringsplan for Melhus videregående skole, gnr/bnr 30/138 m.flere (plan-id: 2022002).
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak
+  - For: Enstemmig

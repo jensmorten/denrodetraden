@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/085
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling - Detaljregulering for Leikvangbukta - planid 5057202003
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 12-12 godkjenner Ørland kommune detaljregulering for Leikvangbukta - planid 5057202003 – med tilhørende plankart sist revidert 06.02.24 og bestemmelser sist revidert 03.06.24.
+
+Voteringer:
+- Votering over forslag
+  - For: 29 stemmer
+  - Mot: 0 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 71/2024
+rodt_fremmet: False
+---
+
+Tittel: Namsos kommunes tilslutning til autorisasjon av Nasjonalt Villakssenter Namsos
+
+Vedtak:
+Namsos kommune gir sin anbefaling til autorisasjon for Nasjonal villakssenter i Namsos som besøkssenter.
+
+Voteringer:
+- Avstemning over innstilling om tilslutning til autorisasjon for Nasjonalt Villakssenter Namsos
+  - For: 35 stemmer

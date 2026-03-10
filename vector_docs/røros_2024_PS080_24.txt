@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 080/24
+rodt_fremmet: False
+---
+
+Tittel: 080/24 GEBYRFORSKRIFT OM FEIING OG TILSYN MED FYRINGSANLEGG
+
+Vedtak:
+Det innføres felles gebyrforskrift om feiing og tilsyn med fyringsanlegg i Røros, Os, Holtålen og Tydal kommuner.
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak
+  - For: enstemmig

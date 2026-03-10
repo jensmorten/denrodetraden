@@ -1,0 +1,18 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 24/24
+rodt_fremmet: False
+---
+
+Tittel: PlanID 201924 - Merknadsbehandling og egengodkjenning - Detaljregulering Hallarvikbukta, gnr 20, bnr 61 mfl.
+
+Vedtak:
+1. Hitra kommunestyre egengodkjenner i henhold til plan- og bygningsloven § 12-12 og naturmangfoldloven § 7, Detaljregulering Hallarvikbukta, med planID 201924.
+Kommunedirektøren skal kunngjøre godkjenningen på foreskreven måte.
+
+Voteringer:
+- Behandling av innstilling fra teknisk utvalg - plan, landbruk og miljø i kommunestyret
+  - Vedtak i tråd med innstilling: enstemmig
+- Behandling av innstilling i teknisk utvalg - plan, landbruk og miljø
+  - Vedtak i tråd med innstilling: enstemmig

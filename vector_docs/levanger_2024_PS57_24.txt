@@ -1,0 +1,17 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 57/24
+rodt_fremmet: False
+---
+
+Tittel: Nybrotta og omegn vasslag SA – Søknad om garanti på lån
+
+Vedtak:
+Levanger kommune garanterer med simpel garanti for lån inntil kr 15 000 000,- for Nybrotta og omegn vasslag SA.
+Garantiansvaret reduseres i takt med nedbetalingen av lånet og opphører etter 40 år.
+Saken går til Statsforvalteren i Trøndelag for endelig godkjenning.
+
+Voteringer:
+- Avstemning om innstilling om garanti for lån til Nybrotta og omegn vasslag SA
+  - For forslaget: 34 stemmer

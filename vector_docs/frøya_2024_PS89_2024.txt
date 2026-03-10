@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 89/2024
+rodt_fremmet: False
+---
+
+Tittel: TrønderEnergi Vekst Holding AS – budrev fra KLP om kjøp av aksjer
+
+Vedtak:
+Kommunestyret vedtar å selge alle aksjene i TrønderEnergi vekst holding AS.
+Gevinsten på salget settes på disposisjonsfondet
+
+Alternative forslag:
+- Olaf Reppe: Gevinsten på salget settes på disposisjonsfondet
+
+Voteringer:
+- Vedtak om bruk av gevinst fra salg av aksjer i TrønderEnergi Vekst Holding AS
+  - Innstillingen om bruk av gevinst til spesifiserte formål: 0 stemmer
+  - Alternativt forslag om å sette gevinsten på disposisjonsfondet: Enstemmig

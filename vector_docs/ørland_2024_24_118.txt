@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/118
+rodt_fremmet: True
+---
+
+Tittel: Bruk av midler til trafikksikkerhetstiltak
+
+Vedtak:
+
+
+Alternative forslag:
+- Rødt, Arbeiderpartiet, SV og MDG: Trafikksikkerhetsutvalget utarbeider en prioritert liste over trafikksikkerhetstiltak som legges fram for vedtak i kommunestyret.
+
+Voteringer:
+- Votering over forslag fra Rødt, Arbeiderpartiet, SV og MDG
+  - Forslag fra Rødt, Arbeiderpartiet, SV og MDG: 11 stemmer
+  - Opprinnelig forslag: 19 stemmer

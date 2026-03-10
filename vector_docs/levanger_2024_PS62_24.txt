@@ -1,0 +1,22 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 62/24
+rodt_fremmet: False
+---
+
+Tittel: PS 62/24 Konsekvenser ved eventuell utmeldelse av Heia Innherred, Innherredsbyen og Innherred regionråd
+
+Vedtak:
+Saken tas til orientering.
+Kommunedirektøren fremmer sak til kommunestyret om Levangers medlemskap i Innherred politiske råd innen den utsatte fristen for uttreden fra 01.01.26 går ut.
+
+Alternative forslag:
+- Anita Ravlo Sand (Senterpartiet): Kommunedirektøren fremmer sak til kommunestyret om Levangers medlemskap i Innherred politiske råd innen den utsatte fristen for uttreden fra 01.01.26 går ut.
+
+Voteringer:
+- Avstemning over innstilling: Saken tas til orientering.
+  - For: 33 stemmer
+  - Imot: 2 stemmer
+- Avstemning over tilleggsforslag fra Anita Ravlo Sand (SP): Kommunedirektøren fremmer sak til kommunestyret om Levangers medlemskap i Innherred politiske råd innen den utsatte fristen for uttreden fra 01.01.26 går ut.
+  - For: 35 stemmer

@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 104/24
+rodt_fremmet: False
+---
+
+Tittel: 104/24 Rapport etter tredje kvartal 2024
+
+Vedtak:
+Kommunestyret tar rapport etter tredje kvartal for Orkland kommune til orientering
+
+Voteringer:
+- Votering i Formannskap 10.12.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 17.12.2024
+  - Formannskapets innstilling: enstemmig

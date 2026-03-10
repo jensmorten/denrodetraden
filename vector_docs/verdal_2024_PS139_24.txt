@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 139/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av nytt varamedlem til eldrerådet for resten av valgperioden 2023-2027
+
+Vedtak:
+Som nytt medlem i eldrerådet for resten av valgperioden 2023-2027 velges: Tormod Spjøtvold
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/033
+rodt_fremmet: True
+---
+
+Tittel: Samarbeidsavtaler for interkommunale samarbeid i Fosenregionen
+
+Vedtak:
+Saken utsettes til neste møte.
+
+Alternative forslag:
+- Ole Edvard Antonsen, Rødt: Saken utsettes til neste møte.
+
+Voteringer:
+- Votering over forslag fra Ole Edvard Antonsen, Rødt om utsettelse av saken til neste møte.
+  - For: 21 stemmer
+  - Mot: 8 stemmer

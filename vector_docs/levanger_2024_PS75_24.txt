@@ -1,0 +1,19 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 75/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv - Jon Ludvig Gjemble
+
+Vedtak:
+Jon Ludvig Gjemble fritas fra sine politiske verv for inneværende valgperiode
+Som nytt medlem til eldrerådet velges: Inger Hammer.
+Som nytt varamedlem til eldrerådet velges: Jon Ludvig Gjemble
+Som ny representant til samarbeidsutvalget for Staup helsehus velges: Knut Lian Kristiansen
+Som nytt varamedlem velges: Svenn Kristian Barstad
+
+Voteringer:
+- Votering over innstillingen om fritak og valg av nye medlemmer
+  - For forslaget: 35 stemmer

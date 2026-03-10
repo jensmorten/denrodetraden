@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 062/24
+rodt_fremmet: False
+---
+
+Tittel: Endring av områdeplan for Røros sentrum - planid 20130009_2
+
+Vedtak:
+Røros kommune vedtar forslag til områdeplan for Røros sentrum med planID 20230002. (jf. Plan og bygningsloven § 12-12).
+
+Voteringer:
+- Utvalg for plansaker sitt forslag til vedtak, 13.06.2024 - 022/24
+  - For: enstemmig

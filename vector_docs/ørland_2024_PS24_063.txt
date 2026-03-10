@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/063
+rodt_fremmet: False
+---
+
+Tittel: Avtale med Forsvarsbygg ang. verneverdige bygg som skal flyttes til Vipetangen
+
+Vedtak:
+Kommunedirektøren gis fullmakt til å underskrive vedlagte intensjonsavtale mellom Forsvarsbygg og Ørland kommune om Vipetangen.
+
+Voteringer:
+- Votering over forslag
+  - For: 28 stemmer
+  - Mot: 2 stemmer

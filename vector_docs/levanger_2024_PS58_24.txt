@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 58/24
+rodt_fremmet: False
+---
+
+Tittel: Levanger Arena KF - budsjettjustering - bruk av eget disposisjonsfond
+
+Vedtak:
+Ny bassengbelysning, kr. 700.000,-, finansieres ved bruk av foretakets disposisjonsfond.
+
+Voteringer:
+- Styret i Levanger Arena KF sin innstilling
+  - For: 34 stemmer

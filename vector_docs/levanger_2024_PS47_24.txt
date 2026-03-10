@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 47/24
+rodt_fremmet: False
+---
+
+Tittel: Fritak fra politiske verv - Mathias Hallem Granaune
+
+Vedtak:
+Mathias Hallem Granaune fritas fra folkevalgte verv i Levanger kommune. Marit Klara Dypdal Kverkild rykker opp som fast medlem for Arbeiderpartiet i kommunestyret. Som nytt medlem til driftsutvalget velges: Marit Klara Dypdal Kverkild. Som nytt medlem til legatstyrene velges: Johannes Hembre-Ingul
+
+Voteringer:
+- Avstemning om fritak fra folkevalgte verv for Mathias Hallem Granaune og valg av nye medlemmer
+  - For forslaget: 35 stemmer

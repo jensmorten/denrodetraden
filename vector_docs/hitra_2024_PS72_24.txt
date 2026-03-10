@@ -1,0 +1,18 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 72/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av møtefullmektige til forliksrådet for perioden 2025-2028
+
+Vedtak:
+Saken utsettes.
+
+Alternative forslag:
+- Ordfører John Lernes (AP): Forslag om å utsette saken.
+
+Voteringer:
+- Votering over utsettelsesforslaget fremmet av ordfører John Lernes (AP).
+  - For utsettelse: Enstemmig

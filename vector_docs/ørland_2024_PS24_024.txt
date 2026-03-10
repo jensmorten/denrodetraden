@@ -1,0 +1,22 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/024
+rodt_fremmet: True
+---
+
+Tittel: 24/024 Kommunedelplan for drikkevann - Planprogram
+
+Vedtak:
+Ørland kommune, ved kommunestyret, vedtar med hjemmel i plan- og bygningsloven § 11-13 vedlagte planprogram for kommunedelplanen for drikkevann.
+
+Alternative forslag:
+- Ole Edvard Antonsen, Rødt: Innbyggere i kommunen gjøres godt kjent med at det skal utarbeides en kommuneplan for drikkevann, samt gis mulighet til å komme med innspill og si sin mening om innhold og mulige løsninger.
+
+Voteringer:
+- Votering over forslag fra Ole Edvard Antonsen, Rødt
+  - For: 15 stemmer
+  - Mot: 16 stemmer
+- Votering over opprinnelig forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

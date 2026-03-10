@@ -1,0 +1,18 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 19/2024
+rodt_fremmet: False
+---
+
+Tittel: Retningslinje kommunalt bolystfond
+
+Vedtak:
+1.Retningslinje for kommunalt bolystfond vedtas som framlagt, med følgende endringer:
+STRYKES: Det delegeres til kommunedirektøren å behandle prosjekt med søknadssum opp til og med kr 50 000,-.
+NYTT PUNKT: Søknader som oppfyller formelle gitte krav i pkt 7 behandles i Utvalg for folk innen rimelig tid etter søknadsfrist.
+2.Utvalg for folk delegeres myndighet til å fatte vedtak i tråd med retningslinje.
+
+Voteringer:
+- Avstemning om formannskapets forslag til vedtak
+  - For: 33 stemmer

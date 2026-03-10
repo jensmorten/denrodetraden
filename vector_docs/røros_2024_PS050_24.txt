@@ -1,0 +1,20 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 050/24
+rodt_fremmet: False
+---
+
+Tittel: Revisjon av delegeringsreglementet
+
+Vedtak:
+1. Kommunestyret vedtar Røros kommunes delegeringsreglement med vedleggene «overordnet prinsipp for delegering» og «reglement for saksbehandling i politiske organ».
+2. Kommunedirektøren gis myndighet til å foreta ikke-prinsipielle oppdateringer ved endringer og oppdateringer i lover og forskrifter.
+3. Utvalgene kan selv overfor formannskapet foreslå saker til utredning eller behandling.
+
+Alternative forslag:
+- Henrik Grønn (Ap): Utvalgene kan selv overfor formannskapet foreslå saker til utredning eller behandling.
+
+Voteringer:
+- Votering over formannskapets forslag med tilleggsforslag fra Henrik Grønn (Ap)
+  - For: enstemmig

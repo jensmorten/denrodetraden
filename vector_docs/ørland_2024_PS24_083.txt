@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/083
+rodt_fremmet: False
+---
+
+Tittel: Revisjon av kriterier for vedlikeholdsfond til lekeplasser, gapahuker og andre nærmiljøanlegg
+
+Vedtak:
+Beløpsgrense i vedtektene punkt «6 Søknad om etablering/møblering av ny lekeplass i boligfelt» endres til 50 000 kroner.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

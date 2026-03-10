@@ -1,0 +1,22 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 77/24
+rodt_fremmet: False
+---
+
+Tittel: By- og arkitekturstrategi - sluttbehandling
+
+Vedtak:
+By- og arkitekturstrategien, revidert versjon etter høring, vedtas.
+Det bes om at By- og arkitekturstrategi evauleres etter et år.
+
+Alternative forslag:
+- Bent Ingar Fuglu (Senterpartiet): Det bes om at By- og arkitekturstrategi evauleres etter et år.
+
+Voteringer:
+- Votering over innstillingen: By- og arkitekturstrategien, revidert versjon etter høring, vedtas.
+  - For: 35 stemmer
+- Votering over tilleggsforslaget: Det bes om at By- og arkitekturstrategi evauleres etter et år.
+  - For: 24 stemmer
+  - Imot: 11 stemmer

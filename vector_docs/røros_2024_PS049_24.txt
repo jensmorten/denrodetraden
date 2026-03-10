@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 049/24
+rodt_fremmet: False
+---
+
+Tittel: Planstrategi 2024-2027
+
+Vedtak:
+I henhold til plan- og bygningslovens § 10-1, vedtar kommunestyret den framlagte Planstrategi for Røros kommune 2024-2027.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

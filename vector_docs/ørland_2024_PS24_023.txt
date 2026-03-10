@@ -1,0 +1,21 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/023
+rodt_fremmet: False
+---
+
+Tittel: 24/023 Kommunedelplan helse og familie 2024 - 2036 - Førstegangsbehandling
+
+Vedtak:
+Ørland kommune legger ut Kommunedelplan for helse og familie 2024 – 2036 ut til høring og offentlig ettersyn. Vedtaket er fattet med hjemmel i Pbl. § 11-14. Utvalg for helse og familie ønsker tilbakemelding av status på måleindikatorer i kommunedelplanen en gang i året, i forbindelse med budsjettet.
+
+Alternative forslag:
+- Utvalg for helse og familie: Utvalg for helse og familie ønsker tilbakemelding av status på måleindikatorer i kommunedelplanen en gang i året, i forbindelse med budsjettet.
+
+Voteringer:
+- Votering over forslag: Utvalg for helse og familie sin innstilling fra møte 06.03.24
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Innstillingen og tilleggsforslaget ble enstemmig vedtatt ved manuell votering
+  - For: 100 stemmer

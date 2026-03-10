@@ -1,0 +1,23 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 105/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 105/2024 Søknad om opparbeiding av lekeplass ved kommunal boligfelt
+
+Vedtak:
+Kommunestyret vedtar «Retningslinjen for etablering og drift av lekeplass i kommunale boligfelt».
+Kommunestyret vedtar et tilskudd til etablering av lekeplass på tidligere etablerte kommunale boligfelt med inntil kr 100 000,-.
+Tilskuddet vedtas etter søknad fra velforeninger i dagens kommunale boligfelt. Søknaden skal fylle vilkår jf den kommunale retningslinjen for etablering av lekeplass.
+Tilskuddet tas fra budsjettpost tomtesalg 551332.
+Kommunestyret vedtar ved etablering av nye kommunale boligfelt, at opparbeiding av lekeplass skal være en del av prosjekteringen. Dette gjelder oppmåling og fradeling av tomten, grunnarbeid og inngjerding av lekeplassområdet. Kostnadene på opparbeidingen fordeles på hver tomt i boligfeltet.
+
+Voteringer:
+- Vedtak i Hovedutvalg for samfunns behandling av sak 52/2024 i møte den 17.09.2024
+  - Enstemmig: alle
+- Vedtak i Formannskapets behandling av sak 99/2024 i møte den 24.09.2024
+  - Enstemmig: alle
+- Vedtak i Kommunestyrets behandling av sak 105/2024 i møte den 03.10.2024
+  - Enstemmig: alle

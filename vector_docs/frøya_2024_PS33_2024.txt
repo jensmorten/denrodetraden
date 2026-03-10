@@ -1,0 +1,19 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 33/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 33/2024 Valg av medlem og personlig varamedlem til Interkommunal klagenemnd i ReMidt IKS
+
+Vedtak:
+
+
+Alternative forslag:
+- Svein Viggo Johansen: Forslag på Varamedlem: Kåre Johansen
+
+Voteringer:
+- Valg av personlig varamedlem til Interkommunal klagenemnd i ReMidt IKS
+  - Ivan Løvstrand Strøm: 22 stemmer
+  - Kåre Johansen: 1 stemmer

@@ -1,0 +1,23 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/112
+rodt_fremmet: False
+---
+
+Tittel: Valg av faste møtefullmektiger til forliksrådet for perioden 01.01.25 - 31.12.28
+
+Vedtak:
+1. Aase Alseth Hellem
+2. Maj Britt Hanstad
+3. Hugo Solheim
+
+Alternative forslag:
+- Britt Eli Døsvik, Senterpartiet: 1. Aase Alseth Hellem
+2. Maj Britt Hanstad
+3. Hugo Solheim
+
+Voteringer:
+- Votering over forslag møtefullmektig
+  - For: 31 stemmer
+  - Mot: 0 stemmer

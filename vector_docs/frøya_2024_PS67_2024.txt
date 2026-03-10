@@ -1,0 +1,22 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 67/2024
+rodt_fremmet: False
+---
+
+Tittel: Investeringer på VA-sektoren - forskyvelse og endring i økonomiplanen
+
+Vedtak:
+Kommunestyret vedtar Kommunedirektørens forslag til justeringer for endringer og oppstarttidspunkt av prosjekter innenfor vann- og avløpssektoren som vedlagt denne sak.
+Kommunedirektøren vil i budsjettprosess for 2025-2028 fremme mer konkrete føringer for behovet for investeringsbehov og investeringstakt for perioden.
+Kommunedirektøren kommer tilbake til kommunestyret med en oversikt om å spare ytterligere 50 millioner innen vann- og avløpssektoren i økonomiplan perioden
+Kommunedirektøren legger fram sak for ny Hovedplan for vann og avløp innen 1 juni 2025
+Hovedutvalg for samfunn blir styringsgruppe for ny hovedplan for vann og avløp.
+
+Alternative forslag:
+- Aleksander Søreng: ['Kommunedirektøren kommer tilbake til kommunestyret med en oversikt om å spare ytterligere 50 millioner innen vann- og avløpssektoren i økonomiplan perioden', 'Kommunedirektøren legger fram sak for ny Hovedplan for vann og avløp innen 1 juni 2025', 'Hovedutvalg for samfunn blir styringsgruppe for ny hovedplan for vann og avløp.']
+
+Voteringer:
+- Vedtak i kommunestyrets møte den 20.06.2024 om justeringer og endringer i VA-sektoren med tillegg fra Aleksander Søreng
+  - For: Enstemmig

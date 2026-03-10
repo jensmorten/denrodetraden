@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 86/24
+rodt_fremmet: False
+---
+
+Tittel: Budsjettendring, omorganisering innen helse og velferd
+
+Vedtak:
+Opprinnelig budsjett for helsesektoren ble vedtatt med en totalramme på kr 526.656.000. Fordelingen etter ny organisering fastsettes slik (tall i tusen): NAV 33 556, Hjemme- og institusjonstjenester 251 370, Bolig og mestring 139 884, Helsefremming 93 076, Helse og velferd felles 8 770.
+
+Voteringer:
+- Votering over innstillingen til budsjettendring og omorganisering innen helse og velferd
+  - For: 35 stemmer

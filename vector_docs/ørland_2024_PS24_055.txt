@@ -1,0 +1,32 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/055
+rodt_fremmet: True
+---
+
+Tittel: Forskrifter til Opplæringsloven
+
+Vedtak:
+Ørland kommune vedtar vedlagte forslag til lokale forskrifter med følgende tillegg og endringer:
+- Elevene viser god atferd ved å....
+  - På barnetrinnet: Respektere skolens forbud mot bruk av mobil, og legger den i mobilhotell i den tiden de er på skolen.
+  - På ungdomstrinnet: Respektere skolens regler for bruk av mobiltelefon ved å legge den i mobilhotell i undervisningstiden, under måltider og i de friminutt/pauser mobiltelefon ikke skal være tilgjengelig.
+- Rektor kan, i spesielle tilfeller, gi enkeltelever unntak fra forbudet mot mobil i skoletiden.
+
+Alternative forslag:
+- Ann Elisabeth Solbue Valaas, Senterpartiet: Elevene viser god atferd ved å....
+- På barnetrinnet: Respektere skolens forbud mot bruk av mobil, og legger den i mobilhotell i den tiden de er på skolen.
+- På ungdomstrinnet: Respektere skolens regler for bruk av mobiltelefon ved å legge den i mobilhotell i undervisningstiden, under måltider og i de friminutt/pauser mobiltelefon ikke skal være tilgjengelig.
+- Ole Edvard Antonsen, Rødt: Rektor kan, i spesielle tilfeller, gi enkeltelever unntak fra forbudet mot mobil i skoletiden.
+
+Voteringer:
+- Votering over forslag: Opprinnelig forslag
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Endring i tekst (forslag fra Ann Elisabeth Solbue Valaas, Senterpartiet)
+  - For: 18 stemmer
+  - Mot: 12 stemmer
+- Votering over forslag: Tilleggsforslag fra Rødt
+  - For: 15 stemmer
+  - Mot: 15 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 087/24
+rodt_fremmet: False
+---
+
+Tittel: Fornyelse av salgsbevilling - Vinmonopolet AS
+
+Vedtak:
+Vinmonopolet AS' salgsbevilling for alkoholholdig drikk gruppe 2 og 3 forlenges til og med 30. september 2028.
+
+Voteringer:
+- Formannskapets forslag til vedtak om fornyelse av salgsbevilling for Vinmonopolet AS
+  - For: enstemmig

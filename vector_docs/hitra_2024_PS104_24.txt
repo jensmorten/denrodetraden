@@ -1,0 +1,16 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 104/24
+rodt_fremmet: False
+---
+
+Tittel: PS 104/24 Finansreglement for Hitra kommune
+
+Vedtak:
+1. Hitra kommunestyre vedtar forslaget til nytt Finansreglement for Hitra kommune.
+2. Nytt forslag til Finansreglementet erstatter tidligere reglement og trer i kraft når det er vedtatt.
+
+Voteringer:
+- Behandling av innstilling fra formannskapet
+  - For: enstemmig

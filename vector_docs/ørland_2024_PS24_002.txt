@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/002
+rodt_fremmet: False
+---
+
+Tittel: 24/002 Årsrapport 2023 - Kommunalt råd for mennesker med nedsatt funksjonsevne i Ørland kommune
+
+Vedtak:
+Saken ble tatt til orientering.

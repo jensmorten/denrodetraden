@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 53/24
+rodt_fremmet: False
+---
+
+Tittel: Jan Torstein Juberg (H) - søknad om fritak fra kommunestyret for resten av valgperioden
+
+Vedtak:
+Kommunestyret imøtekommer søknaden fra Jan Torstein Juberg (H) om fritak fra vervet som medlem i kommunestyret for partiet Høyre for resten av valgperioden.
+Fiona Leigh Gratton (H) rykker inn som fast medlem i kommunestyret på listen til Høyre for resten av valgperioden.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

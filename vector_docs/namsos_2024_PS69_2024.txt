@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 69/2024
+rodt_fremmet: False
+---
+
+Tittel: 2.gangs behandling - Detaljregulering Simonsaunet
+
+Vedtak:
+Namsos kommunestyre vedtar, i samsvar med plan- og bygningsloven, privat forslag til detaljregulering «Simonsaunet, Gnr.186, Bnr.1», med bestemmelser datert 27.10.2022, sist revidert 18.04.2023. Hjemmel for vedtaket er: Plan- og bygningslovens §§ 12-3, 12-10 og 12-11.
+
+Voteringer:
+- Avstemning om innstilling til detaljregulering Simonsaunet
+  - For: 35 stemmer

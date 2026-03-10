@@ -1,0 +1,26 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 66/2024
+rodt_fremmet: False
+---
+
+Tittel: Bangsund flerbrukshall
+
+Vedtak:
+1. Kommunestyret ser at det er gjennomført en god medvirkningsprosess med løsninger som ivaretar forventninger i kommunestyrets sak 81/22.
+2. Bygging av ny flerbrukshall på Bangsund stilles i bero inntil det er oppnådd en bærekraftig driftsøkonomi som gir rom for slik ny investering.
+3. Kommunestyret tar innover seg ansvaret for å sørge for at Bangsund skole har nødvendig infrastruktur, og ber om at det samtidig sees på hvilke strakstiltak som kan gjennomføres på eksisterende gymsal, for å opprettholde tilfredsstillende funksjonelt driftsnivå.
+
+Alternative forslag:
+- Geir Olav Knappe (Venstre): Kommunestyret ber om at det legges frem et forslag innen ultimo april med formål om å bygge en flerbrukshall i håndball størrelse uten klatrehall i Bangsund. Forslaget skal inneholde forsvarlige nedskaleringer.
+
+Voteringer:
+- Habilitetsvurdering av Jonas Nermark Johnsen (H)
+  - Ikke inhabil: flertall
+- Vedtak av innstilling i kommunestyret
+  - For innstilling: 34 stemmer
+  - Imot innstilling: 1 stemmer
+- Votering mellom innstillingens punkt 2 og 3 mot Venstres endringsforslag
+  - Innstillingens forslag (punkt 2 og 3): 26 stemmer
+  - Venstres endringsforslag: 9 stemmer

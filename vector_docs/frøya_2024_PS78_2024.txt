@@ -1,0 +1,36 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 78/2024
+rodt_fremmet: False
+---
+
+Tittel: Møteplan 2. halvår 2024
+
+Vedtak:
+Utvalg August September Oktober November Desember Januar 2025
+KST 5 3 28 16 30
+Budsjett- 31 NB. Mandag konferanse
+FSK 27 10 8 5 3 14
+24 22 12 budsjettmøte
+13 budsjettmøte
+HFS 20 17* 15 6* fellesmøte 10 21
+budsjett og utvalgsmøte
+10
+FEB 21 18 16 6 fellesmøte 11 22
+budsjett og utvalgsmøte
+HFL 22 19 17 6 fellesmøte 12 23
+budsjett og utvalgsmøte
+Møtedager og tidspunkt:
+Kommunestyret (KST) Torsdager med møtestart kl. 10.00 (unntatt 16.12 som er mandag)
+Formannskapet (FSK) Tirsdager med møtestart kl. 09.00
+Hovedutvalg for Samfunn (HFS) Tirsdager med møtestart kl. 09.00
+•HUS som trafikksikkerhetsutvalg (TSU) i august og desember
+Hovedutvalg for Levekår (HFL) Torsdager med møtestart kl. 09.00
+Frøya eldre- og brukerråd; Onsdager med møtestart kl. 10.00
+Frøya ungdomsråd; Mandager med møtestart kl. 15.30
+Kontrollutvalget (se KU sine egne sider) Onsdager med møtestart kl. 10.00
+Merknader til møteplanen:
+•Møter kan bli avlyst dersom lite saker, dette avgjøres av ordfører
+•Ved behandling av spesielle tema kan tidspunkt for møtestart bli justert.
+•Avvik fra Frøya Herredshus som møtested vil fremgå av innkalling og kunngjøres særskilt.

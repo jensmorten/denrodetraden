@@ -1,0 +1,20 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 070/24
+rodt_fremmet: False
+---
+
+Tittel: Lokal forskrift om skolefritidsordningen (SFO) i Rossen tjïelte/Røros kommune
+
+Vedtak:
+Forskriften vedtas med endringer i §7 (7.1. 7.2 og 7.4)
+
+Alternative forslag:
+- Rune Hansén Steinnes (SV): § 5 "Kommunen kan også si opp SFO-plass på grunn av bemanningskapasitet/redusert bemanning. Oppsigelse av berørte vil skje etter punkt 3.1" - strykes
+
+Voteringer:
+- Votering over endringsforslaget fra representant Steinnes
+  - For: enstemmig
+- Votering over innstillingen med endringer i paragraf 7
+  - For: enstemmig

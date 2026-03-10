@@ -1,0 +1,20 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 13/24
+rodt_fremmet: False
+---
+
+Tittel: Revisjonsrapport - Samhandlingsreformen - Utskrivningsklare pasienter
+
+Vedtak:
+Kommunestyret tar forvaltningsrevisjonsrapport om samhandlingsreformen til orientering.
+Kommunestyret ber kommunedirektøren sørge for at anbefalingene i rapporten følges opp:
+I større grad benytte muligheten for å melde avvik knyttet til informasjonsutvekslingen med St. Olavs hospital.
+Tydeliggjøre de interne rutinene for å melde samhandlingsavvik.
+Utarbeide kompetanseplaner på tjenestenivå.
+Kommunestyret ber kommunedirektøren gi kontrollutvalget en skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 31.08.2024.
+
+Voteringer:
+- Votering over innstillingen fra kontrollutvalget
+  - For: enstemmig

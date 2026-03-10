@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 17/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om permisjon fra politiske verv - Magne Nydal
+
+Vedtak:
+Magne Nydal innvilges permisjon fra sine politiske verv i kommunestyret og formannskapet fram til 1. januar 2025. Som settemedlem i permisjonsperioden velges: Andreas Hjelmstad
+
+Voteringer:
+- Avstemning om permisjon for Magne Nydal
+  - For: Enstemmig

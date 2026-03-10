@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/017
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til spørretimen - hvordan har ferieavviklingen fungert innen helse i vår kommune
+
+Vedtak:
+Svar på spørsmål ved ordfører

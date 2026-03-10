@@ -1,0 +1,22 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 086/24
+rodt_fremmet: True
+---
+
+Tittel: Alminnelige skjenkebevillinger 2024-2028
+
+Vedtak:
+Som foreslått i kommunedirektørens forslag med detaljer som ovenfor.
+
+Alternative forslag:
+- Rødt Røros: Krav til tariffavtale
+
+Voteringer:
+- Votering over forslag fra Rødt Røros om krav til tariffavtale
+  - For: ikke oppgitt
+  - Mot: ikke oppgitt
+- Votering over forslag og punkter i kommunedirektørens forslag
+  - For: ikke oppgitt
+  - Mot: ikke oppgitt

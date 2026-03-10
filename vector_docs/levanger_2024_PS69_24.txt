@@ -1,0 +1,16 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 69/24
+rodt_fremmet: False
+---
+
+Tittel: PS 69/24 Levanger kommuneskoger KF budsjett 2025
+
+Vedtak:
+Driftsbudsjettet 2025 for Levanger kommuneskoger KF vedtas
+Investeringsbudsjettet 2025 for Levanger kommuneskoger KF vedtas
+
+Voteringer:
+- Avstemning over styret i Levanger kommuneskoger KFs forslag til vedtak
+  - For: 35 stemmer

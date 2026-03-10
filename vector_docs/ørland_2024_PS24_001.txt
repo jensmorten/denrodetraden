@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/001
+rodt_fremmet: False
+---
+
+Tittel: 24/001 Årsrapport 2023 - Ørland eldreråd
+
+Vedtak:
+Saken ble tatt til orientering.

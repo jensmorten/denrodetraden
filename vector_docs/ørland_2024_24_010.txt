@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/010
+rodt_fremmet: False
+---
+
+Tittel: 24/010 Tilbakemelding fra kommunale kunstutvalget
+
+Vedtak:
+Saken utsettes og fremmes på nytt i forbindelse med budsjett 2025.
+
+Alternative forslag:
+- Høyre, INP og Sp (Britt Eli Døsvik, Senterpartiet): Saken utsettes og fremmes på nytt i forbindelse med budsjett 2025.
+
+Voteringer:
+- Votering over forslag fra Høyre, INP og Sp om utsettelse av saken
+  - For: 26 stemmer
+  - Mot: 1 stemmer

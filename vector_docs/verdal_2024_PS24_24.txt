@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 24/24
+rodt_fremmet: False
+---
+
+Tittel: PS 24/24 Ny forskrift om minsteareal for elg, hjort og rådyr
+
+Vedtak:
+Ny forskrift om minsteareal for elg, hjort og rådyr, Verdal kommune vedtas.
+
+Voteringer:
+- Votering over innstillingen fra utvalg for utmarkssaker
+  - For: enstemmig

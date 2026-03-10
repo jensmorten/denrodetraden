@@ -1,0 +1,27 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 112/24
+rodt_fremmet: False
+---
+
+Tittel: Tertialrapport 2 tertial 2024
+
+Vedtak:
+1. Kommunestyret tar tertialrapporten til etterretning. Kommunedirektøren viderefører arbeidet med de fremlagte innsparingstiltakene og legger frem disse sammen med ytterligere innsparingstiltak ved behandling av handlings- og økonomiplan. Kommunestyret ser den alvorlige økonomiske situasjonen kommunen står i, og vil aktivt bidra til å bringe økonomien i balanse.
+2. Foreslåtte budsjettendring hvor budsjettrammene for henholdsvis Helse og omsorg og Tekniske områder justeres ved at rammene for helse og omsorg reduseres med 571' og rammene for tekniske områder økes med 571' vedtas. Endringen har ingen effekt for kommunens samlede budsjett.
+3. Kommunestyret ber kommunedirektøren komme med en redegjørelse ,vedr. journalsystemet for legekontoret, sammen med kommuneoverlege evt. annet fagpersonell til førstkommende kommunestyremøte.
+
+Alternative forslag:
+- Per Arne Gjelsvik (V): Innføring av Helseplattformen ved Røros Legesentrer utsettes på ubestemt tid. Kommunestyret kan eventuelt innkalle tillitsvalgt og kommuneoverlege ved legesenteret til avklarende høring i saken.
+- Jon Anders Kokkvoll (Ap): Vi ber kommunedirektøren komme med en redegjørelse ,vedr. journalsystemet for legekontoret, sammen med kommuneoverlege evt. annet fagpersonell til førstkommende kommunestyremøte
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: 26 stemmer
+- Votering over tilleggsforslag fra Venstre (Per Arne Gjelsvik)
+  - For: 8 stemmer
+  - Mot: 18 stemmer
+- Votering over forslag fra Røros AP (Jon Anders Kokkvoll)
+  - For: 23 stemmer
+  - Mot: 3 stemmer

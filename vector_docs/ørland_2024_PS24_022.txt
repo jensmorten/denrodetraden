@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/022
+rodt_fremmet: False
+---
+
+Tittel: 24/022 Samlesak for referatsaker
+
+Vedtak:
+Sakene tas til orientering.

@@ -1,0 +1,21 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 72/2024
+rodt_fremmet: False
+---
+
+Tittel: Søknad om leie av garderobe FKKS - Øyrib
+
+Vedtak:
+{'organ': 'Formannskapet', 'dato': '04.06.2024', 'tekst': 'Frøya kommune avslår søknad fra Øyrib Frøya Hitra AS om bruk/ leie av garderober ved Guri Kunna videregående skole', 'enstemmig': True}
+{'organ': 'Kommunestyret', 'dato': '20.06.2024', 'tekst': 'Frøya kommune godkjenner søknad fra Øyrib Frøya Hitra AS om bruk/ leie av garderober ved Guri Kunna vgs for sommeren 2024.', 'enstemmig': True}
+
+Alternative forslag:
+- Borgelig gruppe: Frøya kommune godkjenner søknad fra Øyrib Frøya Hitra AS om bruk/ leie av garderober ved Guri Kunna vgs for sommeren 2024.
+
+Voteringer:
+- Vedtak i formannskapet om søknad om bruk/leie av garderober ved Guri Kunna vgs
+  - Avslag: Enstemmig
+- Vedtak i kommunestyret om søknad om bruk/leie av garderober ved Guri Kunna vgs for sommeren 2024
+  - Godkjenning: Enstemmig

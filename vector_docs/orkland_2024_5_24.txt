@@ -1,0 +1,19 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 5/24
+rodt_fremmet: False
+---
+
+Tittel: Gebyrregulativ 2024 - korrigeringer
+
+Vedtak:
+Følgende betalingssatser endres i fra opprinnelig vedtak i kommunestyrets sak 65/23:
+Betalingssats for middagsombringing 2024: kr. 121
+Betalingssats for Sterk og Stødig Krokstadøra, Meldal, Løkken, Fannrem, Svorkmo, Lensvik 2024: kr. 450
+
+Voteringer:
+- Votering i Formannskap 23.01.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 30.01.2024
+  - Formannskapets innstilling: enstemmig

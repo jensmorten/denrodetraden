@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/166
+rodt_fremmet: False
+---
+
+Tittel: Saldering 1/2024 drift Roret Ørland kulturforetak KF
+
+Vedtak:
+Roret Ørland kulturforetak KF søker Ørland kommune om kr 157 376,80 til delvis dekning av kostnadene med utskifting av varmeveksler i Fosenhallen.
+
+Voteringer:
+- Votering over forslag - Opprinnelig forslag
+  - For: 28 stemmer
+  - Mot: 1 stemmer

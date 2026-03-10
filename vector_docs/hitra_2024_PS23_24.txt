@@ -1,0 +1,18 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 23/24
+rodt_fremmet: False
+---
+
+Tittel: Merknadsbehandling og egengodkjenning av reguleringsplan for Friheten, deler av gnr 16 bnr 92 mfl.
+
+Vedtak:
+1. Hitra kommunestyre egengodkjenner i henhold til plan og bygningsloven § 12-12 og naturmangfoldloven § 7, Reguleringsplan for Friheten gnr 16 bnr 92 mfl. med planID 201909.
+2. Kommunedirektøren skal kunngjøre godkjenningen på foreskreven måte.
+
+Voteringer:
+- Behandling av innstilling fra teknisk utvalg - plan, landbruk og miljø i kommunestyret
+  - For: enstemmig
+- Behandling av innstilling i teknisk utvalg - plan, landbruk og miljø
+  - For: enstemmig

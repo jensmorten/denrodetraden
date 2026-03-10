@@ -1,0 +1,20 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 20/24
+rodt_fremmet: False
+---
+
+Tittel: PS 20/24 Klagenemnd for Innherred Renovasjon IKS
+
+Vedtak:
+Følgende oppnevnes til klagenemnd for Innherred Renovasjon IKS:
+Medlem: Odd Helge Roksvåg (VDL)
+Varamedlem: Linn Kristin Johansen (INP)
+
+Alternative forslag:
+- Trine Reitan (AP) på vegne av AP/INP/V: Forslag på varamedlem: Linn Kristin Johansen (INP).
+
+Voteringer:
+- Votering over formannskapets innstilling inkludert forslag fra AP/INP/V om varamedlem Linn Kristin Johansen (INP).
+  - Formannskapets innstilling inkludert forslag fra AP/INP/V: Enstemmig

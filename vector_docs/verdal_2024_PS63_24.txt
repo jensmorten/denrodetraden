@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 63/24
+rodt_fremmet: False
+---
+
+Tittel: Bestandsplan for hjort for Øvre Verdal Tildelingsområde i perioden 2024 – 2027
+
+Vedtak:
+Kommunestyret vedtar bestandsplan for hjort for Øvre Verdal Tildelingsområde i perioden 2024 – 2027, som fremlagt
+
+Voteringer:
+- Votering over innstillingen fra utvalg for utmarkssaker
+  - For: enstemmig

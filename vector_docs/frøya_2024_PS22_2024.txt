@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 22/2024
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av protokoll fra møte 04.04.24
+
+Vedtak:
+Protokoll fra møte 04.04.24 godkjennes som framlagt.
+
+Voteringer:
+- Godkjenning av protokoll fra møte 04.04.24
+  - For: Enstemmig

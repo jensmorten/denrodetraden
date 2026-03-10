@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 11/24
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av møteprotokoll
+
+Vedtak:
+Protokoll fra møte 29. januar 2024 godkjennes.
+
+Voteringer:
+- Votering over ordførers forslag til vedtak om godkjenning av møteprotokoll fra 29. januar 2024
+  - For: enstemmig

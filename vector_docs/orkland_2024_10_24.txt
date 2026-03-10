@@ -1,0 +1,20 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 10/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av sakkyndig nemnd for eiendomsskatt
+
+Vedtak:
+Som sakkyndig nemnd for eiendomsskatt velges:
+Leder: Ola Fossvoll Varamedlem: Egil Indergård
+Nestleder: Torleif Hove Varamedlem: Joar Tøndel
+Medlem: Marit Bjørklund Størseth Varamedlem: Gunnveig Gangås
+
+Voteringer:
+- Votering i Valgutvalg 30.01.2024
+  - Forslaget: enstemmig
+- Votering i Kommunestyre 30.01.2024
+  - Valgutvalgets innstilling: enstemmig

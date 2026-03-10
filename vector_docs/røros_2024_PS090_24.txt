@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 090/24
+rodt_fremmet: False
+---
+
+Tittel: Oppdatering strategi for helse og omsorg
+
+Vedtak:
+Oppdatert strategi for helse og omsorg vedtas.
+
+Voteringer:
+- Utvalg for helse og omsorg sitt forslag til vedtak
+  - For: enstemmig

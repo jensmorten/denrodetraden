@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/007
+rodt_fremmet: False
+---
+
+Tittel: Utredning felles ledelse ved Vallersund oppvekstsenter og Solkysten barnehage
+
+Vedtak:
+Kommunestyret tar saken til orientering.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 30 stemmer

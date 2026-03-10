@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/091
+rodt_fremmet: False
+---
+
+Tittel: Avtale samarbeid prosjekt for flytting og reetablering av eldre bygg og utvikling av Vipetangen som et nytt og attraktivt boområde i Ørland kommune
+
+Vedtak:
+Ordfører gis fullmakt til å underskrive vedlagte «Avtale om samarbeid om prosjekt for flytting og reetablering av eldre bygg og utvikling av Vipetangen som et nytt og attraktivt boområde i Ørland kommune».
+
+Voteringer:
+- Votering over forslag
+  - For: 30 stemmer
+  - Mot: 0 stemmer

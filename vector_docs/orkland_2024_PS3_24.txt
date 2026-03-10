@@ -1,0 +1,11 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 3/24
+rodt_fremmet: False
+---
+
+Tittel: 3/24 Høringsnotat om forslag til lov om besøksbidrag
+
+Vedtak:
+Kommunestyret vedtok å behandle saken politisk

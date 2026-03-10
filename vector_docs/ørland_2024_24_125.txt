@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/125
+rodt_fremmet: False
+---
+
+Tittel: Måltidsstrategi for kommunene i Fosenregionen
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Vedtak av saken om Måltidsstrategi for kommunene i Fosenregionen
+  - Utsettelse: ukjent

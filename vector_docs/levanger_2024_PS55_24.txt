@@ -1,0 +1,16 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 55/24
+rodt_fremmet: False
+---
+
+Tittel: Fastsetting av forskrift om saksbehandlingsgebyr etter havne- og farvannsloven
+
+Vedtak:
+Levanger kommune vedtar forskrift om saksbehandlingsgebyr etter havne- og farvannsloven for kommunene Namsos, Steinkjer, Inderøy, Indre Fosen, Verdal, Levanger, Frosta, Stjørdal, Malvik, Trondheim, Skaun, Orkland, Hitra og Frøya.
+Levanger kommune vedtar vedlagt gebyrregulativ for 2025 for saksbehandlingsgebyr etter havne- og farvannsloven.
+
+Voteringer:
+- Avstemning over innstilling om fastsetting av forskrift og gebyrregulativ
+  - For: 34 stemmer

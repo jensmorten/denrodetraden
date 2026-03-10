@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 86/24
+rodt_fremmet: False
+---
+
+Tittel: Rapport per juli 2024 for Orklandbadet KF
+
+Vedtak:
+Kommunestyret tar rapport per juli 2024 for Orklandbadet KF til orientering
+
+Voteringer:
+- Votering i Formannskap 01.10.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 15.10.2024
+  - Formannskapets innstilling: enstemmig

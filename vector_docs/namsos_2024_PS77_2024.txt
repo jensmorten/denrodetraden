@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 77/2024
+rodt_fremmet: False
+---
+
+Tittel: Salg av Salsnes småbåthavn
+
+Vedtak:
+Kommunestyrets vedtak: 1. Namsos kommune overdrar Salsnes småbåthavn til Salsnes båtforening, andel ½, og Firma Albert Collett ans, andel ½ for til sammen kr 100,-. 2. Det er en forutsetning at kjøper dekker kostnadene med oppgradering av det elektriske anlegget. 3. Kommunedirektøren får fullmakt til å framforhandle en avtale med Salsnes båtforening og Firma Albert Collet ans.
+
+Voteringer:
+- Avstemning om innstillingen om salg av Salsnes småbåthavn
+  - For forslaget: 34 stemmer

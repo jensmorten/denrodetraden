@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 041/24
+rodt_fremmet: False
+---
+
+Tittel: Valg til representantskapet i Konsek Trøndelag IKS
+
+Vedtak:
+Røros kommune oppnevner Kristoffer Tamnes som 2. vara i representantskapet i Konsek Trøndelag IKS.
+
+Voteringer:
+- Valgutvalgets forslag til vedtak
+  - For: enstemmig

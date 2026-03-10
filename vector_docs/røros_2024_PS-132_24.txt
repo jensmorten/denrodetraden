@@ -1,0 +1,11 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS-132/24
+rodt_fremmet: False
+---
+
+Tittel: 132/24 Orienteringssak til kommunestyre 12.12.24
+
+Vedtak:
+Saken tas til orientering.

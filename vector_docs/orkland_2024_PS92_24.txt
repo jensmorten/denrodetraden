@@ -1,0 +1,35 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 92/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av ungdomsråd
+
+Vedtak:
+Kommunestyret vedtar at følgende medlemmer og varamedlemmer velges til Orkland ungdomsråd:
+Marcus Lillegjære- Orkanger ungdomsskole
+Maren Wuttudal- Aa skole
+Vilde Margrete Løkken- Grøtte skole
+Emil Fagerli- Årlivoll skole
+Sverre Tangvik- Lensvik skole
+Petter Reitan- Meldal videregående skole
+Hanna Søvik Feragen- Meldal videregående skole
+Leah Sofie Vennes- Orkdal videregående skole
+Johan Grefstad- Orkdal videregående skole
+Mari Hoston- Åpen plass
+Bastian Skjeldnes- Åpen plass
+Mangler: Meldal barne- og ungdomsskole og Løkken Verk Montessoriskole
+Vara:
+Kjersti Berdal
+Todor Bogdanovic
+Trygve Berge-Langlete
+Olav Ysland Salberg
+Snorre Røe-Løkstad
+Deimante Revutaite
+Medlemmene velges for inntil to år.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - Kommunedirektørens innstilling: enstemmig

@@ -1,0 +1,17 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 48/24
+rodt_fremmet: False
+---
+
+Tittel: PS 48/24 Etablering av legesenter - utredning av lokalisering
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Vurdering av habilitet for Odd Helge Roksvåg
+  - Inhabil: 34 stemmer
+- Vedtak av formannskapets innstilling
+  - Formannskapets innstilling: 34 stemmer

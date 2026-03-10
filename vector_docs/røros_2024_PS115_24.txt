@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 115/24
+rodt_fremmet: False
+---
+
+Tittel: Klage på vedtatt reguleringsplan for Ulvstugguveien, PlanID 20200018
+
+Vedtak:
+Kommunestyret opprettholder kommunens vedtak i sak Detaljregulering av Ulvstugguveien fra den 27.09.24. Det foreligger ikke momenter i saken som tilsier en endring av vedtaket. Planutvalget oppfordrer klager til å sende inn saken som innspill til kommunedelplan Røros Bergstad. Saken oversendes Statsforvalteren for endelig avgjørelse.
+
+Voteringer:
+- Behandling av formannskapets innstilling
+  - For: enstemmig

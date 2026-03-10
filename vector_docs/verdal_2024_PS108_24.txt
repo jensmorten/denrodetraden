@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 108/24
+rodt_fremmet: False
+---
+
+Tittel: Sak 108/2024 - Flaggreglement for Verdal kommune
+
+Vedtak:
+Flaggreglement for Verdal kommune vedtas.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

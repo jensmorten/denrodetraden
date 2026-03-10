@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 40/24
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding 2023 Verdal ungdomsråd
+
+Vedtak:
+Årsmelding 2023 Verdal ungdomsråd tas til orientering.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

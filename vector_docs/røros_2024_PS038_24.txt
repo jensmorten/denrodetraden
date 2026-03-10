@@ -1,0 +1,20 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 038/24
+rodt_fremmet: False
+---
+
+Tittel: Optimus AS: Innstilling av 1 medlem til valgkomiteen og leder for valgkomiteen
+
+Vedtak:
+
+
+Alternative forslag:
+- Repr. Henrik Grønn (Ap): Elin Tamnes som medlem
+Elin Tamnes som leder
+
+Voteringer:
+- Valg mellom valgutvalgets forslag (Trond Dalsegg) og Henrik Grønns forslag (Elin Tamnes) til medlem og leder av valgkomiteen
+  - Elin Tamnes: 16 stemmer
+  - Trond Dalsegg: 10 stemmer

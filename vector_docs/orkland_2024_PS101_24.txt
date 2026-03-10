@@ -1,0 +1,31 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 101/24
+rodt_fremmet: True
+---
+
+Tittel: Forskrift om permisjon fra opplæringa i de kommunale grunnskolene i Orkland kommune
+
+Vedtak:
+Kommunestyret vedtar vedlagte forskrift om permisjon i de kommunale grunnskolene i Orkland kommune.
+
+Alternative forslag:
+- Orkland Senterparti (Ranghild Hynne): Saken utsettes til høring er gjennomført. Forskriften med endringer og presiseringer sendes ut på høring til de som blir berørt av endringene. Saken må også opp i skolenes samarbeidsutvalg.
+- Orkland Senterparti (Ranghild Hynne): I ny paragraf §7 Tilfeller som kan anses som forsvarlige å innvilge permisjon foreslås det å fjerne hele kulepunkt 3 (ved idrettslige konkurranser eller kulturelle arrangementer på nasjonalt eller internasjonalt nivå) og erstatte det med nytt kulepunkt: • Organisert aktivitet for barn og unge
+- SP ved Stig Kalstad: I ny paragraf §7 Tilfeller som kan anses som forsvarlige å innvilge permisjon foreslås det å fjerne hele kulepunkt 3 (ved idrettslige konkurranser eller kulturelle arrangementer på nasjonalt eller internasjonalt nivå) og erstatte det med nytt kulepunkt: • Organisert aktivitet for barn og unge
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 12.11.2024: Utsettelsesforslag fra Ranghild Hynne på vegne av Orkland Senterparti
+  - For utsettelsesforslaget: 3 stemmer
+  - Mot utsettelsesforslaget: 8 stemmer
+- Votering i Hovedutvalg helse, oppvekst og kultur 12.11.2024: Kommunedirektørens innstilling
+  - For innstillingen: 7 stemmer
+- Votering i Hovedutvalg helse, oppvekst og kultur 12.11.2024: Endringsforslag fra Ranghild Hynne på vegne av Orkland Senterparti
+  - For endringsforslaget: 4 stemmer
+  - Mot endringsforslaget: 7 stemmer
+- Votering i Kommunestyret 19.11.2024: Kommunedirektørens innstilling
+  - For innstillingen: 28 stemmer
+- Votering i Kommunestyret 19.11.2024: Endringsforslag fra SP ved Stig Kalstad
+  - For endringsforslaget: 15 stemmer
+  - Mot endringsforslaget: 28 stemmer

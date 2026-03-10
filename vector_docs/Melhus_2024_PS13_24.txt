@@ -1,0 +1,11 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 13/24
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til kommunestyre - Boligutbygging i Melhus kommune - Karin Jordan Rutlin - INP
+
+Vedtak:
+Spørsmål er besvart i møtet.

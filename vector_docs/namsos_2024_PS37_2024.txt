@@ -1,0 +1,23 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 37/2024
+rodt_fremmet: False
+---
+
+Tittel: Valg av forliksråd for perioden 01.01.2025 - 31.12.2028
+
+Vedtak:
+Namsos kommunestyre velger disse til forliksråd for perioden 01.01.2025 - 31.12.2028:
+Medlemmer:
+1 Oddbjørn Johansen, leder
+2 Svein Lervik
+3 Terese Lien
+Varamedlemmer:
+1 Morten Sommer
+2 Gunn Ågot Leite
+3 Svein Erik Midtsian
+
+Voteringer:
+- Avstemning over valg av forliksråd for perioden 01.01.2025 - 31.12.2028
+  - For forslaget: 32 stemmer

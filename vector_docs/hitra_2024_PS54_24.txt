@@ -1,0 +1,18 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 54/24
+rodt_fremmet: False
+---
+
+Tittel: Egengodkjenning - Handlingsplan til Strategi for naturmangfold
+
+Vedtak:
+Hitra kommunestyre egengodkjenner handlingsplan tilhørende strategi for naturmangfold 2022-2029
+Handlingsplanen er et verktøy med konkrete handlinger som skal bidra til å oppnå målene i strategien.
+
+Voteringer:
+- Behandling av innstilling fra teknisk utvalg - plan, landbruk og miljø
+  - For: enstemmig
+- Behandling av innstilling i teknisk utvalg - plan, landbruk og miljø
+  - For: enstemmig

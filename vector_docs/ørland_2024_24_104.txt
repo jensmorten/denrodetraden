@@ -1,0 +1,36 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/104
+rodt_fremmet: True
+---
+
+Tittel: Tertialregnskap 2/2024 Ørland kommune
+
+Vedtak:
+Tertialrapport 2/2024 for Ørland kommune tas til orientering.
+Kommunestyret ber om at tertialrapportene har spesifikk informasjon om følgende for alle deler av kommunens organisasjon:
+- Antall årsverk
+- Prosent sykefravær
+- Kostnader overtid
+- Kostnader innleie
+- Spesifisert Merforbruk/Mindreforbruk
+
+Alternative forslag:
+- Ole Edvard Antonsen, Rødt: Kommunestyret ber om at tertalrapportene har spesifikk informasjon om følgende for alle deler av kommunens organisasjon:
+Antall årsverk
+Prosent sykefravær
+Kostnader overtid
+Kostnader innleie
+Spesifisert Merforbruk/Mindreforbruk
+
+Voteringer:
+- Votering over forslag: Innstilling fra formannskapets møte 05.09.24
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Tilleggsforslag fra Rødt
+  - For: 26 stemmer
+  - Mot: 4 stemmer
+- Formannskapets møte 05.09.2024 - Votering over forslag: Opprinnelig forslag
+  - For: 6 stemmer
+  - Mot: 0 stemmer

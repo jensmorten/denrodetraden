@@ -1,0 +1,27 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 71/24
+rodt_fremmet: True
+---
+
+Tittel: Valg av forliksrådsmedlemmer for perioden 2025-2028
+
+Vedtak:
+
+
+Alternative forslag:
+- Jann Oddvar Krangnes (R): Hitra kommunestyre vedtar følgende forliksrådsmedlemmer for perioden 01.01.2025-31.12.2028:
+3 faste representanter:
+1. Eldbjørg Broholm - leder
+2. Terje Herfjord - nestleder
+3. Arnt J. Breivoll
+3 vararepresentanter:
+14. May Elise Jamtøy Stolpnes
+15. Stig Høydal
+16. Heidi Kristine Fugelsøy
+
+Voteringer:
+- Valg mellom valgutvalgets innstilling og forslag fremmet av Jann Oddvar Krangnes (R)
+  - Valgutvalgets innstilling: 13 stemmer
+  - Forslag fremmet av Jann Oddvar Krangnes (R): 12 stemmer

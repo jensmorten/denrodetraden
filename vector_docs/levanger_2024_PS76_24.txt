@@ -1,0 +1,18 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 76/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av styremedlemmer-Levanger Arena KF
+
+Vedtak:
+Styremedlemmer og varamedlemmer til Levanger Arena KF fra 2025:
+Lars Heirsaunet, medlem
+Margrete Solli, medlem
+Sigrid Nordvoll, 2. vara
+
+Voteringer:
+- Votering over forslaget til styremedlemmer og varamedlemmer til Levanger Arena KF fra 2025
+  - For forslaget: 35 stemmer

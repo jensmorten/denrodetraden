@@ -1,0 +1,105 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 67/24
+rodt_fremmet: False
+---
+
+Tittel: Meddommere Trøndelag tingrett, Frostating lagmannsrett og Nord-Trøndelag jordskifterett
+
+Vedtak:
+Meddommere Trøndelag tingrett
+Utvalg damer:
+1.Zabinska, Inga f. 1985
+2.Haugland, Helene Grimelund f. 1993
+3.Buran, Irene f. 1982
+4.Berg, Munhild f. 1977
+5.Bjørken, Anna Marie f. 1977
+6.Borgen, Idun Elvira Svartaas f. 2003
+7.Gausen, Monica f. 1977
+8.Wist, Randi f. 1956
+9.Hammervold, Monica f. 1971
+10.Watson, Liv Kari f. 1981
+11.Volden, Anne Lise f. 1976
+12.Plahn, Karin H. Austad f. 1963
+13.Valbekmo, Anne Grete f. 1971
+14.Bakken, Marianne f. 1986
+15.Ramberg, Hjørdis f. 1976
+16.Jermstad, Lisa Natalie f. 1998
+17.Bremseth, Lone f. 1985
+18.Olsen, Torunn Elise Wahlen f. 1982
+19.Berre, Linda f. 1973
+20.Storhaug, Eva f. 1975
+21.Høknes, Nina f. 1970
+22.Olsen, Linda f. 1976
+23.Alhussein, Hourya f. 1985
+24.Aksnes, Bente Mollan f. 1965
+25.Buran, Tonje Rønning f. 1998
+Utvalg menn:
+1.Stenberg, Jørgen f. 1992
+2.Kristiansen, Geir Åge f. 1972
+3.Johnsen, Roger f. 1963
+4.Sende, Emil f. 1988
+5.Håpnes, Bjørnar f. 1964
+6.Samuelsen, Alf f. 1978
+7.Heitlo, Ole Andreas f. 1988
+8.Christiansen, Jonas f. 1986
+9.Ottermo, Kjell Gunnar f. 1958
+10.Dillan, Arne Espen f. 1974
+11.Letnes, Ståle f. 1970
+12.Svendsen, Terje f. 1971
+13.Selnes, Kjetil f. 1970
+14.Kvislabakken, Magne f. 1972
+15.Segtnan, Ole Petter f. 1965
+16.Haugen, Arne Marius f. 1989
+17.Lian, Johan Olav f. 1989
+18.Sagvold, Stian f. 1984
+19.Thomassen, Arild f. 1964
+20.Malmo, Adrian Lyng f. 1986
+21.Calderon, Ricardo Manuel Rugama f. 1983
+22.Mathisen, Karl Terje f. 1957
+23.Løvstad, Snorre f. 1970
+24.Juberg, Anders f. 1975
+25.Voll, Petter f. 1959
+Meddommere Frostating lagmannsrett
+Utvalg damer:
+1.Sjøblom, Eline f. 1995
+2.Tiller, Marte Valstad f. 1992
+3.Kristiansen, May-Len f. 1970
+4.Rekve, Monica Iren f. 1972
+5.Nessemo, Linn Merete f. 1982
+6.Gresseth, Randi f. 1959
+7.Almli, Christina f. 1988
+8.Wohlen, Trine f. 1969
+9.Vinne, Ellen f. 1962
+10.Baumfelder, Unni Tiller f. 1970
+11.Storholmen, Åse f. 1977
+12.Halvorsen, Marit f. 1971
+13.Alstad, Gunhild f. 1971
+14.Skilbrigt, Siri f. 1990
+Utvalg menn:
+1.Hammervold, Sigmund f. 1970
+2.Modell, Bjørn f. 1969
+3.Berg, Svenn Robert f. 1967
+4.Ingebrigtsen, Rune f. 1963
+5.Bjartan, Knut Arne f. 1973
+6.Holbø, Thor f. 1965
+7.Bern, Sven-Øyvind f. 1959
+8.Falstad, Erling f. 1968
+9.Andresen, Ole Thomas Ivrig f. 1976
+10.Singstad, Geir Ivar f. 1963
+11.Langdal, Knut f. 1957
+12.Rostad, Åge f. 1964
+13.Aas-Prestmo, Kjell-Amund f. 1986
+14.Solvold, John Kristian f. 1966
+Meddommere Nord-Trøndelag jordskifterett
+Utvalg kvinner:
+1.Grønn, Marit Aarset f. 1969
+2.Østerås, Ingeborg f. 1964
+Utvalg menn:
+1.Hofstad, Trygve f. 1965
+2.Gudding, Rune f. 1979
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: Enstemmig

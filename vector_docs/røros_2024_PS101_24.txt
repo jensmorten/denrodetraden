@@ -1,0 +1,11 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 101/24
+rodt_fremmet: False
+---
+
+Tittel: Referatsaker til kommunestyret 31.10.2024
+
+Vedtak:
+Referatsakene tas til etterretning.

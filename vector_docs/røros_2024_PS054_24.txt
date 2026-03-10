@@ -1,0 +1,16 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 054/24
+rodt_fremmet: False
+---
+
+Tittel: Plan for forvaltningsrevisjon 2024-2028
+
+Vedtak:
+Kommunestyret vedtar plan for forvaltningsrevisjon 2024-2028 og slutter seg til kontrollutvalgets prioriteringer i planen.
+Kontrollutvalget gis fullmakt til å gjøre endringer i planen.
+
+Voteringer:
+- Vedtak av kontrollutvalgets forslag til plan for forvaltningsrevisjon 2024-2028
+  - For: enstemmig

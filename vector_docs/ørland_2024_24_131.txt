@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/131
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling Kommunedelplan for oppvekst og utdanning 2024-2036
+
+Vedtak:
+Ørland kommune ved kommunestyret vedtar med hjemmel i Plan og bygningsloven §11-15 kommunedelplan for Oppvekst og utdanning 2024-2036
+
+Voteringer:
+- Votering over forslag i Utvalg for oppvekst og utdanning 14.10.2024
+  - For: 7 stemmer
+  - Mot: 0 stemmer

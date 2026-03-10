@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 072/24
+rodt_fremmet: False
+---
+
+Tittel: Lokal forskrift om skolerute i Rossen tjïelte- Røros kommune
+
+Vedtak:
+Forskriftene vedtas med følgende endring: Elevene får fridag fredag i martnan (20. februar 2026). Denne dagen hentes inn på slutten av juleferien (2. januar 2026).
+
+Voteringer:
+- Kommunedirektørens forslag til vedtak
+  - For: enstemmig

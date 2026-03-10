@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 47/24
+rodt_fremmet: False
+---
+
+Tittel: Toppet bemanning Verbalforslag 7
+
+Vedtak:
+Verbalvedtak nr. 7 Pilotere toppa bemanning i kommunale barnehage tas til orientering.
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak
+  - For: Enstemmig

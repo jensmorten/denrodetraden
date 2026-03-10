@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 43/24
+rodt_fremmet: False
+---
+
+Tittel: Meldingssak - Møteprotokoll fra kontrollutvalgsmøte 13.05.2024
+
+Vedtak:
+Kommunestyret tar møteprotokoll fra kontrollutvalgsmøte 13.05.2024 til orientering.
+
+Voteringer:
+- Kommunestyrets behandling av innstillingen
+  - For innstillingen: enstemmig

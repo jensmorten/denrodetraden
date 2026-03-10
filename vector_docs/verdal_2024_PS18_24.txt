@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 18/24
+rodt_fremmet: False
+---
+
+Tittel: PS 18/24 Utbyggingsavtale for Fagerli og Hallemsåsen
+
+Vedtak:
+Vedlagte utbyggingsavtale for «Fagerli og Hallemsåsen» inngås/godkjennes i medhold av plan- og bygningsloven § 17-4.
+
+Voteringer:
+- Votering over innstillingen fra utvalg plan og samfunn
+  - For: enstemmig

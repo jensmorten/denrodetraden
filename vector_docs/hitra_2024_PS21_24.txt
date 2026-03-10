@@ -1,0 +1,17 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 21/24
+rodt_fremmet: False
+---
+
+Tittel: Fartsgrense Malneset gårdstun
+
+Vedtak:
+Hitra kommunestyre vedtar å endre fartsgrensen til 30 km/t på strekningen fra avkjørsel FV 714 og gjennom gårdstunet på Malnesveien 15, og 50 km/t resten av Malnesveien fram til snuplassen.
+
+Voteringer:
+- Votering over innstillingen fra trafikksikkerhetsutvalget i kommunestyret
+  - For: enstemmig
+- Votering over innstillingen i trafikksikkerhetsutvalget
+  - For: enstemmig

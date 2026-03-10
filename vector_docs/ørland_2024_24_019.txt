@@ -1,0 +1,8 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/019
+rodt_fremmet: False
+---
+
+Tittel: None

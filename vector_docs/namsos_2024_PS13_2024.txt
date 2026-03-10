@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 13/2024
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding Eldreråd 2023
+
+Vedtak:
+Namsos kommunestyre tar årsmeldingen fra Eldrerådet til orientering.
+
+Voteringer:
+- Avstemning om innstilling: Namsos kommunestyre tar årsmeldingen fra Eldrerådet til orientering.
+  - For: 34 stemmer

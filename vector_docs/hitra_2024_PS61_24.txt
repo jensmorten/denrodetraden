@@ -1,0 +1,25 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 61/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av meddommere til lagmannsretten for perioden 2025-2028
+
+Vedtak:
+Hitra kommunestyre vedtar følgende meddommere til Frostating lagmannsrett for perioden 01.01.2025-31.12.2028:
+4 kvinner:
+• Helen Ingeborg Sollie
+• Else Stadsvik
+• May Elise Stolpnes
+• Inger Forsnes-Hanssen
+4 menn:
+• Olaf Martin Strand
+• Roger Lund
+• Terje Herfjord
+• Adrian Engebø
+
+Voteringer:
+- Behandling av innstillingen fra valgutvalget
+  - Enstemmig vedtak: alle

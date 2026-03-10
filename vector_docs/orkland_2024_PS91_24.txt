@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 91/24
+rodt_fremmet: False
+---
+
+Tittel: Vurdering av forespørsel om omdisponering av bosettingsplasser for enslige mindreårige 2024/2025
+
+Vedtak:
+Kommunestyret vedtar at bosettingsplasser for 2024 ikke omdisponeres for enslige mindreårige flyktninger. Det gjøres et arbeid fram mot nytt vedtak om bosetting for å kartlegge hvilke muligheter Orkland kommune har for å bosette denne gruppen i 2025.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - For: 40 stemmer

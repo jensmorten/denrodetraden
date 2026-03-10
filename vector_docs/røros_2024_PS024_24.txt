@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 024/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om midlertidig fritak fra politiske verv - Jakob Tidemann
+
+Vedtak:
+Kommunestyret innvilger Jakob Tidemanns søknad om midlertidig fritak fra vervene som kommunestyrerepresentant og medlem av utvalg for oppvekst frem til 31. desember 2025
+
+Alternative forslag:
+- S. Buljubasic: Kommunestyret innvilger Jakob Tidemanns søknad om midlertidig fritak fra vervene som kommunestyrerepresentant og medlem av utvalg for oppvekst frem til 31. desember 2025
+
+Voteringer:
+- Votering over Buljubasic sitt forslag om midlertidig fritak for Jakob Tidemann
+  - For: enstemmig

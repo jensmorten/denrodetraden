@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 23/24
+rodt_fremmet: False
+---
+
+Tittel: Kontrollutvalgets årsmelding 2023
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsmelding 2023 til orientering.
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak
+  - For: Enstemmig

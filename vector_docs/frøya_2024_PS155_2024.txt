@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 155/2024
+rodt_fremmet: False
+---
+
+Tittel: Lokale forskrifter etter ny opplæringslov
+
+Vedtak:
+Frøya kommune vedtar følgende lokale forskrifter etter ny opplæringslov:
+Forskrift om skoleregler og skoledemokrati, Frøyaskolen
+Forskrift om permisjon fra grunnskoleopplæringen, Frøya kommune
+Forskrift om hovedmål, Frøya kommune
+
+Voteringer:
+- Hovedutvalg for levekårs behandling av sak 45/2024 i møte den 12.12.2024
+  - Vedtak: Enstemmig
+- Kommunestyrets behandling av sak 151/2024 i møte den 16.12.2024
+  - Vedtak: Enstemmig

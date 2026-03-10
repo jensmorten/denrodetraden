@@ -1,0 +1,20 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 35/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av Forliksråd
+
+Vedtak:
+
+
+Alternative forslag:
+- Ordfører Hanne Nyhus AP: Medlemmer fra Orkland: Varamedlemmer 1. Steinar Gaustad 1. Sigmund Moen Trønsdal fra Rindal 2. Svanhild Aune 2. Arnt Tronvoll 3. Olaug Muan 3. Jannicke Andresen Som leder velges Steinar Gaustad Som nestleder velges Svanhild Aune
+
+Voteringer:
+- Votering i Valgutvalg 07.05.2024
+  - Ordfører Hanne Nyhus AP sitt forslag: enstemmig
+- Votering i Kommunestyre 18.06.2024
+  - Valgutvalgets tilråding: enstemmig

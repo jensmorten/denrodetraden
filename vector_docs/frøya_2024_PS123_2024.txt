@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 123/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 123/2024 Budsjettjustering 01/24 - Drift
+
+Vedtak:
+Frøya kommunestyre vedtar budsjettjustering Drift 01/24 som vist i tabell
+6.756.876 kr finansieres over Disposisjonsfondet
+
+Voteringer:
+- Vedtak av budsjettjustering Drift 01/24
+  - For: Enstemmig

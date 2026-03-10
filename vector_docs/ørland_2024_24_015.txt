@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/015
+rodt_fremmet: False
+---
+
+Tittel: Valg av protokollunderskrivere
+
+Vedtak:
+Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:
+• Therese M. Eidsaune (H)
+• Ogne Undertun (AP)
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt ved manuell votering.
+  - For: enstemmig

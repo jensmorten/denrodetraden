@@ -1,0 +1,55 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/167
+rodt_fremmet: False
+---
+
+Tittel: Saldering 2 drift
+
+Vedtak:
+Driftsbudsjettet for 2024 salderes som følger:
+Rammetilskudd økes med 8 200 000 Inntekt
+Helse økes med 7 000 000 Kostnad
+Eiendom økes med 1 200 000 Kostnad
+Rammetilskudd/skjønnsmidler økes med 600 000 Inntekt
+Barnevern økes med 600 000 Kostnad
+Varmeveksler Fosenhallen økes med 158 000 Kostnad
+Inndekning Fosenbrua økes med 186 000 Kostnad
+Ungdomsklubben 5-7 trinn økes med 250 000 Kostnad
+Bruk av fond økes med 594 000 Inntekt
+Permieavviket økes med 25 300 000 Kostnad
+Pensjonspremien reduseres med 25 300 000 Kostnad
+Disposisjonsfond 1/1 91 640 926
+Budsjettert bruk opprinnelig budsjett -29 032 000
+Vedtatte budsjettsalderinger -14 027 863
+Forslag saldering drift 2 (ikke vedtatt) -594 000
+Disposisjonsfond 31/12 47 987 063
+Ørland kommunes andel av tilskudd til Fosenbrua AS i 2025 er på kr. 62 000,-. Kommunestyret ber kommunedirektøren innarbeider dette i budsjett for 2025.
+Kommunedirektøren får fullmakt til å fordele redusert budsjett pensjonspremie ut på enhetene.
+
+Alternative forslag:
+- Hallgeir Grøntvedt, Senterpartiet: Driftsbudsjettet for 2024 salderes som følger:
+Rammetilskudd økes med 8 200 000 Inntekt
+Helse økes med 7 000 000 Kostnad
+Eiendom økes med 1 200 000 Kostnad
+Rammetilskudd/skjønnsmidler økes med 600 000 Inntekt
+Barnevern økes med 600 000 Kostnad
+Varmeveksler Fosenhallen økes med 158 000 Kostnad
+Inndekning Fosenbrua økes med 186 000 Kostnad
+Ungdomsklubben 5-7 trinn økes med 250 000 Kostnad
+Bruk av fond økes med 594 000 Inntekt
+Permieavviket økes med 25 300 000 Kostnad
+Pensjonspremien reduseres med 25 300 000 Kostnad
+Disposisjonsfond 1/1 91 640 926
+Budsjettert bruk opprinnelig budsjett -29 032 000
+Vedtatte budsjettsalderinger -14 027 863
+Forslag saldering drift 2 (ikke vedtatt) -594 000
+Disposisjonsfond 31/12 47 987 063
+Ørland kommunes andel av tilskudd til Fosenbrua AS i 2025 er på kr. 62 000,-. Kommunestyret ber kommunedirektøren innarbeider dette i budsjett for 2025.
+Kommunedirektøren får fullmakt til å fordele redusert budsjett pensjonspremie ut på enhetene.
+
+Voteringer:
+- Votering over forslag
+  - Innstilling fra formannskapets møte 05.12.24: 5 stemmer
+  - Alternativt forslag: 26 stemmer

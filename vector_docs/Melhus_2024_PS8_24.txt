@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 8/24
+rodt_fremmet: False
+---
+
+Tittel: Anmodning om bosetting av flyktninger for 2024
+
+Vedtak:
+Melhus kommune bosetter 50 flyktninger i 2024, inkludert selvbosetting. Familiegjenforente kommer i tillegg. Hvis behovet i Norge endrer seg og/eller at kapasitet og boligtilgang i kommunen endres, må kommunen ta en ny vurdering.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

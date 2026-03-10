@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 43/24
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjon og undersøkelse som oppfølging av kommunestyrets vedtak
+
+Vedtak:
+På grunn av at det nå har gått lang tid, ønsker ikke kommunestyret å bestille forvaltningsrevisjonen og undersøkelsen. Dersom pkt 1 ikke vedtas, vil kontrollutvalget bestille forvaltningsrevisjonen og undersøkelsen i tråd med de framlagte prosjektplanene. Undersøkelsen leveres sekretariatet 03.01.2025, med en tidsbruk på inntil 70 timer. Forvaltningsrevisjonen leveres sekretariatet 31.01.2025, med en tidsbruk på inntil 250 timer.
+
+Voteringer:
+- Avstemning over Kontrollutvalgets forslag til vedtak
+  - For forslaget: 35 stemmer

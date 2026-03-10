@@ -1,0 +1,39 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/046
+rodt_fremmet: False
+---
+
+Tittel: Økonomiprosjekt 2024 - 2025
+
+Vedtak:
+1. Kommunestyret vedtar å gjennomføre de opplistede tiltak i rapporten “Økonomiprosjektet 2024-2025”.
+2. Tiltakene/tallene for 2025 innarbeides i økonomiplanen for 2025 - 2034.
+3. Budsjettet for 2024 endres som følger:
+Formannskapets innstilling med endringer i henhold til nytt forslag fra Høyre, INP, Sp, Venstre og FrP med tilbakeføring av midler på totalt 15.260.000 kr dekket av disposisjonsfond.
+Ørland FrP sine tilleggsforslag om å ta ut reduksjon på bemanning i PP-tjenesten og endre brukerbetaling for trygghetsalarm til 250 kr per måned for alle med inntekt under 2G ble vedtatt.
+
+Alternative forslag:
+- Ørland Arbeiderparti på vegne av AP, SV, MDG og R: Ønsker å ta ut flere punkter i kommunedirektørens nedtrekk i økonomiprosjektet, blant annet brukerbetaling for dagtilbud for hjemmeboende med demens, trygghetsalarm, reduksjoner i helsetjenester og oppvekst, med sum kr. 18 755 000,-. Finansiering via salg av aksjepost i ANEO.
+- Høyre, INP, Sp, Venstre og FrP: Forslag om å gjennomføre tiltakene i rapporten med endringer som innebærer tilbakeføring av midler på totalt kr. 15 260 000,- dekket av disposisjonsfond, inkludert reduksjoner i helse, oppvekst, samfunnsutvikling og kultur.
+- Ørland FrP: Tilleggsforslag om å ta ut reduksjon på bemanning i PP-tjenesten på 450 000 kr, dekket av disposisjonsfond.
+- Ørland FrP: Tilleggsforslag Trygghetsalarm Alternativ 1: Ta ut brukerbetaling for trygghetsalarm på 500 kr per måned for alle med inntekt under 2G, dekket av disposisjonsfond.
+- Ørland FrP: Tilleggsforslag Trygghetsalarm Alternativ 2: Endre brukerbetaling for trygghetsalarm fra 500 kr til 250 kr per måned for alle med inntekt under 2G, utgjør 900 000 kr, dekket av disposisjonsfond.
+
+Voteringer:
+- Votering over forslag: Tilleggsforslag Trygghetsalarm Alternativ 2
+  - For: 21 stemmer
+  - Mot: 10 stemmer
+- Votering over forslag: Tilleggsforslag Trygghetsalarm Alternativ 1
+  - For: 10 stemmer
+  - Mot: 21 stemmer
+- Votering over forslag: Tilleggsforslag fra Ørland FrP
+  - For: 23 stemmer
+  - Mot: 8 stemmer
+- Votering over forslag: Nytt forslag fra Ørland Arbeiderparti på vegne av AP, SV, MDG og R vs Forslag fra Høyre, INP, Sp, Venstre og FrP
+  - Nytt forslag fra AP, SV, MDG og R: 12 stemmer
+  - Forslag fra Høyre, INP, Sp, Venstre og FrP: 19 stemmer
+- Votering over forslag: Formannskapets innstilling fra møte 11.04.24
+  - For: 31 stemmer
+  - Mot: 0 stemmer

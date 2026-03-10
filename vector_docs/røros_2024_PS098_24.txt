@@ -1,0 +1,11 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 098/24
+rodt_fremmet: False
+---
+
+Tittel: Grunngitt spørsmål - kommunestyret 19.09.24
+
+Vedtak:
+Svar fra kommunedirektøren på grunngitt spørsmål i kommunestyret 19 september 2024

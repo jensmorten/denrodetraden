@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 30/24
+rodt_fremmet: False
+---
+
+Tittel: Andre gangs behandling - reguleringsplan for Meldal Brannstasjon Messråa
+
+Vedtak:
+Orkland Kommune vedtar med hjemmel i plan- og bygningslovens § 12-12 reguleringsplan for Meldal Brannstasjon Messråa - med de endringer etter høring og offentlig ettersyn som fremgår av vedlagte plandokumenter og kommunedirektørens konklusjon avslutningsvis i saksframlegget.
+
+Voteringer:
+- Votering i Hovedutvalg Forvaltning 16.04.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 07.05.2024 (42 medlemmer)
+  - Hovedutvalg forvaltning sin innstilling: enstemmig

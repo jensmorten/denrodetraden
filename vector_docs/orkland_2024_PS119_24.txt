@@ -1,0 +1,18 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 119/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av ekstra varamedlem til representantskapet Konsek Trøndelag IKS
+
+Vedtak:
+Bjarne Lund velges som ny vara i representantskapet Konsek Trøndelag
+
+Alternative forslag:
+- Senterpartiet: Senterpartiet foreslår Bjarne Lund som vara i representantskapet Konsek Trøndelag
+
+Voteringer:
+- Votering over forslag fra Senterpartiet om valg av Bjarne Lund som vara i representantskapet Konsek Trøndelag
+  - Forslag fra Senterpartiet: enstemmig

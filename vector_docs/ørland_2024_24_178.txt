@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/178
+rodt_fremmet: False
+---
+
+Tittel: Høring - Forskrift om tildeling av kommunal bolig
+
+Vedtak:
+Ørland kommunestyre vedtar å legge “lokal forskrift om tildeling av kommunal bolig, Ørland kommune” ut på høring.
+Høringsfrist settes til minimum 6 uker etter kommunestyrets vedtak.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

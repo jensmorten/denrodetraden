@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/026
+rodt_fremmet: False
+---
+
+Tittel: 24/026 Fastsetting av planprogram for kommunedelplan for naturmangfold
+
+Vedtak:
+Ørland kommune, ved kommunestyret, fastsetter med hjemmel i plan- og bygningsloven § 11-13 annet ledd første punktum planprogram for kommunedelplanen for naturmangfold.
+
+Voteringer:
+- Votering over forslag: Planutvalget sin innstilling fra møte 19.03.24
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag i Planutvalg 19.03.2024: Opprinnelig forslag
+  - For: 9 stemmer
+  - Mot: 0 stemmer

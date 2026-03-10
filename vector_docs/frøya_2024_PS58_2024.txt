@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 58/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 58/2024 Kontrollutvalgets reglement for Frøya kommune
+
+Vedtak:
+Kommunestyret vedtar reglement for kontrollutvalget i Frøya kommune.
+
+Voteringer:
+- Vedtak om reglement for kontrollutvalget i Frøya kommune
+  - For: Enstemmig

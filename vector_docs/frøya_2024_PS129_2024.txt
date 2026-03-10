@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 129/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 129/2024 Valg av forliksråd for perioden 01.01.2025 - 31.12.2029
+
+Vedtak:
+Utsatt
+
+Voteringer:
+- Vedtak om utsatt behandling av sak 129/2024
+  - Utsatt: Enstemmig

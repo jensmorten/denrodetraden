@@ -1,0 +1,22 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/168
+rodt_fremmet: False
+---
+
+Tittel: Saldering 3 investering
+
+Vedtak:
+KST - 24/168 vedtak
+
+Alternative forslag:
+- Opprinnelig forslag: Opprinnelig forslag
+
+Voteringer:
+- Votering over forslag - Innstilling fra formannskapets møte 05.12.24
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag - Opprinnelig forslag
+  - For: 7 stemmer
+  - Mot: 0 stemmer

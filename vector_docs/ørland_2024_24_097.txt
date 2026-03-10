@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/097
+rodt_fremmet: False
+---
+
+Tittel: Tertialrapport 1/2024 - Roret Ørland kulturforetak KF
+
+Vedtak:
+Tertialrapport 1/2024 for Roret Ørland kulturforetak KF tas til etterretning, og styret ønsker at det lages en tiltaksplan for å komme i balanse ved årets slutt. Styret ønsker status økonomi med årsprognose, på hvert styremøte.
+
+Voteringer:
+- Votering over forslag: Innstilling fra møte i Styret for Roret Ørland kulturforetak KF 10.06.24
+  - For: 26 stemmer
+  - Mot: 0 stemmer

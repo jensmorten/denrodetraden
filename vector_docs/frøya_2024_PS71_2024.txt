@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 71/2024
+rodt_fremmet: False
+---
+
+Tittel: Frøya kultur- og kompetansesenter (FKK) - forenklet organisasjonsstruktur
+
+Vedtak:
+Kommunestyret godkjenner at Frøya Kultur- og Kompetansesenter heretter organiseres som et tingsrettslig sameie, med vedtekter som fremlagt.
+
+Voteringer:
+- Vedtak i kommunestyrets møte den 20.06.2024 om organisering av Frøya Kultur- og Kompetansesenter
+  - For: Enstemmig

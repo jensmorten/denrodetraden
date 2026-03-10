@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 44/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 44/2024 Bergtun bofellesskap - Veirett
+
+Vedtak:
+Kommunedirektøren bes gå i forhandlinger rundt etablering av vei over gnr/brnr 24/3. Denne veiløsningen innarbeides i oppstart av reguleringsplan.
+
+Voteringer:
+- Kommunestyrets behandling av sak 44/2024 i møte den 30.05.2024
+  - For vedtak: 21 stemmer
+  - Mot vedtak: 1 stemmer

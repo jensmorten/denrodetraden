@@ -1,0 +1,25 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 6/2024
+rodt_fremmet: False
+---
+
+Tittel: Kommunal vigselsordning i Namsos kommune 2024-2027
+
+Vedtak:
+
+
+Alternative forslag:
+- Svein Storø (Arbeiderpartiet): Som vigslere fra Arbeiderpartiet foreslås:
+• Frode Båtnes
+• Trine Fagerhaug
+- Stein Tore Wolff (Fremskrittspartiet): Stein Tore Wolff foreslåes som vigsler
+
+Voteringer:
+- Avstemning over formannskapets forslag til vedtak
+  - For: 34 stemmer
+- Avstemning over forslag fra Svein Storø (Arbeiderpartiet) om vigslere fra Arbeiderpartiet
+  - For: 34 stemmer
+- Avstemning over forslag fra Stein Tore Wolff (Fremskrittspartiet) om at Stein Tore Wolff foreslås som vigsler
+  - For: 34 stemmer

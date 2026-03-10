@@ -1,0 +1,20 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 88/2024
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv - Kjell Roald Løvmo
+
+Vedtak:
+Kjell Roald Løvmo innvilges fritak fra sitt politisk verv i Namsos kommune i perioden 01.11.2024 - 31.10.2025
+Dette vervet er:
+• Medlem i kommunestyre
+Hjemmel for vedtaket er:
+Kommuneloven § 7-9, andre ledd
+Kommunelovens § 7-10, tredje ledd
+
+Voteringer:
+- Avstemning om innstilling om fritak for Kjell Roald Løvmo
+  - For: 34 stemmer

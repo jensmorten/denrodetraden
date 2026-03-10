@@ -1,0 +1,18 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 40/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av nytt varamedlem til kontrollutvalget
+
+Vedtak:
+Som nytt varamedlem til kontrollutvalget velges Arve Slørdal.
+
+Alternative forslag:
+- Eva Solstad Legar på vegne av Høyre: Som nytt varamedlem velges Arve Slørdal.
+
+Voteringer:
+- Votering over forslag fra Høyre om valg av nytt varamedlem
+  - Forslag fra Høyre: enstemmig

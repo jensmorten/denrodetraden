@@ -1,0 +1,27 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 29/24
+rodt_fremmet: True
+---
+
+Tittel: Revisjonsrapport - forvaltningsrevisjon internkontroll
+
+Vedtak:
+Kommunedirektøren setter av nok tid i ledergruppa til å tydeliggjøre, bygge og implementere rammene for internkontrollsystemet.
+Kommunedirektøren fortsetter implementeringen av internkontrollsystemet. I dette ligger det at; - Rutineverket (kvalitetssystemet) må bygges ut, og benyttes av hele organisasjonen. - Risikovurderinger av hovedprosessene skal utarbeides, og settes i system.
+Kommunalsjefenes myndighet tydeliggjøres, fortrinnsvis gjennom tydelig delegering fra kommunedirektøren.
+Kommunedirektøren gir tilbakemelding til kontrollutvalget innen 1. november 2024.
+Rapporten fra kommunerevisjonen oversendes til arbeidsgruppa som ser på økonomi- og delegasjonsreglementet til Levanger kommune, og anbefalingene fra kommunerevisjonen tas med i arbeidet med forslaget til nytt delegasjonsreglement som skal utarbeides og behandles i kommunestyret høsten 2024
+
+Alternative forslag:
+- Lars Einar Karlsen (R): Rapporten fra kommunerevisjonen oversendes til arbeidsgruppa som ser på økonomi- og delegasjonsreglementet til Levanger kommune, og anbefalingene fra kommunerevisjonen tas med i arbeidet med forslaget til nytt delegasjonsreglement som skal utarbeides og behandles i kommunestyret høsten 2024
+- Andreas J. Hjelmstad (H): Kommunedirektøren setter av nok tid i ledergruppa…
+
+Voteringer:
+- Avstemning over Kontrollutvalgets forslag
+  - For: Enstemmig
+- Avstemning over Karlsen sitt tilleggsforslag
+  - For: Enstemmig
+- Avstemning over Hjelmstad sitt endringsforslag
+  - For: Enstemmig

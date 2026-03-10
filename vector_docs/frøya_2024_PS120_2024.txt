@@ -1,0 +1,13 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 120/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 120/2024 Andre råd og utvalgs orienteringer
+
+Vedtak:
+Presentasjon av Frøya- ungdomsråd (FUR)
+Kontrollutvalget:
+• Forvaltningsrevisjon 2023

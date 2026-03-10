@@ -1,0 +1,27 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/042
+rodt_fremmet: False
+---
+
+Tittel: Kommunal Garanti SAVA AS
+
+Vedtak:
+Mona Sjøli H og Britt Eli Døsvik SP meldte seg inhabil i saken, da de sitter som medlemmer i styret i Sava.
+Følgende ble valgt som setteordfører: Eirik Lundemo H
+Følgende ble valgt som settevaraordfører: Tonje Bakken Nervik SP
+Ørland kommune garanterer med selvskyldnerkausjon for lån som SAVA AS tar opp til finansiering av bygg.
+Kausjonen gjelder for lånets hovedstol maksimalt kroner 1.440.000 med tillegg av 10 % av til enhver tid gjeldende hovedstol til dekning av eventuelle påløpte renter og kostnader. Det maksimale beløpet som det kausjoneres for er kroner 1.584.000
+Kausjonsansvaret gjelder fra 01.05.2024 og opphører 15.01.2029 med tillegg av 2 år.
+
+Voteringer:
+- Valg av setteordfører og settevaraordfører til behandling av saken
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Formannskapets innstilling fra møte 11.04.24
+  - For: 24 stemmer
+  - Mot: 5 stemmer
+- Formannskapets møte 11.04.2024 - Votering over forslag
+  - For: 7 stemmer
+  - Mot: 0 stemmer

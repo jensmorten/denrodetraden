@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 26/24
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjonsrapport Spesialundervisning - rapport
+
+Vedtak:
+
+
+Voteringer:
+- Votering over kontrollutvalgets innstilling
+  - For kontrollutvalgets innstilling: 35 stemmer

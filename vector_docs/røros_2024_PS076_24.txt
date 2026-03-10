@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 076/24
+rodt_fremmet: False
+---
+
+Tittel: Behandling av klage - Detaljregulering for Ysterhagaen barnehage - planid 20220008
+
+Vedtak:
+Klagene tas ikke til følge. Saken sendes til Statsforvalteren til sluttbehandling
+Klagene gis utsettende virkning i henhold til forvaltningsloven § 42
+
+Voteringer:
+- Votering om habilitet for repr. Tamnes
+  - Inhabil: 26 stemmer
+- Votering om utvalg for plansaker sitt forslag til vedtak
+  - For utvalg for plansaker sitt forslag: 26 stemmer

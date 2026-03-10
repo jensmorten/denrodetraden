@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/006
+rodt_fremmet: False
+---
+
+Tittel: Protokoll Årsmøte 22.04.2024 Revisjon Midt-Norge SA
+
+Vedtak:
+Saken tatt til orientering i samlesak PS 24/051.

@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/121
+rodt_fremmet: False
+---
+
+Tittel: Salg av Tarva skole
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Vedtak av saken om salg av Tarva skole
+  - Utsatt: ukjent

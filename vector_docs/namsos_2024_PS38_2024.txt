@@ -1,0 +1,8 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 38/2024
+rodt_fremmet: False
+---
+
+Tittel: None

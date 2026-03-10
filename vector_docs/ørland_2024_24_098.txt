@@ -1,0 +1,20 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/098
+rodt_fremmet: False
+---
+
+Tittel: Medlemskap Fellesråd - grensekomite Trøndelag og Jämtland og Härjedalen
+
+Vedtak:
+1. Ørland kommune opprettholder formannskapets vedtak fra 16.05.2024 om medlemskap i Fellesråd - grensekomite Trøndelag og Jämtland og Härjedalen.
+2. Årlig medlemsavgift på kr 55.000 innarbeides i budsjett fra 2025.
+
+Voteringer:
+- Votering over forslag i kommunestyret 29.08.2024
+  - For: 27 stemmer
+  - Mot: 4 stemmer
+- Votering over forslag i formannskapet 15.08.2024
+  - For: 7 stemmer
+  - Mot: 0 stemmer

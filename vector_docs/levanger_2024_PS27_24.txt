@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 27/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av revisor til Levanger kommuneskoger KF
+
+Vedtak:
+Revisjon Midt-Norge SA (Org.nr. 919 902 310) velges til revisor for Levanger kommuneskoger KF.
+
+Voteringer:
+- Avstemning om valg av revisor for Levanger kommuneskoger KF
+  - Revisjon Midt-Norge SA: enstemmig

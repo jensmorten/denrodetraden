@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 54/24
+rodt_fremmet: False
+---
+
+Tittel: Oppnevning av representanter til Levanger Ungdomsråd 2024 - 2025
+
+Vedtak:
+Oppnevning av representanter til Levanger Ungdomsråd 2024 - 2025
+
+Voteringer:
+- Avstemning over Valgutvalgets forslag til oppnevning av representanter til Levanger Ungdomsråd 2024 - 2025
+  - For forslaget: 34 stemmer

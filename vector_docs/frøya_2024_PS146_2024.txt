@@ -1,0 +1,10 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 146/2024
+rodt_fremmet: False
+---
+
+Tittel: Hovedutvalg ledernes orientering
+
+Vedtak:

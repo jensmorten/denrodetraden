@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 15/24
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling - Folloplatået, planID 2022008
+
+Vedtak:
+I medhold av Plan- og bygningslovens § 12-12/12 vedtas reguleringsplan for Folloplatået slik den foreligger i vedlagte plandokumenter.
+
+Voteringer:
+- Votering i Hovedutvalg Forvaltning 13.02.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 05.03.2024
+  - Hovedutvalg forvaltnings innstilling: enstemmig

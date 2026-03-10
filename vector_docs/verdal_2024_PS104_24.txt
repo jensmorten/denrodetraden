@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 104/24
+rodt_fremmet: False
+---
+
+Tittel: Sak 104/2024
+
+Vedtak:
+Kommunestyret tar saken til orientering.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

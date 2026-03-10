@@ -1,0 +1,23 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 064/24
+rodt_fremmet: True
+---
+
+Tittel: Bygging av nytt legesenter
+
+Vedtak:
+Investeringsbeløpet for Legesenteret økes til 60,225 millioner kr. inklusive mva. 48,18 millioner eksklusive mva. Nettobeløpet på 38,18 millioner finansieres med økt låneopptak.
+
+Alternative forslag:
+- Stig-Arvid Leinum (R): 1. Bygging/rehabilitering av nytt legesenter utsettes på ubestemt tid. 2. Legevakta flyttes så raskt som mulig til det gamle legesenteret.
+
+Voteringer:
+- Votering om habilitet for representant Tamnes
+  - Inhabil: enstemmig
+- Votering om habilitet for representant Kjellmark
+  - Inhabil: enstemmig
+- Votering om formannskapets innstilling mot endringsforslaget fra H, V, SP, Røroslista og R
+  - Formannskapets innstilling: 15 stemmer
+  - Endringsforslaget fra H, V, SP, Røroslista og R: 11 stemmer

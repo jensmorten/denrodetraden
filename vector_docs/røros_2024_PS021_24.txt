@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 021/24
+rodt_fremmet: False
+---
+
+Tittel: Kontrollutvalgets årsrapport 2023
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsrapport 2023 til orientering.
+
+Voteringer:
+- Kontrollutvalgets forslag til vedtak
+  - For: enstemmig

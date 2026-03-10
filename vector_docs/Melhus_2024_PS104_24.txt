@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 104/24
+rodt_fremmet: False
+---
+
+Tittel: Revidering av samarbeidsavtale for interkommunalt skadefellingslag
+
+Vedtak:
+Melhus kommune slutter seg til vedlagte samarbeidsavtale om interkommunalt skadefellingssamarbeid for rovvilt, etter kommuneloven kapittel 20, i kommunene Holtålen, Røros, Tydal, Selbu, Trondheim, Melhus, Midtre Gauldal, Rennebu og Oppdal. Ny avtale erstatter gjeldende samarbeidsavtale for vertskommunesamarbeid om skadefelling med mer av bjørn av 2017.
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak
+  - For: Enstemmig

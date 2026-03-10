@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 11/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av styremedlemmer til Orkla Sparebanks Næringsfond
+
+Vedtak:
+Som styremedlemmer til Orkla Sparebanks Næringsfond velges: Hanne Nyhus og Hans Kringstad.
+
+Voteringer:
+- Votering i Valgutvalg 30.01.2024
+  - Forslaget (Hanne Nyhus og Hans Kringstad): enstemmig
+- Votering i Kommunestyre 30.01.2024
+  - Valgutvalgets innstilling: enstemmig

@@ -1,0 +1,23 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 27/2024
+rodt_fremmet: False
+---
+
+Tittel: Investeringsbehov ved Seniorhuset i Namsos - endring av tidsplan og finansiering
+
+Vedtak:
+Kommunestyret vedtar en samlet investeringsramme på 3 millioner kroner for prosjekt 8130 – «Seniorhuset, ny heis, låsesystem samt innvendig renovering» i 2024.
+Dette innebærer at planlagt investering på 1 million kroner i 2025 til prosjektet i vedtatt handlings- og økonomiplan 2024-2027, flyttes fram for gjennomføring i 2024. I tillegg økes samlet investeringsbeløp med 1 million kroner for å kunne gjennomføre og ferdigstille de anbefalte tiltakene i år.
+Samlet investeringsramme for prosjektet blir dermed 3 millioner kroner i 2024.
+Følgende budsjettendring gjøres i investeringsbudsjettet for 2024:
+d/: 02300.6400.26500.8130 2 000 000,- Kjøp av tjenester bygg
+k/: 09100.8900.87000.9999 2 000 000,- Økt bruk av lån
+Investeringsbudsjettet i økonomiplan for 2025 reduseres med 1 mill. kroner for prosjektet.
+Hjemmel for vedtaket er:
+Namsos kommunes delegasjonsreglement.
+
+Voteringer:
+- Avstemning over formannskapets forslag til vedtak om investeringsramme for Seniorhuset
+  - For: 33 stemmer

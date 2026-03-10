@@ -1,0 +1,27 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/129
+rodt_fremmet: False
+---
+
+Tittel: Retningslinjer for eiendommer som kan pålegges å tilknyttes til kommunal avløpsledning
+
+Vedtak:
+Ørland kommunestyre vedtar følgende retningslinjer for eiendommer som skal pålegges å tilknytte til kommunal avløpsledning i henhold til plan og bygningsloven § 27-2:
+1. Kommunene skal bidra til samarbeid mellom grunneierne der dette er naturlig ut fra geografiske forhold, for om mulig å redusere kostnadene for den enkelte.
+2. Grunneier er ansvarlig for kvalitet og anleggskostnadene fram til kommunal ledning. Alle privatledninger, eksisterende og nylagt, skal være iht. vedtatte VA-norm for Ørland kommune og Tekniske bestemmelser - Standard abonnementsvilkår for vann og avløp. Dette må dokumenteres.
+3. Det kan søkes om fritak fra krave om tilknytting til offentlig avløpsanlegg dersom tilkobling vil utgjøre en uforholdsmessig stor kostnad.
+4. “Uforholdsmessig stor kostnad” er definert å være når kostnaden overstiger 1 G regnet som totalbeløp for graving og tilkobling. Det skal innhentes priser fra minst 3 entreprenører
+5. Dersom det foreligger helsemessige forhold eller betydelig fare for forurensning som kun kan løses tilfredsstillende ved tilknytning til offentlig ledning, kan tilknytning kreves selv om kostnadene er høyere enn 1 G.
+6. Det kan søkes om fritak fra kravet om tilkobling dersom det foreligger særlige hensyn.
+7. "Særlige hensyn" foreligger når eiendommen har et eksisterende anlegg som kommunen vurderer at tilfredsstiller kravene i forurensningsforskriften og lokal forskrift om utslipp av avløpsvann fra mindre avløpsanlegg
+
+Alternative forslag:
+- Gunnar Hofstad, Industri- og Næringspartiet: I særlige tilfeller, og etter søknad kan unntak for eneboliger i kommunen vurderes , der at man ikke skal trenge å oppfylle reglene før fem år etter salg, utleie eller annen overføring
+I disse tilfellene vil dette medføre en at en takst av eiendommen vil gi TG 3 på VA anlegg, og således ligge som en klargjort heftelse, og tiltak må derved effektueres ved eventuell salg/overdragelse eller utleie som nevnt over.
+
+Voteringer:
+- Votering over forslag
+  - For: 9 stemmer
+  - Mot: 0 stemmer

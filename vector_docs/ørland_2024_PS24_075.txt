@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/075
+rodt_fremmet: False
+---
+
+Tittel: Saldering 1 investering 2024 - Roret Ørland kulturforetak KF
+
+Vedtak:
+1. Udekket beløp på investeringsregnskapet fra 2022 dekkes som følger:
+2. Investeringsbudsjettet for 2024 salderes som følger:
+
+Voteringer:
+- Votering over forslag: Innstilling fra Styret i Roret Ørland Kulturforetak fra møte 10.06.24
+  - For: 26 stemmer
+  - Mot: 0 stemmer

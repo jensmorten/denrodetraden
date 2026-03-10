@@ -1,0 +1,19 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 58/24
+rodt_fremmet: False
+---
+
+Tittel: Sak 58/2024
+
+Vedtak:
+Saken tas til orientering.
+
+Alternative forslag:
+- Anne Kolstad (SV): Kommunestyret ber om at Verdalskalk ikke søker konsesjon i Tromsdalsallmenningen før det foreligger en avtale som sikrer rettighetene til de bruksberettigede.
+
+Voteringer:
+- Alternativ votering mellom innstillingen fra utvalg plan og samfunn og forslaget fra SV
+  - Utvalgets innstilling: 34 stemmer
+  - Forslaget fra SV: 1 stemmer

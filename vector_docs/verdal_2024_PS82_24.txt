@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 82/24
+rodt_fremmet: False
+---
+
+Tittel: PS 82/24 Orientering demensomsorg
+
+Vedtak:
+Saken til orientering
+Kommunestyret ønsker en oppdatert orientering om demensomsorgen til høsten, i forkant av budsjett- og økonomiplanprosess.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

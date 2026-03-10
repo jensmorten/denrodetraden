@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/107
+rodt_fremmet: False
+---
+
+Tittel: Kommunal planstrategi for Ørland kommune 2024 - 2027
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven §10-1 vedtar kommunestyret planstrategi for Ørland kommune 2024-2027.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 31 stemmer

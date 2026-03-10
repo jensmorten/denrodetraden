@@ -1,0 +1,22 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/037
+rodt_fremmet: True
+---
+
+Tittel: Samarbeidsavtaler for interkommunale samarbeid i Fosenregionen
+
+Vedtak:
+Ørland kommunestyre vedtar Håndbok for interkommunale samarbeid i Fosenregionen og samarbeidsavtaler for samarbeidsordningene i Fosenregionen, som vedlagt.
+
+Alternative forslag:
+- Ole Edvard Antonse, Rødt: Saken utsettes til neste møte.
+
+Voteringer:
+- Votering over forslag - Opprinnelig forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag - Forslag fra Ole Edvard Antonse, Rødt
+  - For: 21 stemmer
+  - Mot: 8 stemmer

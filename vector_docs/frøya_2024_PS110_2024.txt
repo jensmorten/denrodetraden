@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 110/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 110/2024 Valg av møtefullmektig til forliksrådet perioden 2025 - 2028
+
+Vedtak:
+Kirsten R. Antonsen f: 1960
+Zivile Mickuniene f: 1969
+Pål Terje Bekken f: 1958
+
+Voteringer:
+- Vedtak av møtefullmektige til forliksrådet for perioden 2025-2028
+  - Enstemmig: alle

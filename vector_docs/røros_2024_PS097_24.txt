@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 097/24
+rodt_fremmet: False
+---
+
+Tittel: Suppleringsvalg etter Reidun Roland
+
+Vedtak:
+Som foreslått i valgutvalgets forslag med detaljer som ovenfor.
+
+Alternative forslag:
+- Valgutvalget: ['1. Som medlem av råd for personer med funksjonsnedsettelser for perioden 2023-2027 velges Kjell Engan (LHL)', '2. Som vara for Arne Drøyvollsmo i sakkyndig ankenemnd for eiendomsskatt perioden 2023-2027 velges Kai Arne Stenvold', '3. Som vara i eldrerådet perioden 2023-2027 velges Idar Bransfjell', '4. Som vara styret for Røros frivilligsentral perioden 2023-2027 velges Mattis Danielsen', '5. Som vara styret Småhagene borettslag perioden 2023-2027 velges Anne Grete Sandbakken', '6. Som vara Falkberget-ringen perioden 2023-2027 velges Randi Borgos']
+
+Voteringer:
+- Votering over valgutvalgets forslag til vedtak
+  - For: Enstemmig

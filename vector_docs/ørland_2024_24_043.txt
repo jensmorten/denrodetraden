@@ -1,0 +1,23 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/043
+rodt_fremmet: False
+---
+
+Tittel: Utredning salg av kommunens aksjepost i Trønder Energi konsernet
+
+Vedtak:
+1. Saken tas til orientering.
+2. Saken tas opp til fornyet behandling når det foreligger et tilbud fra KLP.
+
+Voteringer:
+- Votering over forslag: Punktvis avstemming - punkt 1
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Punktvis avstemming - punkt 2
+  - For: 27 stemmer
+  - Mot: 4 stemmer
+- Formannskapets votering over opprinnelig forslag 11.04.2024
+  - For: 7 stemmer
+  - Mot: 0 stemmer

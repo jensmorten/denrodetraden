@@ -1,0 +1,23 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 14/24
+rodt_fremmet: False
+---
+
+Tittel: Politisk behandling av klage på reguleringsplan for Vormstad Biopark
+
+Vedtak:
+Hovedutvalg Forvaltning finner ikke at klagene tilfører saken nye momenter som gir grunnlag for å endre kommunestyrets vedtak i sak 25/23, datert 24.10.2023, Reguleringsplan for Vormstad Biopark. Hovedutvalget opprettholder derfor sitt vedtak i sak 25/23 og klagene tas ikke til følge. Klagene oversendes Statsforvalter til endelig avgjørelse.
+
+Alternative forslag:
+- Ola Bjørkøy på vegne av SP: Hovedutvalg Forvaltning tar klagen til følge i punktet om konsekvensutredning. Hovedutvalg Forvaltning ber om at tiltaket med reguleringsplan for Vormstad Biopark konsekvensutredes. Dette begrunnes med Miljødirektoratets uttalelse i saken: «Miljødirektoratet påpeker at biogassanlegg ikke eksplisitt er omfattet av KU-forskriften. De legger likevel til grunn at tiltaket skulle vært konsekvensutredet fordi det i henhold til veiledning gitt av EU kommisjonen til EIA- og SEA direktivene faller inn under kategorien i punkt 10 i forskrift om konsekvensutredninger «Avfallsanlegg for behandling av husholdnings- og næringsavfall ved forbrenning eller kjemisk behandling med en kapasitet på mer enn 100 tonn per dag (mindre anlegg omfattes av vedlegg II nr. 11b).».
+- Ola Bjørkøy SP (Kommunestyret): Kommunestyret tar klagen til følge i punktet om konsekvensutredning. Kommunestyret ber om at tiltaket med reguleringsplan for Vormstad Biopark konsekvensutredes. Dette begrunnes med Miljødirektoratets uttalelse i saken: «Miljødirektoratet påpeker at biogassanlegg ikke eksplisitt er omfattet av KU-forskriften. De legger likevel til grunn at tiltaket skulle vært konsekvensutredet fordi det i henhold til veiledning gitt av EU kommisjonen til EIA- og SEA direktivene faller inn under kategorien i punkt 10 i forskrift om konsekvensutredninger «Avfallsanlegg for behandling av husholdnings- og næringsavfall ved forbrenning eller kjemisk behandling med en kapasitet på mer enn 100 tonn per dag (mindre anlegg omfattes av vedlegg II nr. 11b).».
+
+Voteringer:
+- Votering i Hovedutvalg Forvaltning 13.02.2024 om Ola Bjørkøy på vegne av SP sitt forslag om å ta klagen til følge i punktet om konsekvensutredning.
+  - Ola Bjørkøy på vegne av SP sitt forslag: 5 stemmer
+  - Mot (Kommunedirektørens innstilling): 6 stemmer
+- Votering i Kommunestyret 05.03.2024 om Ola Bjørkøy SP sitt forslag om å ta klagen til følge i punktet om konsekvensutredning.
+  - Hovedutvalg forvaltnings innstilling: 24 stemmer
+  - Ola Bjørkøy SP sitt forslag: 19 stemmer

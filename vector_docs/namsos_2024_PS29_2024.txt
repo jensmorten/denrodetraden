@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 29/2024
+rodt_fremmet: False
+---
+
+Tittel: Kvalitetsmelding 2023 for Namsos Opplæringssenter og Innvandrertjenesten i Namsos kommune
+
+Vedtak:
+Kvalitetsmelding 2023 for Namsos Opplæringssenter og innvandrertjenesten i Namsos kommune tas til orientering.
+
+Voteringer:
+- Avstemning over innstilling om kvalitetsmelding 2023 for Namsos Opplæringssenter og Innvandrertjenesten
+  - For: 33 stemmer

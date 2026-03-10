@@ -1,0 +1,23 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: FO 14/24
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon fra Mats Henriksen (FRP) - Kreft og paliasjon
+
+Vedtak:
+Det legges frem en sak for politisk behandling om status for kreft – og paliasjonsarbeid i Levanger kommune, og hvordan det jobbes for å følge opp de kritiske områdene som er beskrevet i risikoanalysen koordinator har utarbeidet. Saken skal inneholde oversikt over hvilken kompetanse som fins innenfor kreft – og paliasjonsarbeid i Levanger kommune, og hvilken plan kommunen har for kompetanseutvikling.
+Det skal også foretaes en risikoanalyse av de relevante parter i fellesskap
+
+Alternative forslag:
+- Janne K. J. Larsen (FRP): Det legges frem en sak for politisk behandling om status for kreft – og paliasjonsarbeid i Levanger kommune, og hvordan det jobbes for å følge opp de kritiske områdene som er beskrevet i risikoanalysen koordinator har utarbeidet. Saken skal inneholde oversikt over hvilken kompetanse som fins innenfor kreft – og paliasjonsarbeid i Levanger kommune, og hvilken plan kommunen har for kompetanseutvikling.
+- Janne K. J. Larsen (FRP): Det skal også foretaes en risikoanalyse av de relevante parter i fellesskap
+
+Voteringer:
+- Votering over oversendelsesforslaget om status for kreft- og paliasjonsarbeid i Levanger kommune
+  - For: 34 stemmer
+  - Imot: 1 stemmer
+- Votering over tilleggsforslaget om at det skal foretas en risikoanalyse av de relevante parter i fellesskap
+  - For: 35 stemmer

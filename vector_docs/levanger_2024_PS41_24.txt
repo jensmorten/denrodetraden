@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 41/24
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering for fellesbrygge i Lofjorden - sluttbehandling
+
+Vedtak:
+Detaljregulering Fellesbrygge Hesttrøa i Lofjorden vedtas jfr. plan- og bygningsloven § 12-12.
+
+Voteringer:
+- Avstemning om vedtak av detaljregulering for fellesbrygge i Lofjorden
+  - For: Enstemmig

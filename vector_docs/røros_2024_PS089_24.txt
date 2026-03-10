@@ -1,0 +1,21 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 089/24
+rodt_fremmet: True
+---
+
+Tittel: Tilstandsrapport for Rørosskolen 2024
+
+Vedtak:
+Tilstandsrapporten tas til orientering.
+
+Alternative forslag:
+- Stig-Arvid Leinum (R): Forslag om kartleggingsundersøkelser for mobbing ved Rørosskolene.
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak
+  - Formannskapets forslag: 27 stemmer
+- Votering over tilleggsforslaget om kartleggingsundersøkelser for mobbing
+  - For tilleggsforslaget: 5 stemmer
+  - Mot tilleggsforslaget: 22 stemmer

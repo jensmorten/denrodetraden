@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 107/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 107/2024 Tilstandsrapport for oppvekst 2023-2024
+
+Vedtak:
+Kommunestyret tar «Tilstandsrapport for oppvekst 2023 – 2024» til orientering.
+
+Voteringer:
+- Vedtak i Hovedutvalg for levekår 19.09.2024
+  - For: Enstemmig
+- Vedtak i Kommunestyret 03.10.2024
+  - For: Enstemmig

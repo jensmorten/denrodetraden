@@ -1,0 +1,17 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS-137/24
+rodt_fremmet: False
+---
+
+Tittel: 137/24 Revidert selskapsavtale Konsek
+
+Vedtak:
+Kommunestyret vedtar revidert forslag til selskapsavtale fra Konsek Trøndelag IKS.
+
+Voteringer:
+- Endring i formulering fra AS til IKS
+  - For endring: enstemmig
+- Vedtak av kommunedirektørens forslag til vedtak med endring fra AS til IKS
+  - For vedtak med endring: enstemmig

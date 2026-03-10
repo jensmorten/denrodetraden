@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/077
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport for de kommunale grunnskolene i Ørland kommune 2023
+
+Vedtak:
+Tilstandsrapport for de kommunale grunnskolene i Ørland kommune 2023 tas til orientering.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Utvalg for oppvekst og utdanning sitt møte 11.06.24
+  - For: 30 stemmer
+  - Mot: 0 stemmer

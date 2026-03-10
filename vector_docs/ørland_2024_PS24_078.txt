@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/078
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om vedtekter for SFO
+
+Vedtak:
+Vedlagte forskrift om vedtekter for SFO vedtas.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 30 stemmer

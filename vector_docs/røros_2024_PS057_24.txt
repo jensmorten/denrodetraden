@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 057/24
+rodt_fremmet: False
+---
+
+Tittel: Referatsaker kommunestyret 20.6.2024
+
+Vedtak:
+Kommunestyret tar referatsakene til orientering.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

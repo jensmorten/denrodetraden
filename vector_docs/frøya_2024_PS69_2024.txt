@@ -1,0 +1,18 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 69/2024
+rodt_fremmet: False
+---
+
+Tittel: Revidering av handlings- og tiltaksdel i kommunedelplan for Trafikksikkerhet 2022-2025
+
+Vedtak:
+Kommunestyret slutter seg til det framlagte forslag med revidering av handlings- og tiltaksplan for kommunedelplan for trafikksikkerhet.
+Kommunedirektøren bes følge opp tiltak i det reviderte dokumentet.
+
+Voteringer:
+- Vedtak i Trafikksikkerhetsutvalgets møte den 11.06.2024, sak 11/2024
+  - Enstemmig: alle
+- Vedtak i Kommunestyrets møte den 20.06.2024, sak 69/2024
+  - Enstemmig: alle

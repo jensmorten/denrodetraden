@@ -1,0 +1,18 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 25/24
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjons - forslag til etablering av aktivitetspark Lundamo - Anja Sterten og Jørn Ove Moen - Ap
+
+Vedtak:
+Interpellasjonen oversendes til rådmannen som et innspill til det kommende arbeidet med områdeplan for Lundamo sentrum.
+
+Alternative forslag:
+- ordfører: Interpellasjonen oversendes til rådmannen som et innspill til det kommende arbeidet med områdeplan for Lundamo sentrum.
+
+Voteringer:
+- Votering over alternativt forslag til vedtak fra ordfører
+  - Enstemmig vedtatt: alle

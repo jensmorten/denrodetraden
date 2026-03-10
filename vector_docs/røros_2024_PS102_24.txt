@@ -1,0 +1,24 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 102/24
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon kommunestyret 31.10.2024
+
+Vedtak:
+Kommunestyret ber kommunedirektøren redegjøre for den administrative organiseringen i Røros kommune, og tydeliggjøre hvor mange årsverk som er avsatt til administrative oppgaver i dagens organisasjonsmodell.
+Kommunestyret er opptatt av at kommunens organisasjon skal drifte så effektivt som mulig på alle områder, og ber kommunedirektøren komme tilbake til kommunestyret med vurdering til endringer, som kan bidra til mer effektiv drift av organisasjonen, med minst mulig konsekvens for sluttbruker.
+
+Alternative forslag:
+- Per Arne Gjelsvik (V): 1. Kommunestyret ber kommunedirektøren redegjøre for den administrative organiseringen i Røros kommune, og tydeliggjøre hvor mange årsverk som er avsatt til administrative oppgaver i dagens organisasjonsmodell.
+2. Kommunestyret er opptatt av at kommunens organisasjon skal drifte så effektivt som mulig på alle områder, og ber kommunedirektøren komme tilbake til kommunestyret med vurdering til endringer, som kan bidra til mer effektiv drift av organisasjonen, med minst mulig konsekvens for sluttbruker.
+
+Voteringer:
+- Votering over punkt 1 i endringsforslaget fra Per Arne Gjelsvik (V)
+  - For: 24 stemmer
+  - Mot: 3 stemmer
+- Votering over punkt 2 i endringsforslaget fra Per Arne Gjelsvik (V)
+  - For: 24 stemmer
+  - Mot: 3 stemmer

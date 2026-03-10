@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 43/24
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding for 2023 for eldrerådet
+
+Vedtak:
+Kommunestyret tar eldrerådets årsmelding for 2023 til orientering.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

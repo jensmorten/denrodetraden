@@ -1,0 +1,11 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 027/24
+rodt_fremmet: False
+---
+
+Tittel: Orienteringssak kommunestyret 25.04.2024
+
+Vedtak:
+Kommunestyret tar orienteringene til etteretning.

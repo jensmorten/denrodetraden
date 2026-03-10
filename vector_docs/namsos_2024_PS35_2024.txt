@@ -1,0 +1,19 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 35/2024
+rodt_fremmet: False
+---
+
+Tittel: 1.gangs behandling - Kommuneplanens arealdel for Namsos kommune
+
+Vedtak:
+Saken utsettes til kommunestyremøte i juni.
+
+Alternative forslag:
+- Randi Dille (Senterpartiet): Sak 35/24. Utsettelsesforslag fra SP, H, Krf, Frp, AP, V, SV og InP. Saken utsettes til kommunestyremøte i juni.
+
+Voteringer:
+- Avstemning om utsettelsesforslag fra SP, H, Krf, Frp, AP, V, SV og InP om å utsette saken til kommunestyremøte i juni.
+  - For utsettelsesforslaget: 30 stemmer
+  - Imot utsettelsesforslaget: 2 stemmer

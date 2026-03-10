@@ -1,0 +1,92 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 137/24
+rodt_fremmet: True
+---
+
+Tittel: Melhus kommune - budsjett 2025 og økonomi- og handlingsplan 2025-2028
+
+Vedtak:
+Fremlagte forslag til budsjett 2025/ økonomi- og handlingsplan 2025-2028 legges til grunn, med de endringer som fremgår av alternativt budsjettforslag i dette vedtak.
+
+Alternative forslag:
+- Marius Krogstad Aune (H) på vegner av H, ML, PP, FrP, R og INP: Saken utsettes til behandling på ekstraordinært kommunestyremøte i slutten av desember 2024. Rådmannen bes om å kvalitetssikre tallene, presentere mer treffsikre prognoser og utarbeide nytt budsjett hvor reelle tall fra inneværende år er vurdert med konsekvenser for neste års budsjett.
+- Marius Krogstad Aune (H) på vegner av H, ML, PP og FrP: Fremlagte forslag til budsjett 2025/ økonomi- og handlingsplan 2025-2028 legges til grunn, med de endringer som fremgår av alternativt budsjettforslag fra opposisjon. Inkluderer 13 verbalforslag om ressursbruk, organisering, private samarbeid, kostnadsreduksjon, IT, sikringskjøring, drift og ansettelsespraksis.
+- Sofie Torgersen (R) på vegne av R: Fremlagte forslag til budsjett 2025/ økonomi- og handlingsplan 2025-2028 legges til grunn, med de endringer som fremgår av alternativt budsjettforslag fra partiet Rødt. Inkluderer økte bevilgninger til Korsvegen legesenter, SFO, Sagauka, Gamle Hovin, og lønnsreduksjoner for ordfører, varaordfører og formannskapet, samt lønnsstopp for høytlønte administrative stillinger.
+- Karin Jordan Rutlien (INP) på vegne av INP: Fremlagte forslag til budsjett 2025/ økonomi- og handlingsplan 2025-2028 legges til grunn, med de endringer som fremgår av alternativt budsjettforslag fra Industri og næringspartiet.
+- Fritz Arne Haugen (SP) på vegne av AP, SP, KrF og SV: Fremlagte forslag til budsjett 2025/ økonomi- og handlingsplan 2025-2028 legges til grunn, med de endringer som fremgår av alternativt budsjettforslag fra posisjon. Inkluderer 6 verbalforslag om handlingsplan mot vold i nære relasjoner, skilting og tilrettelegging, rask psykisk helse, kulturråd, Korsvegen legekontor, og rullerende barnehageopptak.
+
+Voteringer:
+- Votering på utsettelsesforslag fra Marius Krogstad Aune (H) på vegner av H, ML, PP, FrP, R og INP
+  - For: 18 stemmer
+  - Mot: 19 stemmer
+- Votering på alternativt budsjettforslag fra INP
+  - For: 1 stemmer
+  - Mot: 36 stemmer
+- Votering på alternativt budsjettforslag fra Rødt
+  - For: 1 stemmer
+  - Mot: 36 stemmer
+- Votering på alternativt budsjettforslag fra opposisjon (H, ML, PP, FrP og INP)
+  - For: 16 stemmer
+  - Mot: 21 stemmer
+- Votering på alternativt budsjettforslag fra posisjon (A, SP, KrF, SV, INP og R)
+  - For: 21 stemmer
+  - Mot: 16 stemmer
+- Votering på verbalforslag nr 1 fra posisjon
+  - For: 21 stemmer
+  - Mot: 16 stemmer
+- Votering på verbalforslag nr 2 fra posisjon
+  - For: 21 stemmer
+  - Mot: 16 stemmer
+- Votering på verbalforslag nr 3 fra posisjon
+  - For: 37 stemmer
+  - Mot: 0 stemmer
+- Votering på verbalforslag nr 4 fra posisjon
+  - For: 22 stemmer
+  - Mot: 15 stemmer
+- Votering på verbalforslag nr 5 fra posisjon
+  - For: 24 stemmer
+  - Mot: 13 stemmer
+- Votering på verbalforslag nr 6 fra posisjon
+  - For: 21 stemmer
+  - Mot: 16 stemmer
+- Votering på verbalforslag nr 1 fra opposisjon
+  - For: 17 stemmer
+  - Mot: 20 stemmer
+- Votering på verbalforslag nr 2 fra opposisjon
+  - For: 17 stemmer
+  - Mot: 20 stemmer
+- Votering på verbalforslag nr 3 fra opposisjon
+  - For: 36 stemmer
+  - Mot: 1 stemmer
+- Votering på verbalforslag nr 4 fra opposisjon
+  - For: 36 stemmer
+  - Mot: 1 stemmer
+- Votering på verbalforslag nr 5 fra opposisjon
+  - For: 17 stemmer
+  - Mot: 20 stemmer
+- Votering på verbalforslag nr 6 fra opposisjon
+  - For: 17 stemmer
+  - Mot: 20 stemmer
+- Votering på verbalforslag nr 7 fra opposisjon
+  - For: 17 stemmer
+  - Mot: 20 stemmer
+- Votering på verbalforslag nr 8 fra opposisjon
+  - For: 37 stemmer
+  - Mot: 0 stemmer
+- Votering på verbalforslag nr 9 fra opposisjon med oversendelsesforslag
+  - For: 37 stemmer
+  - Mot: 0 stemmer
+- Votering på verbalforslag nr 10 fra opposisjon
+  - For: 17 stemmer
+  - Mot: 20 stemmer
+- Votering på verbalforslag nr 11 fra opposisjon med oversendelsesforslag
+  - For: 37 stemmer
+  - Mot: 0 stemmer
+- Votering på verbalforslag nr 12 fra opposisjon
+  - For: 17 stemmer
+  - Mot: 20 stemmer
+- Votering på verbalforslag nr 13 fra opposisjon
+  - For: 17 stemmer
+  - Mot: 20 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 16/24
+rodt_fremmet: False
+---
+
+Tittel: Referatsaker
+
+Vedtak:
+Referatsakene tas til orientering
+
+Voteringer:
+- Avstemning om at referatsakene tas til orientering
+  - Referatsakene tas til orientering: Enstemmig

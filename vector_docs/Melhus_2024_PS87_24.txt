@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 87/24
+rodt_fremmet: False
+---
+
+Tittel: Stortings- og sametingsvalget i 2025 - Fastsettelse av valgdag
+
+Vedtak:
+Stortings- og sametingsvalget 2025 fastsettes til mandag 8. september 2025.
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak
+  - For: Enstemmig

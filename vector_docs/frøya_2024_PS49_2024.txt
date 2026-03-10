@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 49/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 49/2024 SLUTTBEHANDLING - AURSØYA, GNR 65 BNR 528
+
+Vedtak:
+Saken trekkes og sendes til Hovedutvalg for samfunn
+
+Voteringer:
+- Vedtak om å trekke saken og sende den til Hovedutvalg for samfunn
+  - For: Enstemmig

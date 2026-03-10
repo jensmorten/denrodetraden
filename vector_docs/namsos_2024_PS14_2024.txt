@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 14/2024
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding Råd for personer med funksjonsnedsettelse 2023
+
+Vedtak:
+Namsos kommunestyre tar årsmeldingen fra Råd for personer med funksjonsnedsettelse til orientering.
+
+Voteringer:
+- Avstemning om innstilling: Forslag til vedtak om å ta årsmeldingen til orientering
+  - For: 34 stemmer

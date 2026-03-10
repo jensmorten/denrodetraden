@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 9/24
+rodt_fremmet: False
+---
+
+Tittel: Kontrollutvalgets årsmelding 2023
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsmelding 2023 til orientering.
+
+Voteringer:
+- Avstemning over kontrollutvalgets årsmelding 2023
+  - For: Enstemmig

@@ -1,0 +1,17 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 124/24
+rodt_fremmet: False
+---
+
+Tittel: Nyvalg til Verdal ungdomsråd - fritakssøknad
+
+Vedtak:
+Johannes Rinnan fritas som medlem i Verdal ungdomsråd.
+William Eiken velges inn som nytt medlem etter Johannes Rinnan.
+Følgende velges som nye medlemmer etter de som har sittet i to år: Lukas Fyhn, Ida Duvsete Nilsen, Ingrid Frost, Lotta Garli Aasheim, Era Bjørnmelen Nessø
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

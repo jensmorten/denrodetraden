@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 79/24
+rodt_fremmet: False
+---
+
+Tittel: Bevilgning av midler til prosjektering av boliger for ungdommer med nedsatt funksjonsevne
+
+Vedtak:
+Kommunestyret bevilger 200.000 kroner til utredning av bygging av boliger for ungdommer med nedsatt funksjonsevne. Bevilgningen finansieres med bruk av disposisjonsfond. Kommunedirektøren får fullmakt til å gjennomføre nødvendige budsjettendringer som følge av vedtaket.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 27.08.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 10.09.2024
+  - Kommunedirektørens innstilling: 41 stemmer

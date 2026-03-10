@@ -1,0 +1,19 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 093/24
+rodt_fremmet: False
+---
+
+Tittel: Oppfølging politiske vedtak kommunestyret våren 2024
+
+Vedtak:
+Kommunestyret tar status på oppfølging av politiske vedtak i kommunestyret våren 2024 til orientering.
+SAK 58/23 Utvikling av parken ved Nilsenhjørnet utsettes.
+
+Alternative forslag:
+- Henrik Grønn (Ap): Utsettelse av sak 58/23 Utvikling av parken ved Nilsenhjørnet.
+
+Voteringer:
+- Votering over forslag om utsettelse av sak 58/23 Utvikling av parken ved Nilsenhjørnet.
+  - For utsettelse: enstemmig

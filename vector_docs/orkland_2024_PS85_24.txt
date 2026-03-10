@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 85/24
+rodt_fremmet: False
+---
+
+Tittel: Tilleggsbevilgning nytt Meldal helsetun
+
+Vedtak:
+Kommunestyret vedtar en økt ramme på 16,85 millioner kroner inklusive merverdiavgift til fullføring av Meldal helsetun. Ny totalramme blir på 426,5 millioner kroner inklusive merverdiavgift. Økningen i 2024 på 17,1 total millioner kroner finansieres med 13,2 millioner kroner fra fond og 3,9 millioner kroner i merverdiavgiftskompensasjon. Følgende budsjettjustering vedtas for 2024: 02300.412012.2610.40003 økes med kr. 13 200 000, 04290.412012.2610.40003 økes med kr. 3 900 000, 07290.412012.8410.40003 økes med kr. 3 900 000, 09400.412012.8800.40003.254080001 økes med kr. 13 200 000
+
+Voteringer:
+- Votering i Formannskap 17.09.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 15.10.2024
+  - Formannskapets innstilling: enstemmig

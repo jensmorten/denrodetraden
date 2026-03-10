@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 37/24
+rodt_fremmet: False
+---
+
+Tittel: PS 37/24 Spørsmål til ordfører - digitalt utenforskap - Hege Anette Olstad - FRP
+
+Vedtak:
+Kommunestyret ber rådmannen om å legge frem en helhetlig plan før påske 2024 for hvordan kommunen kan forebygge digital utenforskap.
+
+Voteringer:
+- Votering om omforent forslag ved kommunestyret om å be rådmannen legge frem en helhetlig plan før påske 2024 for hvordan kommunen kan forebygge digital utenforskap.
+  - For: enstemmig

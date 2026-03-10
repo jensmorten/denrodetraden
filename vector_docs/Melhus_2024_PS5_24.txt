@@ -1,0 +1,17 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 5/24
+rodt_fremmet: False
+---
+
+Tittel: Valg til Melhus sparebanks generalforsamling 2024-2028
+
+Vedtak:
+Melhus kommunestyre velger følgende til Melhus sparebankens generalforsamling:
+Medlem: Anja Sterten, Tor Ingar Verstad og Jorid Oliv Jagtøyen
+Vara: Anne J. L. Byfuglien og Marius Krogstad Aune
+
+Voteringer:
+- Valg til Melhus sparebanks generalforsamling 2024-2028
+  - Vedtak: ukjent

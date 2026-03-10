@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 12/24
+rodt_fremmet: False
+---
+
+Tittel: Levanger Arena KF - valg av nestleder
+
+Vedtak:
+Som nestleder til styret i Levanger Arena KF velges: Trude Hynne
+
+Voteringer:
+- Valg av nestleder til styret i Levanger Arena KF
+  - Trude Hynne: enstemmig

@@ -1,0 +1,17 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 38/24
+rodt_fremmet: False
+---
+
+Tittel: PlanID 201912 - Detaljregulering - Fillan sentrum - Egengodkjenning av endringer som følge av innsigelse
+
+Vedtak:
+Hitra kommunestyre vedtar endring i bestemmelse om støy i planbestemmelsenes § 3.11 og endret bestemmelse om minimum antall boenheter i § 4.1. Hitra kommunestyre egengodkjenner de delene av detaljplan for Fillan sentrum som er endret etter imøtekommelse av innsigelse fra Statsforvalteren i Trøndelag. Vedtaket er fattet i henhold til plan- og bygningsloven § 12-12
+
+Voteringer:
+- Behandling av innstilling fra teknisk utvalg - plan, landbruk og miljø
+  - Enstemmig vedtatt: alle
+- Behandling av innstilling i teknisk utvalg - plan, landbruk og miljø
+  - Enstemmig vedtatt: alle

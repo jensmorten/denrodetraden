@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/088
+rodt_fremmet: False
+---
+
+Tittel: Høring av kommunedelplan for drikkevann 2024 - 2034
+
+Vedtak:
+Ørland kommune legger Kommunedelplan for drikkevann 2024 – 2034 ut til høring og offentlig ettersyn. Vedtaket er fattet med hjemmel i Plan- og bygningslovens § 11-14.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Planutvalgets møte 18.06.24
+  - For: 30 stemmer
+  - Mot: 0 stemmer

@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 73/24
+rodt_fremmet: False
+---
+
+Tittel: Delegeringsreglement
+
+Vedtak:
+Politisk delegeringsreglement vedtas. Det gjøres gjeldende fra 01.01.2025. Kommunedirektøren delegeres myndighet til å foreta løpende oppdateringer og endringer i reglementet så lenge disse ikke er av prinsipiell betydning.
+
+Voteringer:
+- Votering over innstillingen om politisk delegeringsreglement
+  - For: 35 stemmer

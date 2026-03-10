@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 125/2024
+rodt_fremmet: False
+---
+
+Tittel: FULLFINANSIERING - BYGGING AV SULA BRANNDEPOT P 551621
+
+Vedtak:
+Utsatt
+
+Voteringer:
+- Vedtak i kommunestyrets møte den 31.10.2024
+  - Utsatt: Enstemmig

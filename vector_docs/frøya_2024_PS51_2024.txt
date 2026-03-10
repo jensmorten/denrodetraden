@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 51/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 51/2024 Offentlig høring av nye statlige planretningslinjer for arealbruk og mobilitet
+
+Vedtak:
+Frøya kommune stiller seg bak reviderte statlige planretningslinjer for arealbruk og mobilitet.
+
+Voteringer:
+- Vedtak om å stille seg bak reviderte statlige planretningslinjer for arealbruk og mobilitet
+  - For: Enstemmig

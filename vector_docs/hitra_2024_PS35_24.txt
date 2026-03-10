@@ -1,0 +1,18 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 35/24
+rodt_fremmet: False
+---
+
+Tittel: Årsregnskap og årsberetning 2023 for Hitra kommune
+
+Vedtak:
+1. Hitra kommunestyre godkjenner Hitra kommunes Årsregnskap og Årsberetning for 2023 som vist i den digitale årsrapporten 2023.
+2. Driftsregnskapet viser et regnskapsmessig mindreforbruk på kr 787.846 som fremkommer etter strykning av bruk av disposisjonsfond. Regnskapet er oppgjort i balanse.
+
+Voteringer:
+- Vedtak av innstilling fra formannskapet i kommunestyret
+  - For: enstemmig
+- Vedtak av innstilling i formannskapet
+  - For: enstemmig

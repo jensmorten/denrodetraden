@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 32/24
+rodt_fremmet: False
+---
+
+Tittel: Melding om vedtak - Valg av medlem til styret i Hitra borettslag for valgperioden 2024-2027
+
+Vedtak:
+Kommunestyret tar saken til orientering.
+
+Voteringer:
+- Innstillingen ble enstemmig vedtatt.
+  - For: alle

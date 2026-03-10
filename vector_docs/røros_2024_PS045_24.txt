@@ -1,0 +1,11 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 045/24
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon til kommunestyret 30.05.2024
+
+Vedtak:
+Det ble ikke fremmet noe forslag til vedtak i saken.

@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 2/24
+rodt_fremmet: False
+---
+
+Tittel: PS 2/24 Ombygging inngangsparti NAV
+
+Vedtak:
+Investeringer 2024 økes med 700.000 kr til ombygging inngangsparti NAV.
+Investeringsutgiftene er finansiert med overføringer fra statlig NAV.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For innstillingen: enstemmig

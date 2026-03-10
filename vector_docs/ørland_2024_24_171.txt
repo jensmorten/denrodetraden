@@ -1,0 +1,25 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/171
+rodt_fremmet: False
+---
+
+Tittel: Tilskudd Toppidrettsuka 2025
+
+Vedtak:
+Ørland kommune er positive til henvendelsen fra Toppidrettsveka 2025 om å arrangere et TV-sendt rulleskiarrangement i Ørland fredag 22.08.2025.
+Ørland kommune kan bidra med tilskudd på kr 200.000,- som tas fra disposisjonsfond.
+Ordføreren og Roret AS i samarbeid med næringsforeningene gis i oppdrag å utrede, koordinere og gjennomføre de muligheter som ligger i arrangementet.
+En klar forutsetning for deltagelse i prosjektet er nasjonalt dekkende og ikke betalt TV overføring.
+
+Alternative forslag:
+- Eirik Lundemo, Høyre: ['Ørland kommune er positive til henvendelsen fra Toppidrettsveka 2025 om å arrangere et TV-sendt rulleskiarrangement i Ørland fredag 22.08.2025.', 'Ørland kommune kan bidra med tilskudd på kr 200.000,- som tas fra disposisjonsfond.', 'Ordføreren og Roret AS i samarbeid med næringsforeningene gis i oppdrag å utrede, koordinere og gjennomføre de muligheter som ligger i arrangementet.', 'En klar forutsetning for deltagelse i prosjektet er nasjonalt dekkende og ikke betalt TV overføring.']
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskapet i møte 05.12.24
+  - For: 7 stemmer
+  - Mot: 24 stemmer
+- Votering over forslag: Tilskudd Toppidrettsuka 2025 fra flertallet (SP, H, INP, V og FRP)
+  - For: 23 stemmer
+  - Mot: 8 stemmer

@@ -1,0 +1,11 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 075/24
+rodt_fremmet: False
+---
+
+Tittel: 075/24 Orienteringssak kommunestyre 29.08.24
+
+Vedtak:
+Kommunestyret tar orienteringene til etterretning

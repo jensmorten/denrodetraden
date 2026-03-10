@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/108
+rodt_fremmet: False
+---
+
+Tittel: Planprogram og varsel om oppstart - Kommunedelplan for kulturmiljø i Ørland kommune
+
+Vedtak:
+Ørland kommune legger planprogram for kommunedelplan for kulturmiljø ut til høring og offentlig ettersyn, og varsler med hjemmel i plan- og bygningslovens § 11-12 oppstart av planarbeidet.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

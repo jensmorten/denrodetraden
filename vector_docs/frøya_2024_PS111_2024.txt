@@ -1,0 +1,20 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 111/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 111/2024 Kommunedirektørens orientering
+
+Vedtak:
+Evaluering av siste kommunevalg
+Status ROP-boliger, Fredagsvika
+Oppfølging av HMS og sykefravær
+Status omstillingsutvalget
+Kommunebarometret – kort oppsummering
+Møtet lukkes på punkt 2 etter kommuneloven §11.5 punkt 3.b
+
+Voteringer:
+- Vedtak av sak 111/2024
+  - For: Enstemmig

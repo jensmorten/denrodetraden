@@ -1,0 +1,17 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 016/24
+rodt_fremmet: False
+---
+
+Tittel: Rollebeskrivelse representant for barn- og unge i plan- og byggesaker
+
+Vedtak:
+Vedlagte forslag til rollebeskrivelse for representant for barn og unge i plan- og byggesaker vedtas.
+
+Voteringer:
+- Behandling i Utvalg for plansaker 07.03.2024
+  - For: enstemmig
+- Kommunestyret 21.03.2024
+  - For: enstemmig

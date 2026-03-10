@@ -1,0 +1,20 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 3/24
+rodt_fremmet: False
+---
+
+Tittel: Sak 3/2024 - Bosetting av flyktninger i 2024
+
+Vedtak:
+1. Levanger kommune imøtekommer ikke anmodningen fra IMDi om å bosette totalt 236 flyktninger, inkludert 12 enslige mindreårige, i 2024.
+2. Levanger kommune kan bosette totalt 158 flyktninger, inkludert 8 enslige mindreårige, i 2024.
+
+Alternative forslag:
+- Gunnar Løvås (SV): Levanger kommune imøtekommer anmodningen fra IMDI om å bosette totalt 236 flyktninger, inkludert 12 enslige mindreårige, i 2024.
+
+Voteringer:
+- Alternativ votering mellom formannskapets innstilling og Løvås sitt forslag
+  - Formannskapets innstilling: 23 stemmer
+  - Løvås sitt forslag: 12 stemmer

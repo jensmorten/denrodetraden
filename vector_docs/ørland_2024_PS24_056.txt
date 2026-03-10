@@ -1,0 +1,22 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/056
+rodt_fremmet: False
+---
+
+Tittel: Høring av kommunedelplan for oppvekst og utdanning 2024-2036
+
+Vedtak:
+{'referanse': 'KST - 24/056', 'tekst': 'Ørland kommune legger Kommunedelplan for oppvekst og utdanning 2024 – 2036 ut til høring og offentlig ettersyn. Vedtaket er fattet med hjemmel i Plan- og bygningslovens § 11-14.'}
+{'referanse': 'UNG - 24/009', 'tekst': 'Høringen tatt til orientering.'}
+{'referanse': 'HEL - 24/016', 'tekst': 'Ørland kommune legger Kommunedelplan for oppvekst og utdanning 2024 – 2036 ut til høring og offentlig ettersyn. Vedtaket er fattet med hjemmel i Plan- og bygningslovens § 11-14.'}
+{'referanse': 'OPU - 24/015', 'tekst': 'Ørland kommune legger Kommunedelplan for oppvekst og utdanning 2024 – 2036 ut til høring og offentlig ettersyn. Vedtaket er fattet med hjemmel i Plan- og bygningslovens § 11-14.'}
+
+Voteringer:
+- Votering over forslag: Innstilling fra Utvalg for oppvekst og utdanning i møte 13.05.24
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Opprinnelig forslag i Utvalg for oppvekst og utdanning 13.05.2024
+  - For: 6 stemmer
+  - Mot: 0 stemmer

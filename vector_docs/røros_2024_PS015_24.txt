@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 015/24
+rodt_fremmet: False
+---
+
+Tittel: Planstrategi 2024-2027 - Høringsutkast
+
+Vedtak:
+I henhold til plan- og bygningslovens § 10-1 legges forslag til planstrategi for Røros kommune 2024-2027 ut på høring og offentlig ettersyn til 25. april.
+
+Voteringer:
+- Behandling i kommunestyret 21.03.2024
+  - For: enstemmig

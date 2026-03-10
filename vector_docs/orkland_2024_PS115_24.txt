@@ -1,0 +1,19 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 115/24
+rodt_fremmet: False
+---
+
+Tittel: Fra heldøgns omsorgsbolig til institusjonsplass
+
+Vedtak:
+Kommunestyre ber kommunedirektøren igangsette endring fra HDO til institusjon ved kommunens sykehjem.
+
+Voteringer:
+- Eldrerådets behandling 21.11.2024
+  - For: Enstemmig
+- Hovedutvalg helse, oppvekst og kultur behandling 03.12.2024
+  - For: Enstemmig
+- Kommunestyrets behandling 17.12.2024
+  - For: Enstemmig

@@ -1,0 +1,17 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 7/24
+rodt_fremmet: False
+---
+
+Tittel: Fastsettelse av eiendomsskattesats for 2024
+
+Vedtak:
+I medhold av Eiendomsskatteloven §§ 2, 3 og 10 fastsettes eiendomsskattesatsen for 2024 til:
+a. 2,80 o/oo i hele kommunen for alle bolig og fritidseiendommer.
+b. 4,00 o/oo i hele kommunen for øvrige eiendommer
+
+Voteringer:
+- Avstemning om fastsettelse av eiendomsskattesats for 2024
+  - For: Enstemmig

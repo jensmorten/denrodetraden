@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 091/24
+rodt_fremmet: False
+---
+
+Tittel: Oppdatering strategi for mangfold og inkludering
+
+Vedtak:
+Oppdatert strategi for mangfold og inkludering vedtas.
+
+Voteringer:
+- Utvalg for kultur og samfunnsutvikling forslag enstemmig vedtatt.
+  - For: alle

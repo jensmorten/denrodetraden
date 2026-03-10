@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/079
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjon av internkontrollen - tilleggsbestilling byggesaksbehandling
+
+Vedtak:
+Kommunestyret tar notat fra undersøkelse av byggesaksbehandlingen til orientering.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 31 stemmer

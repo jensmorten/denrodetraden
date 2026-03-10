@@ -1,0 +1,8 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 106/24
+rodt_fremmet: False
+---
+
+Tittel: 106/24 Budsjettregulering investering desember 2024

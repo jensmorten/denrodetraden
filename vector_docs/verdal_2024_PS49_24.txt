@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 49/24
+rodt_fremmet: False
+---
+
+Tittel: PS 49/24 Kommunale målsettinger for hjorteviltforvaltningen i Verdal kommune
+
+Vedtak:
+Kommunestyret vedtar målsettinger for hjorteviltforvaltningen som fremlagt, med de endringer som anbefales i høringsuttalelsen fra Trøndelag fylkeskommune
+
+Voteringer:
+- Votering over innstillingen fra utvalg for utmarkssaker
+  - For: enstemmig

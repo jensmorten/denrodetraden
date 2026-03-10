@@ -1,0 +1,26 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 83/24
+rodt_fremmet: False
+---
+
+Tittel: Omprioritering av tiltak for skolebruksplan 2024
+
+Vedtak:
+Kommunestyret vedtar å prioritere 1 000 000kr av årets avsatte midler til skolebruksplanen for å bytte ventilasjonsanlegget ved Grøtte ungdomsskole. De 4 tiltakene som nedprioriteres i 2024 forutsettes prioritert i plan for 2025.
+
+Alternative forslag:
+- Eli Birgitte Singstad (SP): De 4 tiltakene som nedprioriteres i 2024 forutsettes prioritert i plan for 2025.
+
+Voteringer:
+- Votering i Hovedutvalg Teknikk 27.08.2024 på tilleggsforslag fra Eli Birgitte Singstad
+  - For: enstemmig
+- Votering i Hovedutvalg Teknikk 27.08.2024 på kommunedirektørens innstilling
+  - For: enstemmig
+- Votering i Hovedutvalg helse, oppvekst og kultur 27.08.2024 på kommunedirektørens innstilling
+  - For: enstemmig
+- Votering i Kommunestyret 10.09.2024 på kommunedirektørens innstilling
+  - For: 41 stemmer
+- Votering i Kommunestyret 10.09.2024 på tilleggsforslag fra Hovedutvalg Teknikk
+  - For: 41 stemmer

@@ -1,0 +1,14 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/127
+rodt_fremmet: False
+---
+
+Tittel: Høring: forslag til revidert havneregulativ for Ørland kommune
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Vedtak om utsatt behandling av saken

@@ -1,0 +1,28 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 26/24
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til ordfører - vikarer på nattevakt Buen - Kristin Marken - Pp
+
+Vedtak:
+Svar på spørsmål til Pensjonistpartiet
+• Er normalbemanningen så robust at den kan tåle at noen er borte uten at det blir satt inn vikar?
+• Normal normbemanning i Buen sykehjem på natt er omtrent 1 ansatt per 20 pasienter. Denne normen tar hensyn til forskjellige faktorer som avstander, bygningsmessige utfordringer, bruk av varslingsteknologi og antall korttidsplasser. Det er viktig å merke seg at normen ikke er endelig og kan tilpasses situasjonen og behovene til pasientgruppen.
+Ekstra bemanning utover grunnbemanningen blir iverksatt i spesielle situasjoner, for eksempel når det er pasienter med respiratorbehandling, utagerende adferd eller 1:1 behov i forbindelse med terminalfase. Dette sikrer at kompetansen er tilstrekkelig for å håndtere spesifikke situasjoner.
+I dag har Buen sykehjem en grunnbemanning på ca. 3,3 ansatte etter normen, med 66 pasienter i sykehjemsavdelingene. Historisk sett har Buen hatt en grunnbemanning på 4 nattevakter, som ble opprettholdt frem til 2023 på grunn av korttidsavdelingen, bygningsmessige utfordringer og avstandene mellom avdelingene.
+I tillegg til grunnbemanningen kommer en ekstra nattevakt på forsterket skjermet avdeling knyttet til 1 pasient med 1:1 bemanning. Som svar på rekrutteringsutfordringer og behovet for ekstra bemanning på grunn av dobbeltrom i 2022 og 2023, ble det videre besluttet å tilsette 1 ekstra nattevakt i turnus, alle netter. Dette resulterte i totalt 5 nattevakter i grunnturnusen, i tillegg til den ekstra nattevakten på forsterket skjermet avdeling.
+Status i dag viser at bemanningen ikke er redusert, men tvert imot høyere enn normbemanningen. Det blir kun leid inn ekstra personell når det anses som strengt nødvendig, og det gjøres ikke unødvendige innleie ved ordinært fravær.
+• Hvordan kan den reduserte bemanningen på natt greie å håndtere de oppgavene som oppstår, også avvik som f.eks. brann og akutt sykdom?
+• Bemanningen på nattskiftet ved Buen sykehjem, med 5 nattevakter i grunnturnusen og en ekstra nattevakt på forsterket skjermet avdeling, gir en solid base for å håndtere ulike situasjoner, inkludert avvik som brann og akutt sykdom.
+Det er viktig å påpeke at bemanningen ikke er redusert, men økt for å møte behovene til pasientgruppen. Den ekstra nattevakten på forsterket skjermet avdeling med 1:1 bemanning gir spesialisert oppmerksomhet til den aktuelle pasienten. I tillegg er det avviklet dobbeltrom, noe som gir færre pasienter å ta hånd om sammenlignet med tidligere år.
+Til tross for dette er det nødvendig å være bevisst på rekrutteringsutfordringer og håndtere ekstra innleie med omhu. Ved å vurdere nøye når det er nødvendig å leie inn ekstra personell, sikrer Buen sykehjem at bemanningen er tilstrekkelig for å håndtere både planlagte og uforutsette situasjoner, inkludert brann og akutt sykdom.
+Det er i vurderingene lagt til grunn av Buen helse- og omsorgssenter også har stedlig nattevakt i hjemmetjenesten på huset samt nattevakt i hjemmesykepleien. Buen helse- og omsorgssenter har en nærhet til brannstasjonen og responstiden fra brannvesenet som er lav. Ved en brannalarm ved sykehjemmet vil sykehjemmet bli prioritert ved utrykning og motta raskt bistand fra brannvesenet.
+• Hvilken ROS-analyse er gjort for å beskrive hvilke tiltak som skal gjennomføres når bruker med definerte problemer har utagerende atferd, og det ikke er satt inn vekter?
+• I forbindelse med økende utfordringer knyttet til utagerende atferd blant pasienter ved Buen langtidsavdelingene, gjennomførte vi en Risiko- og Sårbarhetsanalyse (ROS-analyse) for å identifisere og adressere problemområder. Analysen involverte nøkkelpersonell fra avdelingen, HMS-gruppen ved Buen langtidsavdelingene, representanter fra personalavdelingen, bedriftshelsetjenesten og ledelsen.
+En spesifikk situasjon som ble håndtert var introduksjonen av en ny svært krevende bruker med betydelig utagerende atferd. For å øke sikkerheten til ansatte, medpasienter og besøkende, ble bruk av vekter iverksatt som et midlertidig tiltak etter grundig vurdering under ROS-analysen. Ansattes erfaringer og ønsker ble vektlagt, og vekterne ble utprøvd over en periode på 1-2 måneder.
+Imidlertid viste det seg at ordningen med en vekter ikke fungerte tilfredsstillende på lengre sikt, og etter nøye vurdering ønsket de ansatte å avslutte dette tiltaket. I stedet ble det besluttet å leie inn ekstra personell med spesialisert kompetanse for å håndtere utfordringene på en mer effektiv måte. Dette beslutningspunktet ble også basert på ansattes deltakelse i ROS-analysen.
+I dag ser vi positive endringer. Det er nå mindre utagerende atferd i avdelingene, dobbeltrom er eliminert, og den aktuelle brukeren mottar ikke lenger tjenester i institusjonstjenesten. Til tross for forbedringer, opplever vi fortsatt en viss grad av utfordrende atferd i avdelingen, noe som er forventet med den spesifikke pasientgruppen vi betjener.
+For å opprettholde sikkerheten og opprettholde tjenestekvaliteten, beholder vi den femte nattevakten i grunnturnusen. Dette skyldes manglende tilgjengelighet av vikarer og vedvarende rekrutteringsutfordringer. Vi fortsetter å overvåke situasjonen nøye og er åpne for ytterligere justeringer basert på løpende evalueringer og behovsanalyser.

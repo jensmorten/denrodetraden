@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 3/24
+rodt_fremmet: False
+---
+
+Tittel: Orklaparken Sør - Tilgjengelige midler og fremdrift
+
+Vedtak:
+Kommunestyret vedtar framdriftsplan for realisering av Orklaparken Sør som skissert i saken, med bruk av fond til finansiering. Dette gir følgende budsjettjustering: Konto Ansvar Tjeneste Prosjekt Tekst 02300 412150 3320 30053 + kr. 1.920.000 04290 412150 3320 30053 + kr. 480.000 07290 412150 8410 30053 - kr. 480.000 09700 412150 8800 30053 - kr. 1.920.000 19400 104010 8800 30053 256080820 - kr. 1.700.000 19400 104010 8800 30053 256080807 - kr. 220.000 15700 104010 8800 30053 + kr. 1.920.000
+
+Voteringer:
+- Votering i Hovedutvalg Teknikk 16.01.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 30.01.2024
+  - Hovedutvalg Teknikk sin innstilling: enstemmig

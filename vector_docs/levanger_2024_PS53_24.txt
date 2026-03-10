@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 53/24
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport for barnevernstjenesten i Levanger 2023/2024
+
+Vedtak:
+Tilstandsrapport for barnevernstjenesten 2023/2024 tas til orientering
+
+Voteringer:
+- Avstemning om innstilling: Tilstandsrapport for barnevernstjenesten 2023/2024 tas til orientering
+  - For: 34 stemmer

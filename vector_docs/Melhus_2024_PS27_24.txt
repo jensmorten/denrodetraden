@@ -1,0 +1,11 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 27/24
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til ordfører - Utvikling på Kvål - Hanne Aarhaug - H
+
+Vedtak:
+Svar på spørsmål fra Hanne Aarhaug angående utvikling på Kvål

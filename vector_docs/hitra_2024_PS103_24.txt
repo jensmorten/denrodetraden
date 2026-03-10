@@ -1,0 +1,16 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 103/24
+rodt_fremmet: False
+---
+
+Tittel: PS 103/24 Økonomireglement for Hitra kommune
+
+Vedtak:
+1. Hitra kommunestyre vedtar vedlagte forslag til nytt Økonomireglement for Hitra kommune.
+2. Nytt forslag til Økonomireglement erstatter tidligere reglement og trer i kraft når det er vedtatt.
+
+Voteringer:
+- Behandling av innstilling fra formannskapet i kommunestyret
+  - For: enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 082/24
+rodt_fremmet: False
+---
+
+Tittel: Plan for oppfølging av helhetlig ROS
+
+Vedtak:
+Kommunestyret tar plan for oppfølging av helhetlig ROS til orientering.
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak
+  - For: enstemmig

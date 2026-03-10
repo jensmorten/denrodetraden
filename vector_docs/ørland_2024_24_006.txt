@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/006
+rodt_fremmet: False
+---
+
+Tittel: Vedtaksprotokoller Ørland kommunestyre 01.05. - 31.08.2024
+
+Vedtak:
+Saken tas til orientering.
+
+Voteringer:
+- Votering nr 1 - Votering over forslag, Kommunestyre 12.09.2024
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering nr 1 - Votering over forslag, Formannskap 05.09.2024
+  - For: 6 stemmer
+  - Mot: 0 stemmer

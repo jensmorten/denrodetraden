@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 55/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 55/2024 Stortingsvalget og sametingsvalget 2025 - Fastsetting av valgdag.
+
+Vedtak:
+Kommunestyret tar fastsetting av valgdagen, mandag 8. september 2025 for stortings- og sametingsvalget til etterretning.
+Kommunestyret vedtar at det avholdes valgting også søndag 7. september 2025. Det overlates til valgstyret i Frøya kommune å bestemme hvilke stemmekretser som skal ha todagersvalg.
+
+Voteringer:
+- Vedtak om fastsetting av valgdagen og valgting søndag 7. september 2025
+  - Enstemmig: alle

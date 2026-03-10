@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 38/24
+rodt_fremmet: False
+---
+
+Tittel: Forslag til valg av skjønnsmedlemmer 2025 - 2028
+
+Vedtak:
+Kommunestyret foreslår vedlagte liste over kandidater som skjønnsmedlemmer fra Orkland kommune 2025 – 2028.
+
+Voteringer:
+- Votering i Valgutvalg 07.05.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 18.06.2024
+  - Valgutvalget tilråding: enstemmig

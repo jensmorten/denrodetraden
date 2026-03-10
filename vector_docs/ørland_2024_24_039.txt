@@ -1,0 +1,23 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/039
+rodt_fremmet: False
+---
+
+Tittel: Evaluering - organisering kommunalt næringsarbeid og oppgaver/tjenester i kommunale foretak
+
+Vedtak:
+Saken tas til orientering.
+Representant fra Landbrukskontoret inn i prosjektgruppe.
+
+Alternative forslag:
+- Jan-Inge Standahl, Senterpartiet: Nytt kulepunkt: Representant fra Landbrukskontoret inn i prosjektgruppe.
+
+Voteringer:
+- Votering over forslag: Nytt kulepunkt
+  - For: 29 stemmer
+  - Mot: 2 stemmer
+- Votering over forslag: Opprinnelig forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

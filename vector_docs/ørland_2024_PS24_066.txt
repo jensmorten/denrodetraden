@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/066
+rodt_fremmet: False
+---
+
+Tittel: Spørretimen/Interpellasjoner
+
+Vedtak:
+Spørsmål og interpellasjoner ble tatt til orientering og behandlet under sine respektive saksnummer.
+
+Voteringer:
+- Vedtak av interpellasjon FI 24/014
+  - Vedtak: Ikke spesifisert

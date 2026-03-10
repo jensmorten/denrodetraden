@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 22/24
+rodt_fremmet: False
+---
+
+Tittel: Reguleringsplan for Gammelosen renseanlegg
+
+Vedtak:
+I medhold av plan- og bygningslovens § 12-12 vedtar Orkland kommune reguleringsplan for Gammelosen renseanlegg slik den foreligger i vedlegg.
+
+Voteringer:
+- Kommunedirektøren sin innstilling i Hovedutvalg Forvaltning 12.03.2024
+  - For: enstemmig
+- Hovedutvalg forvaltning sin innstilling i Kommunestyre 09.04.2024
+  - For: 39 stemmer

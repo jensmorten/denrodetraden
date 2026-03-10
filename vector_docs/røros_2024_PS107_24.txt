@@ -1,0 +1,16 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 107/24
+rodt_fremmet: False
+---
+
+Tittel: Endring av skjenkebevillinger - Bergstadens Hotel AS
+
+Vedtak:
+Bergstadens hotells skjenkebevilling for lobbybaren endres slik at bevillingen omfatter skjenking for hotellets gjester i lukket lag etter alkoholloven § 4-3 sjuende ledd i arealene An-Magritt, Bør Børson, Gruva og Eli Sjursdotter.
+Bergstaden hotells skjenkebevilling for Restaurant 1897 endres slik at bevillingen omfatter skjenking for hotellets gjester i lukket lag etter alkoholloven § 4-3 sjuende ledd i restauranten.
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

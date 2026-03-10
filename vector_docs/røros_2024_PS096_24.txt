@@ -1,0 +1,18 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 096/24
+rodt_fremmet: False
+---
+
+Tittel: VALG AV VARAMEDLEM TIL MIDT-NORGE 110-SENTRAL IKS 2024-2027
+
+Vedtak:
+Som varamedlem i Midt-Norge 110-sentral IKS for perioden 2024-2027 velges: Varamedlem 2 Mona Slettum.
+
+Alternative forslag:
+- Valgutvalget: Som varamedlem i Midt-Norge 110-sentral IKS for perioden 2024-2027 velges: Varamedlem 2 Mona Slettum
+
+Voteringer:
+- Votering over valg av varamedlem 2 til Midt-Norge 110-sentral IKS for perioden 2024-2027
+  - For valg av Mona Slettum: Enstemmig

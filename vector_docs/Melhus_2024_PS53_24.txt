@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 53/24
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om skolerute i Melhus 2025 - 2026
+
+Vedtak:
+Forskrift om Skolerute Melhus kommune skoleåret 2025-26 vedtas og gjøres gjeldende fra 01.08.2025.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: Enstemmig

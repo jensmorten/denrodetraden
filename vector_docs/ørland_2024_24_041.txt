@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/041
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling - Detaljregulering for Reitan næringspark - planid 5057202108
+
+Vedtak:
+Med hjemmel i plan- og bygningsloven § 12-12 godkjenner Ørland kommune reguleringsplan for Reitan næringspark – planid 5057 202108 – med tilhørende bestemmelser og plankart datert 12.02.2024.
+
+Voteringer:
+- Votering over forslag i kommunestyret 18.04.2024
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag i Planutvalget 16.04.2024
+  - For: 9 stemmer
+  - Mot: 0 stemmer

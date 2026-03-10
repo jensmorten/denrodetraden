@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 19/24
+rodt_fremmet: False
+---
+
+Tittel: Suppleringsvalg 3. varamedlem fra SV til hovedutvalg helse, oppvekst og kultur (HOK)
+
+Vedtak:
+Anne Mari Svinsaas SV velges som nytt 3. varamedlem i hovedutvalg helse, oppvekst og kultur
+
+Voteringer:
+- Votering over Valgutvalgets innstilling
+  - For: enstemmig

@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/014
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og saksliste ble godkjent med følgende merknader:
+• Sak FI 24/005 Interpellasjon - Skyttelbuss i Ørland kommune og kostnader grunnet farlig skolevei - utsettes til neste møte i kommunestyret da representanten som har meldt inn interpellasjonen ikke er tilstede på dagens møte.
+
+Voteringer:
+- Godkjenning av innkalling og saksliste med merknad om utsettelse av sak FI 24/005
+  - For: enstemmig

@@ -1,0 +1,18 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/068
+rodt_fremmet: False
+---
+
+Tittel: Årsberetning og årsregnskap 2023 for Valsneset Utvikling Ørland KF
+
+Vedtak:
+Årsrapport og årsmelding for Valsneset Utvikling Ørland KF for 2023 vedtas som framlagt
+Udekket beløp på kr 915.397 dekkes inn ved bruk av investeringsfond
+Budsjettet endres tilsvarende
+
+Voteringer:
+- Votering over forslag: Innstilling fra Formannskapets møte 18.06.24
+  - For: 28 stemmer
+  - Mot: 0 stemmer

@@ -1,0 +1,19 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 94/24
+rodt_fremmet: False
+---
+
+Tittel: Verbalvedtak - SFO i Melhus
+
+Vedtak:
+Kommunestyret utsetter behandlingen av saken til UHOK har fått svar fra rådmannen på sine spørsmål, og behandler saken på nytt.
+
+Alternative forslag:
+- Jørgen Brun-Pedersen (AP) på vegner av AP, SP, KrF og SV: Kommunestyret utsetter behandlingen av saken til UHOK har fått svar fra rådmannen på sine spørsmål, og behandler saken på nytt.
+
+Voteringer:
+- Votering om utsettelsesforslaget fra Jørgen Brun-Pedersen (AP) på vegner av AP, SP, KrF og SV
+  - For utsettelsesforslaget: 20 stemmer
+  - Mot utsettelsesforslaget: 17 stemmer

@@ -1,0 +1,18 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 49/24
+rodt_fremmet: False
+---
+
+Tittel: Ombygging møtesenter NAV Levanger
+
+Vedtak:
+Ombygging av møtesenter NAV Levanger vedtas.
+Planløsning alternativ 1 vedtas som forelagt.
+Leieavtalen utvides med tre år til 2034.
+Økt husleie innarbeides i budsjett for 2025 og økonomiperioden 2025-2028
+
+Voteringer:
+- Avstemning om innstillingen for ombygging møtesenter NAV Levanger
+  - For: 35 stemmer

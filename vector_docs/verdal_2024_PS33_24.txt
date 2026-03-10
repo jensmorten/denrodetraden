@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 33/24
+rodt_fremmet: False
+---
+
+Tittel: Høring - Fastsetting av forskrift om saksbehandlingsgebyr etter lov om havner og farvann
+
+Vedtak:
+Verdal kommune slutter seg til Trondheim Havn IKS’ foreslåtte takster for saksbehandlingsgebyr for 2024 og 2025 som angitt i havneselskapets høringsnotat av 5. februar 2024.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

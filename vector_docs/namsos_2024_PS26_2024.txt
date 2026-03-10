@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 26/2024
+rodt_fremmet: False
+---
+
+Tittel: 2. gangs behandling - Detaljregulering Sandvika
+
+Vedtak:
+
+
+Voteringer:
+- Avstemning over utvalg for plan sitt forslag til vedtak
+  - For: 32 stemmer

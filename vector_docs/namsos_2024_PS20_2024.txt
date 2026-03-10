@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 20/2024
+rodt_fremmet: False
+---
+
+Tittel: Kjøp av eiendommer tilhørende Bane Nor Eiendom SF i Namsos
+
+Vedtak:
+
+
+Voteringer:
+- Avstemning over formannskapets forslag til vedtak
+  - For: 33 stemmer

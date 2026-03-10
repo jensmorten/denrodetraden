@@ -1,0 +1,25 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 9/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av klagenemnd for eiendomsskatt
+
+Vedtak:
+Som klagenemnd for eiendomsskatt velges:
+Leder: Oddvar Kjøren Varamedlem: Jørgen Indergård
+Nestleder: Marie richter Varamedlem:Kjetil Schive
+Medlem: Elin Randahl Varamedlem: Ola Bjørkøy
+
+Alternative forslag:
+- Valgutvalg: Oddvar Kjøren vara: Jørgen Indergård
+Marie Richter vara: Kjetil Schive
+Elin Randahl vara: Ola Bjørkøy
+
+Voteringer:
+- Votering i Valgutvalg 30.01.2024
+  - Forslaget: enstemmig
+- Votering i Kommunestyre 30.01.2024
+  - Valgutvalgets innstilling: enstemmig

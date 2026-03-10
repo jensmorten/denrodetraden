@@ -1,0 +1,18 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 11/2024
+rodt_fremmet: False
+---
+
+Tittel: Valg av styremedlemmer til Olav Duun-stiftelsen 2023 - 2027
+
+Vedtak:
+Styremedlemmer til Olav Duun-stiftelsen 2023-2027:
+Terje Adde , personlig vara: Kine Kvalstad
+Torgeir Strøm, personlig vara: Christer Lajord
+Tone Laugen , personlig vara: Grethe Lillian Tranaas
+
+Voteringer:
+- Avstemning om valg av styremedlemmer til Olav Duun-stiftelsen 2023-2027
+  - For forslaget: 34 stemmer

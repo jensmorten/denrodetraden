@@ -1,0 +1,21 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 166/2024
+rodt_fremmet: False
+---
+
+Tittel: Ansettelse av ny kommunedirektør
+
+Vedtak:
+Kandidat nr. 1: Bård Eidet til kommunedirektør i Frøya kommune og ansettelsesutvalget gis fullmakt til å fremforhandle en ansettelsesavtale.
+
+Alternative forslag:
+- Olaf Reppe: Kandidat nr. 1: Bård Eidet til kommunedirektør i Frøya kommune og ansettelsesutvalget gis fullmakt til å fremforhandle en ansettelsesavtale.
+
+Voteringer:
+- Formannskapets vedtak om ansettelse av kommunedirektør
+  - Vedtak med kandidat nr. 1 og 2: 6 stemmer
+  - Motforslag fra Olaf Reppe med kandidat nr. 1: 1 stemmer
+- Kommunestyrets vedtak om ansettelse av kommunedirektør
+  - Kandidat nr. 1: Bård Eidet: enstemmig

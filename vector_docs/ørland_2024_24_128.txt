@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/128
+rodt_fremmet: False
+---
+
+Tittel: Revisjon av kommunal forskrift til serverings- og alkoholloven - Ørland kommune
+
+Vedtak:
+{'organ': 'Kommunestyre', 'dato': '31.10.2024', 'sak': 'KST - 24/128', 'vedtak': 'Saken ble utsatt.'}
+{'organ': 'Formannskap', 'dato': '03.10.2024', 'sak': 'FSK - 24/064', 'vedtak': ['Forslag til endring på kommunal forskrift til serverings- og alkoholloven i Ørland kommune legges ut på offentlig høring på hjemmesiden, sendes bevillingshaverne, og andre berørte parter.', 'Endringene omhandler følgende:', '• utvidet tidspunkt for uteservering for alkohol', '• endring av avgjørelsesmyndighet i forhold til kontroll av salgs- og skjenkebevillinger', 'Høringsfrist er 6 uker fra kommunestyrets vedtak.']}
+
+Voteringer:
+- Votering over forslag i Formannskapet 03.10.2024
+  - For: 7 stemmer
+  - Mot: 0 stemmer

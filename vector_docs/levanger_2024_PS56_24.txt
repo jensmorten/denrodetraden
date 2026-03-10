@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 56/24
+rodt_fremmet: False
+---
+
+Tittel: Detaljregulering Synnøvegården - Fagerstrandvegen 8 - 5037/10/60
+
+Vedtak:
+Detaljregulering for Synnøvegården – Fagerstrandvegen 8, versjon revidert etter høring, vedtas i henhold til plan- og bygningslovens §12-12.
+
+Voteringer:
+- Avstemning om innstilling for detaljregulering for Synnøvegården – Fagerstrandvegen 8
+  - For forslaget: 34 stemmer

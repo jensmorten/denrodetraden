@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 110/24
+rodt_fremmet: False
+---
+
+Tittel: Fastsetting av valgdag - Stortings- og Sametingsvalget 2025
+
+Vedtak:
+Røros kommunestyre vedtar at Stortings- og Sametingsvalget i 2025 avholdes mandag 8.september 2025.
+
+Voteringer:
+- Kommunedirektørens forslag til vedtak
+  - For: enstemmig

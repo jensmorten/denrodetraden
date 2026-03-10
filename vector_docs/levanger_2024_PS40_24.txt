@@ -1,0 +1,22 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 40/24
+rodt_fremmet: False
+---
+
+Tittel: Mule Næringspark - Detaljregulering - sluttbehandling
+
+Vedtak:
+Detaljregulering for Mule næringspark, versjon revidert etter høring, vedtas i henhold til plan- og bygningslovens §12-12.
+Ved ferdigstilling av lekeområde bør en del av apparatene være universelt utformet.
+
+Alternative forslag:
+- Asgeir Persøy (PP): Ved ferdigstilling av lekeområde bør en del av apparatene være universelt utformet.
+
+Voteringer:
+- Avstemning om innstillingen
+  - For innstillingen: 35 stemmer
+- Avstemning om Persøys tilleggsforslag
+  - For tilleggsforslaget: 34 stemmer
+  - Mot tilleggsforslaget: 1 stemmer

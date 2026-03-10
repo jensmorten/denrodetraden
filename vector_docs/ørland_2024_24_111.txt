@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/111
+rodt_fremmet: False
+---
+
+Tittel: Valg av forliksråd for perioden 01.01.25 - 31.12.28
+
+Vedtak:
+
+
+Voteringer:
+- Votering over forslag forliksråd
+  - For: 31 stemmer
+  - Mot: 0 stemmer

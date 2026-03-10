@@ -1,0 +1,16 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 29/24
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon - Boligpolitikk - Karin Jordan Rutlin - INP
+
+Vedtak:
+Interpellasjonen utsettes til neste kommunestyremøte.
+
+Voteringer:
+- Vedtak om utsettelse av interpellasjon
+  - For utsettelse: ukjent
+  - Mot utsettelse: ukjent

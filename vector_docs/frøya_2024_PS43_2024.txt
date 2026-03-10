@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 43/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 43/2024 Eierskapsmelding for Frøya kommune 2024 – revidering
+
+Vedtak:
+Kommunestyret vedtar revidert Eierskapsmelding for Frøya kommune 2024.
+
+Voteringer:
+- Formannskapets behandling av sak 57/2024 i møte den 21.05.2024
+  - For: Enstemmig
+- Kommunestyrets behandling av sak 43/2024 i møte den 30.05.2024
+  - For: Enstemmig

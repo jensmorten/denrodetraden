@@ -1,0 +1,19 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/119
+rodt_fremmet: False
+---
+
+Tittel: Undervarme kunstgressbane i Bjugn
+
+Vedtak:
+Ørland kommune bevilger ikke ytterligere midler til undervarme kunstgressbane i Bjugn.
+
+Alternative forslag:
+- Opprinnelig forslag: Ørland kommune bevilger ikke ytterligere midler til undervarme kunstgressbane i Bjugn.
+
+Voteringer:
+- Votering over forslag
+  - For: 22 stemmer
+  - Mot: 8 stemmer

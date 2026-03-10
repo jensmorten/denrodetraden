@@ -1,0 +1,23 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 94/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv
+
+Vedtak:
+Vibecke Solberg Ree, SP gis fritak fra sine politiske verv i Orkland kommune fra 15.10.2024 og ut valgperioden.
+Varamedlemmer til kommunestyret rykker opp på SP’s varamannsliste fra 15.10.2024 og ut valgperioden.
+Som nytt varamedlem til hovedutvalg teknikk fra 15.10.2024 og ut valgperioden velges Stine Storengen.
+Som nytt varamedlem til hovedutvalg helse, oppvekst og kultur fra 15.10.2024 og ut valgperioden velges Lasse Hilstad Sørmo.
+
+Alternative forslag:
+- Stine Stoengen på vegne av Senterpartiet: Som nytt varamedlem til hovedutvalg teknikk fra 15.10.2024 og ut valgperioden velges Stine Storengen. Som nytt varamedlem til hovedutvalg helse, oppvekst og kultur fra 15.10.2024 og ut valgperioden velges Lasse Hilstad Sørmo.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - For: enstemmig
+- Votering over forslag fra Senterpartiet
+  - For: enstemmig

@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 12/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av nytt varamedlem til Fjellstyre 2023 - 2027
+
+Vedtak:
+Som varamedlem i Fjellstyret velges Bjørn Grønningen.
+
+Voteringer:
+- Valgutvalgets forslag om nytt varamedlem Bjørn Grønningen
+  - Bjørn Grønningen: enstemmig
+- Kommunestyrets vedtak basert på Valgutvalgets innstilling
+  - Valgutvalgets innstilling: enstemmig

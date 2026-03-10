@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 156/2024
+rodt_fremmet: False
+---
+
+Tittel: Forprosjekt - museum
+
+Vedtak:
+Innhente kompetente vurderinger som belyser generelle tekniske krav til et museum hva gjelder konservering og trygg oppbevaring av de eldste historiske gjenstandene og kulturminnene. Det innbefatter klima som temperatur, luftfuktighet og lyseksponering. Dette har betydning for kostnadsberegning ved nybygging og eventuell utbedring av eksisterende bygninger/rom.
+
+Voteringer:
+- Hovedutvalg for levekårs behandling av sak 44/2024 i møte den 12.12.2024
+  - Vedtak: Enstemmig
+- Kommunestyrets behandling av sak 156/2024 i møte den 16.12.2024
+  - Vedtak: Enstemmig

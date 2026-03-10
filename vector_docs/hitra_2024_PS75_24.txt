@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 75/24
+rodt_fremmet: False
+---
+
+Tittel: Meldingssak - økonomisk mellomrapportering pr. juni 2024
+
+Vedtak:
+Hitra kommunestyre tar meldingen om økonomisk mellomrapportering per juni 2024 til orientering.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 151/2024
+rodt_fremmet: False
+---
+
+Tittel: Ny selskapsavtale for Konsek Trøndelag IKS
+
+Vedtak:
+Frøya kommune godkjenner Tynset kommune som nye eier i Konsek Trøndelag
+Som andre vararepresentant velges: Aleksander Søreng
+
+Voteringer:
+- Vedtak av sak 151/2024
+  - For: Enstemmig

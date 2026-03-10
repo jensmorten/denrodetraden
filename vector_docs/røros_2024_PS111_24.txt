@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 111/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av valgstyre - stortingsvalg og sametingsvalg 2025
+
+Vedtak:
+Formannskapet velges som valgstyret i Røros kommune. Ordfører velges til leder og varaordfører velges til nestleder.
+
+Voteringer:
+- Kommunedirektørens forslag til valg av valgstyre
+  - Formannskapet som valgstyret: enstemmig

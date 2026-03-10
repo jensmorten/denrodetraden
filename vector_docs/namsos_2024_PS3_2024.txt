@@ -1,0 +1,8 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 3/2024
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon om opprettelse av offentlig minnesmerke ved ulykkesstedet på Finnanger

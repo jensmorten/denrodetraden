@@ -1,0 +1,19 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 91/24
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjonsrapport - Informasjonssikkerhet
+
+Vedtak:
+Kommunestyret tar forvaltningsrevisjonsrapport om informasjonssikkerhet til orientering.
+Kommunestyret ber rådmannen følge opp anbefalingene i rapporten:
+• Fortsetter arbeidet med omlegging av styringssystemet for informasjonssikkerhet.
+• Vurderer hensiktsmessig plassering av roller og ansvar i sikkerhetsorganisasjonen.
+Kommunestyret ber rådmannen gi kontrollutvalget skriftlig tilbakemelding om hvordan anbefalingene er fulgt opp innen 20.11.2024.
+
+Voteringer:
+- Votering over Kontrollutvalgets innstilling
+  - For: Enstemmig

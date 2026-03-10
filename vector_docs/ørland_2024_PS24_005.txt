@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/005
+rodt_fremmet: False
+---
+
+Tittel: Protokoll representantskapsmøte Midt-Norge IUA 23.04.2024
+
+Vedtak:
+Saken tatt til orientering i samlesak PS 24/051.

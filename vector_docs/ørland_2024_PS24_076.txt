@@ -1,0 +1,65 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/076
+rodt_fremmet: False
+---
+
+Tittel: Saldering 2 Investering 2024
+
+Vedtak:
+1. Investeringsbudsjettet for 2024 salderes som følger:
+Prosjekt Endring Kr
+Tomteteknisk
+Finansiering av «Avtale med Bygg Bjugn AS om bygging av offentlig infrastruktur» trekkes tilbake
+Reduseres med - 5 000 000 kr
+Inndekking av kostnader Mebostad Økes med 700 000 kr
+SUM tomteteknisk Reduseres med -4 300 000 kr
+Vei og kai
+Igangsetting av prosjekt Djupfest – Tarva i 2024 med forutsetning om ytterligere 8 millioner kroner i 2025 Økes med 8 000 000 kr
+Utsetting av prosjekt Arnfinn Astad veg til 2025 Reduseres med - 3 000 000 kr
+SUM vei og kai Økes med 5 000 000 kr
+Eiendom
+Vannskader garderober i Bjugnhallen finansieres med 0, 5mill «ombygging scene Bjugnhallen» og utvidet låneopptak på 0,7 mill Økes med 700 000 kr
+HMS-bygg Økes med 1 200 000 kr
+Oppstart planlegging omsorgsboliger Økes med 200 000 kr
+Vinduer Austrått Gård Økes med 220 000 kr
+SUM eiendom Økes med 2 320 000kr
+Momskompensasjon Økes med 540 000 kr
+Bruk av lån øvrige investering Økes med 2 480 000 kr
+2. Prosjekt «Reservevannforsyning» og «Nytt renseanlegg og reservevannforsyning» slått sammen.
+Prosjektet «Nytt renseanlegg og reservevannforsyning» igangsettes i henhold til fremdrift og økonomiske rammer for perioden 2024 – 2026 gitt i sak budsjett 2024.
+3.Prosjektet «Utbedring Ørland legekontor» og «Takbytte ØMS/Ørland sykehjem» slås sammen og sees under et med total budsjettramme på 7,0 mill kroner.
+4. Budsjettet på prosjektet «Varmepumpe Opphaug skole» overføres til prosjektet «Varmepumpe Vallersund oppvekstsenter».
+
+Alternative forslag:
+- Formannskapets møte 06.06.24: 1. Investeringsbudsjettet for 2024 salderes som følger:
+Prosjekt Endring Kr
+Tomteteknisk
+Finansiering av «Avtale med Bygg Bjugn AS om bygging av offentlig infrastruktur» trekkes tilbake med kr
+Reduseres med - 5 000 000 kr
+Inndekking av kostnader Mebostad Økes med 700 000 kr
+SUM tomteteknisk Reduseres -4 300 000 med kr
+Vei og kai
+Igangsetting av prosjekt Djupfest – Tarva i 2024 med forutsetning om ytterligere 8 millioner kroner i 2025 kr Økes med 8 000 000
+Utsetting av prosjekt Arnfinn Astad veg til 2025 Reduseres - 3 000 000 med kr
+SUM vei og kai Økes med 5 000 000 kr
+Eiendom
+Vannskader garderober i Bjugnhallen finansieres med 0, 5mill «ombygging scene Bjugnhallen» og utvidet låneopptak på 0,7 mill kr Økes med 700 000 kr
+HMS-bygg Økes med 1 200 000 kr
+Oppstart planlegging omsorgsboliger Økes med 200 000 kr
+SUM eiendom Økes med 2 100 000kr
+Momskompensasjon Økes med 500 000 kr
+Bruk av lån Økes med 2 300 000 kr
+2.Prosjekt «Reservevannforsyning» og «Nytt renseanlegg og reservevannforsyning» slått sammen.
+Prosjektet «Nytt renseanlegg og reservevannforsyning» igangsettes i henhold til fremdrift og økonomiske rammer for perioden 2024 – 2026 gitt i sak budsjett 2024.
+3.Prosjektet «Utbedring Ørland legekontor» og «Takbytte ØMS/Ørland sykehjem» slås sammen og sees under et med total budsjettramme på 7,0 mill kroner.
+4. Budsjettet på prosjektet «Varmepumpe Opphaug skole» overføres til prosjektet «Varmepumpe Vallersund oppvekstsenter».
+
+Voteringer:
+- Votering over forslag i kommunestyret 20.06.2024
+  - Innstilling fra Formannskapets møte 06.06.24: 9 stemmer
+  - Nytt forslag til saldering som følge av vedtak i sak 24/073: 21 stemmer
+- Votering over forslag i formannskapet 06.06.2024
+  - Opprinnelig forslag: 7 stemmer
+  - Mot: 0 stemmer

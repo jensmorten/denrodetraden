@@ -1,0 +1,43 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 066/24
+rodt_fremmet: True
+---
+
+Tittel: Tertialrapport 1 tertial 2024
+
+Vedtak:
+Kommunestyret tar tertialrapporten til etterretning, og støtter kommunedirektørens tiltak for å dekke inn det prognosisterte merforbruket. Budsjettendringer er ikke foreslått, og det forutsettes at det vedtatte budsjettet overholdes.
+Kommunestyret støtter kommunedirektøren sin vurdering av at de skisserte tiltakene for ytterligere innsparing som medfører omfattende reduksjon av tjenester i kommunen må vurderes politisk før de eventuelt kan vedtas og settes i verk. Merforbruket må dermed inntil dette er gjort dekkes inn gjennom andre tiltak og reduksjoner.
+
+Alternative forslag:
+- Per Arne Gjelsvik (V): Kommunestyret ber KD utrede muligheten for salg og "leaseback" av Røros beredskapssenter med formål umiddelbar frigjøring av kapital og bedret likviditet.
+- Henrik Grønn (Ap): Nytt punkt 1: Kommunestyret tar tertialrapporten til etterretning, og støtter kommunedirektørens tiltak for å dekke inn det prognosisterte merforbruket. Budsjettendringer er ikke foreslått, og det forutsettes at det vedtatte budsjettet overholdes.
+- Stig-Arvid Leinum (R): Det har tidligere vært fremmet verbalforslag om å se på større andel inntekter tilknyttet konsesjonskraft. Dette bes prioriteres i større grad.
+- Stig-Arvid Leinum (R): Kommunestyret ber kommunedirektøren i større grad ser på muligheter for interkommunale samarbeidsløsninger sammen med Holtålen og Os Kommune. F.eks IT-avdeling kan slås sammen. Få stordriftsfordeler.
+- Per Arne Gjelsvik (V): Kommunestyret ber ordfører drøfte muligheten for kommunesammenslåing med ordførerkollegene i Os og Holtålen kommuner.
+- Kjell Magnus Krog (H): Som et grunnlag for innspill til kostnadsbesparelser ber Røros Høyre om en oversikt over hvilke tjenester kommunen leverer/oppgaver kommunen utfører, som ikke er lovpålagte, inkludert økonomiske rammer for disse tjenestene. Tilsvarende oversikt over hvilke tjenester/oppgaver som kan settes ut på anbud. Utredningen tildeles i første omgang formannskapet.
+
+Voteringer:
+- Votering over endringsforslaget fra Arbeiderpartiet punkt 1
+  - For: enstemmig
+  - Mot: 0 stemmer
+- Votering over punkt 2-9 i innstillingen
+  - For: enstemmig
+  - Mot: 0 stemmer
+- Votering over forslag om salg og "leaseback" av Røros beredskapssenter (Per Arne Gjelsvik, V)
+  - For: 12 stemmer
+  - Mot: 15 stemmer
+- Votering over forslag om kommunesammenslåing (Per Arne Gjelsvik, V)
+  - For: enstemmig
+  - Mot: 0 stemmer
+- Votering over forslag om prioritering av konsesjonskraft (Stig-Arvid Leinum, R)
+  - For: 26 stemmer
+  - Mot: 1 stemmer
+- Votering over forslag om interkommunale samarbeidsløsninger (Stig-Arvid Leinum, R)
+  - For: enstemmig
+  - Mot: 0 stemmer
+- Votering over forslag om oversikt over ikke-lovpålagte tjenester og anbudsmuligheter (Kjell Magnus Krog, H)
+  - For: 18 stemmer
+  - Mot: 9 stemmer

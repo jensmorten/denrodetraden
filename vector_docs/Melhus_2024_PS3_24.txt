@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 3/24
+rodt_fremmet: False
+---
+
+Tittel: Reglement for kontrollutvalget
+
+Vedtak:
+Kommunestyret vedtar reglement for kontrollutvalget i Melhus kommune.
+
+Voteringer:
+- Votering om rådmannens innstilling
+  - For: enstemmig

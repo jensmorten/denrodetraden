@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/050
+rodt_fremmet: False
+---
+
+Tittel: Spørretimen/Interpellasjoner
+
+Vedtak:
+Spørsmål til spørretimen FI 24/009 ble svart ut av ordfører i møte. Svaret er protokollert i sak PS 24/50. Interpellasjonen FI 24/010 sendes til kommunedirektøren for utredning, og saken fremmes for politisk behandling i kommunestyrets møte 20. juni.

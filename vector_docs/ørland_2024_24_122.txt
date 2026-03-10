@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/122
+rodt_fremmet: False
+---
+
+Tittel: Botngård Vestre henvendelse om støtte
+
+Vedtak:
+Saken ble utsatt.
+
+Alternative forslag:
+- Hallgeir Grøntvedt, Senterpartiet: 1. Ørland kommunestyret bevilger inntil kr. 250.000,- til å flytte og å ferdigstille VA - anlegget ved Botngård Vestre boligprosjekt.
+2. Beløpet finansieres ved bruk av disposisjonsfond.

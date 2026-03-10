@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 52/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 52/2024 Forslag til reviderte statlige planretningslinjer for klima og energi
+
+Vedtak:
+Frøya kommune stiller seg bak reviderte statlige planretningslinjer for klima og energi.
+
+Voteringer:
+- Vedtak om å stille seg bak reviderte statlige planretningslinjer for klima og energi
+  - For: Enstemmig

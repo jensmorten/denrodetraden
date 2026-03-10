@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/169
+rodt_fremmet: False
+---
+
+Tittel: Donasjon av Ørland lufthavns tidligere avisingsbil
+
+Vedtak:
+Ørland kommune donerer Ørland lufthavns tidligere avisingsbil til Norsk Ukrainsk brann- og ambulansestøtte (NUBAS) til bruk for brannslokking og redningsarbeid i Ukraina.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

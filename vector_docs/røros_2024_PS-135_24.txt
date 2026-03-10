@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS-135/24
+rodt_fremmet: False
+---
+
+Tittel: 135/24 Interpellasjon til kommunestyre 12.12.2024
+
+Vedtak:
+Røros kommune innarbeider tiltak mot lysforurensing i nye reguleringsplaner og ved rullering av gamle planer. I tillegg endrer vi praksis i bygg som kommunen eier. Kommunestyret ber om orientering om temaet innen juni 2025.
+
+Voteringer:
+- Votering over forslaget fra repr. Tronsmed
+  - For: enstemmig

@@ -1,0 +1,19 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 135/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 135/2024 Hovedutvalg ledernes orientering
+
+Vedtak:
+Hovedutvalget for Samfunn:
+- Orientering om felles budsjettmøtet 06.11.24
+- Reguleringsplan
+Trafikksikkerhetsutvalget:
+- Budsjett og handlingsplan
+- oppgradering veilys på Sørburøya
+Hovedutvalget for levekår:
+- Budsjett -og handlingsprogram
+- Robust

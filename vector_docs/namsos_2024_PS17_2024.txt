@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 17/2024
+rodt_fremmet: False
+---
+
+Tittel: Namsos samfunnshus - fredningsprosess og framtidig bruk
+
+Vedtak:
+
+
+Voteringer:
+- Avstemning over formannskapets forslag til vedtak
+  - For: 33 stemmer

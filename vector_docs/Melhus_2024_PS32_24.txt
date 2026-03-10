@@ -1,0 +1,16 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 32/24
+rodt_fremmet: False
+---
+
+Tittel: PS 32/24 Kraftfond og Næringsfond Melhus kommune - Årsmelding 2023
+
+Vedtak:
+Kommunestyret tar årsmelding for kraftfond og næringsfond 2023 til orientering
+I tråd med vedtektene for kraftfondet oversendes gjenpart av årsmeldingen til Statsforvalteren i Trøndelag og Trøndelag Fylkeskommune
+
+Voteringer:
+- Votering over rådmannens innstilling
+  - For: Enstemmig

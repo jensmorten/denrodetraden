@@ -1,0 +1,20 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 95/24
+rodt_fremmet: False
+---
+
+Tittel: Anmodning om økning i låneramme startlån
+
+Vedtak:
+Kommunestyret vedtar en økning i lånerammen for startlån på 20 millioner kroner i 2024, til totalt 90 millioner kroner.
+Følgende budsjettjusteringer vedtas:
+05220.103010.2830.50008 Utlån startlån økes med kr. 20 000 000
+09120.103010.2830.50008 Bruk av lån videreutlån økes med kr. 20 000 000
+
+Voteringer:
+- Votering i Formannskap 29.10.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 19.11.2024
+  - Kommunedirektørens innstilling: enstemmig

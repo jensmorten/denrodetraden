@@ -1,0 +1,14 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 131/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 131/2024 Kommunedirektørens orientering
+
+Vedtak:
+Robust ’26 med oppsummering av økonomidebatten del II
+Status sykefravær
+Status barnehager
+Rop-boliger

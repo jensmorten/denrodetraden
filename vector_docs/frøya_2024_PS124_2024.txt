@@ -1,0 +1,23 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 124/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 124/2024 Valg av elektronisk pasientjournalsystem for Frøya kommune - utsettelse og opsjonsutløsning
+
+Vedtak:
+1. Kommunestyret vedtar å utsette beslutningen om å tilslutte seg Helseplattformen.
+2. Kommunestyret vedtar å utløse opsjon i Stjørdal kommune sitt prosjekt «Fremtidens elektroniske pasientjournal (EPJ)», og dekker kostnaden på 50 000 kroner på rammeområdet Helse og Mestring.
+3. Kommunedirektøren bes om å fortsette utredningen av hvilket alternativ som er best for Frøya kommune, med en ny vurdering og behandling i kommunestyret innen sommeren 2025.
+
+Alternative forslag:
+- Lars Østen Nordgård: Kommunestyret vedtar og ikke tilslutte seg helseplattformen
+
+Voteringer:
+- Punkt 1: Vedtak om å utsette beslutningen om å tilslutte seg Helseplattformen
+  - For utsettelse: 20 stemmer
+  - Mot utsettelse: 1 stemmer
+- Punkt 2 og 3: Vedtak om å utløse opsjon og videre utredning
+  - For vedtak: 21 stemmer

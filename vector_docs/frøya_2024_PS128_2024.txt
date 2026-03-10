@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 128/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 128/2024 Kommunal planstrategi 2025 - 2028
+
+Vedtak:
+Kommunestyret tar kommunal planstrategi 2025 - 2028 til orientering og legger den ut på offentlig høring i 30 dager, jf. pbl. § 10-1.
+
+Voteringer:
+- Vedtak av kommunal planstrategi 2025 - 2028
+  - For: Enstemmig

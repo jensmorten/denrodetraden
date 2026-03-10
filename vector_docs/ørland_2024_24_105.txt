@@ -1,0 +1,27 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/105
+rodt_fremmet: False
+---
+
+Tittel: Utredning salg av aksjer i Trønder Energi Vekst Holding
+
+Vedtak:
+1. Kommunestyret vedtar å selge så mange aksjer som mulig i TrønderEnergi Vekst Holding AS
+2. Kommunestyret gir følgende tilbakemelding på svarseddel, jf. brev fra TrønderEnergi til alle aksjonærer i TrønderEnergi Vekst Holding AS (vedlagt):
+"At forkjøpsrett etter Vedtektenes § 5 og Aksjonæravtalens punkt 12 frafalles ved transaksjoner som beskrevet i dette brev"
+"Et ønske om å selge minimum 1.000 og maksimum 113.043 aksjer i TEVH basert på de prinsipper som er nedfelt i dette brev"
+3.Nettoproveny av oppnådd salgssum skal i sin helhet benyttes til ekstra nedbetaling av gjeld
+
+Alternative forslag:
+- SP, H, INP, V og FRP, foreslått av Thomas Hovde, Senterpartiet: 1. Kommunestyret vedtar å selge så mange aksjer som mulig i TrønderEnergi Vekst Holding AS
+2. Kommunestyret gir følgende tilbakemelding på svarseddel, jf. brev fra TrønderEnergi til alle aksjonærer i TrønderEnergi Vekst Holding AS (vedlagt):
+"At forkjøpsrett etter Vedtektenes § 5 og Aksjonæravtalens punkt 12 frafalles ved transaksjoner som beskrevet i dette brev"
+"Et ønske om å selge minimum 1.000 og maksimum 113.043 aksjer i TEVH basert på de prinsipper som er nedfelt i dette brev"
+3.Nettoproveny av oppnådd salgssum skal i sin helhet benyttes til ekstra nedbetaling av gjeld
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 8 stemmer
+  - Alternativt forslag fra SP, H, INP, V og FRP: 23 stemmer

@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 35/24
+rodt_fremmet: False
+---
+
+Tittel: PS 35/24 Nyvalg til Verdal ungdomsråd grunnet flytting
+
+Vedtak:
+Lovisa Kvaal går ut av Verdal ungdomsråd grunnet flytting fra kommunen.
+Erling Seeberg Kristiansen velges inn som nytt medlem av Verdal ungdomsråd.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 71/24
+rodt_fremmet: False
+---
+
+Tittel: Forskjønning Havfruparken
+
+Vedtak:
+1. Kommunestyret godkjenner at anlegget «Forskjønning Havfruparken» gjennomføres innenfor en kostnadsramme på kr.2.000.000,- inkl.mva.
+2. Manglende finansiering på kr.600.000,- dekkes ved bruk av disposisjonsfond.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

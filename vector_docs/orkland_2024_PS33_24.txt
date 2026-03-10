@@ -1,0 +1,22 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 33/24
+rodt_fremmet: False
+---
+
+Tittel: Kvalitetsmelding 2023 Helse og mestring
+
+Vedtak:
+Kommunestyre vedtar kvalitetsmeldingen
+Tiltak som får økonomiske konsekvenser tas inn i budsjett og handlingsplan eller fremmet som egen sak til kommunestyret.
+
+Voteringer:
+- Behandling i Eldreråd 11.04.2024
+  - For: Enstemmig
+- Behandling i Kommunalt råd for mennesker med nedsatt funksjonsevne 08.04.2024
+  - For: Enstemmig
+- Behandling i Hovedutvalg helse, oppvekst og kultur 16.04.2024
+  - For: Enstemmig
+- Behandling i Kommunestyre 07.05.2024
+  - For: Enstemmig

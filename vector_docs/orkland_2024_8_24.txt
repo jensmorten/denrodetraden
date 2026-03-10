@@ -1,0 +1,28 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 8/24
+rodt_fremmet: False
+---
+
+Tittel: Torshus Folkehøgskule - valg av representanter til representantskapet
+
+Vedtak:
+Som representanter for rådet for Torshus Folkehøgskule velges:
+Medlemmer: Varamedlemmer:
+Hanne Mehli V Oddvar Kjøren AP
+Olga Ucinska AP Anne Mari Svinsaas SV
+Tor Arne Vassli PP Janicke Andresen PP
+Bente Bostad KRF Hans Peter Verme R
+
+Alternative forslag:
+- Valgutvalg: Hanne Mehli vara Oddvar Kjøren
+Olga Ucinska vara Anne Mari Svinsaa
+Tor Arne Vassli PP- vara Janicke Andresen, PP
+Bente Bostad KRF – vara Hans Peter Verme R
+
+Voteringer:
+- Votering i Valgutvalg 30.01.2024
+  - Forslagene: enstemmig
+- Votering i Kommunestyre 30.01.2024
+  - Valgutvalgets innstilling: enstemmig

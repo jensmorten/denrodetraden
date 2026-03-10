@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/174
+rodt_fremmet: False
+---
+
+Tittel: Spillemidler - prioritering av søknader for 2025
+
+Vedtak:
+Søknader om spillemidler prioriteres i samme rekkefølge som idrettsrådets prioriteringsrekkefølge for spillemidler 2025.
+
+Voteringer:
+- Votering over forslag
+  - For: 29 stemmer
+  - Mot: 2 stemmer

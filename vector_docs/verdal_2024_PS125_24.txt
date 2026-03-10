@@ -1,0 +1,18 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 125/24
+rodt_fremmet: False
+---
+
+Tittel: PS 125/24 Oppnevning av møtefullmektiger til forliksrådet for perioden 01.01.25-31.12.28
+
+Vedtak:
+Kommunestyret oppnevner følgende som faste møtefullmektiger for Verdal forliksråd for perioden 01.01.25 – 31.12.28:
+1. Astrid Larsen
+2. Roald Brenne
+3. Rune Storstad
+
+Voteringer:
+- Votering over kommunedirektørens forslag til vedtak
+  - For: enstemmig

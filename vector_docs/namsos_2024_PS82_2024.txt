@@ -1,0 +1,26 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 82/2024
+rodt_fremmet: False
+---
+
+Tittel: 2.gangs behandling - Detaljregulering for Klingavegen 2
+
+Vedtak:
+
+
+Alternative forslag:
+- Margreet Sloot (Sosialistisk Venstreparti): Endelig godkjenning av detaljreguleringen for Nexanstomta legges i bero, og ingen utbyggingsavtale inngås nå.
+- Nils Sigurd Klykken (Høyre) på vegne av Høyre, FrP, SP, KrF og SV: Opparbeidelse og kostnadsbærer for opparbeiding av o_GAA (Offentlig Parkareal) tas inn i utbyggingsavtaler.
+
+Voteringer:
+- Avstemning mellom innstillingens forslag 1 og alternativt forslag fra Margreet Sloot (SV)
+  - Forslag 1 (Innstilling): 31 stemmer
+  - Forslag 2 (Margreet Sloot - SV): 3 stemmer
+- Avstemning om tilleggsforslag fra Nils Sigurd Klykken (Høyre) på vegne av Høyre, FrP, SP, KrF og SV
+  - For tilleggsforslaget: 32 stemmer
+  - Imot tilleggsforslaget: 2 stemmer
+- Avstemning om innstilling med tilleggsforslag
+  - For innstillingen med tilleggsforslag: 32 stemmer
+  - Imot innstillingen med tilleggsforslag: 2 stemmer

@@ -1,0 +1,16 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 081/24
+rodt_fremmet: False
+---
+
+Tittel: 081/24 Overordnet beredskapsplan
+
+Vedtak:
+Kommunestyret tar overordnet beredskapsplan til orientering.
+Kommunestyrets vedtak i sak 48/20 oppheves.
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak
+  - For: enstemmig

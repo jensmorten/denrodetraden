@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/181
+rodt_fremmet: False
+---
+
+Tittel: Vedtak om fastsettelse av planprogram - Kommunedelplan for kulturmiljø i Ørland kommune
+
+Vedtak:
+Ørland kommune ved kommunestyret fastsetter planprogram for kommunedelplan for kulturmiljø med hjemmel i plan- og bygningslovens § 11-13 annet ledd.
+
+Voteringer:
+- Votering over forslag
+  - For: 30 stemmer
+  - Mot: 0 stemmer

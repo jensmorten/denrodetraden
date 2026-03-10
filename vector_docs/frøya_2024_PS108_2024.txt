@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 108/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 108/2024 Revidert samarbeidsavtale for Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge (Midt-Norge IUA)
+
+Vedtak:
+Kommunestyret vedtar revidert samarbeidsavtale om kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge
+
+Voteringer:
+- Kommunestyrets behandling av sak 108/2024 i møte den 03.10.2024
+  - For: Enstemmig

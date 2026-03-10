@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 81/24
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport for grunnskolen 2023-2024
+
+Vedtak:
+Tilstandsrapporten for grunnskolene i Verdal 2023-2024 tas til orientering.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

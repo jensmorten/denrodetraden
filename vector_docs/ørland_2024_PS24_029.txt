@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/029
+rodt_fremmet: False
+---
+
+Tittel: 24/029 Skatepark og Waadeparken i Bjugn
+
+Vedtak:
+Skateanlegg bygges ved Botngård ungdomsskole.
+Ungdomsrådet blir involvert i det videre arbeidet med Waadeparken/Paviljongen
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 30 stemmer

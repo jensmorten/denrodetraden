@@ -1,0 +1,8 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 1/2024
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon fra Tor Erik Bjerkestrand, Arbeiderpartiet om status institusjonsplasser og bemanning i Namsos kommune

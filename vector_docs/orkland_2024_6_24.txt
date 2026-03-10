@@ -1,0 +1,22 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 6/24
+rodt_fremmet: False
+---
+
+Tittel: Oppheving av gamle reguleringsplaner, sluttbehandling
+
+Vedtak:
+I medhold av Plan- og bygningslovens § 12-14 oppheves planene som er opplistet i saksframlegget.
+
+Alternative forslag:
+- Hovedutvalg Forvaltning 2023 - 2027: Saken utsettes for behandling.
+
+Voteringer:
+- Utsettelsesforslaget i Hovedutvalg Forvaltning 12.12.2023
+  - Utsettelsesforslaget: enstemmig
+- Kommunedirektørens innstilling i Hovedutvalg Forvaltning 16.01.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Hovedutvalg Forvaltnings innstilling i Kommunestyret 30.01.2024
+  - Hovedutvalg Forvaltnings innstilling: enstemmig

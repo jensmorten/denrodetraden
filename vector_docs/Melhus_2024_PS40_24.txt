@@ -1,0 +1,21 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 40/24
+rodt_fremmet: False
+---
+
+Tittel: Årsregnskap, årsberetning og årsmelding Melhus kommune 2023
+
+Vedtak:
+Kommunestyret vedtar å flytte 35,8 millioner kroner fra kommunens felles disposisjonsfond (2560001) til spesifiserte andre disposisjonsfond, jf. tabell 1a, samt å flytte 0,8 millioner kroner fra andre spesifiserte disposisjonsfond, j. tabell 1b, til kommunens felles disposisjonsfond (2560001).
+Kommunestyret vedtar å flytte 7,1 millioner kroner fra felles disposisjonsfond (2560001) til disposisjonsfond med benevning overskuddsfond/sektorfond, jf. tabell 2.
+Kommunestyret vedtar å flytte 0,6 millioner kroner fra disposisjonsfond med felles benevning overskuddsfond/sektorfond og til kommunens felles disposisjonsfond (2560001), jf. tabell 3.
+Kommunestyret vedtar oppdekning og avslutning av investeringsprosjekter for 87,9 millioner kroner i tråd med kapittel 9.1 i årsberetning og årsmeldingen, jf. tabellene 4, 5 og 6.
+Kommunestyret vedtar Melhus kommunes årsregnskap for 2023, jf. vedlegg 1.
+Kommunestyret vedtar rådmannens årsberetning for 2023, herunder rapportering om status finansforvaltning (kapittel 9), jf. vedlegg 2.
+Kommunestyret tar rådmannens årsmelding 2023 til orientering, jf. vedlegg 2.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: Enstemmig

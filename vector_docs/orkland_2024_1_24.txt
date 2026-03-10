@@ -1,0 +1,14 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 1/24
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon om kjernekraft i Orkland kommune fra Orkland FrP
+
+Vedtak:
+Kommunestyret tilslutter seg ordførerens tilnærming til energiutfordringene, herunder planlagt kraftkonferanse, innbyggerinvolvering og utarbeidelse av kraftstrategi som tiltak i klima, energi og miljøplan.
+
+Alternative forslag:
+- Orkland FrP: 1. Kommunestyret ber kommunedirektøren om å utrede plassering og arealbehov til et modulært kjernekraftverk i egen kommune. 2. Kommunestyret ber kommunedirektøren om å invitere Norsk Kjernekraftverk AS til et informasjonsmøte om kjernekraftverk i kommunestyremøtet.

@@ -1,0 +1,68 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 21/24
+rodt_fremmet: False
+---
+
+Tittel: Eiktyr industripark - sluttbehandling av områdeplanen
+
+Vedtak:
+I medhold av plan- og bygningslovens § 12-12 vedtas forslag til områdeplan for Eiktyr industripark slik den foreligger vedlagt saken, med rettsvirkning for BI1. Resten av planområdet unntas fra rettsvirkning da det foreligger innsigelser.
+Tillegg1. BI1 – §2 Formål:
+Delområdet skal benyttes til produksjon innenfor batteriverdikjeden. Annen grønn industri som gir sirkulærøkonomisk merverdi sammen med batteriproduksjon er tillatt.
+Tillegg 2 - rekkefølgekrav:
+Før det gis igangsettingstillatelse på et nytt delområde skal andre delområder være ferdigstilt med en BYA på minst 50 % dersom det skal tillates virksomheter utenfor batteriverdikjeden.
+Tillegg 3 – nytt avsnitt under 12.1.6:
+Før igangsetting på et delområde skal tiltakshaver sikre areal for restaurering i et omfang og med en kvalitet som forventes å gi netto gevinst i naturregnskapet for det prosjekterte arealet.
+Tillegg 4– ny siste setning 12.4, 1.avsnitt:
+Erstatningsarealer for myr og matjord skal være restaurert i et omfang og med en kvalitet som forventes å gi netto gevinst i naturregnskapet.
+Tillegg 5 – nytt avsnitt 12.4:
+I utbyggingsfasen er det viktig å ta vare på det biologiske mangfoldet. I etterkant av prosjektet der gjenvinning av myr er blitt foretatt, må utbygger sørge for å dokumentere at tiltakene har hatt ønsket effekt
+Tillegg 6 - Nytt tilleggsforslag til § 4 Krav om detaljregulering. Ny siste setning til slutt i kulepunkt 14:
+Ved nedbygging av myrjord skal restaurering skje parallelt med nedbygging.
+Hele kulepunktet blir slik med siste setning som tillegg:
+Myr og matjordplan. I de tilfeller hvor tiltak berører matjord og myrområder skal det planlegges for tiltak for å ivareta matjord og hindre, avbøte eller kompensere drenering og nedbygging av myrjord. Ved nedbygging av myrjord skal restaurering skje parallelt med nedbygging.
+Orkland kommune ber Statsforvalteren om meklingsmøte.
+
+Alternative forslag:
+- Småbypartiet, Venstre, Høyre og Arbeiderpartiet: Tilleggsforslag 1 – skjerping av BI1 – formål : Delområdet skal i all hovedsak benyttes til batteriproduksjon.
+Tilleggsforslag 2 - rekkefølgekrav: Før det gis igangsettingstillatelse på et nytt delområde skal andre delområder være ferdigstilt med en BYA på minst 50 % dersom det skal tillates virksomheter utenfor batteriverdikjeden.
+Tilleggsforslag 3 – nytt avsnitt under 12.1.6: Før igangsetting på et delområde skal tiltakshaver sikre areal for restaurering i et omfang og med en kvalitet som forventes å gi netto gevinst i naturregnskapet for det prosjekterte arealet.
+Tilleggsforslag 4 – ny siste setning 12.4, 1.avsnitt: Erstatningsarealer for myr og matjord skal være restaurert i et omfang og med en kvalitet som forventes å gi netto gevinst i naturregnskapet.
+Tilleggsforslag 5 – nytt avsnitt 12.4: I utbyggingsfasen er det viktig å ta vare på det biologiske mangfoldet. I etterkant av prosjektet der gjenvinning av myr er blitt foretatt, må utbygger sørge for å dokumentere at tiltakene har hatt ønsket effekt
+- Småbypartiet (SP): Det tillates ikke kryptovalutaproduksjon i område Bl1.
+- Flertallsgruppa, AP, SMP, V, H, SV v/Karin Leknes Røttereng: 1. Justert tilleggsforslag fra Forvaltning BI1 – §2 Formål: Delområdet skal benyttes til produksjon innenfor batteriverdikjeden. Annen grønn industri som gir sirkulærøkonomisk merverdi sammen med batteriproduksjon er tillatt.
+2. Nytt tilleggsforslag til § 4 Krav om detaljregulering. Ny siste setning til slutt i kulepunkt 14 (tillegg 6): Ved nedbygging av myrjord skal restaurering skje parallelt med nedbygging.
+
+Voteringer:
+- Votering tilleggsforslag 1 flertallsgruppa i Hovedutvalg Forvaltning
+  - For: 6 stemmer
+  - Mot: 0 stemmer
+- Votering tilleggsforslag 1 fra SP i Hovedutvalg Forvaltning
+  - For: 3 stemmer
+  - Mot: 6 stemmer
+- Votering tilleggsforslag 2 i Hovedutvalg Forvaltning
+  - For: 10 stemmer
+  - Mot: 1 stemmer
+- Votering tilleggsforslag 3 i Hovedutvalg Forvaltning
+  - For: 10 stemmer
+  - Mot: 1 stemmer
+- Votering tilleggsforslag 4 i Hovedutvalg Forvaltning
+  - For: 10 stemmer
+  - Mot: 1 stemmer
+- Votering tilleggsforslag 5 i Hovedutvalg Forvaltning
+  - For: 10 stemmer
+  - Mot: 1 stemmer
+- Votering kommunedirektørens innstilling i Hovedutvalg Forvaltning
+  - For: 10 stemmer
+  - Mot: 1 stemmer
+- Votering Hovedutvalg forvaltning sin innstilling i Kommunestyre
+  - For: 32 stemmer
+  - Mot: 9 stemmer
+- Votering endringsforslag BI1 formål (tilleggsforslag 1) i Kommunestyre
+  - For: 41 stemmer
+  - Mot: 0 stemmer
+- Votering nytt tilleggsforslag 6 til § 4 Krav om detaljregulering i Kommunestyre
+  - For: 41 stemmer
+  - Mot: 0 stemmer

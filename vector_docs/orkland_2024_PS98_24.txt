@@ -1,0 +1,19 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 98/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om overføring av midler fra driftsbudsjett til investeringsbudsjett for anskaffelse av grillhytte
+
+Vedtak:
+Kommunedirektøren får fullmakt til å overføre kr.200.000 fra driftsbudsjett til investeringsbudsjett for Evjen barnehage i tråd med saksfremlegg.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 24.09.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Formannskap 01.10.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 19.11.2024
+  - Kommunedirektørens innstilling: enstemmig

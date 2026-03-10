@@ -1,0 +1,11 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 34/2024
+rodt_fremmet: False
+---
+
+Tittel: Institusjonsplasser Bangsundvegen 2A - Finansiering
+
+Vedtak:
+Saken sendt tilbake til administrasjonen. Vedtatt i formannskapet - 28.05.2024

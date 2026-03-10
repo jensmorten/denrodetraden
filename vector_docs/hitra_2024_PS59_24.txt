@@ -1,0 +1,23 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 59/24
+rodt_fremmet: False
+---
+
+Tittel: Forslag til skjønnsmedlemmer for perioden 2025-2028
+
+Vedtak:
+Hitra kommunestyre vedtar følgende forslag på 8 skjønnsmedlemmer for perioden 01.01.2025-31.12.2028:
+• May Irene Andreassen
+• Monica Mollan
+• Sigrid Helene Hanssen
+• Dagfinn Herskedal
+• Edvard Meland Hjertås
+• Ole Edvard Tidemann Fillingsnes
+• Roger Lund
+• Terje Herfjord
+
+Voteringer:
+- Behandling av innstillingen fra valgutvalget
+  - Enstemmig vedtak: alle

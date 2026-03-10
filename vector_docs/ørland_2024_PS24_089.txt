@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/089
+rodt_fremmet: False
+---
+
+Tittel: Folkehelseoversikt Ørland kommune 2024
+
+Vedtak:
+Folkehelseoversikt for Ørland kommune 2024 - 2028 tas til orientering.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 30 stemmer

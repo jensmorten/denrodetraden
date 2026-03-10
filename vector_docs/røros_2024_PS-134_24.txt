@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS-134/24
+rodt_fremmet: False
+---
+
+Tittel: 134/24 Revidert samarbeidsavtale Midt-Norge IUA 2024
+
+Vedtak:
+Kommunestyret vedtar revidert samarbeidsavtale om Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge.
+
+Voteringer:
+- Kommunedirektørens forslag til vedtak
+  - For: enstemmig

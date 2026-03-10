@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 105/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv
+
+Vedtak:
+Som fast representant for Pensjonistpartiet i kommunestyret inntrer Johan Richard Fjelly Brevik, og som ny siste vara inntrer Jarle Rundhaug. Som fast representant i utvalg for teknikk og miljø inntrer Ketil Nilsen, og som ny siste vara inntrer Jørund Ofstad. Som ny siste vara til formannskapet inntrer Johan Richard Fjelly Brevik.
+
+Voteringer:
+- Votering over valgnemndas forslag til vedtak
+  - For: Enstemmig

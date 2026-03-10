@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 15/2024
+rodt_fremmet: False
+---
+
+Tittel: Årsrapport ungdomsrådet 2023
+
+Vedtak:
+Namsos kommunestyre tar årsrapport fra Ungdomsrådet til orientering.
+
+Voteringer:
+- Avstemning om innstilling: Namsos kommunestyre tar årsrapport fra Ungdomsrådet til orientering.
+  - For: 34 stemmer

@@ -1,0 +1,18 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/034
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av innkalling og saksliste
+
+Vedtak:
+Innkalling og saksliste ble godkjent med følgende merknader: Valg av settevaraordfører: Ordfører Hallgeir Grøntvedt SP har meldt forfall til møte. Har ordføreren forfall, er det varaordføreren som er fungerende ordfører og møteleder, og det velges blant representantene en settevaraordfører for møtet. Valget gjennomføres jf. kommunelovens regler for flertallsvalg. Mona Sjøli H fremmet følgende forslag på settevaraordfører, Britt Eli Døsvik SP. Forslaget ble enstemmig vedtatt ved manuell votering.
+
+Alternative forslag:
+- Mona Sjøli H: Forslag på settevaraordfører, Britt Eli Døsvik SP.
+
+Voteringer:
+- Valg av settevaraordfører, Britt Eli Døsvik SP
+  - Britt Eli Døsvik SP: enstemmig

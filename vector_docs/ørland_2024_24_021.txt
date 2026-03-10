@@ -1,0 +1,8 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/021
+rodt_fremmet: False
+---
+
+Tittel: Protokoll og dokumenter fra Representantskapsmøte i Midt-Norge 110-sentral IKS 28.08.2024

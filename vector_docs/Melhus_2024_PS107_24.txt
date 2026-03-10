@@ -1,0 +1,17 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 107/24
+rodt_fremmet: False
+---
+
+Tittel: Studiesenter Trøndelag Sør - Representantskap
+
+Vedtak:
+Representantskapet i Trøndelag Sør IKPR oppnevnes som representantskap for Studiesenter Trøndelag Sør.
+Ved behov kan representantskapet vedta andre organer for styring av Studiesenter Trøndelag Sør.
+Samarbeidsavtale for Kommunalt oppgavefellskap Studiesenter Trøndelag Sør revideres ved at følgende formulering i Samarbeidsavtales §4 tas ut: «Det etableres et eierstyre bestående av kommunedirektører, eventuelt kommunalsjefer, fra hver av samarbeidskommunene. Daglig leder i Trøndelag Sør IKPR har møte- og talerett i eierstyret, men ikke stemmerett. Eierstyret utarbeider mandat for sitt arbeid. Eierstyret utformer stillingsbeskrivelse for daglig leder for oppgavefellesskapet.» (Samarbeidsavtale for Kommunalt oppgavefelleskap Studiesenter Trøndelag Sør §4).
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak
+  - For: Enstemmig

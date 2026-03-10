@@ -1,0 +1,12 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 164/2024
+rodt_fremmet: False
+---
+
+Tittel: Ordførerens orientering
+
+Vedtak:
+Friluftslivets år
+Nominasjon location

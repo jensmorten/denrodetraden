@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 116/24
+rodt_fremmet: False
+---
+
+Tittel: Ny sykehjemsforskrift
+
+Vedtak:
+Kommunestyret vedtar sykehjemsforskriften.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 03.12.2024
+  - For: Enstemmig
+- Votering i Kommunestyre 17.12.2024
+  - For: Enstemmig

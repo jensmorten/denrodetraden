@@ -1,0 +1,16 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 54/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 54/2024 Ledelsens gjennomgang - revisjon etter internkontrollforskriften
+
+Vedtak:
+Kommunestyret tar «ledelsens gjennomgang, revisjon av internkontroll i Frøya kommune» til orientering
+Fra 2024 tas denne inn som en del av årsmeldningen
+
+Voteringer:
+- Vedtak i kommunestyrets møte den 30.05.2024
+  - For vedtak: Enstemmig

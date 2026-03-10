@@ -1,0 +1,18 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 19/24
+rodt_fremmet: False
+---
+
+Tittel: Forvaltningsrevisjonsrapport om rus og psykiatri
+
+Vedtak:
+Kommunedirektøren sørger for å revidere temaplanen for ruspolitikk og psykisk helse snarest, og senest etter at nasjonale veiledere i på plass.
+Kommunedirektøren ser til at regelverk og rutiner oppdateres og samles i kvalitetssystemet Compilo.
+Kommunedirektøren ser til at det gjennomføres brukerundersøkelser for brukere av psykiske helsetjenester.
+Kommunedirektøren orienterer kontrollutvalget skriftlig om status for arbeidet med ovenstående punkter innen 1. november 2024.
+
+Voteringer:
+- Avstemning over Kontrollutvalgets forslag til vedtak
+  - For: enstemmig

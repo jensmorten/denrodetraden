@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 118/24
+rodt_fremmet: False
+---
+
+Tittel: Selskapsavtale for Konsek Trøndelag fra 1. januar 2025
+
+Vedtak:
+Kommunestyret vedtar ny selskapsavtale for Konsek Trøndelag fra 1. januar 2025, i henhold til innstilling fra Representantskapet i Konsek Trøndelag, datert 5. november 2024.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - For: enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/165
+rodt_fremmet: False
+---
+
+Tittel: Samlesak for referatsaker
+
+Vedtak:
+Sakene ble tatt til orientering.
+
+Voteringer:
+- Kommunestyret tok sakene til orientering
+  - For: enstemmig

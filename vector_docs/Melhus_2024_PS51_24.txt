@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 51/24
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport Barneverntjenesten Melhus og Skaun 2023
+
+Vedtak:
+Melhus kommunestyre tar tilstandsrapport for barneverntjenesten i Melhus og Skaun til orientering.
+
+Voteringer:
+- Votering over utvalgets innstilling
+  - For: Enstemmig

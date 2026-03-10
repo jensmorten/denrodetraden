@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 59/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 59/2024 Kommunedirektørens orientering
+
+Vedtak:
+Kort gjennomgang hjemmeside, hvordan finne frem
+Økonomi
+-Redusert skatteinngang 2024, nye beregninger
+-Revidert statsbudsjett/ nytt inntektssystem - konsekvenser for Frøya
+-Veien videre/tiltak

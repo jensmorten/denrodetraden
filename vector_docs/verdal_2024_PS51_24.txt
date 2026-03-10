@@ -1,0 +1,16 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 51/24
+rodt_fremmet: False
+---
+
+Tittel: PS 51/24 Oppfølging av vedtak om bokbuss
+
+Vedtak:
+Saken tas til orientering.
+Kommunedirektøren gis fullmakt til å benytte øremerket ramme til biblioteket for 2024 i tråd med saksutredningen.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - Formannskapets innstilling: enstemmig

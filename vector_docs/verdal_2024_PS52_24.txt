@@ -1,0 +1,23 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 52/24
+rodt_fremmet: False
+---
+
+Tittel: PS 52/24 Suppleringsvalg etter fritak av Pål Sverre Fikse fra folkevalgte verv
+
+Vedtak:
+Ny nestleder i mennesker og livskvalitet: Torfinn Hofstad (SP)
+Ny 2. vara i formannskapet: Marit Voll (SP)
+Ny 5. vara i utvalg plan og samfunn: Hilde Daleng (SP)
+Ny 2. vara i representantskapet i Innherred Regionråd: Einar Olav Larsen (SP)
+Ny 2. vara i representantskapet i Digitale Innherred kommunale oppgavefellesskap: Einar Olav Larsen (SP)
+Ny 2. vara i representantskapet i Innherred Anskaffelser kommunale oppgavefellesskap: Einar Olav Larsen (SP)
+Ny 2. vara i representantskapet i Brannvesenet Midt IKS: Marit Voll (SP)
+Ny 1. vara i representantskapet i Midt-Norge 110-sentral: Hilde Daleng (SP)
+Ny 6. vara i formannskapet: Karl B. Hoel (SP)
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - Formannskapets innstilling: Enstemmig

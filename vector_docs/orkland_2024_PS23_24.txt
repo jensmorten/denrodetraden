@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 23/24
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport grunnskole 2023
+
+Vedtak:
+Kommunestyret vedtar tilstandsrapport for grunnskole 2023
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 12.03.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 09.04.2024
+  - Hovedutvalg helse, oppvekst og kultur sin innstilling: enstemmig

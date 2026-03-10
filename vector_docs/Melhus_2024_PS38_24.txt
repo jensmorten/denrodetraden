@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 38/24
+rodt_fremmet: False
+---
+
+Tittel: PS 38/24 Spørsmål til ordfører - Prioritering av KPA - Morten Wehn - H
+
+Vedtak:
+Utsettes til neste kommunestyremøte.
+
+Voteringer:
+- Behandling av sak 38/2024 - utsettelse
+  - Utsettes til neste kommunestyremøte: ukjent

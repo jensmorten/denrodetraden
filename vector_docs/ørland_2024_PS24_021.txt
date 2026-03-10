@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/021
+rodt_fremmet: False
+---
+
+Tittel: 24/021 Spørretimen/Interpellasjoner
+
+Vedtak:
+Saker til spørretimen/interpellasjoner ble tatt til orientering.

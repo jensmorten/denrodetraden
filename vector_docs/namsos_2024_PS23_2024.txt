@@ -1,0 +1,25 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 23/2024
+rodt_fremmet: False
+---
+
+Tittel: Oppnevnelse av politiske representanter til styrene i Namdalseid og Jøa frivilligsentral, og Namsos frivilligsentral i 2024
+
+Vedtak:
+Namdalseid og Jøa frivilligsentral
+Avdeling Namdalseid
+- Leder: Steinar Lyngstad (1 år)
+- Styremedlem: Nina Edel Damås (2 år)
+- Varamedlem: Agnar Forbord (1år)
+Avdeling Jøa
+- Leder: Svein Storø (1år)
+- Varamedlem: Rune Wik (1år)
+Namsos frivilligsentral
+- Styremedlem: Frode Båtnes (1år)
+Med forbehold om enighet om ny samarbeidsavtale.
+
+Voteringer:
+- Avstemning over utvalg for folk sitt forslag til vedtak
+  - For: 33 stemmer

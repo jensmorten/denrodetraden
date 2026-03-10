@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/071
+rodt_fremmet: False
+---
+
+Tittel: Økonomiplan 2025 - 2034 Ørland kommune
+
+Vedtak:
+Økonomiplanen for 2025-2034 for Ørland kommune vedtas som framlagt.
+
+Voteringer:
+- Votering over forslag: Innstilling fra formannskapets møte 06.06.24
+  - For: 29 stemmer
+  - Mot: 1 stemmer

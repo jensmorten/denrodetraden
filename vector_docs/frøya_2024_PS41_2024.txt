@@ -1,0 +1,17 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 41/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 41/2024 Godkjenning av årsregnskap og årsmelding melding 2023
+
+Vedtak:
+Årsregnskap for 2023 med årsmelding godkjennes som fremlagt.
+
+Voteringer:
+- Vedtak i formannskapet 21.05.2024
+  - Godkjent som fremlagt: Enstemmig
+- Vedtak i kommunestyret 30.05.2024
+  - Godkjent som fremlagt: Enstemmig

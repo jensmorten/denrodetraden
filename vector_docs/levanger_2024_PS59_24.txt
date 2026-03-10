@@ -1,0 +1,16 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 59/24
+rodt_fremmet: False
+---
+
+Tittel: Tertialrapport 2. tertial 2024 - Levanger kommune
+
+Vedtak:
+Tertialrapport for 2. tertial 2024 tas til orientering.
+Budsjettjusteringer for 2024, som det fremgår av rapportens kapittel «Status drift», vedtas.
+
+Voteringer:
+- Avstemning over innstilling om tertialrapport og budsjettjusteringer for 2024
+  - For: 34 stemmer

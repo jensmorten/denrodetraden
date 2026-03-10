@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/016
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til spørretimen 20. juni - Sikring og sanering av Røstadveien 156
+
+Vedtak:
+Formannskapet ba i møte 15.08.24 om å få på plass en tilsynsstrategi i Ørland kommune.

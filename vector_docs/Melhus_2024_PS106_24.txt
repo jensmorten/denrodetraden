@@ -1,0 +1,26 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 106/24
+rodt_fremmet: False
+---
+
+Tittel: Verbalvedtak - SFO i Melhus
+
+Vedtak:
+Rapporten tas til orientering.
+Kommunestyret vedtar å endre §4 Tilbudsstruktur i «Lokal forskrift om skolefritidsordningen (SFO) i Melhus kommune» til:
+§4 Tilbudsstruktur
+SFO har to ulike tilbud som kan benyttes innenfor åpningstiden:
+- mindre enn 12 timer per uke
+- 12 timer eller mer per uke
+Det minste tilbudet skal bindes opp til faste tidspunkt. Hver skole skal bestemme disse tidspunktene ut fra lokale forhold, i samarbeid med SU.
+I skolens ferier gis barn med det minste tilbudet tilgang til 2 hele dager i SFO (mandager og tirsdager). I tillegg er det mulig å kjøpe enkeltdager dersom barnetallet ikke overstiger bemanningsnormen jfr. pkt 9 i disse vedtekter. Dersom bemanningen tillater det, kan det for barn med deltidstilbud gjøres avtale om bytte av enkeltdager.
+Forskriftsendringen legges ut på høring.
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak
+  - For: enstemmig
+- Votering over innstillingen fra UHOK
+  - For: 24 stemmer
+  - Imot: 13 stemmer

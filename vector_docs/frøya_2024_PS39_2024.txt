@@ -1,0 +1,8 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 39/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 39/2024 Hovedutvalgsledernes orientering

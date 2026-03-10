@@ -1,0 +1,18 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 82/24
+rodt_fremmet: False
+---
+
+Tittel: Ruspolitisk handlingsplan
+
+Vedtak:
+Kommunestyre vedtar Temaplan- ruspolitisk handlingsplan som vedlagt saken. Tiltak som krever kommunal finansiering, vil behandles som innspill i budsjettarbeidet eller fremmes som sak for kommunestyret.
+Kommunestyret ber kommunedirektøren om å legge fram en vurdering i hovedutvalg Helse, oppvekst og kultur om temaene økt rus og medisinbruk blant eldre og spilleavhengighet i pengespill, og om disse temaene bør innarbeides ved neste rullering av ruspolitisk handlingsplan
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 27.08.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 10.09.2024 på kommunedirektørens innstilling med tilleggsforslag
+  - Kommunedirektørens innstilling med tilleggsforslag: enstemmig

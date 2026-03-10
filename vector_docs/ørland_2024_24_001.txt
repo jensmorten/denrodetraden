@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/001
+rodt_fremmet: False
+---
+
+Tittel: 24/001 Tilstandsrapport 2023 Fosen barnevernstjeneste
+
+Vedtak:
+Kommunestyret tar Fosen barnevernstjeneste sin tilstandsrapport for 2023 til orientering, og vil bruke den som et kunnskapsgrunnlag i arbeidet med å legge til rette for trygge og gode oppvekstsvilkår for barn og unge i kommunen.
+
+Voteringer:
+- Votering over forslag
+  - For: 31 stemmer
+  - Mot: 0 stemmer

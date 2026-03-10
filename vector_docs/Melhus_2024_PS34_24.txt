@@ -1,0 +1,11 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 34/24
+rodt_fremmet: False
+---
+
+Tittel: PS 34/24 Interpellasjon - Boligpolitikk - Karin Jordan Rutlin - INP
+
+Vedtak:
+Rådmannen har markert sine svar med blå skrift.

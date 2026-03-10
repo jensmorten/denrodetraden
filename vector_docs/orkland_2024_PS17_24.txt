@@ -1,0 +1,19 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 17/24
+rodt_fremmet: False
+---
+
+Tittel: Nye Orkanger hovedrenseanlegg
+
+Vedtak:
+Formannskapet vedtar å gjennomføre prosjektering og utvikling av nye Orkanger hovedrenseanlegg som en samspillentreprise i samsvar med saksframlegget. Dette sikrer at prosjektering og utvikling skjer i tett dialog mellom byggherre, entreprenør og leverandør, samt sikrer kvalitet og kontroll i prosessen. Basert på sammenlignbare prosjekter skal det være satt av tilstrekkelige selvkostmidler i handlingsplanen for realiseringen av prosjektet. Dersom kommunedirektøren kommer til at det bør vurderes tilleggsinvesteringer utenfor selvkostområdet, vil disse legges fram for politisk behandling som egne saker.
+
+Voteringer:
+- Votering i Hovedutvalg Teknikk 13.02.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Formannskap 27.02.2024
+  - Hovedutvalg teknikks innstilling: enstemmig
+- Votering i Kommunestyre 05.03.2024
+  - Formannskapets innstilling: enstemmig

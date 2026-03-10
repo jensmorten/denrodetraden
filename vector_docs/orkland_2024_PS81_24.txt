@@ -1,0 +1,18 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 81/24
+rodt_fremmet: False
+---
+
+Tittel: Forlengelse av kommunens salgs- og skjenkebevillinger
+
+Vedtak:
+Kommunestyret vedtar at gjeldende salgsbevilling for salg av alkoholholdig drikk ikke opphører den 30.09.2024, men løper videre for en periode på inntil fire år med opphør senest 30.09. 2028.
+Kommunestyret vedtar at gjeldende skjenkebevilling for skjenking av alkoholholdig drikk ikke opphører den 30.09.2024, men løper videre for en periode på inntil fire år med opphør senest 30.09.2028.
+
+Voteringer:
+- Votering i Hovedutvalg helse, oppvekst og kultur 27.08.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 10.09.2024
+  - Kommunedirektørens innstilling: enstemmig

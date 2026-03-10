@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/008
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til spørretimen - vintervedlikehold av gangsti Strandveien til Sentrumsveien
+
+Vedtak:
+Svar fra ordfører: I reguleringsplan er det regulert inn en kjørbar gangvei på strekningen. Denne ligger delvis på kommunal tomt og delvis på privateide tomter. Vegen er ikke etablert. Kommunen gjennomfører vintervedlikehold på opparbeidet kommunal veg, inkludert gang- og sykkelveg og fortau. For å ha et effektivt vintervedlikehold må vegen oppfylle gitt standardkrav. Opparbeidet sti er ikke tilstrekkelig i forhold til standardkrav. Prioritering av om strekningen skal opparbeides til gang- og sykkelveg for helårsvedlikehold gjøres i budsjett.

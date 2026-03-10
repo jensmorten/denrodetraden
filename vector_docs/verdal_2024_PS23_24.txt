@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 23/24
+rodt_fremmet: False
+---
+
+Tittel: Årsmelding 2023 - kontrollutvalget
+
+Vedtak:
+Kommunestyret tar kontrollutvalgets årsmelding 2023 til orientering
+
+Voteringer:
+- Votering over kontrollutvalgets innstilling
+  - For: enstemmig

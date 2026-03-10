@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/123
+rodt_fremmet: False
+---
+
+Tittel: Prosjektforslag fremtidens helsebygg
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- KST - 24/123 vedtak
+  - Utsettelse: ukjent

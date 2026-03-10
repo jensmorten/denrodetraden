@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 071/24
+rodt_fremmet: False
+---
+
+Tittel: Lokal forskrift om skoleregler i Rossen tjïelte/Røros kommune
+
+Vedtak:
+Forskriften vedtas med forandring i §6 og §8.
+
+Voteringer:
+- Kommunedirektørens forslag til vedtak
+  - For: enstemmig

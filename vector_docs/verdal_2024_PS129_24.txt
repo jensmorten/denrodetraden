@@ -1,0 +1,116 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 129/24
+rodt_fremmet: False
+---
+
+Tittel: PS 129/24 Økonomiplan 2025-2028 og Budsjett 2025
+
+Vedtak:
+
+
+Alternative forslag:
+- H/SP/VDL/FRP: Alternativt forslag med økninger i barnehageinntak, styrking skole, demenskoordinator, reduksjon i administrasjon, bevilgning til leiesatser, utbytte fra NTE, og utredning av skolestruktur med opprettholdelse av to ungdomsskoler. Inkluderer også verbalforslag om Verdal 2040, rapportering årsverksutvikling, bredbåndsutbygging, SFO, energiutredning.
+- AP v/Trine Reitan: Alternativt forslag med endringer i driftsbudsjett, inkludert rentemargin, kommunalsjef samfunn & næring, barnehageopptak, tverrfaglig boligrådgivingsgruppe, NTE-utbytte, lærertetthet, kutt i administrasjon, trivselstiltak, rehabilitering, fond, og investeringsbudsjett. Inkluderer verbalforslag om arealpolitikk, VBB 2, retningslinjer for NTE-utbytte, gjeldsgrad, forebygging, skolestruktur, familiehjelpa, helsesykepleiere, tusenårsjubileet, frivillighetskoordinator, rusforebygging.
+- INP v/Linn Kristin Johnsen: Forslag om utsettelse av VBB byggetrinn 2 til budsjettbehandling for 2026 med ny økonomisk vurdering. Verbalforslag om politisk sak for å bevare motivasjonspengene til brukerne på ATA-senteret.
+- SV og UAV (Hildrum): Alternativt budsjettforslag med økt rammetilskudd, styrking av grunnskole og barnehage, opprettholdelse av skolestruktur, eiendomsskatt uten fritak for visse eiendommer, nye retningslinjer for NTE-utbytte, og verbalforslag om økonomirapport og ansettelse.
+- Venstre v/Marita Røthe: Verbalforslag om styrking av grunnbemanning i barnehager og utvidelse av dag-/aktivitetstilbud for personer med demens.
+
+Voteringer:
+- Formannskapets innstilling pkt. 1
+  - For: 0 stemmer
+  - Mot: 33 stemmer
+- Forslag fra INP om VBB
+  - For: 1 stemmer
+  - Mot: 32 stemmer
+- Alternativt forslag fra SV/UAV
+  - For: 1 stemmer
+  - Mot: 31 stemmer
+- APs alternative forslag mot H/SP/VDL/FRP sitt forslag til pkt. 1
+  - H/SP/VDL/FRP: 21 stemmer
+  - AP, SV og UAV: 12 stemmer
+- Formannskapets innstilling pkt. 2
+  - For: 21 stemmer
+  - Mot: 12 stemmer
+- Formannskapets innstilling pkt. 3 til pkt. 9
+  - For: 33 stemmer
+  - Mot: 0 stemmer
+- Formannskapets innstilling pkt. 10 alternativt mot forslag til pkt. 10 fra H/SP/VDL/FRP
+  - H/SP/VDL/FRP: 23 stemmer
+  - Formannskapets innstilling (AP): 10 stemmer
+- Formannskapets innstilling pkt. 11
+  - For: 33 stemmer
+  - Mot: 0 stemmer
+- Samlet votering punktene 1 til og med 11
+  - For: 23 stemmer
+  - Mot: 10 stemmer
+- Verbalforslag fra H/SP/VDL/FRP pkt. 1
+  - For: 31 stemmer
+  - Mot: 2 stemmer
+- Verbalforslag fra H/SP/VDL/FRP pkt. 2
+  - For: 33 stemmer
+  - Mot: 0 stemmer
+- Verbalforslag fra H/SP/VDL/FRP pkt. 3
+  - For: 33 stemmer
+  - Mot: 0 stemmer
+- Verbalforslag fra H/SP/VDL/FRP pkt. 4
+  - For: 33 stemmer
+  - Mot: 0 stemmer
+- Verbalforslag fra H/SP/VDL/FRP pkt. 5
+  - For: 31 stemmer
+  - Mot: 2 stemmer
+- Verbalforslag 1 fra AP
+  - For: 10 stemmer
+  - Mot: 23 stemmer
+- Verbalforslag 2 fra AP
+  - For: 32 stemmer
+  - Mot: 1 stemmer
+- Verbalforslag 3 fra AP
+  - For: 12 stemmer
+  - Mot: 21 stemmer
+- Verbalforslag 4 fra AP
+  - For: 32 stemmer
+  - Mot: 1 stemmer
+- Verbalforslag 5 fra AP
+  - For: 13 stemmer
+  - Mot: 20 stemmer
+- Verbalforslag 6 fra AP
+  - For: 12 stemmer
+  - Mot: 21 stemmer
+- Verbalforslag 7 fra AP
+  - For: 14 stemmer
+  - Mot: 19 stemmer
+- Verbalforslag 8 fra AP
+  - For: 13 stemmer
+  - Mot: 20 stemmer
+- Verbalforslag 9 fra AP
+  - For: 14 stemmer
+  - Mot: 19 stemmer
+- Verbalforslag 10 fra AP
+  - For: 13 stemmer
+  - Mot: 20 stemmer
+- Verbalforslag 11 fra AP
+  - For: 33 stemmer
+  - Mot: 0 stemmer
+- Verbalforslag 12 fra AP
+  - For: 11 stemmer
+  - Mot: 22 stemmer
+- Verbalforslag 13 fra AP
+  - For: 33 stemmer
+  - Mot: 0 stemmer
+- Verbalforslag 1 fra SV/UAV
+  - For: 2 stemmer
+  - Mot: 31 stemmer
+- Verbalforslag 2 fra SV/UAV
+  - For: 14 stemmer
+  - Mot: 19 stemmer
+- Verbalforslag 1 fra V
+  - For: 15 stemmer
+  - Mot: 18 stemmer
+- Verbalforslag 2 fra V
+  - For: 33 stemmer
+  - Mot: 0 stemmer
+- Verbalforslag 1 fra INP
+  - For: 33 stemmer
+  - Mot: 0 stemmer

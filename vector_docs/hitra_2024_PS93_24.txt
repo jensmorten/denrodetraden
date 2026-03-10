@@ -1,0 +1,50 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 93/24
+rodt_fremmet: True
+---
+
+Tittel: PS 93/24 Handlings- og økonomiplan 2025-2028
+
+Vedtak:
+
+
+Alternative forslag:
+- Jann O. Krangnes (R): Kommunal overtakelse av ansvaret for gravferd.
+- Jann O. Krangnes (R): Utredning for utbygging av seniorboliger i sentrale strøk.
+- Jann O. Krangnes (R): Utredning for oppgradering av bosenter på Melandsjøen til omsorgssenter.
+- Jann O. Krangnes (R): Utredning for livssynsåpent hus i Hitra kommune.
+- Jann O. Krangnes (R): Tilleggspunkt om bevilgning på kr 3.750.000 til forsterkning av barnehager og hjemmetjenesten.
+- John Lernes (AP): Tilleggspunkt om avsetning av kr 100.000 til reguleringsendring for ny veg til Vikantoppen.
+- Marcus Helgesson Svenning (SV): Endring i innstillingens punkt 6 om investeringsmidler til Hitra kirkelige fellesråd.
+- Ingrid Kathrine Schanche (SP): Forslag om å stryke innstillingens punkt 13 på vegne av AP, R, SP og SV.
+
+Voteringer:
+- Forslag fremmet av ordfører John Lernes (AP)
+  - For: 26 stemmer
+  - Imot: 0 stemmer
+- Verbalforslag 1 fremmet av Jann O. Krangnes (R)
+  - For: 26 stemmer
+  - Imot: 0 stemmer
+- Verbalforslag 2 fremmet av Jann O. Krangnes (R)
+  - For: 26 stemmer
+  - Imot: 0 stemmer
+- Verbalforslag 3 fremmet av Jann O. Krangnes (R)
+  - For: 26 stemmer
+  - Imot: 0 stemmer
+- Verbalforslag 4 fremmet av Jann O. Krangnes (R)
+  - For: 26 stemmer
+  - Imot: 0 stemmer
+- Tilleggsforslag fremmet av Jann O. Krangnes (R)
+  - For: 8 stemmer
+  - Imot: 17 stemmer
+- Endringsforslag fremmet av Marcus Helgesson Svenning (SV)
+  - For: 14 stemmer
+  - Imot: 11 stemmer
+- Forslag fremmet av varaordfører Ingrid Kathrine Schanche (SP) om å stryke punkt 13
+  - For: 11 stemmer
+  - Imot: 14 stemmer
+- Innstillingen fra formannskapet med endringer
+  - For: 26 stemmer
+  - Imot: 0 stemmer

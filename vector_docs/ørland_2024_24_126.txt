@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/126
+rodt_fremmet: False
+---
+
+Tittel: Oppstartssak for å videreutvikle tjenestesamarbeidet og utrede nye samarbeidsordninger for kommunene på Fosen
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Vedtak av saken KST - 24/126
+  - Utsatt: ukjent

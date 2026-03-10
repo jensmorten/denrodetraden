@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/007
+rodt_fremmet: False
+---
+
+Tittel: Svar på søknad om å delta i regjeringens forsøksordning for kommuner og fylkeskommuner
+
+Vedtak:
+Saken tatt til orientering i samlesak PS 24/051.

@@ -1,0 +1,20 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 095/24
+rodt_fremmet: False
+---
+
+Tittel: VALG AV VARAREPRESENTANT TIL IKA TRØNDELAG IKS 2024-2027
+
+Vedtak:
+Som varamedlem i Interkommunal Arkivordning Trøndelag IKS (IKA Trøndelag) for perioden 2024-2027 velges:
+Varamedlem 2: Rune Meli
+
+Alternative forslag:
+- Valgutvalget: Som varamedlem i Interkommunal Arkivordning Trøndelag IKS (IKA Trøndelag) for perioden 2024-2027 velges:
+Varamedlem 2: Rune Meli
+
+Voteringer:
+- Votering over valg av varamedlem 2 til IKA Trøndelag for perioden 2024-2027
+  - For valg av Rune Meli: Enstemmig

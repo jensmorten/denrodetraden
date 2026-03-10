@@ -1,0 +1,41 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 89/2024
+rodt_fremmet: False
+---
+
+Tittel: Møteplan folkevalgte organer 2025
+
+Vedtak:
+Møteplan for folkevalgte organer i Namsos kommune 2025
+Jan. Feb. Mar. Apr. Mai. Jun. Aug. Sep. Okt. Nov. Des.
+Kommunestyre 20. 27. 15. 19. 18. 23. 27. 18.
+Formannskap 21. 11. 18. 8. 6. 3. 19. 9. 14. 4. 9.
+25. 20. 17. 16. 25.
+Valgstyret 9.
+Utvalg for plan 5. 12. 29. 11. 10. 1. 12. 3.
+Utvalg for folk 6. 13. 30. 12. 11. 2. 13. 4.
+Råd for personer med 4. 11. 29. 10. 9. 11. 2.
+funksjonsnedsettelse
+Eldreråd 4. 11. 29. 10. 9. 11. 2.
+Ungdomsråd 3. 14. 9. 16. 12. 3. 10. 1.
+Partssammensatt 11. 6. 16. 4.
+utvalg
+Kommunestyre: kl. 09.00, bør avsluttes innen kl. 16.00
+Formannskap: kl. 12.00, bør avsluttes innen kl. 16.00
+Utvalg for plan: kl. 08.30, bør avsluttes innen kl. 12.00
+Utvalg for folk: kl. 08.30, bør avsluttes innen kl. 12.00
+Eldreråd: kl. 09.30 - 11.30
+Råd for personer med funksjonsnedsettelse: kl. 12.30 – 14.30
+Ungdomsråd: kl. 09.30 – 12.00
+Partssammensatt utvalg: kl. 08.30, møtene avsluttes før 11.30
+Valgdag 8.september
+Møterunde for handlingsplan og årsbudsjett:
+Alle råd og utvalg behandler dette i uke 46
+Formannskapet behandler dette 25.11.2025
+Kommunestyret behandler dette 18.12.2025
+
+Voteringer:
+- Avstemning om formannskapets forslag til vedtak om møteplan for folkevalgte organer i 2025
+  - For: 34 stemmer

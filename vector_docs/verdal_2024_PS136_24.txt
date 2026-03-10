@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 136/24
+rodt_fremmet: False
+---
+
+Tittel: PS 136/24 Fastsetting av forskrift om saksbehandlingsgebyr etter havne- og farvannsloven
+
+Vedtak:
+Kommunestyret vedtar forskrift om saksbehandlingsgebyr etter havne- og farvannsloven for kommunene Namsos, Steinkjer, Inderøy, Indre Fosen, Verdal, Levanger, Frosta, Stjørdal, Malvik, Trondheim, Skaun, Orkland, Hitra og Frøya. Kommunestyret vedtar vedlagt gebyrregulativ for 2025 for saksbehandlingsgebyr etter havne- og farvannsloven.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

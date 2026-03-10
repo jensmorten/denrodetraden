@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 39/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av jordskiftemeddommere for perioden 01.01.2025 - 31.12.2028
+
+Vedtak:
+Kommunestyre vedtar vedlagte forslag til meddommere i jordskifteretten.
+
+Voteringer:
+- Votering i Valgutvalg 07.05.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 18.06.2024
+  - Valgutvalgets tilråding: enstemmig

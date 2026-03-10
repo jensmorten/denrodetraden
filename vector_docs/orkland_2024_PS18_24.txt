@@ -1,0 +1,15 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 18/24
+rodt_fremmet: False
+---
+
+Tittel: Reglement for brukerutvalget for kollektivreisende i Orkland
+
+Vedtak:
+Kommunestyret vedtar vedlagte forslag til reglement for brukerutvalget for kollektivreisende i Orkland.
+
+Voteringer:
+- Votering over kommunedirektørens innstilling
+  - For: enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 84/2024
+rodt_fremmet: False
+---
+
+Tittel: Samarbeidsavtale om legevaktsentral
+
+Vedtak:
+Kommunestyret vedtar «samarbeidsavtale om legevaktsentral, hvor Namsos kommune er vertskommune og Flatanger, Overhalla, Osen, Bindal, Leka, Høylandet, Grong, Namsskogan, Røyrvik, Nærøysund og Lierne er samarbeidskommuner. Hjemmel for vedtaket er: Kommuneloven §20-2
+
+Voteringer:
+- Avstemning over formannskapets forslag til vedtak om samarbeidsavtale om legevaktsentral
+  - For: 33 stemmer

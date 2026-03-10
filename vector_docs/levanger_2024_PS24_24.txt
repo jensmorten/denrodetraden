@@ -1,0 +1,19 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 24/24
+rodt_fremmet: False
+---
+
+Tittel: Helhetlig risiko- og sårbarhetsanalyse - Levanger kommune
+
+Vedtak:
+Helhetlig risiko- og sårbarhetsanalyse vedtas.
+Kommunestyret ber kommunedirektøren i løpet av 2024 komme tilbake med en sak om hvordan man i en helhetlig ROS for Levanger kommune også kan ivareta også de «myke verdiene» som samfunnet vårt bygger på.
+
+Voteringer:
+- Punkt 1: Helhetlig risiko- og sårbarhetsanalyse
+  - For: enstemmig
+- Punkt 2: Kommunestyret ber kommunedirektøren i løpet av 2024 komme tilbake med en sak om hvordan man i en helhetlig ROS for Levanger kommune også kan ivareta også de «myke verdiene» som samfunnet vårt bygger på
+  - For: 27 stemmer
+  - Mot: 8 stemmer

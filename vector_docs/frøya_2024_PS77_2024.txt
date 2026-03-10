@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 77/2024
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv, Runar Sivertsen
+
+Vedtak:
+Representant Runar Sivertsen innvilges permisjon fra sitt politiske verv fra vedtaksdato og ut perioden. Ronald Sandvik velges inn som fast representant for H i kommunestyret. Ronny Bratland velges inn som siste vararepresentant til kommunestyret.
+
+Voteringer:
+- Vedtak av permisjon for Runar Sivertsen og valg av nye representanter
+  - Enstemmig: alle

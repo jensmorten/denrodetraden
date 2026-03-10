@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/132
+rodt_fremmet: False
+---
+
+Tittel: Fremsending av kontrollutvalget i Ørland kommune sin Plan for eierskapskontroll 2024 - 2028
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Behandling av KST - 24/132 vedtak
+  - Utsatt: ukjent

@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 41/24
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling - Detaljregulering Åsaringen - PlanID 2018013
+
+Vedtak:
+Melhus kommune vedtar med hjemmel i plan- og bygningsloven § 12-12 Detaljreguleringsplan for Åsaringen (planid 2018013), som vist i vedlagte planbestemmelser, plankart og planbeskrivelse med vedlegg.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: Enstemmig

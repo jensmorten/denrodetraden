@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 108/24
+rodt_fremmet: False
+---
+
+Tittel: PS 108/24 Meldingssak fra kontrollutvalgsmøte 25.11.2024
+
+Vedtak:
+Kommunestyret tar møteprotokoll fra kontrollutvalgsmøte 25.11.2024 til orientering.
+
+Voteringer:
+- Votering over innstillingen
+  - For: enstemmig

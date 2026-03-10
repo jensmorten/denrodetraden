@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 130/24
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om kommunale gebyrer etter Plan- og bygningsloven, Eierseksjonsloven og Matrikkellova, Melhus kommune
+
+Vedtak:
+Ny forskrift om kommunale gebyrer for saker behandlet etter plan- og bygningsloven, Eierseksjonsloven og Matrikkellova vedtas med virkning fra publiseringsdato 1.1.2025. Gjeldende forskrift om kommunalt gebyrregulativ, FOR-2014-12-16-1871, oppheves fra samme dato.
+
+Voteringer:
+- Votering over rådmannens forslag til vedtak
+  - For: Enstemmig

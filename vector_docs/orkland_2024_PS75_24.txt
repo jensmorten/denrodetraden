@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 75/24
+rodt_fremmet: False
+---
+
+Tittel: Konsesjon Bygdekino i Løkken kulturhus
+
+Vedtak:
+Kommunestyret innvilger konsesjon for Bygdekino AS i Løkken kulturhus fra 13.09 2024 til 01.01.2029
+
+Voteringer:
+- Behandling i Hovedutvalg helse, oppvekst og kultur (2023-2027) 27.08.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Behandling i Kommunestyre 10.09.2024
+  - Kommunedirektørens innstilling: enstemmig

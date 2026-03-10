@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 033/24
+rodt_fremmet: False
+---
+
+Tittel: Lokal forskrift om skolefritidsordningen (SFO) i Rossen tjïelte/Røros kommune
+
+Vedtak:
+Den lokale forskriften legges ut på høring i 6 uker.
+
+Voteringer:
+- Behandling av formannskapets forslag til vedtak
+  - For: enstemmig

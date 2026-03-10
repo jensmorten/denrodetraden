@@ -1,0 +1,8 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 9/24
+rodt_fremmet: False
+---
+
+Tittel: PS 9/24 Orientering

@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 051/24
+rodt_fremmet: False
+---
+
+Tittel: Klage på kommunestyrevedtak 01.02.2024 - Djupsjøen Hyttegrend
+
+Vedtak:
+Røros kommune tar ikke klagen fra Geotydal AS til følge. Klagen sendes til statsforvalteren i Trøndelag for endelig avgjørelse.
+
+Voteringer:
+- Votering over utvalg for plansaker sitt forslag til vedtak
+  - For: enstemmig

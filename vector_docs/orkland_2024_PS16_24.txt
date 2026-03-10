@@ -1,0 +1,21 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 16/24
+rodt_fremmet: False
+---
+
+Tittel: Budsjettjustering prosjekt ombygging basseng ved Orkanger barneskole
+
+Vedtak:
+Kommunestyret støtter vurderingene om endringsbehov i ombyggingsprosjektet ved Orkanger barneskole, og vedtar å øke budsjettrammen for prosjektet til totalt kr 31,8 millioner inkl. mva. Totalbudsjettet for ombyggingsprosjektet ved Orkanger Barneskole økes med 4,55 millioner kroner, fra 27,25 millioner kroner til 31,8 millioner kroner. Endringen omfatter utvidelse av personalrommet med ytterligere 6 kvm samt innkjøp av ny kjøkkeninnredning. Det foretas følgende endringer i budsjett 2024: Konto Ansvar Tjeneste Prosjekt Beløp Tekst 2300 412034 2220 400079 3 480 000 Investering 4290 412034 2220 400079 870 000 Momskomp 7290 412034 8410 400079 -870 000 Motpost momskomp 9100 412034 8800 400079 -2 480 000 Bruk av lån Ubrukte investeringsmidler i 2023 av den opprinnelige rammen vil bli overført til 2024 i forbindelse med budsjettregulering av investeringer.
+
+Alternative forslag:
+- Hans Kringstad SMBP (på vegne av Ap, H, SMBP og V): Kommunestyret støtter vurderingene om endringsbehov i ombyggingsprosjektet ved Orkanger barneskole, og vedtar å øke budsjettrammen for prosjektet til totalt kr 31,8 millioner inkl. mva. Totalbudsjettet for ombyggingsprosjektet ved Orkanger Barneskole økes med 4,55 millioner kroner, fra 27,25 millioner kroner til 31,8 millioner kroner. Endringen omfatter utvidelse av personalrommet med ytterligere 6 kvm samt innkjøp av ny kjøkkeninnredning. Det foretas følgende endringer i budsjett 2024: (Tabellen - låneopptak på 200 000 kr i tillegg til KDs forslag) Endring av KDs forslag markert i gult. Forslaget innebærer tilleggsbevilgning/låneopptak på 200 000 kr ut over KDs forslag.
+
+Voteringer:
+- Votering i Formannskap 27.02.2024
+  - Kommunedirektørens innstilling: 0 stemmer
+  - Endringsforslag fra Ap, H, SMBP og V: enstemmig
+- Votering i Kommunestyre 05.03.2024
+  - Formannskapets innstilling: enstemmig

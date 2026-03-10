@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 088/24
+rodt_fremmet: False
+---
+
+Tittel: Fornyelse salgsbevilling for alkoholholding drikk gruppe 1 Røros kommune perioden 2024-2028
+
+Vedtak:
+Som foreslått i kommunedirektørens forslag med detaljer som ovenfor.
+
+Voteringer:
+- Behandling av formannskapets forslag til vedtak, 12.09.2024 - 082/24
+  - Formannskapets forslag: Enstemmig

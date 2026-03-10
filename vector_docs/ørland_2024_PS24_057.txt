@@ -1,0 +1,16 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/057
+rodt_fremmet: False
+---
+
+Tittel: Sluttbehandling av kommunedelplan helse og familie 2024 - 2036
+
+Vedtak:
+Ørland kommune, ved kommunestyret, vedtar med hjemmel i plan - og bygningsloven § 11-15 kommunedelplan Helse og familie 2024 - 2036.
+
+Voteringer:
+- Votering over forslag: Innstilling fra Utvalg for helse og familie i møte 23.05.24
+  - For: 30 stemmer
+  - Mot: 0 stemmer

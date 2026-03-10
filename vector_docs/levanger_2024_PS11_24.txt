@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 11/24
+rodt_fremmet: False
+---
+
+Tittel: Reglement for kommunestyret - revidering
+
+Vedtak:
+Vedlagte forslag til reglement for kommunestyret vedtas, og gjøres gjeldende for valgperioden 2023-2027 med følgende endring - pkt. 19 d: Det settes av 60 minutter i møtet til å behandle spørsmål og interpellasjoner.
+
+Voteringer:
+- Avstemning om vedtak av forslag til reglement for kommunestyret med endring pkt. 19 d
+  - For: Enstemmig

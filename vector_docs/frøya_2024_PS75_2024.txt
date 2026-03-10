@@ -1,0 +1,60 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 75/2024
+rodt_fremmet: False
+---
+
+Tittel: Valg av meddommere til lagmannsretten, Tingretten, Jordskifteretten , Skjønnsmenn og Forliksråd
+
+Vedtak:
+Følgende personer velges som meddommere i:
+NR NAVN
+Lagrettemedlemmer og meddommere i lagmannrettesaker
+1 Antonsen Kirsten Rønquist
+2 Lund Grethe Korsbø
+3 Nilsen Heidi Glørstad
+4 Rabben Randi
+1 Gipling Arthur Ludvik
+2 Karlsen Nils Jørgen
+3 Meland Geir Egil
+4 Tvervåg Roger
+KVINNER MENN
+1 Åsen Mona Perline 1 Kløven Robert
+2 Bekken Vida Zubaite 2 Seternes Håkon
+3 Nilsen Nina Espnes 3 Sandvik Sondre
+4 Skarsvåg Mona Elisabeth 4 Reitan Knut Solstad
+5 Christensen Tone Bay 5 Gulbrandsen Vebjørn
+6 Kristiansen Emilie 6 Strømøy Knut Arne
+7 Teixeira Danussia 7 Bekken Pål Terje Baracho
+8 Steinvåg Unni Solheim 8 Ervik Stian
+9 Hammervold Anette 9 Os Håvard Holte Narmo
+10 Dolen Synnøve Høgseth 10 Kristiansen Adrian
+11 Ohren Pia Kathrine 11 Johansen Torbjørn Espnes
+12 Nord Kjersti 12 Larsen Lars Kristian
+13 Raanes Torild 13 Løkkeberg Roar
+14 Ervik Ernesta 14 Skagen Espen
+15 Strømskag Kristin Furunes 15 Kristoffersen Jan Ketil
+NAVN
+Jordskiftemeddommere
+Anette Hammervold
+Thomassen Gøril
+Teixeira Danussia
+Baracho
+Meland Geir Egil
+Strømøy Knut Arne
+Seternes Håkon
+NAVN NAVN
+Forliksrådet Skjønnsmenn
+Johansen Torbjørn Sandvik Aina Taraldsen
+Larsen Lars Kristian Skarsvåg Mona Elisabeth
+Siv Anita Fillingsnes Siv Anita Fillingsnes
+Sandvik Per Ole Gulbrandsen Vebjørn
+Riiber Gunhild Seternes Arvid Håkon
+0 Ohren Svein Olav
+0 Strømøy line
+Enstemmig.
+
+Voteringer:
+- Vedtak av valg av meddommere til lagmannsretten, Tingretten, Jordskifteretten, Skjønnsmenn og Forliksråd
+  - For: Enstemmig

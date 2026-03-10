@@ -1,0 +1,16 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 35/24
+rodt_fremmet: False
+---
+
+Tittel: NAV- Hjelpemiddelsentral - finansiering av byggeprosjekt
+
+Vedtak:
+Levanger kommune bevilger 80 mill kroner til bygging av NAV-Hjelpemiddelsentral, Levanger.
+Investeringen finansieres med låneopptak som fordeles utover økonomiplanperioden.
+
+Voteringer:
+- Avstemning om bevilgning og finansiering av byggeprosjekt NAV-Hjelpemiddelsentral
+  - For: Enstemmig

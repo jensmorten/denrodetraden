@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 78/24
+rodt_fremmet: False
+---
+
+Tittel: Stortings- og sametingsvalget 2025 - en- eller todagers valg
+
+Vedtak:
+Stortings- og sametingsvalget 2025 gjennomføres som endags valg ved alle stemmekretsene i Orkland kommune. Valgdagen er mandag 8. september 2025.
+
+Voteringer:
+- Votering i Formannskap 03.09.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 10.09.2024
+  - Kommunedirektørens innstilling: 41 stemmer

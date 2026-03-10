@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 37/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av meddommere til Lagmannsretten 2025 -2028
+
+Vedtak:
+Kommunestyret vedtar vedlagte forslag til meddommere i Lagmannsretten 2025 - 2028.
+
+Voteringer:
+- Votering i Valgutvalg 07.05.2024
+  - Kommunedirektørens innstilling: enstemmig
+- Votering i Kommunestyre 18.06.2024
+  - Valgutvalgets tilråding: enstemmig

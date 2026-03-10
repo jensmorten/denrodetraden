@@ -1,0 +1,16 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 25/24
+rodt_fremmet: False
+---
+
+Tittel: Regnskap og årsberetning 2023 - Levanger kommune
+
+Vedtak:
+Levanger kommunes årsberetning for 2023 vedtas.
+Levanger kommunes årsregnskap for 2023 vedtas.
+
+Voteringer:
+- Avstemning om vedtak av årsberetning og årsregnskap 2023
+  - For: Enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 092/24
+rodt_fremmet: False
+---
+
+Tittel: Oppdatering strategi for oppvekst og utdanning
+
+Vedtak:
+Oppdatert strategi for oppvekst og utdanning vedtas.
+
+Voteringer:
+- Behandling av utvalg for oppvekst sitt forslag til vedtak
+  - For: enstemmig

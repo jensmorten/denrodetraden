@@ -1,0 +1,19 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 70/24
+rodt_fremmet: False
+---
+
+Tittel: PS 70/24 NAV hjelpemiddelsentral -Trøndelag - finansiering av byggeprosjekt - revidert budsjettramme
+
+Vedtak:
+1. Prosjektrammen for NAV-hjelpemiddelsentral økes fra 80 millioner kroner til 85 millioner kroner.
+2. Investeringen finansieres med låneopptak fordelt slik:
+2024 2025 2026
+8 mill. kroner 67 mill. kroner 10 mill. kr
+
+Voteringer:
+- Avstemning over kommunedirektørens forslag til vedtak
+  - For: 34 stemmer
+  - Imot: 1 stemmer

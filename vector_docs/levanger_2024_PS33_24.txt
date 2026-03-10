@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 33/24
+rodt_fremmet: False
+---
+
+Tittel: Tilleggsanmodning fra IMDI om bosetting av enslige mindreårige i 2024
+
+Vedtak:
+Levanger kommune imøtekommer forespørsel om å bosette ytterligere fire enslige mindreårige flyktninger i 2024.
+
+Voteringer:
+- Avstemning om bosetting av ytterligere fire enslige mindreårige flyktninger i 2024
+  - For: Enstemmig

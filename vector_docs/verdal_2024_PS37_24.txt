@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 37/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av ny varaordfører etter fritak av Pål Sverre Fikse
+
+Vedtak:
+Som varaordfører for resten av valgperioden 2023-2027 ble Hilde Daleng (SP) valgt.
+
+Voteringer:
+- Valg av varaordfører for resten av valgperioden 2023-2027
+  - Hilde Daleng (SP): enstemmig

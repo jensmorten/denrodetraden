@@ -1,0 +1,17 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 50/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om lånegaranti fra DalPro AS
+
+Vedtak:
+
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For: Enstemmig
+- Votering over innstillingen i formannskapet
+  - For: Enstemmig

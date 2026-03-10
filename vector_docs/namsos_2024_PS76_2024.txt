@@ -1,0 +1,16 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 76/2024
+rodt_fremmet: False
+---
+
+Tittel: Helhetlig risiko og sårbarhetsanalyse for Namsos kommune
+
+Vedtak:
+Kommunestyret vedtar helhetlig risiko og sårbarhetsanalyse for Namsos kommune.
+Kommunestyret vedtar at helhetlig risiko og sårbarhetsanalyse legges til grunn for Namsos kommunes arbeid med samfunnssikkerhet og beredskap i perioden 2025-2028.
+
+Voteringer:
+- Avstemming over innstillingen til helhetlig risiko og sårbarhetsanalyse for Namsos kommune
+  - For forslaget: 34 stemmer

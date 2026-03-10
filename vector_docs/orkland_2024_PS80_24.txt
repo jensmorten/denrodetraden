@@ -1,0 +1,20 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 80/24
+rodt_fremmet: False
+---
+
+Tittel: Søknad om fritak fra politiske verv i Orkland kommune - Wenche Romundstad, PP
+
+Vedtak:
+Wenche Romundstad, PP innvilges varig fritak fra sine politiske verv i Orkland kommune ut valgperioden.
+Varamedlem fra PP rykker opp på varamannslisten til hovedutvalg helse, oppvekst og kultur.
+Som nytt varamedlem velges Tor Arne Vassli
+
+Alternative forslag:
+- Terje Selvnes, PP: Som 2. varamedlem til hovedutvalg helse, oppvekst og kultur velges Tor Arne Vassli
+
+Voteringer:
+- Votering over kommunedirektørens innstilling med tilleggsforslag fra PP
+  - For: 41 stemmer

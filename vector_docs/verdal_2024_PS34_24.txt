@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 34/24
+rodt_fremmet: False
+---
+
+Tittel: Godtgjøring til fjellstyrets medlemmer for perioden 2024-2027
+
+Vedtak:
+Kommunestyret godkjenner Verdal fjellstyre sitt forslag på godtgjøring til Verdal fjellstyre for perioden 2024-2027.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

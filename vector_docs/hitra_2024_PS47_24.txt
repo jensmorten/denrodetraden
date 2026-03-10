@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 47/24
+rodt_fremmet: False
+---
+
+Tittel: Økonomi- og finansrapport 1.tertial 2024 - Hitra kommune
+
+Vedtak:
+Hitra kommunestyre godkjenner økonomi- og finansrapport 1.tertial 2024 slik den er fremlagt.
+
+Voteringer:
+- Votering over innstillingen fra formannskapet
+  - For: enstemmig

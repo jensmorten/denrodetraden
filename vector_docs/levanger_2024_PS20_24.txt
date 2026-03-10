@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 20/24
+rodt_fremmet: False
+---
+
+Tittel: Reglement for kontrollutvalget - Levanger
+
+Vedtak:
+Kommunestyret vedtar reglement for kontrollutvalget i Levanger kommune.
+
+Voteringer:
+- Avstemning om kontrollutvalgets forslag til vedtak
+  - For: enstemmig

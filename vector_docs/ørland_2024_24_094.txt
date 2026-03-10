@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/094
+rodt_fremmet: False
+---
+
+Tittel: Valg av protokollunderskrivere
+
+Vedtak:
+Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:
+• Therese M. Eidsaune (H)
+• Knut Ring (AP)
+
+Voteringer:
+- Votering over innstillingen om valg av protokollunderskrivere
+  - Enstemmig vedtatt: alle

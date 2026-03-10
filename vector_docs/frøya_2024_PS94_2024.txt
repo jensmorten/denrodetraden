@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 94/2024
+rodt_fremmet: False
+---
+
+Tittel: Valg av vararepresentant for Marine Måsøval i Hovedutvalg for samfunn
+
+Vedtak:
+Som 4 varamedlem i Hovedutvalg for samfunn velges: Barbro Flaahammer
+
+Voteringer:
+- Valg av 4 varamedlem i Hovedutvalg for samfunn
+  - Barbro Flaahammer: Enstemmig

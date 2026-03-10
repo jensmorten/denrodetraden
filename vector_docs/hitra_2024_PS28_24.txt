@@ -1,0 +1,15 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 28/24
+rodt_fremmet: False
+---
+
+Tittel: Navneendring på Hitra brukerråd
+
+Vedtak:
+Hitra kommunestyre vedtar å endre navn på Hitra brukerråd til å bli råd for personer med funksjonsnedsettelse. Endringen trer i kraft fra og med 01.07.2024.
+
+Voteringer:
+- Votering over innstillingen om navneendring på Hitra brukerråd
+  - For: enstemmig

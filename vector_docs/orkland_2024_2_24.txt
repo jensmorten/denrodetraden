@@ -1,0 +1,8 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: 2/24
+rodt_fremmet: False
+---
+
+Tittel: Grunngitt spørsmål fra KrF ved Bente Høston Bostad angående bygging av gang og sykkelvei på Vormstad

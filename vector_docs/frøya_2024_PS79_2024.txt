@@ -1,0 +1,19 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 79/2024
+rodt_fremmet: False
+---
+
+Tittel: Rekruttering Kommunedirektør
+
+Vedtak:
+Beathe S Meland får fratre sin stilling fra 31.08.24
+Roger Antonsen konstitueres fra 01.09.24, for en periode på inntil 1 år
+Prosessen med rekruttering av ny kommunedirektør starter høsten 2024.
+
+Voteringer:
+- Formannskapets behandling av sak 81/2024 i møte den 19.06.2024
+  - Enstemmig: alle
+- Kommunestyrets behandling av sak 79/2024 i møte den 20.06.2024
+  - Enstemmig: alle

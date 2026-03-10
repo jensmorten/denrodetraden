@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 065/24
+rodt_fremmet: False
+---
+
+Tittel: Røros kommunes årsregnskap for 2023
+
+Vedtak:
+
+
+Voteringer:
+- Votering over formannskapets innstilling til vedtak
+  - For: Enstemmig

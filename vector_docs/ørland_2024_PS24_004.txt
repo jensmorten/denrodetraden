@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/004
+rodt_fremmet: False
+---
+
+Tittel: Brukerundersøkelsen 2024 - Pårørendeundersøkelsen
+
+Vedtak:
+Ørland kommune, ved kommunestyret tar saken til orientering.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 31 stemmer

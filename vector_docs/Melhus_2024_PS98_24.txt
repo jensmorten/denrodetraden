@@ -1,0 +1,15 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 98/24
+rodt_fremmet: False
+---
+
+Tittel: Behandling av Hovedplan Vann i Melhus - klimatilpasning, vannmiljø, vannforsyning og avløp 2024-2033
+
+Vedtak:
+Kommunestyret vedtar Hovedplan Vann i Melhus - klimatilpasning, vannmiljø, vannforsyning og avløp 2024-2033, og legger den til grunn i videre arbeid. Kommunestyret velger at det utarbeides en strategi for fornying, og i tråd med ønsket vekst i planperioden, for selvkost vann og avløp, for hele kommunen. I videre planarbeid bør det legges vekt på samarbeid med nabokommuner på vann og avløp med tanke på dimensjonering, ressursbruk og drift av eksisterende og nye anlegg. Det skal være fokus på på lavest mulig kost for innbyggerne. Det utarbeides en strategi for hvilke tiltak som skal gjennomføres i perioden. Tiltakene settes opp med foreslått prioritert rekkefølge med kostnadsoverslag.
+
+Voteringer:
+- Votering over formannskapets forslag til vedtak
+  - For: Enstemmig

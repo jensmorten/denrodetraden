@@ -1,0 +1,11 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 25/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 25/2024 Andre råd og utvalgs orientering
+
+Vedtak:
+Ingen orienteringer

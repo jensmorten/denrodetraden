@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 32/24
+rodt_fremmet: False
+---
+
+Tittel: Valg av meddommere og skjønnsmedlemmer for perioden 2025-2028
+
+Vedtak:
+
+
+Voteringer:
+- Avstemning om valg av meddommere og skjønnsmedlemmer for perioden 2025-2028
+  - Enstemmig: alle

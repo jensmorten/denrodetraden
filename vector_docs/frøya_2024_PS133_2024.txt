@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 133/2024
+rodt_fremmet: False
+---
+
+Tittel: Godkjenning av protokoll fra møtet 28.10.24 og 31.10.24
+
+Vedtak:
+Godkjenning av protokoll fra møtet 28.10.24 og 31.10.24 godkjennes som fremlagt
+
+Voteringer:
+- Godkjenning av protokoll fra møtet 28.10.24 og 31.10.24
+  - For: Enstemmig

@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 058/24
+rodt_fremmet: False
+---
+
+Tittel: Tilstandsrapport interkommunalt barnevern Røros, Holtålen og Os 2023
+
+Vedtak:
+Kommunestyret tar barnevernstjenestens tilstandsrapport for 2023 til orientering.
+
+Voteringer:
+- Formannskapets innstilling vedtas
+  - For: 25 stemmer

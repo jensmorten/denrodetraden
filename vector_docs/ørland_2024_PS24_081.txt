@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/081
+rodt_fremmet: False
+---
+
+Tittel: Revidert samarbeidsavtale for Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge
+
+Vedtak:
+Kommunestyret vedtar revidert samarbeidsavtale om Kommunalt oppgavefellesskap mot akutt forurensning Midt-Norge.
+
+Voteringer:
+- Votering over forslag
+  - Opprinnelig forslag: 31 stemmer

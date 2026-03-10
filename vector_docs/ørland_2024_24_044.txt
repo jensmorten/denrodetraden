@@ -1,0 +1,23 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/044
+rodt_fremmet: False
+---
+
+Tittel: Fra 3 til 2 administrasjonsbygg
+
+Vedtak:
+{'organ': 'Kommunestyre', 'dato': '18.04.2024', 'sak': 'KST - 24/044', 'tekst': ['Ørland kommune går fra 3 til 2 administrasjonsbygg.', 'Gamle Bjugn rådhus avhendes og legges ut for salg.']}
+{'organ': 'Formannskap', 'dato': '11.04.2024', 'sak': 'FSK - 24/031', 'tekst': ['Ørland kommune går fra 3 til 2 administrasjonsbygg.', 'Gamle Bjugn rådhus avhendes og legges ut for salg.']}
+{'organ': 'Arbeidsmiljøutvalget', 'dato': '10.04.2024', 'sak': 'AMU - 24/005', 'tekst': ['AMU vedtar kommunedirektørens innstilling.']}
+
+Voteringer:
+- Votering over forslag i Kommunestyret 18.04.2024
+  - For: 31 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag i Formannskapet 11.04.2024
+  - For: 7 stemmer
+  - Mot: 0 stemmer
+- Votering i Arbeidsmiljøutvalget 10.04.2024
+  - Enstemmig vedtatt: ukjent

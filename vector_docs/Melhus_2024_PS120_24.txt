@@ -1,0 +1,11 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 120/24
+rodt_fremmet: False
+---
+
+Tittel: PS 120/24 Spørsmål til ordfører - Kommunestyret 12.11.2024 - Vegforvaltning - Geir Tore Midttømme - SP
+
+Vedtak:
+Spørsmål besvart i møte.

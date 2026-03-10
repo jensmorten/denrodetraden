@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 122/24
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om skoleruta for skolene i Verdal kommune
+
+Vedtak:
+Lokal forskrift om skoleruta for skolene i Verdal kommune vedtas, og kunngjøres i Norsk Lovtidend.
+
+Voteringer:
+- Votering over formannskapets innstilling
+  - For: enstemmig

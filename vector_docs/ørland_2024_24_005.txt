@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/005
+rodt_fremmet: False
+---
+
+Tittel: Interpellasjon - skyttelbuss i Ørland kommune og kostnader grunnet farlig skolevei
+
+Vedtak:
+Saken ble utsatt til neste møte i kommunestyret.
+
+Voteringer:
+- Vedtak om utsettelse av interpellasjon om skyttelbuss og kostnader grunnet farlig skolevei
+  - Utsettelse: ukjent

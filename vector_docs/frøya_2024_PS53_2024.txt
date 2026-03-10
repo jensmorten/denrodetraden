@@ -1,0 +1,15 @@
+METADATA:
+kommune: frøya
+year: 2024
+saksnummer: PS 53/2024
+rodt_fremmet: False
+---
+
+Tittel: PS 53/2024 Revidering av Reglement for kommunestyret, formannskapet og øvrige utvalg.
+
+Vedtak:
+Revidert reglement for kommunestyret, formannskap og øvrige utvalg godkjennes som vedlagt.
+
+Voteringer:
+- Vedtak om godkjenning av revidert reglement for kommunestyret, formannskap og øvrige utvalg.
+  - For: Enstemmig

@@ -1,0 +1,21 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: PS 24/084
+rodt_fremmet: False
+---
+
+Tittel: La Humla Suse
+
+Vedtak:
+Ørland kommune skal fortsatt ha et stort søkelys på å framsnakke biologisk mangfold blant annet gjennom å legge til rette for pollinerende insekters habitat (områder hvor insektene lever og finner mat, som blomsterenger, hager og skoger).
+Ørland kommune skal ved opprettelse og oppgradering av kommunale plener, parker og andre grønnstrukturer i størst mulig grad anlegge områder eller mindre felter med blomstereng.
+Ørland kommune støtter initiativet #NOMOVMAY ved å redusere klippingen av kommunale plener i mai og gjennomføre informasjonsarbeid som skaper bevissthet og endrer holdninger.
+
+Voteringer:
+- Votering over forslag: Punktvis avstemming - punkt 1 og 2
+  - For: 30 stemmer
+  - Mot: 0 stemmer
+- Votering over forslag: Punktvis avstemming - punkt 3
+  - For: 21 stemmer
+  - Mot: 9 stemmer

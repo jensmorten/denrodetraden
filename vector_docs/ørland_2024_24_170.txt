@@ -1,0 +1,23 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/170
+rodt_fremmet: False
+---
+
+Tittel: Budsjett 2025 Ørland kommune - presisering av budsjettvedtak
+
+Vedtak:
+Budsjettvedtakets punkt “Inndekning” endres til:
+Investeringsbudsjettet endres som følger:
+Prosjektet “Kjøp av omsorgsboliger” reduseres med 1,3 mill kroner
+Prosjektet “Nye kinomaskiner” Roret KF økes med 1,3 mill kroner
+Grunnet budsjettforliket i Stortinget foreslås følgende endring:
+Rammetilskuddet økes med 2,0 mill kroner
+SFO (grunnskolen) økes med 1,0 mill kroner
+Barnehager økes med 1,0 mill kroner
+
+Voteringer:
+- Votering over forslag
+  - For: 20 stemmer
+  - Mot: 11 stemmer

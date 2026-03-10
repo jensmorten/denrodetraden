@@ -1,0 +1,15 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/124
+rodt_fremmet: False
+---
+
+Tittel: Forslag til hurtigbåttakster i Trondheimsfjorden
+
+Vedtak:
+Saken ble utsatt.
+
+Voteringer:
+- Vedtak av saken KST - 24/124
+  - Utsatt: ukjent

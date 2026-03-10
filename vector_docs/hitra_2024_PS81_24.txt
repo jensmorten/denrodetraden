@@ -1,0 +1,18 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 81/24
+rodt_fremmet: False
+---
+
+Tittel: Søknader om serveringsbevilling for Thai Station AS
+
+Vedtak:
+1. I medhold av Lov om serveringsvirksomhet (serveringsloven) av 13. juni 1977 nr. 55, § 3 innvilger Hitra kommunestyre serveringsbevilling for virksomheten Thai Station AS Sandstadveien 118, 7246 Sandstad for serveringsstedet Thai Station på Sentrumsgata 4 i Fillan.
+2. Det forutsettes at serveringsstedet har daglig leder som har bestått etablererprøve og har uklanderlig vandel.
+3. Det forutsettes videre at serveringsstedet har universell utforming og er tilrettelagt for rullestolbrukere.
+4. Bevillingen har ingen tidsbegrensning. Bevillingen opphører ved overdragelse av serveringssted, konkurs, bevillingshavers død, innstilling eller manglende drift i mer enn 1 år. Det vises til Serveringslovens kapittel 5, §§ 22-25.
+
+Voteringer:
+- Behandling av innstilling fra utvalg helse og omsorg
+  - For innstillingen: enstemmig

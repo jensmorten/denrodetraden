@@ -1,0 +1,15 @@
+METADATA:
+kommune: levanger
+year: 2024
+saksnummer: PS 83/24
+rodt_fremmet: False
+---
+
+Tittel: Forskrift om lokale forbudssoner for bruk av fyrverkeri, Levanger kommune - andre gangs behandling
+
+Vedtak:
+Forskrift om lokale forbudssoner for bruk av fyrverkeri, Levanger kommune, vedtas.
+
+Voteringer:
+- Votering over innstilling om vedtak av forskrift om lokale forbudssoner for bruk av fyrverkeri
+  - For: 35 stemmer

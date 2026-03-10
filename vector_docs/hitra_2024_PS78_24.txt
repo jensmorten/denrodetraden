@@ -1,0 +1,17 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 78/24
+rodt_fremmet: False
+---
+
+Tittel: Økonomirapport 2. tertial 2024 - Hitra Storkjøkken KF
+
+Vedtak:
+Hitra kommunestyre godkjenner økonomirapport 2. tertial 2024 for Hitra Storkjøkken KF slik den er fremlagt.
+
+Voteringer:
+- Behandling av innstilling fra formannskapet
+  - For: enstemmig
+- Behandling av innstilling i formannskapet
+  - For: enstemmig

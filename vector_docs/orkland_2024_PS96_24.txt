@@ -1,0 +1,17 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 96/24
+rodt_fremmet: False
+---
+
+Tittel: Kjøp av eiendom Erik Aarviks gate 2
+
+Vedtak:
+Kommunestyret vedtar kjøp av eiendommen "Erik Aarviks gate 2" innenfor en ramme på 3 910 000 kroner. Kommunestyret vedtar også en ramme på 500 000 kroner for oppgradering av boligen. Kjøpet og oppgraderingen finansieres med bruk av flyktningfondet. Følgende budsjettjusteringer vedtas: Kr 3 910 000 D 02850 412100 2650 40068 Kr 500 000 D 02300 412100 2650 40068 Kr 4 410 000 K 09700 412100 8800 40068 Kr 4 410 000 D 15700 104010 8800 Kr 4 410 000 K 19402 104010 8800 256080304
+
+Voteringer:
+- Kommunedirektørens innstilling vedtatt i Formannskap 29.10.2024
+  - For: enstemmig
+- Kommunedirektørens innstilling vedtatt i Kommunestyre 19.11.2024
+  - For: enstemmig

@@ -1,0 +1,25 @@
+METADATA:
+kommune: hitra
+year: 2024
+saksnummer: PS 2/24
+rodt_fremmet: False
+---
+
+Tittel: PS 2/24 Anmodning om bosetting av flyktninger i Hitra kommune 2024
+
+Vedtak:
+Hitra kommunestyre ser det som viktig å bidra i bosettingsarbeidet av flyktninger og vedtar å bosette 35 flyktninger i 2024.
+Hitra kommunestyre ser det som vanskelig ut fra kapasitetsutfordringer på områder som bolig, helse, og oppvekst å bosette flere nå på en forsvarlig måte.
+Hitra kommunestyre godkjenner, med noen få unntak tidlig i året, ikke selvbosetting i 2024, men kun ordinær bosetting via mottak.
+
+Voteringer:
+- Innstillingen fra formannskapet ble vedtatt i kommunestyret
+  - For: 22 stemmer
+- Innstillingen ble vedtatt i formannskapet
+  - For: enstemmig
+- Kommunedirektørens innstilling ble vedtatt i Utvalg for Helse og Omsorg
+  - For: enstemmig
+- Innstillingen ble vedtatt i Utvalg for Oppvekst
+  - For: enstemmig
+- Kommunedirektørens innstilling ble vedtatt i Hitra Brukerråd
+  - For: enstemmig

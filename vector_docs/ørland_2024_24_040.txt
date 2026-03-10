@@ -1,0 +1,17 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/040
+rodt_fremmet: False
+---
+
+Tittel: Representasjon i Ørland Eldreråd - Pensjonistforbundet Ørland
+
+Vedtak:
+1. Pensjonistforbundet Ørland tiltrer med 1 medlem og 1 varamedlem i Ørland Eldreråd, etter at navnene er innmeldt til Ørland kommune. Kandidatene velges deretter i neste kommunestyremøte.
+2. Rådet har i dag fire kvinner og tre menn som medlemmer. Som varamedlemmer er valgt fire menn og tre kvinner. Det oppfordres derfor til å melde inn 1 mannlig kandidat som medlem og 1 kvinne som varamedlem.
+
+Voteringer:
+- Votering over forslag på vegne av H, SP, INP, V og FRP
+  - For: 31 stemmer
+  - Mot: 0 stemmer

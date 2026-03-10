@@ -1,0 +1,19 @@
+METADATA:
+kommune: namsos
+year: 2024
+saksnummer: PS 9/2024
+rodt_fremmet: False
+---
+
+Tittel: Anskaffelse av branntankbil
+
+Vedtak:
+1. Kommunestyret gir kommunaldirektøren fullmakt til å anskaffe branntankbil innenfor en ramme på 2 500 000 kroner inkludert mva. Kapitalkostnadene finansieres av årlig betaling fra Leka kommune som del av vertskommuneavtalen.
+2. Følgende budsjettendringer gjøres i investeringsbudsjettet for 2024:
+d/: 02100.6300.33901.xxxx 2 500.000,- kjøp av branntankbil
+k/: 09100.8900.87000.9999 2 000.000,- Bruk av lån
+k/: 07290.8900.84100.9999 500.000,- mva-kompensajon
+
+Voteringer:
+- Avstemning om formannskapets forslag til vedtak
+  - For: 34 stemmer

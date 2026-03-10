@@ -1,0 +1,15 @@
+METADATA:
+kommune: verdal
+year: 2024
+saksnummer: PS 83/24
+rodt_fremmet: False
+---
+
+Tittel: Status internkontroll 2023: Kommunedirektørens rapport til kommunestyret
+
+Vedtak:
+Status internkontroll 2023 tas til orientering.
+
+Voteringer:
+- Votering over formannskapet innstilling
+  - Formannskapet innstilling: enstemmig

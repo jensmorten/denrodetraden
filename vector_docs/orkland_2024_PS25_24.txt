@@ -1,0 +1,21 @@
+METADATA:
+kommune: orkland
+year: 2024
+saksnummer: PS 25/24
+rodt_fremmet: False
+---
+
+Tittel: Oppnevning av kandidater til interkommunal klagenemnd i ReMidt IKS
+
+Vedtak:
+Som medlem i Interkommunal klagenemd i ReMidt IKS ble Oddvar Kjøren valgt. Som varamedlem ble Bente Høston Bostad valgt.
+
+Alternative forslag:
+- Flertallsgruppa ved Eva Solstad: Medlem: Oddvar Kjøren AP
+- Opposisjon ved Kristian Martin Fremstad: Varamedlem: Bente Høston Bostad KRF
+
+Voteringer:
+- Valg av medlem til Interkommunal klagenemnd i ReMidt IKS
+  - Oddvar Kjøren: enstemmig
+- Valg av varamedlem til Interkommunal klagenemnd i ReMidt IKS
+  - Bente Høston Bostad: enstemmig

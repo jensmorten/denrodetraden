@@ -1,0 +1,11 @@
+METADATA:
+kommune: ørland
+year: 2024
+saksnummer: 24/036
+rodt_fremmet: False
+---
+
+Tittel: Spørretimen/Interpellasjoner
+
+Vedtak:
+Interpellasjon ble tatt til orientering og svart ut av ordfører. Spørsmål til spørretimen ble svart ut av ordfører og tatt til orientering.

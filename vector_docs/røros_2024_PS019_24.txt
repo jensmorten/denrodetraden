@@ -1,0 +1,15 @@
+METADATA:
+kommune: røros
+year: 2024
+saksnummer: PS 019/24
+rodt_fremmet: False
+---
+
+Tittel: Klage på områdeplan for Røros sentrum fra Øivind Lunde
+
+Vedtak:
+Røros kommune gir ikke medhold i klage fra Øivind Lunde på vedtak i Kommunestyret 25.05.23 om endring av områdeplan for Røros sentrum. Begrunnelsen kommer frem av saksutredningen. Vedtaket gis ikke utsettende virkning. Klagen oversendes klageinstansen for klagebehandling.
+
+Voteringer:
+- Behandling av Utvalg for plansaker sitt forslag
+  - For: enstemmig

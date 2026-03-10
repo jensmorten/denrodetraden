@@ -1,0 +1,16 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 138/24
+rodt_fremmet: False
+---
+
+Tittel: Spørsmål til Kommunestyret 10.12.2024 - Grunnundersøkelser Kvål ved Multiconsult - Kaare Qvenild - ML
+
+Vedtak:
+Spørsmål besvart i møte.
+
+Voteringer:
+- Vedtak om besvarelse av spørsmål i møte
+  - For: ukjent
+  - Mot: ukjent

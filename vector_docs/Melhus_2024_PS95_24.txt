@@ -1,0 +1,19 @@
+METADATA:
+kommune: melhus
+year: 2024
+saksnummer: PS 95/24
+rodt_fremmet: False
+---
+
+Tittel: Verbalvedtak – Opprettelse av et internasjonalt råd i Melhus
+
+Vedtak:
+Kommunestyret utsetter behandling av saken til HOK har fått svar fra rådmann på sine spørsmål, og til HOK har fått behandlet saken på nytt.
+
+Alternative forslag:
+- Anne J. Løvseth Byfuglien (KrF) på vegner av AP, SP, KrF og SV: Kommunestyret utsetter behandling av saken til HOK har fått svar fra rådmann på sine spørsmål, og til HOK har fått behandlet saken på nytt.
+
+Voteringer:
+- Votering om utsettelsesforslaget fra Anne J. Løvseth Byfuglien (KrF) på vegner av AP, SP, KrF og SV
+  - For utsettelse: 22 stemmer
+  - Mot utsettelse: 15 stemmer
