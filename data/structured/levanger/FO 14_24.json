@@ -1,0 +1,52 @@
+{
+  "tittel": "Interpellasjon fra Mats Henriksen (FRP) - Kreft og paliasjon",
+  "innstilling": null,
+  "vedtak": [
+    "Det legges frem en sak for politisk behandling om status for kreft – og paliasjonsarbeid i Levanger kommune, og hvordan det jobbes for å følge opp de kritiske områdene som er beskrevet i risikoanalysen koordinator har utarbeidet. Saken skal inneholde oversikt over hvilken kompetanse som fins innenfor kreft – og paliasjonsarbeid i Levanger kommune, og hvilken plan kommunen har for kompetanseutvikling.",
+    "Det skal også foretaes en risikoanalyse av de relevante parter i fellesskap"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Janne K. J. Larsen (FRP)",
+      "tekst": "Det legges frem en sak for politisk behandling om status for kreft – og paliasjonsarbeid i Levanger kommune, og hvordan det jobbes for å følge opp de kritiske områdene som er beskrevet i risikoanalysen koordinator har utarbeidet. Saken skal inneholde oversikt over hvilken kompetanse som fins innenfor kreft – og paliasjonsarbeid i Levanger kommune, og hvilken plan kommunen har for kompetanseutvikling."
+    },
+    {
+      "forslagsstiller": "Janne K. J. Larsen (FRP)",
+      "tekst": "Det skal også foretaes en risikoanalyse av de relevante parter i fellesskap"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over oversendelsesforslaget om status for kreft- og paliasjonsarbeid i Levanger kommune",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslaget om at det skal foretas en risikoanalyse av de relevante parter i fellesskap",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.12.2024",
+  "saksnummer_ps": "FO 14/24",
+  "rodt_fremmet_forslag": false
+}

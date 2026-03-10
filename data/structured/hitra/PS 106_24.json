@@ -1,0 +1,57 @@
+{
+  "tittel": "PS 106/24 Fritak fra offentlig verv i Hitra kommunes råd for personer med funksjonsnedsettelse 2023-2027",
+  "innstilling": [
+    "Hitra kommunestyre, etter kommuneloven § 7-9, innvilger Knut Øystein Hjertås fritak fra vervet som varamedlem av Hitras råd for personer med funksjonsnedsettelse.",
+    "Som ny vararepresentant nummer 3 av rådet velges __________. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode.",
+    "Som ny vararepresentant nummer 5 av rådet velges __________. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre, etter kommuneloven § 7-9, innvilger Knut Øystein Hjertås fritak fra vervet som varamedlem av Hitras råd for personer med funksjonsnedsettelse.",
+    "Som ny vararepresentant nummer 3 av rådet velges Einar Brendboe. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode.",
+    "Som ny vararepresentant nummer 5 av rådet velges Bente Karlsvik. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ingrid Kathrine Schanche (SP)",
+      "tekst": "Som ny vararepresentant nummer 3 av rådet velges Åse Mastad. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode."
+    },
+    {
+      "forslagsstiller": "Jann O. Krangnes (R)",
+      "tekst": "Som ny vararepresentant nummer 3 av rådet velges Einar Brendboe. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode."
+    },
+    {
+      "forslagsstiller": "John Lernes (AP)",
+      "tekst": "Som ny vararepresentant nummer 5 av rådet velges Bente Karlsvik. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av innstilling fra formannskapet med endringer i punkt 2 og 3",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Innstillingen med endringer ble enstemmig vedtatt",
+      "roedt_stoettet": "Einar Brendboe som vararepresentant nr. 3",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av innstillingens punkt 1 og forslag til nytt punkt 2 fremmet av Schanche i formannskapet 26.11.2024",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Innstillingens punkt 1 og forslag til nytt punkt 2 ble enstemmig vedtatt",
+      "roedt_stoettet": "Åse Mastad som vararepresentant nr. 3",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 106/24",
+  "rodt_fremmet_forslag": true
+}

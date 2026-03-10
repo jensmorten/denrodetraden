@@ -1,0 +1,61 @@
+{
+  "tittel": "Lokale forskrifter etter ny opplæringslov",
+  "innstilling": "Driftsutvalgets innstilling enstemmig vedtatt.",
+  "vedtak": "Forslag til nye forskrifter etter opplæringsloven vedtas med følgende endringer:\n1. Forskrift om hovedmål i skolene i Levanger kommune: Ingen endringer - vedtas som den foreligger\n2. Forskrift om permisjon fra skolene i Levanger: Endringer:\n  §5: Tre første kulepunkter fjernes.\n  §6: Følgende setning fjernes: Det som er forsvarlig for én elev, kan være uforsvarlig for en annen.\n  §7: Setningen «Søknaden må framsettes senest 2 uker før starten av permisjonen det søkes fri til.» erstattes med setningen «Søknaden bør framsettes senest 2 uker før starten av permisjonen det søkes fri til.»\n3. Forskrift om skolerute for skolene i Levanger kommune: Ingen endringer - vedtas som den foreligger.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ina Helen Pedersen (AP)",
+      "tekst": "Nytt punkt 3. Forskrift om skolerute vedtas:\nFastsatt av kommunestyret i Levanger kommune, den 19.06.2024, med hjemmel i lov 9. juni 2023 nr. 30 om grunnskolen og den videregående opplæring (opplæringsloven) herunder opplæringsloven § 14-1 andre ledd: «Kommunen og fylkeskommunen gir forskrift om skole- og feriedagar for elevane (skolerute). Skole- og feriedagane skal planleggjast slik at eksamen og nasjonale prøver kan gjennomførast»\n§1: Formål og virkeområdet\nForskriften gir informasjon om hvilke skole- og feriedager elevene har i skoleåret 20xx–20xx. Elevene har rett og plikt til å møte på skolen på de fastsatte skoledagene.\nForskriften gjelder for alle elever ved alle grunnskolene og voksenopplæringen i Levanger kommune skoleåret 20xx-20xx.\n§2: Skole- og feriedager kommende skoleår\n-Her settes inn tabell med skoleruta for skoleåret 20xx-20xx-\n§3: Lokale variasjoner\nSkolene kan gjøre unntak fra § 2 om skole- og feriedager i særlige tilfeller, for eksempel grunnet skoleturer. Unntak drøftes med enhetsleder grunnskole.\n§ 4.Iverksetting og opphør\nDenne forskriften trer i kraft 1. august 202x og opphører 31. juli 202x."
+    },
+    {
+      "forslagsstiller": "Lars Einar Karlsen (R)",
+      "tekst": "Kommunedirektøren får i oppdrag i arbeidet med å få på plass en skolerute i Levanger, å sørge for en samkjøring av planleggingsdagene mellom skole, barnehage og sfo, slik at småbarnsfamiliene slipper å ta mere fri fra jobb og studier enn nødvendig."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om oversendelsesforslag fra Ina Helen Pedersen (AP)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Avstemning om tilleggsforslag fra Lars Einar Karlsen (R)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 5
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Avstemning om Driftsutvalgets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "19.06.2024",
+  "saksnummer_ps": "PS 30/24",
+  "rodt_fremmet_forslag": true
+}

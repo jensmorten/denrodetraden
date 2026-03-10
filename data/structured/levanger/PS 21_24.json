@@ -1,0 +1,69 @@
+{
+  "tittel": "Detaljregulering Kjønstadmarka 4- sluttbehandling",
+  "innstilling": "Plan- og utviklingsutvalgets innstilling avvist med 25 mot 14 stemmer (AP, SV, MDG, R, PP, KRF, Lund, Bøhn-Flatås (SP))",
+  "vedtak": "Saken sendes tilbake. Kommunedirektøren kommer tilbake høsten 2024 med et forslag på hvordan mer av skogen kan bevares samtidig som en sikrer en utbygging som i størst mulig grad dekker inn kostnadene for infrastruktur.\nBarn og unges representant uttaler seg om det nye forslaget for Kjønstadmarka 4.\nDet gjennomføres en juridisk vurdering av om det i saken foreligger et krav om konsekvensutredning, og hvis så er tilfelle skal dette gjennomføres.\nKommunestyret ber om at det planlagte tomtefeltet i Halsan prioriteres raskt. Det legges fram en konkret sak om dette i løpet av høsten 2024.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anita Ravlo Sand, SP på vegne av SP og AP",
+      "tekst": "Saken sendes tilbake. Kommunedirektøren kommer tilbake høsten 2024 med et forslag på hvordan mer av skogen kan bevares samtidig som en sikrer en utbygging som i størst mulig grad dekker inn kostnadene for infrastruktur.\nBarn og unges representant uttaler seg om det nye forslaget for Kjønstadmarka 4.\nDet gjennomføres en juridisk vurdering av om det i saken foreligger et krav om konsekvensutredning, og hvis så er tilfelle skal dette gjennomføres.\nKommunestyret ber om at det planlagte tomtefeltet i Halsan prioriteres raskt. Det legges fram en konkret sak om dette i løpet av høsten 2024."
+    },
+    {
+      "forslagsstiller": "Gunnar Løvås, SV",
+      "tekst": "Detaljregulering for Kjønstadmarka trinn 4 vedtas ikke, i henhold til plan- og bygningslovens §12-3.\nBegrunnelse: Klima og miljø, naturmangfold, barn og unges interesser, folkehelse, økonomisk usikkerhet, infrastruktur, kontraktsbrudd mv. Utbyggingen er i strid med naturmangfoldloven og folkehelseloven og kan derfor ikke gjennomføres."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over Plan- og utviklingsutvalgets innstilling",
+      "alternativer": [
+        {
+          "navn": "For innstilling",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot innstilling",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "Mot innstilling",
+      "roedt_stoette": "Mot innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over Gunnar Løvås, SV sitt forslag om å ikke vedta detaljregulering for Kjønstadmarka trinn 4",
+      "alternativer": [
+        {
+          "navn": "For Løvås, SV sitt forslag",
+          "stemmer": 6
+        },
+        {
+          "navn": "Mot Løvås, SV sitt forslag",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Mot Løvås, SV sitt forslag",
+      "roedt_stoette": "For Løvås, SV sitt forslag",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Avstemning over Anita Ravlo Sand, SP sitt forslag om å sende saken tilbake",
+      "alternativer": [
+        {
+          "navn": "For Sand, SP sitt forslag",
+          "stemmer": 29
+        },
+        {
+          "navn": "Mot Sand, SP sitt forslag",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "For Sand, SP sitt forslag",
+      "roedt_stoette": "Mot Sand, SP sitt forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "22.05.2024",
+  "saksnummer_ps": "PS 21/24",
+  "rodt_fremmet_forslag": false
+}

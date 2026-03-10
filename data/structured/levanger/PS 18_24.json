@@ -1,0 +1,24 @@
+{
+  "tittel": "Fritak fra politiske verv - Frida Myklebust Amdahl",
+  "innstilling": null,
+  "vedtak": "Frida Myklebust Amdahl fritas fra folkevalgte verv i Levanger kommune. Jostein Trøite rykker opp som fast medlem for Sosialistisk Venstreparti i kommunestyret.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om fritak fra politiske verv for Frida Myklebust Amdahl",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "22.05.2024",
+  "saksnummer_ps": "PS 18/24",
+  "rodt_fremmet_forslag": false
+}

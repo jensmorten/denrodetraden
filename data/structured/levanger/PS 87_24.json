@@ -1,0 +1,45 @@
+{
+  "tittel": "Investeringsreglement Levanger kommune",
+  "innstilling": "Investeringsreglement for Levanger kommune vedtas, og gjøres gjeldende fra 01.01.2025.",
+  "vedtak": "Investeringsreglement for Levanger kommune vedtas, og gjøres gjeldende fra 01.01.2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Lars Erik Ertsås (Høyre)",
+      "tekst": "Avsnitt nede på side 4 i investeringsreglement: \"Som hovedregel settes det en begrensning på at investeringer maksimalt kan lånefinansieres med 80 %. De resterende midlene må tas fra disposisjonsfond/egne midler eller finansieres gjennom statstilskudd eller annen ekstern finansiering.\" Endres til: \"Som hovedregel bør investeringer maksimalt lånefinansieres med 80 % av kostnaden, men om den samfunnsøkonomiske nytten vurderes som høy, kan større andel lån være riktig.\""
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fra Lars Erik Ertsås (Høyre) om endring i avsnitt på side 4 i investeringsreglementet.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 11
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoettet": "Imot",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstilling om vedtak av investeringsreglement for Levanger kommune.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.12.2024",
+  "saksnummer_ps": "PS 87/24",
+  "rodt_fremmet_forslag": false
+}

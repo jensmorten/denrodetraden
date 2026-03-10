@@ -1,0 +1,45 @@
+{
+  "tittel": "Retningslinjer for startlån og tilskudd til bolig Levanger kommune",
+  "innstilling": "«Retningslinjer for startlån og tilskudd til bolig Levanger kommune» vedtas.",
+  "vedtak": "«Retningslinjer for startlån og tilskudd til bolig Levanger kommune» vedtas med følgende endring - punkt 5 lånevilkår under 4.avsnitt tilskudd til bolig. Tilskuddet nedskrives med minimum 10% hvert år, uavhengig av type tilskudd.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mona Kristin Rømuld (Høyre)",
+      "tekst": "Endringsforslag punkt 5 lånevilkår under 4.avsnitt tilskudd til bolig. Tilskuddet nedskrives med minimum 10% hvert år, uavhengig av type tilskudd."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag punkt 5 lånevilkår under 4.avsnitt tilskudd til bolig.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 32
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstilling «Retningslinjer for startlån og tilskudd til bolig Levanger kommune».",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.12.2024",
+  "saksnummer_ps": "PS 74/24",
+  "rodt_fremmet_forslag": false
+}

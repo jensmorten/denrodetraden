@@ -1,0 +1,69 @@
+{
+  "tittel": "Forskrift om folkevalgtes godtgjøring i Levanger kommune - revidering",
+  "innstilling": "Forslag til forskrift om folkevalgtes godtgjøring i Levanger kommune vedtas med virkning fra 1. mai 2024 med følgende endring:\nAndreas J. Hjelmstad (H) fremmet følgende endringsforslag:\nFormannskapet 7% av 80% av ordførerlønn 62 000,00\nUtvalgsledere 7% av 80% av ordførerlønn 62 000,00\nGruppeledere 1,2% av 80% av ordførerlønn 10 629,00\n* Reguleres årlig sammen med ordfører og varaordførerlønnen\nI løpet av juni siste år før ny valgperiode, foretas revidering av reglene for godtgjøring som blir gjort gjeldende fra og med kommunestyrets konstituerende møte.",
+  "vedtak": "Forslag til forskrift om folkevalgtes godtgjøring i Levanger kommune vedtas med virkning fra 1. mai 2024 med følgende endring:\nAndreas J. Hjelmstad (H) fremmet følgende endringsforslag:\nFormannskapet 7% av 80% av ordførerlønn 62 000,00\nUtvalgsledere 7% av 80% av ordførerlønn 62 000,00\nGruppeledere 1,2% av 80% av ordførerlønn 10 629,00\n* Reguleres årlig sammen med ordfører og varaordførerlønnen\nI løpet av juni siste år før ny valgperiode, foretas revidering av reglene for godtgjøring som blir gjort gjeldende fra og med kommunestyrets konstituerende møte.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Tone Wanderås (AP)",
+      "tekst": "1. Møtegodtgjørelser og fastgodtgjørelser økes ikke\n2. Godtgjøring til nestledere kuttes helt"
+    },
+    {
+      "forslagsstiller": "Andreas J. Hjelmstad (H)",
+      "tekst": "Formannskapet 7% av 80% av ordførerlønn 62 000,00\nUtvalgsledere 7% av 80% av ordførerlønn 62 000,00\nGruppeledere 1,2% av 80% av ordførerlønn 10 629,00\n* Reguleres årlig sammen med ordfører og varaordførerlønnen"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om Wanderås sitt endringsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Avstemning om Hjelmstad sitt endringsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning om innstillingen med vedtatt endring",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "10.04.2024",
+  "saksnummer_ps": "PS 10/24",
+  "rodt_fremmet_forslag": false
+}

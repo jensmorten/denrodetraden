@@ -1,0 +1,37 @@
+{
+  "tittel": "PS 94/24 Anmodning om tilleggsfinansiering investeringer kirkebygg",
+  "innstilling": null,
+  "vedtak": "Saken utsettes inntil man får svar fra kontrollutvalg ang. De spørsmål som tidligere er forespurt. Det foreslås videre at kommunestyret gir formannskapet myndighet til å fatte vedtak når innstilling fra kontrollutvalg foreligger. Kontrollutvalget bes å fremskynde møte for å behandle saken.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marcus Helgesson Svenning (SV)",
+      "tekst": "Punkt 2 strykes sin helhet, og erstattes med: Det forventes at Hitra kirkelig fellesråd skaper seg en oversikt over nødvendig vedlikehold innen sin jurisdiksjon. Dette må inkludere anbud, og budsjett. Når denne oversikten er fullført, kan Hitra kirkelige fellesråd be om en ny tilleggsbevilgning til vedlikehold."
+    },
+    {
+      "forslagsstiller": "Tor Johan Sagøy (AP) på vegne av AP, R, SP og SV",
+      "tekst": "Saken utsettes inntil man får svar fra kontrollutvalg ang. De spørsmål som tidligere er forespurt. Det foreslås videre at kommunestyret gir formannskapet myndighet til å fatte vedtak når innstilling fra kontrollutvalg foreligger. Kontrollutvalget bes å fremskynde møte for å behandle saken."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på utsettelsesforslaget fremmet av Tor Johan Sagøy (AP) på vegne av AP, R, SP og SV",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 23
+        },
+        {
+          "navn": "Imot utsettelsesforslaget",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For utsettelsesforslaget",
+      "roedt_stoettet": "For utsettelsesforslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 94/24",
+  "rodt_fremmet_forslag": false
+}

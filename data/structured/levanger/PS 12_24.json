@@ -1,0 +1,24 @@
+{
+  "tittel": "Levanger Arena KF - valg av nestleder",
+  "innstilling": "Som nestleder til styret i Levanger Arena KF velges: Trude Hynne",
+  "vedtak": "Som nestleder til styret i Levanger Arena KF velges: Trude Hynne",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av nestleder til styret i Levanger Arena KF",
+      "alternativer": [
+        {
+          "navn": "Trude Hynne",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Trude Hynne",
+      "roedt_stoettet": "Trude Hynne",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "10.04.2024",
+  "saksnummer_ps": "PS 12/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,48 @@
+{
+  "tittel": "By- og arkitekturstrategi - sluttbehandling",
+  "innstilling": "By- og arkitekturstrategien, revidert versjon etter høring, vedtas.",
+  "vedtak": [
+    "By- og arkitekturstrategien, revidert versjon etter høring, vedtas.",
+    "Det bes om at By- og arkitekturstrategi evauleres etter et år."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Bent Ingar Fuglu (Senterpartiet)",
+      "tekst": "Det bes om at By- og arkitekturstrategi evauleres etter et år."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen: By- og arkitekturstrategien, revidert versjon etter høring, vedtas.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslaget: Det bes om at By- og arkitekturstrategi evauleres etter et år.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Imot",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.12.2024",
+  "saksnummer_ps": "PS 77/24",
+  "rodt_fremmet_forslag": false
+}

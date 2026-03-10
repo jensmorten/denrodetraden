@@ -1,0 +1,24 @@
+{
+  "tittel": "Sak 2/2024",
+  "innstilling": "Saken sendes Statsforvalteren for behandling med innstilling om at saken avvises som følge av oversittet frist for å fremme krav om lovlighetskontroll, jfr. kommuneloven § 27-1 første ledd, andre punktum.",
+  "vedtak": "Kommunestyrets vedtak i sak 79/2023 opprettholdes",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om opprettholdelse av vedtak i sak 79/2023 og sending av saken til Statsforvalteren med innstilling om avvisning",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "14.02.2024",
+  "saksnummer_ps": "PS 2/24",
+  "rodt_fremmet_forslag": false
+}

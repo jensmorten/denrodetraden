@@ -1,0 +1,24 @@
+{
+  "tittel": "Reglement for kontrollutvalget - Levanger",
+  "innstilling": "Kontrollutvalgets forslag til vedtak",
+  "vedtak": "Kommunestyret vedtar reglement for kontrollutvalget i Levanger kommune.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om kontrollutvalgets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "22.05.2024",
+  "saksnummer_ps": "PS 20/24",
+  "rodt_fremmet_forslag": false
+}

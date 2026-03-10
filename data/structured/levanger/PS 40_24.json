@@ -1,0 +1,45 @@
+{
+  "tittel": "Mule Næringspark - Detaljregulering - sluttbehandling",
+  "innstilling": "Detaljregulering for Mule næringspark, versjon revidert etter høring, vedtas i henhold til plan- og bygningslovens §12-12.",
+  "vedtak": "Detaljregulering for Mule næringspark, versjon revidert etter høring, vedtas i henhold til plan- og bygningslovens §12-12.\nVed ferdigstilling av lekeområde bør en del av apparatene være universelt utformet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Asgeir Persøy (PP)",
+      "tekst": "Ved ferdigstilling av lekeområde bør en del av apparatene være universelt utformet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning om Persøys tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 34
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For tilleggsforslaget",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "19.06.2024",
+  "saksnummer_ps": "PS 40/24",
+  "rodt_fremmet_forslag": false
+}

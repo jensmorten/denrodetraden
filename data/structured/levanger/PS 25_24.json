@@ -1,0 +1,27 @@
+{
+  "tittel": "Regnskap og årsberetning 2023 - Levanger kommune",
+  "innstilling": null,
+  "vedtak": [
+    "Levanger kommunes årsberetning for 2023 vedtas.",
+    "Levanger kommunes årsregnskap for 2023 vedtas."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om vedtak av årsberetning og årsregnskap 2023",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "22.05.2024",
+  "saksnummer_ps": "PS 25/24",
+  "rodt_fremmet_forslag": false
+}

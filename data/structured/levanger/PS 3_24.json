@@ -1,0 +1,33 @@
+{
+  "tittel": "Sak 3/2024 - Bosetting av flyktninger i 2024",
+  "innstilling": "Levanger kommune imøtekommer ikke anmodningen fra IMDi om å bosette totalt 236 flyktninger, inkludert 12 enslige mindreårige, i 2024. Levanger kommune kan bosette totalt 158 flyktninger, inkludert 8 enslige mindreårige, i 2024.",
+  "vedtak": "1. Levanger kommune imøtekommer ikke anmodningen fra IMDi om å bosette totalt 236 flyktninger, inkludert 12 enslige mindreårige, i 2024.\n2. Levanger kommune kan bosette totalt 158 flyktninger, inkludert 8 enslige mindreårige, i 2024.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Gunnar Løvås (SV)",
+      "tekst": "Levanger kommune imøtekommer anmodningen fra IMDI om å bosette totalt 236 flyktninger, inkludert 12 enslige mindreårige, i 2024."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling og Løvås sitt forslag",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 23
+        },
+        {
+          "navn": "Løvås sitt forslag",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Løvås sitt forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "14.02.2024",
+  "saksnummer_ps": "PS 3/24",
+  "rodt_fremmet_forslag": false
+}

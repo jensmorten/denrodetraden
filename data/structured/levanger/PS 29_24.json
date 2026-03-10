@@ -1,0 +1,63 @@
+{
+  "tittel": "Revisjonsrapport - forvaltningsrevisjon internkontroll",
+  "innstilling": "Kontrollutvalgets forslag",
+  "vedtak": [
+    "Kommunedirektøren setter av nok tid i ledergruppa til å tydeliggjøre, bygge og implementere rammene for internkontrollsystemet.",
+    "Kommunedirektøren fortsetter implementeringen av internkontrollsystemet. I dette ligger det at; - Rutineverket (kvalitetssystemet) må bygges ut, og benyttes av hele organisasjonen. - Risikovurderinger av hovedprosessene skal utarbeides, og settes i system.",
+    "Kommunalsjefenes myndighet tydeliggjøres, fortrinnsvis gjennom tydelig delegering fra kommunedirektøren.",
+    "Kommunedirektøren gir tilbakemelding til kontrollutvalget innen 1. november 2024.",
+    "Rapporten fra kommunerevisjonen oversendes til arbeidsgruppa som ser på økonomi- og delegasjonsreglementet til Levanger kommune, og anbefalingene fra kommunerevisjonen tas med i arbeidet med forslaget til nytt delegasjonsreglement som skal utarbeides og behandles i kommunestyret høsten 2024"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Lars Einar Karlsen (R)",
+      "tekst": "Rapporten fra kommunerevisjonen oversendes til arbeidsgruppa som ser på økonomi- og delegasjonsreglementet til Levanger kommune, og anbefalingene fra kommunerevisjonen tas med i arbeidet med forslaget til nytt delegasjonsreglement som skal utarbeides og behandles i kommunestyret høsten 2024"
+    },
+    {
+      "forslagsstiller": "Andreas J. Hjelmstad (H)",
+      "tekst": "Kommunedirektøren setter av nok tid i ledergruppa…"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over Kontrollutvalgets forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Kontrollutvalgets forslag",
+      "roedt_stoettet": "Kontrollutvalgets forslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over Karlsen sitt tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Karlsen sitt tilleggsforslag",
+      "roedt_stoettet": "Karlsen sitt tilleggsforslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over Hjelmstad sitt endringsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "Hjelmstad sitt endringsforslag",
+      "roedt_stoettet": "Hjelmstad sitt endringsforslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "19.06.2024",
+  "saksnummer_ps": "PS 29/24",
+  "rodt_fremmet_forslag": true
+}

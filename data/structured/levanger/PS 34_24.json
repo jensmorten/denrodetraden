@@ -1,0 +1,45 @@
+{
+  "tittel": "Status Helseplattformen pr. mai 2024",
+  "innstilling": "Saken tas til orientering",
+  "vedtak": "Saken tas til orientering",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Gunnar Løvås (SV)",
+      "tekst": "På bakgrunn av brukerundersøkelsen som er framlagt ber kommunestyret kommunedirektøren snarest utrede en exit-mulighet der man i tillegg til økonomisk, praktisk og juridisk aspekt, har hovedvekt på faglig vurderinger og konsekvenser for de helhetlige helsetjenester for våre innbyggere. Det allerede initierte samarbeidet med Stjørdal kommune fortsetter. Kommunestyret ber om å få en slik sak før kommunestyrets budsjettbehandling 2024."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstillingen",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning om Løvås sitt tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslaget",
+          "stemmer": 9
+        },
+        {
+          "navn": "Mot tilleggsforslaget",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "Mot tilleggsforslaget",
+      "roedt_stoettet": "For tilleggsforslaget",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "19.06.2024",
+  "saksnummer_ps": "PS 34/24",
+  "rodt_fremmet_forslag": false
+}

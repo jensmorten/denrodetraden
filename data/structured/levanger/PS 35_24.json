@@ -1,0 +1,27 @@
+{
+  "tittel": "NAV- Hjelpemiddelsentral - finansiering av byggeprosjekt",
+  "innstilling": null,
+  "vedtak": [
+    "Levanger kommune bevilger 80 mill kroner til bygging av NAV-Hjelpemiddelsentral, Levanger.",
+    "Investeringen finansieres med låneopptak som fordeles utover økonomiplanperioden."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om bevilgning og finansiering av byggeprosjekt NAV-Hjelpemiddelsentral",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "19.06.2024",
+  "saksnummer_ps": "PS 35/24",
+  "rodt_fremmet_forslag": false
+}

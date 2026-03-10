@@ -1,0 +1,61 @@
+{
+  "tittel": "PS 63/24 Parkeringspolicy for Levanger sentrum og parkeringsavgift fra 1.1.2025 - andre gangs behandling",
+  "innstilling": {
+    "1": "Parkeringspolicy for Levanger sentrum, med de prinsipper som ble sendt på høring vedtas.",
+    "2": "Parkeringsavgift fra 1.7.2025 vedtas og innarbeides i gebyrregulativet, som angitt her: Indre sone: Gateparkering: 5 kr første time, 20 kr andre time, deretter 50 kr/t. Øvrige avgiftsplasser i indre sone 20kr/t. Dags/måneds/årskort Nedre Torg 60/600/6000. Ytre sone: 15 kr/t - makspris 50kr/dagen. Dags/måneds/årskort 50/500/5000. Det etableres en ordning for beboere og næringsliv (ansatte) som av ulike årsaker er henvist til offentlig parkering og har gitte behov for nærhet til parkering, der det gis mulighet for å kjøpe langtidsparkering innenfor en avgrenset sone. Kommunedirektøren bes vurdere hvor slik parkering kan etableres og hvordan det kan innføres mest mulig hensiktsmessig.",
+    "3": "Ny parkeringsordning evalueres sommeren 2026."
+  },
+  "vedtak": {
+    "1": "Parkeringspolicy for Levanger sentrum, med de prinsipper som ble sendt på høring vedtas.",
+    "2": "Parkeringsavgift fra 1.7.2025 vedtas og innarbeides i gebyrregulativet, som angitt her: Indre sone: Gateparkering: gratis første time, 30 kr andre time, deretter 50 kr/t. Øvrige avgiftsplasser i indre sone 25 kr/t. Måneds/årskort Nedre Torg 650/6500. Nedre Torg forbeholdes måneds/årskort, ikke timeparkering. Avgiftsbetaling kl 8-17, mandag-fredag. Ytre sone: 15 kr/t - makspris 50kr/dagen. Måneds/årskort i ytre sone 450/4500. Det etableres en ordning for beboere og næringsliv (ansatte) som av ulike årsaker er henvist til offentlig parkering og har gitte behov for nærhet til parkering, der det gis mulighet for å kjøpe langtidsparkering innenfor en avgrenset sone. Kommunedirektøren bes vurdere hvor slik parkering kan etableres og hvordan det kan innføres mest mulig hensiktsmessig. Boligsoneparkeringen og parkering på Nedre Torg knyttes til samme sone. I Ytre sone inngår også kommunale parkeringsplasser for privatbiler på Moan. Avgiftsbetaling kl 8-15, mandag-fredag.",
+    "3": "Ny parkeringsordning evalueres sommeren 2026."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mats Henriksen (Fremskrittspartiet)",
+      "tekst": "1. Parkeringspolicy for Levanger sentrum, med de prinsipper som ble sendt på høring vedtas. 2. Parkeringsavgift fra 1.7.2025 vedtas og innarbeides i gebyrregulativet, som angitt her: Indre sone: Gateparkering: gratis første time, 30 kr andre time, deretter 50 kr/t. Øvrige avgiftsplasser i indre sone 25 kr/t. Måneds/årskort Nedre Torg 650/6500. Nedre Torg forbeholdes måneds/årskort, ikke timeparkering. Avgiftsbetaling kl 8-17, mandag-fredag. Ytre sone: 15 kr/t - makspris 50kr/dagen. Måneds/årskort i ytre sone 450/4500. Det etableres en ordning for beboere og næringsliv (ansatte) som av ulike årsaker er henvist til offentlig parkering og har gitte behov for nærhet til parkering, der det gis mulighet for å kjøpe langtidsparkering innenfor en avgrenset sone. Kommunedirektøren bes vurdere hvor slik parkering kan etableres og hvordan det kan innføres mest mulig hensiktsmessig. Boligsoneparkeringen og parkering på Nedre Torg knyttes til samme sone. I Ytre sone inngår også kommunale parkeringsplasser for privatbiler på Moan. Avgiftsbetaling kl 8-15, mandag-fredag. 3. Ny parkeringsordning evalueres sommeren 2026."
+    },
+    {
+      "forslagsstiller": "Tone Wanderås (Arbeiderpartiet)",
+      "tekst": "Kommunedirektørens innstilling til Formannskapet fremmes som alternativt forslag."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over formannskapets innstilling 30.10.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 6
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 29
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoette": "Imot",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "A/B votering mellom Mats Henriksen (FrP) sitt forslag og Tone Wanderås (AP) sitt forslag",
+      "alternativer": [
+        {
+          "navn": "Forslag 1 (Mats Henriksen, FrP)",
+          "stemmer": 21
+        },
+        {
+          "navn": "Forslag 2 (Tone Wanderås, AP)",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Forslag 1 (Mats Henriksen, FrP)",
+      "roedt_stoette": "Forslag 2 (Tone Wanderås, AP)",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "04.12.2024",
+  "saksnummer_ps": "PS 63/24",
+  "rodt_fremmet_forslag": false
+}

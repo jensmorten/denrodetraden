@@ -1,0 +1,30 @@
+{
+  "tittel": "Tertialrapport 2. tertial 2024 - Levanger kommune",
+  "innstilling": [
+    "Tertialrapport for 2. tertial 2024 tas til orientering.",
+    "Budsjettjusteringer for 2024, som det fremgår av rapportens kapittel «Status drift», vedtas."
+  ],
+  "vedtak": [
+    "Tertialrapport for 2. tertial 2024 tas til orientering.",
+    "Budsjettjusteringer for 2024, som det fremgår av rapportens kapittel «Status drift», vedtas."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling om tertialrapport og budsjettjusteringer for 2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "23.10.2024",
+  "saksnummer_ps": "PS 59/24",
+  "rodt_fremmet_forslag": false
+}

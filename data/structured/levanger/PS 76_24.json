@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av styremedlemmer-Levanger Arena KF",
+  "innstilling": "Ordføreren som valgkomite fremmer følgende forslag til styremedlemmer og varamedlemmer til Levanger Arena KF fra 2025:\nLars Heirsaunet, medlem\nMargrete Solli, medlem\nSigrid Nordvoll, 2. vara",
+  "vedtak": "Styremedlemmer og varamedlemmer til Levanger Arena KF fra 2025:\nLars Heirsaunet, medlem\nMargrete Solli, medlem\nSigrid Nordvoll, 2. vara",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslaget til styremedlemmer og varamedlemmer til Levanger Arena KF fra 2025",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.12.2024",
+  "saksnummer_ps": "PS 76/24",
+  "rodt_fremmet_forslag": false
+}

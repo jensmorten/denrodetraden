@@ -1,0 +1,30 @@
+{
+  "tittel": "PS 69/24 Levanger kommuneskoger KF budsjett 2025",
+  "innstilling": [
+    "Driftsbudsjettet 2025 for Levanger kommuneskoger KF vedtas",
+    "Investeringsbudsjettet 2025 for Levanger kommuneskoger KF vedtas"
+  ],
+  "vedtak": [
+    "Driftsbudsjettet 2025 for Levanger kommuneskoger KF vedtas",
+    "Investeringsbudsjettet 2025 for Levanger kommuneskoger KF vedtas"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over styret i Levanger kommuneskoger KFs forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "04.12.2024",
+  "saksnummer_ps": "PS 69/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,44 @@
+{
+  "tittel": "PS 95/24 Eierskapsmelding 2024-2028",
+  "innstilling": [
+    "Hitra kommunestyre godkjenner Eierskapsmelding 2024-2028 slik den er fremlagt.",
+    "Eierskapsmeldingen for 2024-2028 er bestemmende for kommunens prinsipper for eierstyring i inneværende valgperiode.",
+    "Oversikten over selskapene i Eierskapsmeldingens kapittel 10 oppdateres årlig, og behandles hver høst i Hitra formannskap."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre godkjenner Eierskapsmelding 2024-2028 slik den er fremlagt.",
+    "Eierskapsmeldingen for 2024-2028 er bestemmende for kommunens prinsipper for eierstyring i inneværende valgperiode.",
+    "Oversikten over selskapene i Eierskapsmeldingens kapittel 10 oppdateres årlig, og behandles hver høst i Hitra formannskap."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet i kommunestyret",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over innstillingen i formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 95/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 67/24 Budsjett 2025, NOK Trøndelag",
+  "innstilling": "Budsjett 2025 for NOK Trøndelag vedtas.",
+  "vedtak": "Budsjett 2025 for NOK Trøndelag vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om forslag til vedtak: Budsjett 2025 for NOK Trøndelag vedtas.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "04.12.2024",
+  "saksnummer_ps": "PS 67/24",
+  "rodt_fremmet_forslag": false
+}

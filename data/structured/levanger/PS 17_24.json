@@ -1,0 +1,24 @@
+{
+  "tittel": "Søknad om permisjon fra politiske verv - Magne Nydal",
+  "innstilling": null,
+  "vedtak": "Magne Nydal innvilges permisjon fra sine politiske verv i kommunestyret og formannskapet fram til 1. januar 2025. Som settemedlem i permisjonsperioden velges: Andreas Hjelmstad",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om permisjon for Magne Nydal",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "22.05.2024",
+  "saksnummer_ps": "PS 17/24",
+  "rodt_fremmet_forslag": false
+}

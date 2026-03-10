@@ -1,0 +1,42 @@
+{
+  "tittel": "PS 100/24 Fastsetting av forskrift om saksbehandlingsgebyr etter havne- og farvannsloven",
+  "innstilling": [
+    "Hitra kommunestyre vedtar forskrift om saksbehandlingsgebyr etter havne- og farvannsloven for kommunene Namsos, Steinkjer, Inderøy, Indre Fosen, Verdal, Levanger, Frosta, Stjørdal, Malvik, Trondheim, Skaun, Orkland, Hitra og Frøya.",
+    "Hitra kommunestyre vedtar vedlagt gebyrregulativ for 2025 for saksbehandlingsgebyr etter havne- og farvannsloven."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre vedtar forskrift om saksbehandlingsgebyr etter havne- og farvannsloven for kommunene Namsos, Steinkjer, Inderøy, Indre Fosen, Verdal, Levanger, Frosta, Stjørdal, Malvik, Trondheim, Skaun, Orkland, Hitra og Frøya.",
+    "Hitra kommunestyre vedtar vedlagt gebyrregulativ for 2025 for saksbehandlingsgebyr etter havne- og farvannsloven."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Sigrid Helene Hanssen (H)",
+      "alternativer": [
+        {
+          "navn": "Hanssen habil",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Hanssen habil",
+      "rodt_stottet": "Hanssen habil",
+      "rodt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Vedtak av innstilling fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "Innstilling vedtatt",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Innstilling vedtatt",
+      "rodt_stottet": "Innstilling vedtatt",
+      "rodt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 100/24",
+  "rodt_fremmet_forslag": false
+}

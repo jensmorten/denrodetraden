@@ -1,0 +1,49 @@
+{
+  "tittel": "PS 64/24 Økonomireglement Levanger kommune",
+  "innstilling": "Økonomireglement for Levanger kommune vedtas med følgende endring:\n- Punkt 9 om investeringer flyttes i sin helhet og uredigert til forslag til investeringsreglementet\nØkonomireglementet gjøres gjeldende fra 01.01.2025.",
+  "vedtak": "Økonomireglement for Levanger kommune vedtas med følgende endring:\n- Punkt 9 om investeringer flyttes i sin helhet og uredigert til forslag til investeringsreglementet\nØkonomireglementet gjøres gjeldende fra 01.01.2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Lars Einar Karlsen (Rødt)",
+      "tekst": "Siste setning i andre avsnitt pkt 5.2 får følgende tillegg: Økonomirapportene skal inneholde andre relevante måltall for sykefraværsutviklingen, overliggere på sykehuset, innleie av vikarer, brudd på bemanningsnormen, lærernormen og når det er for få sykepleiere på jobb."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over innstilling fra formannskapet om økonomireglementet med endring av punkt 9",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning over tilleggsforslag fra Lars Einar Karlsen (Rødt) om tillegg i pkt 5.2 i økonomireglementet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 10
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "Imot",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "04.12.2024",
+  "saksnummer_ps": "PS 64/24",
+  "rodt_fremmet_forslag": true
+}

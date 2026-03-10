@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av revisor til Levanger kommuneskoger KF",
+  "innstilling": null,
+  "vedtak": "Revisjon Midt-Norge SA (Org.nr. 919 902 310) velges til revisor for Levanger kommuneskoger KF.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om valg av revisor for Levanger kommuneskoger KF",
+      "alternativer": [
+        {
+          "navn": "Revisjon Midt-Norge SA",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Revisjon Midt-Norge SA",
+      "roedt_stoettet": "Revisjon Midt-Norge SA",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "22.05.2024",
+  "saksnummer_ps": "PS 27/24",
+  "rodt_fremmet_forslag": false
+}

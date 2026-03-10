@@ -1,0 +1,54 @@
+{
+  "tittel": "Tertialrapport 1. tertial 2024 - Levanger kommune",
+  "innstilling": [
+    "Tertialrapport for 1. tertial 2024 tas til orientering.",
+    "Kommunedirektøren bes om å iverksette nødvendige tiltak for å bedre regnskapsresultatet fram mot utgangen av året. Motivasjonslønn Staupshaugen og Dagsverket opprettholdes.",
+    "Budsjettjusteringer for 2024, som det fremgår av rapportens kapittel «Status drift», vedtas."
+  ],
+  "vedtak": [
+    "Tertialrapport for 1. tertial 2024 tas til orientering.",
+    "Kommunedirektøren bes om å iverksette nødvendige tiltak for å bedre regnskapsresultatet fram mot utgangen av året. Motivasjonslønn Staupshaugen og Dagsverket opprettholdes.",
+    "Budsjettjusteringer for 2024, som det fremgår av rapportens kapittel «Status drift», vedtas.",
+    "Kommunedirektøren bes snarest om å gjennomføre nødvendige tiltak for å redusere bemanningen (feks ansettelsesstopp, fristilling, oppsigelser) for å oppnå årets budsjett. Alle tjenestenivå vurderes."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anita Ravlo Sand (SP) på vegne av SP, H, KRF, FRP, INP og V",
+      "tekst": "Kommunedirektøren bes snarest om å gjennomføre nødvendige tiltak for å redusere bemanningen (feks ansettelsesstopp, fristilling, oppsigelser) for å oppnå årets budsjett. Alle tjenestenivå vurderes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstillingen",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Avstemning om Sand sitt tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 11
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "19.06.2024",
+  "saksnummer_ps": "PS 37/24",
+  "rodt_fremmet_forslag": false
+}

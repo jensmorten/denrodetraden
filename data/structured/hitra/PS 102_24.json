@@ -1,0 +1,61 @@
+{
+  "tittel": "PS 102/24 Merknadsbehandling og egengodkjenning - Delegeringsreglement for valgperioden 2023-2027",
+  "innstilling": "Hitra kommunestyre vedtar delegeringsreglement for valgperioden 2023-2027 som fremlagt i denne sak. Delegeringsreglementet gjøres gjeldende fra vedtaks dato.",
+  "vedtak": "Hitra kommunestyre vedtar delegeringsreglement for valgperioden 2023-2027 som fremlagt i denne sak med følgende endringer:\n• I punkt 3.2.3, andre ledd, første setning, endres \"skal\" til \"kan\".\n• Punkt 2.10, første ledd, endres til å si følgende: \"Når kommunedirektøren får delegert avgjørelsesmyndighet fra et utvalg skal denne myndigheten utøves ved skriftlige vedtak som rapporteres til utvalget som delegerte myndigheten. I hvilken form dette skjer bestemmes av det politiske utvalget.\"\nDelegeringsreglementet gjøres gjeldende fra vedtaks dato.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ingrid Kathrine Schanche (SP) på vegne av AP, R, SP og SV",
+      "tekst": "Delegering til administrasjonsutvalget\n3.4.1 Ansvarsområde:\nAdministrasjonsutvalget er et partssammensatt utvalg i henhold til kommunelovens § 5-11 – Partssammensatte utvalg (administrasjonsutvalg) og består av formannskapet +3 representanter for de ansatte.\nI en kommune er det de folkevalgte og kommunedirektør som utgjør arbeidsgiversiden. De ansattes tillitsvalgte representerer arbeidstakersiden og som utgjør ombudsrollen for de ansatte i kommunen.\nAdministrasjonsutvalget skal behandle saker som gjelder forholdet mellom de ansatte og kommunen som arbeidsgiver.\nAdministrasjonsutvalget gis myndighet til å treffe avgjørelser innen følgende saksområder:\n• Foreta oppretting av stillinger, omgjøring og reduksjon av stillinger.\n• Godkjenne felles regler som omhandler forholdet mellom kommunen som arbeidsgiver og de ansatte. F.eks. permisjonsreglement, flexitid, ferieavvikling, personalpolitiske tiltak.\n• Administrasjonsutvalget skal uttale seg om saker som angår forholdet mellom kommunen og de ansatte og hvor avgjørelsen skal skje i formannskap eller kommunestyret.\nDELEGERING FRA ADMINISTRASJONSUTVALGET\nxx.xx\nDelegering til kommunedirektør\nMed hjemmel i kommunelovens § 13-1 gir administrasjonsutvalget kommunedirektøren fullmakt til å ta avgjørelser i alle kurante saker. En sak oppfattes som kurant når det foreligger klare retningslinjer for hvordan den skal behandles eller man har klar praksis for behandling av tilsvarende saker.\nStillingsressurser:\nKommunedirektøren delegeres myndighet til å omdisponere stillingsressurser innenfor budsjettets ramme for å kunne iverksette vedtak og prioriteringer.\nIntern delegering\nMed mindre særskilt bestemmelse er til hinder, kan kommunedirektøren overlate til andre innen sin administrasjon å fatte avgjørelser på sine vegne."
+    },
+    {
+      "forslagsstiller": "John Lernes (AP)",
+      "tekst": "Endring i punkt 3.2.3, andre ledd, første setning: \"Skal\" endres til \"kan\"."
+    },
+    {
+      "forslagsstiller": "John Lernes (AP)",
+      "tekst": "Endring i punkt 2.10, første ledd: \"Når kommunedirektøren får delegert avgjørelsesmyndighet fra et utvalg skal denne myndigheten utøves ved skriftlige vedtak som rapporteres til utvalget som delegerte myndigheten. I hvilken form dette skjer bestemmes av det politiske utvalget.\""
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fremmet av ordfører John Lernes (AP) om endring i punkt 3.2.3, andre ledd, første setning: \"Skal\" endres til \"kan\".",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag fremmet av ordfører John Lernes (AP) om endring i punkt 2.10, første ledd.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet med de vedtatte endringer.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 102/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,50 @@
+{
+  "tittel": "PS 105/24 Fritak fra folkevalgte verv i Hitra kommunes råd for personer med funksjonsnedsettelse 2023-2027",
+  "innstilling": [
+    "Hitra kommunestyre, etter kommuneloven § 7-9, innvilger Elen Birgitte Hestnes fritak fra vervet som medlem og leder av Hitras råd for personer med funksjonsnedsettelse.",
+    "Som nytt medlem rådet velges __________. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode."
+  ],
+  "vedtak": [
+    "Hitra kommunestyre, etter kommuneloven § 7-9, innvilger Elen Birgitte Hestnes fritak fra vervet som medlem og leder av Hitras råd for personer med funksjonsnedsettelse.",
+    "Som nytt medlem rådet velges Odd Rune Øyen. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Stig Atle Lervåg (H)",
+      "tekst": [
+        "Hitra kommunestyre, etter kommuneloven § 7-9, innvilger Elen Birgitte Hestnes fritak fra vervet som medlem og leder av Hitras råd for personer med funksjonsnedsettelse.",
+        "Som nytt medlem rådet velges Odd Rune Øyen. Dette gjelder fra og med vedtaksdato og ut inneværende valgperiode."
+      ]
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstilling fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Stig Atle Lervåg (H)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "hitra",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS 105/24",
+  "rodt_fremmet_forslag": false
+}

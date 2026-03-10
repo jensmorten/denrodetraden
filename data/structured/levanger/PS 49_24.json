@@ -1,0 +1,34 @@
+{
+  "tittel": "Ombygging møtesenter NAV Levanger",
+  "innstilling": [
+    "Ombygging av møtesenter NAV Levanger vedtas.",
+    "Planløsning alternativ 1 vedtas som forelagt.",
+    "Leieavtalen utvides med tre år til 2034.",
+    "Økt husleie innarbeides i budsjett for 2025 og økonomiperioden 2025-2028"
+  ],
+  "vedtak": [
+    "Ombygging av møtesenter NAV Levanger vedtas.",
+    "Planløsning alternativ 1 vedtas som forelagt.",
+    "Leieavtalen utvides med tre år til 2034.",
+    "Økt husleie innarbeides i budsjett for 2025 og økonomiperioden 2025-2028"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstillingen for ombygging møtesenter NAV Levanger",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.09.2024",
+  "saksnummer_ps": "PS 49/24",
+  "rodt_fremmet_forslag": false
+}

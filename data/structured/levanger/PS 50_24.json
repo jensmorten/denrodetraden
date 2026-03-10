@@ -1,0 +1,59 @@
+{
+  "tittel": "Bruk av utbytte fra NTE - nye prinsipper for bruken",
+  "innstilling": {
+    "1": "Fordeling av NTE-utbytte endres på følgende måte: a. 20% av utbytte settes av til kraftfondet b. 80% av utbytte settes av til utviklingsfondet",
+    "2": "Under forutsetning av at man tar i bruk ovenstående omfordeling, åpnes det opp for at driftsrelatert utviklingsaktivitet kan finansieres over utviklingsfondet. Dette inkluderer ikke dekning av faste lønnskostnader. Her tas det utgangspunkt i en øvre kostnadsramme på 4 millioner kroner for 2024 og 2025.",
+    "3": "I forbindelse med den årlige framlegging av budsjett og økonomiplan, bes kommunedirektøren om å foreslå en disponering av utviklingsfondet, samt øvre kostnadsramme for driftsrelatert utviklingsarbeid som kan dekkes av utviklingsfondet (gjelder fra og med budsjettår 2026).",
+    "4": "Det resterende beløpet i utviklingsfondet disponeres henholdsvis 50% til næringsutvikling og 50% til andre, tidsavgrensede utviklingstiltak. Kommunedirektøren bes legge fram en politisk sak om disponering av det resterende utviklingsfondet etter etablert praksis."
+  },
+  "vedtak": {
+    "1": "Fordeling av NTE-utbytte justeres slik: a. 30% av utbyttet settes av til kraftfondet for langsiktig sparing og reduksjon av låneopptak. b. 70% av utbyttet settes av til utviklingsfondet for samfunnsutvikling og tidsavgrensede prosjekter.",
+    "2": "Bruk av kraftfondet til langsiktig økonomisk styring: Kraftfondet skal benyttes til langsiktige investeringer, med mål om å redusere behovet for fremtidige låneopptak for Levanger Kommune, særlig knyttet til samfunnsnyttige prosjekter som infrastruktur, skoler og helse- og omsorgsbygg. Ved eventuelt fremtidig behov skal kraftfondet kunne disponeres til kjøp av aksjer i relevante regionale selskaper eller til kapitaltilførsel til NTE.",
+    "3": "Utviklingsfondet til samfunnsnyttige prosjekter: Midlene fra utviklingsfondet skal brukes til å finansiere formål som har engangskarakter og tidsavgrensede prosjekter, som ikke gir kommunen varig økte driftskostnader. Midlene skal styrke næringsutvikling, bostedsutvikling, kulturtiltak, infrastruktur og andre utviklingstiltak som bidrar til å øke Levanger kommunes attraktivitet og vekst. Det skal ikke brukes midler fra NTE-utbyttet til lønn eller drift i kommunens ordinære virksomhet. Beløpet i utviklingsfondet fordeles slik: - 50% til næringsutvikling - 50% til andre utviklingstiltak jf pkt 34.",
+    "4": "I forbindelse med den årlige framlegging av budsjett og økonomiplan bes kommunedirektøren om å foreslå en disponering av utviklingsfondet."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Andreas Jenssen Hjelmstad (Høyre)",
+      "tekst": "1. Fordeling av NTE-utbytte justeres slik: a. 30% av utbyttet settes av til kraftfondet for langsiktig sparing og reduksjon av låneopptak. b. 70% av utbyttet settes av til utviklingsfondet for samfunnsutvikling og tidsavgrensede prosjekter. 2. Bruk av kraftfondet til langsiktig økonomisk styring: Kraftfondet skal benyttes til langsiktige investeringer, med mål om å redusere behovet for fremtidige låneopptak for Levanger Kommune, særlig knyttet til samfunnsnyttige prosjekter som infrastruktur, skoler og helse- og omsorgsbygg. Ved eventuelt fremtidig behov skal kraftfondet kunne disponeres til kjøp av aksjer i relevante regionale selskaper eller til kapitaltilførsel til NTE. 4. Utviklingsfondet til samfunnsnyttige prosjekter: Midlene fra utviklingsfondet skal brukes til å finansiere formål som har engangskarakter og tidsavgrensede prosjekter, som ikke gir kommunen varig økte driftskostnader. Midlene skal styrke næringsutvikling, bostedsutvikling, kulturtiltak, infrastruktur og andre utviklingstiltak som bidrar til å øke Levanger kommunes attraktivitet og vekst. Det skal ikke brukes midler fra NTE-utbyttet til lønn eller drift i kommunens ordinære virksomhet. Beløpet i utviklingsfondet fordeles slik: - 50% til næringsutvikling - 50% til andre utviklingstiltak jf pkt 34. 4. I forbindelse med den årlige framlegging av budsjett og økonomiplan bes kommunedirektøren om å foreslå en disponering av utviklingsfondet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning mellom innstilling (forslag 1) og alternativt forslag (forslag 2) fra Andreas Jenssen Hjelmstad (Høyre).",
+      "alternativer": [
+        {
+          "navn": "Forslag 1 (innstilling)",
+          "stemmer": 15
+        },
+        {
+          "navn": "Forslag 2 (alternativt forslag Høyre)",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Forslag 2 (alternativt forslag Høyre)",
+      "roedt_stoettet": "Forslag 1 (innstilling)",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Avstemning om tilleggsforslag fra Lars Einar Karlsen (Rødt) om å legge fram sak om bibliotek/kulturhus fond.",
+      "alternativer": [
+        {
+          "navn": "For tilleggsforslag",
+          "stemmer": 3
+        },
+        {
+          "navn": "Imot tilleggsforslag",
+          "stemmer": 32
+        }
+      ],
+      "hvem_vant": "Imot tilleggsforslag",
+      "roedt_stoettet": "For tilleggsforslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "18.09.2024",
+  "saksnummer_ps": "PS 50/24",
+  "rodt_fremmet_forslag": false
+}

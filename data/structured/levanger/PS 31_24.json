@@ -1,0 +1,24 @@
+{
+  "tittel": "Endring av reglement for Levanger Ungdomsråd",
+  "innstilling": null,
+  "vedtak": "Forslag til reglement vedtas som forelagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om forslag til reglement for Levanger Ungdomsråd",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "levanger",
+  "dato": "19.06.2024",
+  "saksnummer_ps": "PS 31/24",
+  "rodt_fremmet_forslag": false
+}
