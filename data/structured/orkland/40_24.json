@@ -1,0 +1,29 @@
+{
+  "tittel": "Valg av nytt varamedlem til kontrollutvalget",
+  "innstilling": "Ingen.",
+  "vedtak": "Som nytt varamedlem til kontrollutvalget velges Arve Slørdal.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eva Solstad Legar på vegne av Høyre",
+      "tekst": "Som nytt varamedlem velges Arve Slørdal."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Høyre om valg av nytt varamedlem",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Høyre",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslag fra Høyre",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "18.06.2024",
+  "saksnummer_ps": "40/24",
+  "rodt_fremmet_forslag": false
+}

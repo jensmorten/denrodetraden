@@ -1,0 +1,36 @@
+{
+  "tittel": "Valg av jordskiftemeddommere for perioden 01.01.2025 - 31.12.2028",
+  "innstilling": "Kommunestyre vedtar vedlagte forslag til meddommere i jordskifteretten.",
+  "vedtak": "Kommunestyre vedtar vedlagte forslag til meddommere i jordskifteretten.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 07.05.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 18.06.2024",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets tilråding",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets tilråding",
+      "roedt_stoettet": "Valgutvalgets tilråding",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "18.06.2024",
+  "saksnummer_ps": "39/24",
+  "rodt_fremmet_forslag": false
+}

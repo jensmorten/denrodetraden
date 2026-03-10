@@ -1,0 +1,36 @@
+{
+  "tittel": "Budsjettjustering investering",
+  "innstilling": "Kommunestyret vedtar følgende endringer av de enkelte prosjekt: (beløp inkl. mva.)\nProsjekt Navn Beløp inkl mva\n30012 Skilt gateadresser (430) 300 000\n30044 Fortau Grensen 150 000\n40016 Ny Krokstadøra brannstasjon 5 000 000\n40045 Ombygging Meldal kommunehus 217 000\n40065 Rådhus vindusbytte 265 000\n40068 Div. kjøp av eiendom 4 500 000\n40072 Tak Orkland Rådhus 350 000\n40087 Carporter hjemmetjenesten 3 150 000\n40098 Tømmestasjon bobil Krokstadøra 505 000\n50048 Avfallscontainer v/søppelsug - 300 000\n50055 Renholdsrobot 300 000\nSum endringer inklusive mva. 14 437 000\nSamlet finansiering endres som følgende:\nMva kompensasjon - 1 987 400\nOverføring fra drift - 4 620 000\nLån - 7 829 600\nSum finansiering - 14 437 000\nFølgende budsjettjusteringer av driftsbudsjettet foretas:\n104010 Overføring til investering 4 620 000\n104010 Bruk av disposisjonsfond - 4 620 000\nKommunedirektøren gis fullmakt til å foreta detaljerte budsjettjusteringer.",
+  "vedtak": "Kommunestyret vedtar følgende endringer av de enkelte prosjekt: (beløp inkl. mva.)\nProsjekt Navn Beløp inkl mva\n30012 Skilt gateadresser (430) 300 000\n30044 Fortau Grensen 150 000\n40016 Ny Krokstadøra brannstasjon 5 000 000\n40045 Ombygging Meldal kommunehus 217 000\n40065 Rådhus vindusbytte 265 000\n40068 Div. kjøp av eiendom 4 500 000\n40072 Tak Orkland Rådhus 350 000\n40087 Carporter hjemmetjenesten 3 150 000\n40098 Tømmestasjon bobil Krokstadøra 505 000\n50048 Avfallscontainer v/søppelsug - 300 000\n50055 Renholdsrobot 300 000\nSum endringer inklusive mva. 14 437 000\nSamlet finansiering endres som følgende:\nMva kompensasjon - 1 987 400\nOverføring fra drift - 4 620 000\nLån - 7 829 600\nSum finansiering - 14 437 000\nFølgende budsjettjusteringer av driftsbudsjettet foretas:\n104010 Overføring til investering 4 620 000\n104010 Bruk av disposisjonsfond - 4 620 000\nKommunedirektøren gis fullmakt til å foreta detaljerte budsjettjusteringer.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 11.06.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 18.06.2024",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "18.06.2024",
+  "saksnummer_ps": "48/24",
+  "rodt_fremmet_forslag": false
+}

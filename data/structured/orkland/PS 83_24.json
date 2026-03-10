@@ -1,0 +1,77 @@
+{
+  "tittel": "Omprioritering av tiltak for skolebruksplan 2024",
+  "innstilling": "Kommunestyret vedtar å prioritere 1 000 000kr av årets avsatte midler til skolebruksplanen for å bytte ventilasjonsanlegget ved Grøtte ungdomsskole.",
+  "vedtak": "Kommunestyret vedtar å prioritere 1 000 000kr av årets avsatte midler til skolebruksplanen for å bytte ventilasjonsanlegget ved Grøtte ungdomsskole. De 4 tiltakene som nedprioriteres i 2024 forutsettes prioritert i plan for 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Eli Birgitte Singstad (SP)",
+      "tekst": "De 4 tiltakene som nedprioriteres i 2024 forutsettes prioritert i plan for 2025."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg Teknikk 27.08.2024 på tilleggsforslag fra Eli Birgitte Singstad",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Tilleggsforslag fra Eli Birgitte Singstad (SP)",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Hovedutvalg Teknikk 27.08.2024 på kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 27.08.2024 på kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyret 10.09.2024 på kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 41
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyret 10.09.2024 på tilleggsforslag fra Hovedutvalg Teknikk",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 41
+        }
+      ],
+      "hvem_vant": "Tilleggsforslag fra Hovedutvalg Teknikk",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 83/24",
+  "rodt_fremmet_forslag": false
+}

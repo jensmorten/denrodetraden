@@ -1,0 +1,48 @@
+{
+  "tittel": "Nye Orkanger hovedrenseanlegg",
+  "innstilling": "Formannskapet vedtar å gjennomføre prosjektering og utvikling av nye Orkanger hovedrenseanlegg som en samspillentreprise i samsvar med saksframlegget. Dette sikrer at prosjektering og utvikling skjer i tett dialog mellom byggherre, entreprenør og leverandør, samt sikrer kvalitet og kontroll i prosessen. Basert på sammenlignbare prosjekter skal det være satt av tilstrekkelige selvkostmidler i handlingsplanen for realiseringen av prosjektet. Dersom kommunedirektøren kommer til at det bør vurderes tilleggsinvesteringer utenfor selvkostområdet, vil disse legges fram for politisk behandling som egne saker.",
+  "vedtak": "Formannskapet vedtar å gjennomføre prosjektering og utvikling av nye Orkanger hovedrenseanlegg som en samspillentreprise i samsvar med saksframlegget. Dette sikrer at prosjektering og utvikling skjer i tett dialog mellom byggherre, entreprenør og leverandør, samt sikrer kvalitet og kontroll i prosessen. Basert på sammenlignbare prosjekter skal det være satt av tilstrekkelige selvkostmidler i handlingsplanen for realiseringen av prosjektet. Dersom kommunedirektøren kommer til at det bør vurderes tilleggsinvesteringer utenfor selvkostområdet, vil disse legges fram for politisk behandling som egne saker.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg Teknikk 13.02.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Formannskap 27.02.2024",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg teknikks innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Hovedutvalg teknikks innstilling",
+      "roedt_stoettet": "Hovedutvalg teknikks innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 05.03.2024",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "05.03.2024",
+  "saksnummer_ps": "PS 17/24",
+  "rodt_fremmet_forslag": false
+}

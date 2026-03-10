@@ -1,0 +1,60 @@
+{
+  "tittel": "Ny sluttbehandling av kommuneplanens arealdel etter mekling og begrenset høring",
+  "innstilling": "I henhold til PBL § 11-15 vedtas med unntak av Ustmarka arealbruk for områder som var unntatt rettsvirkning i vedtak 29.03.2023. Områder for akvakultur med hensynsoner og tilhørende bestemmelser vedtas som de foreligger i vedlagte saksdokumenter.",
+  "vedtak": "I henhold til PBL § 11-15 vedtas med unntak av Ustmarka arealbruk for områder som var unntatt rettsvirkning i vedtak 29.03.2023. Områder for akvakultur med hensynsoner og tilhørende bestemmelser vedtas som de foreligger i vedlagte saksdokumenter.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kristian M Fremstad på vegne av Senterpartiet",
+      "tekst": "Kommunedirektøren tar initiativ til nytt meklingsmøte med statsforvalter og fylkeskommune for tema akvakultur i vår arealplan med følgende som utgangspunkt: • Akvakultur tillates i Orkland sine sjøarealer utenfor skipsled og unntatt skravert område. • I kommunale planprosesser inkludert arealplanlegging i sjøområdene må det tas hensyn til nasjonale mål for videre utvikling av havbruksnæringa I henhold til nasjonale forventninger. Fylkeskommunene og kommunene skal avsette tilstrekkelig areal til ønsket vekst i havbruksnæringa gjennom oppdaterte planer. • Det skal sikres at viktige marine naturtyper og marine verneområder hensyntas i planleggingen av nye akvakulturområder gjennom utredninger i forbindelse med konsesjonsbehandlinger og reguleringsplaner for de omsøkte områder."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg Forvaltning 16.04.2024 om kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 07.05.2024 om forslag fra Kristian M Fremstad (SP) mot Hovedutvalg forvaltning sin innstilling",
+      "alternativer": [
+        {
+          "navn": "Forslaget fra Kristian M Fremstad på vegne av Senterpartiet",
+          "stemmer": 16,
+          "partier": {
+            "SP": 6,
+            "PP": 4,
+            "FRP": 3,
+            "INP": 2,
+            "KRF": 1
+          }
+        },
+        {
+          "navn": "Hovedutvalg forvaltning sin innstilling",
+          "stemmer": 25,
+          "partier": {
+            "AP": 12,
+            "SMP": 4,
+            "V": 2,
+            "H": 4,
+            "SV": 2,
+            "R": 1
+          }
+        }
+      ],
+      "hvem_vant": "Hovedutvalg forvaltning sin innstilling",
+      "roedt_stoettet": "Hovedutvalg forvaltning sin innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "07.05.2024",
+  "saksnummer_ps": "PS 29/24",
+  "rodt_fremmet_forslag": false
+}

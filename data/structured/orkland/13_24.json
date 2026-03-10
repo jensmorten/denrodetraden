@@ -1,0 +1,36 @@
+{
+  "tittel": "Etablering av brukerutvalg for kollektivreisende",
+  "innstilling": "Det opprettes et brukerutvalg for kollektivreisende i Orkland kommune. Følgende medlemmer velges som deltakere i utvalget: …………. Reglement for utvalget vedtas i egen sak.",
+  "vedtak": "Det opprettes et brukerutvalg for kollektivreisende i Orkland kommune. Følgende medlemmer velges som deltakere i utvalget: Hanne Nyhus - leder, Rolf Inge Furuhaug - eldrerådet, Aud Thorild Andersen – Rådet for mennesker med nedsatt funksjonsevne, Petter Reitan – Ungdomsrådet, Arild Røland, Eli Holen, Odd Morten Mjøen. Reglement for utvalget vedtas i egen sak.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 30.01.2024 om forslag til brukerutvalg for kollektivreisende",
+      "alternativer": [
+        {
+          "navn": "Forslaget",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget",
+      "roedt_stoettet": "Forslaget",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 30.01.2024 om Valgutvalgets innstilling",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "30.01.2024",
+  "saksnummer_ps": "13/24",
+  "rodt_fremmet_forslag": false
+}

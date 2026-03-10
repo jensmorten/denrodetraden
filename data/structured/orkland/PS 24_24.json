@@ -1,0 +1,24 @@
+{
+  "tittel": "24/24 Kontrollutvalgets årsmelding 2023",
+  "innstilling": "Kommunestyret tar kontrollutvalgets årsmelding 2023 til orientering.",
+  "vedtak": "Kommunestyret tar kontrollutvalgets årsmelding 2023 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over Kontrollutvalgets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 38
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "09.04.2024",
+  "saksnummer_ps": "PS 24/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "Konsesjon Bygdekino i Løkken kulturhus",
+  "innstilling": "Kommunestyret innvilger konsesjon for Bygdekino AS i Løkken kulturhus fra 13.09 2024 til 01.01.2029",
+  "vedtak": "Kommunestyret innvilger konsesjon for Bygdekino AS i Løkken kulturhus fra 13.09 2024 til 01.01.2029",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling i Hovedutvalg helse, oppvekst og kultur (2023-2027) 27.08.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Behandling i Kommunestyre 10.09.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 75/24",
+  "rodt_fremmet_forslag": false
+}

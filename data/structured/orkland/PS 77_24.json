@@ -1,0 +1,36 @@
+{
+  "tittel": "Planstrategi Orkland 2024-2027. Andre gangs behandling",
+  "innstilling": "Kommunedirektørens innstilling",
+  "vedtak": "Orkland kommune vedtar planstrategi for Orkland 2024-2027 slik den foreligger i vedlagte dokument. Innspill i prosessen tas med videre i arbeidet med revisjon av kommuneplanen i perioden.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg forvaltning 2023 - 2027 27.08.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 10.09.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 40
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 77/24",
+  "rodt_fremmet_forslag": false
+}

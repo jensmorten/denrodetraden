@@ -1,0 +1,36 @@
+{
+  "tittel": "Tilstandsrapport grunnskole 2023",
+  "innstilling": "Kommunestyret vedtar tilstandsrapport for grunnskole 2023",
+  "vedtak": "Kommunestyret vedtar tilstandsrapport for grunnskole 2023",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 12.03.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 09.04.2024",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg helse, oppvekst og kultur sin innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Hovedutvalg helse, oppvekst og kultur sin innstilling",
+      "roedt_stoettet": "Hovedutvalg helse, oppvekst og kultur sin innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "09.04.2024",
+  "saksnummer_ps": "PS 23/24",
+  "rodt_fremmet_forslag": false
+}

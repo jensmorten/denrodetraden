@@ -1,0 +1,36 @@
+{
+  "tittel": "Valg av styremedlemmer til Orkla Sparebanks Næringsfond",
+  "innstilling": "Ingen.",
+  "vedtak": "Som styremedlemmer til Orkla Sparebanks Næringsfond velges: Hanne Nyhus og Hans Kringstad.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 30.01.2024",
+      "alternativer": [
+        {
+          "navn": "Forslaget (Hanne Nyhus og Hans Kringstad)",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget (Hanne Nyhus og Hans Kringstad)",
+      "roedt_stoettet": "Forslaget (Hanne Nyhus og Hans Kringstad)",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 30.01.2024",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "30.01.2024",
+  "saksnummer_ps": "11/24",
+  "rodt_fremmet_forslag": false
+}

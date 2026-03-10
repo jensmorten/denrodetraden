@@ -1,0 +1,33 @@
+{
+  "tittel": "Områdeplan for Eiktyr Industripark etter gjennomført mekling",
+  "innstilling": "Kommunestyret tar meklingsresultatet til orientering. Kommunestyret ber kommunedirektøren fullføre prosessen med innsigelse 5 og 9 og legge planen fram for ny sluttbehandling i kommunestyret i juni før oversending til Kommunal- og distriktsdepartementet for avgjørelse.",
+  "vedtak": "Kommunestyret tar meklingsresultatet til orientering. Kommunestyret ber kommunedirektøren fullføre prosessen med innsigelse 5 og 9 og legge planen fram for ny sluttbehandling i kommunestyret i juni før oversending til Kommunal- og distriktsdepartementet for avgjørelse.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Pensjonistpartiet ved Torstein Larsen",
+      "tekst": "Kommunestyret tar meklingsresultatet til etterretning og anker ikke saken videre inn til departementet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om forslag fra Pensjonistpartiet ved Torstein Larsen mot kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "Pensjonistpartiet sitt forslag",
+          "stemmer": 8
+        },
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoette": "Pensjonistpartiet sitt forslag",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "07.05.2024",
+  "saksnummer_ps": "PS 28/24",
+  "rodt_fremmet_forslag": false
+}

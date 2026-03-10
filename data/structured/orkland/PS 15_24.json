@@ -1,0 +1,36 @@
+{
+  "tittel": "Sluttbehandling - Folloplatået, planID 2022008",
+  "innstilling": "I medhold av Plan- og bygningslovens § 12-12/12 vedtas reguleringsplan for Folloplatået slik den foreligger i vedlagte plandokumenter.",
+  "vedtak": "I medhold av Plan- og bygningslovens § 12-12/12 vedtas reguleringsplan for Folloplatået slik den foreligger i vedlagte plandokumenter.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg Forvaltning 13.02.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 05.03.2024",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg forvaltnings innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Hovedutvalg forvaltnings innstilling",
+      "roedt_stoettet": "Hovedutvalg forvaltnings innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "05.03.2024",
+  "saksnummer_ps": "PS 15/24",
+  "rodt_fremmet_forslag": false
+}

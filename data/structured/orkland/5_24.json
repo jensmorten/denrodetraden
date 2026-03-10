@@ -1,0 +1,36 @@
+{
+  "tittel": "Gebyrregulativ 2024 - korrigeringer",
+  "innstilling": "Følgende betalingssatser endres i fra opprinnelig vedtak i kommunestyrets sak 65/23:\nBetalingssats for middagsombringing 2024: kr. 121\nBetalingssats for Sterk og Stødig Krokstadøra, Meldal, Løkken, Fannrem, Svorkmo, Lensvik 2024: kr. 450",
+  "vedtak": "Følgende betalingssatser endres i fra opprinnelig vedtak i kommunestyrets sak 65/23:\nBetalingssats for middagsombringing 2024: kr. 121\nBetalingssats for Sterk og Stødig Krokstadøra, Meldal, Løkken, Fannrem, Svorkmo, Lensvik 2024: kr. 450",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 23.01.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoette": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 30.01.2024",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoette": "Formannskapets innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "30.01.2024",
+  "saksnummer_ps": "5/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,41 @@
+{
+  "tittel": "Valg av klagenemnd for eiendomsskatt",
+  "innstilling": "Som klagenemnd for eiendomsskatt velges:\nLeder: Varamedlem:\nNestleder: Varamedlem:\nMedlem Varamedlem:",
+  "vedtak": "Som klagenemnd for eiendomsskatt velges:\nLeder: Oddvar Kjøren Varamedlem: Jørgen Indergård\nNestleder: Marie richter Varamedlem:Kjetil Schive\nMedlem: Elin Randahl Varamedlem: Ola Bjørkøy",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Valgutvalg",
+      "tekst": "Oddvar Kjøren vara: Jørgen Indergård\nMarie Richter vara: Kjetil Schive\nElin Randahl vara: Ola Bjørkøy"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 30.01.2024",
+      "alternativer": [
+        {
+          "navn": "Forslaget",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget",
+      "roedt_stoettet": "Forslaget",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 30.01.2024",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "30.01.2024",
+  "saksnummer_ps": "9/24",
+  "rodt_fremmet_forslag": false
+}

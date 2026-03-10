@@ -1,0 +1,36 @@
+{
+  "tittel": "Stortings- og sametingsvalget 2025 - en- eller todagers valg",
+  "innstilling": "Stortings- og sametingsvalget 2025 gjennomføres som endags valg ved alle stemmekretsene i Orkland kommune. Valgdagen er mandag 8. september 2025.",
+  "vedtak": "Stortings- og sametingsvalget 2025 gjennomføres som endags valg ved alle stemmekretsene i Orkland kommune. Valgdagen er mandag 8. september 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Formannskap 03.09.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 10.09.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 41
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 78/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "Valg av sakkyndig nemnd for eiendomsskatt",
+  "innstilling": "Ingen",
+  "vedtak": "Som sakkyndig nemnd for eiendomsskatt velges:\nLeder: Ola Fossvoll Varamedlem: Egil Indergård\nNestleder: Torleif Hove Varamedlem: Joar Tøndel\nMedlem: Marit Bjørklund Størseth Varamedlem: Gunnveig Gangås",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 30.01.2024",
+      "alternativer": [
+        {
+          "navn": "Forslaget",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget",
+      "roedt_stoettet": "Forslaget",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 30.01.2024",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "30.01.2024",
+  "saksnummer_ps": "10/24",
+  "rodt_fremmet_forslag": false
+}

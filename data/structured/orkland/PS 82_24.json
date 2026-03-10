@@ -1,0 +1,39 @@
+{
+  "tittel": "Ruspolitisk handlingsplan",
+  "innstilling": "Kommunestyre vedtar Temaplan- ruspolitisk handlingsplan som vedlagt saken. Tiltak som krever kommunal finansiering, vil behandles som innspill i budsjettarbeidet eller fremmes som sak for kommunestyret.",
+  "vedtak": [
+    "Kommunestyre vedtar Temaplan- ruspolitisk handlingsplan som vedlagt saken. Tiltak som krever kommunal finansiering, vil behandles som innspill i budsjettarbeidet eller fremmes som sak for kommunestyret.",
+    "Kommunestyret ber kommunedirektøren om å legge fram en vurdering i hovedutvalg Helse, oppvekst og kultur om temaene økt rus og medisinbruk blant eldre og spilleavhengighet i pengespill, og om disse temaene bør innarbeides ved neste rullering av ruspolitisk handlingsplan"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 27.08.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Kommunedirektørens innstilling",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 10.09.2024 på kommunedirektørens innstilling med tilleggsforslag",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling med tilleggsforslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling med tilleggsforslag",
+      "roedt_stoettet": "Kommunedirektørens innstilling med tilleggsforslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 82/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,41 @@
+{
+  "tittel": "Torshus Folkehøgskule - valg av representanter til representantskapet",
+  "innstilling": "Som representanter for rådet for Torshus Folkehøgskule velges:\nMedlemmer: Varamedlemmer:",
+  "vedtak": "Som representanter for rådet for Torshus Folkehøgskule velges:\nMedlemmer: Varamedlemmer:\nHanne Mehli V Oddvar Kjøren AP\nOlga Ucinska AP Anne Mari Svinsaas SV\nTor Arne Vassli PP Janicke Andresen PP\nBente Bostad KRF Hans Peter Verme R",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Valgutvalg",
+      "tekst": "Hanne Mehli vara Oddvar Kjøren\nOlga Ucinska vara Anne Mari Svinsaa\nTor Arne Vassli PP- vara Janicke Andresen, PP\nBente Bostad KRF – vara Hans Peter Verme R"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 30.01.2024",
+      "alternativer": [
+        {
+          "navn": "Forslagene",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslagene ble enstemmig vedtatt",
+      "roedt_stoettet": "Forslagene",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 30.01.2024",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling – enstemmig vedtatt",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "30.01.2024",
+  "saksnummer_ps": "8/24",
+  "rodt_fremmet_forslag": false
+}

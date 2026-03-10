@@ -1,0 +1,37 @@
+{
+  "tittel": "Søknad om fritak fra politiske verv i Orkland kommune - Wenche Romundstad, PP",
+  "innstilling": [
+    "Wenche Romundstad, PP innvilges varig fritak fra sine politiske verv i Orkland kommune ut valgperioden.",
+    "Varamedlem fra PP rykker opp på varamannslisten til hovedutvalg helse, oppvekst og kultur.",
+    "Som nytt varamedlem velges – ingen innstilling."
+  ],
+  "vedtak": [
+    "Wenche Romundstad, PP innvilges varig fritak fra sine politiske verv i Orkland kommune ut valgperioden.",
+    "Varamedlem fra PP rykker opp på varamannslisten til hovedutvalg helse, oppvekst og kultur.",
+    "Som nytt varamedlem velges Tor Arne Vassli"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Terje Selvnes, PP",
+      "tekst": "Som 2. varamedlem til hovedutvalg helse, oppvekst og kultur velges Tor Arne Vassli"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens innstilling med tilleggsforslag fra PP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 41
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stottet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 80/24",
+  "rodt_fremmet_forslag": false
+}

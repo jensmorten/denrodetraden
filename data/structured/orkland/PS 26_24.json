@@ -1,0 +1,33 @@
+{
+  "tittel": "Innbyggerforslag – Folkeavstemning om batterifabrikken i Ustmarka",
+  "innstilling": "Orkland kommune avholder ikke folkeavstemning om batterifabrikk Ustmarka.",
+  "vedtak": "Orkland kommune avholder ikke folkeavstemning om batterifabrikk Ustmarka.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "INP v/Jan Egil Rømmesmo",
+      "tekst": "Ønsket om folkeavstemming imøtekommes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om kommunedirektørens innstilling mot forslag fra INP v/Jan Egil Rømmesmo",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 32
+        },
+        {
+          "navn": "Forslag fra INP v/Jan Egil Rømmesmo",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stoettet": "Forslag fra INP v/Jan Egil Rømmesmo",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "09.04.2024",
+  "saksnummer_ps": "PS 26/24",
+  "rodt_fremmet_forslag": false
+}

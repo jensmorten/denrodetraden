@@ -1,0 +1,36 @@
+{
+  "tittel": "Valg av nytt varamedlem til Fjellstyre 2023 - 2027",
+  "innstilling": "Ingen.",
+  "vedtak": "Som varamedlem i Fjellstyret velges Bjørn Grønningen.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Valgutvalgets forslag om nytt varamedlem Bjørn Grønningen",
+      "alternativer": [
+        {
+          "navn": "Bjørn Grønningen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Bjørn Grønningen",
+      "roedt_stoettet": "Bjørn Grønningen",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Kommunestyrets vedtak basert på Valgutvalgets innstilling",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets innstilling",
+      "roedt_stoettet": "Valgutvalgets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "30.01.2024",
+  "saksnummer_ps": "12/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,61 @@
+{
+  "tittel": "Valg av Forliksråd",
+  "innstilling": {
+    "medlemmer": [
+      "Sigmund Moen Trønsdal fra Rindal",
+      null,
+      "Jannicke Andresen"
+    ],
+    "varamedlemmer": []
+  },
+  "vedtak": {
+    "medlemmer": [
+      "Steinar Gaustad",
+      "Svanhild Aune",
+      "Olaug Muan"
+    ],
+    "varamedlemmer": [
+      "Sigmund Moen Trønsdal fra Rindal",
+      "Arnt Tronvoll",
+      "Jannicke Andresen"
+    ],
+    "leder": "Steinar Gaustad",
+    "nestleder": "Svanhild Aune"
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ordfører Hanne Nyhus AP",
+      "tekst": "Medlemmer fra Orkland: Varamedlemmer 1. Steinar Gaustad 1. Sigmund Moen Trønsdal fra Rindal 2. Svanhild Aune 2. Arnt Tronvoll 3. Olaug Muan 3. Jannicke Andresen Som leder velges Steinar Gaustad Som nestleder velges Svanhild Aune"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Valgutvalg 07.05.2024",
+      "alternativer": [
+        {
+          "navn": "Ordfører Hanne Nyhus AP sitt forslag",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Ordfører Hanne Nyhus AP sitt forslag",
+      "roedt_stoettet": "Ordfører Hanne Nyhus AP sitt forslag",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 18.06.2024",
+      "alternativer": [
+        {
+          "navn": "Valgutvalgets tilråding",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Valgutvalgets tilråding",
+      "roedt_stoettet": "Valgutvalgets tilråding",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "18.06.2024",
+  "saksnummer_ps": "35/24",
+  "rodt_fremmet_forslag": false
+}

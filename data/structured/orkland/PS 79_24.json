@@ -1,0 +1,36 @@
+{
+  "tittel": "Bevilgning av midler til prosjektering av boliger for ungdommer med nedsatt funksjonsevne",
+  "innstilling": "Kommunestyret bevilger 200.000 kroner til utredning av bygging av boliger for ungdommer med nedsatt funksjonsevne. Bevilgningen finansieres med bruk av disposisjonsfond. Kommunedirektøren får fullmakt til å gjennomføre nødvendige budsjettendringer som følge av vedtaket.",
+  "vedtak": "Kommunestyret bevilger 200.000 kroner til utredning av bygging av boliger for ungdommer med nedsatt funksjonsevne. Bevilgningen finansieres med bruk av disposisjonsfond. Kommunedirektøren får fullmakt til å gjennomføre nødvendige budsjettendringer som følge av vedtaket.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg helse, oppvekst og kultur 27.08.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stottet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 10.09.2024",
+      "alternativer": [
+        {
+          "navn": "Kommunedirektørens innstilling",
+          "stemmer": 41
+        }
+      ],
+      "hvem_vant": "Kommunedirektørens innstilling",
+      "roedt_stottet": "Kommunedirektørens innstilling",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "10.09.2024",
+  "saksnummer_ps": "PS 79/24",
+  "rodt_fremmet_forslag": false
+}

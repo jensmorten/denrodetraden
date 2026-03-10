@@ -1,0 +1,53 @@
+{
+  "tittel": "Politisk behandling av klage på reguleringsplan for Vormstad Biopark",
+  "innstilling": "Hovedutvalg Forvaltning finner ikke at klagene tilfører saken nye momenter som gir grunnlag for å endre kommunestyrets vedtak i sak 25/23, datert 24.10.2023, Reguleringsplan for Vormstad Biopark. Hovedutvalget opprettholder derfor sitt vedtak i sak 25/23 og klagene tas ikke til følge. Klagene oversendes Statsforvalter til endelig avgjørelse.",
+  "vedtak": "Hovedutvalg Forvaltning finner ikke at klagene tilfører saken nye momenter som gir grunnlag for å endre kommunestyrets vedtak i sak 25/23, datert 24.10.2023, Reguleringsplan for Vormstad Biopark. Hovedutvalget opprettholder derfor sitt vedtak i sak 25/23 og klagene tas ikke til følge. Klagene oversendes Statsforvalter til endelig avgjørelse.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ola Bjørkøy på vegne av SP",
+      "tekst": "Hovedutvalg Forvaltning tar klagen til følge i punktet om konsekvensutredning. Hovedutvalg Forvaltning ber om at tiltaket med reguleringsplan for Vormstad Biopark konsekvensutredes. Dette begrunnes med Miljødirektoratets uttalelse i saken: «Miljødirektoratet påpeker at biogassanlegg ikke eksplisitt er omfattet av KU-forskriften. De legger likevel til grunn at tiltaket skulle vært konsekvensutredet fordi det i henhold til veiledning gitt av EU kommisjonen til EIA- og SEA direktivene faller inn under kategorien i punkt 10 i forskrift om konsekvensutredninger «Avfallsanlegg for behandling av husholdnings- og næringsavfall ved forbrenning eller kjemisk behandling med en kapasitet på mer enn 100 tonn per dag (mindre anlegg omfattes av vedlegg II nr. 11b).»."
+    },
+    {
+      "forslagsstiller": "Ola Bjørkøy SP (Kommunestyret)",
+      "tekst": "Kommunestyret tar klagen til følge i punktet om konsekvensutredning. Kommunestyret ber om at tiltaket med reguleringsplan for Vormstad Biopark konsekvensutredes. Dette begrunnes med Miljødirektoratets uttalelse i saken: «Miljødirektoratet påpeker at biogassanlegg ikke eksplisitt er omfattet av KU-forskriften. De legger likevel til grunn at tiltaket skulle vært konsekvensutredet fordi det i henhold til veiledning gitt av EU kommisjonen til EIA- og SEA direktivene faller inn under kategorien i punkt 10 i forskrift om konsekvensutredninger «Avfallsanlegg for behandling av husholdnings- og næringsavfall ved forbrenning eller kjemisk behandling med en kapasitet på mer enn 100 tonn per dag (mindre anlegg omfattes av vedlegg II nr. 11b).»."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg Forvaltning 13.02.2024 om Ola Bjørkøy på vegne av SP sitt forslag om å ta klagen til følge i punktet om konsekvensutredning.",
+      "alternativer": [
+        {
+          "navn": "Ola Bjørkøy på vegne av SP sitt forslag",
+          "stemmer": 5
+        },
+        {
+          "navn": "Mot (Kommunedirektørens innstilling)",
+          "stemmer": 6
+        }
+      ],
+      "hvem_vant": "Mot (Kommunedirektørens innstilling)",
+      "roedt_stoettet": "Mot (Kommunedirektørens innstilling)",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyret 05.03.2024 om Ola Bjørkøy SP sitt forslag om å ta klagen til følge i punktet om konsekvensutredning.",
+      "alternativer": [
+        {
+          "navn": "Hovedutvalg forvaltnings innstilling",
+          "stemmer": 24
+        },
+        {
+          "navn": "Ola Bjørkøy SP sitt forslag",
+          "stemmer": 19
+        }
+      ],
+      "hvem_vant": "Hovedutvalg forvaltnings innstilling",
+      "roedt_stoettet": "Ola Bjørkøy SP sitt forslag",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "05.03.2024",
+  "saksnummer_ps": "PS 14/24",
+  "rodt_fremmet_forslag": false
+}

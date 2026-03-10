@@ -1,0 +1,36 @@
+{
+  "tittel": "Reguleringsplan for Gammelosen renseanlegg",
+  "innstilling": "I medhold av plan- og bygningslovens § 12-12 vedtar Orkland kommune reguleringsplan for Gammelosen renseanlegg slik den foreligger i vedlegg.",
+  "vedtak": "I medhold av plan- og bygningslovens § 12-12 vedtar Orkland kommune reguleringsplan for Gammelosen renseanlegg slik den foreligger i vedlegg.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunedirektøren sin innstilling i Hovedutvalg Forvaltning 12.03.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Kommunedirektøren sin innstilling",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Hovedutvalg forvaltning sin innstilling i Kommunestyre 09.04.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 39
+        }
+      ],
+      "hvem_vant": "Hovedutvalg forvaltning sin innstilling",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "09.04.2024",
+  "saksnummer_ps": "PS 22/24",
+  "rodt_fremmet_forslag": false
+}

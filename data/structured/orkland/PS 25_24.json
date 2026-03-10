@@ -1,0 +1,45 @@
+{
+  "tittel": "Oppnevning av kandidater til interkommunal klagenemnd i ReMidt IKS",
+  "innstilling": "Det skal oppnevnes 1 medlem og 1 personlig varamedlem. For å sikre en best mulig demokratisk styring i klagebehandlingen, oppfordres deltakerkommunene til å utpeke sine to kandidater blant det fast møtende i kommunestyret/bystyret. For å ivareta kjønnsbalansen bør det være en av hvert kjønn. Funksjonstiden følger kommunevalgperioden",
+  "vedtak": "Som medlem i Interkommunal klagenemd i ReMidt IKS ble Oddvar Kjøren valgt. Som varamedlem ble Bente Høston Bostad valgt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Flertallsgruppa ved Eva Solstad",
+      "tekst": "Medlem: Oddvar Kjøren AP"
+    },
+    {
+      "forslagsstiller": "Opposisjon ved Kristian Martin Fremstad",
+      "tekst": "Varamedlem: Bente Høston Bostad KRF"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av medlem til Interkommunal klagenemnd i ReMidt IKS",
+      "alternativer": [
+        {
+          "navn": "Oddvar Kjøren",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Oddvar Kjøren",
+      "roedt_stoettet": "Oddvar Kjøren",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Valg av varamedlem til Interkommunal klagenemnd i ReMidt IKS",
+      "alternativer": [
+        {
+          "navn": "Bente Høston Bostad",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Bente Høston Bostad",
+      "roedt_stoettet": "Bente Høston Bostad",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "09.04.2024",
+  "saksnummer_ps": "PS 25/24",
+  "rodt_fremmet_forslag": false
+}

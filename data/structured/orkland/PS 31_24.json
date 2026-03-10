@@ -1,0 +1,41 @@
+{
+  "tittel": "Fastsettelse av planprogram for kulturmiljøplan",
+  "innstilling": "I medhold av plan- og bygningslovens §§ 4-1 og 11-13 fastsetter Orkland kommune planprogram for kulturmiljøplan slik det er vedlagt dette saksframlegget.",
+  "vedtak": "Saken utsettes og sendes tilbake til hovedutvalg forvaltning for behandling.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "ordfører Hanne Nyhus AP",
+      "tekst": "Utsettelsesforslag. Saken mangler vedlegg. Saken sendes tilbake til hovedutvalg forvaltning for behandling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering i Hovedutvalg Forvaltning 16.04.2024 om kommunedirektørens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering i Kommunestyre 07.05.2024 om utsettelsesforslag fra ordfører Hanne Nyhus AP",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoette": "For utsettelse",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "orkland",
+  "dato": "07.05.2024",
+  "saksnummer_ps": "PS 31/24",
+  "rodt_fremmet_forslag": false
+}
