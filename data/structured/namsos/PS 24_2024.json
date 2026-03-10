@@ -1,0 +1,24 @@
+{
+  "tittel": "Namdal lakseråd - valg av medlem for perioden 2023-2027",
+  "innstilling": "Medlem: Nils Roger Duna",
+  "vedtak": "Medlem: Nils Roger Duna",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over formannskapets forslag til vedtak om valg av medlem til Namdal lakseråd",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoettet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "PS 24/2024",
+  "rodt_fremmet_forslag": false
+}

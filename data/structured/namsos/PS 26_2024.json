@@ -1,0 +1,30 @@
+{
+  "tittel": "2. gangs behandling - Detaljregulering Sandvika",
+  "innstilling": {
+    "tekst": "Utvalg for plan sitt forslag til vedtak:\n1.Namsos kommunestyre vedtar forslag til detaljregulering «Sandvika» datert 12.05.2022, og forslag til bestemmelser av samme dato, sist revidert 11.01.2024 i medhold av plan- og bygningsloven §§ 12-10 og 12-12. Formålene SVT1 samt VS unntas rettsvirkning.\n2.Kommunedirektøren gis fullmakt til å gjennomføre mekling med Statsforvalteren.\n3.Gjennomføres ikke mekling sendes planen til Kommunal- og distriktsdepartementet (KDD) for endelig avgjørelse av innsigelse angående naturkartlegging, jf. pbl. § 5-6.",
+    "hjemmel": "Plan- og bygningslovens §§ 12-3, 12-10, 12-12 og 5-6."
+  },
+  "vedtak": {
+    "tekst": "1. Namsos kommunestyre vedtar forslag til detaljregulering «Sandvika» datert 12.05.2022, og forslag til bestemmelser av samme dato, sist revidert 11.01.2024 i medhold av plan- og bygningsloven §§ 12-10 og 12-12. Formålene SVT1 samt VS unntas rettsvirkning.\n2. Kommunedirektøren gis fullmakt til å gjennomføre mekling med Statsforvalteren.\n3. Gjennomføres ikke mekling sendes planen til Kommunal- og distriktsdepartementet (KDD) for endelig avgjørelse av innsigelse angående naturkartlegging, jf. pbl. § 5-6.",
+    "hjemmel": "Plan- og bygningslovens §§ 12-3, 12-10, 12-12 og 5-6."
+  },
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over utvalg for plan sitt forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 32
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "PS 26/2024",
+  "rodt_fremmet_forslag": false
+}

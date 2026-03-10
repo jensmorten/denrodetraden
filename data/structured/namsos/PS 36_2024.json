@@ -1,0 +1,24 @@
+{
+  "tittel": "Forebyggende plan",
+  "innstilling": "Kommunestyret vedtar “Forebyggende plan 2024-2027”.",
+  "vedtak": "Kommunestyret vedtar “Forebyggende plan 2024-2027”.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om innstilling: Kommunestyret vedtar “Forebyggende plan 2024-2027”.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 32
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 36/2024",
+  "rodt_fremmet_forslag": false
+}

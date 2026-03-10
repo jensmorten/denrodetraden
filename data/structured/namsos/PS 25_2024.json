@@ -1,0 +1,24 @@
+{
+  "tittel": "Lyngenfjorden lakseråd - valg av medlem for perioden 2023-2027",
+  "innstilling": "Formannskapets forslag til vedtak:\nSteinar Lyngstad, medlem\nAlfred Skogmo, varamedlem",
+  "vedtak": "Steinar Lyngstad, medlem\nAlfred Skogmo, varamedlem",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning over formannskapets forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stottet": "For forslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "PS 25/2024",
+  "rodt_fremmet_forslag": false
+}

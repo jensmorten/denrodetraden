@@ -1,0 +1,33 @@
+{
+  "tittel": "1.gangs behandling - Kommuneplanens arealdel for Namsos kommune",
+  "innstilling": null,
+  "vedtak": "Saken utsettes til kommunestyremøte i juni.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Randi Dille (Senterpartiet)",
+      "tekst": "Sak 35/24. Utsettelsesforslag fra SP, H, Krf, Frp, AP, V, SV og InP. Saken utsettes til kommunestyremøte i juni."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Avstemning om utsettelsesforslag fra SP, H, Krf, Frp, AP, V, SV og InP om å utsette saken til kommunestyremøte i juni.",
+      "alternativer": [
+        {
+          "navn": "For utsettelsesforslaget",
+          "stemmer": 30
+        },
+        {
+          "navn": "Imot utsettelsesforslaget",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For utsettelsesforslaget",
+      "roedt_stoettet": "For utsettelsesforslaget",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "namsos",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 35/2024",
+  "rodt_fremmet_forslag": false
+}

@@ -1,24 +1,11 @@
 {
-  "tittel": "Revidering av finansreglement",
-  "innstilling": "Formannskapets forslag til vedtak: Vedlagt finansreglement vedtas, i tråd med endringer redegjort for i saksframstilling. Hjemmel for vedtaket er: • Kommunelovens §14-15. • Forskrift om garantier og finans- og gjeldsforvaltning i kommuner og fylkeskommuner kapittel 2.",
-  "vedtak": "Vedlagt finansreglement vedtas, i tråd med endringer redegjort for i saksframstilling. Hjemmel for vedtaket er: • Kommunelovens §14-15. • Forskrift om garantier og finans- og gjeldsforvaltning i kommuner og fylkeskommuner kapittel 2.",
+  "tittel": "Interpellasjon om skoletilbudet i Namsos kommune for skoleåret 2024/2025",
+  "innstilling": null,
+  "vedtak": null,
   "alternative_forslag": [],
-  "voteringer": [
-    {
-      "beskrivelse": "Avstemning om formannskapets forslag til vedtak om revidering av finansreglement",
-      "alternativer": [
-        {
-          "navn": "For",
-          "stemmer": 34
-        }
-      ],
-      "hvem_vant": "For",
-      "roedt_stoettet": "For",
-      "roedt_paa_vinner_side": true
-    }
-  ],
+  "voteringer": [],
   "kommune": "namsos",
-  "dato": "08.02.2024",
+  "dato": "18.04.2024",
   "saksnummer_ps": "PS 2/2024",
   "rodt_fremmet_forslag": false
 }
