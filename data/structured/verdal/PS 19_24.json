@@ -1,0 +1,28 @@
+{
+  "tittel": "Regionalt næringsfond for Levanger og Verdal - revisjon av vedtekter",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Kommunestyret vedtar vedtekter for Verdal kommunes næringsfond.",
+    "Kommunestyret delegerer til kommunedirektøren å forvalte fondet og å innvilge tilskudd i henhold til vedtektene til næringsfondet.",
+    "Kommunestyret ber kommunedirektøren orientere om bruken av næringsfondet og ringvirkninger av dette årlig."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.02.2024",
+  "saksnummer_ps": "PS 19/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,28 @@
+{
+  "tittel": "PS 16/24 Forespørsel fra Inderøy kommune om mulig reservevann fra Verdal Vannverk",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Verdal kommune ser positivt på at Inderøy vannverk får tilgang til å benytte vann fra Verdal vannverk til reservevann og ordinær vannleveranse.",
+    "Kommunestyret gir kommunedirektøren fullmakt til å framforhandle forslag til avtale på at Verdal vannverk leverer reservevann til Inderøy Vannverk. Forslag til avtale sendes på høring til Levanger kommune før den sendes til Verdal kommunestyre til sluttbehandling.",
+    "Framforhandlet avtale skal godkjennes kommunestyre."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.02.2024",
+  "saksnummer_ps": "PS 16/24",
+  "rodt_fremmet_forslag": false
+}

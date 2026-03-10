@@ -1,0 +1,24 @@
+{
+  "tittel": "131/24 Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og sakliste godkjennes.",
+  "vedtak": "Innkalling og sakliste godkjennes. Sak om suppleringsvalg for Røroslista vil komme opp i førstkommende kommunestyre.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av innkalling og saksliste",
+      "alternativer": [
+        {
+          "navn": "Godkjent",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "Godkjent",
+      "roedt_stoettet": "Godkjent",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS-131/24",
+  "rodt_fremmet_forslag": false
+}

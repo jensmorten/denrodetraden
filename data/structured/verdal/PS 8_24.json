@@ -1,0 +1,33 @@
+{
+  "tittel": "PS 8/24 Vilgunn Øwre Haga - uttreden av folkevalgte verv grunnet flytting - oppnevning av nye representanter",
+  "innstilling": "Formannskapets innstilling om oppnevning av nye representanter og melding om flytting.",
+  "vedtak": [
+    "Kommunestyret tar melding om flytting til etterretning. Vilgunn Øwre Haga har rett til å tre inn i sine verv om hun flytter tilbake innen 01.02.26.",
+    "Else Seker rykker inn som fast medlem i kommunestyret for Rødt.",
+    "Nytt 3. varamedlem i integreringsrådet for H/SP/FRP/VDL: Else Seker (R)"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Oddleiv Aksnes (H)",
+      "tekst": "Forslag på 3. varamedlem i Integreringsrådet for felleslisten H/SP/FRP/VDL: Else Seker (R)"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslaget fra H/SP/FRP/VDL og formannskapets innstilling om oppnevning av nye representanter.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Forslaget fra H/SP/FRP/VDL og formannskapets innstilling",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.01.2024",
+  "saksnummer_ps": "PS 8/24",
+  "rodt_fremmet_forslag": false
+}

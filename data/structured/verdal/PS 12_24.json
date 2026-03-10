@@ -1,0 +1,60 @@
+{
+  "tittel": "PS 12/24 Helseplattformen - status innføring og oppdatert risikobilde pr. februar 2024",
+  "innstilling": "Formannskapets innstilling med vedtatt kulepunkt 3",
+  "vedtak": [
+    "1. Saken tas til orientering.",
+    "2. Kommunedirektøren bes fremme ny statusrapport innen utgangen av mai 2024. Statusrapporten skal inkludere kunnskapsgrunnlag på medarbeidernivå fra pågående gjennomgang av sektoren Helse og velferd, samt at partsgruppene inviteres til å bidra i evalueringen.",
+    "3. Vi må ta innover oss at innføringa Helseplattformen kan gå begge veier – også feil. Nye og gamle journalsystemer er under utvikling, og kommunedirektøren bes starte arbeidet med utredning av alternative løsninger for journalsystemer. Innen utgangen av mai bes kommunedirektøren legge fram statusrapport, som i tillegg belyser:",
+    "• Aktuelle alternativ til Helseplattformen.",
+    "• Alternativkostnad og alternativt innføringsforløp på aktuelle alternative løsninger grovskissers.",
+    "• Utrede kostnad og konsekvens ved eventuell uttredelse av Helseplattformen."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Oddleiv Aksnes (H) på vegne av H/SP/VDL/FRP",
+      "tekst": "Utrede kostnad og konsekvens ved eventuell uttredelse av Helseplattformen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitetserklæring for Gerd Janne Kristoffersen (AP)",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om forslag til nytt kulepunkt 3: 'Utrede kostnad og konsekvens ved eventuell uttredelse av Helseplattformen.'",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om formannskapets innstilling med vedtatt kulepunkt 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.02.2024",
+  "saksnummer_ps": "PS 12/24",
+  "rodt_fremmet_forslag": false
+}

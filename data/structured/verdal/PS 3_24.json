@@ -1,0 +1,24 @@
+{
+  "tittel": "Kommunale retningslinjer for startstønad til flyktninger",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Nye retningslinjer vedtas.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.01.2024",
+  "saksnummer_ps": "PS 3/24",
+  "rodt_fremmet_forslag": false
+}

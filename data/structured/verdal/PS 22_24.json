@@ -1,0 +1,33 @@
+{
+  "tittel": "PS 22/24 Interpellasjon fra Marita Røthe (V) - Kulturhuset Tindved?",
+  "innstilling": null,
+  "vedtak": "Oversendelsesforslag til formannskapet: Ei utreding av bruken av Tindved blir sett i gang så snart som muleg.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marita Røthe (V)",
+      "tekst": "Ei utreding av bruken av Tindved blir sett i gang så snart som muleg."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over oversendelsesforslaget fra Marita Røthe (V) om å sette i gang en utredning av bruken av Tindved.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 22
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 13
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.02.2024",
+  "saksnummer_ps": "PS 22/24",
+  "rodt_fremmet_forslag": false
+}

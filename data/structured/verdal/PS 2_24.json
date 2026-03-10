@@ -1,0 +1,27 @@
+{
+  "tittel": "PS 2/24 Ombygging inngangsparti NAV",
+  "innstilling": "Innstillingen fra formannskapet",
+  "vedtak": [
+    "Investeringer 2024 økes med 700.000 kr til ombygging inngangsparti NAV.",
+    "Investeringsutgiftene er finansiert med overføringer fra statlig NAV."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra formannskapet",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.01.2024",
+  "saksnummer_ps": "PS 2/24",
+  "rodt_fremmet_forslag": false
+}

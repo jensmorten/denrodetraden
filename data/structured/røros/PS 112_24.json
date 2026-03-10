@@ -1,0 +1,65 @@
+{
+  "tittel": "Tertialrapport 2 tertial 2024",
+  "innstilling": "1. Kommunestyret tar tertialrapporten til etterretning. Kommunedirektøren viderefører arbeidet med de fremlagte innsparingstiltakene og legger frem disse sammen med ytterligere innsparingstiltak ved behandling av handlings- og økonomiplan. Kommunestyret ser den alvorlige økonomiske situasjonen kommunen står i, og vil aktivt bidra til å bringe økonomien i balanse.\nForeslåtte budsjettendring hvor budsjettrammene for henholdsvis Helse og omsorg og Tekniske områder justeres ved at rammene for helse og omsorg reduseres med 571' og rammene for tekniske områder økes med 571' vedtas. Endringen har ingen effekt for kommunens samlede budsjett.",
+  "vedtak": "1. Kommunestyret tar tertialrapporten til etterretning. Kommunedirektøren viderefører arbeidet med de fremlagte innsparingstiltakene og legger frem disse sammen med ytterligere innsparingstiltak ved behandling av handlings- og økonomiplan. Kommunestyret ser den alvorlige økonomiske situasjonen kommunen står i, og vil aktivt bidra til å bringe økonomien i balanse.\n2. Foreslåtte budsjettendring hvor budsjettrammene for henholdsvis Helse og omsorg og Tekniske områder justeres ved at rammene for helse og omsorg reduseres med 571' og rammene for tekniske områder økes med 571' vedtas. Endringen har ingen effekt for kommunens samlede budsjett.\n3. Kommunestyret ber kommunedirektøren komme med en redegjørelse ,vedr. journalsystemet for legekontoret, sammen med kommuneoverlege evt. annet fagpersonell til førstkommende kommunestyremøte.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Per Arne Gjelsvik (V)",
+      "tekst": "Innføring av Helseplattformen ved Røros Legesentrer utsettes på ubestemt tid. Kommunestyret kan eventuelt innkalle tillitsvalgt og kommuneoverlege ved legesenteret til avklarende høring i saken."
+    },
+    {
+      "forslagsstiller": "Jon Anders Kokkvoll (Ap)",
+      "tekst": "Vi ber kommunedirektøren komme med en redegjørelse ,vedr. journalsystemet for legekontoret, sammen med kommuneoverlege evt. annet fagpersonell til førstkommende kommunestyremøte"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over kommunedirektørens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Venstre (Per Arne Gjelsvik)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 8
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 18
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag fra Røros AP (Jon Anders Kokkvoll)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 112/24",
+  "rodt_fremmet_forslag": false
+}

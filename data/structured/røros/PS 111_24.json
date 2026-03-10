@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av valgstyre - stortingsvalg og sametingsvalg 2025",
+  "innstilling": "Formannskapet velges som valgstyret i Røros kommune.",
+  "vedtak": "Formannskapet velges som valgstyret i Røros kommune. Ordfører velges til leder og varaordfører velges til nestleder.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunedirektørens forslag til valg av valgstyre",
+      "alternativer": [
+        {
+          "navn": "Formannskapet som valgstyret",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapet som valgstyret",
+      "roedt_stoettet": "Formannskapet som valgstyret",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "PS 111/24",
+  "rodt_fremmet_forslag": false
+}

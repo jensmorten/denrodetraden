@@ -1,0 +1,36 @@
+{
+  "tittel": "Detaljregulering for Ysterhagaen barnehage - ny sluttbehandling",
+  "innstilling": "Røros kommune vedtar forslag til detaljreguleringsplan for Ysterhagaen barnehage med planId 20220008. (jf. Plan og bygningsloven § 12-12). Kommunedirektøren kan gjøre nødvendige oppdateringer av øvrige plandokument i tråd med vedtatte plankart og planbestemmelser.",
+  "vedtak": "Røros kommune vedtar forslag til detaljreguleringsplan for Ysterhagaen barnehage med planId 20220008. (jf. Plan og bygningsloven § 12-12). Kommunedirektøren kan gjøre nødvendige oppdateringer av øvrige plandokument i tråd med vedtatte plankart og planbestemmelser.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for representant Tamnes",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om forslag til vedtak fra utvalg for plansaker",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "røros",
+  "dato": "12.12.2024",
+  "saksnummer_ps": "PS-133/24",
+  "rodt_fremmet_forslag": false
+}

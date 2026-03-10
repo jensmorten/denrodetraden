@@ -1,0 +1,33 @@
+{
+  "tittel": "119/24 Interpellasjon til kommunestyret 05.12.2024",
+  "innstilling": "Røros Høyre, Senterpartiet, Venstre, Røroslista, Rødt og Stein Petter Haugen vil foreslå at konsekvenser av en midlertidig stans i renoveringen av Røros Legesenter utredes og fremlegges. Styringsgruppe og andre samarbeidsfora fortsetter sitt løpende arbeid.",
+  "vedtak": "Opprinnelig forslag til vedtak fra interpellant Gjelsvik ble erstattet av endringsforslag fra partiene Høyre, Senterpartiet, Venstre, Røroslista, Rødt og den uavhengige representanten, Stein Petter Haugen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Repr. Kjell Magnus Krog (H)",
+      "tekst": "Forslag om konsekvenser av en midlertidig stans i renoveringen av Røros Legesenter utredes og fremlegges, og at styringsgruppe og andre samarbeidsfora fortsetter sitt løpende arbeid."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fra repr. Krog",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 11
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_side": "Taper"
+    }
+  ],
+  "kommune": "røros",
+  "dato": "05.12.2024",
+  "saksnummer_ps": "PS 119/24",
+  "rodt_fremmet_forslag": false
+}

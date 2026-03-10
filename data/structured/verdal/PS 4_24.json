@@ -1,0 +1,51 @@
+{
+  "tittel": "PS 4/24 Anmodning om bosetting av flyktninger i 2024",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Verdal kommune er positiv til IMDi sin anmodning om å bosette 204 flyktninger i 2024.",
+    "På grunn av mulige kapasitetsutfordringer innen helse, skole, barnehage og framskaffelse av boliger har ikke Verdal kommune mulighet til å bosette utover anmodning på 204 flyktninger i 2024.",
+    "Kommunedirektøren bes gjøre nødvendige organisatoriske forberedelser med tanke på mottak av flyktninger i 2024.",
+    "Kommunedirektøren gis fullmakt til å gjøre budsjettendringer.",
+    "Kommunestyret ber kommunedirektøren orientere utvalg mennesker og livskvalitet om status for bosetting og oppfølging av flyktninger innen juni 2024."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP v/Fredrik Grevskott",
+      "tekst": "Kommunestyret er opptatt av kommunen sin kapasitet til å ta imot flyktninger på en forsvarlig måte. Kommunestyret ønsker et økt fokus på barn i barneskolealder og ungdomsskolealder i skolen og teamet rundt elevene. Vi er bekymret for kommunen sin kapasitet til å bistå barn og unge med traumer og alvorlige opplevelser fra krig. Kommunestyret ønsker å utforske muligheter til å styrke deltagelsen på fritidsaktiviteter og språkkompetanse i disse områdene. Eks Panzer, idrettslag eller andre aktivitetstilbud."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 35
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra AP v/Fredrik Grevskott - nytt pkt. 6",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 22
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.01.2024",
+  "saksnummer_ps": "PS 4/24",
+  "rodt_fremmet_forslag": false
+}

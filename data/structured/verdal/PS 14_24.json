@@ -1,0 +1,33 @@
+{
+  "tittel": "PS 14/24 Fastsetting av promillesats eiendomsskatt 2024",
+  "innstilling": "I medhold av Eiendomsskatteloven §§ 2, 3 og 10 fastsettes eiendomsskattesatser for 2024 slik:\na) 2,5 promille i hele kommunen for alle bolig og fritidseiendommer\nb) 4,5 promille i hele kommunen for øvrige eiendommer\nSkattesatsene er beregnet for å gi skatteinntekter på 44 mill.",
+  "vedtak": "I medhold av Eiendomsskatteloven §§ 2, 3 og 10 fastsettes eiendomsskattesatser for 2024 slik:\na) 2,5 promille i hele kommunen for alle bolig og fritidseiendommer\nb) 4,5 promille i hele kommunen for øvrige eiendommer\nSkattesatsene er beregnet for å gi skatteinntekter på 44 mill.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Oddleiv Aksnes (H) på vegne av H/FRP",
+      "tekst": "I medhold av Eiendomsskatteloven § 2, 3 og 10 fastsettes eiendomsskattesatser slik:\na) 2,6 promille i hele kommunen for alle bolig og fritidseiendommer.\nb) 4,0 promille i hele kommunen for øvrige eiendommer.\nSkattesatsene er beregnet for å gi skatteinntekter på 44 mill."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstiling og forslaget fra H/FRP",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 21
+        },
+        {
+          "navn": "Forslaget fra H/FRP",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoette": "Forslaget fra H/FRP",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.02.2024",
+  "saksnummer_ps": "PS 14/24",
+  "rodt_fremmet_forslag": false
+}

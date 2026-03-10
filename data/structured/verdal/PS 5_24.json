@@ -1,0 +1,33 @@
+{
+  "tittel": "Svar interpellasjon fra FRP om å gjeninnføre MOT i skolene",
+  "innstilling": "MOT innføres ikke som tiltak i grunnskolene i Verdal, fordi kommunen jobber med flere nasjonale føringer og forebyggende tiltak som skal innføres og implementeres, sammen med vedtatte forebyggende plan.",
+  "vedtak": "Mot i skolene innføres ikke på nåværende tidspunkt. Det bes om at det gjøres ei ny vurdering våren 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Trine Reitan (AP)",
+      "tekst": "MOT innføres ikke som tiltak i grunnskolene i Verdal, fordi kommunen jobber med flere nasjonale føringer og forebyggende tiltak som skal innføres og implementeres, sammen med vedtatte forebyggende plan."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling og forslaget fra AP",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 25
+        },
+        {
+          "navn": "Forslaget fra AP",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Forslaget fra AP",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.01.2024",
+  "saksnummer_ps": "PS 5/24",
+  "rodt_fremmet_forslag": false
+}
