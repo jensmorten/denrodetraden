@@ -1,0 +1,33 @@
+{
+  "tittel": "Sak 103/2024 - Barnehagebygg: Anbefalinger og prioriteringer",
+  "innstilling": "1. Kommunestyret tar utredningen til orientering. Utbygginger, nybygg og vesentlige endringer skal til politisk behandling, og må sees i sammenheng med det totale barnehagetilbudet.\n2. Kommunedirektøren bes vurdere innarbeidelse av prosjekter i kommende rulleringer av økonomiplanene.",
+  "vedtak": "1. Kommunestyret tar utredningen til orientering. Utbygginger, nybygg og vesentlige endringer skal til politisk behandling, og må sees i sammenheng med det totale barnehagetilbudet.\n2. Kommunedirektøren bes vurdere innarbeidelse av prosjekter i kommende rulleringer av økonomiplanene.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP v/Fredrik Grevskott",
+      "tekst": "Kommunestyret slutter seg ikke til anbefalingene og prioriteringer for barnehagebygg. Utvalget ønsker ikke å belaste investeringsbudsjettet ytterligere og ønsker at kun at høyst nødvendig vedlikehold og utbedringer av eksisterende bygg gjennomføres."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling og forslaget fra AP",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 20
+        },
+        {
+          "navn": "Forslaget fra AP",
+          "stemmer": 15
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Forslaget fra AP",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "30.09.2024",
+  "saksnummer_ps": "PS 103/24",
+  "rodt_fremmet_forslag": false
+}

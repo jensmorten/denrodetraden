@@ -1,0 +1,103 @@
+{
+  "tittel": "Fra 3 til 2 administrasjonsbygg",
+  "innstilling": [
+    "Ørland kommune går fra 3 til 2 administrasjonsbygg.",
+    "Gamle Bjugn rådhus avhendes og legges ut for salg."
+  ],
+  "vedtak": [
+    {
+      "organ": "Kommunestyre",
+      "dato": "18.04.2024",
+      "sak": "KST - 24/044",
+      "tekst": [
+        "Ørland kommune går fra 3 til 2 administrasjonsbygg.",
+        "Gamle Bjugn rådhus avhendes og legges ut for salg."
+      ]
+    },
+    {
+      "organ": "Formannskap",
+      "dato": "11.04.2024",
+      "sak": "FSK - 24/031",
+      "tekst": [
+        "Ørland kommune går fra 3 til 2 administrasjonsbygg.",
+        "Gamle Bjugn rådhus avhendes og legges ut for salg."
+      ]
+    },
+    {
+      "organ": "Arbeidsmiljøutvalget",
+      "dato": "10.04.2024",
+      "sak": "AMU - 24/005",
+      "tekst": [
+        "AMU vedtar kommunedirektørens innstilling."
+      ]
+    }
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag i Kommunestyret 18.04.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": {
+            "AP": 8,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag i Formannskapet 11.04.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7,
+          "partier": {
+            "AP": 2,
+            "H": 2,
+            "INP": 1,
+            "SP": 2
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": null,
+      "roedt_side": null
+    },
+    {
+      "beskrivelse": "Votering i Arbeidsmiljøutvalget 10.04.2024",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": null
+        }
+      ],
+      "vinner": "Enstemmig vedtatt",
+      "roedt_stoette": null,
+      "roedt_side": null
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "24/044",
+  "rodt_fremmet_forslag": false
+}

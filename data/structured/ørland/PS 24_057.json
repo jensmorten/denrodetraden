@@ -1,0 +1,39 @@
+{
+  "tittel": "Sluttbehandling av kommunedelplan helse og familie 2024 - 2036",
+  "innstilling": "Ørland kommune, ved kommunestyret, vedtar med hjemmel i plan - og bygningsloven § 11-15 kommunedelplan Helse og familie 2024 - 2036.",
+  "vedtak": "Ørland kommune, ved kommunestyret, vedtar med hjemmel i plan - og bygningsloven § 11-15 kommunedelplan Helse og familie 2024 - 2036.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Utvalg for helse og familie i møte 23.05.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": {
+            "AP": 7,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 24/057",
+  "rodt_fremmet_forslag": false
+}

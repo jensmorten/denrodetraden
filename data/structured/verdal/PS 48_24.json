@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 48/24 Etablering av legesenter - utredning av lokalisering",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Saken tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vurdering av habilitet for Odd Helge Roksvåg",
+      "alternativer": [
+        {
+          "navn": "Inhabil",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Inhabil",
+      "roedt_stoettet": "Inhabil",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Vedtak av formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 34
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.04.2024",
+  "saksnummer_ps": "PS 48/24",
+  "rodt_fremmet_forslag": false
+}

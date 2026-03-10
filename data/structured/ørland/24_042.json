@@ -1,0 +1,102 @@
+{
+  "tittel": "Kommunal Garanti SAVA AS",
+  "innstilling": [
+    "Ørland kommune garanterer med selvskyldnerkausjon for lån som SAVA AS tar opp til finansiering av bygg.",
+    "Kausjonen gjelder for lånets hovedstol maksimalt kroner 1.440.000 med tillegg av 10 % av til enhver tid gjeldende hovedstol til dekning av eventuelle påløpte renter og kostnader. Det maksimale beløpet som det kausjoneres for er kroner 1.584.000",
+    "Kausjonsansvaret gjelder fra 01.05.2024 og opphører 15.01.2029 med tillegg av 2 år."
+  ],
+  "vedtak": [
+    "Mona Sjøli H og Britt Eli Døsvik SP meldte seg inhabil i saken, da de sitter som medlemmer i styret i Sava.",
+    "Følgende ble valgt som setteordfører: Eirik Lundemo H",
+    "Følgende ble valgt som settevaraordfører: Tonje Bakken Nervik SP",
+    "Ørland kommune garanterer med selvskyldnerkausjon for lån som SAVA AS tar opp til finansiering av bygg.",
+    "Kausjonen gjelder for lånets hovedstol maksimalt kroner 1.440.000 med tillegg av 10 % av til enhver tid gjeldende hovedstol til dekning av eventuelle påløpte renter og kostnader. Det maksimale beløpet som det kausjoneres for er kroner 1.584.000",
+    "Kausjonsansvaret gjelder fra 01.05.2024 og opphører 15.01.2029 med tillegg av 2 år."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Valg av setteordfører og settevaraordfører til behandling av saken",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": {
+            "AP": 8,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Formannskapets innstilling fra møte 11.04.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 24,
+          "partier": {
+            "AP": 8,
+            "FRP": 2,
+            "H": 5,
+            "INP": 1,
+            "MDG": 1,
+            "SP": 6,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 5,
+          "partier": {
+            "INP": 3,
+            "Rødt": 1,
+            "SV": 1
+          }
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Formannskapets møte 11.04.2024 - Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7,
+          "partier": {
+            "AP": 2,
+            "H": 2,
+            "INP": 1,
+            "SP": 2
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": null,
+      "roedt_side": null
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "24/042",
+  "rodt_fremmet_forslag": false
+}

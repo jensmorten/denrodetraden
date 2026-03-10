@@ -1,0 +1,99 @@
+{
+  "tittel": "Tertialregnskap 2/2024 Ørland kommune",
+  "innstilling": "Tertialrapport 2/2024 for Ørland kommune tas til orientering",
+  "vedtak": "Tertialrapport 2/2024 for Ørland kommune tas til orientering.\nKommunestyret ber om at tertialrapportene har spesifikk informasjon om følgende for alle deler av kommunens organisasjon:\n- Antall årsverk\n- Prosent sykefravær\n- Kostnader overtid\n- Kostnader innleie\n- Spesifisert Merforbruk/Mindreforbruk",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "Kommunestyret ber om at tertalrapportene har spesifikk informasjon om følgende for alle deler av kommunens organisasjon:\nAntall årsverk\nProsent sykefravær\nKostnader overtid\nKostnader innleie\nSpesifisert Merforbruk/Mindreforbruk"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra formannskapets møte 05.09.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 1",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "For",
+      "rodt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Tilleggsforslag fra Rødt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 26,
+          "partier": [
+            "AP 7",
+            "FRP 1",
+            "H 3",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 4,
+          "partier": [
+            "AP 1",
+            "H 3"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "For",
+      "rodt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Formannskapets møte 05.09.2024 - Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 6,
+          "partier": [
+            "AP 1",
+            "H 2",
+            "INP 1",
+            "SP 2"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "Ikke til stede",
+      "rodt_side": "ikke relevant"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "12.09.2024",
+  "saksnummer_ps": "24/104",
+  "rodt_fremmet_forslag": true
+}

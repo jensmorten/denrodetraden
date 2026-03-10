@@ -1,0 +1,76 @@
+{
+  "tittel": "Samarbeidsavtaler for interkommunale samarbeid i Fosenregionen",
+  "innstilling": "Ørland kommunestyre vedtar Håndbok for interkommunale samarbeid i Fosenregionen og samarbeidsavtaler for samarbeidsordningene i Fosenregionen, som vedlagt.",
+  "vedtak": "Ørland kommunestyre vedtar Håndbok for interkommunale samarbeid i Fosenregionen og samarbeidsavtaler for samarbeidsordningene i Fosenregionen, som vedlagt.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole Edvard Antonse, Rødt",
+      "tekst": "Saken utsettes til neste møte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag - Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": {
+            "AP": 8,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag - Forslag fra Ole Edvard Antonse, Rødt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 21,
+          "partier": {
+            "AP": 7,
+            "FRP": 1,
+            "H": 3,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 2,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 8,
+          "partier": {
+            "AP": 1,
+            "H": 3,
+            "SP": 4
+          }
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "24/037",
+  "rodt_fremmet_forslag": true
+}

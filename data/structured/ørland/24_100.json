@@ -1,0 +1,49 @@
+{
+  "tittel": "Forvaltnings- og driftsavtale for hv-brakka",
+  "innstilling": "Ørland kommunestyre godkjenner fremforhandlet avtale med Frivillighetens hus Austrått",
+  "vedtak": "Ørland kommunestyre godkjenner fremforhandlet avtale med Frivillighetens hus Austrått",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marit Sletten, Industri- og Næringspartiet",
+      "tekst": "1. HV-brakka tilbys solgt til Forum Ørland for 1,-. Om salget gjennomføres, skal det gis forkjøpsrett til Ørland Kommune ved videre salg av HV-brakka.\n2. Om ikke tilbudet om kjøp av HV-brakka realiseres, gis administrasjonen i oppdrag å legge HV-brakka ut for salg."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 16,
+          "partier": {
+            "AP": 3,
+            "FRP": 2,
+            "H": 3,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 4,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Forslag fra INP - Salg av HV-brakka",
+          "stemmer": 15,
+          "partier": {
+            "AP": 5,
+            "H": 3,
+            "INP": 4,
+            "SP": 3
+          }
+        }
+      ],
+      "hvem_vant": "Opprinnelig forslag",
+      "roedt_stoettet": "Opprinnelig forslag",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "24/100",
+  "rodt_fremmet_forslag": false
+}

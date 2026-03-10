@@ -1,0 +1,24 @@
+{
+  "tittel": "Spørretimen/Interpellasjoner",
+  "innstilling": "Spørsmål og interpellasjoner ble tatt til orientering og behandlet under sine respektive saksnummer.",
+  "vedtak": "Spørsmål og interpellasjoner ble tatt til orientering og behandlet under sine respektive saksnummer.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av interpellasjon FI 24/014",
+      "alternativer": [
+        {
+          "navn": "Vedtak",
+          "stemmer": "Ikke spesifisert"
+        }
+      ],
+      "hvem_vant": "Vedtak",
+      "rodt_stoettet": "Vedtak",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/066",
+  "rodt_fremmet_forslag": false
+}

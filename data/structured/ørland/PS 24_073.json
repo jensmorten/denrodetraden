@@ -1,0 +1,33 @@
+{
+  "tittel": "Nye vinduer Austrått gård",
+  "innstilling": "Kommunestyret avslår søknad fra Yrjar Heimbygdslag på kr. 220.000 til materialkostnader til skifte av vinduer i 1. etasje driftsbygning Austrått Gård som eies av Ørland kommune.",
+  "vedtak": "Kommunestyret innvilger søknaden fra Yrjar Heimbygdslag på kr 220 000,-, til materialkostnader til skifte av vinduer i 1. etasje driftsbygning Austrått Gård, som eies av Ørland kommune. Arbeidet skal utføres på dugnad av Yrjar Heimbygdslag.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Sp, Høyre, INP, Venstre og Frp, foreslått av Britt Eli Døsvik, Senterpartiet",
+      "tekst": "Kommunestyret innvilger søknaden fra Yrjar Heimbygdslag på kr 220 000,-, til materialkostnader til skifte av vinduer i 1. etasje driftsbygning Austrått Gård, som eies av Ørland kommune. Arbeidet skal utføres på dugnad av Yrjar Heimbygdslag."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 11
+        },
+        {
+          "navn": "Forslag fra Sp, Høyre, INP, Venstre og Frp",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Forslag fra Sp, Høyre, INP, Venstre og Frp",
+      "roedt_stoettet": "Opprinnelig forslag",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/073",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,65 @@
+{
+  "tittel": "PS 80/24 Stiklestad Amfi - oppgradering av tribunefasiliteter",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Kommunedirektøren gis fullmakt til å forhandle med Trøndelag fylkeskommune, SNK/Museene Arven og evt. andre mulige partnere med sikte på å finansiere en tilbudskonkurranse på totalentreprise for rehabilitering av sittegruppene tilhørende spelamfiet på Stiklestad innenfor en samlet ramme på MNOK 5.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Verdalslista v/Arve Haldorsen",
+      "tekst": "Saken utsettes, tas opp til vurdering i forbindelse med budsjett for 2025."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om habilitet for Sverre Bjarne Inndal",
+      "alternativer": [
+        {
+          "navn": "Inndal habil",
+          "stemmer": 28
+        },
+        {
+          "navn": "Inndal inhabil",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "Inndal habil",
+      "rodt_stoette": "Inndal inhabil",
+      "rodt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om utsettelsesforslaget fra Verdalslista v/Arve Haldorsen",
+      "alternativer": [
+        {
+          "navn": "Utsettelsesforslaget vedtatt",
+          "stemmer": 6
+        },
+        {
+          "navn": "Utsettelsesforslaget falt",
+          "stemmer": 27
+        }
+      ],
+      "hvem_vant": "Utsettelsesforslaget falt",
+      "rodt_stoette": "Utsettelsesforslaget falt",
+      "rodt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering om formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Innstillingen vedtatt",
+          "stemmer": 31
+        },
+        {
+          "navn": "Innstillingen forkastet",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "Innstillingen vedtatt",
+      "rodt_stoette": "Innstillingen vedtatt",
+      "rodt_side": "vinner"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "24.06.2024",
+  "saksnummer_ps": "PS 80/24",
+  "rodt_fremmet_forslag": false
+}

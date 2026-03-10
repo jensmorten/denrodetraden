@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og saksliste godkjent uten merknad.",
+  "vedtak": "Innkalling og saksliste godkjent uten merknad.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innkalling og saksliste med merknader ble enstemmig vedtatt ved manuell votering.",
+      "alternativer": [
+        {
+          "navn": "Godkjent",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Godkjent",
+      "roedt_stoettet": "Godkjent",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "12.09.2024",
+  "saksnummer_ps": "24/102",
+  "rodt_fremmet_forslag": false
+}

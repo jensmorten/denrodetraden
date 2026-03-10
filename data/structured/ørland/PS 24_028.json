@@ -1,0 +1,62 @@
+{
+  "tittel": "24/028 Søknad på Nkom midler for bredbåndsutbygging",
+  "innstilling": "1. Ørland kommune melder inn følgende områder på offentlig bredbåndsmidler (NKOM) for 2024 i følgende prioritering:\n• Djupfest – Nes: 50 stk er tilskuddsberettiget\n• Gjølga - 48 stk som er tilskuddsberettiget\n• Elveng - 23 stk er tilskuddsberettiget\n• Flatneset - 12 stk er tilskuddsberettiget\n2. Ørland kommune tar endelig beslutning om deltakelse i prosjekter når kostnadsramme og finansiering er avklart. Det legges fram en sak til politisk behandling.",
+  "vedtak": "1. Ørland kommune melder inn følgende områder på offentlig bredbåndsmidler (NKOM) for 2024 i følgende prioritering:\n• Djupfest – Nes: 50 stk er tilskuddsberettiget\n• Gjølga - 48 stk som er tilskuddsberettiget\n• Elveng - 23 stk er tilskuddsberettiget\n• Flatneset - 12 stk er tilskuddsberettiget\n2. Ørland kommune tar endelig beslutning om deltakelse i prosjekter når kostnadsramme og finansiering er avklart. Det legges fram en sak til politisk behandling.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Formannskapets innstilling fra møte 07.03.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": {
+            "AP": 8,
+            "FRP": 1,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag i Formannskapet 07.03.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7,
+          "partier": {
+            "AP": 2,
+            "H": 1,
+            "INP": 1,
+            "SP": 2,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 24/028",
+  "rodt_fremmet_forslag": false
+}

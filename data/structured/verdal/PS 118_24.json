@@ -1,0 +1,32 @@
+{
+  "tittel": "Avvikling av Leksdal barnehage",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Leksdal barnehage avvikles 1.august 2025.",
+    "Barna og foreldrene, ivaretas med gode overgangsplaner som beskrevet i saken.",
+    "Bevilging til omgjøring av Leksdal skole for flytting av Leksdal barnehage (PS 38/2023) oppheves."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Imot",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "28.10.2024",
+  "saksnummer_ps": "PS 118/24",
+  "rodt_fremmet_forslag": false
+}

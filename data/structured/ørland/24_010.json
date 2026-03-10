@@ -1,0 +1,55 @@
+{
+  "tittel": "24/010 Tilbakemelding fra kommunale kunstutvalget",
+  "innstilling": [
+    "Tilbakemeldingen tas til etterretning",
+    "Ørland kommune bevilger kr 320.000 til finansiering av det videre arbeidet i det kommunale kunstutvalget.",
+    "Det videre arbeidet omfatter:",
+    "Det etableres et felles lager hvor all kunst som ikke blir benyttet blir oppbevart.",
+    "Bildene er ikke merket med: Eier, nummer, kunstner. Dette bør gjøres. Det foreslås å begynne arbeidet med å merke alle bildene med info på baksiden av hvert bilde/kunstverk. Dette pga. at kunstverkene kan flyttes og da mister man informasjonen.",
+    "Kunsten er ikke verdivurdert. Det foreslås å gjennomføre en verdivurdering av kunsten som er kartlagt.",
+    "Kunst som er ødelagt eller har stor verdi bør vurderes å få nye rammer og glass slik at de ivaretas etter dagens standard.",
+    "Kunsten kurateres og settes ut der det passer i våre offentlige rom. Kunstverkene bør presenteres på beste mulig måte. Det vises til \"Retningslinjer for kunst i kommunale bygg og uterom i Ørland Kommune\" punkt 1.1 og 1.2"
+  ],
+  "vedtak": "Saken utsettes og fremmes på nytt i forbindelse med budsjett 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Høyre, INP og Sp (Britt Eli Døsvik, Senterpartiet)",
+      "tekst": "Saken utsettes og fremmes på nytt i forbindelse med budsjett 2025."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Høyre, INP og Sp om utsettelse av saken",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 26,
+          "partier": [
+            "AP 7",
+            "FRP 2",
+            "H 5",
+            "INP 3",
+            "MDG 1",
+            "SP 6",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "Rødt 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "25.01.2024",
+  "saksnummer_ps": "24/010",
+  "rodt_fremmet_forslag": false
+}

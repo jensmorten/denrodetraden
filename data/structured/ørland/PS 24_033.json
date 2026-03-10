@@ -1,0 +1,33 @@
+{
+  "tittel": "Samarbeidsavtaler for interkommunale samarbeid i Fosenregionen",
+  "innstilling": "Ørland kommunestyre vedtar Håndbok for interkommunale samarbeid i Fosenregionen og samarbeidsavtaler for samarbeidsordningene i Fosenregionen, som vedlagt.",
+  "vedtak": "Saken utsettes til neste møte.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "Saken utsettes til neste møte."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Ole Edvard Antonsen, Rødt om utsettelse av saken til neste møte.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 21
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 8
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 24/033",
+  "rodt_fremmet_forslag": true
+}

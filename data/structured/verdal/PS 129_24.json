@@ -1,0 +1,558 @@
+{
+  "tittel": "PS 129/24 Økonomiplan 2025-2028 og Budsjett 2025",
+  "innstilling": "Budsjett 2025 og Økonomiplan 2025-2028 vedtas i samsvar med saksfremlegg og de premiss og analyser som følger av nettversjonen av økonomiplanen. Summer korrigeres i henhold til forslag fra SP, FrP, H og VL med spesifikke økninger og reduksjoner innen oppvekst, helse og velferd, næring, samfunn, stab og støtte, samt utbytte fra NTE. Endringer salderes mot disposisjonsfond. Økonomiplanen justeres med politisk sak 128/24 og renovering av rådhus 2.etasje tas ut av investeringsplanen.",
+  "vedtak": {
+    "1": "Budsjett 2025 og Økonomiplan 2025-2028 vedtas i samsvar med saksfremlegg med korrigeringer for oppvekst, helse og velferd, næring, samfunn, stab og støtte, samt utbytte fra NTE. Endringer salderes mot disposisjonsfond.",
+    "2": "Eiendomsskatt beholdes på dagens nivå med fastsatte satser og fritak i henhold til eiendomsskatteloven.",
+    "3": "Økonomireglement for 2025 vedtas i samsvar med vedlagt dokument.",
+    "4": "Eierskapsmelding for 2024 vedtas.",
+    "5": "Nye gebyr- og betalingssatser for 2025 vedtas som i kapittelet gebyrliste i Framsikt.",
+    "6": "Ramme for låneopptak til videreutlån/etableringslån settes til 100 millioner kroner.",
+    "7": "Rammer for låneopptak til investeringer settes til inntil 354,26 millioner kroner med delegasjon til kommunedirektør for valg av långiver og justeringer.",
+    "8": "Kommunaldirektøren får fullmakt til tekniske/administrative justeringer av budsjett og økonomiplan.",
+    "9": "Kommunedirektør har fullmakt til administrative tilpasninger for å oppfylle realismekrav i kommuneloven.",
+    "10": "Rammetilskuddet økes med 2.901.000 kr, med økte bevilgninger til grunnskoletjenester og barnehage, justeres administrativt ved endelig vedtak.",
+    "11": "Økte skatte- og rammetilskudd skal brukes til økte driftsrammer for å unngå brudd på lov, norm og spareskader.",
+    "12-22": "En rekke verbalforslag vedtatt, blant annet om Verdal 2040, rapportering av årsverksutvikling, bredbåndsutbygging, evaluering av SFO, energiutredning, bygging av VBB 2, kompensasjon for mineralarealer, tusenårsjubileet, rusforebygging, dag-/aktivitetstilbud for personer med demens og bevaring av motivasjonspenger til ATA-senteret."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "H/SP/VDL/FRP",
+      "tekst": "Alternativt forslag med økninger i barnehageinntak, styrking skole, demenskoordinator, reduksjon i administrasjon, bevilgning til leiesatser, utbytte fra NTE, og utredning av skolestruktur med opprettholdelse av to ungdomsskoler. Inkluderer også verbalforslag om Verdal 2040, rapportering årsverksutvikling, bredbåndsutbygging, SFO, energiutredning."
+    },
+    {
+      "forslagsstiller": "AP v/Trine Reitan",
+      "tekst": "Alternativt forslag med endringer i driftsbudsjett, inkludert rentemargin, kommunalsjef samfunn & næring, barnehageopptak, tverrfaglig boligrådgivingsgruppe, NTE-utbytte, lærertetthet, kutt i administrasjon, trivselstiltak, rehabilitering, fond, og investeringsbudsjett. Inkluderer verbalforslag om arealpolitikk, VBB 2, retningslinjer for NTE-utbytte, gjeldsgrad, forebygging, skolestruktur, familiehjelpa, helsesykepleiere, tusenårsjubileet, frivillighetskoordinator, rusforebygging."
+    },
+    {
+      "forslagsstiller": "INP v/Linn Kristin Johnsen",
+      "tekst": "Forslag om utsettelse av VBB byggetrinn 2 til budsjettbehandling for 2026 med ny økonomisk vurdering. Verbalforslag om politisk sak for å bevare motivasjonspengene til brukerne på ATA-senteret."
+    },
+    {
+      "forslagsstiller": "SV og UAV (Hildrum)",
+      "tekst": "Alternativt budsjettforslag med økt rammetilskudd, styrking av grunnskole og barnehage, opprettholdelse av skolestruktur, eiendomsskatt uten fritak for visse eiendommer, nye retningslinjer for NTE-utbytte, og verbalforslag om økonomirapport og ansettelse."
+    },
+    {
+      "forslagsstiller": "Venstre v/Marita Røthe",
+      "tekst": "Verbalforslag om styrking av grunnbemanning i barnehager og utvidelse av dag-/aktivitetstilbud for personer med demens."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Formannskapets innstilling pkt. 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 0
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Forslag fra INP om VBB",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 1
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 32
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Alternativt forslag fra SV/UAV",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 1
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "APs alternative forslag mot H/SP/VDL/FRP sitt forslag til pkt. 1",
+      "alternativer": [
+        {
+          "navn": "H/SP/VDL/FRP",
+          "stemmer": 21
+        },
+        {
+          "navn": "AP, SV og UAV",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "H/SP/VDL/FRP",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling pkt. 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 21
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 12
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling pkt. 3 til pkt. 9",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling pkt. 10 alternativt mot forslag til pkt. 10 fra H/SP/VDL/FRP",
+      "alternativer": [
+        {
+          "navn": "H/SP/VDL/FRP",
+          "stemmer": 23
+        },
+        {
+          "navn": "Formannskapets innstilling (AP)",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "H/SP/VDL/FRP",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Formannskapets innstilling pkt. 11",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Samlet votering punktene 1 til og med 11",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 23
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 10
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag fra H/SP/VDL/FRP pkt. 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag fra H/SP/VDL/FRP pkt. 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag fra H/SP/VDL/FRP pkt. 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag fra H/SP/VDL/FRP pkt. 4",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag fra H/SP/VDL/FRP pkt. 5",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 1 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 10
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 2 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 32
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Verbalforslag 3 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 12
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 4 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 32
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Verbalforslag 5 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 6 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 12
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 7 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 19
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 8 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 9 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 19
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 10 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 13
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 11 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Verbalforslag 12 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 11
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 22
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 13 fra AP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Verbalforslag 1 fra SV/UAV",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 2
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 2 fra SV/UAV",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 19
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 1 fra V",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 18
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Verbalforslag 2 fra V",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Verbalforslag 1 fra INP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 33
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Taper"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 129/24",
+  "rodt_fremmet_forslag": false
+}

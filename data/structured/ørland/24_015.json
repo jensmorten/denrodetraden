@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av protokollunderskrivere",
+  "innstilling": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Therese M. Eidsaune (H)\n• Ogne Undertun (AP)",
+  "vedtak": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Therese M. Eidsaune (H)\n• Ogne Undertun (AP)",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen ble enstemmig vedtatt ved manuell votering.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "15.02.2024",
+  "saksnummer_ps": "24/015",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,75 @@
+{
+  "tittel": "Evaluering - organisering kommunalt næringsarbeid og oppgaver/tjenester i kommunale foretak",
+  "innstilling": "Saken tas til orientering.",
+  "vedtak": "Saken tas til orientering.\nRepresentant fra Landbrukskontoret inn i prosjektgruppe.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jan-Inge Standahl, Senterpartiet",
+      "tekst": "Nytt kulepunkt: Representant fra Landbrukskontoret inn i prosjektgruppe."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Nytt kulepunkt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 4",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2,
+          "partier": [
+            "H 2"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "24/039",
+  "rodt_fremmet_forslag": false
+}

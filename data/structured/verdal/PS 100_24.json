@@ -1,0 +1,49 @@
+{
+  "tittel": "Sak 100/2024 - Skånsom kraftutbygging i Verdalsvassdraget",
+  "innstilling": "Kommunestyret ber kommunedirektøren følge opp NTE, SINTEF og NTNUs igangsatte arbeid med å se nærmere på hvilke muligheter som ligger i en skånsom kraftutbygging i Verdalsvassdraget, både med tanke på flomsikring, kraftproduksjon og bedring av forholdene for laksen. Det bevilges kr. 300.000,- til finansiering av utgifter knyttet til oppfølging av saken. Beløpet finansieres over disposisjonsfondet.",
+  "vedtak": "Kommunestyret ber kommunedirektøren følge opp NTE, SINTEF og NTNUs igangsatte arbeid med å se nærmere på hvilke muligheter som ligger i en skånsom kraftutbygging i Verdalsvassdraget, både med tanke på flomsikring, kraftproduksjon og bedring av forholdene for laksen. Det bevilges kr. 300.000,- til finansiering av utgifter knyttet til oppfølging av saken. Beløpet finansieres over disposisjonsfondet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP v/Trine Reitan",
+      "tekst": "Kommunestyret ber kommunedirektøren følge opp NTE, SINTEF og NTNUs igangsatte arbeid med å se nærmere på hvilke muligheter som ligger i en skånsom kraftutbygging i Verdalsvassdraget, både med tanke på kraftproduksjon, flomsikring og bedring av forholdene for laksen. Det bevilges kr. 300.000,- til finansiering av utgifter knyttet til oppfølging av saken. Beløpet finansieres over kraftfondet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra AP",
+      "alternativer": [
+        {
+          "navn": "Forslag fra AP",
+          "stemmer": 12
+        },
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Forslag fra AP",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 34
+        },
+        {
+          "navn": "Mot (SV)",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Forslag fra AP",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "30.09.2024",
+  "saksnummer_ps": "PS 100/24",
+  "rodt_fremmet_forslag": false
+}

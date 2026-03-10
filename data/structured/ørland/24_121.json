@@ -1,0 +1,29 @@
+{
+  "tittel": "Salg av Tarva skole",
+  "innstilling": [
+    "Ørland kommunestyret godtar tilbud fra Forsvarsbygg om kjøp av Tarva skole",
+    "Det forutsettes at Forsvarsbygg overtar leiekontrakten med Tarva velforening eller inngår ny leieavtale",
+    "Det delegeres til administrasjonen å inngå endelig avtale og kontrahering med kjøper",
+    "Overskudd fra salget benyttes til nedbetaling av gjeld"
+  ],
+  "vedtak": "Saken ble utsatt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak av saken om salg av Tarva skole",
+      "alternativer": [
+        {
+          "navn": "Utsatt",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Utsatt",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "24/121",
+  "rodt_fremmet_forslag": false
+}

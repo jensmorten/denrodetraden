@@ -1,0 +1,48 @@
+{
+  "tittel": "Prosess med mulig overtagelse av Teksdalen vannverk - Orientering",
+  "innstilling": [
+    "Saken tas til orientering",
+    "Ørland kommune skal utrede konsekvensene av både",
+    "• Fortsatt privat drift ved Teksdalen vannverk",
+    "• Kommunal overtagelse av Teksdalen vannverk",
+    "• Funnene skal sammenfattes i et notat med innstilling, som legges frem for planutvalget og kommunestyret."
+  ],
+  "vedtak": [
+    "Saken tas til orientering",
+    "Ørland kommune skal utrede konsekvensene av både",
+    "• Fortsatt privat drift ved Teksdalen vannverk",
+    "• Kommunal overtagelse av Teksdalen vannverk",
+    "• Funnene skal sammenfattes i et notat med innstilling, som legges frem for planutvalget og kommunestyret."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag i kommunestyret 20.06.2024",
+      "alternativer": [
+        {
+          "navn": "Innstilling fra Planutvalgets møte 18.06.24",
+          "stemmer": 30
+        }
+      ],
+      "hvem_vant": "Innstilling fra Planutvalgets møte 18.06.24",
+      "roedt_stoettet": "Innstilling fra Planutvalgets møte 18.06.24",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag i planutvalget 18.06.2024",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "Opprinnelig forslag",
+      "roedt_stoettet": "Opprinnelig forslag",
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/087",
+  "rodt_fremmet_forslag": false
+}

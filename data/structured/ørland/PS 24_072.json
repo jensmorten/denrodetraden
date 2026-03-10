@@ -1,0 +1,53 @@
+{
+  "tittel": "Nytt forslag til Forvaltnings- og driftsavtale for hv-brakka",
+  "innstilling": [
+    "Administrasjonen gis i oppdrag å fremforhandle ny Forvaltnings- og driftsavtale for HV-brakka (Offiserbrakka) med Frivillighetens hus Austrått basert på deres forslag til endring.",
+    "Ny avtale legges frem for godkjenning i kommunestyret 29.08.24"
+  ],
+  "vedtak": [
+    "Administrasjonen gis i oppdrag å fremforhandle ny Forvaltnings- og driftsavtale for HV-brakka (Offiserbrakka) med Frivillighetens hus Austrått basert på deres forslag til endring.",
+    "Ny avtale legges frem for godkjenning i kommunestyret 29.08.24"
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marit Sletten, Industri- og Næringspartiet",
+      "tekst": "Ørland kommune er i toppsjiktet angående å eie bygningsmasse. Stram økonomi gjør at alt av vedlikehold og drift av gammel bygningsmasse ikke lenger kan prioriteres. 1.Administrasjon gis i oppdrag å legge HV-brakka ut for salg. 2. Administrasjon gis i oppdrag å tilby alternative lokasjoner til Frivilligheten."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 25,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 5",
+            "MDG 1",
+            "Rødt 1",
+            "SP 6",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Alternativt forslag Forvaltnings- og driftsavtale HV-brakka. INP",
+          "stemmer": 5,
+          "partier": [
+            "H 1",
+            "INP 4"
+          ]
+        }
+      ],
+      "hvem_vant": "Opprinnelig forslag",
+      "roedt_stoettet": "Opprinnelig forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/072",
+  "rodt_fremmet_forslag": false
+}

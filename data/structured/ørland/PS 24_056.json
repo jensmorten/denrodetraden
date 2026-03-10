@@ -1,0 +1,79 @@
+{
+  "tittel": "Høring av kommunedelplan for oppvekst og utdanning 2024-2036",
+  "innstilling": "Ørland kommune legger Kommunedelplan for oppvekst og utdanning 2024 – 2036 ut til høring og offentlig ettersyn. Vedtaket er fattet med hjemmel i Plan- og bygningslovens § 11-14.",
+  "vedtak": [
+    {
+      "referanse": "KST - 24/056",
+      "tekst": "Ørland kommune legger Kommunedelplan for oppvekst og utdanning 2024 – 2036 ut til høring og offentlig ettersyn. Vedtaket er fattet med hjemmel i Plan- og bygningslovens § 11-14."
+    },
+    {
+      "referanse": "UNG - 24/009",
+      "tekst": "Høringen tatt til orientering."
+    },
+    {
+      "referanse": "HEL - 24/016",
+      "tekst": "Ørland kommune legger Kommunedelplan for oppvekst og utdanning 2024 – 2036 ut til høring og offentlig ettersyn. Vedtaket er fattet med hjemmel i Plan- og bygningslovens § 11-14."
+    },
+    {
+      "referanse": "OPU - 24/015",
+      "tekst": "Ørland kommune legger Kommunedelplan for oppvekst og utdanning 2024 – 2036 ut til høring og offentlig ettersyn. Vedtaket er fattet med hjemmel i Plan- og bygningslovens § 11-14."
+    }
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Utvalg for oppvekst og utdanning i møte 13.05.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": {
+            "AP": 7,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag i Utvalg for oppvekst og utdanning 13.05.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 6,
+          "partier": {
+            "AP": 1,
+            "H": 2,
+            "MDG": 1,
+            "SP": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "Ikke til stede i denne voteringen",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 24/056",
+  "rodt_fremmet_forslag": false
+}

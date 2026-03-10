@@ -1,0 +1,59 @@
+{
+  "tittel": "Revisjon av kommunal forskrift til serverings- og alkoholloven - Ørland kommune",
+  "innstilling": [
+    "Forslag til endring på kommunal forskrift til serverings- og alkoholloven i Ørland kommune legges ut på offentlig høring på hjemmesiden, sendes bevillingshaverne, og andre berørte parter.",
+    "Endringene omhandler følgende:",
+    "• utvidet tidspunkt for uteservering for alkohol",
+    "• endring av avgjørelsesmyndighet i forhold til kontroll av salgs- og skjenkebevillinger",
+    "Høringsfrist er 6 uker fra kommunestyrets vedtak."
+  ],
+  "vedtak": [
+    {
+      "organ": "Kommunestyre",
+      "dato": "31.10.2024",
+      "sak": "KST - 24/128",
+      "vedtak": "Saken ble utsatt."
+    },
+    {
+      "organ": "Formannskap",
+      "dato": "03.10.2024",
+      "sak": "FSK - 24/064",
+      "vedtak": [
+        "Forslag til endring på kommunal forskrift til serverings- og alkoholloven i Ørland kommune legges ut på offentlig høring på hjemmesiden, sendes bevillingshaverne, og andre berørte parter.",
+        "Endringene omhandler følgende:",
+        "• utvidet tidspunkt for uteservering for alkohol",
+        "• endring av avgjørelsesmyndighet i forhold til kontroll av salgs- og skjenkebevillinger",
+        "Høringsfrist er 6 uker fra kommunestyrets vedtak."
+      ]
+    }
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag i Formannskapet 03.10.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7,
+          "partier": [
+            "AP 2",
+            "FRP 1",
+            "H 2",
+            "SP 2"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "24/128",
+  "rodt_fremmet_forslag": false
+}

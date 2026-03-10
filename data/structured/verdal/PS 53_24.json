@@ -1,0 +1,27 @@
+{
+  "tittel": "Jan Torstein Juberg (H) - søknad om fritak fra kommunestyret for resten av valgperioden",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Kommunestyret imøtekommer søknaden fra Jan Torstein Juberg (H) om fritak fra vervet som medlem i kommunestyret for partiet Høyre for resten av valgperioden.",
+    "Fiona Leigh Gratton (H) rykker inn som fast medlem i kommunestyret på listen til Høyre for resten av valgperioden."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.04.2024",
+  "saksnummer_ps": "PS 53/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,33 @@
+{
+  "tittel": "Sak 58/2024",
+  "innstilling": "Utvalgets innstilling fra plan og samfunn",
+  "vedtak": "Saken tas til orientering.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anne Kolstad (SV)",
+      "tekst": "Kommunestyret ber om at Verdalskalk ikke søker konsesjon i Tromsdalsallmenningen før det foreligger en avtale som sikrer rettighetene til de bruksberettigede."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom innstillingen fra utvalg plan og samfunn og forslaget fra SV",
+      "alternativer": [
+        {
+          "navn": "Utvalgets innstilling",
+          "stemmer": 34
+        },
+        {
+          "navn": "Forslaget fra SV",
+          "stemmer": 1
+        }
+      ],
+      "hvem_vant": "Utvalgets innstilling",
+      "roedt_stoettet": "Utvalgets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "27.05.2024",
+  "saksnummer_ps": "PS 58/24",
+  "rodt_fremmet_forslag": false
+}

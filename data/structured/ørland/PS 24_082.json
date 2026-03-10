@@ -1,0 +1,94 @@
+{
+  "tittel": "Organisering arbeid med helseprosjekt",
+  "innstilling": [
+    "Det nedsettes en prosjektgruppe med representanter for enhet samfunnsutvikling, avdeling boligkontor, 2 enhetsledere i helse og familie, daglig leder Fosen helse IKS, hovedverneombud, hovedtillitsvalgt og kommunalsjef helse og familie",
+    "Prosjektgruppen får i oppgave å utrede:",
+    "a. Hvordan få et bygg som kan gi effektive helsetjenester basert på nyeste forskning",
+    "b. Hva får vi for 240 / 250 mill eksl moms i henhold til økonomiplanen",
+    "c. Hvordan kan vi bruke eksisterende bygg",
+    "Kommunedirektørens ledergruppe er styringsgruppe.",
+    "Det legges frem sak i kommunestyret 31.10.24 for beslutning om struktur og investeringer i helsebygg."
+  ],
+  "vedtak": [
+    "Det nedsettes en prosjektgruppe med representanter for enhet samfunnsutvikling, avdeling boligkontor, 2 enhetsledere i helse og familie, daglig leder Fosen helse IKS, hovedverneombud, hovedtillitsvalgt og kommunalsjef helse og familie",
+    "Prosjektgruppen får i oppgave å utrede:",
+    "a. Hvordan få et bygg som kan gi effektive helsetjenester basert på nyeste forskning",
+    "b. Hva får vi for 240 / 250 mill eksl moms i henhold til økonomiplanen",
+    "c. Hvordan kan vi bruke eksisterende bygg",
+    "Kommunedirektørens ledergruppe er styringsgruppe.",
+    "Det legges frem sak i kommunestyret 31.10.24 for beslutning om struktur og investeringer i helsebygg."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marit Sletten, Industri- og Næringspartiet",
+      "tekst": "Forslag om at leder i utvalg for helse og familie inngår i prosjektgruppa."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Tilleggsforslag organisering helseprosjekt. INP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 10,
+          "partier": [
+            "FRP 2",
+            "H 1",
+            "INP 4",
+            "SP 3"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 21,
+          "partier": [
+            "AP 8",
+            "H 5",
+            "MDG 1",
+            "Rødt 1",
+            "SP 4",
+            "SV 1",
+            "V 1"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Mot",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 6",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "SP 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/082",
+  "rodt_fremmet_forslag": false
+}

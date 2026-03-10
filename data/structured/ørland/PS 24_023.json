@@ -1,0 +1,68 @@
+{
+  "tittel": "24/023 Kommunedelplan helse og familie 2024 - 2036 - Førstegangsbehandling",
+  "innstilling": "Ørland kommune legger ut Kommunedelplan for helse og familie 2024 – 2036 ut til høring og offentlig ettersyn. Vedtaket er fattet med hjemmel i Pbl. § 11-14.",
+  "vedtak": "Ørland kommune legger ut Kommunedelplan for helse og familie 2024 – 2036 ut til høring og offentlig ettersyn. Vedtaket er fattet med hjemmel i Pbl. § 11-14. Utvalg for helse og familie ønsker tilbakemelding av status på måleindikatorer i kommunedelplanen en gang i året, i forbindelse med budsjettet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Utvalg for helse og familie",
+      "tekst": "Utvalg for helse og familie ønsker tilbakemelding av status på måleindikatorer i kommunedelplanen en gang i året, i forbindelse med budsjettet."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Utvalg for helse og familie sin innstilling fra møte 06.03.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": [
+            "AP",
+            "FRP",
+            "H",
+            "INP",
+            "MDG",
+            "Rødt",
+            "SP",
+            "SV",
+            "V"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Innstillingen og tilleggsforslaget ble enstemmig vedtatt ved manuell votering",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 100,
+          "partier": [
+            "AP",
+            "FRP",
+            "H",
+            "INP",
+            "MDG",
+            "Rødt",
+            "SP",
+            "SV",
+            "V"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 24/023",
+  "rodt_fremmet_forslag": false
+}

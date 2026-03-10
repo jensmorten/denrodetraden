@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av nytt varamedlem til eldrerådet for resten av valgperioden 2023-2027",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Som nytt medlem i eldrerådet for resten av valgperioden 2023-2027 velges: Tormod Spjøtvold",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 139/24",
+  "rodt_fremmet_forslag": false
+}

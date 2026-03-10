@@ -1,0 +1,28 @@
+{
+  "tittel": "Valg av medlemmer til Eldrerådet",
+  "innstilling": "På vegne av Høyre, SP, INP, V og FRP innstilles nytt medlem og varamedlem som fremlagt i saken.",
+  "vedtak": "På vegne av Høyre, SP, INP, V og FRP innstilles nytt medlem og varamedlem som fremlagt i saken.\n• Medlem: Odd Erik Kotte\n• Varamedlem: Astrid Flatmo Lislien\nEldrerådet utvides med dette fra 7 til 8 faste medlemmer, hvorav 5 medlemmer oppnevnes etter forslag fra pensjonistforeninger i Ørland kommune.\nReglementet Politisk delegasjonsreglement oppdateres tilsvarende. Dokumentet Styrer, råd og utvalg oppdateres også tilsvarende.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag til nytt medlem i eldrerådet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 24/060",
+  "rodt_fremmet_forslag": false
+}

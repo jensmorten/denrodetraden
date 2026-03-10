@@ -1,0 +1,44 @@
+{
+  "tittel": "24/026 Fastsetting av planprogram for kommunedelplan for naturmangfold",
+  "innstilling": "Ørland kommune, ved kommunestyret, fastsetter med hjemmel i plan- og bygningsloven § 11-13 annet ledd første punktum planprogram for kommunedelplanen for naturmangfold.",
+  "vedtak": "Ørland kommune, ved kommunestyret, fastsetter med hjemmel i plan- og bygningsloven § 11-13 annet ledd første punktum planprogram for kommunedelplanen for naturmangfold.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Planutvalget sin innstilling fra møte 19.03.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag i Planutvalg 19.03.2024: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 9
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": null,
+      "roedt_side": "ikke til stede"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 24/026",
+  "rodt_fremmet_forslag": false
+}

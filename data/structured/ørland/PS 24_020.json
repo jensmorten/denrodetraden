@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av protokollunderskrivere",
+  "innstilling": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Eirik Lundemo H\n• Ingvild Wik Solberg AP",
+  "vedtak": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Eirik Lundemo H\n• Ingvild Wik Solberg AP",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen om valg av protokollunderskrivere",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 24/020",
+  "rodt_fremmet_forslag": false
+}

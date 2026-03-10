@@ -1,0 +1,77 @@
+{
+  "tittel": "24/024 Kommunedelplan for drikkevann - Planprogram",
+  "innstilling": "Ørland kommune, ved kommunestyret, vedtar med hjemmel i plan- og bygningsloven § 11-13 vedlagte planprogram for kommunedelplanen for drikkevann.",
+  "vedtak": "Ørland kommune, ved kommunestyret, vedtar med hjemmel i plan- og bygningsloven § 11-13 vedlagte planprogram for kommunedelplanen for drikkevann.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "Innbyggere i kommunen gjøres godt kjent med at det skal utarbeides en kommuneplan for drikkevann, samt gis mulighet til å komme med innspill og si sin mening om innhold og mulige løsninger."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Ole Edvard Antonsen, Rødt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15,
+          "partier": [
+            "AP 3",
+            "FRP 2",
+            "H 1",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 2",
+            "SV 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 16,
+          "partier": [
+            "AP 5",
+            "H 5",
+            "SP 5",
+            "V 1"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    },
+    {
+      "beskrivelse": "Votering over opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 24/024",
+  "rodt_fremmet_forslag": true
+}

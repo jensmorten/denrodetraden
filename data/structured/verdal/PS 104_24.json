@@ -1,0 +1,24 @@
+{
+  "tittel": "Sak 104/2024",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Kommunestyret tar saken til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "30.09.2024",
+  "saksnummer_ps": "PS 104/24",
+  "rodt_fremmet_forslag": false
+}

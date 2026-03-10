@@ -1,0 +1,28 @@
+{
+  "tittel": "Samlesak for referatsaker",
+  "innstilling": "Sakene tas til orientering",
+  "vedtak": "Sakene tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/067",
+  "rodt_fremmet_forslag": false
+}

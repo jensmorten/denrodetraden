@@ -1,0 +1,54 @@
+{
+  "tittel": "Sak 99/2024 - Nytt legesenter i Verdal",
+  "innstilling": [
+    "1. Nytt legesenter med plass til 7 leger legges til Framgården.",
+    "2. Framgården legesenter realiseres innenfor ei ramme på 20,3 mnok.",
+    "3. Det tilleggsbevilges 10,3 mnok i tillegg til allerede bevilget ramme på 10 mnok. Dette finansieres gjennom økt låneopptak.",
+    "4. Det utredes videre hvordan bygget kan utvikles for plass til andre helsefunksjoner slik at det kan bli et flerfaglig Helsehus."
+  ],
+  "vedtak": "Kommunedirektøren gis fullmakt til å gjennomføre en anbudsprosess om leie av lokaler for nytt legekontor i sentrum, og legger resultatet av denne frem for endelig politisk behandling. Ny sak fremmes når resultatet og konklusjon av denne prosessen er gjennomført, i tillegg til gjeldende innstilling i saken til formannskapet 19/9-24.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Verdalslista v/Snorre Hjelde",
+      "tekst": "Nytt legesenter bygges i Vuku. Forslaget er det samme som ble framlagt i formannskapet 27.05.2024 sak 78/24. Nytt frittstående legesenter 310 kvm med plass til 4 legekontor, gu-kontor, laboratorium, skadestue, respesjon, ventesone og ansattefasiliteter. Bygget oppføres av private aktører og leies ut til Verdal kommune. Vedlagt: Planbeskrivelse og kostnadsoverslag. Fasadetegninger. Situasjon utenomhus. Plantegninger."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på forslag fra Verdalslista om nytt legesenter i Vuku.",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Verdalslista",
+          "stemmer": 10
+        },
+        {
+          "navn": "Mot forslag fra Verdalslista",
+          "stemmer": 25
+        }
+      ],
+      "hvem_vant": "Mot forslag fra Verdalslista",
+      "roedt_stoette": "Mot forslag fra Verdalslista",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering på formannskapets innstilling (alternativt mot forslaget fra INP).",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 33
+        },
+        {
+          "navn": "Forslag fra INP",
+          "stemmer": 2
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoette": "Forslag fra INP",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "30.09.2024",
+  "saksnummer_ps": "PS 99/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,62 @@
+{
+  "tittel": "PS 47/24 Disponering utbytte fra NTE i 2024 - utbytte fra regnskapsår 2022",
+  "innstilling": "Formannskapets innstilling pkt. 1 og 2, pkt. 3 og forslag nytt pkt. 4 fra H/SP/VDL/FRP",
+  "vedtak": {
+    "1": "Utbytte fra NTE regnskapsår 2022 – avsatt til utviklingsfond 2023 – fordeles slik: Næringsfond 39 % (750000), Enkeltsaker Næring 5 % (100000), Nasjonaljubileet 36 % (700000), Kultur 10 % (190204), Stiklestad Støtte endringsprosesser 10 % (190204), Sum fordelt 100 % (1930409).",
+    "2": "Kommunedirektøren vil redegjøre for bruk av midlene og måloppnåelse som en del av den ordinære rapporteringen til folkevalgt organ.",
+    "3": "Kommunaldirektøren bes utrede en sak der rentene av utbyttet fra NTE tillegges utviklingsfondet. Pengene kan evt. disponeres i 2024. Saken fremmes innen juni 2024.",
+    "4": "Kommunedirektøren bes utrede en sak innen neste års behandling av sak; utbytte fra NTE i 2025, der ny fordelingsprosent utviklingsfondet/kraftfondet vurderes."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Oddleiv Aksnes (H) på vegne av H/SP/VDL/FRP",
+      "tekst": "Endret punkt 3. Kommunaldirektøren bes utrede en sak der rentene av utbyttet fra NTE tillegges utviklingsfondet. Pengene kan evt. disponeres i 2024. Saken fremmes innen juni 2024. Nytt punkt 4. Kommunedirektøren bes utrede en sak innen neste års behandling av sak; utbytte fra NTE i 2025, der ny fordelingsprosent utviklingsfondet/kraftfondet vurderes."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på formannskapets innstilling pkt. 1 og 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på formannskapets innstilling pkt. 3 - alternativt mot forslaget fra H/SP/VDL/FRP",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling pkt. 3",
+          "stemmer": "mot forslaget"
+        },
+        {
+          "navn": "Forslaget fra H/SP/VDL/FRP",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "Forslaget fra H/SP/VDL/FRP",
+      "roedt_stoette": "Forslaget fra H/SP/VDL/FRP",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på forslag nytt pkt. 4 fra H/SP/VDL/FRP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.04.2024",
+  "saksnummer_ps": "PS 47/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,80 @@
+{
+  "tittel": "La Humla Suse",
+  "innstilling": [
+    "Ørland kommune skal fortsatt ha et stort søkelys på å framsnakke biologisk mangfold blant annet gjennom å legge til rette for pollinerende insekters habitat (områder hvor insektene lever og finner mat, som blomsterenger, hager og skoger).",
+    "Ørland kommune skal ved opprettelse og oppgradering av kommunale plener, parker og andre grønnstrukturer i størst mulig grad anlegge områder eller mindre felter med blomstereng.",
+    "Ørland kommune støtter initiativet #NOMOVMAY ved å redusere klippingen av kommunale plener i mai og gjennomføre informasjonsarbeid som skaper bevissthet og endrer holdninger."
+  ],
+  "vedtak": [
+    "Ørland kommune skal fortsatt ha et stort søkelys på å framsnakke biologisk mangfold blant annet gjennom å legge til rette for pollinerende insekters habitat (områder hvor insektene lever og finner mat, som blomsterenger, hager og skoger).",
+    "Ørland kommune skal ved opprettelse og oppgradering av kommunale plener, parker og andre grønnstrukturer i størst mulig grad anlegge områder eller mindre felter med blomstereng.",
+    "Ørland kommune støtter initiativet #NOMOVMAY ved å redusere klippingen av kommunale plener i mai og gjennomføre informasjonsarbeid som skaper bevissthet og endrer holdninger."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Punktvis avstemming - punkt 1 og 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 6",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Punktvis avstemming - punkt 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 21,
+          "partier": [
+            "AP 7",
+            "FRP 2",
+            "H 3",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 1",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 9,
+          "partier": [
+            "AP 1",
+            "H 3",
+            "SP 5"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/084",
+  "rodt_fremmet_forslag": false
+}

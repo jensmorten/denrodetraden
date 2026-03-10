@@ -1,0 +1,56 @@
+{
+  "tittel": "Bruk av midler til trafikksikkerhetstiltak",
+  "innstilling": [
+    "Det delegeres til administrasjon og/eller Trafikksikkerhetsutvalget å prioritere og gjennomføre mindre trafikksikkerhets investeringstiltak",
+    "Eventuelle trafikksikkerhets investeringstiltak over 0,5 mill kroner legges frem i salderingssaker for kommunestyre."
+  ],
+  "vedtak": {
+    "sak": "KST - 24/118",
+    "vedtakstekst": [
+      "Det delegeres til administrasjon og/eller Trafikksikkerhetsutvalget å prioritere og gjennomføre mindre trafikksikkerhets investeringstiltak",
+      "Eventuelle trafikksikkerhets investeringstiltak over 0,5 mill kroner legges frem i salderingssaker for kommunestyre."
+    ]
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rødt, Arbeiderpartiet, SV og MDG",
+      "tekst": "Trafikksikkerhetsutvalget utarbeider en prioritert liste over trafikksikkerhetstiltak som legges fram for vedtak i kommunestyret."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Rødt, Arbeiderpartiet, SV og MDG",
+      "alternativer": [
+        {
+          "navn": "Forslag fra Rødt, Arbeiderpartiet, SV og MDG",
+          "stemmer": 11,
+          "partier": [
+            "AP 7",
+            "FRP 1",
+            "MDG 1",
+            "Rødt 1",
+            "SV 1"
+          ]
+        },
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 19,
+          "partier": [
+            "FRP 1",
+            "H 6",
+            "INP 4",
+            "SP 7",
+            "V 1"
+          ]
+        }
+      ],
+      "hvem_vant": "Opprinnelig forslag",
+      "roedt_stoette": "Forslag fra Rødt, Arbeiderpartiet, SV og MDG",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "24/118",
+  "rodt_fremmet_forslag": true
+}

@@ -1,0 +1,33 @@
+{
+  "tittel": "PS 85/24 Interpellasjon fra Anne Kolstad (SV) - Bruk av Verdal Bo og helsetun som samskapningsprosjekt",
+  "innstilling": null,
+  "vedtak": "Oversendelsesforslaget falt med 26 mot 7 stemmer.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Anne Kolstad (SV)",
+      "tekst": "Kommunestyret ber formannskapet se på muligheter for seniorkollektiv i eksisterende bygg som ses i sammenheng med videre utvikling av eldreomsorg. Dette vurderes som et samskapingsprosjekt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over oversendelsesforslaget fra Anne Kolstad (SV) om å be formannskapet se på muligheter for seniorkollektiv i eksisterende bygg som samskapingsprosjekt.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "24.06.2024",
+  "saksnummer_ps": "PS 85/24",
+  "rodt_fremmet_forslag": false
+}

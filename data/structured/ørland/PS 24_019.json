@@ -1,0 +1,53 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og saksliste godkjent uten merknad.",
+  "vedtak": "Innkalling og saksliste ble godkjent med følgende merknader:\nValg av settevaraordfører:\nOrdfører Hallgeir Grøntvedt SP har meldt forfall til kommunestyremøte.\nHar ordføreren forfall, er det varaordføreren som er fungerende ordfører og møteleder, og det velges blant representantene en settevaraordfører for møtet. Valget gjennomføres jf. kommunelovens regler for flertallsvalg.\nMona Sjøli H fremmet følgende forslag på settevaraordfører, Britt Eli Døsvik SP. Forslaget ble enstemmig vedtatt ved manuell votering.\nPermisjoner\n• Signe Sylten AP innvilget permisjon fra 14.15. Heidi Anita Selnes Solem AP er kalt inn som var fra samme tidspunkt.\n• Harriet Brekstad FRP innvilget permisjon fra 12.00. Ingen vara.\n• Thomas Hovde SP innvilget permisjon fra 13.00. Ingen vara.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "Sak 24/033 utsettes til neste møte i kommunestyret, da saken kom utsendt for sent ift frist for saksliste og innkalling."
+    },
+    {
+      "forslagsstiller": "Mona Sjøli, H",
+      "tekst": "Sak 24/033 flyttes opp på sakskartet og behandles rett etter sak 24/031."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Ole Edvard Antonsen, Rødt om utsettelse av sak 24/033",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15,
+          "partier": [
+            "AP 2",
+            "FRP 2",
+            "H 1",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 2",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 16,
+          "partier": [
+            "AP 6",
+            "H 5",
+            "SP 5"
+          ]
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 24/019",
+  "rodt_fremmet_forslag": true
+}

@@ -1,0 +1,98 @@
+{
+  "tittel": "24/025 Fastsetting av planprogram for kommunedelplan for klima og miljø",
+  "innstilling": "Ørland kommune, ved kommunestyret, fastsetter med hjemmel i plan- og bygningsloven § 11-13 annet ledd første punktum planprogram for kommunedelplanen for klima og miljø.",
+  "vedtak": "Ørland kommune, ved kommunestyret, fastsetter med hjemmel i plan- og bygningsloven § 11-13 annet ledd første punktum planprogram for kommunedelplanen for klima og miljø.\nØrland kommune søker medlemskap i organisasjonen Norske Kjernekraftkommuner, for at kommunen skal få bedre kjennskap til kjernekraft. Årlig kostnad kr. 20 000.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Bjørn Glørstad, Høyre",
+      "tekst": "Ørland kommune søker medlemskap i organisasjonen Norske Kjernekraftkommuner, for at kommunen skal få bedre kjennskap til kjernekraft. Årlig kostnad kr. 20 000."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over tilleggsforslag fremmet av representanten Bjørn Glørstad H",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 28,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "SP 7",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3,
+          "partier": [
+            "MDG 1",
+            "Rødt 1",
+            "SV 1"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over Planutvalget sin innstilling fra møte 19.03.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Planutvalgets votering over opprinnelig forslag 19.03.2024",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 9,
+          "partier": [
+            "AP 3",
+            "FRP 1",
+            "H 2",
+            "INP 1",
+            "SP 2"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": null,
+      "roedt_side": null
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 24/025",
+  "rodt_fremmet_forslag": false
+}

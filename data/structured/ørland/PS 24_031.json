@@ -1,0 +1,110 @@
+{
+  "tittel": "24/031 Tilbud om ungdomsklubb for 5-7.trinn",
+  "innstilling": "Ørland kommune kan ikke videreføre tilbudet om ungdomsklubb for elever i aldersgruppen 5.-7. trinn i 2024 gjennom egen finansiering.",
+  "vedtak": "Ørland kommune viderefører tilbudet om ungdomsklubb for elever i aldersgruppen 5.-7. trinn 2024. Midler til dette, 250 000.- kr tas fra kommunens disposisjonsfond. Utvalg for oppvekst og utdanning setter opp en samarbeidsplan med styret i ungdomsklubben og ungdomsrådet for å se på dagens tilbud og se etter løsninger for mer aktivitet.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Mona Sjøli, Høyre",
+      "tekst": "Ørland kommune viderefører tilbudet om ungdomsklubb for elever i aldersgruppen 5.-7. trinn 2024. Midler til dette, 250 000.- kr tas fra kommunens disposisjonsfond."
+    },
+    {
+      "forslagsstiller": "Ann Elisabeth Solbue Valaas, Senterpartiet",
+      "tekst": "Utvalg for oppvekst og utdanning setter opp en samarbeidsplan med styret i ungdomsklubben og ungdomsrådet for å se på dagens tilbud og se etter løsninger for mer aktivitet."
+    },
+    {
+      "forslagsstiller": "Utvalg for oppvekst og utdanning",
+      "tekst": "Ørland kommune kan ikke videreføre tilbudet om ungdomsklubb for elever i aldersgruppen 5.-7. trinn i 2024 gjennom egen finansiering."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering nr 1 - Votering over forslag (Tilleggspunkt)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 26,
+          "partier": [
+            "AP 6",
+            "FRP 1",
+            "H 5",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 6",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3,
+          "partier": [
+            "AP 2",
+            "H 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering nr 2 - Votering over forslag (Tilbud om ungdomsklubb)",
+      "alternativer": [
+        {
+          "navn": "Tilbud om ungdomsklubb",
+          "stemmer": 24,
+          "partier": [
+            "AP 8",
+            "FRP 1",
+            "H 6",
+            "MDG 1",
+            "Rødt 1",
+            "SP 5",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Utvalg for oppvekst og utdanning sin innstilling",
+          "stemmer": 5,
+          "partier": [
+            "INP 4",
+            "SP 1"
+          ]
+        }
+      ],
+      "hvem_vant": "Tilbud om ungdomsklubb",
+      "roedt_stoettet": "Tilbud om ungdomsklubb",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Utvalg for oppvekst og utdanning 04.03.2024 - Votering nr 1 - Votering over forslag (Opprinnelig forslag)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7,
+          "partier": [
+            "AP 1",
+            "H 2",
+            "MDG 1",
+            "SP 2",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 24/031",
+  "rodt_fremmet_forslag": false
+}

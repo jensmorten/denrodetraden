@@ -1,0 +1,24 @@
+{
+  "tittel": "Valg av protokollunderskrivere",
+  "innstilling": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Brage Døsvik Hansen (AP)\n• Trond Amundsveen (H)",
+  "vedtak": "Som underskrivere for godkjenning av møteprotokoll og elektronisk signering ble følgende representanter valgt:\n• Brage Døsvik Hansen (AP)\n• Trond Amundsveen (H)",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Innstillingen ble enstemmig vedtatt ved manuell votering.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoettet": "For innstillingen",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/065",
+  "rodt_fremmet_forslag": false
+}

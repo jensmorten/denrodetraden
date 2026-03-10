@@ -1,0 +1,40 @@
+{
+  "tittel": "Tertialrapport 1/2024 Ørland kommune",
+  "innstilling": "Tertialrapport 1/2024 for Ørland kommune tas til orientering",
+  "vedtak": "Tertialrapport 1/2024 for Ørland kommune tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra formannskapet i møte 16.05.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 24/053",
+  "rodt_fremmet_forslag": false
+}

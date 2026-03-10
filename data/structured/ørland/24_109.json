@@ -1,0 +1,124 @@
+{
+  "tittel": "Strategisk arbeid samferdsel Ørland",
+  "innstilling": [
+    "Administrasjonen setter ikke i gang et arbeid for et eget kommunalt busstilbud, men jobber sammen med AtB og Trøndelag fylkeskommune for å realisere et klimavennlig og attraktivt busstilbud mellom Brekstad og Bjugn.",
+    "Ørland kommune mener dagens tilbud Brekstad – Valset med et to-ferjesamband, sjødyktige båter, reservebåtløsning, og åpningstid fra 05:30 om morgen, dekker dagens behov og må helfinansieres av fylkeskommunen. For styrking av sambandet anbefales at åpningstiden utvides slik at siste avgang fra Valset er 24:00. Dette for å dekke et behov for gods- og persontrafikk fra sør. Døgnåpen drift av Flakk – Rørvik er viktig for et helhetlig tilbud.",
+    "Kommunestyret ber om at hurtigbåttilbudet følges tett opp med spesielt fokus på regularitet og pris på hurtigbåtbilletter.",
+    "Det nedsettes en arbeidsgruppe ledet av enhet for samfunnsutvikling som skal jobbe for finansiering og gjennomføring av større tiltak på fylkesveger i samarbeid med Trøndelag fylkeskommune, Forsvarsbygg og andre aktører som kan bidra til å sikre realisering av tiltak.",
+    "Ørland kommune setter i gang arbeid med å bli godkjent som Trafikksikker kommune."
+  ],
+  "vedtak": [
+    "Administrasjonen setter ikke i gang et arbeid for et eget kommunalt busstilbud, men jobber sammen med AtB og Trøndelag fylkeskommune for å realisere et klimavennlig og attraktivt busstilbud mellom Brekstad og Bjugn.",
+    "Ørland kommune mener dagens tilbud Brekstad – Valset med et to-ferjesamband, sjødyktige båter, reservebåtløsning, og åpningstid fra 05:30 om morgen, dekker dagens behov og må helfinansieres av fylkeskommunen. For styrking av sambandet anbefales at åpningstiden utvides slik at siste avgang fra Valset er 24:00. Dette for å dekke et behov for gods- og persontrafikk fra sør. Døgnåpen drift av Flakk – Rørvik er viktig for et helhetlig tilbud.",
+    "Kommunestyret ber om at hurtigbåttilbudet følges tett opp med spesielt fokus på regularitet og pris på hurtigbåtbilletter.",
+    "Det nedsettes en arbeidsgruppe ledet av enhet for samfunnsutvikling som skal jobbe for finansiering og gjennomføring av større tiltak på fylkesveger i samarbeid med Trøndelag fylkeskommune, Forsvarsbygg og andre aktører som kan bidra til å sikre realisering av tiltak.",
+    "Ørland kommune setter i gang arbeid med å bli godkjent som Trafikksikker kommune.",
+    "Ørland Kommune arbeider for å videreutvikle den sivile flyruta til og fra Ørland.",
+    "Ørland Kommune arbeider for å få realisert broprosjekter i aksen Ørland Trondheim.",
+    "ATB må snarest sette opp skyss fra Brekstad til Bjugn i forbindelse med samtlige hurtigbåtanløp på søndager. Slik at elever som er hybelboere ved videregående i Bjugn, kommer seg helt frem."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ogne Undertun, Arbeiderpartiet",
+      "tekst": [
+        "Ørland Kommune arbeider for å videreutvikle den sivile flyruta til og fra Ørland.",
+        "Ørland Kommune arbeider for å få realisert broprosjekter i aksen Ørland Trondheim."
+      ]
+    },
+    {
+      "forslagsstiller": "Therese Mossing Eidsaune, Høyre",
+      "tekst": "ATB må snarest sette opp skyss fra Brekstad til Bjugn i forbindelse med samtlige hurtigbåtanløp på søndager. Slik at elever som er hybelboere ved videregående i Bjugn, kommer seg helt frem."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Therese Eidsaune (H)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag Ørland AP nye kulepunkt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "Rødt 1"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "12.09.2024",
+  "saksnummer_ps": "24/109",
+  "rodt_fremmet_forslag": false
+}

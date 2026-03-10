@@ -1,0 +1,24 @@
+{
+  "tittel": "Godkjenning av innkalling og saksliste",
+  "innstilling": "Innkalling og saksliste godkjent uten merknad.",
+  "vedtak": "Innkalling og saksliste med merknader ble enstemmig vedtatt ved manuell votering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Godkjenning av innkalling og saksliste med merknad om at orienteringen om Kystpilgrimsleia v/Ragnhild Godal utgår.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "24/093",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,49 @@
+{
+  "tittel": "Valg av skjønnsmedlemmer for perioden 01.01.25 - 31.12.28",
+  "innstilling": "Kommunestyret vedtar arbeidsutvalgets/valgnemndas fremlagte forslag på valg av skjønnsmedlemmer for perioden 01.01.25 - 31.12.28.",
+  "vedtak": "Valg av skjønnsmedlemmer for perioden 01.01.25 - 31.12.28:\nSKJØNNSMEDLEMMER:\n1. Edmar Bakøy\n2. Kurt Sundet\n3. Andreas Oust Ledsaak\n4. Marit Grinnen\n5. Finn Olav Odde\n6. Hugo Beer-Johansen\n7. Ann Mari Eide\n8. Håvard Sundseth\n9. Ketil Myhre Ring\n10. Trine Døsvik\n11. Harriet De Ruiter\n12. Wenche Weisser\n13. Svein Erik Morseth\n14. Karin Aurora Fronth\n15. Jan Inge Standahl\n16. Julie Sundli\nVi ber om at feil i listen over skjønnsmedlemmer blir korrigert. Medlem nr. 9 skal være Ketil Myhre Ring, ikke Rasmus Christiansen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Arbeiderpartiet",
+      "tekst": "Vi ber om at feil i listen over skjønnsmedlemmer blir korrigert. Medlem nr. 9 skal være Ketil Myhre Ring, ikke Rasmus Christiansen"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Arbeiderpartiet om korrigering av medlem nr. 9",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "For",
+      "rodt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over innstilling fra arbeidsutvalget/valgnemnda fra møte 07.05.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "For",
+      "rodt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 24/062",
+  "rodt_fremmet_forslag": false
+}

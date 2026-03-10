@@ -1,0 +1,24 @@
+{
+  "tittel": "Samlesak for referatsaker",
+  "innstilling": "Sakene tas til orientering",
+  "vedtak": "Sakene tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Kommunestyret tok sakene til orientering",
+      "alternativer": [
+        {
+          "navn": "Sakene tas til orientering",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Sakene tas til orientering",
+      "roedt_stoettet": "Sakene tas til orientering",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "24/116",
+  "rodt_fremmet_forslag": false
+}

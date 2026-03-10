@@ -1,0 +1,53 @@
+{
+  "tittel": "Interpellasjon - kjøkken sykehjem",
+  "innstilling": "- Drifta ved kjøkkenet ved Bjugn Helsesenter og ved Ørland Medisinske Senter fortsetter som før.\n- Inndekning: kr. 490 000,- tas ut og innarbeides i budsjett for 2025.",
+  "vedtak": "- Drifta ved kjøkkenet ved Bjugn Helsesenter og ved Ørland Medisinske Senter fortsetter som før.\n- Inndekning: kr. 490 000,- tas ut og innarbeides i budsjett for 2025.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Britt Eli Døsvik, Senterpartiet",
+      "tekst": "- Drifta ved kjøkkenet ved Bjugn Helsesenter og ved Ørland Medisinske Senter fortsetter som før.\n- Inndekning skjer ved fortsatt drift av kantina ved Bjugn Helsesenter og ved kantina, samt cateringvirksomhet, ved Ørland Medisinske Senter."
+    },
+    {
+      "forslagsstiller": "Marit Sletten, Industri- og Næringspartiet",
+      "tekst": "2.For å synliggjøre kostnader/inntekt ved Kantinedrift og catering ønskes organisert som egen enhet med eget budsjett, personal, lønnskostnader, varekostnader og driftskostnader."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Nytt forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Kantinedrift",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 23
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/014",
+  "rodt_fremmet_forslag": false
+}

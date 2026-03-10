@@ -1,0 +1,49 @@
+{
+  "tittel": "Valg av meddommere til tingretten, lagretten og jordskifteretten for perioden 01.01.25 - 31.12.28",
+  "innstilling": "Kommunestyret vedtar arbeidsutvalgets/valgnemndas fremlagte forslag på valg av meddommere til tingretten, lagretten og jordskifteretten for perioden 01.01.25 – 31.12.28.",
+  "vedtak": "Valg av meddommere til tingretten, lagretten og jordskifteretten for perioden 01.01.25 - 31.12.28.\n\nMEDDOMMERE TIL TINGRETTEN\nKvinner: Menn:\n1. Janne Stallvik 1962 1. Kurt Sundet 1961\n2. Hilde Schanke-Rønning 1979 2. Jonas N. Barseth-Henriksen 1988\n3. Gina Hellem 1984 3. Ketil Sundseth 1955\n4. Mona Sørmyr 1970 4. Trond Pedersen 1956\n5. Barbro Brønner Eikset 1973 5. Ole Graneng 1963\n6. Madelen Vollan 1995 6. Njål Furunes 1962\n7. Inger-Ann Berre 1963 7. Dag Balavoine 1957\n8. Sissel Elise Innstrand 1963 8. Odd Døsvik 1966\n9. Vivian Brevik Johansen 1981 9. Hans Eide 1961\n10. Marit Sletten 1968 10. Hans Jørgen Lysø 1957\n11. Irja Helen Døsvik 1970 11. Geir Atle Aune 1965\n12. Mette Sandvik 1963 12. Pål Lodve Broks 1965\n13. Janne Garten 1984 13. Geir Grønskag 1964\n14. Sunniva Sagmyr 1982 14. Ulf Steinar Berg 1957\n15. Lillian Drilen Aune 1974 15. Øyvind Berg 1965\n16. Silje Støkkan Leirvik 1988 16. Svein Birger Brevik 1956\n17. Line Lindstrøm 1969 17. Roy Johansen 1971\n18. Thea Bolme 1987 18. Stian Tyskø 1976\n19. Kamilla Bråten 1993 19. Halvard Rønsholm 1971\n20. Anne M. Torsteinsen 1972 20. Tor Erik Brunsvik 1976\n21. Frida Hyllmark 1993 21. Kristian Brandsegg Mathisen 1998\n22. Mildrid Nåvik 1967 22. Bjørn Henrik Valaas Solbue 1968\n23. Greta Solbakk 1956 23. Morten Groven 1977\n24. Charlotte Amalie Wathne 1998 24. Svein Erik Morseth 1976\n\nMEDDOMMERE TIL LAGRETTEN\nKvinner: Menn:\n1. Laila Iren Veie 1968 1. John Roger Leseth 1986\n2. Gunhild E. Lien 1961 2. Jan Inge Standahl 1968\n3. Birthe Nøtnes 1964 3. Jostein Solbue 1956\n4. Bitte Paulsen-Aukan 1962 4. Jarle Hofstad 1969\n5. Eva Sæther 1967 5. Ogne Undertun 1968\n6. Trine Ekrem 1972 6. Lavrans Skanke 1961\n7. Hilde Margrethe Svee 1986 7. Øyvind Næss 1962\n8. Nina Mørch 1968 8. Steinar Simonsen 1957\n\nMEDDOMMERE TIL JORDSKIFTERETTEN\nKvinner: Menn:\n1. Hilde E. Skifte 1967 1. Stein Erik Moxnes 1956\n2. Laila Selnes Lund 1966 2. Karl Erik Sørensen 1959",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Arbeiderpartiet",
+      "tekst": "Vi foreslår at lagrettsmedlem nummer 5 på listen over mannlige medlemmer til Lagretten erstattes med Ogne Undertun."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Arbeidsutvalget/Valgnemnda i møte 07.05.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: forslag fra Arbeiderpartiet",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 24/061",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,36 @@
+{
+  "tittel": "PS 75/24 Helseplattformen - Status innføring og oppdatert risikobilde pr. mai 2024",
+  "innstilling": "Formannskapets innstilling (ikke eksplisitt gjengitt i teksten, men implisitt at saken tas til orientering og ny statusrapport fremmes).",
+  "vedtak": [
+    "1.Saken tas til orientering.",
+    "2. Kommunedirektøren bes fremme ny statusrapport innen utgangen av våren 2025."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Verdalslista v/Terje Aksnes",
+      "tekst": "Verdal kommune går ut av helseplattformen så snart som mulig. Administrasjonen bes snarest å finne et annet system som kan brukes av Verdal kommune."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling og forslaget fra Verdalslista.",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 25
+        },
+        {
+          "navn": "Forslaget fra Verdalslista",
+          "stemmer": 7
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Forslaget fra Verdalslista",
+      "roedt_paa_vinner_side": false
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "24.06.2024",
+  "saksnummer_ps": "PS 75/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,33 @@
+{
+  "tittel": "Undervarme kunstgressbane i Bjugn",
+  "innstilling": "Ørland kommune bevilger ikke ytterligere midler til undervarme kunstgressbane i Bjugn.",
+  "vedtak": "Ørland kommune bevilger ikke ytterligere midler til undervarme kunstgressbane i Bjugn.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Opprinnelig forslag",
+      "tekst": "Ørland kommune bevilger ikke ytterligere midler til undervarme kunstgressbane i Bjugn."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 22
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 8
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "31.10.2024",
+  "saksnummer_ps": "24/119",
+  "rodt_fremmet_forslag": false
+}

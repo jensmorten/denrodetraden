@@ -1,0 +1,24 @@
+{
+  "tittel": "Ny samarbeidsavtale interkommunalt politisk råd Fosenregionen",
+  "innstilling": "Ørland kommunestyre vedtar den nye samarbeidsavtalen med tilhørende SLA som fremlagt.",
+  "vedtak": "Ørland kommunestyre vedtar den nye samarbeidsavtalen med tilhørende SLA som fremlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "Opprinnelig forslag",
+      "roedt_stoette": "Opprinnelig forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/080",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,39 @@
+{
+  "tittel": "PS 54/24 Lotte Solbakken - søknad permisjon fra folkevalgte verv fram til og med 01.04.2025",
+  "innstilling": "Formannskapets innstilling om permisjon for Lotte Solbakken og nye settevaramedlemmer i ulike utvalg.",
+  "vedtak": [
+    "Lotte Solbakken (H) gis permisjon som omsøkt fram til og med 01.04.2025.",
+    "Ny 1. settevaramedlem i utvalg mennesker og livskvalitet i perioden: Randi Sjøvold Heggdal.",
+    "Ny 6. settevaramedlem: Oddbjørg Grønn.",
+    "Ny settevaramedlem i skoleutvalget ved Verdal videregående skole i perioden: John Hermann.",
+    "Ny setterepresentant i samarbeidsutvalget ved Ørmelen skole i perioden: Arne Marius Haugen."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Oddleiv Aksnes (H) på vegne av H/SP/VDL/FRP",
+      "tekst": "Forslag om nye settevaramedlemmer i utvalg mennesker og livskvalitet, skoleutvalget ved Verdal videregående skole og samarbeidsutvalget ved Ørmelen skole."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om formannskapets innstilling og forslag fra H/SP/VDL/FRP",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Forslag fra H/SP/VDL/FRP",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling og forslag fra H/SP/VDL/FRP enstemmig vedtatt",
+      "roedt_stoettet": "ja",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.04.2024",
+  "saksnummer_ps": "PS 54/24",
+  "rodt_fremmet_forslag": false
+}

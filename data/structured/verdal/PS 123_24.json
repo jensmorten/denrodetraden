@@ -1,0 +1,61 @@
+{
+  "tittel": "PS 123/24 Møteplan 2025",
+  "innstilling": "1. Forslag til møteplan for utvalgene, administrasjonsutvalget, formannskapet og kommunestyret for 2025 med følgende endring:\nAlle møter i juni 2025 flyttes frem 1 uke\nUPS flyttes fra 24. til 17. juni\nUML flyttes fra 25. til 18.juni\nFormannskap flyttes fra 26. til 19.juni\nKommunestyremøte flyttes fra 30. til 23.juni\n2. Kommunestyrets møter starter som regel kl. 18.00, de andre møtene kl. 09.00.",
+  "vedtak": "1. Forslag til møteplan for utvalgene, administrasjonsutvalget, formannskapet og kommunestyret for 2025 med følgende endring:\nAlle møter i juni 2025 flyttes frem 1 uke\nUPS flyttes fra 24. til 17. juni\nUML flyttes fra 25. til 18.juni\nFormannskap flyttes fra 26. til 19.juni\nKommunestyremøte flyttes fra 30. til 23.juni\n2. Kommunestyrets møter starter som regel kl. 18.00, de andre møtene kl. 09.00.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Knut Snorre Sandnes (H)",
+      "tekst": "Alle møter i juni 2025 flyttes frem 1 uke\nUPS flyttes fra 24. til 17. juni\nUML flyttes fra 25. til 18.juni\nFormannskap flyttes fra 26. til 19.juni\nKommunestyremøte flyttes fra 30. til 23.juni"
+    },
+    {
+      "forslagsstiller": "Arne Marius Haugen (H)",
+      "tekst": "Kommunestyrets møter starter som regel kl. 18.00, de andre møtene kl. 09.00."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering på formannskapets innstilling pkt. 1",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering på formannskapets innstilling pkt. 2, alternativt mot forslaget fra Haugen (H)",
+      "alternativer": [
+        {
+          "navn": "For forslaget fra Haugen (H)",
+          "stemmer": 27
+        },
+        {
+          "navn": "Mot forslaget fra Haugen (H)",
+          "stemmer": 8
+        }
+      ],
+      "hvem_vant": "For forslaget fra Haugen (H)",
+      "roedt_stoette": "Mot forslaget fra Haugen (H)",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering på forslag fra Sandnes (H)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "28.10.2024",
+  "saksnummer_ps": "PS 123/24",
+  "rodt_fremmet_forslag": false
+}

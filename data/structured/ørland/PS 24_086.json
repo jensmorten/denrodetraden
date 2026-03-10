@@ -1,0 +1,50 @@
+{
+  "tittel": "Oppstart beitebruksplan",
+  "innstilling": [
+    "Kommunestyret vedtar oppstart av arbeidet med beitebruksplan på Fosen.",
+    "Leder i landbruksnemda velges som kommunestyrets representant i arbeidsgruppa.",
+    "Arbeidet med planen løses i samarbeid med beitelagene og innenfor landbrukskontorets budsjett i 2024 og 2025. Representanten fra kommunestyret honoreres av kommunen.",
+    "Kommunestyrene vedtar hovedplan, handlingsdelen rulleres årlig i de respektive utvalgene i kommunene på Fosen."
+  ],
+  "vedtak": [
+    "Kommunestyret vedtar oppstart av arbeidet med beitebruksplan på Fosen.",
+    "Leder i landbruksnemda velges som kommunestyrets representant i arbeidsgruppa.",
+    "Arbeidet med planen løses i samarbeid med beitelagene og innenfor landbrukskontorets budsjett i 2024 og 2025. Representanten fra kommunestyret honoreres av kommunen.",
+    "Kommunestyrene vedtar hovedplan, handlingsdelen rulleres årlig i de respektive utvalgene i kommunene på Fosen."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra Landbruksnemnda fra møte 17.06.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": {
+            "AP": 8,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 6,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": {}
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/086",
+  "rodt_fremmet_forslag": false
+}

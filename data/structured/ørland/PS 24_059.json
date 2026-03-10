@@ -1,0 +1,48 @@
+{
+  "tittel": "Uttreden fra faste verv som folkevalgt ifm flytting - opprykk og nyvalg",
+  "innstilling": "Kommunedirektørens innstilling",
+  "vedtak": {
+    "sak": "KST - 24/059",
+    "tekst": "Utvalg for helse og familie:\nMedlem- Tina Marie Rødde Paulsen\n1. vara - Tom Christian Hammer\n2. vara - Anne Torill Rødsjø\n3. vara - Terje Olden\n4. vara - Tua Amanda Johanna Jonsson (ny)\nPlanutvalget:\nMedlem - Anne Torill Rødsjø\n1. vara - Fredrik Sandness\n2. vara - Tor Skogstad\n3. vara - Oda Leth-Jøssing\n4. vara - Gunn Karin Olsen\n5. vara - Tua Amanda Johanna Jonsson (ny)\nMedlemmer av planutvalget utgjør i tillegg trafikksikkerhetsutvalget.\nUtvalg for oppvekst og utdanning:\n4. vara - Tua Amanda Johanna Jonsson (ny)\nFormannskapet:\n2. vara - Hugo Solheim\n3. vara - Oda Leth-Jøssing\n4. vara - Knut Ring\nMedlemmer av formannskapet utgjør i tillegg følgende:\n- Partssammensatt utvalg\n- Legatstyret for Margrethe og Martin Skarets legat\n- Legatstyret for verdig trengende formål\n- 17. mai-komite\n- Fondstyre for næringsfond og RDA-midler\n- Klageutvalg\n- Valgstyret"
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ørland Arbeiderparti",
+      "tekst": "Medlem- Tina Marie Rødde Paulsen\n1. vara - Tom Christian Hammer\n2. vara - Anne Torill Rødsjø\n3. vara - Terje Olden\n4. vara - Tua Amanda Johanna Jonsson (ny)\nPlanutvalget:\nMedlem - Anne Torill Rødsjø\n1. vara - Fredrik Sandness\n2. vara - Tor Skogstad\n3. vara - Oda Leth-Jøssing\n4. vara - Gunn Karin Olsen\n5. vara - Tua Amanda Johanna Jonsson (ny)\nMedlemmer av planutvalget utgjør i tillegg trafikksikkerhetsutvalget.\nUtvalg for oppvekst og utdanning:\n4. vara - Tua Amanda Johanna Jonsson (ny)\nFormannskapet:\n2. vara - Hugo Solheim\n3. vara - Oda Leth-Jøssing\n4. vara - Knut Ring\nMedlemmer av formannskapet utgjør i tillegg følgende:\n- Partssammensatt utvalg\n- Legatstyret for Margrethe og Martin Skarets legat\n- Legatstyret for verdig trengende formål\n- 17. mai-komite\n- Fondstyre for næringsfond og RDA-midler\n- Klageutvalg\n- Valgstyret"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag til supplering fra Ørland Arbeiderparti",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 7",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 24/059",
+  "rodt_fremmet_forslag": false
+}

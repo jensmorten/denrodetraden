@@ -1,0 +1,111 @@
+{
+  "tittel": "Forskrifter til Opplæringsloven",
+  "innstilling": "Ørland kommune vedtar vedlagte forslag til lokale forskrifter:\n1. Forskrift om hovedmål for skolene\n2. Forskrift om permisjon fra skolen\n3. Forskrift om skolekretsgrenser\n4. Forskrift om skoleregler\n5. Forskrift om skolerute 2024/25\n6. Forskrift om skolerute 2025/26",
+  "vedtak": "Ørland kommune vedtar vedlagte forslag til lokale forskrifter med følgende tillegg og endringer:\n- Elevene viser god atferd ved å....\n  - På barnetrinnet: Respektere skolens forbud mot bruk av mobil, og legger den i mobilhotell i den tiden de er på skolen.\n  - På ungdomstrinnet: Respektere skolens regler for bruk av mobiltelefon ved å legge den i mobilhotell i undervisningstiden, under måltider og i de friminutt/pauser mobiltelefon ikke skal være tilgjengelig.\n- Rektor kan, i spesielle tilfeller, gi enkeltelever unntak fra forbudet mot mobil i skoletiden.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ann Elisabeth Solbue Valaas, Senterpartiet",
+      "tekst": "Elevene viser god atferd ved å....\n- På barnetrinnet: Respektere skolens forbud mot bruk av mobil, og legger den i mobilhotell i den tiden de er på skolen.\n- På ungdomstrinnet: Respektere skolens regler for bruk av mobiltelefon ved å legge den i mobilhotell i undervisningstiden, under måltider og i de friminutt/pauser mobiltelefon ikke skal være tilgjengelig."
+    },
+    {
+      "forslagsstiller": "Ole Edvard Antonsen, Rødt",
+      "tekst": "Rektor kan, i spesielle tilfeller, gi enkeltelever unntak fra forbudet mot mobil i skoletiden."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Endring i tekst (forslag fra Ann Elisabeth Solbue Valaas, Senterpartiet)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 18,
+          "partier": [
+            "AP 1",
+            "FRP 2",
+            "H 3",
+            "INP 4",
+            "Rødt 1",
+            "SP 6",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 12,
+          "partier": [
+            "AP 7",
+            "H 3",
+            "MDG 1",
+            "SP 1"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Tilleggsforslag fra Rødt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 15,
+          "partier": [
+            "AP 1",
+            "FRP 2",
+            "H 2",
+            "INP 2",
+            "Rødt 1",
+            "SP 6",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 15,
+          "partier": [
+            "AP 7",
+            "H 4",
+            "INP 2",
+            "MDG 1",
+            "SP 1"
+          ]
+        }
+      ],
+      "vinner": "For (etter ordfører dobbeltstemme)",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 24/055",
+  "rodt_fremmet_forslag": true
+}

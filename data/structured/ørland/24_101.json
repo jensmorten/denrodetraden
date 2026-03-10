@@ -1,0 +1,36 @@
+{
+  "tittel": "Stortingsvalget og Sametingsvalget 2025",
+  "innstilling": [
+    "Kommunestyret delegerer myndighet til oppnevning og suppleringsvalg av ansvarlige for stemmingen i det enkelte valglokale til valgstyret",
+    "Oppnevning av valgansvarlig og valgmedarbeidere foretas av valgstyret",
+    "Stortingsvalget og Sametingsvalget 2025 gjennomføres mandag 8. september 2025",
+    "Valget gjennomføres med elektronisk avkryssing i manntallet på valgdagen",
+    "Dagens stemmekretsinndeling opprettholdes"
+  ],
+  "vedtak": [
+    "Kommunestyret delegerer myndighet til oppnevning og suppleringsvalg av ansvarlige for stemmingen i det enkelte valglokale til valgstyret",
+    "Oppnevning av valgansvarlig og valgmedarbeidere foretas av valgstyret",
+    "Stortingsvalget og Sametingsvalget 2025 gjennomføres mandag 8. september 2025",
+    "Valget gjennomføres med elektronisk avkryssing i manntallet på valgdagen",
+    "Dagens stemmekretsinndeling opprettholdes"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "Opprinnelig forslag",
+      "roedt_stoettet": "Opprinnelig forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "29.08.2024",
+  "saksnummer_ps": "24/101",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Status internkontroll 2023: Kommunedirektørens rapport til kommunestyret",
+  "innstilling": "Formannskapet innstilling",
+  "vedtak": "Status internkontroll 2023 tas til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapet innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapet innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapet innstilling",
+      "roedt_stoettet": "Formannskapet innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "24.06.2024",
+  "saksnummer_ps": "PS 83/24",
+  "rodt_fremmet_forslag": false
+}

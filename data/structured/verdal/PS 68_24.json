@@ -1,0 +1,38 @@
+{
+  "tittel": "Sak 68/2024 - Kommunestyrets behandling",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Kommunestyret tar melding om flytting til etterretning. Maria Strømmen har rett til å tre inn i sine verv om hun flytter tilbake innen 1. juni 2026.",
+    "Signar Musum rykker inn som fast medlem i kommunestyret for Fremskrittspartiet.",
+    "Nytt 7. varamedlem i formannskapet/administrasjonsutvalget/valgstyret: Fiona Leigh Gratton (H).",
+    "Nytt medlem i samarbeidsutvalget ved Maritvold barnehage: Torfinn Hofstad (SP)."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "FRP v/Signar Musum",
+      "tekst": "Forslag til punktene 3 og 4: 3. Fiona Leig Gratton (H). 4. Torfinn Hofstad (SP)."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling og forslaget fra Signar Musum",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        },
+        {
+          "navn": "Forslaget fra Signar Musum",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling og forslaget fra Signar Musum enstemmig vedtatt",
+      "roedt_stoettet": null,
+      "roedt_paa_vinner_side": null
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "27.05.2024",
+  "saksnummer_ps": "PS 68/24",
+  "rodt_fremmet_forslag": false
+}

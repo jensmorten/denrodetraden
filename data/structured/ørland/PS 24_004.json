@@ -1,0 +1,24 @@
+{
+  "tittel": "Brukerundersøkelsen 2024 - Pårørendeundersøkelsen",
+  "innstilling": "Ørland kommune, ved kommunestyret tar saken til orientering.",
+  "vedtak": "Ørland kommune, ved kommunestyret tar saken til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "Opprinnelig forslag",
+      "rodt_stoettet": "Opprinnelig forslag",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 24/004",
+  "rodt_fremmet_forslag": false
+}

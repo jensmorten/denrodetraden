@@ -1,0 +1,41 @@
+{
+  "tittel": "Økonomiplan 2025 - 2034 Ørland kommune",
+  "innstilling": "Økonomiplanen for 2025-2034 for Ørland kommune vedtas som framlagt.",
+  "vedtak": "Økonomiplanen for 2025-2034 for Ørland kommune vedtas som framlagt.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra formannskapets møte 06.06.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": {
+            "AP": 8,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "SP": 6,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": {
+            "Rødt": 1
+          }
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "Mot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/071",
+  "rodt_fremmet_forslag": false
+}

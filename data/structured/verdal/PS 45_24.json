@@ -1,0 +1,69 @@
+{
+  "tittel": "PS 45/24 Klubbhus Verdal Idrettslag",
+  "innstilling": {
+    "tekst": "1. Verdal kommune går innvilger et investeringstilskudd på kr 10,7 mill. til realisering av garderobeanlegg tilknyttet nytt klubbhus for Verdal IL. Tilskuddet er øremerket byggeprosjektet og utbetales etter nærmere avtale. Før investeringstilskudd utbetales forutsettes det følgende: a. Signert avtale om bruksrett på det beskrevde arealet i 35 år. b. Godkjent vedtak i Verdal ILs årsmøte c. Godkjent kommunal garanti fra Statsforvalteren. Investeringstilskuddet finansieres med bruk av disposisjonsfond. Vedlagt bruksrettsavtale godkjennes. Kommunedirektøren gis fullmakt til å signere nødvendige dokumenter og gjennomføre utbetaling."
+  },
+  "vedtak": {
+    "tekst": "Verdal kommune innvilger et investeringstilskudd på kr 13,25 mill. til realisering av garderobeanlegg tilknyttet nytt klubbhus for Verdal IL. Tilskuddet er øremerket byggeprosjektet og utbetales etter nærmere avtale. Forutsetning for størrelse på investeringstilskuddet er prosjektets omfang som beskrevet i saksfremlegg i sak PS 64/24 Klubbhus Verdal idrettslag. Før investeringstilskudd utbetales forutsettes det følgende: a. Signert avtale om bruksrett på det beskrevne arealet i 35 år. b. Godkjent vedtak i Verdal ILs årsmøte c. Godkjent kommunal garanti fra Statsforvalteren. 2. Investeringstilskuddet finansieres med bruk av disposisjonsfond. 3. Vedlagt bruksrettsavtale godkjennes. 4. Kommunedirektøren gis fullmakt til å signere nødvendige dokumenter og gjennomføre utbetaling."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Trine Reitan (AP) på vegne av AP/INP/V/R",
+      "tekst": "1. Verdal kommune innvilger et investeringstilskudd på kr 14,7 mill. til realisering av garderobeanlegg tilknyttet nytt klubbhus for Verdal IL. Tilskuddet er øremerket byggeprosjektet og utbetales etter nærmere avtale. Før investeringstilskudd utbetales forutsettes det følgende: a. Signert avtale om bruksrett på det beskrevde arealet i 35 år. b. Godkjent vedtak i Verdal ILs årsmøte c. Godkjent kommunal garanti fra Statsforvalteren. 2. a. 13,5 mill av investeringstilskuddet finansieres av bruk av disposisjonsfond. 2,8 mill av de 13,5 mill med tilbakebetaling med NTE midler. Kommunedirektøren setter opp en fornuftig tilbakebetalingsplan med fremtidige midler fra NTE midler fra 2025 til disposisjonsfondet. b. 1,5 mill tas fra kraftfondet."
+    },
+    {
+      "forslagsstiller": "Arve Haldorsen (VDL)",
+      "tekst": "1. Verdal kommune går innvilger et investeringstilskudd på kr 10,7 mill. til realisering av garderobeanlegg tilknyttet nytt klubbhus for Verdal IL. Tilskuddet er øremerket byggeprosjektet og utbetales etter nærmere avtale. Før investeringstilskudd utbetales forutsettes det følgende: a. Signert avtale om bruksrett på det beskrevde arealet i 35 år. b. Godkjent vedtak i Verdal ILs årsmøte c. Godkjent kommunal garanti fra Statsforvalteren. Investeringstilskuddet finansieres med bruk av disposisjonsfond. Vedlagt bruksrettsavtale godkjennes. Kommunedirektøren gis fullmakt til å signere nødvendige dokumenter og gjennomføre utbetaling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Arve Haldorsen (VDL)",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 3
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 32
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslag fra AP/INP/V/R til pkt. 1 og 2",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 14
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.04.2024",
+  "saksnummer_ps": "PS 45/24",
+  "rodt_fremmet_forslag": false
+}

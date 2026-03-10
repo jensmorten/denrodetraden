@@ -1,0 +1,109 @@
+{
+  "tittel": "Sak 72/2024 - Nytt legesenter i Verdal",
+  "innstilling": "1. Nytt legesenter lokaliseres i sentrum\n2. Kommunestyret gir Kommunedirektør mandat til å utrede\n  a. Alternativ 1 - Legesenter i Framgården\n  b. Alternativ 5 - Utvidelse av/Samlokalisering med Ørmelen legesenter.\n  Frist for forhandlinger knyttet til Ørmelen Legesenter settes til 15.08.24\n  c. Nytt eller annet legesenter i sentrum\n3. Saken vedrørende valg av alternativ legges fram til endelig beslutning i september.\n4. Kommunestyret vil, så langt som økonomisk forsvarlig, ivareta innbyggernes behov for nærtilbud, også når det gjelder legetjenester.\nDet tas opp forhandlinger med legene i Verdal om etablering av legekontordager i i Vuku på det tidspunkt vi har nådd ønsket fast legedekning i kommunen.",
+  "vedtak": "1. Nytt legesenter lokaliseres i sentrum\n2. Kommunestyret gir Kommunedirektør mandat til å utrede\n  a. Alternativ 1 - Legesenter i Framgården\n  b. Alternativ 5 - Utvidelse av/Samlokalisering med Ørmelen legesenter.\n  Frist for forhandlinger knyttet til Ørmelen Legesenter settes til 15.08.24\n  c. Nytt eller annet legesenter i sentrum\n3. Saken vedrørende valg av alternativ legges fram til endelig beslutning i september.\n4. Kommunestyret vil, så langt som økonomisk forsvarlig, ivareta innbyggernes behov for nærtilbud, også når det gjelder legetjenester.\nDet tas opp forhandlinger med legene i Verdal om etablering av legekontordager i i Vuku på det tidspunkt vi har nådd ønsket fast legedekning i kommunen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Roy Anders Berg (VDL)",
+      "tekst": "Forslag om at saken utsettes."
+    },
+    {
+      "forslagsstiller": "Einar Olav Larsen (SP)",
+      "tekst": "1. Nytt legesenter lokaliseres i Vuku.\n2. Kommunedirektøren bes utrede videre alternativ 2a, nytt legesenter i Vuku, da som et 4 legekontor og fortrinnsvis med kommunen som leietaker via avtale med en privat utbygger.\n3. Videre innfasing av nye legehjemler, i tråd med langsiktig målsetting, bør søkes løst med utvidelse av eksisterende legesentre på Verdalsøra/Ørmelen.\n4. 2. etg. ved Vuku bo- og helsetun bes utredet for midlertidig plassering av legekontor, hvis behov for midlertidighet."
+    },
+    {
+      "forslagsstiller": "Brita Torsvik (Venstre)",
+      "tekst": "1. Nytt legesenter etableres i Framgården. Alternativ 1.\n2. Kommunestyret gir Kommunedirektøren mandat til å utrede Utekontor i Vuku som betjenes av legene i Framgården. Alternativ 4."
+    },
+    {
+      "forslagsstiller": "Trine Reitan (AP)",
+      "tekst": "Kommunestyret vil, så langt som økonomisk forsvarlig, ivareta innbyggernes behov for nærtilbud, også når det gjelder legetjenester.\nDet tas opp forhandlinger med legene i Verdal om etablering av legekontordager i i Vuku på det tidspunkt vi har nådd ønsket fast legedekning i kommunen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om utsettelsesforslaget fremmet av Roy Anders Berg (VDL).",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": 8
+        },
+        {
+          "navn": "Mot utsettelse",
+          "stemmer": "flertall"
+        }
+      ],
+      "hvem_vant": "Mot utsettelse",
+      "roedt_stoette": "Mot utsettelse",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering om forslag fra Einar Olav Larsen (SP).",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 11
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 24
+        }
+      ],
+      "hvem_vant": "Mot forslaget",
+      "roedt_stoette": "Mot forslaget",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering om forslag fra Brita Kleven Thorsvik (Venstre).",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 2
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "Mot forslaget",
+      "roedt_stoette": "Mot forslaget",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering om formannskapets innstilling.",
+      "alternativer": [
+        {
+          "navn": "For innstillingen",
+          "stemmer": 26
+        },
+        {
+          "navn": "Mot innstillingen",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "For innstillingen",
+      "roedt_stoette": "Mot innstillingen",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering om AP/Trine Reitans forslag til punkt 4.",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 26
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 9
+        }
+      ],
+      "hvem_vant": "For forslaget",
+      "roedt_stoette": "Mot forslaget",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "27.05.2024",
+  "saksnummer_ps": "PS 72/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,24 @@
+{
+  "tittel": "Kontrollutvalgets årsmelding 2023",
+  "innstilling": "Kommunestyret tar kontrollutvalgets årsmelding for 2023, til orientering.",
+  "vedtak": "Kommunestyret tar kontrollutvalgets årsmelding for 2023, til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "Opprinnelig forslag",
+          "stemmer": 31
+        }
+      ],
+      "hvem_vant": "Opprinnelig forslag",
+      "roedt_stoettet": "Opprinnelig forslag",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "30.05.2024",
+  "saksnummer_ps": "PS 24/052",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,27 @@
+{
+  "tittel": "Omdanning av samarbeid - Vertskommunesamarbeid innen geodata og oppmåling",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Kommunestyret godkjenner avtale om vertskommunesamarbeid innen geodata og oppmåling mellom Levanger - og Verdal kommune.",
+    "Avtalen gjøres gjeldende når den er vedtatt i begge kommuner og undertegnet av kommunedirektørene."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.08.2024",
+  "saksnummer_ps": "PS 92/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,27 @@
+{
+  "tittel": "PS 82/24 Orientering demensomsorg",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Saken til orientering",
+    "Kommunestyret ønsker en oppdatert orientering om demensomsorgen til høsten, i forkant av budsjett- og økonomiplanprosess."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "24.06.2024",
+  "saksnummer_ps": "PS 82/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,28 @@
+{
+  "tittel": "PS 130/24 Fritidssenteret , Gnr/bnr 19/72",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Kommunedirektøren gis fullmakt til å starte salgsprosessen av Fritidssenteret.",
+    "Før salg finner sted skal dagens brukere av Fritidssenteret få tilbud om ett alternativt lokale for sin aktivitet. Tilbud til brukere skal være gitt innen 01.05.24.",
+    "Overføring til ny eier skjer tidligst 15.08.25 slik at dagens brukere får være i dagens lokaler fram til sommerferien 2025."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 130/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,27 @@
+{
+  "tittel": "PS 51/24 Oppfølging av vedtak om bokbuss",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Saken tas til orientering.",
+    "Kommunedirektøren gis fullmakt til å benytte øremerket ramme til biblioteket for 2024 i tråd med saksutredningen."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.04.2024",
+  "saksnummer_ps": "PS 51/24",
+  "rodt_fremmet_forslag": false
+}

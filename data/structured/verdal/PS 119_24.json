@@ -1,0 +1,33 @@
+{
+  "tittel": "Skolestart høsten 2025 for elever ved Leksdal og Stiklestad skole",
+  "innstilling": "Alle elever og ansatte ved Leksdal og Stiklestad skole vil starte sammen ved Stiklestad skole, skolestarten høsten 2025, for å sikre en god overgang til ny, felles skole.",
+  "vedtak": "Alle elever og ansatte ved Leksdal og Stiklestad skole vil starte sammen ved Stiklestad skole, skolestarten høsten 2025, for å sikre en god overgang til ny, felles skole.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Verdalslista v/Arve Haldorsen",
+      "tekst": "Elever og ansatte ved Leksdal skole starter ved nye Stiklestad skole høsten 2026. Dette for å unngå to flyttinger for elevene."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Alternativ votering mellom formannskapets innstilling og forslaget fra Verdalslista",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": 30
+        },
+        {
+          "navn": "Forslaget fra Verdalslista (VDL)",
+          "stemmer": 5
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "28.10.2024",
+  "saksnummer_ps": "PS 119/24",
+  "rodt_fremmet_forslag": false
+}

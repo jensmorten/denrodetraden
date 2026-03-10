@@ -1,0 +1,31 @@
+{
+  "tittel": "Kommunestyrets behandling av sak 57/2024 i møte den 27.05.2024",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": [
+    "Verdal kommunes årsregnskap 2023 vedtas med et regnskapsmessig resultat i balanse etter bruk av disposisjonsfond.",
+    "Netto driftsresultat er 0,51 mill. kr.",
+    "Disposisjonsfond 31.12.23 er 157,5 mill. kr.",
+    "Samlet langsiktig gjeld pr 31.12.23 er 3,8 mrd. kr.",
+    "Årsberetning for 2023 fra kommunedirektør vedtas.",
+    "Finansrapportering i årsberetningen tas til orientering."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Formannskapets innstilling",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": "Formannskapets innstilling",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "27.05.2024",
+  "saksnummer_ps": "PS 57/24",
+  "rodt_fremmet_forslag": false
+}

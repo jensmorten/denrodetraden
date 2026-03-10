@@ -1,0 +1,40 @@
+{
+  "tittel": "Representasjon i Ørland Eldreråd - Pensjonistforbundet Ørland",
+  "innstilling": "1. Pensjonistforbundet Ørland tiltrer med 1 medlem og 1 varamedlem i Ørland Eldreråd, etter at navnene er innmeldt til Ørland kommune. Kandidatene velges deretter i neste kommunestyremøte.\n2. Rådet har i dag fire kvinner og tre menn som medlemmer. Som varamedlemmer er valgt fire menn og tre kvinner. Det oppfordres derfor til å melde inn 1 mannlig kandidat som medlem og 1 kvinne som varamedlem.",
+  "vedtak": "1. Pensjonistforbundet Ørland tiltrer med 1 medlem og 1 varamedlem i Ørland Eldreråd, etter at navnene er innmeldt til Ørland kommune. Kandidatene velges deretter i neste kommunestyremøte.\n2. Rådet har i dag fire kvinner og tre menn som medlemmer. Som varamedlemmer er valgt fire menn og tre kvinner. Det oppfordres derfor til å melde inn 1 mannlig kandidat som medlem og 1 kvinne som varamedlem.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag på vegne av H, SP, INP, V og FRP",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": [
+            "AP",
+            "FRP",
+            "H",
+            "INP",
+            "MDG",
+            "Rødt",
+            "SP",
+            "SV",
+            "V"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0,
+          "partier": []
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "18.04.2024",
+  "saksnummer_ps": "24/040",
+  "rodt_fremmet_forslag": false
+}

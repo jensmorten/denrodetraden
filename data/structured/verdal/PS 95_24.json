@@ -1,0 +1,29 @@
+{
+  "tittel": "PS 95/24 Interpellasjon fra Ragnhild Iversen (AP) og Fredrik Grevskott (AP) - NTE utbyttemodell",
+  "innstilling": null,
+  "vedtak": "Oversendelsesforslag:\nVerdal kommune skal aktiv gå i dialog med de andre eierkommunene, med mål å sikre flertall til å øke utbytte innenfor rammene avtalen allerede har. Sak sendes deretter til politisk behandling.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "AP v/Grevskott",
+      "tekst": "Verdal kommune skal aktiv gå i dialog med de andre eierkommunene, med mål å sikre flertall til å øke utbytte innenfor rammene avtalen allerede har. Sak sendes deretter til politisk behandling."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over AP v/Grevskotts oversendelsesforslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.08.2024",
+  "saksnummer_ps": "PS 95/24",
+  "rodt_fremmet_forslag": false
+}

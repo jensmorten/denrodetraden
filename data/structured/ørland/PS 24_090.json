@@ -1,0 +1,28 @@
+{
+  "tittel": "Forslag til planstrategi for Ørland kommune 2024 - 2027",
+  "innstilling": "I medhold av plan- og bygningsloven § 10-1 vedtar kommunestyret å sende forslag til planstrategi for Ørland kommune 2024 – 2027 på høring og legge forslaget ut til offentlig ettersyn.",
+  "vedtak": "I medhold av plan- og bygningsloven § 10-1 vedtar kommunestyret å sende forslag til planstrategi for Ørland kommune 2024 – 2027 på høring og legge forslaget ut til offentlig ettersyn.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoettet": "For",
+      "rodt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "20.06.2024",
+  "saksnummer_ps": "PS 24/090",
+  "rodt_fremmet_forslag": false
+}

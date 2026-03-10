@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 49/24 Kommunale målsettinger for hjorteviltforvaltningen i Verdal kommune",
+  "innstilling": "Innstillingen fra utvalg for utmarkssaker",
+  "vedtak": "Kommunestyret vedtar målsettinger for hjorteviltforvaltningen som fremlagt, med de endringer som anbefales i høringsuttalelsen fra Trøndelag fylkeskommune",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over innstillingen fra utvalg for utmarkssaker",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "29.04.2024",
+  "saksnummer_ps": "PS 49/24",
+  "rodt_fremmet_forslag": false
+}

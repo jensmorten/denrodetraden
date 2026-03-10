@@ -1,0 +1,24 @@
+{
+  "tittel": "PS 137/24 Ny selskapsavtale for Konsek Trøndelag IKS fra 1.1.2025",
+  "innstilling": "Formannskapets innstilling",
+  "vedtak": "Kommunestyret vedtar ny selskapsavtale for Konsek Trøndelag fra 1. januar 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "16.12.2024",
+  "saksnummer_ps": "PS 137/24",
+  "rodt_fremmet_forslag": false
+}

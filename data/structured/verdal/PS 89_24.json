@@ -1,0 +1,101 @@
+{
+  "tittel": "PS 89/24 Rekrutteringsanlegg for friidrett i Verdal",
+  "innstilling": {
+    "1": "Kommunedirektøren bes inngå en leie-/bruksavtale med Levanger kommune slik at friidretten har tilgang på et erstatningsareal til treninger og konkurranser på et fullskala friidrettsanlegg på Moan.",
+    "2": "Kommunedirektøren bes inngå samarbeid med fylkeskommunen om utvikling av en flerbruksflate av gjenværende restareal av grus-/isbanen ved Verdal Videregående skole",
+    "3": "Friidretten gis et tilskudd på 150 000kr årlig for å styrke aktiviteten, rekruttering og transportkostnader m.m. Tilskudd innarbeides i budsjett og økonomiplan."
+  },
+  "vedtak": {
+    "1": "Kommunedirektøren bes inngå en leie-/bruksavtale med Levanger kommune slik at friidretten har tilgang på et erstatningsareal til treninger og konkurranser på et fullskala friidrettsanlegg på Moan.",
+    "2": "Kommunedirektøren bes inngå samarbeid med fylkeskommunen om utvikling av en flerbruksflate av gjenværende restareal av grus-/isbanen ved Verdal Videregående skole",
+    "3": "Friidretten gis et tilskudd på 150 000kr årlig for å styrke aktiviteten, rekruttering og transportkostnader m.m. Tilskudd innarbeides i budsjett og økonomiplan."
+  },
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "V",
+      "tekst": "Nytt punkt 3, som er i samsvar med kommunedirektørens innstilling punkt 1. Alternativ 2 velges som erstatningsareal for tidligere aktivitetsflate ved Verdal bo- og behandlingssenter. Ved å gjøre dette vil det være tilrettelagt nærmiljøanlegg for friidrett ved alle de kommunale skolene i kommunen."
+    },
+    {
+      "forslagsstiller": "H",
+      "tekst": "1. Kommunedirektøren bes inngå en leie-/bruksavtale med Levanger kommune slik at friidretten har tilgang på et erstatningsareal til treninger og konkurranser på et fullskala friidrettsanlegg på Moan.\n2. Kommunedirektøren bes inngå samarbeid med fylkeskommunen om utvikling av en flerbruksflate av gjenværende restareal av grus-/isbanen ved Verdal Videregående skole\n3. Friidretten gis et tilskudd på 150 000kr årlig for å styrke aktiviteten, rekruttering og transportkostnader m.m. Tilskudd innarbeides i budsjett og økonomiplan."
+    },
+    {
+      "forslagsstiller": "VDL",
+      "tekst": "Verdal kommune bygger et fullskala fridrettsanlegg ved Stiklestad nye skole. 400m x 6 baner. Hekk, vanngrav og naturgress på indre bane for kastøvelser, løp og hoppøvelser."
+    },
+    {
+      "forslagsstiller": "INP",
+      "tekst": "1. Alternativ 1 velges som erstatningsareal for tidligere aktivitetsflate ved Verdal bo- og behandlingssenter. Dette arbeides inn i Budsjett og økonomiplan for 2030.\n2. Kommunedirektøren bes inngå leie-/bruksavtale med Levanger kommune slik at friidretten har tilgjengelige forhold til treninger og konkurranser på et fullskala friidrettsanlegg inntil erstatningsareal er ferdigstilt."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over VDL sitt forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 8
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering over INP sitt forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 1
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 33
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Vinner"
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling alternativt mot forslaget fra H",
+      "alternativer": [
+        {
+          "navn": "For formannskapets innstilling",
+          "stemmer": 14
+        },
+        {
+          "navn": "For Høyres forslag",
+          "stemmer": 20
+        }
+      ],
+      "hvem_vant": "For Høyres forslag",
+      "roedt_stoette": "For formannskapets innstilling",
+      "roedt_side": "Taper"
+    },
+    {
+      "beskrivelse": "Votering over Venstre sitt forslag til nytt pkt. 3",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 8
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 26
+        }
+      ],
+      "hvem_vant": "Mot",
+      "roedt_stoette": "Mot",
+      "roedt_side": "Vinner"
+    }
+  ],
+  "kommune": "verdal",
+  "dato": "26.08.2024",
+  "saksnummer_ps": "PS 89/24",
+  "rodt_fremmet_forslag": false
+}

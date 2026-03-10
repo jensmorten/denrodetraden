@@ -1,0 +1,62 @@
+{
+  "tittel": "Oppfølging av pålegg fra Arbeidstilsynet - Utbedring arbeidsplass og arbeidslokaler for hjemmetjenesten Brekstad",
+  "innstilling": "1. Det settes av 3.2 MNOK til ombygging av eksisterende lokaler til hjemmetjenesten sone Brekstad. Dette for å sikre at arbeidstakerne får tilfredsstillende arbeidsforhold i henhold til pålegg fra Arbeidstilsynet, datert 30.10.23.\n2. Investeringen tas i saldering på investeringsbudsjettet for 2024.",
+  "vedtak": "1. Det settes av 3.2 MNOK til ombygging av eksisterende lokaler til hjemmetjenesten sone Brekstad. Dette for å sikre at arbeidstakerne får tilfredsstillende arbeidsforhold i henhold til pålegg fra Arbeidstilsynet, datert 30.10.23.\n2. Investeringen tas i saldering på investeringsbudsjettet for 2024.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Formannskapet sin innstilling fra møte 07.03.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": {
+            "AP": 8,
+            "FRP": 1,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Innstilling fra utvalg helse og familie i møte 06.03.24",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 7,
+          "partier": {
+            "AP": 2,
+            "H": 1,
+            "INP": 1,
+            "SP": 2,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": null,
+      "roedt_side": "ikke til stede"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "21.03.2024",
+  "saksnummer_ps": "PS 24/027",
+  "rodt_fremmet_forslag": false
+}
