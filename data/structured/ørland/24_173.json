@@ -1,0 +1,123 @@
+{
+  "tittel": "Anmodning om bosetting av flyktninger for 2025",
+  "innstilling": [
+    "Ørland kommune imøtekommer anmodningen fra Integrerings- og mangfoldsdirektoratet med en ambisjon om å bosette 50 flyktninger i 2025.",
+    "Ørland kommune har kapasitet til å bosette totalt 50 flyktninger om det blir et økende behov i 2025.",
+    "Ørland kommune vedtar å kunne bosette enslige mindreårige flyktninger med følgeperson.",
+    "Ørland kommune setter ubrukt integreringstilskudd for 2025 på fond for å dekke fremtidige utgifter til flyktninger."
+  ],
+  "vedtak": [
+    "Ørland kommune imøtekommer anmodningen fra Integrerings- og mangfoldsdirektoratet med en ambisjon om å bosette 50 flyktninger i 2025.",
+    "Ørland kommune har kapasitet til å bosette totalt 50 flyktninger om det blir et økende behov i 2025.",
+    "Ørland kommune vedtar å kunne bosette enslige mindreårige flyktninger med følgeperson.",
+    "Ørland kommune setter ubrukt integreringstilskudd for 2025 på fond for å dekke fremtidige utgifter til flyktninger.",
+    "Ørland kommune setter i gang arbeidet med å se på ordninger med statlig kompensering for å sette i stand aktuelle boliger vi allerede har, eller finne andre løsninger som gir større kapasitet på kommunale boliger. Kommunestyret ber administrasjonen komme tilbake til med en sak på dette til kommunestyret i mars 2025."
+  ],
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Ann Elisabeth Solbue Valaas, Senterpartiet",
+      "tekst": "Ørland kommune setter i gang arbeidet med å se på ordninger med statlig kompensering for å sette i stand aktuelle boliger vi allerede har, eller finne andre løsninger som gir større kapasitet på kommunale boliger. Kommunestyret ber administrasjonen komme tilbake til med en sak på dette til kommunestyret i mars 2025."
+    },
+    {
+      "forslagsstiller": "Ann Elisabeth Solbue Valaas, Senterpartiet (forslag trukket av Gunnar Hofstad, Industri- og Næringspartiet)",
+      "tekst": "Punkt 2 utgår, og erstattes med nytt forslag (kalt punkt 5)."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag: Punkt 2 utgår, og erstattes med nytt forslag (kalt punkt 5.) fra Ann Elisabeth Solbue Valaas",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 17,
+          "partier": [
+            "AP 6",
+            "FRP 2",
+            "H 5",
+            "INP 4"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 14,
+          "partier": [
+            "AP 2",
+            "H 1",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Opprinnelig forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 30,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 5",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 1,
+          "partier": [
+            "H 1"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over forslag: Nytt punkt 5",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": [
+            "AP 8",
+            "FRP 2",
+            "H 4",
+            "INP 4",
+            "MDG 1",
+            "Rødt 1",
+            "SP 7",
+            "SV 1",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2,
+          "partier": [
+            "H 2"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "19.12.2024",
+  "saksnummer_ps": "24/173",
+  "rodt_fremmet_forslag": false
+}

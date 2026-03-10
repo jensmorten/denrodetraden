@@ -1,0 +1,41 @@
+{
+  "tittel": "Budsjett 2025 Ørland kommune - presisering av budsjettvedtak",
+  "innstilling": "Budsjettvedtakets punkt “Inndekning” endres til:\nInvesteringsbudsjettet endres som følger:\nProsjektet “Kjøp av omsorgsboliger” reduseres med 1,3 mill kroner\nProsjektet “Nye kinomaskiner” Roret KF økes med 1,3 mill kroner\nGrunnet budsjettforliket i Stortinget foreslås følgende endring:\nRammetilskuddet økes med 2,0 mill kroner\nSFO (grunnskolen) økes med 1,0 mill kroner\nBarnehager økes med 1,0 mill kroner",
+  "vedtak": "Budsjettvedtakets punkt “Inndekning” endres til:\nInvesteringsbudsjettet endres som følger:\nProsjektet “Kjøp av omsorgsboliger” reduseres med 1,3 mill kroner\nProsjektet “Nye kinomaskiner” Roret KF økes med 1,3 mill kroner\nGrunnet budsjettforliket i Stortinget foreslås følgende endring:\nRammetilskuddet økes med 2,0 mill kroner\nSFO (grunnskolen) økes med 1,0 mill kroner\nBarnehager økes med 1,0 mill kroner",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 20,
+          "partier": [
+            "FRP 2",
+            "H 6",
+            "INP 4",
+            "SP 7",
+            "V 1"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 11,
+          "partier": [
+            "AP 8",
+            "MDG 1",
+            "Rødt 1",
+            "SV 1"
+          ]
+        }
+      ],
+      "hvem_vant": "For",
+      "rodt_stoette": "Mot",
+      "rodt_side": "taper"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "19.12.2024",
+  "saksnummer_ps": "24/170",
+  "rodt_fremmet_forslag": false
+}

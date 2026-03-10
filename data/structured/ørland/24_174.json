@@ -1,0 +1,41 @@
+{
+  "tittel": "Spillemidler - prioritering av søknader for 2025",
+  "innstilling": "Søknader om spillemidler prioriteres i samme rekkefølge som idrettsrådets prioriteringsrekkefølge for spillemidler 2025.",
+  "vedtak": "Søknader om spillemidler prioriteres i samme rekkefølge som idrettsrådets prioriteringsrekkefølge for spillemidler 2025.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 29,
+          "partier": [
+            "AP",
+            "FRP",
+            "H",
+            "INP",
+            "MDG",
+            "SP",
+            "V"
+          ]
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 2,
+          "partier": [
+            "Rødt",
+            "SV"
+          ]
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "Mot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "19.12.2024",
+  "saksnummer_ps": "24/174",
+  "rodt_fremmet_forslag": false
+}

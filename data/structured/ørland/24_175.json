@@ -1,0 +1,45 @@
+{
+  "tittel": "Sak fra kontrollutvalget til kommunestyret - plan for forvaltningsrevisjon 2024 - 2028",
+  "innstilling": [
+    "Kommunestyret vedtar plan for forvaltningsrevisjon 2024-2028 og slutter seg til kontrollutvalgets prioriteringer.",
+    "Kommunestyret delegerer myndighet til kontrollutvalget til å gjøre endringer i planen eller gjennomføre kontroller av ikke-prioriterte selskaper som følge av endringer i risikobilde og kontrollutvalget anser dette som nødvendig."
+  ],
+  "vedtak": [
+    "Kommunestyret vedtar plan for forvaltningsrevisjon 2024-2028 og slutter seg til kontrollutvalgets prioriteringer.",
+    "Kommunestyret delegerer myndighet til kontrollutvalget til å gjøre endringer i planen eller gjennomføre kontroller av ikke-prioriterte selskaper som følge av endringer i risikobilde og kontrollutvalget anser dette som nødvendig."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 31,
+          "partier": {
+            "AP": 8,
+            "FRP": 2,
+            "H": 6,
+            "INP": 4,
+            "MDG": 1,
+            "Rødt": 1,
+            "SP": 7,
+            "SV": 1,
+            "V": 1
+          }
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoette": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "ørland",
+  "dato": "19.12.2024",
+  "saksnummer_ps": "24/175",
+  "rodt_fremmet_forslag": false
+}
