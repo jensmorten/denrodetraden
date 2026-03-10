@@ -1,0 +1,24 @@
+{
+  "tittel": "Fritidskort - Verbalvedtak 5",
+  "innstilling": "Rådmannens forslag til vedtak legges til grunn",
+  "vedtak": "Melhus kommunestyre ber Rådmannen legge inn Fritidskort som et uprioritert tiltak i Økonomi- og handlingsplanen for 2025-2028.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "21.05.2024",
+  "saksnummer_ps": "PS 48/24",
+  "rodt_fremmet_forslag": false
+}

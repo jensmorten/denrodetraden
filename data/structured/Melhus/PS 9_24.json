@@ -1,0 +1,29 @@
+{
+  "tittel": "Prosjekt Dagsturhytte i Melhus kommune",
+  "innstilling": "Formannskapets innstillig legges til grunn.",
+  "vedtak": [
+    "Melhus kommune stiller seg positiv til å være med i prosjektet dagsturhytta Trøndelag.",
+    "Melhus kommune forplikter seg til å delta i anskaffelsen som opsjon i påvente av eventuelt politisk vedtak og budsjettmessig forankring. Opsjonen gir kommunen rett, men ingen plikt til å anskaffe dagsturhytte",
+    "Det legges frem en egen sak som viser forpliktelsene kommunen har i prosjektet.",
+    "Gitt positivt vedtak legges tiltaket inn i økonomi og handlingsplan 2025-2028."
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "13.02.2024",
+  "saksnummer_ps": "PS 9/24",
+  "rodt_fremmet_forslag": false
+}

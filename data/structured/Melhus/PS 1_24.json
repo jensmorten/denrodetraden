@@ -1,0 +1,41 @@
+{
+  "tittel": "Ungdomsrådets Årsmelding 2023",
+  "innstilling": "Saken tas til orientering.",
+  "vedtak": "Kommunestyret tar saken til orientering med følgende tillegg om at Ungdomsrådet møteprotokoller legges ut på kommunes møtekalender på lik linje med protokollen fra andre råd og utvalg.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Jørn Ove Moen (Ap) på vegne av Ap",
+      "tekst": "Ungdomsrådets møteprotokoller legges ut på kommunens møtekalender på lik linje med protokollene fra andre råd og utvalg."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om at saken tas til orientering.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering om tillegg om at Ungdomsrådets møteprotokoller legges ut på kommunens møtekalender.",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "13.02.2024",
+  "saksnummer_ps": "PS 1/24",
+  "rodt_fremmet_forslag": false
+}

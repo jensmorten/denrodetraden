@@ -1,0 +1,45 @@
+{
+  "tittel": "Regionrådet i Trondheimsregionen",
+  "innstilling": "Formannskapets innstilling legges til grunn",
+  "vedtak": "Melhus kommune tar saken til orientering, og støtter at det settes i gang en strategiprosess for samarbeidet i Trondheimsregionen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Marius Krogstad Aune (H) på vegne av Høyre, Fremskrittspartiet og Pensjonistpartiet",
+      "tekst": "Melhus kommune mener det er viktig å delta i samarbeidet i Trondheimsregionen. Det er samtidig viktig at det unngås store økninger i kommunenes medlemsavgift til Trondheimsregionen, slik at medlemsavgiften holdes på et hensiktsmessig nivå."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Formannskapets innstilling",
+      "roedt_stoettet": true,
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over tilleggsforslag fra Marius Krogstad Aune (H) på vegne av Høyre, Fremskrittspartiet og Pensjonistpartiet",
+      "alternativer": [
+        {
+          "navn": "For forslaget",
+          "stemmer": 3
+        },
+        {
+          "navn": "Mot forslaget",
+          "stemmer": 14
+        }
+      ],
+      "hvem_vant": "Mot forslaget",
+      "roedt_stoettet": false,
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "19.03.2024",
+  "saksnummer_ps": "PS 19/24",
+  "rodt_fremmet_forslag": false
+}

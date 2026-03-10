@@ -1,0 +1,24 @@
+{
+  "tittel": "Søknad om fritak fra politiske verv",
+  "innstilling": "Valgnemndas innstilling legges til grunn.",
+  "vedtak": "Cato Arnvidsønn Sannes (H) innvilges fritak fra sine politiske verv i kommunestyret og Utvalg for helse, oppvekst og kultur i perioden 13.02.2024 og ut perioden. Vedtaket fattes jf Kommunelovens §7-9. I perioden 13.02.2024-ut perioden er følgende gjeldene: Som 6. representant for Høyre i kommunestyret inntrer Vidar Olaf Krogh-Albertsen og som 7. representant rykker 1. vara Hanne Aarhaug opp som fast representant. Som fast medlem til Utvalget for helse, oppvekst og kultur inntrer Hanne Aarhaug som fast medlem. Ny 3. vara Ragnar Vigdal og ny 6. vara Kai Kvaal.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om innstilling fra valgnemnda",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "13.02.2024",
+  "saksnummer_ps": "PS 6/24",
+  "rodt_fremmet_forslag": false
+}

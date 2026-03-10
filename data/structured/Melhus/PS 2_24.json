@@ -1,0 +1,53 @@
+{
+  "tittel": "Fagerheim øst PlanID 2019004",
+  "innstilling": "Formannskapet innstilling legges til grunn",
+  "vedtak": "Melhus kommune vedtar med hjemmel i plan- og bygningsloven § 12-12 Detaljregulering Fagerheim øst, planid 2019004, som vist i vedlagte planbestemmelser, plankart og planbeskrivelse.\n2: Følgende tillegg innarbeides i planens rekkefølgebestemmelser:\nDetaljert plan for flytting av matjord godkjent av landbruksmyndigheten skal foreligge før tillatelse til tiltak kan gis. Planen må inneholde en flytting fortrinnsvis til ikke-dyrkbart areal, og i forholdet 1:1 for å opprettholde det totale arealet med dyrka jord i kommunen.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Rune Sunset (Sp) på vegne av Sp, KrF, Ap og Sv",
+      "tekst": "Følgende tillegg innarbeides i planens rekkefølgebestemmelser:\nDetaljert plan for flytting av matjord godkjent av landbruksmyndigheten skal foreligge før tillatelse til tiltak kan gis. Planen må inneholde en flytting fortrinnsvis til ikke-dyrkbart areal, og i forholdet 1:1 for å opprettholde det totale arealet med dyrka jord i kommunen."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering punkt 1",
+      "alternativer": [
+        {
+          "navn": "Vedtak",
+          "stemmer": "ukjent, men vedtatt mot 11 stemmer"
+        }
+      ],
+      "hvem_vant": "Vedtak",
+      "roedt_stoettet": "ukjent",
+      "roedt_side": "ukjent"
+    },
+    {
+      "beskrivelse": "Votering punkt 2",
+      "alternativer": [
+        {
+          "navn": "Vedtak",
+          "stemmer": 0
+        }
+      ],
+      "hvem_vant": "Ingen (votering falt enstemmig)",
+      "roedt_stoettet": "ukjent",
+      "roedt_side": "ukjent"
+    },
+    {
+      "beskrivelse": "Votering forslag ved Rune Sunset (Sp) på vegne av Sp, KrF, Ap og Sv",
+      "alternativer": [
+        {
+          "navn": "Forslaget vedtatt",
+          "stemmer": 21
+        }
+      ],
+      "hvem_vant": "Forslaget vedtatt",
+      "roedt_stoettet": "ukjent",
+      "roedt_side": "ukjent"
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "13.02.2024",
+  "saksnummer_ps": "PS 2/24",
+  "rodt_fremmet_forslag": false
+}

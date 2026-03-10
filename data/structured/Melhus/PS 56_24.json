@@ -1,0 +1,41 @@
+{
+  "tittel": "Forskrift om skoleregler Melhus kommune",
+  "innstilling": "Formannskapets innstilling legges til grunn",
+  "vedtak": "Forskrift om skoleregler (Ordensreglement) i Melhus kommune vedtas og gjøres gjeldende fra 01.08.2024 med følgende endringer: Siste kulepunkt i paragraf 5: 1. setning: bytte ut ordet orden med ordet oppførsel. Første kulepunkt paragraf 4: tilføyelse: ..være ærlig og høflig.. Tillegg, nytt punkt: Det skal ikke brukes sjikanerende ord og uttrykk mot andre. Endre overskrift på paragraf 5 til: «Tiltak ved brudd på felles og lokale ordens- og oppførselsregler»",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kjetil Blokkum (H) på vegne av Høyre, Melhuslista, Pensjonistpartiet og Fremskrittspartiet",
+      "tekst": "Tillegg, nytt punkt: Det skal ikke brukes sjikanerende ord og uttrykk mot andre. Endre overskrift på paragraf 5 til: «Tiltak ved brudd på felles og lokale ordens- og oppførselsregler»"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Kjetil Blokkum (H) på vegne av Høyre, Melhuslista, Pensjonistpartiet og Fremskrittspartiet",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "Enstemmig vedtatt",
+          "stemmer": "alle"
+        }
+      ],
+      "hvem_vant": "Enstemmig vedtatt",
+      "roedt_stoettet": "Enstemmig vedtatt",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "21.05.2024",
+  "saksnummer_ps": "PS 56/24",
+  "rodt_fremmet_forslag": false
+}

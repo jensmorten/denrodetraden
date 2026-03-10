@@ -1,0 +1,24 @@
+{
+  "tittel": "Kontrollutvalgets årsmelding 2023",
+  "innstilling": "Rådmannens forslag til vedtak legges til grunn",
+  "vedtak": "Kommunestyret tar kontrollutvalgets årsmelding 2023 til orientering.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens forslag til vedtak",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "19.03.2024",
+  "saksnummer_ps": "PS 23/24",
+  "rodt_fremmet_forslag": false
+}

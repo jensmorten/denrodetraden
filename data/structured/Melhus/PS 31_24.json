@@ -1,0 +1,45 @@
+{
+  "tittel": "PS 31/24 Skredfare- og områdestabilitetsvurdering - Kvål 2023-2024 - tilleggsbevilgning",
+  "innstilling": "Formannskapets innstilling legges til grunn",
+  "vedtak": "Melhus kommune går for minimumsalternativet med totalkostnad på 1 800 000 som tilsvarer tidligere bevilgninger på totalt 1,8 millioner. Da vil skisseområde 2 og 3, som naturlig hører sammen, være med i den endelige rapporten. Minimumsalternativet medfører ikke behov for ytterligere bevilgninger.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Kaare Qvenild (ML) på vegne av Melhuslista",
+      "tekst": "Melhus kommune vedtar skredfare- og områdestabilitetsvurdering for Kvål med tilleggsalternativ B. Da vil skisseområde 2, 3 og 5 være med i den endelige rapporten. En komplett kartlegging vil være sentral i arbeidet med en områdeplan på Kvål, og vil dekke både øst- og vestsiden av Gaula. En slik vurdering vil også være viktig i arbeidet med kommuneplanens arealdel (KPA). Kostnadsrammen fastsettes med en totalsum inntil 3 800 000. Tilleggsbevilling ut over avsatte midler finansieres med bruk fra disposisjonsfondet. Dersom det oppnås tildeling av tilskuddsmidler fra NVE, brukes dette til å redusere bruken av disposisjonsfondet"
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over forslag fra Kaare Qvenild (ML) på vegne av Melhuslista om tilleggsalternativ B med kostnadsramme inntil 3 800 000",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": 10
+        },
+        {
+          "navn": "Imot",
+          "stemmer": "ukjent, men flertall"
+        }
+      ],
+      "hvem_vant": "Imot (formannskapets innstilling)",
+      "roedt_stoettet": "For",
+      "roedt_side": "taper"
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling som ble vedtatt",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "flertall"
+        }
+      ],
+      "hvem_vant": "For (formannskapets innstilling)",
+      "roedt_stoettet": "Imot",
+      "roedt_side": "taper"
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "23.04.2024",
+  "saksnummer_ps": "PS 31/24",
+  "rodt_fremmet_forslag": false
+}

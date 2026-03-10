@@ -1,0 +1,27 @@
+{
+  "tittel": "PS 32/24 Kraftfond og Næringsfond Melhus kommune - Årsmelding 2023",
+  "innstilling": "Rådmannens innstilling legges til grunn",
+  "vedtak": [
+    "Kommunestyret tar årsmelding for kraftfond og næringsfond 2023 til orientering",
+    "I tråd med vedtektene for kraftfondet oversendes gjenpart av årsmeldingen til Statsforvalteren i Trøndelag og Trøndelag Fylkeskommune"
+  ],
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over rådmannens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "23.04.2024",
+  "saksnummer_ps": "PS 32/24",
+  "rodt_fremmet_forslag": false
+}

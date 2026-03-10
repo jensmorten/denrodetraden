@@ -1,0 +1,24 @@
+{
+  "tittel": "Samlokalisering av helsestasjonene i Melhus kommune",
+  "innstilling": null,
+  "vedtak": "Saken utsettes til neste kommunestyre",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Behandling av sak 46/2024 om samlokalisering av helsestasjonene",
+      "alternativer": [
+        {
+          "navn": "Utsettelse",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "Utsettelse",
+      "roedt_stoettet": "Utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "21.05.2024",
+  "saksnummer_ps": "PS 46/24",
+  "rodt_fremmet_forslag": false
+}

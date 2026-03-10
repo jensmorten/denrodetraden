@@ -1,0 +1,24 @@
+{
+  "tittel": "Forskrift om skolefritidsordning i Melhus kommune",
+  "innstilling": "Formannskapets innstilling legges til grunn",
+  "vedtak": "Forskrift om skolefritidsordning i Melhus kommune vedtas og gjøres gjeldende fra 01.08.2024.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "21.05.2024",
+  "saksnummer_ps": "PS 55/24",
+  "rodt_fremmet_forslag": false
+}

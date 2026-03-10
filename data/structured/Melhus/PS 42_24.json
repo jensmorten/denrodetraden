@@ -1,0 +1,41 @@
+{
+  "tittel": "Revidering av politisk reglement og delegeringsreglement",
+  "innstilling": "Formannskapets innstilling legges til grunn",
+  "vedtak": "Melhus kommunestyre vedtar politisk reglement sammen med gjeldende delegeringsreglement for perioden 2024-2028 med følgende tillegg og endringer:\n- Tillegg til punkt 3.4 etter siste setning i første avsnitt: Tidsbruken til spørsmål og interpellasjoner bør ikke overstige 45 minutter ved hvert kommunestyremøte.\n- Nytt punkt 3.10 Åpen spørretime for andre enn kommunestyrets medlemmer: Før kommunestyrets møte settes kan det gjennomføres inntil 30 minutter offentlig spørretid i møtesalen. Alle personer bosatt i Melhus kan stille spørsmål. Kommunestyrets medlemmer kan ikke delta med spørsmål. Spørsmålene bør være korte og må gjelde kommunale forhold. Personlige saker, saker under ordinær klagebehandling og saker som er unntatt offentlighet skal ikke tas opp, og vil bli avvist. Spørsmål skal leveres ordfører 10 virkedager før møtet avholdes. Ordningen gjelder ikke for møter der en behandler årsbudsjett og økonomiplan. Spørsmålsstiller skal selv framføre spørsmålet fra talerstolen. Spørsmålsstiller har inntil 5 minutter til å legge fram spørsmålet. Spørsmålene besvares av ordfører eller den ordfører utpeker. Etter at spørsmålet er besvart kan det gis en replikk hver til spørsmålsstiller og den som besvarer.\n- Endring til punkt 3.4.1 i reglementet: Punktet endres til: Når det i forbindelse med interpellasjon settes frem et forslag til vedtak som ønskes realitetsbehandlet, så gjelder reglene § 11-3 om saklisten og saksavvikling i kommuneloven. Dersom interpellasjonen som sendes i forkant av møtet inneholder forslag til et slag vedtak som f.eks. at kommunestyret skal gi en uttalelse eller gjøre en bevilgning, er det ikke lenger en interpellasjon. Den vil være en «sak» som skal behandles etter § 11-3 første ledd. Enkeltmedlemmer har ikke rett til å kreve at denne typen sak settes på sakslisten, da retten kun gjelder for interpellasjoner/spørsmål.",
+  "alternative_forslag": [
+    {
+      "forslagsstiller": "Einar Gimse-Syrstad (Ap) på vegne av Ap, Sp, KrF og SV",
+      "tekst": "Endringsforslag til punkt 3.4.1 i reglementet. Punktet endres til: Når det i forbindelse med interpellasjon settes frem et forslag til vedtak som ønskes realitetsbehandlet, så gjelder reglene § 11-3 om saklisten og saksavvikling i kommuneloven. Dersom interpellasjonen som sendes i forkant av møtet inneholder forslag til et slag vedtak som f.eks. at kommunestyret skal gi en uttalelse eller gjøre en bevilgning, er det ikke lenger en interpellasjon. Den vil være en «sak» som skal behandles etter § 11-3 første ledd. Enkeltmedlemmer har ikke rett til å kreve at denne typen sak settes på sakslisten, da retten kun gjelder for interpellasjoner/spørsmål."
+    }
+  ],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering over endringsforslag fra Einar Gimse-Syrstad (Ap) på vegne av Ap, Sp, KrF og SV",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    },
+    {
+      "beskrivelse": "Votering over formannskapets innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "Enstemmig"
+        }
+      ],
+      "vinner": "For",
+      "roedt_stoette": "For",
+      "roedt_side": "vinner"
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "21.05.2024",
+  "saksnummer_ps": "PS 42/24",
+  "rodt_fremmet_forslag": false
+}

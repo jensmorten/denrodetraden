@@ -1,0 +1,28 @@
+{
+  "tittel": "Interpellasjon - Boligpolitikk - Karin Jordan Rutlin - INP",
+  "innstilling": null,
+  "vedtak": "Interpellasjonen utsettes til neste kommunestyremøte.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Vedtak om utsettelse av interpellasjon",
+      "alternativer": [
+        {
+          "navn": "For utsettelse",
+          "stemmer": null
+        },
+        {
+          "navn": "Mot utsettelse",
+          "stemmer": null
+        }
+      ],
+      "hvem_vant": "For utsettelse",
+      "roedt_stoettet": "For utsettelse",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "19.03.2024",
+  "saksnummer_ps": "PS 29/24",
+  "rodt_fremmet_forslag": false
+}

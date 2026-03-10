@@ -1,0 +1,24 @@
+{
+  "tittel": "Reglement for kontrollutvalget",
+  "innstilling": "Rådmannens innstillig legges til grunn",
+  "vedtak": "Kommunestyret vedtar reglement for kontrollutvalget i Melhus kommune.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om rådmannens innstilling",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "enstemmig"
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "13.02.2024",
+  "saksnummer_ps": "PS 3/24",
+  "rodt_fremmet_forslag": false
+}

@@ -1,0 +1,28 @@
+{
+  "tittel": "PS 33/24 Utredningsmandat Mobilitetsanbud Stor-Trondheim 2029",
+  "innstilling": "Formannskapets innstilling legges til grunn",
+  "vedtak": "Melhus kommune støtter Trøndelag fylkeskommunes utkast til utredningsmandat for mobilitetsanbud for stor-Trondheim 2029. Kommunestyret gir ordfører mandat til å forhandle fram felles forslag til utredningsmandat i Miljøpakkens kontaktutvalg.",
+  "alternative_forslag": [],
+  "voteringer": [
+    {
+      "beskrivelse": "Votering om vedtaket",
+      "alternativer": [
+        {
+          "navn": "For",
+          "stemmer": "ukjent, men flertall"
+        },
+        {
+          "navn": "Mot",
+          "stemmer": 3
+        }
+      ],
+      "hvem_vant": "For",
+      "roedt_stoettet": "For",
+      "roedt_paa_vinner_side": true
+    }
+  ],
+  "kommune": "melhus",
+  "dato": "23.04.2024",
+  "saksnummer_ps": "PS 33/24",
+  "rodt_fremmet_forslag": false
+}
