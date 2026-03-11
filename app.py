@@ -256,6 +256,7 @@ def search_similar_cases(tekst, kommune):
     - Svar konkret på saken.
     - Bruk korte avsnitt og maks 3–5 punktlister totalt.
     - Referer alltid Kommune og sak til slutt når du referere en sak (i slikt format: kilde: Kommune, Saksnummer.)
+    - Referer KUN til saker i fil-søket, ikke finn på andre saker eller nevn saker fra andre kommuner enn Frøya, Hitra, Levanger, Malvik, Melhus, Orkland, Ørland, Røros, Stjørdal, Trondheim, Verdal. 
 
     Oppgaver (ikke referer til oppgavene direkte, men svar sømløst):
     1. Gi en kort oppsummering (maks 5–6 linjer) av saken eller sakene.
@@ -296,7 +297,7 @@ if analyse_knapp:
         with st.spinner("Leser PDF..."):
             full_text = extract_text_from_pdf(uploaded_file)
 
-        with st.spinner("Splitter i saker..."):
+        with st.spinner("Leser sak(er)..."):
             cases = split_cases_with_llm(full_text)
 
         st.success(f"Fant {len(cases)} saker.")
