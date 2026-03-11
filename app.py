@@ -205,6 +205,7 @@ def search_by_topic(topic, kommune):
     - Svar konkret på saken.
     - Bruk korte avsnitt og maks 3–5 punktlister totalt.
     - Referer alltid Kommune og sak til slutt når du referere en sak (i slikt format: kilde: Kommune, Saksnummer.)
+    - Referer KUN til saker i fil-søket, ikke finn på andre saker eller nevn saker fra andre kommuner enn Frøya, Hitra, Levanger, Malvik, Melhus, Orkland, Ørland, Røros, Stjørdal, Trondheim, Verdal. 
 
     Oppgave:
     - Finn relevante saker om temaet
